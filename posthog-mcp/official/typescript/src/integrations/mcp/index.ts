@@ -271,6 +271,19 @@ export default {
 			);
 		}
 
+		// Infrozix tweak: setup check. Reports only whether each secret is present,
+		// never its value, so a non-developer can confirm the Cloudflare settings.
+		if (url.pathname === "/status") {
+			return Response.json({
+				build: "infrozix-1",
+				POSTHOG_BASE_URL: env.POSTHOG_BASE_URL || null,
+				ACCESS_TOKEN_set: Boolean(env.ACCESS_TOKEN),
+				ACCESS_TOKEN_long_enough: (env.ACCESS_TOKEN || "").length >= 24,
+				POSTHOG_API_KEY_set: Boolean(env.POSTHOG_API_KEY),
+				POSTHOG_API_KEY_looks_valid: (env.POSTHOG_API_KEY || "").startsWith("phx_"),
+			});
+		}
+
 		// Infrozix tweak: Claude Enterprise custom connectors can't send a PostHog
 		// API key header, and our self-hosted PostHog can't do the OAuth login
 		// flow. So the connector URL carries a secret ACCESS_TOKEN

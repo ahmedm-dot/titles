@@ -13,6 +13,7 @@ and deploys it straight from this GitHub repo, all in the browser.
 |---|---|---|
 | `typescript/src/integrations/mcp/index.ts` | When the `ACCESS_TOKEN` secret is set, the server accepts requests at `/mcp/<ACCESS_TOKEN>` and uses the `POSTHOG_API_KEY` secret. Any other path returns 404. | Claude Enterprise connectors can't send an API-key header, and our PostHog is too old for the OAuth login. Without `ACCESS_TOKEN`, upstream header auth works as before. |
 | `typescript/src/integrations/mcp/utils/client.ts` | Telemetry turned into a no-op. | Upstream sends every tool call, **including its inputs, outputs and errors**, to PostHog Inc.'s US cloud as usage analytics. That would copy our data off our own server. |
+| `typescript/src/integrations/mcp/index.ts` | `/status` page showing whether each secret is set (true/false only, never values). | Lets a non-developer confirm the Cloudflare settings. |
 | `typescript/wrangler.jsonc` | Worker name `posthog-mcp`, `POSTHOG_BASE_URL=https://ph.infrozix.com`. | Point at our instance. |
 | `typescript/worker-configuration.d.ts` | Added types for the two secrets. | Build. |
 
@@ -120,6 +121,7 @@ Each person goes to **Settings → Connectors → PostHog (Infrozix) → Connect
 |---|---|
 | Build fails with a message about the Worker name | The name in step 2 must be `posthog-mcp`. |
 | Build fails with "root directory not found" | Cloudflare built the repo's default branch, which doesn't have this folder. In the Worker, go to **Settings → Build → Branch control**, set **Production branch** to this folder's branch, then push a commit or start a new build. **Retry build** reuses the old branch. |
+| Claude can't connect, or "No token provided" | Open `https://posthog-mcp.<your-subdomain>.workers.dev/status`. Every `_set` value must be `true`. If one is `false`, add it under **Settings → Variables and Secrets** (runtime secrets, not **Build** variables) and click **Deploy**. If `/status` shows 404, Cloudflare is building an old commit or the wrong branch. |
 | Claude can't connect / 404 | Check the URL ends with `/mcp/` plus the exact ACCESS_TOKEN. |
 | "POSTHOG_API_KEY is not set" | Add the secret (step 3) and deploy again. |
 | "Failed to get API key … 401" | The key is wrong or deleted. Create a new one. |
