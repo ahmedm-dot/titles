@@ -1,0 +1,50 @@
+# Self-hosted PostHog MCP server for https://ph.infrozix.com, exposed to
+# Claude (Enterprise custom connector) at https://${MCP_DOMAIN}/mcp.
+#
+#   cp .env.example .env   # then edit
+#   docker compose up -d
+#   ./scripts/check.sh
+services:
+  mcp:
+    # Built by PostHog from services/mcp/Dockerfile in the PostHog monorepo.
+    # Pin MCP_IMAGE_TAG to a sha-xxxxxxx tag once you have a working version.
+    image: ghcr.io/posthog/posthog-mcp:${MCP_IMAGE_TAG:-master}
+    restart: unless-stopped
+    environment:
+      NODE_ENV: production
+      PORT: "3001"
+      # API calls go here. Can be an internal URL if the MCP box sits next to PostHog.
+      POSTHOG_API_BASE_URL: ${POSTHOG_API_BASE_URL}
+      # Public PostHog URL: used for links in answers AND as the OAuth
+      # authorization server Claude sends users to. Must be https.
+      POSTHOG_PUBLIC_URL: ${POSTHOG_PUBLIC_URL}
+      MCP_APPS_BASE_URL: https://${MCP_DOMAIN}
+      REDIS_URL: redis://redis:6379
+    depends_on:
+      - redis
+    expose:
+      - "3001"
+
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    command: ["redis-server", "--save", "", "--appendonly", "no"]
+
+  caddy:
+    image: caddy:2
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    environment:
+      MCP_DOMAIN: ${MCP_DOMAIN}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on:
+      - mcp
+
+volumes:
+  caddy_data:
+  caddy_config:

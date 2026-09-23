@@ -1,0 +1,12 @@
+# TLS is issued automatically by Let's Encrypt once DNS for MCP_DOMAIN
+# points at this host and ports 80/443 are open.
+{$MCP_DOMAIN} {
+	# Prometheus metrics are for internal scraping only.
+	@internal path /metrics
+	respond @internal 404
+
+	reverse_proxy mcp:3001 {
+		# MCP uses long-lived streaming responses.
+		flush_interval -1
+	}
+}
