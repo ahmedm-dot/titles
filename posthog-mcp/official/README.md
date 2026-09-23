@@ -119,6 +119,7 @@ Each person goes to **Settings → Connectors → PostHog (Infrozix) → Connect
 | Symptom | Fix |
 |---|---|
 | Build fails with a message about the Worker name | The name in step 2 must be `posthog-mcp`. |
+| Build fails with "root directory not found" | Cloudflare built the repo's default branch, which doesn't have this folder. In the Worker, go to **Settings → Build → Branch control**, set **Production branch** to this folder's branch, then push a commit or start a new build. **Retry build** reuses the old branch. |
 | Claude can't connect / 404 | Check the URL ends with `/mcp/` plus the exact ACCESS_TOKEN. |
 | "POSTHOG_API_KEY is not set" | Add the secret (step 3) and deploy again. |
 | "Failed to get API key … 401" | The key is wrong or deleted. Create a new one. |
