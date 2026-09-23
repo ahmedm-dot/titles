@@ -1,9 +1,17 @@
 # PostHog MCP connector for Claude Enterprise (self-hosted PostHog)
 
-> **No developer or server access?** Use [`worker/`](worker/README.md)
-> instead: a free Cloudflare Worker you set up in a browser in about 15
-> minutes, using one read-only PostHog API key. The rest of this page is the
-> full per-user-login setup, which needs PostHog server changes.
+> **No developer or server access?** Pick one of these instead. Both run on a
+> free Cloudflare Worker, are set up in a browser, and use one read-only
+> PostHog API key:
+>
+> - [`official/`](official/README.md) (**recommended**): PostHog's official
+>   MCP server with a small tweak. It has the full set of read tools and is
+>   deployed from GitHub by Cloudflare.
+> - [`worker/`](worker/README.md): a minimal single-file connector (8 tools)
+>   you paste into Cloudflare's editor.
+>
+> The rest of this page is the per-user-login setup, which needs PostHog
+> server changes.
 
 Connects the organization's Claude Enterprise account to the self-hosted
 PostHog instance at `https://ph.infrozix.com`. Claude's built-in PostHog
