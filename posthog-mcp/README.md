@@ -118,8 +118,7 @@ Notes:
   }
   ```
   The key needs read access to dashboards, insights and queries
-  (`dashboard:read`, `insight:read`, `query:read`) on project 1. Without
-  `query:read`, dashboards load but queries return 403.
+  (`dashboard:read`, `insight:read`, `query:read`) on project 1.
 - **Org-wide without dynamic registration:** register an OAuth application by
   hand in PostHog (Django admin → OAuth applications) with redirect URI
   `https://claude.ai/api/mcp/auth_callback`, authorization-code grant and PKCE.
