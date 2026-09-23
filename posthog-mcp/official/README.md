@@ -27,9 +27,22 @@ flags, experiments and results, surveys and stats, and error tracking.
 
 Verified here: installs from the lockfile, passes the type check, bundles with
 `wrangler deploy --dry-run` (216 KB gzipped), rejects wrong or missing tokens
-with 404, and on a correct token loads the stored key and calls PostHog. This
-sandbox's network blocks the local Worker runtime from reaching
-ph.infrozix.com, so the first full live run happens on Cloudflare.
+with 404, and on a correct token loads the stored key and calls PostHog.
+
+Live-tested on 2026-09-23 against ph.infrozix.com (local Worker runtime, no
+code changes needed). These read tools all returned real data: projects,
+organization details, dashboards (list, get), insights (list, get, run saved
+insight), `query-run` (HogQL and Trends), event definitions, event and person
+properties, feature flags, experiments, surveys (list, get, stats), error
+tracking and LLM costs. Known limit: `query-generate-hogql-from-question`
+returns `ai/failure` because it needs PostHog AI, which isn't set up on our
+instance. Claude can still write HogQL itself and run it with `query-run`.
+No request goes to PostHog's cloud: `POSTHOG_BASE_URL` skips upstream's
+US/EU region lookup, and telemetry is a no-op.
+
+The server shows Claude exactly the tools the key's scopes allow. A key with
+any **Write** scope also gets create, update and delete tools for that area,
+so give only Read scopes (step 1 below).
 
 ---
 
