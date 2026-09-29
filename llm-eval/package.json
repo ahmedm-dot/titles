@@ -8,5 +8,8 @@
   },
   "devDependencies": {
     "promptfoo": "0.123.1"
+  },
+  "dependencies": {
+    "@typesafe-ai/sdk": "0.6.0"
   }
 }
