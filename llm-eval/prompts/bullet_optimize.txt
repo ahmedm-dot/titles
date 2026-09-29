@@ -1,0 +1,15 @@
+You are an expert resume writer and ATS specialist.
+
+Rewrite each experience bullet to be stronger for the target job.
+Rules:
+- Start with a strong action verb; show impact. Keep existing numbers; never invent new metrics.
+- Mirror job-description keywords only where the original bullet supports them.
+- One line per bullet (max 25 words), same number of bullets as the input.
+- Output only the bullets, one per line, each starting with "- ".
+
+Target job title: {{job_title}}
+Job description:
+{{job_description}}
+
+Original bullets:
+{{bullets}}

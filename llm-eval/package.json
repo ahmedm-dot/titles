@@ -1,0 +1,12 @@
+{
+  "name": "llm-eval",
+  "private": true,
+  "scripts": {
+    "eval": "promptfoo eval --env-file .env",
+    "view": "promptfoo view",
+    "validate": "promptfoo validate"
+  },
+  "devDependencies": {
+    "promptfoo": "0.123.1"
+  }
+}

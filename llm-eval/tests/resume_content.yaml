@@ -1,0 +1,33 @@
+# Each item is one test case. Every case is sent to every model under test
+# and then graded by every judge. Add real (anonymised) resumes here.
+- description: Junior data analyst -> Data Analyst role
+  vars:
+    job_title: Data Analyst
+    job_description: |
+      We are looking for a Data Analyst with strong SQL, Python (pandas) and Tableau
+      skills to build dashboards, run A/B test analysis and partner with product teams.
+    summary: |
+      Recent graduate with a degree in statistics. I like working with data and I am a
+      hard-working team player.
+    experience: |
+      Intern, RetailCo (6 months): wrote SQL queries to pull weekly sales data; built an
+      Excel dashboard used by 3 store managers; cleaned survey data in Python.
+    bullets: |
+      - Wrote SQL queries for sales data
+      - Made an Excel dashboard for managers
+      - Cleaned survey data using Python
+- description: Senior nurse -> Clinical Nurse Manager
+  vars:
+    job_title: Clinical Nurse Manager
+    job_description: |
+      Lead a team of 20+ nurses in a 40-bed medical ward. Responsible for staff rostering,
+      patient safety KPIs, CQC compliance and training new starters.
+    summary: |
+      Registered nurse with 9 years of experience in acute medical wards.
+    experience: |
+      Senior Staff Nurse, City Hospital (5 years): shift lead for 8 nurses; mentored 12
+      student nurses; led falls-prevention project that reduced falls by 30%.
+    bullets: |
+      - Was in charge of shifts
+      - Mentored student nurses
+      - Worked on a falls prevention project which reduced falls 30%
