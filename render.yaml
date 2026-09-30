@@ -1,0 +1,23 @@
+# Render Blueprint: self-hosted promptfoo UI for llm-eval/ (Dashboard -> New -> Blueprint).
+services:
+  - type: web
+    name: llm-eval
+    runtime: docker
+    dockerContext: ./llm-eval/deploy
+    dockerfilePath: ./llm-eval/deploy/Dockerfile
+    plan: starter            # a persistent disk needs a paid instance
+    region: frankfurt
+    healthCheckPath: /healthz
+    autoDeploy: true
+    buildFilter:
+      paths:
+        - llm-eval/deploy/**
+    disk:
+      name: promptfoo-data
+      mountPath: /data
+      sizeGB: 1
+    envVars:
+      - key: BASIC_AUTH_USER
+        value: team
+      - key: BASIC_AUTH_PASSWORD
+        generateValue: true  # Render creates a random password; copy it from the Environment tab

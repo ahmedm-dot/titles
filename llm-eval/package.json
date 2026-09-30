@@ -6,7 +6,8 @@
     "view": "promptfoo view",
     "validate": "promptfoo validate",
     "demo": "node demo/run-demo.mjs && node scripts/summary.mjs output/demo-results.json",
-    "summary": "node scripts/summary.mjs output/results.json"
+    "summary": "node scripts/summary.mjs output/results.json",
+    "share": "promptfoo share --env-file .env"
   },
   "devDependencies": {
     "promptfoo": "0.123.1",

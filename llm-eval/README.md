@@ -23,6 +23,7 @@ test case (resume + JD) ─┬─> GPT    ─┐
 | `judges/jev.mjs` | Jev (TypeSafe AI) judge |
 | `scripts/summary.mjs` | model comparison table: average score per judge, head-to-head wins |
 | `demo/` | fake models and judges for `npm run demo` (no keys, no cost) |
+| `deploy/` | password-protected promptfoo UI for Render (`render.yaml` at the repo root) |
 
 ## Try it with no API keys (demo)
 
@@ -56,6 +57,41 @@ Head-to-head winners come from `npm run summary`, which compares the judges' sco
 GPT and Gemini on each prompt x test case. promptfoo's own `select-best` isn't used: it
 runs only one judge per test, mixes different prompts into one comparison, and marks the
 losing output as failed, which would distort the pass rate.
+
+## Host the UI on Render (for the team)
+
+One Render web service runs the promptfoo UI behind a password, with results stored on
+a Render persistent disk so they survive deploys. You run evals on your machine (or in CI)
+and upload each run with `npm run share`.
+
+**One-time setup**
+1. Render Dashboard -> **New -> Blueprint** -> connect this repo. Render reads `render.yaml`
+   and creates the `llm-eval` service (Starter plan, needed for the disk; 1 GB disk).
+2. When it's live, open the service's **Environment** tab and copy `BASIC_AUTH_PASSWORD`
+   (Render generated it). The username is `team`.
+3. Open `https://llm-eval.onrender.com` (or the URL Render shows). The browser asks for
+   the username and password.
+
+**Upload a run**
+Add to your `.env` (the password goes inside the URL):
+```
+PROMPTFOO_REMOTE_API_BASE_URL=https://team:YOUR_RENDER_PASSWORD@llm-eval.onrender.com
+PROMPTFOO_REMOTE_APP_BASE_URL=https://llm-eval.onrender.com
+```
+Then:
+```bash
+npm run eval       # or: npm run demo
+npm run share      # uploads the latest run and prints its link
+```
+
+**Notes**
+- The promptfoo UI has no login of its own; `deploy/auth-proxy.mjs` is the only thing
+  protecting it. Only `/healthz` (Render's health check, returns "ok") is public.
+- Keep the promptfoo version in `deploy/Dockerfile` and `package.json` the same, so
+  uploads match what the server expects.
+- To change the password, edit `BASIC_AUTH_PASSWORD` on Render, then update your `.env`.
+- Real CVs are personal data. Share the password only with people who should see them,
+  and use anonymised CVs in `tests/` where you can.
 
 ## Adding a feature (cover letter, LinkedIn headline, job-match score...)
 
