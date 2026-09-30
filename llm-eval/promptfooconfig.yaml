@@ -20,6 +20,7 @@ tests: file://tests/resume_content.yaml
 
 # 4) Judges (Claude, Jev, GPT) - every output is graded by every judge. Each judge gets its own metric,
 #    so the report shows per-judge scores plus the combined pass rate.
+#    Head-to-head winners (which model each judge scored higher) come from `npm run summary`.
 defaultTest:
   assert:
     # --- Absolute scoring: each judge grades each output on the same rubric ---
@@ -34,6 +35,16 @@ defaultTest:
           - it ignores the formatting rules in the prompt (length, bullet count, no preamble)
         Otherwise score 0-1 on: relevance to the job and keyword coverage (40%),
         impact and clarity (30%), faithfulness to the input (20%), grammar and tone (10%).
+
+        <CandidateInput>
+        Target job: {{job_title}}
+        Job description: {{job_description}}
+        Summary: {{summary}}
+        Experience: {{experience}}
+        Bullets: {{bullets}}
+        </CandidateInput>
+        The output is either a rewritten summary (3-4 sentences, max 70 words) or rewritten
+        bullets (same count as the input, max 25 words each, each starting with "- ").
     # Jev (TypeSafe AI) returns probabilities rather than text, so it runs as a custom check
     - type: javascript
       metric: judge_jev
@@ -51,15 +62,15 @@ defaultTest:
         Otherwise score 0-1 on: relevance to the job and keyword coverage (40%),
         impact and clarity (30%), faithfulness to the input (20%), grammar and tone (10%).
 
-    # --- Head-to-head: each judge picks the best output across GPT vs Gemini ---
-    - type: select-best
-      provider: anthropic:messages:claude-sonnet-5
-      metric: winner_by_claude
-      value: Which output would most improve this candidate's chance of passing ATS screening and getting an interview, without inventing anything?
-    - type: select-best
-      provider: openai:chat:gpt-5.1
-      metric: winner_by_gpt
-      value: Which output would most improve this candidate's chance of passing ATS screening and getting an interview, without inventing anything?
+        <CandidateInput>
+        Target job: {{job_title}}
+        Job description: {{job_description}}
+        Summary: {{summary}}
+        Experience: {{experience}}
+        Bullets: {{bullets}}
+        </CandidateInput>
+        The output is either a rewritten summary (3-4 sentences, max 70 words) or rewritten
+        bullets (same count as the input, max 25 words each, each starting with "- ").
 
     # --- Free deterministic guard: no numbers that are not in the input (hallucinated metrics) ---
     - type: javascript

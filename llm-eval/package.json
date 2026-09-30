@@ -2,12 +2,15 @@
   "name": "llm-eval",
   "private": true,
   "scripts": {
-    "eval": "promptfoo eval --env-file .env",
+    "eval": "promptfoo eval --env-file .env -o output/results.json output/report.html",
     "view": "promptfoo view",
-    "validate": "promptfoo validate"
+    "validate": "promptfoo validate",
+    "demo": "node demo/run-demo.mjs && node scripts/summary.mjs output/demo-results.json",
+    "summary": "node scripts/summary.mjs output/results.json"
   },
   "devDependencies": {
-    "promptfoo": "0.123.1"
+    "promptfoo": "0.123.1",
+    "js-yaml": "^5.4.1"
   },
   "dependencies": {
     "@typesafe-ai/sdk": "0.6.0"

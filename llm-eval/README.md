@@ -12,7 +12,6 @@ test case (resume + JD) ─┬─> GPT    ─┐
                          └─> Gemini ─┴─> judges: Claude, Jev, GPT
                                            - llm-rubric  -> 0-1 score (judge_claude, judge_gpt)
                                            - Jev         -> 0-1 score (judge_jev)
-                                           - select-best -> which model won (winner_by_claude/gpt)
                                            - JS check    -> no invented numbers
 ```
 
@@ -22,19 +21,41 @@ test case (resume + JD) ─┬─> GPT    ─┐
 | `prompts/*.txt` | production prompts under test (`{{vars}}` get filled from test cases) |
 | `tests/*.yaml` | test cases: anonymised resumes and job descriptions |
 | `judges/jev.mjs` | Jev (TypeSafe AI) judge |
+| `scripts/summary.mjs` | model comparison table: average score per judge, head-to-head wins |
+| `demo/` | fake models and judges for `npm run demo` (no keys, no cost) |
 
-## Run it
+## Try it with no API keys (demo)
+
+```bash
+cd llm-eval
+npm install
+npm run demo        # fake GPT/Gemini outputs, fake Claude/GPT judges, local fake Jev API
+npm run view        # full web UI at http://localhost:15500
+```
+`.env.demo` holds dummy keys only. The demo runs the real config, the real Jev judge
+code and the real TypeSafe SDK; only the model calls are fake. It writes a standalone
+report to `output/demo-report.html`. The demo's scores come from a simple keyword/number
+heuristic, so they show how the report works, not how good GPT or Gemini really is.
+
+## Run it for real
 
 ```bash
 cd llm-eval
 npm install
 cp .env.example .env        # add OPENAI_API_KEY, GOOGLE_API_KEY, ANTHROPIC_API_KEY, TYPESAFE_API_KEY
 npm run eval                # runs every prompt x model x test case, then every judge
+npm run summary             # which model wins, per judge
 npm run view                # opens the web UI: side-by-side outputs, per-judge scores
 ```
 
-Useful flags: `npx promptfoo eval --filter-providers Gemini`, `--repeat 3` (checks
-stability), `-o output/results.csv` (export for a spreadsheet), `--no-cache`.
+`npm run eval` also saves `output/results.json` and a standalone `output/report.html`
+you can share. Useful flags: `npm run eval -- --filter-providers Gemini`, `--repeat 3`
+(checks stability), `-o output/results.csv` (spreadsheet export), `--no-cache`.
+
+Head-to-head winners come from `npm run summary`, which compares the judges' scores for
+GPT and Gemini on each prompt x test case. promptfoo's own `select-best` isn't used: it
+runs only one judge per test, mixes different prompts into one comparison, and marks the
+losing output as failed, which would distort the pass rate.
 
 ## Adding a feature (cover letter, LinkedIn headline, job-match score...)
 
@@ -58,7 +79,7 @@ asks it three questions about every output:
 Because Jev returns a probability instead of an opinion in words, it is the most
 consistent of the three judges from run to run. It also has no stake in GPT vs Gemini,
 so it's a good neutral tie-breaker next to Claude. It scores each output on its own, so it
-doesn't take part in the head-to-head `select-best` step. Set `TYPESAFE_DEFAULT_MODEL`
+is compared through `npm run summary` like the other judges. Set `TYPESAFE_DEFAULT_MODEL`
 to pin a model version (the default is `jev-latest`).
 
 ## Judge design notes
