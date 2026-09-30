@@ -7,7 +7,8 @@
     "validate": "promptfoo validate",
     "demo": "node demo/run-demo.mjs && node scripts/summary.mjs output/demo-results.json",
     "summary": "node scripts/summary.mjs output/results.json",
-    "share": "promptfoo share --env-file .env"
+    "upload": "node scripts/upload.mjs output/results.json",
+    "upload:demo": "node scripts/upload.mjs output/demo-results.json"
   },
   "devDependencies": {
     "promptfoo": "0.123.1",

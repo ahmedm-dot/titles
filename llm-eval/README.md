@@ -23,7 +23,8 @@ test case (resume + JD) ─┬─> GPT    ─┐
 | `judges/jev.mjs` | Jev (TypeSafe AI) judge |
 | `scripts/summary.mjs` | model comparison table: average score per judge, head-to-head wins |
 | `demo/` | fake models and judges for `npm run demo` (no keys, no cost) |
-| `deploy/` | password-protected promptfoo UI for Render (`render.yaml` at the repo root) |
+| `web/` | team UI on Vercel: runs, winners, outputs and judge reasons |
+| `scripts/upload.mjs` | uploads a run to the web app |
 
 ## Try it with no API keys (demo)
 
@@ -58,40 +59,46 @@ GPT and Gemini on each prompt x test case. promptfoo's own `select-best` isn't u
 runs only one judge per test, mixes different prompts into one comparison, and marks the
 losing output as failed, which would distort the pass rate.
 
-## Host the UI on Render (for the team)
+## Team UI on Vercel
 
-One Render web service runs the promptfoo UI behind a password, with results stored on
-a Render persistent disk so they survive deploys. You run evals on your machine (or in CI)
-and upload each run with `npm run share`.
+`web/` is a small Next.js app that shows each uploaded run: the winner, pass rate and
+average score per judge for each model, head-to-head wins, and every output side by side
+with each judge's score and reason. It's password protected, and runs are stored in a
+**private** Vercel Blob store, so CVs never get a public URL.
 
-**One-time setup**
-1. Render Dashboard -> **New -> Blueprint** -> connect this repo. Render reads `render.yaml`
-   and creates the `llm-eval` service (Starter plan, needed for the disk; 1 GB disk).
-2. When it's live, open the service's **Environment** tab and copy `BASIC_AUTH_PASSWORD`
-   (Render generated it). The username is `team`.
-3. Open `https://llm-eval.onrender.com` (or the URL Render shows). The browser asks for
-   the username and password.
+(promptfoo's own UI can't run on Vercel: it needs a long-running server and a database on
+disk. `npm run view` still works locally.)
 
-**Upload a run**
-Add to your `.env` (the password goes inside the URL):
+**One-time setup (free Hobby plan, no card)**
+1. Vercel -> **Add New -> Project** -> import `ahmedm-dot/titles`.
+   Set **Root Directory** to `llm-eval/web`. Framework: Next.js (auto-detected).
+2. Before deploying, add environment variables:
+   - `BASIC_AUTH_PASSWORD`: a long random password (12+ characters)
+   - `BASIC_AUTH_USER`: optional, defaults to `team`
+3. Deploy. Then **Storage -> Create -> Blob**, choose **Private**, connect it to the
+   project, and **redeploy** (this adds `BLOB_READ_WRITE_TOKEN`).
+4. Open the project URL; the browser asks for the username and password.
+
+Note: Vercel's Hobby plan is for personal, non-commercial use. For company use, move the
+project to a Pro team, or host `web/` elsewhere (only `web/lib/store.js` touches Vercel).
+
+**Upload a run** — add to `llm-eval/.env`:
 ```
-PROMPTFOO_REMOTE_API_BASE_URL=https://team:YOUR_RENDER_PASSWORD@llm-eval.onrender.com
-PROMPTFOO_REMOTE_APP_BASE_URL=https://llm-eval.onrender.com
+EVAL_UI_URL=https://your-project.vercel.app
+EVAL_UI_PASSWORD=the password from step 2
 ```
 Then:
 ```bash
-npm run eval       # or: npm run demo
-npm run share      # uploads the latest run and prints its link
+npm run eval && npm run upload        # real run
+npm run demo && npm run upload:demo   # demo run
 ```
+Only what the UI needs is uploaded: inputs, outputs, pass/fail and judge scores/reasons.
 
-**Notes**
-- The promptfoo UI has no login of its own; `deploy/auth-proxy.mjs` is the only thing
-  protecting it. Only `/healthz` (Render's health check, returns "ok") is public.
-- Keep the promptfoo version in `deploy/Dockerfile` and `package.json` the same, so
-  uploads match what the server expects.
-- To change the password, edit `BASIC_AUTH_PASSWORD` on Render, then update your `.env`.
-- Real CVs are personal data. Share the password only with people who should see them,
-  and use anonymised CVs in `tests/` where you can.
+**Run the web app locally**
+```bash
+cd web && npm install
+BASIC_AUTH_PASSWORD=local-dev-password npm run dev   # http://localhost:3000, runs saved in web/.data/
+```
 
 ## Adding a feature (cover letter, LinkedIn headline, job-match score...)
 
