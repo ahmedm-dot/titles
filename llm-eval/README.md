@@ -23,7 +23,7 @@ test case (resume + JD) ─┬─> GPT    ─┐
 | `judges/jev.mjs` | Jev (TypeSafe AI) judge |
 | `scripts/summary.mjs` | model comparison table: average score per judge, head-to-head wins |
 | `demo/` | fake models and judges for `npm run demo` (no keys, no cost) |
-| `web/` | team UI on Vercel: runs, winners, outputs and judge reasons |
+| `web/` | team UI on Netlify: runs, winners, outputs and judge reasons |
 | `scripts/upload.mjs` | uploads a run to the web app |
 
 ## Try it with no API keys (demo)
@@ -59,32 +59,29 @@ GPT and Gemini on each prompt x test case. promptfoo's own `select-best` isn't u
 runs only one judge per test, mixes different prompts into one comparison, and marks the
 losing output as failed, which would distort the pass rate.
 
-## Team UI on Vercel
+## Team UI on Netlify
 
 `web/` is a small Next.js app that shows each uploaded run: the winner, pass rate and
 average score per judge for each model, head-to-head wins, and every output side by side
-with each judge's score and reason. It's password protected, and runs are stored in a
-**private** Vercel Blob store, so CVs never get a public URL.
+with each judge's score and reason. It's password protected, and runs are stored in
+**Netlify Blobs**, which only this site's server code can read, so CVs never get a
+public URL. Netlify's free plan needs no card and allows commercial use.
 
-(promptfoo's own UI can't run on Vercel: it needs a long-running server and a database on
+(promptfoo's own UI can't run on Netlify: it needs a long-running server and a database on
 disk. `npm run view` still works locally.)
 
-**One-time setup (free Hobby plan, no card)**
-1. Vercel -> **Add New -> Project** -> import `ahmedm-dot/titles`.
-   Set **Root Directory** to `llm-eval/web`. Framework: Next.js (auto-detected).
-2. Before deploying, add environment variables:
-   - `BASIC_AUTH_PASSWORD`: a long random password (12+ characters)
-   - `BASIC_AUTH_USER`: optional, defaults to `team`
-3. Deploy. Then **Storage -> Create -> Blob**, choose **Private**, connect it to the
-   project, and **redeploy** (this adds `BLOB_READ_WRITE_TOKEN`).
-4. Open the project URL; the browser asks for the username and password.
+**One-time setup**
+1. Netlify -> **Add new project -> Import an existing project** -> GitHub ->
+   `ahmedm-dot/titles`, branch `claude/ecstatic-hypatia-0gk154`.
+   Build settings come from `netlify.toml` at the repo root (base `llm-eval/web`).
+2. Before deploying, add an environment variable: `BASIC_AUTH_PASSWORD` = a long random
+   password (12+ characters). Optional: `BASIC_AUTH_USER` (defaults to `team`).
+3. Deploy. Netlify Blobs needs no setup; it's created on first upload.
+4. Open the site URL; the browser asks for the username and password.
 
-Note: Vercel's Hobby plan is for personal, non-commercial use. For company use, move the
-project to a Pro team, or host `web/` elsewhere (only `web/lib/store.js` touches Vercel).
-
-**Upload a run** — add to `llm-eval/.env`:
+**Upload a run**: add to `llm-eval/.env`:
 ```
-EVAL_UI_URL=https://your-project.vercel.app
+EVAL_UI_URL=https://your-site.netlify.app
 EVAL_UI_PASSWORD=the password from step 2
 ```
 Then:
