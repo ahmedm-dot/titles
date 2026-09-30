@@ -1,4 +1,5 @@
 import './globals.css';
+import LogoutButton from './logout-button';
 
 export const metadata = { title: 'LLM Eval', description: 'GPT vs Gemini, judged by Claude, Jev and GPT' };
 
@@ -11,6 +12,7 @@ export default function RootLayout({ children }) {
             <b>LLM Eval</b>
             <a href="/">Runs</a>
             <span className="muted small">Resume content · GPT vs Gemini · judged by Claude, Jev, GPT</span>
+            <LogoutButton />
           </div>
         </header>
         <main>{children}</main>

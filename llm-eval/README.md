@@ -77,7 +77,9 @@ disk. `npm run view` still works locally.)
 2. Before deploying, add an environment variable: `BASIC_AUTH_PASSWORD` = a long random
    password (12+ characters). Optional: `BASIC_AUTH_USER` (defaults to `team`).
 3. Deploy. Netlify Blobs needs no setup; it's created on first upload.
-4. Open the site URL; the browser asks for the username and password.
+4. Open the site URL and log in with the password (the session lasts 30 days;
+   changing the password logs everyone out). Scripts like `npm run upload` use the
+   same password over HTTP Basic Auth.
 
 **Upload a run**: add to `llm-eval/.env`:
 ```
