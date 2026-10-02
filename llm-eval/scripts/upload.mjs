@@ -1,4 +1,4 @@
-// Uploads a promptfoo results file to the LLM Eval web app (llm-eval/web, on Netlify).
+// Uploads a promptfoo results file to the LLM Eval web app (llm-eval/web, on Vercel or Netlify).
 // Only what the UI needs is sent: inputs, outputs, pass/fail, and each judge's score and reason.
 // Usage: node scripts/upload.mjs [output/results.json]
 // Needs in .env: EVAL_UI_URL, EVAL_UI_PASSWORD (and EVAL_UI_USER, default "team").
