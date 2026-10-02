@@ -1,5 +1,5 @@
 // Run storage. Picks the backend for the host it runs on:
-//   - Vercel: private Vercel Blob store (needs BLOB_READ_WRITE_TOKEN, added when you connect a Blob store)
+//   - Vercel: private Vercel Blob store (BLOB_STORE_ID or BLOB_READ_WRITE_TOKEN, added when you connect a Blob store)
 //   - Netlify: Netlify Blobs (configured automatically)
 //   - anywhere else (local dev): JSON files in .data/runs/
 // In every case runs are only readable by this app's server code, never by public URL.
@@ -43,7 +43,8 @@ const local = {
 };
 
 function backend() {
-  if (process.env.BLOB_READ_WRITE_TOKEN) return vercel;
+  // Vercel Blob: a read-write token, or (newer stores) a store id + Vercel's automatic OIDC token
+  if (process.env.BLOB_READ_WRITE_TOKEN || process.env.BLOB_STORE_ID) return vercel;
   // BLOBS_* vars are only for testing against a local Netlify Blobs server.
   if (process.env.BLOBS_EDGE_URL) {
     const url = process.env.BLOBS_EDGE_URL;
