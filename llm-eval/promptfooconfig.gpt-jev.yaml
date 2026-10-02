@@ -1,0 +1,67 @@
+# Same prompts and test cases as promptfooconfig.yaml, for when you only have OpenAI + TypeSafe keys.
+# Run: npm run eval:gpt-jev
+# yaml-language-server: $schema=https://promptfoo.dev/config-schema.json
+description: Resume content generation - GPT only, judged by Jev and GPT (needs only OPENAI_API_KEY and TYPESAFE_API_KEY)
+
+# 1) Prompts under test (add a new .txt file per feature: cover letter, LinkedIn headline, ...)
+prompts:
+  - id: file://prompts/resume_summary.txt
+    label: resume_summary
+  - id: file://prompts/bullet_optimize.txt
+    label: bullet_optimize
+
+# 2) Models that GENERATE the content (the ones being compared)
+providers:
+  - id: openai:chat:gpt-5.1
+    label: GPT
+
+# 3) Test cases (resume + job description pairs)
+tests: file://tests/resume_content.yaml
+
+# 4) Judges (Claude, Jev, GPT) - every output is graded by every judge. Each judge gets its own metric,
+#    so the report shows per-judge scores plus the combined pass rate.
+#    Head-to-head winners (which model each judge scored higher) come from `npm run summary`.
+defaultTest:
+  assert:
+    # --- Absolute scoring: each judge grades each output on the same rubric ---
+    # Jev (TypeSafe AI) returns probabilities rather than text, so it runs as a custom check
+    - type: javascript
+      metric: judge_jev
+      value: file://judges/jev.mjs
+
+    - type: llm-rubric
+      provider: openai:chat:gpt-5.1
+      metric: judge_gpt
+      value: |
+        You are a senior recruiter and ATS expert grading AI-written resume content.
+        Grade the output against the job description and the candidate's original input.
+        Fail it if ANY of these is true:
+          - it invents experience, employers, qualifications or metrics not in the input
+          - it ignores the formatting rules in the prompt (length, bullet count, no preamble)
+        Otherwise score 0-1 on: relevance to the job and keyword coverage (40%),
+        impact and clarity (30%), faithfulness to the input (20%), grammar and tone (10%).
+
+        <CandidateInput>
+        Target job: {{job_title}}
+        Job description: {{job_description}}
+        Summary: {{summary}}
+        Experience: {{experience}}
+        Bullets: {{bullets}}
+        </CandidateInput>
+        The output is either a rewritten summary (3-4 sentences, max 70 words) or rewritten
+        bullets (same count as the input, max 25 words each, each starting with "- ").
+
+    # --- Free deterministic guard: no numbers that are not in the input (hallucinated metrics) ---
+    - type: javascript
+      metric: no_invented_numbers
+      value: |
+        const source = Object.values(context.vars).join(' ');
+        const nums = output.match(/\d+(?:\.\d+)?/g) || [];
+        const invented = nums.filter(n => !source.includes(n));
+        return invented.length === 0
+          ? true
+          : { pass: false, score: 0, reason: `Numbers not in input: ${invented.join(', ')}` };
+
+    # --- Cost / latency tracking per model ---
+    - type: latency
+      threshold: 60000

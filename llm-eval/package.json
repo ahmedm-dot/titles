@@ -8,7 +8,8 @@
     "demo": "node demo/run-demo.mjs && node scripts/summary.mjs output/demo-results.json",
     "summary": "node scripts/summary.mjs output/results.json",
     "upload": "node scripts/upload.mjs output/results.json",
-    "upload:demo": "node scripts/upload.mjs output/demo-results.json"
+    "upload:demo": "node scripts/upload.mjs output/demo-results.json",
+    "eval:gpt-jev": "promptfoo eval -c promptfooconfig.gpt-jev.yaml --env-file .env -o output/results.json output/report.html"
   },
   "devDependencies": {
     "promptfoo": "0.123.1",
