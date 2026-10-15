@@ -10,17 +10,17 @@ const RULES = {
   task: [
     'can you', 'could you', 'would you', 'please', 'pls', 'plz', 'need you', 'need to',
     'action item', 'todo', 'to do', 'assign', 'take care', 'follow up', 'make sure',
-    'let me know', 'review', 'update the', 'fix the', 'send me', 'check',
+    'let me know', 'please review', 'please check', 'can you check', 'fix the', 'send me',
     'ممكن', 'لو سمحت', 'من فضلك', 'محتاج', 'محتاجين', 'عايز', 'عاوز', 'راجع', 'تابع',
   ],
   requirement: [
     'requirement', 'requirements', 'spec', 'prd', 'user story', 'acceptance criteria',
-    'feature request', 'new feature', 'should be able', 'must be able', 'scope', 'mockup',
-    'design', 'flow', 'متطلبات', 'مطلوب', 'فيتشر', 'ميزة',
+    'feature request', 'new feature', 'should be able', 'must be able',
+    'متطلبات', 'فيتشر', 'ميزة جديدة',
   ],
   bug: [
-    'bug', 'broken', 'not working', "doesn't work", 'does not work', 'error', 'crash',
-    'issue', 'failing', 'failed', '500', 'down', 'regression', 'مشكلة', 'خطأ', 'مش شغال',
+    'bug', 'broken', 'not working', "doesn't work", 'does not work', 'crash', 'crashing',
+    'regression', 'is down', 'مش شغال', 'باظ', 'خطأ',
   ],
 };
 
@@ -63,6 +63,10 @@ export function classify(msg, { me, room, sub, watchKeywords = [], mutedRooms = 
   else if (hasAny(text, RULES.requirement)) type = 'requirement';
   else if (hasAny(text, RULES.task)) type = 'task';
   else if (/[?؟]/.test(text)) type = 'question';
+
+  // Chit-chat doesn't need a card: outside a direct @mention, only an ask (task,
+  // requirement, bug, question) or something urgent does.
+  if (type === 'fyi' && !urgent && !reasons.includes('mention')) return null;
 
   const direct = reasons.includes('mention') || reasons.includes('dm') || reasons.includes('thread');
   let priority = 'low';

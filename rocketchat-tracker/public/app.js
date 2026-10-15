@@ -6,6 +6,8 @@ const COLUMNS = [
   { id: 'done', label: 'Done' },
 ];
 const REASON_LABEL = { mention: '@you', dm: 'DM', thread: 'Thread', group: '@all/@here', manual: 'Manual' };
+// Room and thread are already shown under the title, so skip those tags.
+const HIDDEN_REASONS = ['dm', 'thread'];
 const RANK = { high: 0, medium: 1, low: 2 };
 const DONE_DAYS = 7;
 
@@ -39,13 +41,14 @@ async function refresh(next) {
 }
 
 function checkAlerts(cards) {
-  const key = (c) => `${c.id}|${c.lastTs}|${c.wokeAt || ''}`;
+  // Alert on new asks, reopened conversations and ended snoozes, not on every chat line.
+  const key = (c) => `${c.id}|${(c.messages || []).filter((m) => m.trigger).length}|${c.wokeAt || ''}|${c.reopened ? 'r' : ''}`;
   const first = !alerted;
   alerted ||= new Set();
   const fresh = cards.filter((c) => !alerted.has(key(c)));
   fresh.forEach((c) => alerted.add(key(c)));
   if (first) return; // don't alert for what was already there when the page opened
-  notify(fresh.filter((c) => c.status !== 'done' && (c.priority === 'high' || c.wokeAt)));
+  notify(fresh.filter((c) => c.status !== 'done' && (c.priority === 'high' || c.wokeAt || c.reopened)));
 }
 
 // Don't re-render under the user's cursor while they type a note.
@@ -111,7 +114,13 @@ function visible(card) {
   if (!ui.showSnoozed && card.snoozedUntil && card.snoozedUntil > now) return false;
   if (card.status === 'done' && Date.now() - Date.parse(card.updatedAt) > DONE_DAYS * 864e5) return false;
   if (ui.highOnly && card.priority !== 'high') return false;
-  if (ui.filter && !(card.reasons || []).includes(ui.filter) && card.type !== ui.filter) return false;
+  if (ui.filter) {
+    const match =
+      ui.filter === 'dm' ? card.roomType === 'd'
+      : ui.filter === 'thread' ? !!card.tmid
+      : (card.reasons || []).includes(ui.filter) || card.type === ui.filter;
+    if (!match) return false;
+  }
   if (ui.search) {
     const hay = [card.title, card.notes, card.roomName, card.sender?.name, card.sender?.username, ...(card.messages || []).map((m) => m.text)]
       .join(' ')
@@ -152,7 +161,9 @@ function render() {
   $('#board').innerHTML = COLUMNS.map((col) => {
     const items = cards.filter((c) => c.status === col.id);
     return `<section class="col" data-status="${col.id}">
-      <h2><span>${col.label}</span><span>${items.length}</span></h2>
+      <h2><span>${col.label}</span><span class="count">${
+        col.id === 'inbox' && items.length ? `<button class="clear" data-act="clear-inbox">Mark all done</button>` : ''
+      }${items.length}</span></h2>
       ${items.map(cardHtml).join('') || '<div class="empty">Nothing here</div>'}
     </section>`;
   }).join('');
@@ -160,33 +171,42 @@ function render() {
 
 function cardHtml(c) {
   const reasons = (c.reasons || [])
+    .filter((r) => !HIDDEN_REASONS.includes(r))
     .map((r) => (r.startsWith('keyword:') ? `#${r.slice(8)}` : REASON_LABEL[r] || r))
-    .map((r, i) => `<span class="tag ${c.reasons[i]}">${esc(r)}</span>`)
+    .map((r) => `<span class="tag ${r === '@you' ? 'mention' : ''}">${esc(r)}</span>`)
     .join('');
   const snoozed = c.snoozedUntil && c.snoozedUntil > new Date().toISOString();
   const moves = COLUMNS.filter((col) => col.id !== c.status)
     .map((col) => `<option value="${col.id}">${col.label}</option>`)
     .join('');
   const msgs = (c.messages || [])
-    .map((m) => `<div class="msg"><time>${new Date(m.ts).toLocaleString()}</time>${esc(m.text)}</div>`)
+    .map(
+      (m) => `<div class="msg ${m.mine ? 'mine' : ''} ${m.trigger ? 'ask' : ''}" dir="auto"><time><b>${esc(m.mine ? 'You' : m.who || '')}</b> · ${new Date(m.ts).toLocaleString([], { weekday: 'short', hour: '2-digit', minute: '2-digit' })}</time>${esc(m.text)}</div>`
+    )
     .join('');
+  const lastAsk = [...(c.messages || [])].reverse().find((m) => m.trigger);
+  const gist = c.summary || (lastAsk && lastAsk.text !== c.title ? lastAsk.text : '');
+  const people = (c.participants?.length ? c.participants : [c.sender?.name].filter(Boolean)).slice(0, 3).join(', ');
+  const lastMine = c.messages?.length && c.messages.at(-1).mine;
 
   return `<article class="card ${c.priority} ${c.wokeAt && Date.now() - Date.parse(c.wokeAt) < 600000 ? 'woke' : ''}" id="${c.id}" draggable="true">
     <div class="meta">
       <span class="tag">${esc(c.type)}</span>${reasons}
       ${c.urgent ? '<span class="tag urgent">urgent</span>' : ''}
-      ${c.replied ? '<span class="tag replied">✓ replied</span>' : ''}
+      ${c.reopened ? '<span class="tag urgent">reopened</span>' : ''}
+      ${c.newActivity ? '<span class="tag mention">new activity</span>' : ''}
+      ${lastMine ? '<span class="tag replied">↩ you replied last</span>' : ''}
       ${snoozed ? `<span class="tag">⏰ ${new Date(c.snoozedUntil).toLocaleString([], { weekday: 'short', hour: '2-digit', minute: '2-digit' })}</span>` : ''}
     </div>
     <div class="title" dir="auto">${esc(c.title)}</div>
+    ${gist ? `<div class="gist" dir="auto">→ ${esc(gist.length > 160 ? gist.slice(0, 159) + '…' : gist)}</div>` : ''}
     <div class="meta">
-      ${c.sender?.name ? `<span>${esc(c.sender.name)}</span>` : ''}
-      ${c.roomName ? `<span>· ${c.roomType === 'd' ? 'DM' : '#' + esc(c.roomName)}</span>` : ''}
+      ${c.roomName ? `<span>${c.roomType === 'd' ? 'DM' : '#' + esc(c.roomName)}${c.tmid ? ' · thread' : ''}</span>` : ''}
+      ${people ? `<span>· ${esc(people)}</span>` : ''}
       <span>· ${ago(c.lastTs)}</span>
-      ${c.messages?.length > 1 ? `<span>· ${c.messages.length} msgs</span>` : ''}
     </div>
     <details ${ui.open.has(c.id) ? 'open' : ''} data-id="${c.id}">
-      <summary>Details &amp; notes</summary>
+      <summary>${c.messages?.length ? `Conversation (${c.messages.length})` : 'Notes'}</summary>
       ${msgs}
       <textarea data-notes="${c.id}" placeholder="Your notes, next step, due date…">${esc(c.notes)}</textarea>
     </details>
@@ -225,6 +245,21 @@ board.addEventListener('click', async (e) => {
   const btn = e.target.closest('button[data-act]');
   if (!btn) return;
   const { act, id } = btn.dataset;
+  if (act === 'clear-inbox') {
+    if (!btn.dataset.confirm) {
+      btn.dataset.confirm = '1';
+      btn.textContent = 'Click again to confirm';
+      setTimeout(() => {
+        delete btn.dataset.confirm;
+        btn.textContent = 'Mark all done';
+      }, 3000);
+      return;
+    }
+    // Only the cards currently shown, so a search or filter narrows what gets cleared.
+    const ids = data.cards.filter((c) => c.status === 'inbox' && visible(c)).map((c) => c.id);
+    await api('bulk', { method: 'POST', body: { ids, status: 'done' } });
+    return refresh();
+  }
   if (act === 'done') await patch(id, { status: 'done' });
   if (act === 'delete') {
     if (btn.dataset.confirm) {

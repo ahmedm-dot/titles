@@ -50,6 +50,11 @@ export class RocketChat {
     return this.get(`${endpoint}.history`, { roomId: room._id, oldest, latest, count });
   }
 
+  // One message by id, used to title a thread card with its first message.
+  message(msgId) {
+    return this.get('chat.getMessage', { msgId }).then((r) => r.message);
+  }
+
   messageLink(room, msgId) {
     if (room.t === 'd') return `${this.url}/direct/${room._id}?msg=${msgId}`;
     const kind = room.t === 'p' ? 'group' : 'channel';

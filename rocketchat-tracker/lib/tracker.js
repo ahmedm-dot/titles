@@ -6,7 +6,11 @@ import { RocketChat } from './rocketchat.js';
 import { classify, makeTitle } from './classify.js';
 
 const PRIORITY_RANK = { low: 0, medium: 1, high: 2 };
-const GROUP_WINDOW_MS = 30 * 60 * 1000;
+// A DM or channel conversation ends after this much silence; a thread never does.
+const SESSION_GAP_MS = { d: 8 * 3600e3, c: 2 * 3600e3 };
+const MAX_MESSAGES_PER_CARD = 40;
+const CONTEXT_BEFORE = 3; // earlier messages attached when a channel/DM card starts…
+const CONTEXT_WINDOW_MS = 30 * 60 * 1000; // …if they were sent within this window
 const DONE_RETENTION_DAYS = 30;
 export const STATUSES = ['inbox', 'todo', 'doing', 'waiting', 'done'];
 const EDITABLE = ['status', 'priority', 'type', 'notes', 'title', 'snoozedUntil'];
@@ -21,10 +25,10 @@ export function readConfig(env) {
     token: env.RC_TOKEN,
     password: env.BOARD_PASSWORD || '',
     pollSeconds: Math.max(Number(env.POLL_SECONDS || 60), 15),
-    lookbackHours: Number(env.LOOKBACK_HOURS || 48),
+    lookbackHours: Number(env.LOOKBACK_HOURS || 24),
     watchKeywords: list(env.WATCH_KEYWORDS),
     mutedRooms: list(env.MUTED_ROOMS).map((r) => r.replace(/^#/, '')),
-    groupMentions: env.INCLUDE_GROUP_MENTIONS !== 'false',
+    groupMentions: env.INCLUDE_GROUP_MENTIONS === 'true',
     // Cloudflare's free plan allows 50 outbound requests per run; leftovers carry to the next run.
     maxRoomsPerPoll: Number(env.MAX_ROOMS_PER_POLL || Infinity),
     maxPagesPerRoom: Number(env.MAX_PAGES_PER_ROOM || 10),
@@ -78,7 +82,9 @@ export async function pollOnce(state, cfg) {
       room.displayName = room.t === 'd' ? sub.fname || sub.name : room.fname || room.name;
       const cursor = state.roomCursors[room._id] || lookback;
       const messages = await fetchSince(rc, room, cursor, cfg.maxPagesPerRoom);
-      for (const msg of messages) handleMessage(state, cfg, rc, msg, room, sub, changed);
+      for (let i = 0; i < messages.length; i++) {
+        await handleMessage(state, cfg, rc, messages[i], messages.slice(Math.max(0, i - CONTEXT_BEFORE), i), room, sub, changed);
+      }
       state.roomCursors[room._id] = messages.length ? toISO(messages.at(-1).ts) : room.lm;
     }
 
@@ -107,70 +113,130 @@ async function fetchSince(rc, room, oldest, maxPages) {
     .sort((a, b) => toISO(a.ts).localeCompare(toISO(b.ts)));
 }
 
-function handleMessage(state, cfg, rc, msg, room, sub, changed) {
+// ---------- conversation cards ----------
+// A card is one conversation: a thread, a DM session, or a channel discussion that
+// involves you. Every message in it is kept for context; asks raise its priority.
+
+function conversationKey(msg, room) {
+  if (msg.tmid) return `t:${msg.tmid}`;
+  return `${room.t === 'd' ? 'd' : 'c'}:${room._id}`;
+}
+
+function findConversation(state, msg, room, ts) {
+  const key = conversationKey(msg, room);
+  const gap = msg.tmid ? Infinity : SESSION_GAP_MS[room.t === 'd' ? 'd' : 'c'];
+  let best = null;
+  for (const c of state.cards) {
+    if (c.source !== 'rocketchat' || c.roomId !== room._id) continue;
+    const sameKey = c.key === key || (msg.tmid && c.msgIds.includes(msg.tmid));
+    if (!sameKey || Date.parse(ts) - Date.parse(c.lastTs) > gap) continue;
+    if (!best || c.lastTs > best.lastTs) best = c;
+  }
+  return best;
+}
+
+function entryFor(rc, room, msg, me, trigger) {
+  return {
+    id: msg._id,
+    text: msg.msg,
+    ts: toISO(msg.ts),
+    who: msg.u?.name || msg.u?.username || '?',
+    mine: msg.u?._id === me._id,
+    trigger: !!trigger,
+    link: rc.messageLink(room, msg._id),
+  };
+}
+
+function append(card, entry) {
+  if (card.msgIds.includes(entry.id)) return false;
+  card.messages.push(entry);
+  card.msgIds.push(entry.id);
+  if (card.messages.length > MAX_MESSAGES_PER_CARD) card.messages = card.messages.slice(-MAX_MESSAGES_PER_CARD);
+  if (entry.ts > card.lastTs) card.lastTs = entry.ts;
+  if (!entry.mine && !card.participants.includes(entry.who)) card.participants.push(entry.who);
+  card.needsSummary = true;
+  return true;
+}
+
+async function handleMessage(state, cfg, rc, msg, before, room, sub, changed) {
+  if (!msg.msg || msg.t) return; // system messages
   const me = state.me;
   const ts = toISO(msg.ts);
   const nowIso = new Date().toISOString();
+  const mine = msg.u?._id === me._id;
+  let card = findConversation(state, msg, room, ts);
 
-  // My own reply → mark matching open cards as replied (and auto-close simple ones).
-  if (msg.u?._id === me._id) {
-    for (const card of state.cards) {
-      if (card.roomId !== room._id || card.status === 'done' || card.lastTs >= ts) continue;
-      const sameThread = msg.tmid ? card.tmid === msg.tmid || card.msgIds.includes(msg.tmid) : !card.tmid;
-      if (!sameThread) continue;
-      card.replied = true;
-      if (card.status === 'inbox' && (card.type === 'fyi' || card.type === 'question')) {
-        card.status = 'done';
-        card.autoClosed = true;
-      }
-      card.updatedAt = nowIso;
-      changed.add(card.id);
+  if (mine) {
+    if (!card) return;
+    // In a channel, your top-level message only belongs here if it answers someone in it.
+    const answers = room.t === 'd' || msg.tmid || (msg.mentions || []).some((m) => card.senders?.includes(m.username));
+    if (!answers) return;
+    if (!append(card, entryFor(rc, room, msg, me, false))) return;
+    card.replied = true;
+    card.waitingOnThem = true;
+    if (card.status === 'inbox') {
+      // Real work you acknowledged moves to To do; everything else is handled.
+      const work = ['task', 'requirement', 'bug'].includes(card.type) && card.priority === 'high';
+      card.status = work ? 'todo' : 'done';
+      card.autoMoved = true;
     }
+    card.updatedAt = nowIso;
+    changed.add(card.id);
     return;
   }
 
-  if (state.cards.some((c) => c.msgIds?.includes(msg._id))) return;
   const result = classify(msg, { me, room, sub, watchKeywords: cfg.watchKeywords, mutedRooms: cfg.mutedRooms });
-  if (!result) return;
-  if (!cfg.groupMentions && result.reasons.every((r) => r === 'group')) return;
+  const relevant = result && !(!cfg.groupMentions && result.reasons.every((r) => r === 'group'));
 
-  const entry = { id: msg._id, text: msg.msg, ts, link: rc.messageLink(room, msg._id) };
-
-  // Group bursts: same sender, same room/thread, still in Inbox, within 30 min.
-  const existing = state.cards.find(
-    (c) =>
-      c.status === 'inbox' &&
-      c.roomId === room._id &&
-      (c.tmid || null) === (msg.tmid || null) &&
-      c.sender.username === msg.u.username &&
-      Date.parse(ts) - Date.parse(c.lastTs) < GROUP_WINDOW_MS
-  );
-  if (existing) {
-    existing.messages.push(entry);
-    existing.msgIds.push(msg._id);
-    existing.lastTs = ts;
-    existing.reasons = [...new Set([...existing.reasons, ...result.reasons])];
-    existing.urgent ||= result.urgent;
-    if (PRIORITY_RANK[result.priority] > PRIORITY_RANK[existing.priority]) existing.priority = result.priority;
-    if (existing.type === 'fyi' || existing.type === 'question') existing.type = result.type;
-    existing.updatedAt = nowIso;
-    changed.add(existing.id);
+  if (card) {
+    // Threads and DMs keep every message; a busy channel only adds asks or people already in it.
+    const keep = msg.tmid || room.t === 'd' || relevant || card.senders?.includes(msg.u.username);
+    if (!keep || !append(card, entryFor(rc, room, msg, me, relevant))) return;
+    card.senders = [...new Set([...(card.senders || []), msg.u.username])];
+    card.waitingOnThem = false;
+    if (relevant) {
+      mergeResult(card, result);
+      if (card.status === 'done') {
+        card.status = 'inbox';
+        card.reopened = true;
+      } else if (card.status !== 'inbox') {
+        card.newActivity = true;
+      }
+    }
+    card.updatedAt = nowIso;
+    changed.add(card.id);
     return;
   }
 
-  const card = {
+  if (!relevant) return;
+
+  // New conversation. A thread is titled by its first message.
+  let title = msg.msg;
+  let root = null;
+  if (msg.tmid) {
+    root = await rc.message(msg.tmid).catch(() => null);
+    if (root?.msg) title = root.msg;
+  }
+  card = {
     id: `rc_${msg._id}`,
     source: 'rocketchat',
-    msgIds: [msg._id],
+    key: conversationKey(msg, room),
+    msgIds: msg.tmid ? [msg.tmid] : [],
     roomId: room._id,
     roomName: room.displayName,
     roomType: room.t,
     tmid: msg.tmid || null,
     sender: { username: msg.u.username, name: msg.u.name || msg.u.username },
-    title: makeTitle(msg.msg),
-    messages: [entry],
-    link: entry.link,
-    ...result,
+    senders: [msg.u.username],
+    participants: [],
+    title: makeTitle(title),
+    summary: '',
+    messages: [],
+    link: rc.messageLink(room, msg.tmid || msg._id),
+    reasons: [],
+    type: 'fyi',
+    priority: 'low',
+    urgent: false,
     status: 'inbox',
     replied: false,
     snoozedUntil: null,
@@ -179,8 +245,28 @@ function handleMessage(state, cfg, rc, msg, room, sub, changed) {
     lastTs: ts,
     updatedAt: nowIso,
   };
+  // A little lead-in so the card makes sense on its own (same thread only, for threads).
+  if (root?.msg) {
+    card.msgIds = [];
+    append(card, entryFor(rc, room, root, me, false));
+  }
+  for (const prev of before) {
+    if (!prev.msg || prev.t || (prev.tmid || null) !== (msg.tmid || null)) continue;
+    if (Date.parse(ts) - Date.parse(toISO(prev.ts)) > CONTEXT_WINDOW_MS) continue;
+    append(card, entryFor(rc, room, prev, me, false));
+  }
+  append(card, entryFor(rc, room, msg, me, true));
+  mergeResult(card, result);
   state.cards.push(card);
   changed.add(card.id);
+}
+
+function mergeResult(card, result) {
+  card.reasons = [...new Set([...card.reasons, ...result.reasons])];
+  card.urgent ||= result.urgent;
+  if (PRIORITY_RANK[result.priority] > PRIORITY_RANK[card.priority]) card.priority = result.priority;
+  const TYPE_RANK = { fyi: 0, question: 1, task: 2, requirement: 3, bug: 4 };
+  if (TYPE_RANK[result.type] > TYPE_RANK[card.type]) card.type = result.type;
 }
 
 function wakeSnoozed(state, changed) {
@@ -195,6 +281,19 @@ function wakeSnoozed(state, changed) {
   }
 }
 
+/**
+ * Drop auto-created cards (except ones with your notes) and rescan with the current
+ * rules. Cards you added yourself are kept. Returns removed ids.
+ */
+export function rebuild(state) {
+  const removed = state.cards.filter((c) => c.source === 'rocketchat' && !c.notes).map((c) => c.id);
+  state.cards = state.cards.filter((c) => !removed.includes(c.id));
+  state.roomCursors = {};
+  state.pendingRooms = [];
+  state.lastPoll = null;
+  return removed;
+}
+
 /** Done cards older than 30 days are dropped. Returns removed ids. */
 export function prune(state) {
   const cutoff = new Date(Date.now() - DONE_RETENTION_DAYS * 864e5).toISOString();
@@ -205,6 +304,9 @@ export function prune(state) {
 
 export function applyPatch(card, body) {
   for (const k of EDITABLE) if (k in body) card[k] = body[k];
+  if ('title' in body) card.titleEdited = true;
+  card.newActivity = false;
+  card.reopened = false;
   if (!STATUSES.includes(card.status)) card.status = 'inbox';
   card.updatedAt = new Date().toISOString();
   return card;

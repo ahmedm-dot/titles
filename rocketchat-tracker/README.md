@@ -1,21 +1,23 @@
 # Chat Tracker for Rocket.Chat
 
-A small web app that keeps scanning your Rocket.Chat account and turns what
-needs you into cards on a board, with browser alerts:
+A small web app that keeps scanning your Rocket.Chat account and turns the
+**conversations** that need you into cards on a board, with browser alerts.
 
-- **@mentions** of you, **DMs**, **replies in threads you follow**, and
-  `@all` / `@here` (optional)
-- **Keyword hits** from any room (`WATCH_KEYWORDS`, e.g. `requirement, blocker, ats`)
-- Each card gets a **type** (task / requirement / bug / question / fyi), a
-  **priority** (high / medium / low) and an **urgent** flag. The keyword rules
-  cover English and Arabic.
-- Board columns: **Inbox → To do → Doing → Waiting on others → Done**, with
-  drag and drop, notes, snooze (1h / 3h / tomorrow / Monday) and *Open in chat ↗*
-- Several messages from the same person in a row (within 30 min) merge into one card
-- When you reply in the chat, the card shows **✓ replied**. Questions and FYIs
-  you answered move to Done automatically.
-- Desktop notifications for high-priority items and when a snooze ends. The
-  tab title shows the Inbox count.
+- **One card per conversation, not per message:** a thread, a DM conversation
+  (until 8 hours of silence) or a channel discussion that involves you (until 2 hours
+  of silence). Every message in it stays on the card as context, your replies included.
+- A card starts from an **@mention of you**, or from an **ask** (task, requirement, bug,
+  question, urgent) in a DM, a thread you follow, or with a watched keyword. Small talk
+  never makes a card.
+- On Cloudflare, **Workers AI** gives each card a topic title and one line saying what
+  is being asked of you. The keyword rules cover English and Arabic.
+- When you reply, the card leaves Inbox: your high-priority work goes to **To do**,
+  everything else to **Done**. A new ask in the same conversation reopens it, or marks
+  it **new activity** if it is already in progress.
+- Board columns: **Inbox → To do → Doing → Waiting on others → Done**, with drag and
+  drop, notes, snooze, *Open in chat ↗* and **Mark all done** on the Inbox.
+- Desktop notifications for new high-priority asks, reopened conversations and ended
+  snoozes. The tab title shows the Inbox count.
 
 No dependencies, no build step. Run it on your computer (Node 20.12+), or host it
 on Cloudflare to get a link that works anywhere (see below).
@@ -60,6 +62,8 @@ live under `[vars]` in `wrangler.toml`; run `npx wrangler deploy` again after ch
 `BOARD_PASSWORD` (Settings → Secrets and variables → Actions). The
 *Deploy Chat Tracker* workflow then creates the database, sets the Worker's secrets
 and deploys on every push to `rocketchat-tracker/`. The link is in the run summary.
+Run the workflow by hand with **rebuild** ticked to re-scan chat with the current rules
+(cards with your notes and cards you added yourself are kept).
 
 Notes:
 - **If Rocket.Chat is behind Cloudflare with Bot Fight Mode or a WAF**, allow the
@@ -85,7 +89,7 @@ Rocket.Chat REST API ──(every minute)──► server.js or worker.js ──
 - The local server listens on `127.0.0.1` only. To open it to the network
   (`HOST=0.0.0.0`), you must set `BOARD_PASSWORD`; the server refuses to start
   without one. The Cloudflare Worker always requires `BOARD_PASSWORD`.
-- On the first run it scans the last `LOOKBACK_HOURS` (default 48).
+- On the first run it scans the last `LOOKBACK_HOURS` (default 24).
 
 ## Tuning
 

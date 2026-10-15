@@ -7,7 +7,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import {
-  readConfig, missingConfig, emptyState, pollOnce, prune, applyPatch, manualCard, publicState, checkBasicAuth,
+  readConfig, missingConfig, emptyState, pollOnce, prune, rebuild, applyPatch, manualCard, publicState, checkBasicAuth,
 } from './lib/tracker.js';
 
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
@@ -104,6 +104,18 @@ const server = http.createServer(async (req, res) => {
         return json(res, 200, publicState(state, cfg));
       }
 
+      if (resource === 'rebuild' && req.method === 'POST') {
+        rebuild(state);
+        await poll();
+        return json(res, 200, publicState(state, cfg));
+      }
+      if (resource === 'bulk' && req.method === 'POST') {
+        const { ids = [], status } = await readBody(req);
+        const cards = state.cards.filter((c) => ids.includes(c.id));
+        cards.forEach((c) => applyPatch(c, { status }));
+        save();
+        return json(res, 200, { updated: cards.length });
+      }
       if (resource === 'cards') {
         if (req.method === 'POST' && !id) {
           const body = await readBody(req);

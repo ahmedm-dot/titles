@@ -3,8 +3,11 @@
 // D1 keeps the cards, and the board in public/ is served as static assets.
 
 import {
-  readConfig, missingConfig, emptyState, pollOnce, prune, applyPatch, manualCard, publicState, checkBasicAuth,
+  readConfig, missingConfig, emptyState, pollOnce, prune, rebuild, applyPatch, manualCard, publicState, checkBasicAuth,
 } from './lib/tracker.js';
+import { summarizeCards } from './lib/summarize.js';
+
+const AI_MODEL = '@cf/meta/llama-3.3-70b-instruct-fp8-fast';
 
 const SCHEMA = [
   'CREATE TABLE IF NOT EXISTS cards (id TEXT PRIMARY KEY, data TEXT NOT NULL)',
@@ -42,10 +45,18 @@ async function saveSync(db, state, changedIds, removedIds) {
   await db.batch(stmts);
 }
 
-async function sync(env) {
+async function sync(env, { fresh = false } = {}) {
   const cfg = readConfig(env);
   const state = await loadState(env.DB);
+  if (fresh) {
+    const gone = rebuild(state);
+    if (gone.length) await env.DB.batch(gone.map((id) => env.DB.prepare('DELETE FROM cards WHERE id = ?1').bind(id)));
+  }
   const changed = await pollOnce(state, cfg);
+  if (env.AI && state.me) {
+    const run = async (messages) => (await env.AI.run(AI_MODEL, { messages, max_tokens: 200 })).response;
+    for (const id of await summarizeCards(state, run)) changed.add(id);
+  }
   const removed = prune(state);
   await saveSync(env.DB, state, changed, removed);
   return { state, cfg };
@@ -81,6 +92,19 @@ export default {
       if (resource === 'poll' && request.method === 'POST') {
         const { state } = await sync(env);
         return json(publicState(state, cfg));
+      }
+      if (resource === 'rebuild' && request.method === 'POST') {
+        const { state } = await sync(env, { fresh: true });
+        return json(publicState(state, cfg));
+      }
+      if (resource === 'bulk' && request.method === 'POST') {
+        const { ids = [], status } = await request.json();
+        const rows = ids.length
+          ? await env.DB.batch(ids.slice(0, 500).map((cid) => env.DB.prepare('SELECT data FROM cards WHERE id = ?1').bind(cid)))
+          : [];
+        const cards = rows.flatMap((r) => r.results).map((r) => applyPatch(JSON.parse(r.data), { status }));
+        if (cards.length) await env.DB.batch(cards.map((c) => putCard(env.DB, c)));
+        return json({ updated: cards.length });
       }
       if (resource === 'cards') {
         await ensureSchema(env.DB);

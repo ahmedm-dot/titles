@@ -13,6 +13,10 @@ binding = "ASSETS"
 # Run the Worker first so the password check also covers the board's files.
 run_worker_first = true
 
+# Workers AI writes each conversation's topic title and "what's asked of you" line.
+[ai]
+binding = "AI"
+
 [[d1_databases]]
 binding = "DB"
 database_name = "chat-tracker"
@@ -21,10 +25,10 @@ database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
 [vars]
 RC_URL = "https://rc1.infrozix.com"
 POLL_SECONDS = "60"
-LOOKBACK_HOURS = "48"
-WATCH_KEYWORDS = "requirement,urgent,asap,blocker,ats,auto apply,resumedone"
+LOOKBACK_HOURS = "24"
+WATCH_KEYWORDS = "requirement,urgent,asap,blocker"
 MUTED_ROOMS = "general,random"
-INCLUDE_GROUP_MENTIONS = "true"
+INCLUDE_GROUP_MENTIONS = "false"
 # Free plan: max 50 outbound requests per run. Busy backlogs finish over the next few minutes.
 MAX_ROOMS_PER_POLL = "40"
 MAX_PAGES_PER_ROOM = "2"

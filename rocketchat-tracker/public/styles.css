@@ -122,6 +122,17 @@ h1 { font-size: 18px; margin: 0; }
   justify-content: space-between;
 }
 
+.col h2 .count { display: flex; gap: 8px; align-items: center; }
+.col h2 .clear {
+  font-size: 11px;
+  text-transform: none;
+  letter-spacing: 0;
+  padding: 2px 8px;
+  border-radius: 6px;
+  background: var(--chip);
+  color: var(--text);
+  font-weight: 600;
+}
 .card {
   background: var(--card);
   border-radius: 10px;
@@ -143,6 +154,10 @@ h1 { font-size: 18px; margin: 0; }
 .tag.replied { background: color-mix(in srgb, var(--ok) 20%, transparent); color: var(--ok); }
 .card details { margin-top: 6px; }
 .card summary { cursor: pointer; color: var(--muted); font-size: 12px; }
+.gist { font-size: 13px; color: var(--muted); margin: -2px 0 6px; unicode-bidi: plaintext; }
+.msg.mine { border-left-color: var(--ok); background: color-mix(in srgb, var(--ok) 7%, transparent); }
+.msg.ask { border-left-color: var(--accent); }
+.msg time b { color: var(--text); font-weight: 600; }
 .msg { border-left: 2px solid var(--border); padding: 2px 8px; margin: 6px 0; white-space: pre-wrap; unicode-bidi: plaintext; font-size: 13px; }
 .msg time { display: block; color: var(--muted); font-size: 11px; }
 .card textarea {
