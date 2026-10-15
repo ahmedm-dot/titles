@@ -53,8 +53,10 @@ function checkAlerts(cards) {
 
 // Don't re-render under the user's cursor while they type a note.
 let pending = false;
+// …or while a card is being dragged, which would pull the card out from under the mouse.
+let dragging = false;
 function safeRender() {
-  if (document.activeElement?.matches('#board textarea')) pending = true;
+  if (dragging || document.activeElement?.matches('#board textarea')) pending = true;
   else render();
 }
 document.addEventListener('focusout', () => {
@@ -293,7 +295,29 @@ board.addEventListener('toggle', (e) => {
 // drag & drop between columns
 board.addEventListener('dragstart', (e) => {
   const card = e.target.closest('.card');
-  if (card) e.dataTransfer.setData('text/plain', card.id);
+  if (!card) return;
+  dragging = true;
+  e.dataTransfer.effectAllowed = 'move';
+  e.dataTransfer.setData('text/plain', card.id);
+  // Chrome snapshots the scrolling column behind a card, so the preview showed several
+  // cards. Use a copy of just this card as the drag preview.
+  const ghost = card.cloneNode(true);
+  ghost.classList.add('drag-ghost');
+  ghost.style.width = `${card.offsetWidth}px`;
+  document.body.append(ghost);
+  const box = card.getBoundingClientRect();
+  e.dataTransfer.setDragImage(ghost, e.clientX - box.left, e.clientY - box.top);
+  setTimeout(() => ghost.remove());
+  card.classList.add('is-dragging');
+});
+board.addEventListener('dragend', (e) => {
+  e.target.closest('.card')?.classList.remove('is-dragging');
+  document.querySelectorAll('.col.drop').forEach((c) => c.classList.remove('drop'));
+  dragging = false;
+  if (pending) {
+    pending = false;
+    safeRender();
+  }
 });
 board.addEventListener('dragover', (e) => {
   const col = e.target.closest('.col');

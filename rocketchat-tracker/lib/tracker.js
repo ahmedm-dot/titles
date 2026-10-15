@@ -181,6 +181,8 @@ async function handleMessage(state, cfg, rc, msg, before, room, sub, changed) {
       card.status = work ? 'todo' : 'done';
       card.autoMoved = true;
     }
+    card.reopened = false;
+    card.newActivity = false;
     card.updatedAt = nowIso;
     changed.add(card.id);
     return;

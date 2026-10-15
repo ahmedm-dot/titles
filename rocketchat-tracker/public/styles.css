@@ -143,6 +143,8 @@ h1 { font-size: 18px; margin: 0; }
   cursor: grab;
 }
 .card.high { border-left-color: var(--high); }
+.card.is-dragging { opacity: 0.4; }
+.drag-ghost { position: fixed; top: -1000px; left: -1000px; pointer-events: none; }
 .card.medium { border-left-color: var(--medium); }
 .card.woke { animation: pulse 1.6s ease-in-out 3; }
 @keyframes pulse { 50% { box-shadow: 0 0 0 3px var(--accent); } }
