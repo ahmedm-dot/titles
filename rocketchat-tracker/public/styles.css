@@ -156,7 +156,8 @@ h1 { font-size: 18px; margin: 0; }
 .tag.replied { background: color-mix(in srgb, var(--ok) 20%, transparent); color: var(--ok); }
 .card details { margin-top: 6px; }
 .card summary { cursor: pointer; color: var(--muted); font-size: 12px; }
-.gist { font-size: 13px; color: var(--muted); margin: -2px 0 6px; unicode-bidi: plaintext; }
+.context { font-size: 12.5px; color: var(--muted); margin: -2px 0 4px; unicode-bidi: plaintext; }
+.gist { font-size: 13px; color: var(--text); font-weight: 500; margin: 0 0 6px; unicode-bidi: plaintext; }
 .msg.mine { border-left-color: var(--ok); background: color-mix(in srgb, var(--ok) 7%, transparent); }
 .msg.ask { border-left-color: var(--accent); }
 .msg time b { color: var(--text); font-weight: 600; }

@@ -124,7 +124,7 @@ function visible(card) {
     if (!match) return false;
   }
   if (ui.search) {
-    const hay = [card.title, card.notes, card.roomName, card.sender?.name, card.sender?.username, ...(card.messages || []).map((m) => m.text)]
+    const hay = [card.title, card.context, card.summary, card.notes, card.roomName, card.sender?.name, card.sender?.username, ...(card.messages || []).map((m) => m.text)]
       .join(' ')
       .toLowerCase();
     if (!hay.includes(ui.search)) return false;
@@ -187,7 +187,8 @@ function cardHtml(c) {
     )
     .join('');
   const lastAsk = [...(c.messages || [])].reverse().find((m) => m.trigger);
-  const gist = c.summary || (lastAsk && lastAsk.text !== c.title ? lastAsk.text : '');
+  // AI ask if summarized; otherwise the latest ask, unless the card is already AI-titled with nothing asked.
+  const gist = c.summary || (!c.context && lastAsk && lastAsk.text !== c.title ? lastAsk.text : '');
   const people = (c.participants?.length ? c.participants : [c.sender?.name].filter(Boolean)).slice(0, 3).join(', ');
   const lastMine = c.messages?.length && c.messages.at(-1).mine;
 
@@ -201,6 +202,7 @@ function cardHtml(c) {
       ${snoozed ? `<span class="tag">⏰ ${new Date(c.snoozedUntil).toLocaleString([], { weekday: 'short', hour: '2-digit', minute: '2-digit' })}</span>` : ''}
     </div>
     <div class="title" dir="auto">${esc(c.title)}</div>
+    ${c.context ? `<div class="context" dir="auto">${esc(c.context)}</div>` : ''}
     ${gist ? `<div class="gist" dir="auto">→ ${esc(gist.length > 160 ? gist.slice(0, 159) + '…' : gist)}</div>` : ''}
     <div class="meta">
       ${c.roomName ? `<span>${c.roomType === 'd' ? 'DM' : '#' + esc(c.roomName)}${c.tmid ? ' · thread' : ''}</span>` : ''}

@@ -104,6 +104,11 @@ const server = http.createServer(async (req, res) => {
         return json(res, 200, publicState(state, cfg));
       }
 
+      if (resource === 'reset' && req.method === 'POST') {
+        state = emptyState();
+        await poll();
+        return json(res, 200, publicState(state, cfg));
+      }
       if (resource === 'rebuild' && req.method === 'POST') {
         rebuild(state);
         await poll();

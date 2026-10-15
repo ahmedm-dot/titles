@@ -16,6 +16,10 @@ on:
         description: Re-scan chat and rebuild the auto-created cards with the current rules
         type: boolean
         default: false
+      reset:
+        description: Delete ALL cards (including your notes and added tasks) and start fresh
+        type: boolean
+        default: false
 
 concurrency:
   group: deploy-chat-tracker
@@ -111,12 +115,14 @@ jobs:
           BOARD_PASSWORD: ${{ secrets.BOARD_PASSWORD }}
           URL: ${{ steps.deploy.outputs.url }}
           REBUILD: ${{ inputs.rebuild }}
+          RESET: ${{ inputs.reset }}
         run: |
           [ -n "$URL" ] || { echo "::warning::No workers.dev URL found in the deploy output"; exit 0; }
           sleep 5
           endpoint=poll
           [ "$REBUILD" = "true" ] && endpoint=rebuild
+          [ "$RESET" = "true" ] && endpoint=reset
           echo "Calling /api/$endpoint"
           curl -sS -u "board:$BOARD_PASSWORD" -X POST "$URL/api/$endpoint" -o poll.json -w "HTTP %{http_code}\n" || true
-          jq '{signedInAs: .me.username, cards: (.cards | length), inbox: ([.cards[] | select(.status=="inbox")] | length), summarized: ([.cards[] | select((.summary // "") != "")] | length), error, aiError, roomsStillQueued: .pending}' poll.json || cat poll.json
+          jq '{signedInAs: .me.username, cards: (.cards | length), inbox: ([.cards[] | select(.status=="inbox")] | length), titles: [.cards[] | select(.status!="done") | .title], summarized: ([.cards[] | select((.summary // "") != "")] | length), error, aiError, roomsStillQueued: .pending}' poll.json || cat poll.json
           echo "### Chat Tracker is live: $URL" >> "$GITHUB_STEP_SUMMARY"

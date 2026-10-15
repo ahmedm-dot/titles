@@ -1,29 +1,51 @@
-// Turns a conversation card into a topic title + "what's asked of you" line with an LLM.
-// `run(messages)` is injected by the host (Workers AI on Cloudflare); without it, cards
-// keep their rule-based title.
+// Turns a conversation card into a contextual title, a background line and
+// "what's asked of you" with an LLM. `run(messages)` is injected by the host
+// (Workers AI on Cloudflare); without it, cards keep their rule-based title.
 
 const TYPES = ['task', 'requirement', 'bug', 'question', 'fyi'];
 
+function line(m) {
+  return `${m.mine ? 'ME' : m.who}: ${m.text.replace(/\s+/g, ' ').slice(0, 500)}`;
+}
+
 function transcript(card) {
-  return card.messages
-    .slice(-15)
-    .map((m) => `${m.mine ? 'ME' : m.who}: ${m.text.replace(/\s+/g, ' ').slice(0, 400)}`)
-    .join('\n');
+  const msgs = card.messages || [];
+  // Keep the opening message (it usually names the topic) plus the latest exchange.
+  if (msgs.length <= 16) return msgs.map(line).join('\n');
+  return [line(msgs[0]), `… ${msgs.length - 15} earlier messages …`, ...msgs.slice(-14).map(line)].join('\n');
+}
+
+function where(card) {
+  if (card.roomType === 'd') return `a direct message with ${card.roomName}`;
+  return `#${card.roomName}${card.tmid ? ' (a thread)' : ''}`;
 }
 
 function prompt(card, me) {
   return [
     {
       role: 'system',
-      content:
-        `You triage workplace chat for ${me.name || me.username} (shown as ME). ` +
-        'Read the conversation and reply with JSON only, no prose: ' +
-        '{"title": "the topic in at most 8 words", ' +
-        '"ask": "what ME is being asked to do or answer, one short sentence, or empty if nothing", ' +
-        '"type": "task" | "requirement" | "bug" | "question" | "fyi"}. ' +
-        'Write title and ask in the language the conversation mostly uses.',
+      content: `You turn workplace chat into a task card for ${me.name || me.username}, shown as ME.
+Reply with one JSON object and nothing else:
+{"title": "...", "context": "...", "ask": "...", "type": "task|requirement|bug|question|fyi"}
+
+title: "<feature, product or project>: <the specific thing>", 4 to 10 words. Use the real names
+  from the chat (features, screens, clients, locales, models, numbers). Someone must know what it is
+  about without opening it. Never a bare verb phrase.
+  Good: "Smart CV upload: allow photo upload during parsing"
+  Good: "AR locale: switch upload flow to gemini-3.5-flash-lite"
+  Good: "CV domain: Show Icon toggle hides icons when off"
+  Bad: "Validate changes"  Bad: "Review ATS design"  Bad: "Question about upload"
+context: one sentence of background: what the discussion is about and where it stands.
+ask: what ME must do or answer next, one short sentence starting with a verb. Empty string if
+  nothing is needed from ME (for example ME already answered and nobody asked again).
+type: task (ME must do something), requirement (a new feature or spec), bug (something broken),
+  question (ME must answer), fyi (nothing needed).
+Write in the language the conversation mostly uses.`,
     },
-    { role: 'user', content: `Conversation in ${card.roomType === 'd' ? 'a DM' : '#' + card.roomName}:\n${transcript(card)}` },
+    {
+      role: 'user',
+      content: `Conversation in ${where(card)}${card.participants?.length ? ` with ${card.participants.join(', ')}` : ''}:\n${transcript(card)}`,
+    },
   ];
 }
 
@@ -38,25 +60,23 @@ function parse(reply) {
       return null;
     }
   }
-  try {
-    return {
-      title: String(out.title || '').trim().slice(0, 120),
-      ask: String(out.ask || '').trim().slice(0, 240),
-      type: TYPES.includes(out.type) ? out.type : null,
-    };
-  } catch {
-    return null;
-  }
+  if (!out || typeof out !== 'object') return null;
+  return {
+    title: String(out.title || '').trim().slice(0, 120),
+    context: String(out.context || '').trim().slice(0, 280),
+    ask: String(out.ask || '').trim().slice(0, 240),
+    type: TYPES.includes(out.type) ? out.type : null,
+  };
 }
 
 /**
- * Summarizes up to `max` cards that changed, newest open cards first. Returns ids updated.
- * The last failure is kept in state.aiError so the board can show it.
+ * Summarizes up to `max` cards that changed: open cards first (newest first), then Done.
+ * Returns ids updated. The last failure is kept in state.aiError so it can be shown.
  */
 export async function summarizeCards(state, run, max = 6) {
   const queue = state.cards
-    .filter((c) => c.needsSummary && c.source === 'rocketchat' && c.status !== 'done' && (c.summaryTries || 0) < 3)
-    .sort((a, b) => b.lastTs.localeCompare(a.lastTs))
+    .filter((c) => c.needsSummary && c.source === 'rocketchat' && (c.summaryTries || 0) < 3)
+    .sort((a, b) => (a.status === 'done') - (b.status === 'done') || b.lastTs.localeCompare(a.lastTs))
     .slice(0, max);
   const updated = [];
   for (const card of queue) {
@@ -75,6 +95,7 @@ export async function summarizeCards(state, run, max = 6) {
       continue;
     }
     if (out.title && !card.titleEdited) card.title = out.title;
+    card.context = out.context;
     card.summary = out.ask;
     if (out.type) card.type = out.type;
     card.needsSummary = false;

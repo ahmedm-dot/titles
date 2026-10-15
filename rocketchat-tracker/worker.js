@@ -45,8 +45,12 @@ async function saveSync(db, state, changedIds, removedIds) {
   await db.batch(stmts);
 }
 
-async function sync(env, { fresh = false } = {}) {
+async function sync(env, { fresh = false, wipe = false, aiMax = 6 } = {}) {
   const cfg = readConfig(env);
+  if (wipe) {
+    await ensureSchema(env.DB);
+    await env.DB.batch([env.DB.prepare('DELETE FROM cards'), env.DB.prepare('DELETE FROM meta')]);
+  }
   const state = await loadState(env.DB);
   if (fresh) {
     const gone = rebuild(state);
@@ -54,8 +58,8 @@ async function sync(env, { fresh = false } = {}) {
   }
   const changed = await pollOnce(state, cfg);
   if (env.AI && state.me) {
-    const run = async (messages) => (await env.AI.run(AI_MODEL, { messages, max_tokens: 200 }))?.response;
-    for (const id of await summarizeCards(state, run)) changed.add(id);
+    const run = async (messages) => (await env.AI.run(AI_MODEL, { messages, max_tokens: 350 }))?.response;
+    for (const id of await summarizeCards(state, run, aiMax)) changed.add(id);
   }
   const removed = prune(state);
   await saveSync(env.DB, state, changed, removed);
@@ -94,7 +98,12 @@ export default {
         return json(publicState(state, cfg));
       }
       if (resource === 'rebuild' && request.method === 'POST') {
-        const { state } = await sync(env, { fresh: true });
+        const { state } = await sync(env, { fresh: true, aiMax: 15 });
+        return json(publicState(state, cfg));
+      }
+      // Deletes every card (including your own and your notes) and starts over.
+      if (resource === 'reset' && request.method === 'POST') {
+        const { state } = await sync(env, { wipe: true, aiMax: 15 });
         return json(publicState(state, cfg));
       }
       if (resource === 'bulk' && request.method === 'POST') {
