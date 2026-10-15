@@ -45,7 +45,7 @@ async function saveSync(db, state, changedIds, removedIds) {
   await db.batch(stmts);
 }
 
-async function sync(env, { fresh = false, wipe = false, aiMax = 6 } = {}) {
+async function sync(env, { fresh = false, wipe = false, resummarize = false, aiMax = 6 } = {}) {
   const cfg = readConfig(env);
   if (wipe) {
     await ensureSchema(env.DB);
@@ -57,6 +57,14 @@ async function sync(env, { fresh = false, wipe = false, aiMax = 6 } = {}) {
     if (gone.length) await env.DB.batch(gone.map((id) => env.DB.prepare('DELETE FROM cards WHERE id = ?1').bind(id)));
   }
   const changed = await pollOnce(state, cfg);
+  if (resummarize) {
+    for (const c of state.cards) {
+      if (c.source === 'rocketchat' && c.status !== 'done') {
+        c.needsSummary = true;
+        c.summaryTries = 0;
+      }
+    }
+  }
   if (env.AI && state.me) {
     const run = async (messages) => (await env.AI.run(AI_MODEL, { messages, max_tokens: 350 }))?.response;
     for (const id of await summarizeCards(state, run, aiMax)) changed.add(id);
@@ -99,6 +107,11 @@ export default {
       }
       if (resource === 'rebuild' && request.method === 'POST') {
         const { state } = await sync(env, { fresh: true, aiMax: 15 });
+        return json(publicState(state, cfg));
+      }
+      // Re-runs the AI on every open card (titles, asks and automatic status), keeping your cards.
+      if (resource === 'resummarize' && request.method === 'POST') {
+        const { state } = await sync(env, { resummarize: true, aiMax: 20 });
         return json(publicState(state, cfg));
       }
       // Deletes every card (including your own and your notes) and starts over.

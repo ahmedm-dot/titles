@@ -1,5 +1,5 @@
 // Core tracker logic shared by the Node server (server.js) and the Cloudflare Worker (worker.js).
-// Works on a plain `state` object: { me, cards, roomCursors, pendingRooms, lastPoll, error }.
+// Works on a plain `state` object: { me, cards, roomCursors, pendingRooms, gaps, lastPoll, error }.
 // No Node or Cloudflare APIs in here.
 
 import { RocketChat } from './rocketchat.js';
@@ -29,9 +29,11 @@ export function readConfig(env) {
     watchKeywords: list(env.WATCH_KEYWORDS),
     mutedRooms: list(env.MUTED_ROOMS).map((r) => r.replace(/^#/, '')),
     groupMentions: env.INCLUDE_GROUP_MENTIONS === 'true',
-    // Cloudflare's free plan allows 50 outbound requests per run; leftovers carry to the next run.
+    // Cloudflare's free plan allows 50 outbound requests per run; whatever doesn't fit
+    // carries over to the next run, so nothing is skipped.
     maxRoomsPerPoll: Number(env.MAX_ROOMS_PER_POLL || Infinity),
     maxPagesPerRoom: Number(env.MAX_PAGES_PER_ROOM || 10),
+    maxRequests: Number(env.MAX_REQUESTS_PER_POLL || Infinity),
   };
 }
 
@@ -42,17 +44,23 @@ export function missingConfig(cfg) {
 }
 
 export function emptyState() {
-  return { me: null, cards: [], roomCursors: {}, pendingRooms: [], lastPoll: null, error: null };
+  return { me: null, cards: [], roomCursors: {}, pendingRooms: [], gaps: [], lastPoll: null, error: null };
 }
 
 /**
  * One sync pass. Mutates `state`; returns the ids of cards that were created or changed.
+ *
+ * Each room has a cursor (the last message read). When a room has more new messages than
+ * one run can read, the newest ones are read now and the unread stretch in between is
+ * kept as a "gap" that later runs fill in, so no message is ever skipped.
  */
 export async function pollOnce(state, cfg) {
   const rc = new RocketChat(cfg);
+  const budgetLeft = () => cfg.maxRequests - rc.calls;
   const changed = new Set();
   const startedAt = new Date().toISOString();
   state.pendingRooms ||= [];
+  state.gaps ||= [];
   try {
     if (!state.me) {
       const me = await rc.me();
@@ -72,20 +80,47 @@ export async function pollOnce(state, cfg) {
       if (subs.has(r._id) && r.lm) queue.set(r._id, { _id: r._id, t: r.t, name: r.name, fname: r.fname, lm: toISO(r.lm) });
     }
     const due = [...queue.values()].filter((r) => r.lm > (state.roomCursors[r._id] || lookback));
-    const now = due.slice(0, cfg.maxRoomsPerPoll);
-    state.pendingRooms = due.slice(cfg.maxRoomsPerPoll);
+    state.pendingRooms = [];
+    let roomsRead = 0;
+    const hasRoom = () => roomsRead < cfg.maxRoomsPerPoll && budgetLeft() >= 2;
 
-    for (const room of now) {
+    const readAll = async (messages, room, sub) => {
+      for (let i = 0; i < messages.length; i++) {
+        await handleMessage(state, cfg, rc, messages[i], messages.slice(Math.max(0, i - CONTEXT_BEFORE), i), room, sub, changed, budgetLeft);
+      }
+    };
+
+    // 1. New messages, newest first.
+    for (const room of due) {
       const sub = subs.get(room._id);
       if (!sub) continue;
-      room.name = room.name || sub.name;
-      room.displayName = room.t === 'd' ? sub.fname || sub.name : room.fname || room.name;
-      const cursor = state.roomCursors[room._id] || lookback;
-      const messages = await fetchSince(rc, room, cursor, cfg.maxPagesPerRoom);
-      for (let i = 0; i < messages.length; i++) {
-        await handleMessage(state, cfg, rc, messages[i], messages.slice(Math.max(0, i - CONTEXT_BEFORE), i), room, sub, changed);
+      if (!hasRoom()) {
+        state.pendingRooms.push(room);
+        continue;
       }
+      roomsRead++;
+      prepareRoom(room, sub);
+      const cursor = state.roomCursors[room._id] || lookback;
+      const { messages, complete, oldestRead } = await fetchBetween(rc, room, cursor, undefined, cfg.maxPagesPerRoom, budgetLeft);
+      await readAll(messages, room, sub);
+      if (!complete) state.gaps.push({ rid: room._id, from: cursor, to: oldestRead, room: minimalRoom(room) });
       state.roomCursors[room._id] = messages.length ? toISO(messages.at(-1).ts) : room.lm;
+    }
+
+    // 2. Fill in unread stretches left by earlier busy runs, with whatever budget is left.
+    for (const gap of [...state.gaps]) {
+      if (!hasRoom()) break;
+      const sub = subs.get(gap.rid);
+      if (!sub) {
+        state.gaps = state.gaps.filter((g) => g !== gap);
+        continue;
+      }
+      roomsRead++;
+      const room = prepareRoom({ ...gap.room }, sub);
+      const { messages, complete, oldestRead } = await fetchBetween(rc, room, gap.from, gap.to, cfg.maxPagesPerRoom, budgetLeft);
+      await readAll(messages, room, sub);
+      if (complete) state.gaps = state.gaps.filter((g) => g !== gap);
+      else gap.to = oldestRead;
     }
 
     wakeSnoozed(state, changed);
@@ -97,20 +132,36 @@ export async function pollOnce(state, cfg) {
   return changed;
 }
 
-async function fetchSince(rc, room, oldest, maxPages) {
-  // History comes newest-first; page backwards with `latest` until we reach `oldest`.
+function prepareRoom(room, sub) {
+  room.name = room.name || sub.name;
+  room.displayName = room.t === 'd' ? sub.fname || sub.name : room.fname || room.name;
+  return room;
+}
+
+const minimalRoom = (r) => ({ _id: r._id, t: r.t, name: r.name, fname: r.fname });
+
+/**
+ * Messages after `oldest` (and before `latest`, if given), oldest first. History comes
+ * newest-first, so it pages backwards; `complete` is false when it stopped before reaching
+ * `oldest`, and `oldestRead` is where to continue next time.
+ */
+async function fetchBetween(rc, room, oldest, latest, maxPages, budgetLeft) {
   const out = [];
-  let latest;
-  for (let page = 0; page < maxPages; page++) {
+  let complete = false;
+  for (let page = 0; page < maxPages && budgetLeft() > 0; page++) {
     const { messages = [] } = await rc.history(room, oldest, latest);
     out.push(...messages);
-    if (messages.length < 100) break;
+    if (messages.length < 100) {
+      complete = true;
+      break;
+    }
     latest = toISO(messages.at(-1).ts);
   }
   const seen = new Set();
-  return out
+  const sorted = out
     .filter((m) => !seen.has(m._id) && seen.add(m._id))
     .sort((a, b) => toISO(a.ts).localeCompare(toISO(b.ts)));
+  return { messages: sorted, complete, oldestRead: sorted.length ? toISO(sorted[0].ts) : latest };
 }
 
 // ---------- conversation cards ----------
@@ -129,7 +180,7 @@ function findConversation(state, msg, room, ts) {
   for (const c of state.cards) {
     if (c.source !== 'rocketchat' || c.roomId !== room._id) continue;
     const sameKey = c.key === key || (msg.tmid && c.msgIds.includes(msg.tmid));
-    if (!sameKey || Date.parse(ts) - Date.parse(c.lastTs) > gap) continue;
+    if (!sameKey || Date.parse(ts) - Date.parse(c.lastTs) > gap || Date.parse(c.createdAt) - Date.parse(ts) > gap) continue;
     if (!best || c.lastTs > best.lastTs) best = c;
   }
   return best;
@@ -151,15 +202,18 @@ function append(card, entry) {
   if (card.msgIds.includes(entry.id)) return false;
   card.messages.push(entry);
   card.msgIds.push(entry.id);
+  // Backfilled (older) messages can arrive after newer ones; keep the conversation in order.
+  if (card.messages.length > 1 && entry.ts < card.messages.at(-2).ts) card.messages.sort((a, b) => a.ts.localeCompare(b.ts));
   if (card.messages.length > MAX_MESSAGES_PER_CARD) card.messages = card.messages.slice(-MAX_MESSAGES_PER_CARD);
   if (entry.ts > card.lastTs) card.lastTs = entry.ts;
+  if (entry.ts < card.createdAt) card.createdAt = entry.ts;
   if (!entry.mine && !card.participants.includes(entry.who)) card.participants.push(entry.who);
   card.needsSummary = true;
   card.summaryTries = 0;
   return true;
 }
 
-async function handleMessage(state, cfg, rc, msg, before, room, sub, changed) {
+async function handleMessage(state, cfg, rc, msg, before, room, sub, changed, budgetLeft = () => Infinity) {
   if (!msg.msg || msg.t) return; // system messages
   const me = state.me;
   const ts = toISO(msg.ts);
@@ -172,17 +226,19 @@ async function handleMessage(state, cfg, rc, msg, before, room, sub, changed) {
     // In a channel, your top-level message only belongs here if it answers someone in it.
     const answers = room.t === 'd' || msg.tmid || (msg.mentions || []).some((m) => card.senders?.includes(m.username));
     if (!answers) return;
+    const latest = ts >= card.lastTs; // an older, backfilled reply doesn't answer newer asks
     if (!append(card, entryFor(rc, room, msg, me, false))) return;
-    card.replied = true;
-    card.waitingOnThem = true;
-    if (card.status === 'inbox') {
-      // Real work you acknowledged moves to To do; everything else is handled.
-      const work = ['task', 'requirement', 'bug'].includes(card.type) && card.priority === 'high';
-      card.status = work ? 'todo' : 'done';
-      card.autoMoved = true;
+    if (latest) {
+      card.replied = true;
+      card.waitingOnThem = true;
+      if (card.status === 'inbox') {
+        // Real work you acknowledged moves to To do; everything else is handled.
+        const work = ['task', 'requirement', 'bug'].includes(card.type) && card.priority === 'high';
+        autoMove(card, work ? 'todo' : 'done', 'you replied');
+      }
+      card.reopened = false;
+      card.newActivity = false;
     }
-    card.reopened = false;
-    card.newActivity = false;
     card.updatedAt = nowIso;
     changed.add(card.id);
     return;
@@ -194,13 +250,14 @@ async function handleMessage(state, cfg, rc, msg, before, room, sub, changed) {
   if (card) {
     // Threads and DMs keep every message; a busy channel only adds asks or people already in it.
     const keep = msg.tmid || room.t === 'd' || relevant || card.senders?.includes(msg.u.username);
+    const latest = ts >= card.lastTs;
     if (!keep || !append(card, entryFor(rc, room, msg, me, relevant))) return;
     card.senders = [...new Set([...(card.senders || []), msg.u.username])];
-    card.waitingOnThem = false;
-    if (relevant) {
-      mergeResult(card, result);
+    if (relevant) mergeResult(card, result);
+    if (relevant && latest) {
+      card.waitingOnThem = false;
       if (card.status === 'done') {
-        card.status = 'inbox';
+        autoMove(card, 'inbox', 'new ask');
         card.reopened = true;
       } else if (card.status !== 'inbox') {
         card.newActivity = true;
@@ -216,7 +273,7 @@ async function handleMessage(state, cfg, rc, msg, before, room, sub, changed) {
   // New conversation. A thread is titled by its first message.
   let title = msg.msg;
   let root = null;
-  if (msg.tmid) {
+  if (msg.tmid && budgetLeft() > 0) {
     root = await rc.message(msg.tmid).catch(() => null);
     if (root?.msg) title = root.msg;
   }
@@ -264,6 +321,36 @@ async function handleMessage(state, cfg, rc, msg, before, room, sub, changed) {
   changed.add(card.id);
 }
 
+function autoMove(card, status, reason) {
+  if (card.status === status) return false;
+  card.status = status;
+  card.autoReason = reason;
+  card.autoAt = new Date().toISOString();
+  return true;
+}
+
+/**
+ * Moves a card to match the AI's reading of the conversation:
+ *   resolved        → Done (from any column)
+ *   waiting_on_them → Waiting on others (from Inbox or To do)
+ *   needs_me        → Inbox (from Waiting or Done), unless your message is the latest
+ * A move you made by hand wins until someone writes in the conversation again.
+ * Returns true if the card moved.
+ */
+export function applyAiState(card, aiState) {
+  card.aiState = aiState || null;
+  if (!aiState) return false;
+  if (card.manualAt && card.manualAt >= card.lastTs) return false;
+  const from = card.status;
+  if (aiState === 'resolved') return autoMove(card, 'done', 'resolved');
+  if (aiState === 'waiting_on_them' && (from === 'inbox' || from === 'todo')) return autoMove(card, 'waiting', 'waiting on them');
+  if (aiState === 'needs_me' && (from === 'waiting' || from === 'done') && !card.messages?.at(-1)?.mine) {
+    if (from === 'done') card.reopened = true;
+    return autoMove(card, 'inbox', 'needs you');
+  }
+  return false;
+}
+
 function mergeResult(card, result) {
   card.reasons = [...new Set([...card.reasons, ...result.reasons])];
   card.urgent ||= result.urgent;
@@ -293,6 +380,7 @@ export function rebuild(state) {
   state.cards = state.cards.filter((c) => !removed.includes(c.id));
   state.roomCursors = {};
   state.pendingRooms = [];
+  state.gaps = [];
   state.lastPoll = null;
   return removed;
 }
@@ -308,6 +396,10 @@ export function prune(state) {
 export function applyPatch(card, body) {
   for (const k of EDITABLE) if (k in body) card[k] = body[k];
   if ('title' in body) card.titleEdited = true;
+  if ('status' in body) {
+    card.manualAt = new Date().toISOString(); // your move wins over automatic moves
+    card.autoReason = null;
+  }
   card.newActivity = false;
   card.reopened = false;
   if (!STATUSES.includes(card.status)) card.status = 'inbox';
@@ -343,7 +435,7 @@ export function publicState(state, cfg, extra = {}) {
     lastPoll: state.lastPoll,
     error: state.error,
     aiError: state.aiError || null,
-    pending: (state.pendingRooms || []).length,
+    pending: (state.pendingRooms || []).length + (state.gaps || []).length,
     rcUrl: cfg.url.replace(/\/+$/, ''),
     pollSeconds: cfg.pollSeconds,
     ...extra,

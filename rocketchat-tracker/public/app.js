@@ -197,6 +197,7 @@ function cardHtml(c) {
       <span class="tag">${esc(c.type)}</span>${reasons}
       ${c.urgent ? '<span class="tag urgent">urgent</span>' : ''}
       ${c.reopened ? '<span class="tag urgent">reopened</span>' : ''}
+      ${c.autoReason ? `<span class="tag auto" title="Moved automatically ${c.autoAt ? ago(c.autoAt) : ''}. Drag it back to override.">auto: ${esc(c.autoReason)}</span>` : ''}
       ${c.newActivity ? '<span class="tag mention">new activity</span>' : ''}
       ${lastMine ? '<span class="tag replied">↩ you replied last</span>' : ''}
       ${snoozed ? `<span class="tag">⏰ ${new Date(c.snoozedUntil).toLocaleString([], { weekday: 'short', hour: '2-digit', minute: '2-digit' })}</span>` : ''}

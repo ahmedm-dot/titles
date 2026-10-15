@@ -16,6 +16,10 @@ on:
         description: Re-scan chat and rebuild the auto-created cards with the current rules
         type: boolean
         default: false
+      resummarize:
+        description: Re-run the AI on every open card (titles, asks, automatic status), keeping your cards
+        type: boolean
+        default: false
       reset:
         description: Delete ALL cards (including your notes and added tasks) and start fresh
         type: boolean
@@ -116,13 +120,15 @@ jobs:
           URL: ${{ steps.deploy.outputs.url }}
           REBUILD: ${{ inputs.rebuild }}
           RESET: ${{ inputs.reset }}
+          RESUMMARIZE: ${{ inputs.resummarize }}
         run: |
           [ -n "$URL" ] || { echo "::warning::No workers.dev URL found in the deploy output"; exit 0; }
           sleep 5
           endpoint=poll
           [ "$REBUILD" = "true" ] && endpoint=rebuild
+          [ "$RESUMMARIZE" = "true" ] && endpoint=resummarize
           [ "$RESET" = "true" ] && endpoint=reset
           echo "Calling /api/$endpoint"
           curl -sS -u "board:$BOARD_PASSWORD" -X POST "$URL/api/$endpoint" -o poll.json -w "HTTP %{http_code}\n" || true
-          jq '{signedInAs: .me.username, cards: (.cards | length), inbox: ([.cards[] | select(.status=="inbox")] | length), titles: [.cards[] | select(.status!="done") | .title], summarized: ([.cards[] | select((.summary // "") != "")] | length), error, aiError, roomsStillQueued: .pending}' poll.json || cat poll.json
+          jq '{signedInAs: .me.username, cards: (.cards | length), inbox: ([.cards[] | select(.status=="inbox")] | length), board: [.cards[] | "\(.status) | \(.autoReason // "-") | \(.title)"], summarized: ([.cards[] | select((.summary // "") != "")] | length), error, aiError, roomsStillQueued: .pending}' poll.json || cat poll.json
           echo "### Chat Tracker is live: $URL" >> "$GITHUB_STEP_SUMMARY"

@@ -2,7 +2,10 @@
 // "what's asked of you" with an LLM. `run(messages)` is injected by the host
 // (Workers AI on Cloudflare); without it, cards keep their rule-based title.
 
+import { applyAiState } from './tracker.js';
+
 const TYPES = ['task', 'requirement', 'bug', 'question', 'fyi'];
+const STATES = ['needs_me', 'waiting_on_them', 'resolved'];
 
 function line(m) {
   return `${m.mine ? 'ME' : m.who}: ${m.text.replace(/\s+/g, ' ').slice(0, 500)}`;
@@ -26,7 +29,8 @@ function prompt(card, me) {
       role: 'system',
       content: `You turn workplace chat into a task card for ${me.name || me.username}, shown as ME.
 Reply with one JSON object and nothing else:
-{"title": "...", "context": "...", "ask": "...", "type": "task|requirement|bug|question|fyi"}
+{"title": "...", "context": "...", "ask": "...", "type": "task|requirement|bug|question|fyi",
+ "state": "needs_me|waiting_on_them|resolved"}
 
 title: "<feature, product or project>: <the specific thing>", 4 to 10 words. Use the real names
   from the chat (features, screens, clients, locales, models, numbers). Someone must know what it is
@@ -41,6 +45,12 @@ ask: what ME must do or answer next, one short sentence starting with a verb. Em
   nothing is needed from ME (for example ME already answered and nobody asked again).
 type: task (ME must do something), requirement (a new feature or spec), bug (something broken),
   question (ME must answer), fyi (nothing needed).
+state: where the conversation stands right now, judged from the latest messages:
+  needs_me: someone is waiting for ME to answer, decide, review or deliver something.
+  waiting_on_them: ME replied, asked something or handed work off, and is waiting for someone else.
+  resolved: answered, fixed, confirmed, delivered or dropped ("works now", "thanks", "done",
+    "deployed", "no need"), and nobody is waiting on anything.
+  When unsure between needs_me and anything else, choose needs_me.
 Write in the language the conversation mostly uses.`,
     },
     {
@@ -67,6 +77,7 @@ function parse(reply) {
     context: String(out.context || '').trim().slice(0, 280),
     ask: String(out.ask || '').trim().slice(0, 240),
     type: TYPES.includes(out.type) ? out.type : null,
+    state: STATES.includes(out.state) ? out.state : null,
   };
 }
 
@@ -99,6 +110,7 @@ export async function summarizeCards(state, run, max = 6) {
     card.context = out.context;
     card.summary = out.ask;
     if (out.type) card.type = out.type;
+    applyAiState(card, out.state);
     card.needsSummary = false;
     card.summaryTries = 0;
     state.aiError = null;

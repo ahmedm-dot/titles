@@ -11,7 +11,11 @@ export class RocketChat {
     };
   }
 
+  // Requests made so far; the sync stops before Cloudflare's per-run limit.
+  calls = 0;
+
   async get(path, params = {}) {
+    this.calls++;
     const qs = new URLSearchParams(
       Object.entries(params).filter(([, v]) => v !== undefined && v !== null)
     ).toString();

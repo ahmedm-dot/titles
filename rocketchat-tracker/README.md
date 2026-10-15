@@ -11,9 +11,11 @@ A small web app that keeps scanning your Rocket.Chat account and turns the
   never makes a card.
 - On Cloudflare, **Workers AI** gives each card a topic title and one line saying what
   is being asked of you. The keyword rules cover English and Arabic.
-- When you reply, the card leaves Inbox: your high-priority work goes to **To do**,
-  everything else to **Done**. A new ask in the same conversation reopens it, or marks
-  it **new activity** if it is already in progress.
+- **Cards move by themselves.** When you reply, the card leaves Inbox (high-priority work
+  to **To do**, the rest to **Done**). The AI also reads where each conversation stands:
+  *resolved* → **Done**, *waiting on them* → **Waiting on others**, *needs you* → back to
+  **Inbox**. Moved cards show an `auto:` tag. A move you make by hand always wins until
+  someone writes in that conversation again.
 - Board columns: **Inbox → To do → Doing → Waiting on others → Done**, with drag and
   drop, notes, snooze, *Open in chat ↗* and **Mark all done** on the Inbox.
 - Desktop notifications for new high-priority asks, reopened conversations and ended
@@ -68,8 +70,10 @@ Run the workflow by hand with **rebuild** ticked to re-scan chat with the curren
 Notes:
 - **If Rocket.Chat is behind Cloudflare with Bot Fight Mode or a WAF**, allow the
   Worker's requests to `/api/v1/*`, or the sync shows an error on the board.
-- Free plan limit: 50 outbound requests per run. A busy first sync is spread over the
-  next few minutes, and the board shows "catching up on N rooms" meanwhile.
+- Free plan limit: 50 outbound requests per run. The sync stops at 45 and continues the
+  next minute, and the board shows "catching up on N rooms" meanwhile. For a very busy
+  room it reads the newest messages first and fills in the older stretch on later runs,
+  so no message is skipped.
 - Logs: `npx wrangler tail`.
 - Instead of the password you can put the link behind Cloudflare Access (Zero Trust,
   free for up to 50 users) for Google or email sign-in.
