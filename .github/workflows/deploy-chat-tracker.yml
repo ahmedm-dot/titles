@@ -118,5 +118,5 @@ jobs:
           [ "$REBUILD" = "true" ] && endpoint=rebuild
           echo "Calling /api/$endpoint"
           curl -sS -u "board:$BOARD_PASSWORD" -X POST "$URL/api/$endpoint" -o poll.json -w "HTTP %{http_code}\n" || true
-          jq '{signedInAs: .me.username, cards: (.cards | length), inbox: ([.cards[] | select(.status=="inbox")] | length), summarized: ([.cards[] | select((.summary // "") != "")] | length), error, roomsStillQueued: .pending}' poll.json || cat poll.json
+          jq '{signedInAs: .me.username, cards: (.cards | length), inbox: ([.cards[] | select(.status=="inbox")] | length), summarized: ([.cards[] | select((.summary // "") != "")] | length), error, aiError, roomsStillQueued: .pending}' poll.json || cat poll.json
           echo "### Chat Tracker is live: $URL" >> "$GITHUB_STEP_SUMMARY"

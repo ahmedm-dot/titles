@@ -155,6 +155,7 @@ function append(card, entry) {
   if (entry.ts > card.lastTs) card.lastTs = entry.ts;
   if (!entry.mine && !card.participants.includes(entry.who)) card.participants.push(entry.who);
   card.needsSummary = true;
+  card.summaryTries = 0;
   return true;
 }
 
@@ -339,6 +340,7 @@ export function publicState(state, cfg, extra = {}) {
     cards: state.cards,
     lastPoll: state.lastPoll,
     error: state.error,
+    aiError: state.aiError || null,
     pending: (state.pendingRooms || []).length,
     rcUrl: cfg.url.replace(/\/+$/, ''),
     pollSeconds: cfg.pollSeconds,

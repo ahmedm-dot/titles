@@ -13,7 +13,7 @@ const SCHEMA = [
   'CREATE TABLE IF NOT EXISTS cards (id TEXT PRIMARY KEY, data TEXT NOT NULL)',
   'CREATE TABLE IF NOT EXISTS meta (key TEXT PRIMARY KEY, value TEXT NOT NULL)',
 ];
-const META_KEYS = ['me', 'roomCursors', 'pendingRooms', 'lastPoll', 'error'];
+const META_KEYS = ['me', 'roomCursors', 'pendingRooms', 'lastPoll', 'error', 'aiError'];
 
 async function ensureSchema(db) {
   await db.batch(SCHEMA.map((sql) => db.prepare(sql)));
@@ -54,7 +54,7 @@ async function sync(env, { fresh = false } = {}) {
   }
   const changed = await pollOnce(state, cfg);
   if (env.AI && state.me) {
-    const run = async (messages) => (await env.AI.run(AI_MODEL, { messages, max_tokens: 200 })).response;
+    const run = async (messages) => (await env.AI.run(AI_MODEL, { messages, max_tokens: 200 }))?.response;
     for (const id of await summarizeCards(state, run)) changed.add(id);
   }
   const removed = prune(state);
