@@ -20,14 +20,33 @@ const api = (path, opts = {}) =>
     headers: { 'Content-Type': 'application/json' },
     body: opts.body ? JSON.stringify(opts.body) : undefined,
   }).then((r) => r.json());
-const patch = (id, body) => api(`cards/${id}`, { method: 'PATCH', body });
+const patch = (id, body) => api(`cards/${id}`, { method: 'PATCH', body }).then(() => refresh());
 
-// ---------- live updates ----------
-const events = new EventSource('/api/events');
-events.addEventListener('state', (e) => {
-  data = JSON.parse(e.data);
-  safeRender();
-});
+// ---------- sync with the server ----------
+const REFRESH_MS = 20000;
+let alerted = null; // card versions already seen, so each item alerts once
+
+async function refresh(next) {
+  try {
+    next ||= await api('state');
+    if (!next.cards) throw new Error(next.error || 'bad response');
+    checkAlerts(next.cards);
+    data = next;
+    safeRender();
+  } catch {
+    $('#sync').textContent = "Can't reach the board server, retrying…";
+  }
+}
+
+function checkAlerts(cards) {
+  const key = (c) => `${c.id}|${c.lastTs}|${c.wokeAt || ''}`;
+  const first = !alerted;
+  alerted ||= new Set();
+  const fresh = cards.filter((c) => !alerted.has(key(c)));
+  fresh.forEach((c) => alerted.add(key(c)));
+  if (first) return; // don't alert for what was already there when the page opened
+  notify(fresh.filter((c) => c.status !== 'done' && (c.priority === 'high' || c.wokeAt)));
+}
 
 // Don't re-render under the user's cursor while they type a note.
 let pending = false;
@@ -41,8 +60,6 @@ document.addEventListener('focusout', () => {
     safeRender();
   });
 });
-events.addEventListener('alert', (e) => notify(JSON.parse(e.data)));
-events.onerror = () => ($('#sync').textContent = 'Disconnected from the local server, retrying…');
 
 // ---------- browser notifications ----------
 function setupNotifyButton() {
@@ -64,7 +81,7 @@ function notify(alerts) {
     return;
   }
   for (const a of alerts) {
-    const n = new Notification(a.woke ? `⏰ Snooze over: ${a.title}` : `${a.sender?.name} in ${a.roomName}`, {
+    const n = new Notification(a.wokeAt ? `⏰ Snooze over: ${a.title}` : `${a.sender?.name} in ${a.roomName}`, {
       body: a.title,
       tag: a.id,
     });
@@ -110,7 +127,8 @@ function render() {
   const awake = open.filter((c) => !c.snoozedUntil || c.snoozedUntil <= now);
 
   const synced = data.lastPoll ? `Synced ${ago(data.lastPoll)}` : 'First sync in progress…';
-  $('#sync').textContent = data.me ? `@${data.me.username} · ${synced} · every ${data.pollSeconds}s` : synced;
+  const backlog = data.pending ? ` · catching up on ${data.pending} rooms` : '';
+  $('#sync').textContent = data.me ? `@${data.me.username} · ${synced} · every ${data.pollSeconds}s${backlog}` : synced;
   $('#error').hidden = !data.error;
   $('#error').textContent = data.error ? `Rocket.Chat sync error: ${data.error}` : '';
 
@@ -153,7 +171,7 @@ function cardHtml(c) {
     .map((m) => `<div class="msg"><time>${new Date(m.ts).toLocaleString()}</time>${esc(m.text)}</div>`)
     .join('');
 
-  return `<article class="card ${c.priority} ${c.woke ? 'woke' : ''}" id="${c.id}" draggable="true">
+  return `<article class="card ${c.priority} ${c.wokeAt && Date.now() - Date.parse(c.wokeAt) < 600000 ? 'woke' : ''}" id="${c.id}" draggable="true">
     <div class="meta">
       <span class="tag">${esc(c.type)}</span>${reasons}
       ${c.urgent ? '<span class="tag urgent">urgent</span>' : ''}
@@ -208,7 +226,19 @@ board.addEventListener('click', async (e) => {
   if (!btn) return;
   const { act, id } = btn.dataset;
   if (act === 'done') await patch(id, { status: 'done' });
-  if (act === 'delete' && confirm('Delete this card?')) await api(`cards/${id}`, { method: 'DELETE' });
+  if (act === 'delete') {
+    if (btn.dataset.confirm) {
+      await api(`cards/${id}`, { method: 'DELETE' });
+      refresh();
+    } else {
+      btn.dataset.confirm = '1';
+      btn.textContent = 'Delete?';
+      setTimeout(() => {
+        delete btn.dataset.confirm;
+        btn.textContent = '🗑';
+      }, 3000);
+    }
+  }
 });
 
 board.addEventListener('change', async (e) => {
@@ -275,7 +305,7 @@ $('#showSnoozed').addEventListener('change', (e) => {
 // header actions
 $('#refreshBtn').onclick = () => {
   $('#sync').textContent = 'Syncing…';
-  api('poll', { method: 'POST' });
+  api('poll', { method: 'POST' }).then(refresh, () => refresh());
 };
 $('#addBtn').onclick = () => $('#addDialog').showModal();
 $('#addForm').addEventListener('submit', async (e) => {
@@ -283,7 +313,9 @@ $('#addForm').addEventListener('submit', async (e) => {
   const f = new FormData(e.target);
   await api('cards', { method: 'POST', body: Object.fromEntries(f) });
   e.target.reset();
+  refresh();
 });
 
 setupNotifyButton();
-setInterval(safeRender, 60000); // keep "x min ago" fresh
+refresh();
+setInterval(refresh, REFRESH_MS);

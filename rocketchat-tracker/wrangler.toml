@@ -1,0 +1,35 @@
+# Cloudflare Worker config. Deploy steps are in README.md ("Host it on Cloudflare").
+name = "chat-tracker"
+main = "worker.js"
+compatibility_date = "2025-09-01"
+
+# Sync with Rocket.Chat every minute, even when nobody has the board open.
+[triggers]
+crons = ["* * * * *"]
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
+# Run the Worker first so the password check also covers the board's files.
+run_worker_first = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "chat-tracker"
+database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+
+[vars]
+RC_URL = "https://rc1.infrozix.com"
+POLL_SECONDS = "60"
+LOOKBACK_HOURS = "48"
+WATCH_KEYWORDS = "requirement,urgent,asap,blocker,ats,auto apply,resumedone"
+MUTED_ROOMS = "general,random"
+INCLUDE_GROUP_MENTIONS = "true"
+# Free plan: max 50 outbound requests per run. Busy backlogs finish over the next few minutes.
+MAX_ROOMS_PER_POLL = "40"
+MAX_PAGES_PER_ROOM = "2"
+
+# Secrets (never put these in this file):
+#   npx wrangler secret put RC_USER_ID
+#   npx wrangler secret put RC_TOKEN
+#   npx wrangler secret put BOARD_PASSWORD
