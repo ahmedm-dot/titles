@@ -32,6 +32,20 @@ No dependencies, no build step. Needs Node 20.12+ (`node --version`).
 
 `.env` and `data/` are git-ignored, so the token and your cards never get committed.
 
+## Get a link you can open anywhere (Render, free)
+
+1. Go to https://render.com, sign in with GitHub, then **New → Blueprint** and pick
+   this repo and branch. It reads `render.yaml` at the repo root.
+2. Fill in `RC_USER_ID`, `RC_TOKEN` and `BOARD_PASSWORD` (8+ characters) when asked.
+3. Open the `https://chat-tracker-xxxx.onrender.com` link. The browser asks for the
+   password; any username works.
+
+Free plan notes: the service sleeps after about 15 minutes with no visitors and
+wakes when you open the link. The disk is temporary, so board moves and notes
+reset on a redeploy, while the cards themselves come back from the chat history
+(`LOOKBACK_HOURS`). For always-on polling and kept notes, use a paid instance
+with a persistent disk mounted at `rocketchat-tracker/data`.
+
 ## How it works
 
 ```
@@ -44,9 +58,9 @@ Rocket.Chat REST API  ──(every POLL_SECONDS)──►  server.js  ──SSE�
 ```
 
 - The token stays on the server and is never sent to the browser.
-- The server listens on `127.0.0.1` only. Don't change `HOST` to `0.0.0.0`
-  unless the machine is private, because anyone who can reach the board can
-  read your cards.
+- By default the server listens on `127.0.0.1` only. To open it to the network
+  (`HOST=0.0.0.0`), you must set `BOARD_PASSWORD`; the server refuses to start
+  without one.
 - On the first run it scans the last `LOOKBACK_HOURS` (default 48).
 
 ## Tuning

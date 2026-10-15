@@ -3,6 +3,7 @@
 // Zero dependencies: Node 20.12+ (built-in fetch, http, loadEnvFile).
 
 import http from 'node:http';
+import crypto from 'node:crypto';
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -28,7 +29,14 @@ const cfg = {
   watchKeywords: list(process.env.WATCH_KEYWORDS),
   mutedRooms: list(process.env.MUTED_ROOMS).map((r) => r.replace(/^#/, '')),
   groupMentions: process.env.INCLUDE_GROUP_MENTIONS !== 'false',
+  password: process.env.BOARD_PASSWORD || '',
 };
+
+const LOCAL_HOSTS = ['127.0.0.1', 'localhost', '::1'];
+if (!LOCAL_HOSTS.includes(cfg.host) && cfg.password.length < 8) {
+  console.error('Refusing to listen on a public address without BOARD_PASSWORD (8+ characters).');
+  process.exit(1);
+}
 
 for (const k of ['url', 'userId', 'token']) {
   if (!cfg[k]) {
@@ -273,7 +281,22 @@ const json = (res, code, body) => {
   res.end(JSON.stringify(body));
 };
 
+// Basic auth when hosted publicly: any username, password = BOARD_PASSWORD.
+function authorized(req) {
+  if (!cfg.password) return true;
+  const [scheme, value] = (req.headers.authorization || '').split(' ');
+  if (scheme !== 'Basic' || !value) return false;
+  const pass = Buffer.from(value, 'base64').toString().split(':').slice(1).join(':');
+  const a = Buffer.from(pass);
+  const b = Buffer.from(cfg.password);
+  return a.length === b.length && crypto.timingSafeEqual(a, b);
+}
+
 const server = http.createServer(async (req, res) => {
+  if (!authorized(req)) {
+    res.writeHead(401, { 'WWW-Authenticate': 'Basic realm="Chat Tracker"' });
+    return res.end('Password required');
+  }
   const url = new URL(req.url, 'http://localhost');
   const [, api, resource, id] = url.pathname.split('/');
 
