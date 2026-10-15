@@ -31,10 +31,11 @@ Reply with one JSON object and nothing else:
 title: "<feature, product or project>: <the specific thing>", 4 to 10 words. Use the real names
   from the chat (features, screens, clients, locales, models, numbers). Someone must know what it is
   about without opening it. Never a bare verb phrase.
-  Good: "Smart CV upload: allow photo upload during parsing"
-  Good: "AR locale: switch upload flow to gemini-3.5-flash-lite"
-  Good: "CV domain: Show Icon toggle hides icons when off"
-  Bad: "Validate changes"  Bad: "Review ATS design"  Bad: "Question about upload"
+  Good: "Checkout page: coupon field rejects lowercase codes"
+  Good: "Billing API: move invoices job to the EU region"
+  Good: "Onboarding emails: French copy for day-3 reminder"
+  Bad: "Validate changes"  Bad: "Review design"  Bad: "Question about upload"
+  (These examples are only about format. Never reuse their words.)
 context: one sentence of background: what the discussion is about and where it stands.
 ask: what ME must do or answer next, one short sentence starting with a verb. Empty string if
   nothing is needed from ME (for example ME already answered and nobody asked again).
