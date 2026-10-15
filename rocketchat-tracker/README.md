@@ -55,6 +55,12 @@ Open the printed link. The browser asks for the password; any username works. Th
 tables are created automatically on the first run. Other settings (keywords, muted rooms)
 live under `[vars]` in `wrangler.toml`; run `npx wrangler deploy` again after changing them.
 
+**Or deploy from GitHub, with nothing to install:** add the repository secrets
+`CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID`, `RC_USER_ID`, `RC_TOKEN` and
+`BOARD_PASSWORD` (Settings → Secrets and variables → Actions). The
+*Deploy Chat Tracker* workflow then creates the database, sets the Worker's secrets
+and deploys on every push to `rocketchat-tracker/`. The link is in the run summary.
+
 Notes:
 - **If Rocket.Chat is behind Cloudflare with Bot Fight Mode or a WAF**, allow the
   Worker's requests to `/api/v1/*`, or the sync shows an error on the board.

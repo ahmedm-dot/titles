@@ -1,0 +1,96 @@
+# Deploys rocketchat-tracker/ to Cloudflare Workers.
+# Needs these repository secrets (Settings → Secrets and variables → Actions):
+#   CLOUDFLARE_API_TOKEN   Cloudflare token with Workers Scripts:Edit and D1:Edit
+#   CLOUDFLARE_ACCOUNT_ID  Cloudflare account ID (dashboard → Workers & Pages, right sidebar)
+#   RC_USER_ID, RC_TOKEN   Rocket.Chat Personal Access Token
+#   BOARD_PASSWORD         Password for the board link (8+ characters)
+name: Deploy Chat Tracker
+
+on:
+  push:
+    branches: [main, claude/upbeat-ritchie-ephubz]
+    paths: ['rocketchat-tracker/**', '.github/workflows/deploy-chat-tracker.yml']
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-chat-tracker
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: rocketchat-tracker
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      WRANGLER: npx --yes wrangler@4.151.0
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Check secrets
+        env:
+          RC_USER_ID: ${{ secrets.RC_USER_ID }}
+          RC_TOKEN: ${{ secrets.RC_TOKEN }}
+          BOARD_PASSWORD: ${{ secrets.BOARD_PASSWORD }}
+        run: |
+          missing=""
+          for name in CLOUDFLARE_API_TOKEN CLOUDFLARE_ACCOUNT_ID RC_USER_ID RC_TOKEN BOARD_PASSWORD; do
+            [ -n "${!name}" ] || missing="$missing $name"
+          done
+          if [ -n "$missing" ]; then
+            echo "::error::Add these repository secrets, then re-run:$missing"
+            exit 1
+          fi
+          if [ ${#BOARD_PASSWORD} -lt 8 ]; then
+            echo "::error::BOARD_PASSWORD must be at least 8 characters"
+            exit 1
+          fi
+
+      - name: Find or create the D1 database
+        run: |
+          id=$($WRANGLER d1 list --json | jq -r '.[] | select(.name=="chat-tracker") | .uuid')
+          if [ -z "$id" ]; then
+            $WRANGLER d1 create chat-tracker
+            id=$($WRANGLER d1 list --json | jq -r '.[] | select(.name=="chat-tracker") | .uuid')
+          fi
+          [ -n "$id" ] || { echo "::error::Could not find or create the D1 database"; exit 1; }
+          sed -i "s/REPLACE_WITH_YOUR_D1_DATABASE_ID/$id/" wrangler.toml
+          echo "D1 database: $id"
+
+      - name: Deploy Worker
+        id: deploy
+        run: |
+          $WRANGLER deploy 2>&1 | tee deploy.log
+          url=$(grep -oE 'https://[a-zA-Z0-9.-]+\.workers\.dev' deploy.log | head -1)
+          echo "url=$url" >> "$GITHUB_OUTPUT"
+
+      - name: Set Worker secrets
+        env:
+          RC_USER_ID: ${{ secrets.RC_USER_ID }}
+          RC_TOKEN: ${{ secrets.RC_TOKEN }}
+          BOARD_PASSWORD: ${{ secrets.BOARD_PASSWORD }}
+        run: |
+          umask 077
+          jq -n '{RC_USER_ID: env.RC_USER_ID, RC_TOKEN: env.RC_TOKEN, BOARD_PASSWORD: env.BOARD_PASSWORD}' > "$RUNNER_TEMP/secrets.json"
+          $WRANGLER secret bulk "$RUNNER_TEMP/secrets.json"
+          rm -f "$RUNNER_TEMP/secrets.json"
+
+      - name: Run the first sync
+        env:
+          BOARD_PASSWORD: ${{ secrets.BOARD_PASSWORD }}
+          URL: ${{ steps.deploy.outputs.url }}
+        run: |
+          [ -n "$URL" ] || { echo "::warning::No workers.dev URL found in the deploy output"; exit 0; }
+          sleep 5
+          curl -sS -u "board:$BOARD_PASSWORD" -X POST "$URL/api/poll" -o poll.json -w "HTTP %{http_code}\n" || true
+          jq '{signedInAs: .me.username, cards: (.cards | length), error, roomsStillQueued: .pending}' poll.json || cat poll.json
+          echo "### Chat Tracker is live: $URL" >> "$GITHUB_STEP_SUMMARY"
