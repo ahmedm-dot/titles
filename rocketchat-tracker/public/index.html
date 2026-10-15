@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Chat Tracker</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <span class="logo">◎</span>
+      <div>
+        <h1>Chat Tracker</h1>
+        <p class="sub" id="sync">Connecting…</p>
+      </div>
+    </div>
+    <div class="stats" id="stats"></div>
+    <div class="actions">
+      <button id="notifyBtn" class="ghost" hidden>Enable alerts</button>
+      <button id="refreshBtn" class="ghost">Refresh now</button>
+      <button id="addBtn">+ Add task</button>
+    </div>
+  </header>
+
+  <div class="error" id="error" hidden></div>
+
+  <nav class="filters">
+    <input id="search" type="search" placeholder="Search cards, people, rooms…" />
+    <div class="chips" id="typeFilter">
+      <button data-type="" class="on">All</button>
+      <button data-type="mention">@ Mentions</button>
+      <button data-type="dm">DMs</button>
+      <button data-type="thread">Threads</button>
+      <button data-type="task">Tasks</button>
+      <button data-type="requirement">Requirements</button>
+      <button data-type="bug">Bugs</button>
+      <button data-type="question">Questions</button>
+    </div>
+    <label class="toggle"><input type="checkbox" id="highOnly" /> High priority only</label>
+    <label class="toggle"><input type="checkbox" id="showSnoozed" /> Show snoozed</label>
+  </nav>
+
+  <main class="board" id="board"></main>
+
+  <dialog id="addDialog">
+    <form method="dialog" id="addForm">
+      <h2>New task</h2>
+      <label>Title <input name="title" required maxlength="200" /></label>
+      <label>Notes <textarea name="notes" rows="3"></textarea></label>
+      <div class="row">
+        <label>Type
+          <select name="type">
+            <option value="task">Task</option>
+            <option value="requirement">Requirement</option>
+            <option value="bug">Bug</option>
+            <option value="question">Question</option>
+          </select>
+        </label>
+        <label>Priority
+          <select name="priority">
+            <option value="high">High</option>
+            <option value="medium" selected>Medium</option>
+            <option value="low">Low</option>
+          </select>
+        </label>
+      </div>
+      <div class="row end">
+        <button value="cancel" formnovalidate class="ghost">Cancel</button>
+        <button value="ok">Add</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

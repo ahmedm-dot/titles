@@ -1,0 +1,11 @@
+{
+  "name": "rocketchat-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Turns Rocket.Chat mentions, DMs, threads and keyword hits into a task board with alerts.",
+  "type": "module",
+  "engines": { "node": ">=20.12" },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
