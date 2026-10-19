@@ -47,6 +47,22 @@ start of roughly 20–40 seconds while the backend and frontend boot. Later
 requests are fast. `SLEEP_AFTER` (default `30m`) controls how long the
 container stays up after the last request.
 
+## Deploy from GitHub Actions (no local Docker needed)
+
+`.github/workflows/deploy-resume-matcher.yml` deploys on every push to `main`
+that touches this folder, or manually from the Actions tab ("Run workflow").
+GitHub's runner builds the image, so you don't need Docker locally.
+
+Add these under repo **Settings → Secrets and variables → Actions**:
+
+| Secret | Where to get it |
+|---|---|
+| `CLOUDFLARE_API_TOKEN` | Reuse the token from your other Cloudflare project, or create one: dash.cloudflare.com → My Profile → API Tokens → "Edit Cloudflare Workers" template. It needs Workers Scripts, Containers and Durable Objects edit rights. |
+| `CLOUDFLARE_ACCOUNT_ID` | Cloudflare dashboard → Workers & Pages → right sidebar. |
+| `LLM_API_KEY` | Your LLM provider. |
+| `DATABASE_URL` | Your hosted Postgres. |
+| `BASIC_AUTH_PASSWORD` | Any strong password. |
+
 ## Configuration
 
 | Name | Kind | Purpose |

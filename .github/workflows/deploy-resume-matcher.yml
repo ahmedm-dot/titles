@@ -1,0 +1,48 @@
+name: Deploy Resume Matcher to Cloudflare
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "resume-matcher-cloudflare/**"
+      - ".github/workflows/deploy-resume-matcher.yml"
+
+concurrency:
+  group: deploy-resume-matcher
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: resume-matcher-cloudflare
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: resume-matcher-cloudflare/package-lock.json
+
+      - run: npm ci
+      - run: npm run typecheck
+
+      # The runner's Docker builds the container image; wrangler pushes it to
+      # Cloudflare's registry. Repo secrets become Worker secrets on deploy.
+      - uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          workingDirectory: resume-matcher-cloudflare
+          command: deploy
+          secrets: |
+            LLM_API_KEY
+            DATABASE_URL
+            BASIC_AUTH_PASSWORD
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          BASIC_AUTH_PASSWORD: ${{ secrets.BASIC_AUTH_PASSWORD }}
