@@ -1,0 +1,42 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "resume-matcher",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-10-01",
+  "observability": { "enabled": true },
+
+  "containers": [
+    {
+      "class_name": "ResumeMatcherContainer",
+      "image": "./Dockerfile",
+      // Next.js + FastAPI + Chromium need room: standard-2 = 1 vCPU, 6 GiB RAM, 12 GB disk.
+      "instance_type": "standard-2",
+      // Single instance: the app is single-tenant and keeps state in one database.
+      "max_instances": 1
+    }
+  ],
+
+  "durable_objects": {
+    "bindings": [
+      { "class_name": "ResumeMatcherContainer", "name": "RESUME_MATCHER" }
+    ]
+  },
+
+  "migrations": [
+    { "tag": "v1", "new_sqlite_classes": ["ResumeMatcherContainer"] }
+  ],
+
+  // Non-secret config. Secrets (LLM_API_KEY, DATABASE_URL, BASIC_AUTH_PASSWORD)
+  // go in via `wrangler secret put` — never here.
+  "vars": {
+    // Public URL the app is served at; the backend allows this host and adds it to CORS.
+    // Replace with your workers.dev or custom-domain URL after the first deploy.
+    "FRONTEND_BASE_URL": "https://resume-matcher.<your-subdomain>.workers.dev",
+    "LLM_PROVIDER": "openai",
+    "LLM_MODEL": "",
+    "LOG_LEVEL": "INFO",
+    "BASIC_AUTH_USER": "admin",
+    // How long the container stays up after the last request before it sleeps.
+    "SLEEP_AFTER": "30m"
+  }
+}

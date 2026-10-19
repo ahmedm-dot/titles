@@ -55,3 +55,9 @@ All original columns (`rank,title,norm,family,seniority,tier,score`) plus:
 Recommended usage cutoff for production/auto-applied tagging: `exact_preferred`,
 `exact_altlabel` (+ reordered variants) and `fuzzy_medium_conf`. Treat
 `fuzzy_low_conf` as review-only suggestions and ignore `no_match*`.
+
+## Resume Matcher on Cloudflare
+
+`resume-matcher-cloudflare/` deploys
+[srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) to Cloudflare
+Workers + Containers. See its README.
