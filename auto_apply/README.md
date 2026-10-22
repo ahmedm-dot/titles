@@ -43,7 +43,7 @@ Results print as each job finishes and are saved to
 |---|---|---|
 | `--mode` | `review` | `review` = fill → you approve → submit · `dry-run` = never submit · `auto` = submit without asking |
 | `--answers` | none | JSON with answers the CV doesn't hold: work authorization, sponsorship, salary, notice period, phone, links, EEO. See `examples/answers.example.json` |
-| `--model` | `claude-sonnet-5-5` | any Browser Use v4 model id |
+| `--model` | account default (`gpt-6-luna` on the free plan) | any Browser Use v4 model id; paid models such as `claude-sonnet-5-5` need credits |
 | `--max-cost` | `3` | USD budget per job session (enforced server-side) |
 | `--proxy-country` | `us` | residential proxy exit country, or `none` |
 | `--concurrency` | `3` | jobs processed in parallel |

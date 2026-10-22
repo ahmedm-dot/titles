@@ -23,7 +23,8 @@ ConfirmFn = Callable[[dict[str, Any]], Awaitable[bool]]
 @dataclass
 class ApplyConfig:
     mode: str = "review"
-    model: str = "claude-sonnet-5-5"
+    # None lets Browser Use pick the account's default model, which also works on the free plan.
+    model: str | None = None
     max_cost_usd: float = 3.0
     # None runs without a proxy; any ISO code (e.g. "us", "gb", "ae") picks a residential exit.
     proxy_country: str | None = "us"

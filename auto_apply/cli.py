@@ -76,7 +76,8 @@ def build_parser() -> argparse.ArgumentParser:
         help="review: fill, show you the result, submit only if you approve (default). "
         "dry-run: fill but never submit. auto: submit without asking.",
     )
-    p.add_argument("--model", default=ApplyConfig.model, help="Browser Use v4 model id")
+    p.add_argument("--model", default=None,
+                   help="Browser Use v4 model id (default: the account's default model)")
     p.add_argument("--max-cost", type=float, default=ApplyConfig.max_cost_usd,
                    help="USD budget per job session (default %(default)s)")
     p.add_argument("--proxy-country", default="us",
@@ -114,7 +115,7 @@ def main(argv: list[str] | None = None) -> int:
               file=sys.stderr)
         return 2
 
-    print(f"Applying to {len(jobs)} job(s) in {cfg.mode} mode with {cfg.model}…")
+    print(f"Applying to {len(jobs)} job(s) in {cfg.mode} mode with {cfg.model or 'the default model'}…")
     results = asyncio.run(
         apply_to_jobs(
             jobs,
