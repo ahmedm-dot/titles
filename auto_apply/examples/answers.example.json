@@ -1,0 +1,16 @@
+{
+  "full_name": "Jane Doe",
+  "email": "jane.doe@example.com",
+  "phone": "+1 555 0100",
+  "linkedin": "https://www.linkedin.com/in/janedoe",
+  "portfolio": "https://janedoe.dev",
+  "current_location": "Austin, TX, USA",
+  "authorized_to_work_in": ["United States"],
+  "requires_visa_sponsorship": false,
+  "willing_to_relocate": true,
+  "notice_period": "2 weeks",
+  "salary_expectation": "USD 140,000 - 160,000 base",
+  "earliest_start_date": "2026-12-01",
+  "how_did_you_hear": "Company careers page",
+  "eeo": "Decline to self-identify"
+}

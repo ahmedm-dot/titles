@@ -1,0 +1,3 @@
+# One job posting URL per line. Lines starting with # are ignored.
+https://boards.greenhouse.io/example/jobs/1234567
+https://jobs.lever.co/example/abcd-1234

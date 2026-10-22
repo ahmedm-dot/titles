@@ -55,3 +55,10 @@ All original columns (`rank,title,norm,family,seniority,tier,score`) plus:
 Recommended usage cutoff for production/auto-applied tagging: `exact_preferred`,
 `exact_altlabel` (+ reordered variants) and `fuzzy_medium_conf`. Treat
 `fuzzy_low_conf` as review-only suggestions and ignore `no_match*`.
+
+## Auto Apply (AI job applications)
+
+`auto_apply/` is a separate tool: give it a CV and job posting URLs and a
+Browser Use Cloud agent fills in (and, if you approve, submits) each
+application, returning an ATS-style match score and a field-by-field report.
+See [`auto_apply/README.md`](auto_apply/README.md).
