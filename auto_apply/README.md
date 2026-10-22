@@ -12,7 +12,9 @@ from your CV, uploads the CV file, and returns a structured result:
 - **fields_filled** — every field and the value used, tagged `cv` / `answers` / `generated`
 - **unanswered_required_questions** — what the agent refused to guess
 - **confirmation** — confirmation text or reference number after submitting
-- full cost in USD (AI model + browser time + proxy traffic, with a breakdown), run IDs and session ID (look the session up in the
+- full cost in USD (AI model + browser time + proxy traffic, with a breakdown), run IDs and session ID.
+  The tool closes each job's browser when it is done, which refunds unused browser time and makes
+  the cost final (Browser Use holds browser time up front until the browser closes) (look the session up in the
   [Browser Use dashboard](https://cloud.browser-use.com) to replay it)
 
 ## Setup

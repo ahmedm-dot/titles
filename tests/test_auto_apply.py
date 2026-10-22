@@ -60,8 +60,23 @@ class FakeSessions:
                                proxy_cost_usd="0.15", search_cost_usd="0")
 
 
+class FakeBrowsers:
+    def __init__(self):
+        self.stopped = []
+
+    async def list(self, agent_session_id):
+        status = "stopped" if agent_session_id in self.stopped else "active"
+        return SimpleNamespace(items=[SimpleNamespace(id=f"br-{agent_session_id}",
+                                                      status=SimpleNamespace(value=status))])
+
+    async def stop(self, browser_id):
+        self.stopped.append(browser_id.removeprefix("br-"))
+        return SimpleNamespace(status=SimpleNamespace(value="stopped"))
+
+
 def fake_client(reports):
-    return SimpleNamespace(runs=FakeRuns(reports), workspaces=FakeWorkspaces(), sessions=FakeSessions())
+    return SimpleNamespace(runs=FakeRuns(reports), workspaces=FakeWorkspaces(), sessions=FakeSessions(),
+                           browsers=FakeBrowsers())
 
 
 @pytest.fixture
@@ -186,3 +201,10 @@ def test_fresh_browser_retry_adds_its_session_cost(cv):
     client = fake_client([failed, failed, {**REPORT, "status": "submitted", "cv_upload": "uploaded"}])
     [rec] = run(apply_to_jobs(["https://jobs.example/1"], cv, ApplyConfig(mode="auto"), client=client))
     assert rec["cost_usd"] == "1.00"  # original session + the fresh-browser session
+
+
+def test_browsers_are_closed_before_cost_is_read(cv):
+    client = fake_client([REPORT])
+    [rec] = run(apply_to_jobs(["https://jobs.example/1"], cv, ApplyConfig(mode="dry-run"), client=client))
+    assert client.browsers.stopped == ["sess-1"]
+    assert rec["cost_final"] is True

@@ -74,6 +74,23 @@ _COST_PARTS = {"llm": "llm_cost_usd", "browser": "browser_cost_usd", "proxy": "p
                "search": "search_cost_usd"}
 
 
+async def _release_browsers(client: AsyncBrowserUse, sessions: list[str]) -> bool:
+    """Stop every still-open browser of these sessions; True when all are closed."""
+    all_closed = True
+    for sid in sessions:
+        page = await client.browsers.list(agent_session_id=sid)
+        for browser in page.items:
+            if browser.status.value == "stopped":
+                continue
+            try:
+                stopped = await client.browsers.stop(browser.id)
+            except BrowserUseError:
+                all_closed = False
+                continue
+            all_closed = all_closed and stopped.status.value == "stopped"
+    return all_closed
+
+
 async def _add_session_costs(client: AsyncBrowserUse, sessions: list[str], record: dict[str, Any]) -> None:
     parts = {k: Decimal("0") for k in _COST_PARTS}
     total = Decimal("0")
@@ -221,9 +238,12 @@ async def apply_to_job(
         record["cost_usd"] = str(total)
         record["cost_breakdown"] = {"llm": str(total)}
         # A run's cost is LLM only; browser time and proxy traffic are billed per
-        # session, so the real total comes from the session cost endpoint.
+        # session, so the real total comes from the session cost endpoint. Browser
+        # time is held up front and only settled when the browser closes, so close
+        # it first: that also refunds the keep-alive time nobody will use.
         if sessions:
             try:
+                record["cost_final"] = await _release_browsers(client, sessions)
                 await _add_session_costs(client, sessions, record)
             except BrowserUseError:
                 record["cost_note"] = "session cost unavailable; cost_usd is LLM only"

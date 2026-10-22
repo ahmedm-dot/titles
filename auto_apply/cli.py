@@ -38,6 +38,8 @@ def format_report(rec: dict[str, Any]) -> str:
     parts = rec.get("cost_breakdown") or {}
     if len(parts) > 1:
         lines.append("Cost:   " + "  ".join(f"{k} ${v}" for k, v in parts.items() if v and float(v)))
+        if rec.get("cost_final") is False:
+            lines.append("        (provisional: a browser was still open, browser time may be refunded)")
     if match:
         lines.append(f"Match:  {match.get('score', '?')}/100 — {match.get('summary', '')}")
         if match.get("missing_keywords"):
