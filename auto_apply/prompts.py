@@ -100,13 +100,25 @@ OUTPUT_SCHEMA: dict[str, Any] = {
     },
 }
 
+# Attaching the CV without moving a file into the browser: live runs showed the
+# workspace-to-browser transfer timing out while file inputs only take files from
+# the browser's Downloads folder. Building the File inside the page sidesteps both.
+UPLOAD_FALLBACK = (
+    'read "{cv_name}" in your workspace and base64-encode it; then, in the page, decode it into a '
+    'Uint8Array, create a File (name "{cv_name}", type "application/pdf" for a PDF), put it in a new '
+    "DataTransfer, assign dataTransfer.files to the resume input[type=file], and dispatch 'input' and "
+    "'change' events (bubbles: true). If the field is a drop zone, dispatch dragenter/dragover/drop with "
+    "that DataTransfer instead. Then check that the form shows the file name as attached."
+)
+
 _RULES = """\
 Rules — follow all of them:
 1. Use ONLY facts from the attached CV file "{cv_name}" and the applicant answers below. Never invent \
 employers, dates, degrees, certifications, skills, salary figures, or legal/eligibility answers.
 2. When a form has a resume/CV upload field, upload the attached file "{cv_name}". Do not paste the CV \
-as text when an upload is offered. If the upload fails, try again; if it still fails, never submit \
-without the CV: set cv_upload to "failed" and finish with status "needs_user_input". Set cv_upload to \
+as text when an upload is offered. If the upload fails (e.g. the file transfer into the browser times \
+out or the file input only accepts files from the browser's Downloads folder), use this fallback: \
+{upload_fallback} If it still fails, never submit without the CV: set cv_upload to "failed" and finish with status "needs_user_input". Set cv_upload to \
 "uploaded" once the form shows the file attached, or "no_upload_field" if the form has no file field.
 3. Free-text questions (e.g. "Why do you want to work here?", cover letter boxes) may be written by you, \
 grounded in the CV and the job description: concise, specific, professional, first person. Mark those \
@@ -141,6 +153,10 @@ _SUBMIT_INSTRUCTIONS = {
 }
 
 
+def _rules(cv_name: str) -> str:
+    return _RULES.format(cv_name=cv_name, upload_fallback=UPLOAD_FALLBACK.format(cv_name=cv_name))
+
+
 def _answers_block(answers: dict[str, Any]) -> str:
     return json.dumps(answers, indent=2, ensure_ascii=False) if answers else "(none provided)"
 
@@ -157,7 +173,7 @@ def build_apply_task(job_url: str, cv_name: str, answers: dict[str, Any], mode: 
         f"Open the job posting, find its application form (click \"Apply\" if needed) and complete it "
         f"for the candidate.\n\n"
         f"{_SUBMIT_INSTRUCTIONS[mode]}\n\n"
-        f"{_RULES.format(cv_name=cv_name)}\n"
+        f"{_rules(cv_name)}\n"
         f"Applicant answers (authoritative; use these for questions the CV does not cover, such as work "
         f"authorization, sponsorship, notice period, salary expectations, relocation, phone, links):\n"
         f"{answers_block}\n"
@@ -168,12 +184,12 @@ def build_retry_upload_task(cv_name: str, answers: dict[str, Any], mode: str) ->
     """Follow-up in the same session after the agent reported cv_upload "failed"."""
     return (
         f"The CV upload failed in your previous attempt. You are still on the same application in the same "
-        f"browser. Upload the attached file \"{cv_name}\" to the resume/CV field again. Try a different way "
-        f"than before: wait for the page to finish loading, clear any half-finished upload, and use the "
-        f"field's own upload button, or its drag-and-drop area / file input. Keep every other field as it is; "
+        f"browser. Upload the attached file \"{cv_name}\" to the resume/CV field again. Do not repeat the "
+        f"browser file transfer that timed out; go straight to this method: "
+        f"{UPLOAD_FALLBACK.format(cv_name=cv_name)} Keep every other field as it is; "
         f"if the form was reset or the page navigated away, open the posting again and refill it.\n\n"
         f"{_SUBMIT_INSTRUCTIONS[mode]}\n\n"
-        f"{_RULES.format(cv_name=cv_name)}\n"
+        f"{_rules(cv_name)}\n"
         f"Applicant answers:\n{_answers_block(answers)}\n"
         f"Report the full application again (all fields, match analysis, cv_upload)."
     )
