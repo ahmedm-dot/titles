@@ -208,3 +208,34 @@ def test_browsers_are_closed_before_cost_is_read(cv):
     [rec] = run(apply_to_jobs(["https://jobs.example/1"], cv, ApplyConfig(mode="dry-run"), client=client))
     assert client.browsers.stopped == ["sess-1"]
     assert rec["cost_final"] is True
+
+
+def test_variant_b_renders_template_and_enables_agentmail(cv):
+    client = fake_client([REPORT])
+    cfg = ApplyConfig(mode="dry-run", prompt_variant="b", cv_text="Ahmed Mamdouh, Product Manager",
+                      answers={"notice_period": "Immediately"})
+    run(apply_to_jobs(["https://jobs.example/1"], cv, cfg, client=client))
+    sent = client.runs.created[0]
+    task = sent["task"]
+    assert sent["agentmail"] is True
+    assert "{{" not in task and "https://jobs.example/1" in task
+    assert "DO NOT GIVE UP EARLY" in task and "Ahmed Mamdouh, Product Manager" in task
+    assert "AgentMail inbox" in task and '"Immediately"' in task
+    assert task.count("TEST-MODE OVERRIDE") == 2  # dry-run: never submit
+
+
+def test_variant_a_does_not_enable_agentmail(cv):
+    client = fake_client([REPORT])
+    run(apply_to_jobs(["https://jobs.example/1"], cv, ApplyConfig(mode="dry-run"), client=client))
+    assert "agentmail" not in client.runs.created[0]
+
+
+def test_ab_summary_counts():
+    from auto_apply.ab_test import summarize
+    base = {"model": None, "started_at": "2026-10-22T12:00:00+00:00",
+            "finished_at": "2026-10-22T12:03:00+00:00", "cost_usd": "0.05"}
+    a = [{**base, "status": "ready_to_submit", "report": {**REPORT, "cv_upload": "uploaded"}}]
+    b = [{**base, "status": "needs_user_input", "report": {**REPORT, "cv_upload": "failed"}}]
+    md = summarize(["https://jobs.example/1"], a, b)
+    assert "| Reached final submit step | 1/1 | 0/1 |" in md
+    assert "| CV attached | 1/1 | 0/1 |" in md

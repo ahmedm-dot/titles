@@ -100,3 +100,26 @@ python -m pytest tests/
 ```
 
 The tests use a fake client, so they need no API key or network.
+
+## Prompt A/B testing
+
+`prompt_variants/b.txt` holds an alternative application prompt, kept verbatim.
+Use it for a single run with `--prompt-variant b`, or compare both prompts:
+
+```bash
+python -m auto_apply.ab_test --cv my_cv.pdf --jobs-file jobs.txt --answers answers.json --proxy-country pl
+```
+
+Both variants run in **dry-run** on the same jobs (one employer must never get two
+applications) with the same model, proxy, CV and answers, and automatic upload
+retries off so each result reflects the prompt alone. The report (`ab_<ts>.md`)
+compares: reached the final submit step, CV attached, stopped for user input, fields
+filled, AI-written answers, final cost and time.
+
+Variant B's placeholders are filled as: `{{totp_identifier}}` = a Browser Use
+AgentMail inbox (enabled with `agentmail`), `{{resume}}` = the attached CV file
+(B was written for a CV URL), `{{parsed_resume}}` = the CV's text,
+`{{candidate_info}}` = the answers JSON. Around (not inside) the template the tool
+adds the posting URL, a no-submit override in dry-run/review modes, and a reporting
+footer so B's runs fill the same output schema as A.
+

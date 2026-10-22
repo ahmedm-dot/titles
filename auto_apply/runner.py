@@ -12,7 +12,13 @@ from typing import Any, Awaitable, Callable
 
 from browser_use_sdk.v4 import AsyncBrowserUse, BrowserUseError
 
-from .prompts import OUTPUT_SCHEMA, SUBMIT_TASK, build_apply_task, build_retry_upload_task
+from .prompts import (
+    OUTPUT_SCHEMA,
+    SUBMIT_TASK,
+    build_apply_task,
+    build_retry_upload_task,
+    build_variant_b_task,
+)
 
 MODES = ("review", "dry-run", "auto")
 
@@ -39,12 +45,27 @@ class ApplyConfig:
     # Follow-up runs that retry a failed CV upload in the same browser session.
     upload_retries: int = 2
     answers: dict[str, Any] = field(default_factory=dict)
+    # "a" = this tool's prompt (prompts.py); "b" = prompt_variants/b.txt, which uses
+    # a dedicated AgentMail inbox for the application email and verification codes.
+    prompt_variant: str = "a"
+    # CV as plain text, for variant B's {{parsed_resume}}.
+    cv_text: str = ""
 
     def __post_init__(self) -> None:
         if self.mode not in MODES:
             raise ValueError(f"mode must be one of {MODES}, got {self.mode!r}")
         if self.review_window_s < 120:
             raise ValueError("review_window_s must be at least 120 seconds")
+        if self.prompt_variant not in ("a", "b"):
+            raise ValueError(f"prompt_variant must be 'a' or 'b', got {self.prompt_variant!r}")
+
+    def first_task(self, job_url: str, cv_name: str) -> str:
+        if self.prompt_variant == "b":
+            return build_variant_b_task(job_url, cv_name, self.cv_text, self.answers, self.mode)
+        return build_apply_task(job_url, cv_name, self.answers, self.mode)
+
+    def run_options(self) -> dict[str, Any]:
+        return {"agentmail": True} if self.prompt_variant == "b" else {}
 
 
 def parse_output(run: Any) -> dict[str, Any] | None:
@@ -137,6 +158,7 @@ async def apply_to_job(
         "job_url": job_url,
         "mode": cfg.mode,
         "model": cfg.model,
+        "prompt_variant": cfg.prompt_variant,
         "started_at": datetime.now(timezone.utc).isoformat(),
         "status": "failed",
         "report": None,
@@ -152,10 +174,11 @@ async def apply_to_job(
         fill = await _run_and_wait(
             client,
             cfg,
-            build_apply_task(job_url, cv_name, cfg.answers, cfg.mode),
+            cfg.first_task(job_url, cv_name),
             workspace_id=workspace_id,
             attached_file_ids=[cv_file_id],
             browser_settings=browser_settings,
+            **cfg.run_options(),
             **({"keep_alive": cfg.review_window_s} if cfg.mode == "review" else {}),
         )
         record["run_ids"].append(str(fill.id))
@@ -194,10 +217,11 @@ async def apply_to_job(
                 retry = await _run_and_wait(
                     client,
                     cfg,
-                    build_apply_task(job_url, cv_name, cfg.answers, cfg.mode),
+                    cfg.first_task(job_url, cv_name),
                     workspace_id=workspace_id,
                     attached_file_ids=[cv_file_id],
                     browser_settings=browser_settings,
+                    **cfg.run_options(),
                 )
                 record["session_id"] = str(retry.session_id)
                 sessions.append(str(retry.session_id))

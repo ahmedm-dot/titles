@@ -3,6 +3,8 @@
 from __future__ import annotations
 
 import json
+import re
+from pathlib import Path
 from typing import Any
 
 # Every status the agent may end a run with. "ready_to_submit" only appears in
@@ -201,3 +203,58 @@ SUBMIT_TASK = (
     "refill it exactly as before following the same rules, then submit. Record any confirmation text or "
     'reference number and finish with status "submitted". Report every field again in fields_filled.'
 )
+
+
+# ---------------------------------------------------------------------------
+# Prompt variant B: an external prompt kept verbatim in prompt_variants/b.txt,
+# rendered with this tool's inputs. Only three things are added around it,
+# none inside it: the posting URL (B assumes the browser already shows it), a
+# no-submit override for dry-run / review modes, and a reporting footer so B's
+# runs fill the same OUTPUT_SCHEMA as variant A and can be compared.
+# ---------------------------------------------------------------------------
+
+_VARIANT_DIR = Path(__file__).parent / "prompt_variants"
+
+# With agentmail enabled, Browser Use gives the agent an inbox address in its
+# context; we can't know it before the run, so the template names it instead.
+AGENTMAIL_EMAIL = "the AgentMail inbox email address provided in your context"
+
+_B_NO_SUBMIT = (
+    "TEST-MODE OVERRIDE (takes precedence over everything below): this is a dry run. Follow every "
+    "instruction below exactly, through every screen, but do NOT click the final submit/send button "
+    "of the application. When the final submit click is the only step left, stop: for this run that "
+    'counts as COMPLETE, and you report status "ready_to_submit".'
+)
+
+_B_REPORT = (
+    "REPORTING: when you finish, report in the required output format. status: \"submitted\" (a "
+    "confirmation is visible), \"ready_to_submit\" (dry run, only the final click left), "
+    "\"job_closed\" (you terminated per the TERMINATION section), \"blocked_login\" / "
+    "\"blocked_captcha\" (could not get past sign-in or a CAPTCHA), \"needs_user_input\" (a required "
+    "answer was missing), or \"failed\". cv_upload: \"uploaded\" / \"failed\" / \"no_upload_field\". "
+    "fields_filled: every field and the value entered, with source cv / answers / generated. match: "
+    "score 0-100 of how well the candidate fits the posting, the posting's skills the candidate shows, "
+    "and the important posting keywords the candidate lacks."
+)
+
+
+def build_variant_b_task(
+    job_url: str, cv_name: str, cv_text: str, answers: dict[str, Any], mode: str
+) -> str:
+    if mode not in _SUBMIT_INSTRUCTIONS:
+        raise ValueError(f"unknown mode {mode!r}")
+    template = (_VARIANT_DIR / "b.txt").read_text(encoding="utf-8")
+    values = {
+        "totp_identifier": AGENTMAIL_EMAIL,
+        "resume": f'the attached file "{cv_name}"',
+        "parsed_resume": cv_text or f'(see the attached file "{cv_name}")',
+        "candidate_info": _answers_block(answers),
+    }
+    body = re.sub(r"\{\{(\w+)\}\}", lambda m: values[m.group(1)], template)
+    parts = [f"Job posting: {job_url}\nOpen this URL first.\n"]
+    if mode != "auto":
+        parts.append(_B_NO_SUBMIT + "\n")
+    parts += [body, "", _B_REPORT]
+    if mode != "auto":
+        parts.append("\n" + _B_NO_SUBMIT)
+    return "\n".join(parts)

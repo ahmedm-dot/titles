@@ -84,6 +84,8 @@ def build_parser() -> argparse.ArgumentParser:
         help="review: fill, show you the result, submit only if you approve (default). "
         "dry-run: fill but never submit. auto: submit without asking.",
     )
+    p.add_argument("--prompt-variant", choices=("a", "b"), default="a",
+                   help="a: built-in prompt (default). b: prompt_variants/b.txt with an AgentMail inbox")
     p.add_argument("--model", default=None,
                    help="Browser Use v4 model id (default: the account's default model)")
     p.add_argument("--max-cost", type=float, default=ApplyConfig.max_cost_usd,
@@ -117,7 +119,12 @@ def main(argv: list[str] | None = None) -> int:
         concurrency=args.concurrency,
         run_timeout_s=args.timeout,
         answers=answers,
+        prompt_variant=args.prompt_variant,
     )
+    if cfg.prompt_variant == "b":
+        from .ab_test import cv_to_text
+
+        cfg.cv_text = cv_to_text(Path(args.cv))
     if cfg.mode == "review" and not sys.stdin.isatty():
         print("error: review mode needs an interactive terminal; use --mode dry-run or auto",
               file=sys.stderr)
