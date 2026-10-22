@@ -16,6 +16,9 @@ from .prompts import OUTPUT_SCHEMA, SUBMIT_TASK, build_apply_task, build_retry_u
 
 MODES = ("review", "dry-run", "auto")
 
+# Statuses for which a failed CV upload is worth a retry run.
+UPLOAD_RETRY_STATUSES = {"needs_user_input", "ready_to_submit", "failed"}
+
 # Called in review mode with the agent's report; return True to submit.
 ConfirmFn = Callable[[dict[str, Any]], Awaitable[bool]]
 
@@ -134,15 +137,34 @@ async def apply_to_job(
         # A failed upload is usually a one-off browser glitch: retry in the same session
         # (the browser is still on the half-filled form) instead of giving up on the job.
         retries = 0
-        while report.get("cv_upload") == "failed" and retries < cfg.upload_retries:
+        # Only when the upload is what blocks the application: a closed posting or a
+        # login wall won't be fixed by re-uploading.
+        while (
+            report.get("cv_upload") == "failed"
+            and report.get("status") in UPLOAD_RETRY_STATUSES
+            and retries < cfg.upload_retries
+        ):
             retries += 1
-            retry = await _run_and_wait(
-                client,
-                cfg,
-                build_retry_upload_task(cv_name, cfg.answers, cfg.mode),
-                session_id=fill.session_id,
-                attached_file_ids=[cv_file_id],
-            )
+            if retries < cfg.upload_retries:
+                retry = await _run_and_wait(
+                    client,
+                    cfg,
+                    build_retry_upload_task(cv_name, cfg.answers, cfg.mode),
+                    session_id=fill.session_id,
+                    attached_file_ids=[cv_file_id],
+                )
+            else:
+                # Last try: a brand-new browser. When the file transfer into a browser
+                # gets stuck, retrying in that same browser keeps hitting the same wall.
+                retry = await _run_and_wait(
+                    client,
+                    cfg,
+                    build_apply_task(job_url, cv_name, cfg.answers, cfg.mode),
+                    workspace_id=workspace_id,
+                    attached_file_ids=[cv_file_id],
+                    browser_settings=browser_settings,
+                )
+                record["session_id"] = str(retry.session_id)
             record["run_ids"].append(str(retry.id))
             total += _cost(retry)
             retry_report = parse_output(retry)

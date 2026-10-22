@@ -70,8 +70,10 @@ results = asyncio.run(apply_to_jobs(
    "decline to self-identify" option for EEO questions, and makes the agent
    stop and report rather than guess required answers.
 3. If the agent reports the CV upload failed (`cv_upload: "failed"`), the tool
-   sends up to 2 follow-up runs in the same browser session to re-upload it and
-   finish, rather than dropping the application. The agent never submits without the CV.
+   retries up to 2 times rather than dropping the application: first in the same
+   browser session (the form is still filled), then from scratch in a fresh browser,
+   since a stuck file transfer tends to stay stuck in the same browser. A closed or
+   login-walled job is not retried. The agent never submits without the CV.
 4. **Review mode** stops before the final submit and keeps the browser alive
    for `review_window_s` (600 s). If you approve, a follow-up run in the *same
    session* clicks submit on the already-filled page. If you decline, nothing is

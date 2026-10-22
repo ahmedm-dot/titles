@@ -146,9 +146,11 @@ def test_failed_upload_is_retried_in_same_session(cv):
     client = fake_client([failed, failed, fixed])
     [rec] = run(apply_to_jobs(["https://jobs.example/1"], cv, ApplyConfig(mode="auto"), client=client))
     assert rec["status"] == "submitted" and rec["upload_retries"] == 2
-    assert [c.get("session_id") for c in client.runs.created] == [None, "sess-1", "sess-1"]
+    # First retry stays in the session; the last one starts over in a fresh browser.
+    assert [c.get("session_id") for c in client.runs.created] == [None, "sess-1", None]
     assert "upload failed" in client.runs.created[1]["task"]
     assert "submit the application" in client.runs.created[1]["task"]
+    assert client.runs.created[2]["workspace_id"] == "ws-1"
 
 
 def test_upload_retries_are_capped(cv):
@@ -163,3 +165,9 @@ def test_successful_upload_is_not_retried(cv):
     client = fake_client([{**REPORT, "cv_upload": "uploaded"}])
     [rec] = run(apply_to_jobs(["https://jobs.example/1"], cv, ApplyConfig(mode="dry-run"), client=client))
     assert rec["upload_retries"] == 0 and len(client.runs.created) == 1
+
+
+def test_closed_job_is_not_retried_for_upload(cv):
+    client = fake_client([{**REPORT, "status": "job_closed", "cv_upload": "failed"}])
+    [rec] = run(apply_to_jobs(["https://jobs.example/1"], cv, ApplyConfig(mode="auto"), client=client))
+    assert rec["status"] == "job_closed" and len(client.runs.created) == 1
