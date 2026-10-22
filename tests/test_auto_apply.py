@@ -54,8 +54,14 @@ class FakeWorkspaces:
         return [SimpleNamespace(id="file-1")]
 
 
+class FakeSessions:
+    async def cost(self, session_id):
+        return SimpleNamespace(total_cost_usd="0.50", llm_cost_usd="0.30", browser_cost_usd="0.05",
+                               proxy_cost_usd="0.15", search_cost_usd="0")
+
+
 def fake_client(reports):
-    return SimpleNamespace(runs=FakeRuns(reports), workspaces=FakeWorkspaces())
+    return SimpleNamespace(runs=FakeRuns(reports), workspaces=FakeWorkspaces(), sessions=FakeSessions())
 
 
 @pytest.fixture
@@ -91,7 +97,9 @@ def test_review_approved_submits_in_same_session(cv):
     [rec] = run(apply_to_jobs(["https://jobs.example/1"], cv, ApplyConfig(mode="review"),
                               client=client, confirm=yes))
     assert rec["status"] == "submitted"
-    assert rec["cost_usd"] == "0.80"
+    # Both runs share one session, so its cost (LLM + browser + proxy) counts once.
+    assert rec["cost_usd"] == "0.50"
+    assert rec["cost_breakdown"] == {"llm": "0.30", "browser": "0.05", "proxy": "0.15", "search": "0"}
     assert client.runs.created[0]["keep_alive"] == 600
     assert client.runs.created[1]["session_id"] == "sess-1"
     assert rec["report"]["confirmation"] == "Ref 42"
@@ -171,3 +179,10 @@ def test_closed_job_is_not_retried_for_upload(cv):
     client = fake_client([{**REPORT, "status": "job_closed", "cv_upload": "failed"}])
     [rec] = run(apply_to_jobs(["https://jobs.example/1"], cv, ApplyConfig(mode="auto"), client=client))
     assert rec["status"] == "job_closed" and len(client.runs.created) == 1
+
+
+def test_fresh_browser_retry_adds_its_session_cost(cv):
+    failed = {**REPORT, "status": "needs_user_input", "cv_upload": "failed"}
+    client = fake_client([failed, failed, {**REPORT, "status": "submitted", "cv_upload": "uploaded"}])
+    [rec] = run(apply_to_jobs(["https://jobs.example/1"], cv, ApplyConfig(mode="auto"), client=client))
+    assert rec["cost_usd"] == "1.00"  # original session + the fresh-browser session

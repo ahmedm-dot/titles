@@ -70,6 +70,22 @@ def _cost(run: Any) -> Decimal:
         return Decimal("0")
 
 
+_COST_PARTS = {"llm": "llm_cost_usd", "browser": "browser_cost_usd", "proxy": "proxy_cost_usd",
+               "search": "search_cost_usd"}
+
+
+async def _add_session_costs(client: AsyncBrowserUse, sessions: list[str], record: dict[str, Any]) -> None:
+    parts = {k: Decimal("0") for k in _COST_PARTS}
+    total = Decimal("0")
+    for sid in sessions:
+        cost = await client.sessions.cost(sid)
+        total += Decimal(str(cost.total_cost_usd))
+        for key, attr in _COST_PARTS.items():
+            parts[key] += Decimal(str(getattr(cost, attr, "0") or "0"))
+    record["cost_usd"] = str(total)
+    record["cost_breakdown"] = {k: str(v) for k, v in parts.items()}
+
+
 async def _run_and_wait(client: AsyncBrowserUse, cfg: ApplyConfig, task: str, **kwargs: Any) -> Any:
     created = await client.runs.create(
         task,
@@ -112,7 +128,8 @@ async def apply_to_job(
         "cost_usd": "0",
         "error": None,
     }
-    total = Decimal("0")
+    total = Decimal("0")  # LLM cost reported by each run
+    sessions: list[str] = []
     try:
         browser_settings = {"proxyCountryCode": cfg.proxy_country}
         fill = await _run_and_wait(
@@ -126,6 +143,7 @@ async def apply_to_job(
         )
         record["run_ids"].append(str(fill.id))
         record["session_id"] = str(fill.session_id)
+        sessions.append(str(fill.session_id))
         total += _cost(fill)
         report = parse_output(fill)
         record["report"] = report
@@ -165,6 +183,7 @@ async def apply_to_job(
                     browser_settings=browser_settings,
                 )
                 record["session_id"] = str(retry.session_id)
+                sessions.append(str(retry.session_id))
             record["run_ids"].append(str(retry.id))
             total += _cost(retry)
             retry_report = parse_output(retry)
@@ -200,6 +219,14 @@ async def apply_to_job(
         record["error"] = str(exc)
     finally:
         record["cost_usd"] = str(total)
+        record["cost_breakdown"] = {"llm": str(total)}
+        # A run's cost is LLM only; browser time and proxy traffic are billed per
+        # session, so the real total comes from the session cost endpoint.
+        if sessions:
+            try:
+                await _add_session_costs(client, sessions, record)
+            except BrowserUseError:
+                record["cost_note"] = "session cost unavailable; cost_usd is LLM only"
         record["finished_at"] = datetime.now(timezone.utc).isoformat()
     return record
 
