@@ -39,6 +39,9 @@ def format_report(rec: dict[str, Any]) -> str:
         lines.append(f"Match:  {match.get('score', '?')}/100 — {match.get('summary', '')}")
         if match.get("missing_keywords"):
             lines.append(f"        Missing keywords: {', '.join(match['missing_keywords'])}")
+    if rep.get("cv_upload"):
+        retried = f" after {rec['upload_retries']} retr{'y' if rec['upload_retries'] == 1 else 'ies'}" if rec.get("upload_retries") else ""
+        lines.append(f"CV:     {rep['cv_upload']}{retried}")
     for f in rep.get("fields_filled") or []:
         lines.append(f"  • {f.get('field')}: {f.get('value')}  ({f.get('source')})")
     for q in rep.get("unanswered_required_questions") or []:

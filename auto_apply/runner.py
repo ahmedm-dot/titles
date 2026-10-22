@@ -12,7 +12,7 @@ from typing import Any, Awaitable, Callable
 
 from browser_use_sdk.v4 import AsyncBrowserUse, BrowserUseError
 
-from .prompts import OUTPUT_SCHEMA, SUBMIT_TASK, build_apply_task
+from .prompts import OUTPUT_SCHEMA, SUBMIT_TASK, build_apply_task, build_retry_upload_task
 
 MODES = ("review", "dry-run", "auto")
 
@@ -33,6 +33,8 @@ class ApplyConfig:
     # Browser keep-alive after the fill run in review mode, so the approved submit
     # reuses the same filled-in page. Billed as browser time; API minimum is 120.
     review_window_s: int = 600
+    # Follow-up runs that retry a failed CV upload in the same browser session.
+    upload_retries: int = 2
     answers: dict[str, Any] = field(default_factory=dict)
 
     def __post_init__(self) -> None:
@@ -128,6 +130,27 @@ async def apply_to_job(
         if fill.status.value != "completed" or report is None:
             record["error"] = fill.error or f"run ended {fill.status.value} without a structured report"
             return record
+
+        # A failed upload is usually a one-off browser glitch: retry in the same session
+        # (the browser is still on the half-filled form) instead of giving up on the job.
+        retries = 0
+        while report.get("cv_upload") == "failed" and retries < cfg.upload_retries:
+            retries += 1
+            retry = await _run_and_wait(
+                client,
+                cfg,
+                build_retry_upload_task(cv_name, cfg.answers, cfg.mode),
+                session_id=fill.session_id,
+                attached_file_ids=[cv_file_id],
+            )
+            record["run_ids"].append(str(retry.id))
+            total += _cost(retry)
+            retry_report = parse_output(retry)
+            if retry.status.value != "completed" or retry_report is None:
+                break
+            report = {**report, **retry_report}
+            record["report"] = report
+        record["upload_retries"] = retries
         record["status"] = report.get("status", "failed")
 
         if cfg.mode == "review" and record["status"] == "ready_to_submit" and confirm is not None:

@@ -19,6 +19,8 @@ STATUSES = [
 
 FIELD_SOURCES = ["cv", "answers", "generated"]
 
+CV_UPLOAD_STATES = ["uploaded", "failed", "no_upload_field"]
+
 _STR = {"type": "string"}
 _STR_LIST = {"type": "array", "items": _STR}
 
@@ -31,6 +33,7 @@ OUTPUT_SCHEMA: dict[str, Any] = {
         "match",
         "fields_filled",
         "unanswered_required_questions",
+        "cv_upload",
         "confirmation",
         "notes",
     ],
@@ -84,6 +87,11 @@ OUTPUT_SCHEMA: dict[str, Any] = {
                 "properties": {"question": _STR, "reason": _STR},
             },
         },
+        "cv_upload": {
+            "type": "string",
+            "enum": CV_UPLOAD_STATES,
+            "description": "Whether the CV file is attached to the form at the end of the run.",
+        },
         "confirmation": {
             **_STR,
             "description": "Confirmation message or reference number shown after submitting; empty string if not submitted.",
@@ -97,7 +105,9 @@ Rules — follow all of them:
 1. Use ONLY facts from the attached CV file "{cv_name}" and the applicant answers below. Never invent \
 employers, dates, degrees, certifications, skills, salary figures, or legal/eligibility answers.
 2. When a form has a resume/CV upload field, upload the attached file "{cv_name}". Do not paste the CV \
-as text when an upload is offered.
+as text when an upload is offered. If the upload fails, try again; if it still fails, never submit \
+without the CV: set cv_upload to "failed" and finish with status "needs_user_input". Set cv_upload to \
+"uploaded" once the form shows the file attached, or "no_upload_field" if the form has no file field.
 3. Free-text questions (e.g. "Why do you want to work here?", cover letter boxes) may be written by you, \
 grounded in the CV and the job description: concise, specific, professional, first person. Mark those \
 fields with source "generated".
@@ -131,11 +141,15 @@ _SUBMIT_INSTRUCTIONS = {
 }
 
 
+def _answers_block(answers: dict[str, Any]) -> str:
+    return json.dumps(answers, indent=2, ensure_ascii=False) if answers else "(none provided)"
+
+
 def build_apply_task(job_url: str, cv_name: str, answers: dict[str, Any], mode: str) -> str:
     """The task for the first run: open the posting and fill (and maybe submit) the form."""
     if mode not in _SUBMIT_INSTRUCTIONS:
         raise ValueError(f"unknown mode {mode!r}")
-    answers_block = json.dumps(answers, indent=2, ensure_ascii=False) if answers else "(none provided)"
+    answers_block = _answers_block(answers)
     return (
         f"You are applying to a job on behalf of a candidate.\n\n"
         f"Job posting: {job_url}\n"
@@ -147,6 +161,21 @@ def build_apply_task(job_url: str, cv_name: str, answers: dict[str, Any], mode: 
         f"Applicant answers (authoritative; use these for questions the CV does not cover, such as work "
         f"authorization, sponsorship, notice period, salary expectations, relocation, phone, links):\n"
         f"{answers_block}\n"
+    )
+
+
+def build_retry_upload_task(cv_name: str, answers: dict[str, Any], mode: str) -> str:
+    """Follow-up in the same session after the agent reported cv_upload "failed"."""
+    return (
+        f"The CV upload failed in your previous attempt. You are still on the same application in the same "
+        f"browser. Upload the attached file \"{cv_name}\" to the resume/CV field again. Try a different way "
+        f"than before: wait for the page to finish loading, clear any half-finished upload, and use the "
+        f"field's own upload button, or its drag-and-drop area / file input. Keep every other field as it is; "
+        f"if the form was reset or the page navigated away, open the posting again and refill it.\n\n"
+        f"{_SUBMIT_INSTRUCTIONS[mode]}\n\n"
+        f"{_RULES.format(cv_name=cv_name)}\n"
+        f"Applicant answers:\n{_answers_block(answers)}\n"
+        f"Report the full application again (all fields, match analysis, cv_upload)."
     )
 
 

@@ -138,3 +138,28 @@ def test_format_report_shows_gaps():
                          "report": {**REPORT, "unanswered_required_questions":
                                     [{"question": "Clearance?", "reason": "not in CV"}]}})
     assert "NEEDS INPUT: Clearance?" in out and "78/100" in out
+
+
+def test_failed_upload_is_retried_in_same_session(cv):
+    failed = {**REPORT, "status": "needs_user_input", "cv_upload": "failed"}
+    fixed = {**REPORT, "status": "submitted", "cv_upload": "uploaded", "confirmation": "ok"}
+    client = fake_client([failed, failed, fixed])
+    [rec] = run(apply_to_jobs(["https://jobs.example/1"], cv, ApplyConfig(mode="auto"), client=client))
+    assert rec["status"] == "submitted" and rec["upload_retries"] == 2
+    assert [c.get("session_id") for c in client.runs.created] == [None, "sess-1", "sess-1"]
+    assert "upload failed" in client.runs.created[1]["task"]
+    assert "submit the application" in client.runs.created[1]["task"]
+
+
+def test_upload_retries_are_capped(cv):
+    failed = {**REPORT, "status": "needs_user_input", "cv_upload": "failed"}
+    client = fake_client([failed, failed, failed])
+    [rec] = run(apply_to_jobs(["https://jobs.example/1"], cv,
+                              ApplyConfig(mode="auto", upload_retries=2), client=client))
+    assert rec["status"] == "needs_user_input" and len(client.runs.created) == 3
+
+
+def test_successful_upload_is_not_retried(cv):
+    client = fake_client([{**REPORT, "cv_upload": "uploaded"}])
+    [rec] = run(apply_to_jobs(["https://jobs.example/1"], cv, ApplyConfig(mode="dry-run"), client=client))
+    assert rec["upload_retries"] == 0 and len(client.runs.created) == 1
