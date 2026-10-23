@@ -50,6 +50,9 @@ class ApplyConfig:
     prompt_variant: str = "a"
     # CV as plain text, for variant B's {{parsed_resume}}.
     cv_text: str = ""
+    # Variant B's application email. None = a fresh AgentMail inbox the agent can read
+    # verification codes from (but the candidate never sees recruiter replies there).
+    application_email: str | None = None
 
     def __post_init__(self) -> None:
         if self.mode not in MODES:
@@ -61,11 +64,12 @@ class ApplyConfig:
 
     def first_task(self, job_url: str, cv_name: str) -> str:
         if self.prompt_variant == "b":
-            return build_variant_b_task(job_url, cv_name, self.cv_text, self.answers, self.mode)
+            return build_variant_b_task(job_url, cv_name, self.cv_text, self.answers, self.mode,
+                                        email=self.application_email)
         return build_apply_task(job_url, cv_name, self.answers, self.mode)
 
     def run_options(self) -> dict[str, Any]:
-        return {"agentmail": True} if self.prompt_variant == "b" else {}
+        return {"agentmail": True} if self.prompt_variant == "b" and not self.application_email else {}
 
 
 def parse_output(run: Any) -> dict[str, Any] | None:

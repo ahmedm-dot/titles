@@ -239,3 +239,20 @@ def test_ab_summary_counts():
     md = summarize(["https://jobs.example/1"], a, b)
     assert "| Reached final submit step | 1/1 | 0/1 |" in md
     assert "| CV attached | 1/1 | 0/1 |" in md
+
+
+def test_split_gives_each_job_to_exactly_one_variant():
+    from auto_apply.ab_test import split_jobs
+    jobs = [f"https://jobs.example/{i}" for i in range(8)]
+    a, b = split_jobs(jobs, seed=1)
+    assert len(a) == len(b) == 4 and not set(a) & set(b) and set(a) | set(b) == set(jobs)
+    assert split_jobs(jobs, seed=1) == (a, b)  # reproducible
+
+
+def test_variant_b_with_fixed_email_skips_agentmail(cv):
+    client = fake_client([REPORT])
+    cfg = ApplyConfig(mode="auto", prompt_variant="b", application_email="me@example.com")
+    run(apply_to_jobs(["https://jobs.example/1"], cv, cfg, client=client))
+    sent = client.runs.created[0]
+    assert "agentmail" not in sent and "me@example.com" in sent["task"]
+    assert "AgentMail" not in sent["task"] and "TEST-MODE OVERRIDE" not in sent["task"]

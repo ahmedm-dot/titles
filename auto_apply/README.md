@@ -110,7 +110,13 @@ Use it for a single run with `--prompt-variant b`, or compare both prompts:
 python -m auto_apply.ab_test --cv my_cv.pdf --jobs-file jobs.txt --answers answers.json --proxy-country pl
 ```
 
-Both variants run in **dry-run** on the same jobs (one employer must never get two
+To really submit, add `--split`: each job is randomly given to one prompt only
+(`--seed` makes it reproducible), which runs it in `--mode auto`, and the report
+compares the two groups. `--email-b you@example.com` makes variant B use your own
+email instead of an AgentMail inbox, so recruiter replies reach you (but B can then
+no longer read verification codes itself).
+
+By default both variants run in **dry-run** on the same jobs (one employer must never get two
 applications) with the same model, proxy, CV and answers, and automatic upload
 retries off so each result reflects the prompt alone. The report (`ab_<ts>.md`)
 compares: reached the final submit step, CV attached, stopped for user input, fields

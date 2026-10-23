@@ -239,13 +239,14 @@ _B_REPORT = (
 
 
 def build_variant_b_task(
-    job_url: str, cv_name: str, cv_text: str, answers: dict[str, Any], mode: str
+    job_url: str, cv_name: str, cv_text: str, answers: dict[str, Any], mode: str,
+    email: str | None = None,
 ) -> str:
     if mode not in _SUBMIT_INSTRUCTIONS:
         raise ValueError(f"unknown mode {mode!r}")
     template = (_VARIANT_DIR / "b.txt").read_text(encoding="utf-8")
     values = {
-        "totp_identifier": AGENTMAIL_EMAIL,
+        "totp_identifier": email or AGENTMAIL_EMAIL,
         "resume": f'the attached file "{cv_name}"',
         "parsed_resume": cv_text or f'(see the attached file "{cv_name}")',
         "candidate_info": _answers_block(answers),

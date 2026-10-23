@@ -2,8 +2,10 @@
 
     python -m auto_apply.ab_test --cv cv.pdf --jobs-file jobs.txt --answers answers.json
 
-Both variants fill every job but never submit (one employer must never get two
-applications), with the same model, proxy, CV and answers. Automatic upload
+Default (paired): both variants fill every job but never submit (one employer
+must never get two applications), with the same model, proxy, CV and answers.
+--split: each job is randomly given to ONE variant, which runs it in --mode (e.g.
+auto, to really submit); the report then compares the two groups. Automatic upload
 retries are off so each run reflects its prompt alone. Writes ab_<ts>.json
 (raw records) and ab_<ts>.md (comparison) to --out.
 """
@@ -14,6 +16,7 @@ import argparse
 import asyncio
 import json
 import os
+import random
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
@@ -88,22 +91,70 @@ def summarize(jobs: list[str], a: list[dict], b: list[dict]) -> str:
     return "\n".join(lines) + "\n"
 
 
+def split_jobs(jobs: list[str], seed: int) -> tuple[list[str], list[str]]:
+    """Random, reproducible half/half assignment (A gets the extra job if odd)."""
+    shuffled = jobs[:]
+    random.Random(seed).shuffle(shuffled)
+    half = (len(shuffled) + 1) // 2
+    a, b = set(shuffled[:half]), set(shuffled[half:])
+    return [j for j in jobs if j in a], [j for j in jobs if j in b]
+
+
+def summarize_split(jobs_a: list[str], jobs_b: list[str], a: list[dict], b: list[dict], mode: str) -> str:
+    ma, mb = [metrics(r) for r in a], [metrics(r) for r in b]
+    lines = [f"# Prompt A/B test (split, {mode})", "",
+             f"Each job ran with one prompt only: A {len(a)} jobs, B {len(b)} jobs.", "",
+             "## Per job", "",
+             "| Prompt | Job | Status | CV | Fields / gen / unanswered | Match | $ | min |",
+             "|---|---|---|---|---|---|---|---|"]
+    for name, urls, ms in (("A", jobs_a, ma), ("B", jobs_b, mb)):
+        for url, m in zip(urls, ms):
+            lines.append(f"| {name} | {url} | {m['status']} | {m['cv_upload']} | "
+                         f"{m['fields']} / {m['generated']} / {m['unanswered']} | {m['match']} | "
+                         f"{m['cost']:.3f} | {m['minutes']} |")
+
+    def agg(ms: list[dict]) -> dict[str, str]:
+        n = len(ms) or 1
+        return {
+            "Submitted": f"{sum(m['status'] == 'submitted' for m in ms)}/{len(ms)}",
+            "Reached final submit step": f"{sum(m['reached_end'] for m in ms)}/{len(ms)}",
+            "CV attached": f"{sum(m['cv_upload'] == 'uploaded' for m in ms)}/{len(ms)}",
+            "Stopped for user input": f"{sum(m['status'] == 'needs_user_input' for m in ms)}/{len(ms)}",
+            "Avg fields filled": f"{sum(m['fields'] for m in ms) / n:.1f}",
+            "Avg AI-written answers": f"{sum(m['generated'] for m in ms) / n:.1f}",
+            "Avg total cost ($)": f"{sum(m['cost'] for m in ms) / n:.4f}",
+            "Total cost ($)": f"{sum(m['cost'] for m in ms):.4f}",
+            "Avg minutes": f"{sum(m['minutes'] for m in ms) / n:.1f}",
+        }
+
+    ga, gb = agg(ma), agg(mb)
+    lines += ["", "## Totals", "", "| Metric | A (current) | B (new) |", "|---|---|---|"]
+    lines += [f"| {k} | {ga[k]} | {gb[k]} |" for k in ga]
+    return "\n".join(lines) + "\n"
+
+
 async def run_ab(args: argparse.Namespace) -> int:
     jobs = _read_jobs(args)
     answers = json.loads(Path(args.answers).read_text(encoding="utf-8")) if args.answers else {}
     cv = Path(args.cv)
-    common = dict(mode="dry-run", model=args.model, max_cost_usd=args.max_cost,
+    mode = args.mode if args.split else "dry-run"
+    common = dict(mode=mode, model=args.model, max_cost_usd=args.max_cost,
                   proxy_country=None if args.proxy_country.lower() == "none" else args.proxy_country.lower(),
                   concurrency=args.concurrency, run_timeout_s=args.timeout, upload_retries=0,
                   answers=answers)
     cfg_a = ApplyConfig(prompt_variant="a", **common)
-    cfg_b = ApplyConfig(prompt_variant="b", cv_text=cv_to_text(cv), **common)
+    cfg_b = ApplyConfig(prompt_variant="b", cv_text=cv_to_text(cv), application_email=args.email_b,
+                        **common)
+    jobs_a, jobs_b = split_jobs(jobs, args.seed) if args.split else (jobs, jobs)
+    if args.split:
+        print("A:", *jobs_a, sep="\n  ")
+        print("B:", *jobs_b, sep="\n  ")
 
     async with AsyncBrowserUse() as client:
         a, b = await asyncio.gather(
-            apply_to_jobs(jobs, cv, cfg_a, client=client,
+            apply_to_jobs(jobs_a, cv, cfg_a, client=client,
                           on_result=lambda r: print(f"[A] {r['status']:<17} {r['job_url']}")),
-            apply_to_jobs(jobs, cv, cfg_b, client=client,
+            apply_to_jobs(jobs_b, cv, cfg_b, client=client,
                           on_result=lambda r: print(f"[B] {r['status']:<17} {r['job_url']}")),
         )
 
@@ -112,7 +163,7 @@ async def run_ab(args: argparse.Namespace) -> int:
     stamp = f"{datetime.now(timezone.utc):%Y%m%dT%H%M%SZ}"
     (out / f"ab_{stamp}.json").write_text(json.dumps({"a": a, "b": b}, indent=2, ensure_ascii=False),
                                           encoding="utf-8")
-    report = summarize(jobs, a, b)
+    report = summarize_split(jobs_a, jobs_b, a, b, mode) if args.split else summarize(jobs, a, b)
     (out / f"ab_{stamp}.md").write_text(report, encoding="utf-8")
     print(report)
     print(f"Written to {out}/ab_{stamp}.json and .md")
@@ -131,6 +182,13 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--concurrency", type=int, default=4, help="per variant")
     p.add_argument("--timeout", type=float, default=1800)
     p.add_argument("--out", default="results")
+    p.add_argument("--split", action="store_true",
+                   help="give each job to one variant only (required to really submit)")
+    p.add_argument("--mode", choices=("dry-run", "auto"), default="auto",
+                   help="mode for --split runs (paired runs are always dry-run)")
+    p.add_argument("--seed", type=int, default=1, help="random seed for --split")
+    p.add_argument("--email-b", default=None,
+                   help="email for variant B instead of an AgentMail inbox")
     args = p.parse_args(argv)
     if not os.environ.get("BROWSER_USE_API_KEY"):
         print("error: set BROWSER_USE_API_KEY", file=sys.stderr)
