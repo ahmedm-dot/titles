@@ -11,7 +11,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-from .runner import MODES, ApplyConfig, apply_to_jobs
+from .runner import MODES, ApplyConfig, apply_to_jobs, resume_after_verification
 
 
 def _read_jobs(args: argparse.Namespace) -> list[str]:
@@ -68,6 +68,23 @@ async def _terminal_confirm(report: dict[str, Any]) -> bool:
     return answer.strip().lower() in {"y", "yes"}
 
 
+def _resume(args: argparse.Namespace, cfg: ApplyConfig, job_url: str) -> int:
+    from browser_use_sdk.v4 import AsyncBrowserUse
+
+    async def go() -> dict[str, Any]:
+        async with AsyncBrowserUse() as client:
+            return await resume_after_verification(client, args.resume_session, job_url, Path(args.cv).name, cfg)
+
+    rec = asyncio.run(go())
+    print(format_report(rec))
+    out_dir = Path(args.out)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_file = out_dir / f"resume_{datetime.now(timezone.utc):%Y%m%dT%H%M%SZ}.json"
+    out_file.write_text(json.dumps([rec], indent=2, ensure_ascii=False), encoding="utf-8")
+    print(f"Result written to {out_file}")
+    return 0 if rec["status"] != "failed" else 1
+
+
 def build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(
         prog="python -m auto_apply",
@@ -96,6 +113,11 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--timeout", type=float, default=ApplyConfig.run_timeout_s,
                    help="Seconds to wait for each agent run")
     p.add_argument("--out", default="results", help="Directory for the JSON results file")
+    p.add_argument("--account-password-env", metavar="VAR",
+                   help="env var holding a password for sites that need an account (Workday...); "
+                        "passed as a secret binding, never in the prompt")
+    p.add_argument("--resume-session", metavar="SESSION_ID",
+                   help="continue a session that stopped at waiting_for_verification (one --job)")
     return p
 
 
@@ -125,6 +147,16 @@ def main(argv: list[str] | None = None) -> int:
         from .ab_test import cv_to_text
 
         cfg.cv_text = cv_to_text(Path(args.cv))
+    if args.account_password_env:
+        cfg.account_password = os.environ.get(args.account_password_env)
+        if not cfg.account_password:
+            print(f"error: ${args.account_password_env} is empty", file=sys.stderr)
+            return 2
+    if args.resume_session:
+        if len(jobs) != 1:
+            print("error: --resume-session takes exactly one --job", file=sys.stderr)
+            return 2
+        return _resume(args, cfg, jobs[0])
     if cfg.mode == "review" and not sys.stdin.isatty():
         print("error: review mode needs an interactive terminal; use --mode dry-run or auto",
               file=sys.stderr)

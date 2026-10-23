@@ -14,6 +14,7 @@ STATUSES = [
     "ready_to_submit",
     "needs_user_input",
     "blocked_login",
+    "waiting_for_verification",
     "blocked_captcha",
     "job_closed",
     "failed",
@@ -129,10 +130,18 @@ fields with source "generated".
 in unanswered_required_questions, and finish with status "needs_user_input".
 5. For optional demographic / EEO / diversity questions, pick "Decline to self-identify" (or the closest \
 equivalent) unless the applicant answers say otherwise.
-6. If the page requires signing in or creating an account and no credentials were provided, stop with \
-status "blocked_login". If a CAPTCHA blocks you, stop with "blocked_captcha". If the posting is closed or \
+6. If the page requires signing in or creating an account: when the secret "account_password" is \
+available to you, sign in (or create the account) with the candidate's email from the applicant answers \
+and type the secret account_password into the password fields - never write the password anywhere \
+else; if no such secret is available, stop with status "blocked_login". If the site asks to verify the \
+email address (a link or code sent to the candidate's email), do NOT click resend and do not change the \
+email: stop with status "waiting_for_verification" and say in notes whether a link or a code was sent \
+and to which address. If a CAPTCHA blocks you, stop with "blocked_captcha". If the posting is closed or \
 missing, stop with "job_closed".
-7. Do not sign up for newsletters or job alerts, and do not apply to any job other than this one.
+7. Do not sign up for newsletters or job alerts, and do not apply to any job other than this one. If the \
+application offers to fill the form from a resume ("Autofill with Resume", "Upload resume to autofill", \
+"Apply with resume"), use that option with the attached CV first, then check every autofilled field \
+against the CV and the applicant answers and correct wrong or missing values.
 8. Before you finish, read the job description and score how well the CV matches it (0-100, as an ATS \
 would): list the skills from the posting that the CV clearly shows, and the important posting keywords \
 the CV is missing.
@@ -194,6 +203,19 @@ def build_retry_upload_task(cv_name: str, answers: dict[str, Any], mode: str) ->
         f"{_rules(cv_name)}\n"
         f"Applicant answers:\n{_answers_block(answers)}\n"
         f"Report the full application again (all fields, match analysis, cv_upload)."
+    )
+
+
+def build_resume_after_verification_task(cv_name: str, answers: dict[str, Any], mode: str) -> str:
+    """Follow-up in the same session once the candidate has verified the email."""
+    return (
+        "The candidate has now verified the email address for this application account. Continue the same "
+        "application: go back to the job posting / application page if needed, sign in with the candidate's "
+        "email and the secret account_password, and complete the application from where it stopped.\n\n"
+        f"{_SUBMIT_INSTRUCTIONS[mode]}\n\n"
+        f"{_rules(cv_name)}\n"
+        f"Applicant answers:\n{_answers_block(answers)}\n"
+        "Report the full application again (all fields, match analysis, cv_upload)."
     )
 
 

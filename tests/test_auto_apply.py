@@ -256,3 +256,33 @@ def test_variant_b_with_fixed_email_skips_agentmail(cv):
     sent = client.runs.created[0]
     assert "agentmail" not in sent and "me@example.com" in sent["task"]
     assert "AgentMail" not in sent["task"] and "TEST-MODE OVERRIDE" not in sent["task"]
+
+
+def test_account_password_goes_only_into_a_secret_binding(cv):
+    client = fake_client([REPORT])
+    cfg = ApplyConfig(mode="auto", account_password="S3cret!pw")
+    run(apply_to_jobs(["https://acme.wd5.myworkdayjobs.com/careers/job/X"], cv, cfg, client=client))
+    sent = client.runs.created[0]
+    assert "S3cret!pw" not in sent["task"] and "account_password" in sent["task"]
+    [b] = sent["secret_bindings"]
+    assert b["source"]["value"] == "S3cret!pw" and b["allowedDomains"] == ["acme.wd5.myworkdayjobs.com"]
+    assert sent["keep_alive"] == 900
+
+
+def test_waiting_for_verification_keeps_the_browser_open(cv):
+    client = fake_client([{**REPORT, "status": "waiting_for_verification", "cv_upload": "uploaded"}])
+    cfg = ApplyConfig(mode="auto", account_password="pw")
+    [rec] = run(apply_to_jobs(["https://acme.wd5.myworkdayjobs.com/x"], cv, cfg, client=client))
+    assert rec["status"] == "waiting_for_verification"
+    assert client.browsers.stopped == [] and rec["cost_final"] is False
+
+
+def test_resume_after_verification_continues_the_same_session():
+    from auto_apply.runner import resume_after_verification
+    client = fake_client([{**REPORT, "status": "submitted"}])
+    cfg = ApplyConfig(mode="auto", account_password="pw")
+    rec = run(resume_after_verification(client, "sess-1", "https://acme.wd5.myworkdayjobs.com/x", "cv.pdf", cfg))
+    sent = client.runs.created[0]
+    assert rec["status"] == "submitted" and sent["session_id"] == "sess-1"
+    assert "verified the email" in sent["task"] and sent["secret_bindings"][0]["alias"] == "account_password"
+    assert client.browsers.stopped == ["sess-1"]  # closed once the job is done

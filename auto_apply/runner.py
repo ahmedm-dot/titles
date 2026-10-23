@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import asyncio
 import json
+from urllib.parse import urlparse
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from decimal import Decimal, InvalidOperation
@@ -16,6 +17,7 @@ from .prompts import (
     OUTPUT_SCHEMA,
     SUBMIT_TASK,
     build_apply_task,
+    build_resume_after_verification_task,
     build_retry_upload_task,
     build_variant_b_task,
 )
@@ -53,6 +55,12 @@ class ApplyConfig:
     # Variant B's application email. None = a fresh AgentMail inbox the agent can read
     # verification codes from (but the candidate never sees recruiter replies there).
     application_email: str | None = None
+    # Password for sites that need an account (Workday, ...). Passed only as a secret
+    # binding typed on the job's host; never put into the task text.
+    account_password: str | None = None
+    # Browser keep-alive after a run that stops at email verification, so the
+    # candidate can verify and the follow-up continues on the same page.
+    verification_window_s: int = 900
 
     def __post_init__(self) -> None:
         if self.mode not in MODES:
@@ -68,8 +76,23 @@ class ApplyConfig:
                                         email=self.application_email)
         return build_apply_task(job_url, cv_name, self.answers, self.mode)
 
-    def run_options(self) -> dict[str, Any]:
-        return {"agentmail": True} if self.prompt_variant == "b" and not self.application_email else {}
+    def run_options(self, job_url: str = "") -> dict[str, Any]:
+        opts: dict[str, Any] = {}
+        if self.prompt_variant == "b" and not self.application_email:
+            opts["agentmail"] = True
+        if self.account_password and job_url:
+            opts["secret_bindings"] = [account_password_binding(self.account_password, job_url)]
+            opts["keep_alive"] = self.verification_window_s
+        return opts
+
+
+def account_password_binding(password: str, job_url: str) -> dict[str, Any]:
+    """Scope the password to the job's own host (a host also covers its subdomains)."""
+    return {
+        "alias": "account_password",
+        "source": {"type": "inline", "value": password},
+        "allowedDomains": [urlparse(job_url).hostname],
+    }
 
 
 def parse_output(run: Any) -> dict[str, Any] | None:
@@ -182,8 +205,8 @@ async def apply_to_job(
             workspace_id=workspace_id,
             attached_file_ids=[cv_file_id],
             browser_settings=browser_settings,
-            **cfg.run_options(),
-            **({"keep_alive": cfg.review_window_s} if cfg.mode == "review" else {}),
+            **{**cfg.run_options(job_url),
+               **({"keep_alive": cfg.review_window_s} if cfg.mode == "review" else {})},
         )
         record["run_ids"].append(str(fill.id))
         record["session_id"] = str(fill.session_id)
@@ -214,6 +237,7 @@ async def apply_to_job(
                     build_retry_upload_task(cv_name, cfg.answers, cfg.mode),
                     session_id=fill.session_id,
                     attached_file_ids=[cv_file_id],
+                    **_bindings_only(cfg, job_url),
                 )
             else:
                 # Last try: a brand-new browser. When the file transfer into a browser
@@ -225,7 +249,7 @@ async def apply_to_job(
                     workspace_id=workspace_id,
                     attached_file_ids=[cv_file_id],
                     browser_settings=browser_settings,
-                    **cfg.run_options(),
+                    **cfg.run_options(job_url),
                 )
                 record["session_id"] = str(retry.session_id)
                 sessions.append(str(retry.session_id))
@@ -247,6 +271,7 @@ async def apply_to_job(
                     SUBMIT_TASK,
                     session_id=fill.session_id,
                     attached_file_ids=[cv_file_id],
+                    **_bindings_only(cfg, job_url),
                 )
                 record["run_ids"].append(str(submit.id))
                 total += _cost(submit)
@@ -271,10 +296,55 @@ async def apply_to_job(
         # it first: that also refunds the keep-alive time nobody will use.
         if sessions:
             try:
-                record["cost_final"] = await _release_browsers(client, sessions)
+                if record["status"] == "waiting_for_verification":
+                    # Keep the browser for the follow-up after the candidate verifies.
+                    record["cost_final"] = False
+                else:
+                    record["cost_final"] = await _release_browsers(client, sessions)
                 await _add_session_costs(client, sessions, record)
             except BrowserUseError:
                 record["cost_note"] = "session cost unavailable; cost_usd is LLM only"
+        record["finished_at"] = datetime.now(timezone.utc).isoformat()
+    return record
+
+
+def _bindings_only(cfg: ApplyConfig, job_url: str) -> dict[str, Any]:
+    opts = cfg.run_options(job_url)
+    return {"secret_bindings": opts["secret_bindings"]} if "secret_bindings" in opts else {}
+
+
+async def resume_after_verification(
+    client: AsyncBrowserUse, session_id: str, job_url: str, cv_name: str, cfg: ApplyConfig
+) -> dict[str, Any]:
+    """Continue a session that stopped at "waiting_for_verification" once the email is verified.
+
+    The follow-up reuses the session's browser (if still open) and workspace, so the
+    CV attached to the first run is still available.
+    """
+    record: dict[str, Any] = {
+        "job_url": job_url, "mode": cfg.mode, "model": cfg.model, "prompt_variant": cfg.prompt_variant,
+        "started_at": datetime.now(timezone.utc).isoformat(), "status": "failed", "report": None,
+        "run_ids": [], "session_id": session_id, "cost_usd": "0", "error": None,
+    }
+    try:
+        run = await _run_and_wait(
+            client, cfg, build_resume_after_verification_task(cv_name, cfg.answers, cfg.mode),
+            session_id=session_id, **_bindings_only(cfg, job_url),
+        )
+        record["run_ids"].append(str(run.id))
+        record["report"] = parse_output(run)
+        if run.status.value == "completed" and record["report"]:
+            record["status"] = record["report"].get("status", "failed")
+        else:
+            record["error"] = run.error or "follow-up returned no structured report"
+    except (BrowserUseError, TimeoutError) as exc:
+        record["error"] = str(exc)
+    finally:
+        try:
+            record["cost_final"] = await _release_browsers(client, [session_id])
+            await _add_session_costs(client, [session_id], record)
+        except BrowserUseError:
+            record["cost_note"] = "session cost unavailable"
         record["finished_at"] = datetime.now(timezone.utc).isoformat()
     return record
 
