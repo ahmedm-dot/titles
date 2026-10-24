@@ -183,14 +183,27 @@ async def _add_session_costs(client: AsyncBrowserUse, sessions: list[str], recor
     record["cost_breakdown"] = {k: str(v) for k, v in parts.items()}
 
 
+# The plan caps concurrent sessions; a 429 on create means "wait for a slot", not a failed job.
+SLOT_WAIT_S = 30
+SLOT_MAX_WAIT_S = 1800
+
+
+async def _create_run(client: AsyncBrowserUse, cfg: ApplyConfig, task: str, **kwargs: Any) -> Any:
+    waited = 0.0
+    while True:
+        try:
+            return await client.runs.create(task, model=cfg.model, output_schema=OUTPUT_SCHEMA,
+                                            max_cost_usd=cfg.max_cost_usd, **kwargs)
+        except BrowserUseError as exc:
+            if getattr(exc, "status_code", None) != 429 or waited >= SLOT_MAX_WAIT_S:
+                raise
+            pause = min(getattr(exc, "retry_after", None) or SLOT_WAIT_S, SLOT_WAIT_S)
+            await asyncio.sleep(pause)
+            waited += max(pause, 1)
+
+
 async def _run_and_wait(client: AsyncBrowserUse, cfg: ApplyConfig, task: str, **kwargs: Any) -> Any:
-    created = await client.runs.create(
-        task,
-        model=cfg.model,
-        output_schema=OUTPUT_SCHEMA,
-        max_cost_usd=cfg.max_cost_usd,
-        **kwargs,
-    )
+    created = await _create_run(client, cfg, task, **kwargs)
     try:
         return await client.runs.wait_for_completion(created.id, timeout=cfg.run_timeout_s)
     except (TimeoutError, asyncio.CancelledError):

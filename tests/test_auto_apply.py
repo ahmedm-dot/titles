@@ -409,3 +409,23 @@ def test_verification_code_from_inbox_continues_the_same_session(cv):
     follow_up = client.runs.created[1]
     assert follow_up["session_id"] == "sess-1" and "hlg9Qmoa" in follow_up["task"]
     assert "geotab" in seen["hints"]
+
+
+def test_concurrency_limit_waits_for_a_slot(cv, monkeypatch):
+    from browser_use_sdk.v4 import BrowserUseError
+
+    import auto_apply.runner as runner
+
+    monkeypatch.setattr(runner, "SLOT_WAIT_S", 0)
+    client = fake_client([{**REPORT, "status": "submitted"}])
+    real_create, calls = client.runs.create, []
+
+    async def flaky_create(task, **kw):
+        calls.append(1)
+        if len(calls) == 1:
+            raise BrowserUseError(429, "Too many concurrent active sessions.")
+        return await real_create(task, **kw)
+
+    client.runs.create = flaky_create
+    [rec] = run(apply_to_jobs(["https://jobs.example/1"], cv, ApplyConfig(mode="auto"), client=client))
+    assert rec["status"] == "submitted" and len(calls) == 2
