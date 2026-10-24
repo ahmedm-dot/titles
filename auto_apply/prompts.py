@@ -20,7 +20,7 @@ STATUSES = [
     "failed",
 ]
 
-FIELD_SOURCES = ["cv", "answers", "generated"]
+FIELD_SOURCES = ["cv", "answers", "generated", "first_option"]
 
 CV_UPLOAD_STATES = ["uploaded", "failed", "no_upload_field"]
 
@@ -124,8 +124,12 @@ out or the file input only accepts files from the browser's Downloads folder), u
 {upload_fallback} If it still fails, never submit without the CV: set cv_upload to "failed" and finish with status "needs_user_input". Set cv_upload to \
 "uploaded" once the form shows the file attached, or "no_upload_field" if the form has no file field.
 3. {scope_rule}
-4. If a REQUIRED question cannot be answered from the CV or the answers, do not guess: leave it, list it \
-in unanswered_required_questions, and finish with status "needs_user_input". Before finishing, fill everything \
+4. If a REQUIRED pick-from-a-list question (dropdown, radio buttons, rating scale - e.g. "How did you hear \
+about us?", a proficiency level, the closest degree type) is not covered by the CV or the answers, pick the \
+FIRST real option (skip placeholders like "Select One") and mark it with source "first_option". This does not \
+apply to legal / eligibility / consent questions (work authorization, visa sponsorship, background checks, \
+signing or agreeing to terms): for those, and for any other REQUIRED question that cannot be answered from the \
+CV or the answers, do not guess: leave it, list it in unanswered_required_questions, and finish with status "needs_user_input". Before finishing, fill everything \
 else you can and keep going through the later pages/steps as far as the site allows, so that ALL unanswerable \
 questions are collected in one report rather than one at a time.
 5. {eeo_rule}
@@ -311,7 +315,7 @@ _B_REPORT = (
     "\"job_closed\" (you terminated per the TERMINATION section), \"blocked_login\" / "
     "\"blocked_captcha\" (could not get past sign-in or a CAPTCHA), \"needs_user_input\" (a required "
     "answer was missing), or \"failed\". cv_upload: \"uploaded\" / \"failed\" / \"no_upload_field\". "
-    "fields_filled: every field and the value entered, with source cv / answers / generated. match: "
+    "fields_filled: every field and the value entered, with source cv / answers / generated / first_option. match: "
     "score 0-100 of how well the candidate fits the posting, the posting's skills the candidate shows, "
     "and the important posting keywords the candidate lacks."
 )

@@ -349,3 +349,11 @@ def test_required_fields_only_by_default(cv):
     run(apply_to_jobs(["https://jobs.example/1"], cv, ApplyConfig(mode="dry-run", required_only=False), client=client2))
     t2 = client2.runs.created[0]["task"]
     assert "Fill ONLY required fields" not in t2 and "For optional demographic" in t2
+
+
+def test_uncovered_list_questions_take_first_option(cv):
+    from auto_apply.prompts import FIELD_SOURCES, build_apply_task
+
+    task = build_apply_task("https://x", "cv.pdf", {}, "auto")
+    assert "FIRST real option" in task and "work authorization" in task
+    assert "first_option" in FIELD_SOURCES
