@@ -76,6 +76,7 @@ class ApplyConfig:
     cv_url: str | None = None
     # Fill only required fields (default); False also fills optional ones.
     required_only: bool = True
+    never_block: bool = False
 
     def __post_init__(self) -> None:
         if self.mode not in MODES:
@@ -90,7 +91,8 @@ class ApplyConfig:
             return build_variant_b_task(job_url, cv_name, self.cv_text, self.answers, self.mode,
                                         email=self.application_email)
         return build_apply_task(job_url, cv_name, self.answers, self.mode, cv_url=self.cv_url,
-                                required_only=self.required_only)
+                                required_only=self.required_only,
+                                never_block=self.never_block)
 
     def browser_settings(self, job_url: str) -> dict[str, Any]:
         host = (urlparse(job_url).hostname or "").lower()
@@ -261,7 +263,7 @@ async def apply_to_job(
                     client,
                     cfg,
                     build_retry_upload_task(cv_name, cfg.answers, cfg.mode, cv_url=cfg.cv_url,
-                                            required_only=cfg.required_only),
+                                            required_only=cfg.required_only, never_block=cfg.never_block),
                     session_id=fill.session_id,
                     attached_file_ids=[cv_file_id],
                     **_bindings_only(cfg, job_url),
@@ -364,7 +366,7 @@ async def continue_session(
     try:
         run = await _run_and_wait(
             client, cfg, build_continue_task(cv_name, cfg.answers, cfg.mode, reason, cv_url=cfg.cv_url,
-                                             required_only=cfg.required_only),
+                                             required_only=cfg.required_only, never_block=cfg.never_block),
             session_id=session_id, **_bindings_only(cfg, job_url),
             **({"keep_alive": cfg.verification_window_s} if cfg.hold_for_followup else {}),
         )

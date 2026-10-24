@@ -358,3 +358,11 @@ def test_uncovered_list_questions_take_first_option(cv):
     assert "FIRST real option" in task and "work authorization" in task
     assert "candidate's own experience" in task
     assert "first_option" in FIELD_SOURCES
+
+
+def test_no_block_rule_is_opt_in(cv):
+    from auto_apply.prompts import build_apply_task, build_continue_task
+
+    assert "OVERRIDES rule 4" not in build_apply_task("https://x", "cv.pdf", {}, "auto")
+    assert "OVERRIDES rule 4" in build_apply_task("https://x", "cv.pdf", {}, "auto", never_block=True)
+    assert "Never invent contact details" in build_continue_task("cv.pdf", {}, "auto", never_block=True)
