@@ -128,7 +128,9 @@ out or the file input only accepts files from the browser's Downloads folder), u
 about us?", a proficiency level, the closest degree type) is not covered by the CV or the answers, pick the \
 FIRST real option (skip placeholders like "Select One") and mark it with source "first_option". This does not \
 apply to legal / eligibility / consent questions (work authorization, visa sponsorship, background checks, \
-signing or agreeing to terms): for those, and for any other REQUIRED question that cannot be answered from the \
+signing or agreeing to terms), nor to any question about the candidate's own experience, skills, \
+qualifications, history or willingness (e.g. "Do you have experience with X?", "Have you worked at a \
+startup?", "Are you willing to relocate?") - answering those by list position would be a false claim: for those, and for any other REQUIRED question that cannot be answered from the \
 CV or the answers, do not guess: leave it, list it in unanswered_required_questions, and finish with status "needs_user_input". Before finishing, fill everything \
 else you can and keep going through the later pages/steps as far as the site allows, so that ALL unanswerable \
 questions are collected in one report rather than one at a time.

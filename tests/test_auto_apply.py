@@ -356,4 +356,5 @@ def test_uncovered_list_questions_take_first_option(cv):
 
     task = build_apply_task("https://x", "cv.pdf", {}, "auto")
     assert "FIRST real option" in task and "work authorization" in task
+    assert "candidate's own experience" in task
     assert "first_option" in FIELD_SOURCES
