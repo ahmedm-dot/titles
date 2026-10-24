@@ -152,3 +152,16 @@ the link is the first fallback when the upload fails: many file inputs only acce
 browser's Downloads folder, and opening the link downloads the CV there. The prompt forbids sending
 the CV or candidate data anywhere except the job's own form. Anyone with the link can read the CV.
 
+
+## Email verification without waiting on you (`--code-inbox`)
+
+Greenhouse emails an 8-character security code before it accepts an application, and Workday sends
+a verification link for new accounts. With `--code-inbox` the runner reads them from an
+[inbound.new](https://inbound.new) mailbox (`INBOUND_API_KEY`) and continues the same session itself:
+
+1. Get an inbound.new address (e.g. `hello@you.inbnd.dev`).
+2. In Gmail, forward verification emails there: Settings → Forwarding → add the address, then a filter
+   such as `"security code" OR verify OR "confirm your email"` → *Forward it to* that address.
+3. Run with `--code-inbox` (implies `--hold`). When a job reports `waiting_for_verification`, the runner
+   waits up to 5 minutes for an email that mentions the employer, takes the code or link from it, and
+   sends a follow-up turn to the same browser. Each email is used once.

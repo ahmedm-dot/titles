@@ -366,3 +366,46 @@ def test_no_block_rule_is_opt_in(cv):
     assert "OVERRIDES rule 4" not in build_apply_task("https://x", "cv.pdf", {}, "auto")
     assert "OVERRIDES rule 4" in build_apply_task("https://x", "cv.pdf", {}, "auto", never_block=True)
     assert "Never invent contact details" in build_continue_task("cv.pdf", {}, "auto", never_block=True)
+
+
+GREENHOUSE_CODE_EMAIL = (
+    "Security code for your application to Geotab",
+    "Hi Ahmed,\n\nCopy and paste this code into the security code field on your application:\n\n"
+    "hlg9Qmoa\n\nAfter you enter the code, resubmit your application.\n",
+)
+
+
+def test_extract_greenhouse_code_and_workday_link():
+    from auto_apply.inbox import extract_verification
+
+    assert extract_verification(*GREENHOUSE_CODE_EMAIL) == {"code": "hlg9Qmoa"}
+    link = extract_verification("Verify your candidate account",
+                                "Click https://iqvia.wd1.myworkdayjobs.com/IQVIA/activate/abc123?x=1 to verify.")
+    assert link == {"link": "https://iqvia.wd1.myworkdayjobs.com/IQVIA/activate/abc123?x=1"}
+    assert extract_verification("Thanks for applying", "We received your application.") is None
+
+
+def test_hints_identify_the_employer():
+    from auto_apply.inbox import hints_for
+
+    assert "geotab" in hints_for("https://job-boards.greenhouse.io/geotab/jobs/5459998008", "Geotab")
+    assert "iqvia" in hints_for("https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Warsaw/PM_R1")
+
+
+def test_verification_code_from_inbox_continues_the_same_session(cv):
+    waiting = {**REPORT, "status": "waiting_for_verification",
+               "job": {**REPORT["job"], "company": "Geotab"}}
+    client = fake_client([waiting, {**REPORT, "status": "submitted"}])
+    seen = {}
+
+    class FakeInbox:
+        async def wait_for(self, hints, since, timeout_s):
+            seen["hints"] = hints
+            return {"code": "hlg9Qmoa"}
+
+    cfg = ApplyConfig(mode="auto", code_inbox=FakeInbox(), hold_for_followup=True)
+    [rec] = run(apply_to_jobs(["https://job-boards.greenhouse.io/geotab/jobs/1"], cv, cfg, client=client))
+    assert rec["status"] == "submitted" and rec["inbox_rounds"] == 1
+    follow_up = client.runs.created[1]
+    assert follow_up["session_id"] == "sess-1" and "hlg9Qmoa" in follow_up["task"]
+    assert "geotab" in seen["hints"]

@@ -5,7 +5,7 @@ from __future__ import annotations
 import asyncio
 import json
 from urllib.parse import urlparse
-from dataclasses import dataclass, field
+from dataclasses import dataclass, field, replace
 from datetime import datetime, timezone
 from decimal import Decimal, InvalidOperation
 from pathlib import Path
@@ -13,6 +13,7 @@ from typing import Any, Awaitable, Callable
 
 from browser_use_sdk.v4 import AsyncBrowserUse, BrowserUseError
 
+from .inbox import hints_for
 from .prompts import (
     OUTPUT_SCHEMA,
     SUBMIT_TASK,
@@ -77,6 +78,9 @@ class ApplyConfig:
     # Fill only required fields (default); False also fills optional ones.
     required_only: bool = True
     never_block: bool = False
+    # inbox.CodeInbox: when set, verification codes/links are read from it instead of waiting on a human
+    code_inbox: Any = None
+    code_wait_s: float = 300
 
     def __post_init__(self) -> None:
         if self.mode not in MODES:
@@ -388,6 +392,34 @@ async def continue_session(
     return record
 
 
+async def verify_from_inbox(client: AsyncBrowserUse, rec: dict[str, Any], cv_name: str, cfg: ApplyConfig,
+                            max_rounds: int = 2) -> dict[str, Any]:
+    """While a job waits for email verification, read the code/link from cfg.code_inbox and continue."""
+    rounds = 0
+    while cfg.code_inbox and rec["status"] == "waiting_for_verification" and rec.get("session_id") \
+            and rounds < max_rounds:
+        rounds += 1
+        company = ((rec.get("report") or {}).get("job") or {}).get("company")
+        since = datetime.fromisoformat(rec["started_at"])
+        found = await cfg.code_inbox.wait_for(hints_for(rec["job_url"], company), since, cfg.code_wait_s)
+        if not found:
+            rec["notes_inbox"] = "no verification email arrived in the inbox"
+            break
+        key = "email_verification_code" if "code" in found else "email_verification_link"
+        value = found.get("code") or found.get("link")
+        instruction = (f"{value} - from the verification email for this application. "
+                       + ("Type it exactly, case-sensitive, into the code field." if "code" in found else
+                          "Open this link in a new tab to verify the email, then return to the application."))
+        follow_cfg = replace(cfg, answers={**cfg.answers, key: instruction})
+        prev = rec
+        rec = await continue_session(client, prev["session_id"], prev["job_url"], cv_name, follow_cfg,
+                                     reason="verified")
+        rec["started_at"] = prev["started_at"]
+        rec["run_ids"] = prev.get("run_ids", []) + rec.get("run_ids", [])
+        rec["inbox_rounds"] = rounds
+    return rec
+
+
 async def apply_to_jobs(
     job_urls: list[str],
     cv_path: str | Path,
@@ -428,6 +460,7 @@ async def apply_to_jobs(
                     cfg=cfg,
                     confirm=locked_confirm if confirm else None,
                 )
+                rec = await verify_from_inbox(client, rec, cv_path.name, cfg)
             if on_result:
                 on_result(rec)
             return rec

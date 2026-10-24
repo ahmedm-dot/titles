@@ -132,6 +132,11 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--no-block", action="store_true",
                    help="never stop for unanswered questions: the agent picks the answer that keeps the "
                         "application moving (contact details are never invented)")
+    p.add_argument("--code-inbox", action="store_true",
+                   help="read email verification codes/links from an inbound.new mailbox (INBOUND_API_KEY) "
+                        "and continue automatically instead of waiting for you")
+    p.add_argument("--code-inbox-address", default=None,
+                   help="only use emails sent to this address of the inbox (default: any)")
     p.add_argument("--hold", action="store_true",
                    help="keep the browser open when a run stops for input (or a dry-run ends), "
                         "so --continue-session finishes the same form")
@@ -174,6 +179,11 @@ def main(argv: list[str] | None = None) -> int:
     cfg.cv_url = args.cv_url
     cfg.required_only = not args.fill_optional
     cfg.never_block = args.no_block
+    if args.code_inbox:
+        from .inbox import CodeInbox
+
+        cfg.code_inbox = CodeInbox(address=args.code_inbox_address)
+        cfg.hold_for_followup = True  # the browser must stay open while the code email arrives
     if args.resume_session or args.continue_session:
         if len(jobs) != 1:
             print("error: --resume-session / --continue-session take exactly one --job", file=sys.stderr)
