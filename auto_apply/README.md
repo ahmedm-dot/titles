@@ -47,7 +47,7 @@ Results print as each job finishes and are saved to
 | `--answers` | none | JSON with answers the CV doesn't hold: work authorization, sponsorship, salary, notice period, phone, links, EEO. See `examples/answers.example.json` |
 | `--model` | account default (`gpt-6-luna` on the free plan) | any Browser Use v4 model id; paid models such as `claude-sonnet-5-5` need credits |
 | `--max-cost` | `3` | USD budget per job session (enforced server-side) |
-| `--proxy-country` | `us` | residential proxy exit country, or `none` |
+| `--proxy-country` | `us` | residential proxy exit country for sites that need one, or `none`. **Only Lever gets a proxy by default** (its hCaptcha blocks datacenter IPs); add `--proxy-everywhere` to proxy every site. Proxy traffic is billed per MB |
 | `--concurrency` | `3` | jobs processed in parallel |
 | `--timeout` | `1800` | seconds to wait for each agent run (the run is cancelled after) |
 

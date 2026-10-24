@@ -40,8 +40,12 @@ class ApplyConfig:
     # None lets Browser Use pick the account's default model, which also works on the free plan.
     model: str | None = None
     max_cost_usd: float = 3.0
-    # None runs without a proxy; any ISO code (e.g. "us", "gb", "ae") picks a residential exit.
+    # Residential proxy exit country (e.g. "us", "pl"); None disables proxies entirely.
     proxy_country: str | None = "us"
+    # Proxies cost per MB, so only sites that block datacenter IPs get one (Lever's hCaptcha
+    # rejected un-proxied submits). Hosts matching these suffixes use proxy_country; others none.
+    proxy_hosts: tuple[str, ...] = ("lever.co",)
+    proxy_everywhere: bool = False
     concurrency: int = 3
     run_timeout_s: float = 1800
     # Browser keep-alive after the fill run in review mode, so the approved submit
@@ -81,6 +85,11 @@ class ApplyConfig:
             return build_variant_b_task(job_url, cv_name, self.cv_text, self.answers, self.mode,
                                         email=self.application_email)
         return build_apply_task(job_url, cv_name, self.answers, self.mode)
+
+    def browser_settings(self, job_url: str) -> dict[str, Any]:
+        host = (urlparse(job_url).hostname or "").lower()
+        wants_proxy = self.proxy_everywhere or any(host == h or host.endswith("." + h) for h in self.proxy_hosts)
+        return {"proxyCountryCode": self.proxy_country if wants_proxy else None}
 
     def run_options(self, job_url: str = "") -> dict[str, Any]:
         opts: dict[str, Any] = {}
@@ -208,7 +217,7 @@ async def apply_to_job(
     total = Decimal("0")  # LLM cost reported by each run
     sessions: list[str] = []
     try:
-        browser_settings = {"proxyCountryCode": cfg.proxy_country}
+        browser_settings = cfg.browser_settings(job_url)
         fill = await _run_and_wait(
             client,
             cfg,

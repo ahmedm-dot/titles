@@ -110,7 +110,9 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--max-cost", type=float, default=ApplyConfig.max_cost_usd,
                    help="USD budget per job session (default %(default)s)")
     p.add_argument("--proxy-country", default="us",
-                   help='Residential proxy country code, or "none" to disable')
+                   help='Residential proxy country for sites that need one (Lever by default), or "none"')
+    p.add_argument("--proxy-everywhere", action="store_true",
+                   help="use the proxy on every site, not only Lever (proxy traffic is billed per MB)")
     p.add_argument("--concurrency", type=int, default=ApplyConfig.concurrency)
     p.add_argument("--timeout", type=float, default=ApplyConfig.run_timeout_s,
                    help="Seconds to wait for each agent run")
@@ -160,6 +162,7 @@ def main(argv: list[str] | None = None) -> int:
             print(f"error: ${args.account_password_env} is empty", file=sys.stderr)
             return 2
     cfg.hold_for_followup = args.hold
+    cfg.proxy_everywhere = args.proxy_everywhere
     if args.resume_session or args.continue_session:
         if len(jobs) != 1:
             print("error: --resume-session / --continue-session take exactly one --job", file=sys.stderr)

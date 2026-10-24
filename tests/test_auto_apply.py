@@ -311,3 +311,17 @@ def test_continue_session_with_new_answers_finishes_the_same_form():
     assert rec["status"] == "submitted" and sent["session_id"] == "sess-1"
     assert "answered the questions" in sent["task"] and '"relocation": "Yes"' in sent["task"]
     assert client.browsers.stopped == ["sess-1"]
+
+
+def test_proxy_only_on_lever_by_default(cv):
+    cfg = ApplyConfig(mode="dry-run", proxy_country="pl")
+    assert cfg.browser_settings("https://jobs.lever.co/acme/123") == {"proxyCountryCode": "pl"}
+    assert cfg.browser_settings("https://jobs.eu.lever.co/acme/123") == {"proxyCountryCode": "pl"}
+    assert cfg.browser_settings("https://acme.wd5.myworkdayjobs.com/x") == {"proxyCountryCode": None}
+    assert cfg.browser_settings("https://jobs.ashbyhq.com/acme/1") == {"proxyCountryCode": None}
+    assert cfg.browser_settings("https://notlever.co.evil.com/x") == {"proxyCountryCode": None}
+    everywhere = ApplyConfig(mode="dry-run", proxy_country="pl", proxy_everywhere=True)
+    assert everywhere.browser_settings("https://jobs.ashbyhq.com/acme/1") == {"proxyCountryCode": "pl"}
+    client = fake_client([REPORT])
+    run(apply_to_jobs(["https://jobs.ashbyhq.com/acme/1"], cv, cfg, client=client))
+    assert client.runs.created[0]["browser_settings"] == {"proxyCountryCode": None}
