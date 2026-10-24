@@ -127,6 +127,8 @@ def build_parser() -> argparse.ArgumentParser:
     p.add_argument("--cv-url", default=None,
                    help="public link to the same CV (e.g. a Google Drive direct-download link); the agent opens it "
                         "to get the CV into the browser's Downloads folder if a normal upload fails")
+    p.add_argument("--fill-optional", action="store_true",
+                   help="also fill optional fields (default: required fields only)")
     p.add_argument("--hold", action="store_true",
                    help="keep the browser open when a run stops for input (or a dry-run ends), "
                         "so --continue-session finishes the same form")
@@ -167,6 +169,7 @@ def main(argv: list[str] | None = None) -> int:
     cfg.hold_for_followup = args.hold
     cfg.proxy_everywhere = args.proxy_everywhere
     cfg.cv_url = args.cv_url
+    cfg.required_only = not args.fill_optional
     if args.resume_session or args.continue_session:
         if len(jobs) != 1:
             print("error: --resume-session / --continue-session take exactly one --job", file=sys.stderr)

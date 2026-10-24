@@ -123,15 +123,12 @@ as text when an upload is offered. If the upload fails (e.g. the file transfer i
 out or the file input only accepts files from the browser's Downloads folder), use this fallback: \
 {upload_fallback} If it still fails, never submit without the CV: set cv_upload to "failed" and finish with status "needs_user_input". Set cv_upload to \
 "uploaded" once the form shows the file attached, or "no_upload_field" if the form has no file field.
-3. Free-text questions (e.g. "Why do you want to work here?", cover letter boxes) may be written by you, \
-grounded in the CV and the job description: concise, specific, professional, first person. Mark those \
-fields with source "generated".
+3. {scope_rule}
 4. If a REQUIRED question cannot be answered from the CV or the answers, do not guess: leave it, list it \
 in unanswered_required_questions, and finish with status "needs_user_input". Before finishing, fill everything \
 else you can and keep going through the later pages/steps as far as the site allows, so that ALL unanswerable \
 questions are collected in one report rather than one at a time.
-5. For optional demographic / EEO / diversity questions, pick "Decline to self-identify" (or the closest \
-equivalent) unless the applicant answers say otherwise.
+5. {eeo_rule}
 6. If the page requires signing in or creating an account: when the secret "account_password" is \
 available to you, sign in (or create the account) with the candidate's email from the applicant answers \
 and type the secret account_password into the password fields - never write the password anywhere \
@@ -183,8 +180,33 @@ def _upload_fallback(cv_name: str, cv_url: str | None = None) -> str:
     return LINK_FALLBACK.format(cv_name=cv_name, cv_url=cv_url) + " If that does not work: " + in_page
 
 
-def _rules(cv_name: str, cv_url: str | None = None) -> str:
-    return _RULES.format(cv_name=cv_name, upload_fallback=_upload_fallback(cv_name, cv_url))
+_SCOPE_RULES = {
+    True: ("Fill ONLY required fields: those marked with *, \"required\", or that block moving on or submitting. "
+           "Leave every optional field empty - optional links, cover letters, optional free-text and optional "
+           "demographic / EEO / diversity questions - unless the site already prefilled it (e.g. from the resume). "
+           "For REQUIRED free-text questions (e.g. \"Why do you want to work here?\") write a concise, specific, "
+           "professional first-person answer grounded in the CV and the job description, and mark those fields "
+           "with source \"generated\"."),
+    False: ("Free-text questions (e.g. \"Why do you want to work here?\", cover letter boxes) may be written by you, "
+            "grounded in the CV and the job description: concise, specific, professional, first person. Mark those "
+            "fields with source \"generated\"."),
+}
+_EEO_RULES = {
+    True: ("For REQUIRED demographic / EEO / diversity questions, pick \"Decline to self-identify\" (or the closest "
+           "equivalent) unless the applicant answers say otherwise."),
+    False: ("For optional demographic / EEO / diversity questions, pick \"Decline to self-identify\" (or the closest "
+            "equivalent) unless the applicant answers say otherwise."),
+}
+
+# Required-only is the default: fewer fields means fewer agent steps (cost) and fewer chances
+# to put a wrong answer in a field nobody asked for.
+REQUIRED_ONLY = True
+
+
+def _rules(cv_name: str, cv_url: str | None = None, required_only: bool | None = None) -> str:
+    ro = REQUIRED_ONLY if required_only is None else required_only
+    return _RULES.format(cv_name=cv_name, upload_fallback=_upload_fallback(cv_name, cv_url),
+                         scope_rule=_SCOPE_RULES[ro], eeo_rule=_EEO_RULES[ro])
 
 
 def _answers_block(answers: dict[str, Any]) -> str:
@@ -192,7 +214,7 @@ def _answers_block(answers: dict[str, Any]) -> str:
 
 
 def build_apply_task(job_url: str, cv_name: str, answers: dict[str, Any], mode: str,
-                     cv_url: str | None = None) -> str:
+                     cv_url: str | None = None, required_only: bool | None = None) -> str:
     """The task for the first run: open the posting and fill (and maybe submit) the form."""
     if mode not in _SUBMIT_INSTRUCTIONS:
         raise ValueError(f"unknown mode {mode!r}")
@@ -204,7 +226,7 @@ def build_apply_task(job_url: str, cv_name: str, answers: dict[str, Any], mode: 
         f"Open the job posting, find its application form (click \"Apply\" if needed) and complete it "
         f"for the candidate.\n\n"
         f"{_SUBMIT_INSTRUCTIONS[mode]}\n\n"
-        f"{_rules(cv_name, cv_url)}\n"
+        f"{_rules(cv_name, cv_url, required_only)}\n"
         f"Applicant answers (authoritative; use these for questions the CV does not cover, such as work "
         f"authorization, sponsorship, notice period, salary expectations, relocation, phone, links):\n"
         f"{answers_block}\n"
@@ -212,7 +234,7 @@ def build_apply_task(job_url: str, cv_name: str, answers: dict[str, Any], mode: 
 
 
 def build_retry_upload_task(cv_name: str, answers: dict[str, Any], mode: str,
-                            cv_url: str | None = None) -> str:
+                            cv_url: str | None = None, required_only: bool | None = None) -> str:
     """Follow-up in the same session after the agent reported cv_upload "failed"."""
     return (
         f"The CV upload failed in your previous attempt. You are still on the same application in the same "
@@ -221,7 +243,7 @@ def build_retry_upload_task(cv_name: str, answers: dict[str, Any], mode: str,
         f"{_upload_fallback(cv_name, cv_url)} Keep every other field as it is; "
         f"if the form was reset or the page navigated away, open the posting again and refill it.\n\n"
         f"{_SUBMIT_INSTRUCTIONS[mode]}\n\n"
-        f"{_rules(cv_name, cv_url)}\n"
+        f"{_rules(cv_name, cv_url, required_only)}\n"
         f"Applicant answers:\n{_answers_block(answers)}\n"
         f"Report the full application again (all fields, match analysis, cv_upload)."
     )
@@ -235,7 +257,7 @@ _CONTINUE_REASONS = {
 
 
 def build_continue_task(cv_name: str, answers: dict[str, Any], mode: str, reason: str = "answers",
-                        cv_url: str | None = None) -> str:
+                        cv_url: str | None = None, required_only: bool | None = None) -> str:
     """Follow-up in the same session: the browser (if still open) still holds the half-filled form."""
     return (
         f"{_CONTINUE_REASONS[reason]} Continue the same application from where it stopped: the form you "
@@ -243,7 +265,7 @@ def build_continue_task(cv_name: str, answers: dict[str, Any], mode: str, reason
         "go back to the job posting / application page, sign in with the candidate's email and the secret "
         "account_password if the site needs an account, and complete it.\n\n"
         f"{_SUBMIT_INSTRUCTIONS[mode]}\n\n"
-        f"{_rules(cv_name, cv_url)}\n"
+        f"{_rules(cv_name, cv_url, required_only)}\n"
         f"Applicant answers:\n{_answers_block(answers)}\n"
         "Report the full application again (all fields, match analysis, cv_upload)."
     )

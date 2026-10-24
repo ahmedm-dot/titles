@@ -50,6 +50,7 @@ Results print as each job finishes and are saved to
 | `--proxy-country` | `us` | residential proxy exit country for sites that need one, or `none`. **Only Lever gets a proxy by default** (its hCaptcha blocks datacenter IPs); add `--proxy-everywhere` to proxy every site. Proxy traffic is billed per MB |
 | `--concurrency` | `3` | jobs processed in parallel |
 | `--timeout` | `1800` | seconds to wait for each agent run (the run is cancelled after) |
+| `--fill-optional` | off | by default the agent fills **required fields only** (marked `*`/"required" or blocking submit) and leaves optional ones empty; this flag also fills optional fields |
 
 From Python:
 

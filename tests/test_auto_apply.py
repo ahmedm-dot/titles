@@ -338,3 +338,14 @@ def test_cv_link_is_the_first_upload_fallback(cv):
     client2 = fake_client([REPORT])
     run(apply_to_jobs(["https://jobs.example/1"], cv, ApplyConfig(mode="dry-run"), client=client2))
     assert "drive.google.com" not in client2.runs.created[0]["task"]
+
+
+def test_required_fields_only_by_default(cv):
+    client = fake_client([REPORT])
+    run(apply_to_jobs(["https://jobs.example/1"], cv, ApplyConfig(mode="dry-run"), client=client))
+    task = client.runs.created[0]["task"]
+    assert "Fill ONLY required fields" in task and "Leave every optional field empty" in task
+    client2 = fake_client([REPORT])
+    run(apply_to_jobs(["https://jobs.example/1"], cv, ApplyConfig(mode="dry-run", required_only=False), client=client2))
+    t2 = client2.runs.created[0]["task"]
+    assert "Fill ONLY required fields" not in t2 and "For optional demographic" in t2
