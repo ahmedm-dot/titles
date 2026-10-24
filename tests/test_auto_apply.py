@@ -286,3 +286,28 @@ def test_resume_after_verification_continues_the_same_session():
     assert rec["status"] == "submitted" and sent["session_id"] == "sess-1"
     assert "verified the email" in sent["task"] and sent["secret_bindings"][0]["alias"] == "account_password"
     assert client.browsers.stopped == ["sess-1"]  # closed once the job is done
+
+
+def test_hold_keeps_browser_open_when_answers_are_missing(cv):
+    client = fake_client([{**REPORT, "status": "needs_user_input", "cv_upload": "uploaded"}])
+    cfg = ApplyConfig(mode="dry-run", hold_for_followup=True)
+    [rec] = run(apply_to_jobs(["https://jobs.example/1"], cv, cfg, client=client))
+    assert client.runs.created[0]["keep_alive"] == 900
+    assert client.browsers.stopped == [] and rec["cost_final"] is False
+
+
+def test_without_hold_the_browser_is_released(cv):
+    client = fake_client([{**REPORT, "status": "needs_user_input", "cv_upload": "uploaded"}])
+    [rec] = run(apply_to_jobs(["https://jobs.example/1"], cv, ApplyConfig(mode="dry-run"), client=client))
+    assert "keep_alive" not in client.runs.created[0] and client.browsers.stopped == ["sess-1"]
+
+
+def test_continue_session_with_new_answers_finishes_the_same_form():
+    from auto_apply.runner import continue_session
+    client = fake_client([{**REPORT, "status": "submitted"}])
+    cfg = ApplyConfig(mode="auto", answers={"relocation": "Yes"})
+    rec = run(continue_session(client, "sess-1", "https://jobs.example/1", "cv.pdf", cfg))
+    sent = client.runs.created[0]
+    assert rec["status"] == "submitted" and sent["session_id"] == "sess-1"
+    assert "answered the questions" in sent["task"] and '"relocation": "Yes"' in sent["task"]
+    assert client.browsers.stopped == ["sess-1"]

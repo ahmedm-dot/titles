@@ -11,7 +11,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-from .runner import MODES, ApplyConfig, apply_to_jobs, resume_after_verification
+from .runner import MODES, ApplyConfig, apply_to_jobs, continue_session
 
 
 def _read_jobs(args: argparse.Namespace) -> list[str]:
@@ -73,7 +73,9 @@ def _resume(args: argparse.Namespace, cfg: ApplyConfig, job_url: str) -> int:
 
     async def go() -> dict[str, Any]:
         async with AsyncBrowserUse() as client:
-            return await resume_after_verification(client, args.resume_session, job_url, Path(args.cv).name, cfg)
+            reason = "verified" if args.resume_session else "answers"
+            return await continue_session(client, args.resume_session or args.continue_session, job_url,
+                                          Path(args.cv).name, cfg, reason=reason)
 
     rec = asyncio.run(go())
     print(format_report(rec))
@@ -118,6 +120,11 @@ def build_parser() -> argparse.ArgumentParser:
                         "passed as a secret binding, never in the prompt")
     p.add_argument("--resume-session", metavar="SESSION_ID",
                    help="continue a session that stopped at waiting_for_verification (one --job)")
+    p.add_argument("--continue-session", metavar="SESSION_ID",
+                   help="continue a session that stopped for missing answers, with the updated --answers (one --job)")
+    p.add_argument("--hold", action="store_true",
+                   help="keep the browser open when a run stops for input (or a dry-run ends), "
+                        "so --continue-session finishes the same form")
     return p
 
 
@@ -152,9 +159,10 @@ def main(argv: list[str] | None = None) -> int:
         if not cfg.account_password:
             print(f"error: ${args.account_password_env} is empty", file=sys.stderr)
             return 2
-    if args.resume_session:
+    cfg.hold_for_followup = args.hold
+    if args.resume_session or args.continue_session:
         if len(jobs) != 1:
-            print("error: --resume-session takes exactly one --job", file=sys.stderr)
+            print("error: --resume-session / --continue-session take exactly one --job", file=sys.stderr)
             return 2
         return _resume(args, cfg, jobs[0])
     if cfg.mode == "review" and not sys.stdin.isatty():

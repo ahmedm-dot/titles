@@ -17,12 +17,15 @@ from .prompts import (
     OUTPUT_SCHEMA,
     SUBMIT_TASK,
     build_apply_task,
-    build_resume_after_verification_task,
+    build_continue_task,
     build_retry_upload_task,
     build_variant_b_task,
 )
 
 MODES = ("review", "dry-run", "auto")
+
+# Statuses that keep the browser open for continue_session() when hold_for_followup is on.
+HOLD_STATUSES = {"needs_user_input", "ready_to_submit"}
 
 # Statuses for which a failed CV upload is worth a retry run.
 UPLOAD_RETRY_STATUSES = {"needs_user_input", "ready_to_submit", "failed"}
@@ -58,9 +61,12 @@ class ApplyConfig:
     # Password for sites that need an account (Workday, ...). Passed only as a secret
     # binding typed on the job's host; never put into the task text.
     account_password: str | None = None
-    # Browser keep-alive after a run that stops at email verification, so the
-    # candidate can verify and the follow-up continues on the same page.
+    # Browser keep-alive after a run that stops for the candidate (email verification,
+    # or missing answers with hold_for_followup), so the follow-up continues on the same page.
     verification_window_s: int = 900
+    # Keep the browser open when a run stops for missing answers (or a dry-run scan ends),
+    # so continue_session() can finish the same half-filled form instead of starting over.
+    hold_for_followup: bool = False
 
     def __post_init__(self) -> None:
         if self.mode not in MODES:
@@ -82,8 +88,13 @@ class ApplyConfig:
             opts["agentmail"] = True
         if self.account_password and job_url:
             opts["secret_bindings"] = [account_password_binding(self.account_password, job_url)]
+        if self.account_password or self.hold_for_followup:
             opts["keep_alive"] = self.verification_window_s
         return opts
+
+    def holds(self, status: str) -> bool:
+        """Whether a job ending in this status keeps its browser for a follow-up."""
+        return status == "waiting_for_verification" or (self.hold_for_followup and status in HOLD_STATUSES)
 
 
 def account_password_binding(password: str, job_url: str) -> dict[str, Any]:
@@ -296,8 +307,8 @@ async def apply_to_job(
         # it first: that also refunds the keep-alive time nobody will use.
         if sessions:
             try:
-                if record["status"] == "waiting_for_verification":
-                    # Keep the browser for the follow-up after the candidate verifies.
+                if cfg.holds(record["status"]):
+                    # Keep the browser (and the half-filled form) for continue_session().
                     record["cost_final"] = False
                 else:
                     record["cost_final"] = await _release_browsers(client, sessions)
@@ -316,10 +327,18 @@ def _bindings_only(cfg: ApplyConfig, job_url: str) -> dict[str, Any]:
 async def resume_after_verification(
     client: AsyncBrowserUse, session_id: str, job_url: str, cv_name: str, cfg: ApplyConfig
 ) -> dict[str, Any]:
-    """Continue a session that stopped at "waiting_for_verification" once the email is verified.
+    """Continue a session that stopped at "waiting_for_verification" once the email is verified."""
+    return await continue_session(client, session_id, job_url, cv_name, cfg, reason="verified")
 
-    The follow-up reuses the session's browser (if still open) and workspace, so the
-    CV attached to the first run is still available.
+
+async def continue_session(
+    client: AsyncBrowserUse, session_id: str, job_url: str, cv_name: str, cfg: ApplyConfig,
+    reason: str = "answers",
+) -> dict[str, Any]:
+    """Follow-up turn in a session that stopped for the candidate (verification or missing answers).
+
+    The follow-up keeps the session's conversation, workspace (the CV) and - if it was kept
+    alive - the browser with the half-filled form, so it finishes rather than starting over.
     """
     record: dict[str, Any] = {
         "job_url": job_url, "mode": cfg.mode, "model": cfg.model, "prompt_variant": cfg.prompt_variant,
@@ -328,8 +347,9 @@ async def resume_after_verification(
     }
     try:
         run = await _run_and_wait(
-            client, cfg, build_resume_after_verification_task(cv_name, cfg.answers, cfg.mode),
+            client, cfg, build_continue_task(cv_name, cfg.answers, cfg.mode, reason),
             session_id=session_id, **_bindings_only(cfg, job_url),
+            **({"keep_alive": cfg.verification_window_s} if cfg.hold_for_followup else {}),
         )
         record["run_ids"].append(str(run.id))
         record["report"] = parse_output(run)
@@ -341,7 +361,7 @@ async def resume_after_verification(
         record["error"] = str(exc)
     finally:
         try:
-            record["cost_final"] = await _release_browsers(client, [session_id])
+            record["cost_final"] = False if cfg.holds(record["status"]) else await _release_browsers(client, [session_id])
             await _add_session_costs(client, [session_id], record)
         except BrowserUseError:
             record["cost_note"] = "session cost unavailable"

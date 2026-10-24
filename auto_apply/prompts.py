@@ -127,7 +127,9 @@ out or the file input only accepts files from the browser's Downloads folder), u
 grounded in the CV and the job description: concise, specific, professional, first person. Mark those \
 fields with source "generated".
 4. If a REQUIRED question cannot be answered from the CV or the answers, do not guess: leave it, list it \
-in unanswered_required_questions, and finish with status "needs_user_input".
+in unanswered_required_questions, and finish with status "needs_user_input". Before finishing, fill everything \
+else you can and keep going through the later pages/steps as far as the site allows, so that ALL unanswerable \
+questions are collected in one report rather than one at a time.
 5. For optional demographic / EEO / diversity questions, pick "Decline to self-identify" (or the closest \
 equivalent) unless the applicant answers say otherwise.
 6. If the page requires signing in or creating an account: when the secret "account_password" is \
@@ -206,17 +208,30 @@ def build_retry_upload_task(cv_name: str, answers: dict[str, Any], mode: str) ->
     )
 
 
-def build_resume_after_verification_task(cv_name: str, answers: dict[str, Any], mode: str) -> str:
-    """Follow-up in the same session once the candidate has verified the email."""
+_CONTINUE_REASONS = {
+    "verified": "The candidate has now verified the email address for this application account.",
+    "answers": ("The candidate has now answered the questions you could not answer; the updated applicant "
+                "answers are below. Fill those fields and anything else still empty."),
+}
+
+
+def build_continue_task(cv_name: str, answers: dict[str, Any], mode: str, reason: str = "answers") -> str:
+    """Follow-up in the same session: the browser (if still open) still holds the half-filled form."""
     return (
-        "The candidate has now verified the email address for this application account. Continue the same "
-        "application: go back to the job posting / application page if needed, sign in with the candidate's "
-        "email and the secret account_password, and complete the application from where it stopped.\n\n"
+        f"{_CONTINUE_REASONS[reason]} Continue the same application from where it stopped: the form you "
+        "already filled should still be open - keep what is already correct. If the page was closed or reset, "
+        "go back to the job posting / application page, sign in with the candidate's email and the secret "
+        "account_password if the site needs an account, and complete it.\n\n"
         f"{_SUBMIT_INSTRUCTIONS[mode]}\n\n"
         f"{_rules(cv_name)}\n"
         f"Applicant answers:\n{_answers_block(answers)}\n"
         "Report the full application again (all fields, match analysis, cv_upload)."
     )
+
+
+def build_resume_after_verification_task(cv_name: str, answers: dict[str, Any], mode: str) -> str:
+    """Follow-up in the same session once the candidate has verified the email."""
+    return build_continue_task(cv_name, answers, mode, reason="verified")
 
 
 SUBMIT_TASK = (

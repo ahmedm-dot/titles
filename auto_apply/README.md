@@ -129,3 +129,17 @@ AgentMail inbox (enabled with `agentmail`), `{{resume}}` = the attached CV file
 adds the posting URL, a no-submit override in dry-run/review modes, and a reporting
 footer so B's runs fill the same output schema as A.
 
+## Scan first, then finish in the same session
+
+```bash
+# 1) Scan: fill what is known, list every question the answers do not cover, keep the browser open
+python -m auto_apply --cv cv.pdf --job <url> --answers answers.json --mode dry-run --hold [--account-password-env PW]
+# 2) Add the missing answers to answers.json, then finish the same half-filled form
+python -m auto_apply --cv cv.pdf --job <url> --answers answers.json --mode auto --continue-session <SESSION_ID>
+```
+
+`--hold` keeps the browser open (for `verification_window_s`, 15 min by default; billed as
+browser time) whenever a run stops for missing answers or a dry-run ends. `--continue-session`
+starts a follow-up turn in that session: it keeps the conversation, the CV and the filled form,
+so it only fills the gaps and submits. `--resume-session` is the same for email verification.
+
