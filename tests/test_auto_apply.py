@@ -325,3 +325,16 @@ def test_proxy_only_on_lever_by_default(cv):
     client = fake_client([REPORT])
     run(apply_to_jobs(["https://jobs.ashbyhq.com/acme/1"], cv, cfg, client=client))
     assert client.runs.created[0]["browser_settings"] == {"proxyCountryCode": None}
+
+
+def test_cv_link_is_the_first_upload_fallback(cv):
+    url = "https://drive.google.com/uc?export=download&id=abc"
+    client = fake_client([REPORT])
+    run(apply_to_jobs(["https://jobs.example/1"], cv, ApplyConfig(mode="dry-run", cv_url=url), client=client))
+    task = client.runs.created[0]["task"]
+    assert url in task and "Downloads folder" in task
+    assert task.index(url) < task.index("DataTransfer")  # link first, in-page method second
+    # without a link the prompt is unchanged
+    client2 = fake_client([REPORT])
+    run(apply_to_jobs(["https://jobs.example/1"], cv, ApplyConfig(mode="dry-run"), client=client2))
+    assert "drive.google.com" not in client2.runs.created[0]["task"]

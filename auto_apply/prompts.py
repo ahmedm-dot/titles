@@ -166,15 +166,33 @@ _SUBMIT_INSTRUCTIONS = {
 }
 
 
-def _rules(cv_name: str) -> str:
-    return _RULES.format(cv_name=cv_name, upload_fallback=UPLOAD_FALLBACK.format(cv_name=cv_name))
+# First fallback when a public CV link is available: browser file inputs often only accept files
+# from the browser's own Downloads folder, and opening the link downloads the CV there.
+LINK_FALLBACK = (
+    'open {cv_url} in a NEW browser tab so the browser downloads "{cv_name}" into its Downloads folder, return '
+    "to the application tab, and attach that downloaded file to the resume field (choose it from the Downloads "
+    "folder in the file picker / file input). Only use this link for the CV; never send the CV or any candidate "
+    "data to any other site."
+)
+
+
+def _upload_fallback(cv_name: str, cv_url: str | None = None) -> str:
+    in_page = UPLOAD_FALLBACK.format(cv_name=cv_name)
+    if not cv_url:
+        return in_page
+    return LINK_FALLBACK.format(cv_name=cv_name, cv_url=cv_url) + " If that does not work: " + in_page
+
+
+def _rules(cv_name: str, cv_url: str | None = None) -> str:
+    return _RULES.format(cv_name=cv_name, upload_fallback=_upload_fallback(cv_name, cv_url))
 
 
 def _answers_block(answers: dict[str, Any]) -> str:
     return json.dumps(answers, indent=2, ensure_ascii=False) if answers else "(none provided)"
 
 
-def build_apply_task(job_url: str, cv_name: str, answers: dict[str, Any], mode: str) -> str:
+def build_apply_task(job_url: str, cv_name: str, answers: dict[str, Any], mode: str,
+                     cv_url: str | None = None) -> str:
     """The task for the first run: open the posting and fill (and maybe submit) the form."""
     if mode not in _SUBMIT_INSTRUCTIONS:
         raise ValueError(f"unknown mode {mode!r}")
@@ -186,23 +204,24 @@ def build_apply_task(job_url: str, cv_name: str, answers: dict[str, Any], mode: 
         f"Open the job posting, find its application form (click \"Apply\" if needed) and complete it "
         f"for the candidate.\n\n"
         f"{_SUBMIT_INSTRUCTIONS[mode]}\n\n"
-        f"{_rules(cv_name)}\n"
+        f"{_rules(cv_name, cv_url)}\n"
         f"Applicant answers (authoritative; use these for questions the CV does not cover, such as work "
         f"authorization, sponsorship, notice period, salary expectations, relocation, phone, links):\n"
         f"{answers_block}\n"
     )
 
 
-def build_retry_upload_task(cv_name: str, answers: dict[str, Any], mode: str) -> str:
+def build_retry_upload_task(cv_name: str, answers: dict[str, Any], mode: str,
+                            cv_url: str | None = None) -> str:
     """Follow-up in the same session after the agent reported cv_upload "failed"."""
     return (
         f"The CV upload failed in your previous attempt. You are still on the same application in the same "
         f"browser. Upload the attached file \"{cv_name}\" to the resume/CV field again. Do not repeat the "
         f"browser file transfer that timed out; go straight to this method: "
-        f"{UPLOAD_FALLBACK.format(cv_name=cv_name)} Keep every other field as it is; "
+        f"{_upload_fallback(cv_name, cv_url)} Keep every other field as it is; "
         f"if the form was reset or the page navigated away, open the posting again and refill it.\n\n"
         f"{_SUBMIT_INSTRUCTIONS[mode]}\n\n"
-        f"{_rules(cv_name)}\n"
+        f"{_rules(cv_name, cv_url)}\n"
         f"Applicant answers:\n{_answers_block(answers)}\n"
         f"Report the full application again (all fields, match analysis, cv_upload)."
     )
@@ -215,7 +234,8 @@ _CONTINUE_REASONS = {
 }
 
 
-def build_continue_task(cv_name: str, answers: dict[str, Any], mode: str, reason: str = "answers") -> str:
+def build_continue_task(cv_name: str, answers: dict[str, Any], mode: str, reason: str = "answers",
+                        cv_url: str | None = None) -> str:
     """Follow-up in the same session: the browser (if still open) still holds the half-filled form."""
     return (
         f"{_CONTINUE_REASONS[reason]} Continue the same application from where it stopped: the form you "
@@ -223,7 +243,7 @@ def build_continue_task(cv_name: str, answers: dict[str, Any], mode: str, reason
         "go back to the job posting / application page, sign in with the candidate's email and the secret "
         "account_password if the site needs an account, and complete it.\n\n"
         f"{_SUBMIT_INSTRUCTIONS[mode]}\n\n"
-        f"{_rules(cv_name)}\n"
+        f"{_rules(cv_name, cv_url)}\n"
         f"Applicant answers:\n{_answers_block(answers)}\n"
         "Report the full application again (all fields, match analysis, cv_upload)."
     )

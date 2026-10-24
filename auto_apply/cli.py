@@ -124,6 +124,9 @@ def build_parser() -> argparse.ArgumentParser:
                    help="continue a session that stopped at waiting_for_verification (one --job)")
     p.add_argument("--continue-session", metavar="SESSION_ID",
                    help="continue a session that stopped for missing answers, with the updated --answers (one --job)")
+    p.add_argument("--cv-url", default=None,
+                   help="public link to the same CV (e.g. a Google Drive direct-download link); the agent opens it "
+                        "to get the CV into the browser's Downloads folder if a normal upload fails")
     p.add_argument("--hold", action="store_true",
                    help="keep the browser open when a run stops for input (or a dry-run ends), "
                         "so --continue-session finishes the same form")
@@ -163,6 +166,7 @@ def main(argv: list[str] | None = None) -> int:
             return 2
     cfg.hold_for_followup = args.hold
     cfg.proxy_everywhere = args.proxy_everywhere
+    cfg.cv_url = args.cv_url
     if args.resume_session or args.continue_session:
         if len(jobs) != 1:
             print("error: --resume-session / --continue-session take exactly one --job", file=sys.stderr)

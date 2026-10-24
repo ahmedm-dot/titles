@@ -143,3 +143,11 @@ browser time) whenever a run stops for missing answers or a dry-run ends. `--con
 starts a follow-up turn in that session: it keeps the conversation, the CV and the filled form,
 so it only fills the gaps and submits. `--resume-session` is the same for email verification.
 
+## CV link (recommended)
+
+Pass `--cv-url <public link to the same PDF>` (for Google Drive use the direct-download form
+`https://drive.google.com/uc?export=download&id=<FILE_ID>`). The CV is still attached as a file;
+the link is the first fallback when the upload fails: many file inputs only accept files from the
+browser's Downloads folder, and opening the link downloads the CV there. The prompt forbids sending
+the CV or candidate data anywhere except the job's own form. Anyone with the link can read the CV.
+
