@@ -429,3 +429,22 @@ def test_concurrency_limit_waits_for_a_slot(cv, monkeypatch):
     client.runs.create = flaky_create
     [rec] = run(apply_to_jobs(["https://jobs.example/1"], cv, ApplyConfig(mode="auto"), client=client))
     assert rec["status"] == "submitted" and len(calls) == 2
+
+
+def test_lever_jobs_run_one_at_a_time(cv):
+    client = fake_client([{**REPORT, "status": "submitted"}] * 3)
+    active, peak = [0], [0]
+    real_wait = client.runs.wait_for_completion
+
+    async def tracked_wait(run_id, timeout):
+        active[0] += 1
+        peak[0] = max(peak[0], active[0])
+        await asyncio.sleep(0.01)
+        active[0] -= 1
+        return await real_wait(run_id, timeout)
+
+    client.runs.wait_for_completion = tracked_wait
+    cfg = ApplyConfig(mode="auto", concurrency=3, serial_gap_s=0)
+    urls = [f"https://jobs.lever.co/acme/{i}" for i in range(3)]
+    recs = run(apply_to_jobs(urls, cv, cfg, client=client))
+    assert [r["status"] for r in recs] == ["submitted"] * 3 and peak[0] == 1

@@ -137,6 +137,8 @@ def build_parser() -> argparse.ArgumentParser:
                         "and continue automatically instead of waiting for you")
     p.add_argument("--code-inbox-address", default=None,
                    help="only use emails sent to this address of the inbox (default: any)")
+    p.add_argument("--serial-hosts", default="lever.co",
+                   help='comma-separated hosts applied to one job at a time, 60 s apart (default lever.co; "" for none)')
     p.add_argument("--hold", action="store_true",
                    help="keep the browser open when a run stops for input (or a dry-run ends), "
                         "so --continue-session finishes the same form")
@@ -179,6 +181,7 @@ def main(argv: list[str] | None = None) -> int:
     cfg.cv_url = args.cv_url
     cfg.required_only = not args.fill_optional
     cfg.never_block = args.no_block
+    cfg.serial_hosts = tuple(h.strip() for h in args.serial_hosts.split(",") if h.strip())
     if args.code_inbox:
         from .inbox import CodeInbox
 

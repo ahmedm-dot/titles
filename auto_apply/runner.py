@@ -81,6 +81,10 @@ class ApplyConfig:
     # inbox.CodeInbox: when set, verification codes/links are read from it instead of waiting on a human
     code_inbox: Any = None
     code_wait_s: float = 300
+    # Hosts whose applications run one at a time with a pause between them: Lever's hCaptcha
+    # seems to fail parallel submissions from the same candidate.
+    serial_hosts: tuple[str, ...] = ("lever.co",)
+    serial_gap_s: float = 60
 
     def __post_init__(self) -> None:
         if self.mode not in MODES:
@@ -462,7 +466,28 @@ async def apply_to_jobs(
             async with confirm_lock:
                 return await confirm(report)  # type: ignore[misc]
 
+        host_locks: dict[str, asyncio.Lock] = {}
+
+        def serial_lock(url: str) -> asyncio.Lock | None:
+            host = (urlparse(url).hostname or "").lower()
+            for h in cfg.serial_hosts:
+                if host == h or host.endswith("." + h):
+                    return host_locks.setdefault(h, asyncio.Lock())
+            return None
+
         async def one(url: str) -> dict[str, Any]:
+            lock = serial_lock(url)
+            if lock:
+                async with lock:
+                    rec = await apply_one(url)
+                    await asyncio.sleep(cfg.serial_gap_s)
+            else:
+                rec = await apply_one(url)
+            if on_result:
+                on_result(rec)
+            return rec
+
+        async def apply_one(url: str) -> dict[str, Any]:
             async with sem:
                 rec = await apply_to_job(
                     client,
@@ -474,8 +499,6 @@ async def apply_to_jobs(
                     confirm=locked_confirm if confirm else None,
                 )
                 rec = await verify_from_inbox(client, rec, cv_path.name, cfg)
-            if on_result:
-                on_result(rec)
             return rec
 
         return list(await asyncio.gather(*(one(u) for u in job_urls)))
