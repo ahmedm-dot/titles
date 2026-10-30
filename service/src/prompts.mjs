@@ -38,6 +38,19 @@ const FEWSHOT2 = [
   ['lorem xq', 'en', 'NONE'],
 ];
 
+// v3: v2 + prefix discipline for short inputs and partial non-Latin words.
+const RULES3 = RULES2.replace(
+  '- Complete the input as a prefix. If the last word is partial, consider every word it could become and rank by how common the resulting title is on CVs.',
+  `- Complete the input as a prefix: every title must start with (or, after fixing typos/abbreviations, clearly contain) what was typed. Short inputs like "te" → titles starting with "Te".
+- If the last word is partial, list the occupations it could become (any script, incl. Arabic/Cyrillic) and pick the ones most common on CVs — real occupation words beat generic words that merely share the letters.`);
+
+const FEWSHOT3 = [
+  ['te', 'en', 'Teacher\nTechnician\nTeam Leader\nTechnical Support Specialist\nTest Engineer\nTelecommunications Engineer'],
+  ...FEWSHOT2.slice(1, 3),
+  ['مهندس برم', 'ar', 'مهندس برمجيات\nمهندس برمجيات أول\nمهندس برمجة\nمهندس برمجيات الواجهة الخلفية\nمهندس برمجيات تطبيقات الويب\nمهندس برمجيات الأنظمة المدمجة'],
+  ['lorem xq', 'en', 'NONE'],
+];
+
 const userMsg = (q, locale) => `CV language: ${locale || 'unknown'}\nInput: ${q}`;
 
 export const PROMPTS = {
@@ -64,6 +77,15 @@ export const PROMPTS = {
   fewshot2: ({ q, locale, n }) => [
     { role: 'system', content: RULES2.replace('{n}', n) },
     ...FEWSHOT2.flatMap(([fq, fl, fa]) => [
+      { role: 'user', content: userMsg(fq, fl) },
+      { role: 'assistant', content: fa.split('\n').slice(0, n).join('\n') },
+    ]),
+    { role: 'user', content: userMsg(q, locale) },
+  ],
+  // P4: v3 rules + v3 few-shot
+  fewshot3: ({ q, locale, n }) => [
+    { role: 'system', content: RULES3.replace('{n}', n) },
+    ...FEWSHOT3.flatMap(([fq, fl, fa]) => [
       { role: 'user', content: userMsg(fq, fl) },
       { role: 'assistant', content: fa.split('\n').slice(0, n).join('\n') },
     ]),

@@ -17,8 +17,12 @@ export const ARMS = {
   'mini41-fs2':       { model: 'gpt-4.1-mini', prompt: 'fewshot2' },
   'mini41-fs2-prio':  { model: 'gpt-4.1-mini', prompt: 'fewshot2', service_tier: 'priority' },
   'gpt55-fs2':        { model: 'gpt-5.5', reasoning_effort: 'none', prompt: 'fewshot2' },
+  // --- round 3: prompt v3 ---
+  'mini54-fs3-prio':  { model: 'gpt-5.4-mini', reasoning_effort: 'none', prompt: 'fewshot3', service_tier: 'priority' },
+  'mini54-fs3':       { model: 'gpt-5.4-mini', reasoning_effort: 'none', prompt: 'fewshot3' }, // same as winner without priority tier (cheaper, ~+200 ms)
+  'mini41-fs3-prio':  { model: 'gpt-4.1-mini', prompt: 'fewshot3', service_tier: 'priority' },
   // --- quality ceiling reference ---
   'gpt55-fewshot':    { model: 'gpt-5.5', reasoning_effort: 'none', prompt: 'fewshot' },
 };
 
-export const DEFAULT_ARM = process.env.DEFAULT_ARM || 'mini54-fewshot';
+export const DEFAULT_ARM = process.env.DEFAULT_ARM || 'mini54-fs3-prio';
