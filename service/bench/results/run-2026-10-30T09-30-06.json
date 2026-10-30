@@ -1,0 +1,1844 @@
+[
+ {
+  "summary": {
+   "arm": "nano54-rules",
+   "model": "gpt-5.4-nano",
+   "reasoning": "none",
+   "prompt": "rules",
+   "n": 54,
+   "errors": 0,
+   "score": 8.91,
+   "perfect": 74,
+   "first_p50": 521,
+   "first_p90": 674,
+   "total_p50": 748,
+   "total_p90": 903,
+   "in_tok": 261,
+   "out_tok": 34
+  },
+  "results": [
+   {
+    "arm": "nano54-rules",
+    "q": "soft",
+    "locale": "en",
+    "cat": "prefix",
+    "intent": "software roles (Software Engineer/Developer...)",
+    "items": [
+     "Software Developer",
+     "Software Engineer",
+     "Software Developer (Frontend)",
+     "Frontend Developer",
+     "Full-Stack Developer",
+     "Software Architect"
+    ],
+    "first_ms": 709,
+    "total_ms": 850,
+    "usage": {
+     "prompt_tokens": 260,
+     "completion_tokens": 24,
+     "total_tokens": 284,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "data sci",
+    "locale": "en",
+    "cat": "prefix",
+    "intent": "Data Scientist variants",
+    "items": [
+     "Data Scientist",
+     "Senior Data Scientist",
+     "Machine Learning Engineer",
+     "Data Analyst",
+     "Applied Data Scientist",
+     "Lead Data Scientist"
+    ],
+    "first_ms": 643,
+    "total_ms": 805,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 24,
+     "total_tokens": 285,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "project man",
+    "locale": "en",
+    "cat": "prefix",
+    "intent": "Project Manager variants",
+    "items": [
+     "Project Manager",
+     "Technical Project Manager",
+     "IT Project Manager",
+     "Senior Project Manager",
+     "Junior Project Manager",
+     "Project Coordinator"
+    ],
+    "first_ms": 674,
+    "total_ms": 818,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 24,
+     "total_tokens": 285,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "nurse prac",
+    "locale": "en",
+    "cat": "prefix",
+    "intent": "Nurse Practitioner variants",
+    "items": [
+     "Nurse Practitioner",
+     "Primary Care Nurse Practitioner",
+     "Family Nurse Practitioner",
+     "Adult-Gerontology Nurse Practitioner",
+     "Psychiatric Nurse Practitioner",
+     "Nurse Practitioner (Acute Care)"
+    ],
+    "first_ms": 655,
+    "total_ms": 892,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 36,
+     "total_tokens": 297,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "acc",
+    "locale": "en",
+    "cat": "prefix-ambiguous",
+    "intent": "Accountant / Account Manager / Account Executive mix",
+    "items": [
+     "Accountant",
+     "Accounts Assistant",
+     "Account Coordinator",
+     "Account Executive",
+     "Account Manager",
+     "Assistant Accountant"
+    ],
+    "first_ms": 602,
+    "total_ms": 733,
+    "usage": {
+     "prompt_tokens": 260,
+     "completion_tokens": 20,
+     "total_tokens": 280,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "ux",
+    "locale": "en",
+    "cat": "prefix",
+    "intent": "UX Designer / UX Researcher etc.",
+    "items": [
+     "UX Designer",
+     "User Experience Designer",
+     "Product Designer",
+     "UI Designer",
+     "UX Researcher",
+     "Design Researcher"
+    ],
+    "first_ms": 606,
+    "total_ms": 748,
+    "usage": {
+     "prompt_tokens": 260,
+     "completion_tokens": 23,
+     "total_tokens": 283,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "ma",
+    "locale": "en",
+    "cat": "very-short",
+    "intent": "popular titles starting with Ma (Marketing Manager, Manager, Mechanical Engineer...)",
+    "items": [
+     "Marketing Manager",
+     "Account Manager",
+     "Maintenance Manager",
+     "Management Analyst",
+     "Medical Assistant",
+     "Mailroom Assistant"
+    ],
+    "first_ms": 770,
+    "total_ms": 903,
+    "usage": {
+     "prompt_tokens": 260,
+     "completion_tokens": 21,
+     "total_tokens": 281,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 7,
+    "issue": "Some suggestions do not start with typed prefix"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "sr swe",
+    "locale": "en",
+    "cat": "abbreviation",
+    "intent": "Senior Software Engineer variants",
+    "items": [
+     "Senior Software Engineer",
+     "Senior Full Stack Engineer",
+     "Senior Backend Engineer",
+     "Senior Frontend Engineer",
+     "Senior DevOps Engineer",
+     "Senior Site Reliability Engineer"
+    ],
+    "first_ms": 671,
+    "total_ms": 864,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 30,
+     "total_tokens": 291,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "vp eng",
+    "locale": "en",
+    "cat": "abbreviation",
+    "intent": "VP of Engineering",
+    "items": [
+     "VP Engineering",
+     "Vice President of Engineering",
+     "VP Software Engineering",
+     "Vice President of Software Engineering",
+     "Engineering Director",
+     "Director of Engineering"
+    ],
+    "first_ms": 458,
+    "total_ms": 637,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 27,
+     "total_tokens": 288,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "missing exact “VP of Engineering” first"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "cfo",
+    "locale": "en",
+    "cat": "abbreviation",
+    "intent": "Chief Financial Officer",
+    "items": [
+     "Chief Financial Officer (CFO)",
+     "Financial Officer",
+     "Vice President of Finance",
+     "Director of Finance",
+     "Finance Director",
+     "Corporate Finance Manager"
+    ],
+    "first_ms": 499,
+    "total_ms": 672,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 28,
+     "total_tokens": 289,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "hrbp",
+    "locale": "en",
+    "cat": "abbreviation",
+    "intent": "HR Business Partner",
+    "items": [
+     "HR Business Partner",
+     "Senior HR Business Partner",
+     "HR Business Partner (Employee Relations)",
+     "HR BP",
+     "HR Business Partner Manager",
+     "People Business Partner"
+    ],
+    "first_ms": 539,
+    "total_ms": 728,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 30,
+     "total_tokens": 291,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 8,
+    "issue": "mostly ok; one awkward/nonstandard title"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "sdr",
+    "locale": "en",
+    "cat": "abbreviation",
+    "intent": "Sales Development Representative",
+    "items": [
+     "Sales Development Representative",
+     "Sales Development Manager",
+     "Business Development Representative",
+     "Account Development Representative",
+     "Lead Development Representative",
+     "SDR Team Lead"
+    ],
+    "first_ms": 451,
+    "total_ms": 627,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 27,
+     "total_tokens": 288,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "qa auto",
+    "locale": "en",
+    "cat": "abbreviation",
+    "intent": "QA Automation Engineer",
+    "items": [
+     "QA Automation Engineer",
+     "Test Automation Engineer",
+     "Quality Assurance Automation Engineer",
+     "Software QA Automation Engineer",
+     "Automation Test Engineer",
+     "QA Engineer (Automation)"
+    ],
+    "first_ms": 718,
+    "total_ms": 884,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 30,
+     "total_tokens": 291,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "sofware enginer",
+    "locale": "en",
+    "cat": "typo",
+    "intent": "Software Engineer",
+    "items": [
+     "Software Engineer",
+     "Senior Software Engineer",
+     "Backend Software Engineer",
+     "Frontend Software Engineer",
+     "Full-Stack Software Engineer",
+     "Mobile Software Engineer"
+    ],
+    "first_ms": 489,
+    "total_ms": 706,
+    "usage": {
+     "prompt_tokens": 263,
+     "completion_tokens": 27,
+     "total_tokens": 290,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "acountant",
+    "locale": "en",
+    "cat": "typo",
+    "intent": "Accountant variants",
+    "items": [
+     "Accountant",
+     "Senior Accountant",
+     "Staff Accountant",
+     "Corporate Accountant",
+     "Government Accountant",
+     "Tax Accountant"
+    ],
+    "first_ms": 482,
+    "total_ms": 642,
+    "usage": {
+     "prompt_tokens": 262,
+     "completion_tokens": 20,
+     "total_tokens": 282,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "markting manger",
+    "locale": "en",
+    "cat": "typo",
+    "intent": "Marketing Manager",
+    "items": [
+     "Marketing Manager",
+     "Digital Marketing Manager",
+     "Product Marketing Manager",
+     "Brand Marketing Manager",
+     "Growth Marketing Manager",
+     "Partnerships Marketing Manager"
+    ],
+    "first_ms": 479,
+    "total_ms": 667,
+    "usage": {
+     "prompt_tokens": 262,
+     "completion_tokens": 27,
+     "total_tokens": 289,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "recepcionist",
+    "locale": "en",
+    "cat": "typo",
+    "intent": "Receptionist",
+    "items": [
+     "Receptionist",
+     "Front Desk Receptionist",
+     "Medical Receptionist",
+     "Hotel Receptionist",
+     "Dental Receptionist",
+     "Customer Service Receptionist"
+    ],
+    "first_ms": 645,
+    "total_ms": 842,
+    "usage": {
+     "prompt_tokens": 262,
+     "completion_tokens": 27,
+     "total_tokens": 289,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "enfermera de",
+    "locale": "es",
+    "cat": "es",
+    "intent": "Spanish feminine nurse specialties (Enfermera de ...)",
+    "items": [
+     "Enfermera de Urgencias",
+     "Enfermera de Quirófano",
+     "Enfermera de UCI (Unidad de Cuidados Intensivos)",
+     "Enfermera de Atención Primaria",
+     "Enfermera de Salud Mental",
+     "Enfermera de Pediatría"
+    ],
+    "first_ms": 501,
+    "total_ms": 767,
+    "usage": {
+     "prompt_tokens": 262,
+     "completion_tokens": 56,
+     "total_tokens": 318,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "desarrollador",
+    "locale": "es",
+    "cat": "es",
+    "intent": "Spanish developer titles, masculine",
+    "items": [
+     "Desarrollador de Software",
+     "Desarrollador Web",
+     "Desarrollador de Aplicaciones",
+     "Desarrollador Frontend",
+     "Desarrollador Backend",
+     "Desarrollador de Software Senior"
+    ],
+    "first_ms": 516,
+    "total_ms": 724,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 38,
+     "total_tokens": 299,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "jefe de ven",
+    "locale": "es",
+    "cat": "es",
+    "intent": "Jefe de Ventas variants",
+    "items": [
+     "Jefe de Ventas",
+     "Jefe Comercial",
+     "Gerente de Ventas",
+     "Responsable de Ventas",
+     "Director Comercial",
+     "Ejecutivo de Ventas"
+    ],
+    "first_ms": 494,
+    "total_ms": 651,
+    "usage": {
+     "prompt_tokens": 262,
+     "completion_tokens": 34,
+     "total_tokens": 296,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "contad",
+    "locale": "es",
+    "cat": "es",
+    "intent": "Contador / Contable (Spanish accountant)",
+    "items": [
+     "Contable",
+     "Asistente de Contabilidad",
+     "Analista Contable",
+     "Técnico de Contabilidad",
+     "Contador Público",
+     "Responsable de Contabilidad"
+    ],
+    "first_ms": 681,
+    "total_ms": 891,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 33,
+     "total_tokens": 294,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "first item not exact typed form"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "ingeniero civ",
+    "locale": "es",
+    "cat": "es",
+    "intent": "Ingeniero Civil",
+    "items": [
+     "Ingeniero Civil",
+     "Ingeniero de Obras Civiles",
+     "Ingeniero Civil de Proyectos",
+     "Ingeniero de Estructuras Civiles",
+     "Ingeniero Geotécnico",
+     "Ingeniero de Infraestructura"
+    ],
+    "first_ms": 534,
+    "total_ms": 743,
+    "usage": {
+     "prompt_tokens": 262,
+     "completion_tokens": 42,
+     "total_tokens": 304,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "engenheiro de",
+    "locale": "pt",
+    "cat": "pt",
+    "intent": "Portuguese engineer specialties (Engenheiro de ...)",
+    "items": [
+     "Engenheiro de Software",
+     "Engenheiro de Dados",
+     "Engenheiro de DevOps",
+     "Engenheiro de Sistemas",
+     "Engenheiro de Automação",
+     "Engenheiro de Redes"
+    ],
+    "first_ms": 497,
+    "total_ms": 720,
+    "usage": {
+     "prompt_tokens": 262,
+     "completion_tokens": 40,
+     "total_tokens": 302,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "analista de dad",
+    "locale": "pt",
+    "cat": "pt",
+    "intent": "Analista de Dados",
+    "items": [
+     "Analista de Dados",
+     "Analista de Dados Pleno",
+     "Analista de Inteligência de Negócios (BI)",
+     "Analista de Business Intelligence (BI)",
+     "Analista de Dados Sênior",
+     "Analista de Dados e Relatórios"
+    ],
+    "first_ms": 605,
+    "total_ms": 906,
+    "usage": {
+     "prompt_tokens": 263,
+     "completion_tokens": 52,
+     "total_tokens": 315,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "professora",
+    "locale": "pt",
+    "cat": "pt",
+    "intent": "Portuguese feminine teacher titles",
+    "items": [
+     "Professora de Educação Infantil",
+     "Professora de Ensino Fundamental",
+     "Professora de Ensino Médio",
+     "Professora de Matemática",
+     "Professora de Português",
+     "Professora de Inglês"
+    ],
+    "first_ms": 609,
+    "total_ms": 788,
+    "usage": {
+     "prompt_tokens": 260,
+     "completion_tokens": 43,
+     "total_tokens": 303,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "assistente adm",
+    "locale": "pt",
+    "cat": "pt",
+    "intent": "Assistente Administrativo",
+    "items": [
+     "Assistente Administrativo",
+     "Assistente de Departamento Pessoal",
+     "Assistente Financeiro",
+     "Assistente de Atendimento",
+     "Assistente de Logística",
+     "Assistente de Compras"
+    ],
+    "first_ms": 476,
+    "total_ms": 719,
+    "usage": {
+     "prompt_tokens": 262,
+     "completion_tokens": 35,
+     "total_tokens": 297,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "développeur",
+    "locale": "fr",
+    "cat": "fr",
+    "intent": "French developer titles",
+    "items": [
+     "Développeur Logiciel",
+     "Développeur Web",
+     "Développeur Full Stack",
+     "Développeur Frontend",
+     "Développeur Backend",
+     "Ingénieur Logiciel"
+    ],
+    "first_ms": 477,
+    "total_ms": 707,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 41,
+     "total_tokens": 302,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 8,
+    "issue": "minor anglicisms and related non-prefix title"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "chef de proj",
+    "locale": "fr",
+    "cat": "fr",
+    "intent": "Chef de projet variants",
+    "items": [
+     "Chef de projet",
+     "Chef de projet informatique",
+     "Chef de projet digital",
+     "Chef de projet technique",
+     "Chef de projet MOA",
+     "Chef de projet MOE"
+    ],
+    "first_ms": 476,
+    "total_ms": 671,
+    "usage": {
+     "prompt_tokens": 262,
+     "completion_tokens": 33,
+     "total_tokens": 295,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "infirmi",
+    "locale": "fr",
+    "cat": "fr",
+    "intent": "Infirmier / Infirmière variants",
+    "items": [
+     "Infirmier(e) Diplômé(e) d’État (IDE)",
+     "Infirmier(ère)",
+     "Infirmier(ère) Hospitalier(ère)",
+     "Infirmier(ère) de Soins Généraux",
+     "Infirmier(ère) Coordinateur(trice)",
+     "Infirmier(ère) Spécialisé(e) en Bloc Opératoire"
+    ],
+    "first_ms": 532,
+    "total_ms": 920,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 77,
+     "total_tokens": 338,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 8,
+    "issue": "minor awkward gender notation and capitalization"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "comptab",
+    "locale": "fr",
+    "cat": "fr",
+    "intent": "Comptable variants",
+    "items": [
+     "Comptable",
+     "Comptable général(e)",
+     "Comptable fournisseurs",
+     "Comptable clients",
+     "Comptable de gestion",
+     "Assistant(e) comptable"
+    ],
+    "first_ms": 508,
+    "total_ms": 706,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 29,
+     "total_tokens": 290,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "responsable rh",
+    "locale": "fr",
+    "cat": "fr",
+    "intent": "Responsable RH / ressources humaines",
+    "items": [
+     "Responsable des Ressources Humaines",
+     "Directeur des Ressources Humaines",
+     "Gestionnaire des Ressources Humaines",
+     "Responsable Talent Acquisition",
+     "Responsable Paie et Administration du Personnel",
+     "Chargé des Ressources Humaines"
+    ],
+    "first_ms": 509,
+    "total_ms": 912,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 48,
+     "total_tokens": 309,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "softwareentw",
+    "locale": "de",
+    "cat": "de",
+    "intent": "Softwareentwickler variants",
+    "items": [
+     "Softwareentwickler",
+     "Softwareentwicklerin",
+     "Software Engineer",
+     "Softwareentwickler Backend",
+     "Softwareentwickler Frontend",
+     "Full-Stack-Entwickler"
+    ],
+    "first_ms": 473,
+    "total_ms": 798,
+    "usage": {
+     "prompt_tokens": 262,
+     "completion_tokens": 32,
+     "total_tokens": 294,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 8,
+    "issue": "mostly ok; includes English and loosely matching title"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "projektlei",
+    "locale": "de",
+    "cat": "de",
+    "intent": "Projektleiter variants",
+    "items": [
+     "Projektleiter",
+     "Projektleitung",
+     "IT-Projektleiter",
+     "Senior Projektleiter",
+     "Junior Projektleiter",
+     "Projektmanager"
+    ],
+    "first_ms": 464,
+    "total_ms": 649,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 24,
+     "total_tokens": 285,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 8,
+    "issue": "minor hyphenation and one non-prefix variant"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "krankenpfl",
+    "locale": "de",
+    "cat": "de",
+    "intent": "Krankenpfleger / Gesundheits- und Krankenpfleger(in)",
+    "items": [
+     "Krankenpfleger/in",
+     "Gesundheits- und Krankenpfleger/in",
+     "Fachkrankenpfleger/in",
+     "Pflegefachmann/-frau",
+     "Pflegeassistent/in",
+     "Stationsleitung Pflege"
+    ],
+    "first_ms": 436,
+    "total_ms": 727,
+    "usage": {
+     "prompt_tokens": 262,
+     "completion_tokens": 43,
+     "total_tokens": 305,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "vertriebs",
+    "locale": "de",
+    "cat": "de",
+    "intent": "Vertriebsmitarbeiter / Vertriebsleiter etc.",
+    "items": [
+     "Vertriebsmitarbeiter",
+     "Sales Manager",
+     "Account Manager",
+     "Außendienstmitarbeiter",
+     "Business Development Manager",
+     "Vertriebsleiter"
+    ],
+    "first_ms": 531,
+    "total_ms": 728,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 29,
+     "total_tokens": 290,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 7,
+    "issue": "Several suggestions are English, not German"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "sviluppat",
+    "locale": "it",
+    "cat": "it",
+    "intent": "Sviluppatore variants",
+    "items": [
+     "Sviluppatore Software",
+     "Sviluppatore Frontend",
+     "Sviluppatore Backend",
+     "Sviluppatore Full Stack",
+     "Sviluppatore App Mobile",
+     "Sviluppatore Java"
+    ],
+    "first_ms": 433,
+    "total_ms": 651,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 35,
+     "total_tokens": 296,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "responsabile amm",
+    "locale": "it",
+    "cat": "it",
+    "intent": "Responsabile Amministrativo",
+    "items": [
+     "Responsabile Amministrativo",
+     "Responsabile Amministrazione",
+     "Responsabile Amministrativa",
+     "Responsabile Area Amministrativa",
+     "Responsabile Amministrativo Contabile",
+     "Responsabile Contabilità e Amministrazione"
+    ],
+    "first_ms": 529,
+    "total_ms": 776,
+    "usage": {
+     "prompt_tokens": 262,
+     "completion_tokens": 44,
+     "total_tokens": 306,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "infermier",
+    "locale": "it",
+    "cat": "it",
+    "intent": "Infermiere variants",
+    "items": [
+     "Infermiere",
+     "Infermiera",
+     "Infermiere Professionale",
+     "Infermiere di Pronto Soccorso",
+     "Infermiere Coordinatore",
+     "Infermiere Strumentista"
+    ],
+    "first_ms": 505,
+    "total_ms": 748,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 39,
+     "total_tokens": 300,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "verpleegk",
+    "locale": "nl",
+    "cat": "nl",
+    "intent": "Verpleegkundige variants",
+    "items": [
+     "verpleegkundige",
+     "wijkverpleegkundige",
+     "verpleegkundige in de ouderenzorg",
+     "verpleegkundige ggz",
+     "verpleegkundige mbo",
+     "verpleegkundige niveau 4"
+    ],
+    "first_ms": 544,
+    "total_ms": 781,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 38,
+     "total_tokens": 299,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "accountmana",
+    "locale": "nl",
+    "cat": "nl",
+    "intent": "Accountmanager (Dutch CV, English loanword ok)",
+    "items": [
+     "Accountmanager",
+     "Sales Accountmanager",
+     "Key Accountmanager",
+     "Accountmanager Binnendienst",
+     "Accountmanager Internationaal",
+     "Klantenservice Accountmanager"
+    ],
+    "first_ms": 438,
+    "total_ms": 642,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 31,
+     "total_tokens": 292,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "مهندس",
+    "locale": "ar",
+    "cat": "ar",
+    "intent": "Arabic engineer titles",
+    "items": [
+     "مهندس برمجيات",
+     "مهندس معماري",
+     "مهندس مدني",
+     "مهندس كهرباء",
+     "مهندس ميكانيكا",
+     "مهندس شبكات"
+    ],
+    "first_ms": 493,
+    "total_ms": 689,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 34,
+     "total_tokens": 295,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "محاسب",
+    "locale": "ar",
+    "cat": "ar",
+    "intent": "Arabic accountant titles",
+    "items": [
+     "محاسب",
+     "محاسب مالي",
+     "محاسب تكاليف",
+     "محاسب ضرائب",
+     "محاسب إداري",
+     "مراجع حسابات"
+    ],
+    "first_ms": 657,
+    "total_ms": 848,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 30,
+     "total_tokens": 291,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "مدير مشار",
+    "locale": "ar",
+    "cat": "ar",
+    "intent": "مدير مشاريع / مدير مشروع",
+    "items": [
+     "مدير مشروع",
+     "مدير برنامج",
+     "مدير العمليات",
+     "مدير مشاريع",
+     "مدير مكتب المشاريع (PMO)",
+     "مدير تحسين العمليات"
+    ],
+    "first_ms": 469,
+    "total_ms": 818,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 31,
+     "total_tokens": 292,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 8,
+    "issue": "good, but several non-project suggestions"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "مطور",
+    "locale": "ar",
+    "cat": "ar",
+    "intent": "Arabic developer titles (مطور برمجيات ...)",
+    "items": [
+     "مطور برمجيات",
+     "مطور ويب",
+     "مطور تطبيقات جوال",
+     "مطور تطبيقات",
+     "مطور خلفيات (باك-إند)",
+     "مطور واجهات أمامية (فـرونت-إند)"
+    ],
+    "first_ms": 567,
+    "total_ms": 875,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 52,
+     "total_tokens": 313,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 7,
+    "issue": "بعض العناوين مختلطة اللغة أو غير معيارية"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "yazılım mü",
+    "locale": "tr",
+    "cat": "tr",
+    "intent": "Yazılım Mühendisi",
+    "items": [
+     "Yazılım Mühendisi",
+     "Backend Yazılım Mühendisi",
+     "Frontend Yazılım Mühendisi",
+     "Full Stack Yazılım Geliştiricisi",
+     "Mobil Uygulama Geliştiricisi",
+     "Sistem Yazılım Mühendisi"
+    ],
+    "first_ms": 521,
+    "total_ms": 779,
+    "usage": {
+     "prompt_tokens": 262,
+     "completion_tokens": 56,
+     "total_tokens": 318,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "muhase",
+    "locale": "tr",
+    "cat": "tr",
+    "intent": "Muhasebe Uzmanı / Muhasebeci",
+    "items": [
+     "Muhasebe Uzmanı",
+     "Muhasebe Elemanı",
+     "Vergi Uzmanı",
+     "Bütçe ve Finans Uzmanı",
+     "Finansal Analist",
+     "Denetim Uzmanı"
+    ],
+    "first_ms": 756,
+    "total_ms": 989,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 39,
+     "total_tokens": 300,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 8,
+    "issue": "some suggestions do not complete typed accounting intent"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "programis",
+    "locale": "pl",
+    "cat": "pl",
+    "intent": "Programista variants",
+    "items": [
+     "Programista PHP",
+     "Programista Java",
+     "Programista JavaScript",
+     "Programista C#",
+     "Programista C++",
+     "Programista Python"
+    ],
+    "first_ms": 464,
+    "total_ms": 661,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 27,
+     "total_tokens": 288,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "kierownik",
+    "locale": "pl",
+    "cat": "pl",
+    "intent": "Kierownik ... (Polish manager titles)",
+    "items": [
+     "Kierownik Projektu",
+     "Kierownik Zespołu",
+     "Kierownik Produkcji",
+     "Kierownik Sprzedaży",
+     "Kierownik Administracyjny",
+     "Kierownik IT"
+    ],
+    "first_ms": 487,
+    "total_ms": 749,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 41,
+     "total_tokens": 302,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "менеджер по прод",
+    "locale": "ru",
+    "cat": "ru",
+    "intent": "Менеджер по продажам / продукту",
+    "items": [
+     "Менеджер по продажам",
+     "Менеджер по продажам и развитию бизнеса",
+     "Менеджер по работе с ключевыми клиентами",
+     "Менеджер по коммерческой деятельности",
+     "Территориальный менеджер по продажам",
+     "Менеджер по развитию продаж"
+    ],
+    "first_ms": 546,
+    "total_ms": 907,
+    "usage": {
+     "prompt_tokens": 263,
+     "completion_tokens": 57,
+     "total_tokens": 320,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 8,
+    "issue": "нет варианта менеджера по продукту"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "manajer pem",
+    "locale": "id",
+    "cat": "id",
+    "intent": "Manajer Pemasaran (Indonesian)",
+    "items": [
+     "Manajer Pemasaran",
+     "Manajer Produk",
+     "Manajer Pengadaan",
+     "Manajer Keuangan",
+     "Manajer Proyek",
+     "Manajer Penjualan"
+    ],
+    "first_ms": 633,
+    "total_ms": 860,
+    "usage": {
+     "prompt_tokens": 263,
+     "completion_tokens": 38,
+     "total_tokens": 301,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 8,
+    "issue": "later suggestions do not match typed prefix"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "data analyst",
+    "locale": "fr",
+    "cat": "cross-lang",
+    "intent": "user typed English on a French CV: English titles expected (Data Analyst...)",
+    "items": [
+     "Data Analyst",
+     "Analyste de données",
+     "Business Data Analyst",
+     "Analyste BI (Business Intelligence)",
+     "Data Scientist",
+     "Analyste CRM (données)"
+    ],
+    "first_ms": 472,
+    "total_ms": 652,
+    "usage": {
+     "prompt_tokens": 261,
+     "completion_tokens": 32,
+     "total_tokens": 293,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 5,
+    "issue": "mixed languages; French titles despite English intent"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "manager",
+    "locale": "de",
+    "cat": "cross-lang",
+    "intent": "ambiguous loanword on German CV: German-market titles (Manager/Projektmanager/Produktmanager...)",
+    "items": [
+     "Projektmanager",
+     "Produktmanager",
+     "Sales Manager",
+     "Marketing Manager",
+     "Filialmanager",
+     "Operations Manager"
+    ],
+    "first_ms": 584,
+    "total_ms": 766,
+    "usage": {
+     "prompt_tokens": 260,
+     "completion_tokens": 21,
+     "total_tokens": 281,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 8,
+    "issue": "good German-market titles, but no exact Manager first"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "asdfgh",
+    "locale": "en",
+    "cat": "junk",
+    "intent": "gibberish: ideal is empty or very few suggestions, no invented titles",
+    "items": [],
+    "first_ms": null,
+    "total_ms": 611,
+    "usage": {
+     "prompt_tokens": 262,
+     "completion_tokens": 3,
+     "total_tokens": 265,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "nano54-rules",
+    "q": "i like cats",
+    "locale": "en",
+    "cat": "junk",
+    "intent": "not a job: ideal is empty, or at most pet/animal-care jobs",
+    "items": [],
+    "first_ms": null,
+    "total_ms": 511,
+    "usage": {
+     "prompt_tokens": 262,
+     "completion_tokens": 3,
+     "total_tokens": 265,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "score": 10,
+    "issue": "ok"
+   }
+  ]
+ }
+]

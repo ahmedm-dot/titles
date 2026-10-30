@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Job Title Suggest</title>
+<style>
+  :root { --bg:#f6f7f9; --card:#fff; --ink:#1b1f24; --mut:#6b7380; --line:#e3e6ea; --acc:#2563eb; --good:#15803d; --warn:#b45309; }
+  * { box-sizing: border-box; }
+  body { margin:0; font:15px/1.45 system-ui, -apple-system, Segoe UI, Roboto, sans-serif; background:var(--bg); color:var(--ink); }
+  main { max-width: 980px; margin: 32px auto; padding: 0 16px; }
+  h1 { font-size: 20px; margin: 0 0 4px; }
+  p.sub { color: var(--mut); margin: 0 0 20px; }
+  .bar { display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin-bottom:14px; }
+  label { font-size:13px; color:var(--mut); display:flex; gap:6px; align-items:center; }
+  select, input[type=text] { font:inherit; padding:8px 10px; border:1px solid var(--line); border-radius:8px; background:#fff; color:var(--ink); }
+  #q { width:100%; font-size:18px; padding:14px 16px; border-radius:10px; }
+  .cols { display:grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap:14px; margin-top:14px; }
+  .col { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:12px 14px; min-height:220px; }
+  .col h2 { font-size:13px; margin:0 0 8px; display:flex; justify-content:space-between; gap:8px; color:var(--mut); font-weight:600; }
+  .col ol { margin:0; padding-inline-start: 20px; }
+  .col li { padding:5px 0; border-bottom:1px solid var(--line); cursor:pointer; }
+  .col li:last-child { border-bottom:0; }
+  .col li:hover { color: var(--acc); }
+  .meta { font-variant-numeric: tabular-nums; }
+  .fast { color: var(--good); } .slow { color: var(--warn); }
+  .chosen { margin-top:16px; color:var(--mut); }
+  .chosen b { color: var(--ink); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Job title suggestions — test bench</h1>
+  <p class="sub">Type a job title in any language. Each column runs a different A/B arm (model × reasoning × prompt), streaming suggestions as they arrive.</p>
+
+  <div class="bar">
+    <label>CV language
+      <select id="locale">
+        <option value="en">English</option><option value="fr">Français</option><option value="es">Español</option>
+        <option value="pt">Português</option><option value="de">Deutsch</option><option value="it">Italiano</option>
+        <option value="nl">Nederlands</option><option value="ar">العربية</option><option value="tr">Türkçe</option>
+        <option value="pl">Polski</option><option value="ru">Русский</option><option value="id">Bahasa Indonesia</option>
+      </select>
+    </label>
+    <label>Arm A <select id="armA"></select></label>
+    <label>Arm B <select id="armB"><option value="">— off —</option></select></label>
+    <label>Debounce <select id="deb"><option>0</option><option>80</option><option selected>120</option><option>200</option></select> ms</label>
+  </div>
+
+  <input id="q" type="text" dir="auto" autocomplete="off" placeholder="e.g. sr swe · enfermera de · chef de proj · مهندس" autofocus>
+
+  <div class="cols" id="cols"></div>
+  <div class="chosen" id="chosen"></div>
+</main>
+<script>
+const $ = id => document.getElementById(id);
+let timer, streams = [];
+
+fetch('/api/arms').then(r => r.json()).then(({ default: def, arms }) => {
+  for (const [id, a] of Object.entries(arms)) {
+    const label = `${id}  (${a.model}${a.reasoning_effort ? ', ' + a.reasoning_effort : ''})`;
+    $('armA').add(new Option(label, id, id === def, id === def));
+    $('armB').add(new Option(label, id));
+  }
+  render();
+});
+
+function columns() { return [$('armA').value, $('armB').value].filter(Boolean); }
+
+function render() {
+  $('cols').innerHTML = columns().map((arm, i) =>
+    `<div class="col"><h2><span>${'AB'[i]} · ${arm}</span><span class="meta" id="m${i}"></span></h2><ol id="l${i}" dir="auto"></ol></div>`).join('');
+}
+
+function run() {
+  streams.forEach(s => s.close()); streams = [];
+  const q = $('q').value.trim(), locale = $('locale').value;
+  columns().forEach((arm, i) => {
+    const list = $('l' + i), meta = $('m' + i);
+    if (q.length < 2) { list.innerHTML = ''; meta.textContent = ''; return; }
+    const t0 = performance.now(); let first = null, fresh = true;
+    meta.textContent = '…';
+    const es = new EventSource(`/api/suggest/stream?${new URLSearchParams({ q, locale, arm })}`);
+    streams.push(es);
+    es.addEventListener('item', e => {
+      if (fresh) { list.innerHTML = ''; fresh = false; }   // keep old list until first new item → no flicker
+      if (first === null) first = Math.round(performance.now() - t0);
+      const li = document.createElement('li'); li.textContent = JSON.parse(e.data); li.onclick = () => pick(li.textContent);
+      list.append(li);
+    });
+    es.addEventListener('done', e => {
+      const d = JSON.parse(e.data), total = Math.round(performance.now() - t0);
+      if (fresh) list.innerHTML = '<li style="color:var(--mut)">(no suggestions)</li>';
+      const cls = (first ?? total) < 700 ? 'fast' : 'slow';
+      meta.innerHTML = d.cached ? `<span class="fast">cached · ${total} ms</span>`
+        : `<span class="${cls}">1st ${first ?? '–'} ms</span> · all ${total} ms`;
+      es.close();
+    });
+    es.addEventListener('error', () => { meta.textContent = 'error'; es.close(); });
+  });
+}
+
+function pick(t) { $('chosen').innerHTML = `Selected: <b dir="auto">${t.replace(/</g, '&lt;')}</b>`; }
+
+$('q').addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(run, +$('deb').value); });
+for (const id of ['armA', 'armB', 'locale']) $(id).addEventListener('change', () => { render(); run(); });
+</script>
+</body>
+</html>

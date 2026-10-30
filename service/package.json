@@ -1,0 +1,12 @@
+{
+  "name": "job-title-suggest",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Typeahead job-title suggestions: instant local ESCO catalog + streamed OpenAI suggestions, with an A/B benchmark harness.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node src/server.mjs",
+    "bench": "node bench/run.mjs"
+  }
+}
