@@ -1,0 +1,7641 @@
+[
+ {
+  "summary": {
+   "arm": "luna56-fs3-prio",
+   "model": "gpt-5.6-luna",
+   "reasoning": "none",
+   "prompt": "fewshot3",
+   "n": 212,
+   "errors": 0,
+   "score": 9.13,
+   "perfect": 82,
+   "first_p50": 566,
+   "first_p90": 838,
+   "total_p50": 793,
+   "total_p90": 1095,
+   "tiers": "priority",
+   "in_tok": 504,
+   "out_tok": 48
+  },
+  "results": [
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "registered nur",
+    "locale": "en",
+    "cat": "en",
+    "intent": "Registered Nurse variants",
+    "items": [
+     "Registered Nurse",
+     "Registered Nurse Manager",
+     "Registered Nurse Practitioner",
+     "Registered Nurse Educator",
+     "Registered Nurse Case Manager",
+     "Registered Nurse Supervisor"
+    ],
+    "first_ms": 1073,
+    "total_ms": 1260,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 27,
+     "total_tokens": 530,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "warehouse",
+    "locale": "en",
+    "cat": "en",
+    "intent": "Warehouse Associate / Worker / Manager",
+    "items": [
+     "Warehouse Worker",
+     "Warehouse Associate",
+     "Warehouse Manager",
+     "Warehouse Supervisor",
+     "Warehouse Operative",
+     "Warehouse Clerk"
+    ],
+    "first_ms": 955,
+    "total_ms": 1059,
+    "usage": {
+     "prompt_tokens": 502,
+     "completion_tokens": 21,
+     "total_tokens": 523,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "rekenmees",
+    "locale": "af",
+    "cat": "af",
+    "intent": "Afrikaans: Rekenmeester (accountant) variants",
+    "items": [
+     "Rekenmeester",
+     "Senior Rekenmeester",
+     "Junior Rekenmeester",
+     "Finansiële Rekenmeester",
+     "Bestuursrekenmeester",
+     "Kosterekenmeester"
+    ],
+    "first_ms": 1138,
+    "total_ms": 1280,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 42,
+     "total_tokens": 547,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "sagteware-ontw",
+    "locale": "af",
+    "cat": "af",
+    "intent": "Afrikaans: Sagteware-ontwikkelaar (software developer)",
+    "items": [
+     "Sagteware-ontwikkelaar",
+     "Sagteware-ontwerper",
+     "Sagteware-ontwikkelingsingenieur",
+     "Sagteware-ontwikkelingsbestuurder",
+     "Sagteware-ontwikkelingspesialis",
+     "Sagteware-ontwikkelingskonsultant"
+    ],
+    "first_ms": 949,
+    "total_ms": 1155,
+    "usage": {
+     "prompt_tokens": 506,
+     "completion_tokens": 56,
+     "total_tokens": 562,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "inxhinier",
+    "locale": "sq",
+    "cat": "sq",
+    "intent": "Albanian: Inxhinier ... (engineer specialties)",
+    "items": [
+     "Inxhinier Softueri",
+     "Inxhinier Elektrik",
+     "Inxhinier Mekanik",
+     "Inxhinier Ndërtimi",
+     "Inxhinier Civil",
+     "Inxhinier Industrial"
+    ],
+    "first_ms": 1203,
+    "total_ms": 1485,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 44,
+     "total_tokens": 549,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "kontabil",
+    "locale": "sq",
+    "cat": "sq",
+    "intent": "Albanian: Kontabilist (accountant)",
+    "items": [
+     "Kontabilist",
+     "Kontabilist i Lartë",
+     "Kontabilist Financiar",
+     "Kontabilist i Tatimeve",
+     "Kontabilist Menaxherial",
+     "Kontabilist i Kostove"
+    ],
+    "first_ms": 1152,
+    "total_ms": 1351,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 41,
+     "total_tokens": 544,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "مطور برمج",
+    "locale": "ar",
+    "cat": "ar",
+    "intent": "Arabic: مطور برمجيات (software developer) variants",
+    "items": [
+     "مطور برمجيات",
+     "مطور برمجيات أول",
+     "مطور برمجة",
+     "مطور برمجيات الويب",
+     "مطور تطبيقات الهاتف المحمول",
+     "مطور الواجهة الخلفية"
+    ],
+    "first_ms": 1417,
+    "total_ms": 1618,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 43,
+     "total_tokens": 548,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "one awkward nonstandard title"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "ممرض",
+    "locale": "ar",
+    "cat": "ar",
+    "intent": "Arabic: ممرض / ممرض قانوني (nurse) variants, masculine",
+    "items": [
+     "ممرض",
+     "ممرض أول",
+     "ممرض طوارئ",
+     "ممرض عناية مركزة",
+     "ممرض عمليات",
+     "ممرض أطفال"
+    ],
+    "first_ms": 941,
+    "total_ms": 1128,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 30,
+     "total_tokens": 533,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "ծրագրավոր",
+    "locale": "hy",
+    "cat": "hy",
+    "intent": "Armenian: Ծրագրավորող (programmer) variants",
+    "items": [
+     "Ծրագրավորող",
+     "Ծրագրավորող վեբ",
+     "Ծրագրավորող backend",
+     "Ծրագրավորող frontend",
+     "Ծրագրավորող բջջային հավելվածների",
+     "Ծրագրավորող ծրագրային ապահովման"
+    ],
+    "first_ms": 947,
+    "total_ms": 1136,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 47,
+     "total_tokens": 550,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 7,
+    "issue": "Some awkward word order and English mixed in"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "հաշվապահ",
+    "locale": "hy",
+    "cat": "hy",
+    "intent": "Armenian: Հաշվապահ (accountant) variants",
+    "items": [
+     "Հաշվապահ",
+     "Գլխավոր հաշվապահ",
+     "Հաշվապահ-վերլուծաբան",
+     "Հաշվապահ-գանձապահ",
+     "Հաշվապահ-աուդիտոր",
+     "Ավագ հաշվապահ"
+    ],
+    "first_ms": 933,
+    "total_ms": 1143,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 52,
+     "total_tokens": 555,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "proqramçı",
+    "locale": "az",
+    "cat": "az",
+    "intent": "Azerbaijani: Proqramçı (programmer) variants",
+    "items": [
+     "Proqramçı",
+     "Baş Proqramçı",
+     "Proqram Təminatı Proqramçısı",
+     "Veb Proqramçısı",
+     "Tətbiq Proqramçısı",
+     "Proqramçı-Analitik"
+    ],
+    "first_ms": 1045,
+    "total_ms": 1300,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 43,
+     "total_tokens": 546,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "mühasib",
+    "locale": "az",
+    "cat": "az",
+    "intent": "Azerbaijani: Mühasib (accountant) variants",
+    "items": [
+     "Mühasib",
+     "Baş mühasib",
+     "Maliyyə mühasibi",
+     "Vergi mühasibi",
+     "Mühasib köməkçisi",
+     "Mühasib-auditor"
+    ],
+    "first_ms": 966,
+    "total_ms": 1174,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 42,
+     "total_tokens": 546,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "সফটওয়্যার ইঞ্জি",
+    "locale": "bn",
+    "cat": "bn",
+    "intent": "Bengali: সফটওয়্যার ইঞ্জিনিয়ার (software engineer)",
+    "items": [
+     "সফটওয়্যার ইঞ্জিনিয়ার",
+     "সফটওয়্যার ইঞ্জিনিয়ার (সিনিয়র)",
+     "সফটওয়্যার ইঞ্জিনিয়ার (জুনিয়র)",
+     "সফটওয়্যার ইঞ্জিনিয়ার, ব্যাকএন্ড",
+     "সফটওয়্যার ইঞ্জিনিয়ার, ফ্রন্টএন্ড",
+     "সফটওয়্যার ইঞ্জিনিয়ার, ফুল-স্ট্যাক"
+    ],
+    "first_ms": 622,
+    "total_ms": 1016,
+    "usage": {
+     "prompt_tokens": 509,
+     "completion_tokens": 100,
+     "total_tokens": 609,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "হিসাবরক্ষ",
+    "locale": "bn",
+    "cat": "bn",
+    "intent": "Bengali: হিসাবরক্ষক (accountant)",
+    "items": [
+     "হিসাবরক্ষক",
+     "হিসাবরক্ষণ কর্মকর্তা",
+     "সিনিয়র হিসাবরক্ষক",
+     "হিসাবরক্ষক সহকারী",
+     "হিসাবরক্ষণ ব্যবস্থাপক",
+     "হিসাব নিরীক্ষক"
+    ],
+    "first_ms": 623,
+    "total_ms": 835,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 51,
+     "total_tokens": 556,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "minor awkward phrasing in one suggestion"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "програмис",
+    "locale": "bg",
+    "cat": "bg",
+    "intent": "Bulgarian: Програмист variants",
+    "items": [
+     "Програмист",
+     "Програмист на софтуер",
+     "Програмист на уеб приложения",
+     "Програмист на Java",
+     "Програмист на Python",
+     "Програмист на бази данни"
+    ],
+    "first_ms": 482,
+    "total_ms": 732,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 50,
+     "total_tokens": 553,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "счетовод",
+    "locale": "bg",
+    "cat": "bg",
+    "intent": "Bulgarian: Счетоводител (accountant)",
+    "items": [
+     "Счетоводител",
+     "Главен счетоводител",
+     "Оперативен счетоводител",
+     "Старши счетоводител",
+     "Счетоводител ТРЗ",
+     "Счетоводител-консултант"
+    ],
+    "first_ms": 682,
+    "total_ms": 951,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 51,
+     "total_tokens": 555,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "infermer",
+    "locale": "ca",
+    "cat": "ca",
+    "intent": "Catalan: Infermer / Infermera (nurse) variants",
+    "items": [
+     "Infermer",
+     "Infermer de Planta",
+     "Infermer d'Urgències",
+     "Infermer de Cures Intensives",
+     "Infermer de Quiròfan",
+     "Infermer Pediàtric"
+    ],
+    "first_ms": 608,
+    "total_ms": 803,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 39,
+     "total_tokens": 542,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "minor capitalization style"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "desenvolupador",
+    "locale": "ca",
+    "cat": "ca",
+    "intent": "Catalan: Desenvolupador de programari / web",
+    "items": [
+     "Desenvolupador de Programari",
+     "Desenvolupador Web",
+     "Desenvolupador de Frontend",
+     "Desenvolupador de Backend",
+     "Desenvolupador d’Aplicacions Mòbils",
+     "Desenvolupador Full Stack"
+    ],
+    "first_ms": 490,
+    "total_ms": 713,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 51,
+     "total_tokens": 554,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "软件工",
+    "locale": "zh",
+    "cat": "zh",
+    "intent": "Chinese: 软件工程师 (software engineer) variants",
+    "items": [
+     "软件工程师",
+     "软件工程师（高级）",
+     "软件工程师（后端）",
+     "软件工程师（前端）",
+     "软件测试工程师",
+     "软件开发工程师"
+    ],
+    "first_ms": 539,
+    "total_ms": 706,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 36,
+     "total_tokens": 539,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "会计",
+    "locale": "zh",
+    "cat": "zh",
+    "intent": "Chinese: 会计 / 会计师 / 财务会计 (accountant)",
+    "items": [
+     "会计",
+     "管理会计",
+     "财务会计",
+     "成本会计",
+     "税务会计",
+     "注册会计师"
+    ],
+    "first_ms": 483,
+    "total_ms": 597,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 28,
+     "total_tokens": 531,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "programe",
+    "locale": "hr",
+    "cat": "hr",
+    "intent": "Croatian: Programer variants",
+    "items": [
+     "Programer",
+     "Programer analitičar",
+     "Programer aplikacija",
+     "Programer web aplikacija",
+     "Programer mobilnih aplikacija",
+     "Programer baza podataka"
+    ],
+    "first_ms": 584,
+    "total_ms": 759,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 36,
+     "total_tokens": 539,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "medicinska ses",
+    "locale": "hr",
+    "cat": "hr",
+    "intent": "Croatian: Medicinska sestra (nurse)",
+    "items": [
+     "Medicinska sestra",
+     "Medicinska sestra za intenzivnu njegu",
+     "Medicinska sestra za hitnu medicinu",
+     "Medicinska sestra na kirurškom odjelu",
+     "Medicinska sestra na pedijatriji",
+     "Medicinska sestra u primarnoj zdravstvenoj zaštiti"
+    ],
+    "first_ms": 504,
+    "total_ms": 837,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 65,
+     "total_tokens": 569,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "programát",
+    "locale": "cs",
+    "cat": "cs",
+    "intent": "Czech: Programátor variants",
+    "items": [
+     "Programátor",
+     "Programátorka",
+     "Programátor aplikací",
+     "Programátor webových aplikací",
+     "Programátor softwaru",
+     "Programátor databází"
+    ],
+    "first_ms": 634,
+    "total_ms": 801,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 32,
+     "total_tokens": 535,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "účetn",
+    "locale": "cs",
+    "cat": "cs",
+    "intent": "Czech: Účetní (accountant)",
+    "items": [
+     "Účetní",
+     "Účetní junior",
+     "Účetní senior",
+     "Účetní finanční",
+     "Účetní mzdový",
+     "Účetní hlavní"
+    ],
+    "first_ms": 440,
+    "total_ms": 592,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 35,
+     "total_tokens": 538,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 7,
+    "issue": "Some titles have unnatural Czech word order/gender"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "softwareudv",
+    "locale": "da",
+    "cat": "da",
+    "intent": "Danish: Softwareudvikler",
+    "items": [
+     "Softwareudvikler",
+     "Senior softwareudvikler",
+     "Frontend-softwareudvikler",
+     "Backend-softwareudvikler",
+     "Fullstack-softwareudvikler",
+     "Softwareudvikler inden for webapplikationer"
+    ],
+    "first_ms": 567,
+    "total_ms": 783,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 47,
+     "total_tokens": 551,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "sygeplej",
+    "locale": "da",
+    "cat": "da",
+    "intent": "Danish: Sygeplejerske (nurse)",
+    "items": [
+     "Sygeplejerske",
+     "Sygeplejerskeassistent",
+     "Sygeplejerskestuderende",
+     "Sygeplejerske i psykiatrien",
+     "Sygeplejerske på hospital",
+     "Sygeplejerske i hjemmeplejen"
+    ],
+    "first_ms": 1115,
+    "total_ms": 1576,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 60,
+     "total_tokens": 565,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "one possibly non-standard title"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "projectlei",
+    "locale": "nl",
+    "cat": "nl",
+    "intent": "Dutch: Projectleider variants",
+    "items": [
+     "Projectleider",
+     "Projectleider Bouw",
+     "Projectleider IT",
+     "Projectleider Techniek",
+     "Projectleider Infrastructuur",
+     "Projectleider Implementatie"
+    ],
+    "first_ms": 499,
+    "total_ms": 683,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 29,
+     "total_tokens": 532,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "boekhoud",
+    "locale": "nl",
+    "cat": "nl",
+    "intent": "Dutch: Boekhouder (bookkeeper)",
+    "items": [
+     "Boekhouder",
+     "Boekhoudkundig Medewerker",
+     "Boekhoudassistent",
+     "Boekhoudkundig Administrateur",
+     "Boekhoudkundig Controller",
+     "Boekhoudkundig Specialist"
+    ],
+    "first_ms": 482,
+    "total_ms": 775,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 42,
+     "total_tokens": 545,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "tarkvaraar",
+    "locale": "et",
+    "cat": "et",
+    "intent": "Estonian: Tarkvaraarendaja (software developer)",
+    "items": [
+     "Tarkvaraarendaja",
+     "Tarkvaraarhitekt",
+     "Tarkvarainsener",
+     "Tarkvaratestija",
+     "Tarkvaraspetsialist",
+     "Tarkvaraprojektijuht"
+    ],
+    "first_ms": 865,
+    "total_ms": 1075,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 43,
+     "total_tokens": 547,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "some suggestions do not complete typed prefix"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "raamatupid",
+    "locale": "et",
+    "cat": "et",
+    "intent": "Estonian: Raamatupidaja (accountant)",
+    "items": [
+     "Raamatupidaja",
+     "Raamatupidamise spetsialist",
+     "Raamatupidamise pearaamatupidaja",
+     "Raamatupidamise assistent",
+     "Vanemraamatupidaja",
+     "Finantsraamatupidaja"
+    ],
+    "first_ms": 477,
+    "total_ms": 684,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 45,
+     "total_tokens": 549,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "one awkward nonstandard title"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "inhinyero",
+    "locale": "fil",
+    "cat": "fil",
+    "intent": "Filipino: Inhinyero ... (engineer); English titles also acceptable since Filipino CVs commonly use English",
+    "items": [
+     "Inhinyero ng Software",
+     "Inhinyero Sibil",
+     "Inhinyero ng Elektrikal",
+     "Inhinyero ng Mekanikal",
+     "Inhinyero ng Industriyal",
+     "Inhinyero ng Network"
+    ],
+    "first_ms": 813,
+    "total_ms": 1090,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 48,
+     "total_tokens": 552,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 7,
+    "issue": "first item not generic; some awkward mixed-language titles"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "nars",
+    "locale": "fil",
+    "cat": "fil",
+    "intent": "Filipino: Nars (nurse); English 'Nurse' titles acceptable",
+    "items": [
+     "Nars verpleegkundige",
+     "Nars?"
+    ],
+    "first_ms": 513,
+    "total_ms": 595,
+    "usage": {
+     "prompt_tokens": 502,
+     "completion_tokens": 11,
+     "total_tokens": 513,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 1,
+    "issue": "mixed language and invalid titles"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "ohjelmistokeh",
+    "locale": "fi",
+    "cat": "fi",
+    "intent": "Finnish: Ohjelmistokehittäjä (software developer)",
+    "items": [
+     "Ohjelmistokehittäjä",
+     "Ohjelmistokehitysinsinööri",
+     "Ohjelmistokehityspäällikkö",
+     "Ohjelmistokehittäjä (backend)",
+     "Ohjelmistokehittäjä (frontend)",
+     "Ohjelmistokehittäjä (mobiilisovellukset)"
+    ],
+    "first_ms": 549,
+    "total_ms": 815,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 63,
+     "total_tokens": 567,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "sairaanhoit",
+    "locale": "fi",
+    "cat": "fi",
+    "intent": "Finnish: Sairaanhoitaja (nurse)",
+    "items": [
+     "Sairaanhoitaja",
+     "Sairaanhoitajaopiskelija",
+     "Sairaanhoitajan sijainen",
+     "Sairaanhoitaja, päivystys",
+     "Sairaanhoitaja, tehohoito",
+     "Sairaanhoitaja, leikkaussali"
+    ],
+    "first_ms": 861,
+    "total_ms": 1132,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 63,
+     "total_tokens": 567,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "aide-soign",
+    "locale": "fr",
+    "cat": "fr",
+    "intent": "French: Aide-soignant(e)",
+    "items": [
+     "Aide-soignant",
+     "Aide-soignante",
+     "Aide-soignant en gériatrie",
+     "Aide-soignant en EHPAD",
+     "Aide-soignant hospitalier",
+     "Aide-soignant à domicile"
+    ],
+    "first_ms": 435,
+    "total_ms": 630,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 46,
+     "total_tokens": 550,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "développeur fu",
+    "locale": "fr",
+    "cat": "fr",
+    "intent": "French: Développeur Full Stack",
+    "items": [
+     "Développeur full stack",
+     "Développeur frontend",
+     "Développeur backend",
+     "Développeur full cycle",
+     "Développeur fonctionnel",
+     "Développeur firmware"
+    ],
+    "first_ms": 512,
+    "total_ms": 692,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 41,
+     "total_tokens": 545,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 7,
+    "issue": "some suggestions do not match typed prefix"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "პროგრამის",
+    "locale": "ka",
+    "cat": "ka",
+    "intent": "Georgian: პროგრამისტი (programmer)",
+    "items": [
+     "პროგრამისტი",
+     "პროგრამული უზრუნველყოფის ინჟინერი",
+     "პროგრამული უზრუნველყოფის დეველოპერი",
+     "პროგრამული უზრუნველყოფის არქიტექტორი",
+     "პროგრამული უზრუნველყოფის ტესტერი",
+     "პროგრამული უზრუნველყოფის პროექტის მენეჯერი"
+    ],
+    "first_ms": 505,
+    "total_ms": 812,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 66,
+     "total_tokens": 569,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "ბუღალტ",
+    "locale": "ka",
+    "cat": "ka",
+    "intent": "Georgian: ბუღალტერი (accountant)",
+    "items": [
+     "ბუღალტერი",
+     "მთავარი ბუღალტერი",
+     "ბუღალტრის ასისტენტი",
+     "ფინანსური ბუღალტერი",
+     "საგადასახადო ბუღალტერი",
+     "ბუღალტერი-აუდიტორი"
+    ],
+    "first_ms": 550,
+    "total_ms": 789,
+    "usage": {
+     "prompt_tokens": 506,
+     "completion_tokens": 62,
+     "total_tokens": 568,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "buchhalt",
+    "locale": "de",
+    "cat": "de",
+    "intent": "German: Buchhalter(in) variants",
+    "items": [
+     "Buchhalter",
+     "Buchhalterin",
+     "Buchhaltungsassistent",
+     "Buchhaltungsfachkraft",
+     "Buchhaltungsleiter",
+     "Buchhaltungsspezialist"
+    ],
+    "first_ms": 477,
+    "total_ms": 647,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 38,
+     "total_tokens": 541,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "erzieh",
+    "locale": "de",
+    "cat": "de",
+    "intent": "German: Erzieher(in) (childcare educator)",
+    "items": [
+     "Erzieher",
+     "Erzieher für Kinder",
+     "Erzieher im Kindergarten",
+     "Erzieher in der Jugendhilfe",
+     "Erzieher für frühkindliche Bildung",
+     "Erzieher in der Heimerziehung"
+    ],
+    "first_ms": 533,
+    "total_ms": 751,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 44,
+     "total_tokens": 547,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "some variants are awkward or overly specific"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "προγραμματισ",
+    "locale": "el",
+    "cat": "el",
+    "intent": "Greek: Προγραμματιστής (programmer)",
+    "items": [
+     "Προγραμματιστής",
+     "Προγραμματιστής Λογισμικού",
+     "Προγραμματιστής Ιστού",
+     "Προγραμματιστής Εφαρμογών",
+     "Προγραμματιστής Backend",
+     "Προγραμματιστής Frontend"
+    ],
+    "first_ms": 907,
+    "total_ms": 1187,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 60,
+     "total_tokens": 564,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "minor English terms in Greek titles"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "λογιστ",
+    "locale": "el",
+    "cat": "el",
+    "intent": "Greek: Λογιστής (accountant)",
+    "items": [
+     "Λογιστής",
+     "Λογίστρια",
+     "Λογιστής Μισθοδοσίας",
+     "Λογιστής Φοροτεχνικός",
+     "Λογιστής Κοστολόγησης",
+     "Λογιστής Ελεγκτής"
+    ],
+    "first_ms": 418,
+    "total_ms": 657,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 54,
+     "total_tokens": 559,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "מפתח תוכ",
+    "locale": "he",
+    "cat": "he",
+    "intent": "Hebrew: מפתח תוכנה (software developer)",
+    "items": [
+     "מפתח תוכנה",
+     "מפתח תוכנה בכיר",
+     "מפתח תוכנות",
+     "מפתח תוכנה למובייל",
+     "מפתח תוכנה Full Stack",
+     "מפתח תוכנה Backend"
+    ],
+    "first_ms": 476,
+    "total_ms": 696,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 40,
+     "total_tokens": 544,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "mixed English terms and one nonstandard plural title"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "רואה חש",
+    "locale": "he",
+    "cat": "he",
+    "intent": "Hebrew: רואה חשבון (accountant / CPA)",
+    "items": [
+     "רואה חשבון",
+     "רואה חשבון בכיר",
+     "רואה חשבון מוסמך",
+     "רואה חשבון מבקר",
+     "רואה חשבון פיננסי",
+     "רואה חשבון ניהולי"
+    ],
+    "first_ms": 510,
+    "total_ms": 682,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 44,
+     "total_tokens": 548,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "सॉफ्टवेयर इंजी",
+    "locale": "hi",
+    "cat": "hi",
+    "intent": "Hindi: सॉफ्टवेयर इंजीनियर (software engineer)",
+    "items": [
+     "सॉफ्टवेयर इंजीनियर",
+     "वरिष्ठ सॉफ्टवेयर इंजीनियर",
+     "सॉफ्टवेयर इंजीनियरिंग प्रबंधक",
+     "सॉफ्टवेयर एप्लिकेशन इंजीनियर",
+     "सॉफ्टवेयर टेस्ट इंजीनियर",
+     "सॉफ्टवेयर सिस्टम इंजीनियर"
+    ],
+    "first_ms": 507,
+    "total_ms": 721,
+    "usage": {
+     "prompt_tokens": 507,
+     "completion_tokens": 62,
+     "total_tokens": 569,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "लेखाका",
+    "locale": "hi",
+    "cat": "hi",
+    "intent": "Hindi: लेखाकार (accountant)",
+    "items": [
+     "लेखाकार",
+     "वरिष्ठ लेखाकार",
+     "कनिष्ठ लेखाकार",
+     "प्रमाणित लेखाकार",
+     "प्रबंधन लेखाकार",
+     "कर लेखाकार"
+    ],
+    "first_ms": 527,
+    "total_ms": 729,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 33,
+     "total_tokens": 536,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "szoftverfejl",
+    "locale": "hu",
+    "cat": "hu",
+    "intent": "Hungarian: Szoftverfejlesztő",
+    "items": [
+     "Szoftverfejlesztő",
+     "Szoftverfejlesztő mérnök",
+     "Senior szoftverfejlesztő",
+     "Szoftverfejlesztési vezető",
+     "Szoftverfejlesztő gyakornok",
+     "Szoftverfejlesztési projektmenedzser"
+    ],
+    "first_ms": 535,
+    "total_ms": 807,
+    "usage": {
+     "prompt_tokens": 507,
+     "completion_tokens": 70,
+     "total_tokens": 577,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "könyvel",
+    "locale": "hu",
+    "cat": "hu",
+    "intent": "Hungarian: Könyvelő (accountant)",
+    "items": [
+     "Könyvelő",
+     "Senior könyvelő",
+     "Főkönyvelő",
+     "Mérlegképes könyvelő",
+     "Bérszámfejtő könyvelő",
+     "Adózási könyvelő"
+    ],
+    "first_ms": 527,
+    "total_ms": 758,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 48,
+     "total_tokens": 551,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "minor anglicism in Senior könyvelő"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "hjúkrunarfr",
+    "locale": "is",
+    "cat": "is",
+    "intent": "Icelandic: Hjúkrunarfræðingur (nurse)",
+    "items": [
+     "Hjúkrunarfræðingur",
+     "Hjúkrunarfræðingur á bráðamóttöku",
+     "Hjúkrunarfræðingur á gjörgæslu",
+     "Hjúkrunarfræðingur á skurðdeild",
+     "Hjúkrunarfræðingur á barnadeild",
+     "Hjúkrunarfræðingur á heilsugæslu"
+    ],
+    "first_ms": 473,
+    "total_ms": 786,
+    "usage": {
+     "prompt_tokens": 506,
+     "completion_tokens": 78,
+     "total_tokens": 584,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "bókar",
+    "locale": "is",
+    "cat": "is",
+    "intent": "Icelandic: Bókari (bookkeeper)",
+    "items": [
+     "Bókarhaldari",
+     "Bókari",
+     "Bókaritari",
+     "Bókavörður",
+     "Bókasafnsfræðingur",
+     "Bókbindari"
+    ],
+    "first_ms": 591,
+    "total_ms": 815,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 37,
+     "total_tokens": 540,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 5,
+    "issue": "intended title second; first misspelled/nonstandard"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "akunt",
+    "locale": "id",
+    "cat": "id",
+    "intent": "Indonesian: Akuntan (accountant)",
+    "items": [
+     "Akuntan",
+     "Akuntan Pajak",
+     "Akuntan Publik",
+     "Akuntan Manajemen",
+     "Akuntan Keuangan",
+     "Akuntan Biaya"
+    ],
+    "first_ms": 503,
+    "total_ms": 706,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 36,
+     "total_tokens": 539,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "pengembang perang",
+    "locale": "id",
+    "cat": "id",
+    "intent": "Indonesian: Pengembang Perangkat Lunak (software developer)",
+    "items": [
+     "Pengembang Perangkat Lunak",
+     "Pengembang Perangkat Keras",
+     "Pengembang Perangkat Seluler",
+     "Pengembang Perangkat Lunak Senior",
+     "Pengembang Perangkat Lunak Backend",
+     "Pengembang Perangkat Lunak Frontend"
+    ],
+    "first_ms": 578,
+    "total_ms": 808,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 48,
+     "total_tokens": 552,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "commerc",
+    "locale": "it",
+    "cat": "it",
+    "intent": "Italian: Commercialista / Commerciale",
+    "items": [
+     "Commercialista",
+     "Commerciante",
+     "Commerciale",
+     "Commercio Estero",
+     "Commercialista Junior",
+     "Commercialista Senior"
+    ],
+    "first_ms": 629,
+    "total_ms": 800,
+    "usage": {
+     "prompt_tokens": 502,
+     "completion_tokens": 26,
+     "total_tokens": 528,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "Some suggestions are fields/adjectives, not full job titles"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "ingegnere mecc",
+    "locale": "it",
+    "cat": "it",
+    "intent": "Italian: Ingegnere Meccanico",
+    "items": [
+     "Ingegnere Meccanico",
+     "Ingegnere Meccanico Junior",
+     "Ingegnere Meccanico Senior",
+     "Ingegnere Meccanico di Progettazione",
+     "Ingegnere Meccanico di Processo",
+     "Ingegnere Meccanico Industriale"
+    ],
+    "first_ms": 595,
+    "total_ms": 866,
+    "usage": {
+     "prompt_tokens": 506,
+     "completion_tokens": 60,
+     "total_tokens": 566,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "ソフトウェアエン",
+    "locale": "ja",
+    "cat": "ja",
+    "intent": "Japanese: ソフトウェアエンジニア",
+    "items": [
+     "ソフトウェアエンジニア",
+     "ソフトウェアエンジニア（バックエンド）",
+     "ソフトウェアエンジニア（フロントエンド）",
+     "ソフトウェアエンジニア（組み込み）",
+     "ソフトウェアエンジニア（モバイル）",
+     "ソフトウェアエンジニア（テスト）"
+    ],
+    "first_ms": 594,
+    "total_ms": 883,
+    "usage": {
+     "prompt_tokens": 507,
+     "completion_tokens": 84,
+     "total_tokens": 591,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "看護",
+    "locale": "ja",
+    "cat": "ja",
+    "intent": "Japanese: 看護師 (nurse) variants",
+    "items": [
+     "看護師",
+     "看護主任",
+     "看護師長",
+     "看護教員",
+     "看護管理者",
+     "看護助手"
+    ],
+    "first_ms": 688,
+    "total_ms": 831,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 29,
+     "total_tokens": 532,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "бағдарлама",
+    "locale": "kk",
+    "cat": "kk",
+    "intent": "Kazakh: Бағдарламашы (programmer)",
+    "items": [
+     "Бағдарламашы",
+     "Бағдарламалық жасақтама инженері",
+     "Бағдарламалық қамтамасыз ету әзірлеушісі",
+     "Бағдарлама әзірлеушісі",
+     "Бағдарламалау инженері",
+     "Бағдарламалық жасақтама сәулетшісі"
+    ],
+    "first_ms": 545,
+    "total_ms": 915,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 67,
+     "total_tokens": 570,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "есепші",
+    "locale": "kk",
+    "cat": "kk",
+    "intent": "Kazakh: Есепші (accountant)",
+    "items": [
+     "Есепші",
+     "Бас есепші",
+     "Есепші-кассир",
+     "Салық есепшісі",
+     "Бухгалтер-есепші",
+     "Өндірістік есепші"
+    ],
+    "first_ms": 556,
+    "total_ms": 751,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 43,
+     "total_tokens": 546,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "គណនេយ្យ",
+    "locale": "km",
+    "cat": "km",
+    "intent": "Khmer: គណនេយ្យករ (accountant)",
+    "items": [
+     "គណនេយ្យករ",
+     "គណនេយ្យករជាន់ខ្ពស់",
+     "ជំនួយការគណនេយ្យករ",
+     "អ្នកគ្រប់គ្រងគណនេយ្យ",
+     "អ្នកវិភាគហិរញ្ញវត្ថុ",
+     "អ្នកគ្រប់គ្រងហិរញ្ញវត្ថុ"
+    ],
+    "first_ms": 783,
+    "total_ms": 1113,
+    "usage": {
+     "prompt_tokens": 507,
+     "completion_tokens": 84,
+     "total_tokens": 591,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "វិស្វករ",
+    "locale": "km",
+    "cat": "km",
+    "intent": "Khmer: វិស្វករ ... (engineer specialties)",
+    "items": [
+     "វិស្វករសំណង់",
+     "វិស្វករមេកានិក",
+     "វិស្វករអគ្គិសនី",
+     "វិស្វករកម្មវិធី",
+     "វិស្វករស្ថាបត្យកម្ម",
+     "វិស្វករបរិស្ថាន"
+    ],
+    "first_ms": 653,
+    "total_ms": 949,
+    "usage": {
+     "prompt_tokens": 506,
+     "completion_tokens": 64,
+     "total_tokens": 570,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "소프트웨어 개",
+    "locale": "ko",
+    "cat": "ko",
+    "intent": "Korean: 소프트웨어 개발자",
+    "items": [
+     "소프트웨어 개발자",
+     "소프트웨어 개발 엔지니어",
+     "소프트웨어 개발자 인턴",
+     "소프트웨어 개발 팀장",
+     "소프트웨어 개발 관리자",
+     "소프트웨어 개발 아키텍트"
+    ],
+    "first_ms": 521,
+    "total_ms": 731,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 47,
+     "total_tokens": 552,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "간호",
+    "locale": "ko",
+    "cat": "ko",
+    "intent": "Korean: 간호사 (nurse)",
+    "items": [
+     "간호사",
+     "간호조무사",
+     "간호 관리자",
+     "간호 연구원",
+     "간호 교육자",
+     "간호 코디네이터"
+    ],
+    "first_ms": 864,
+    "total_ms": 1093,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 33,
+     "total_tokens": 536,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "programmētā",
+    "locale": "lv",
+    "cat": "lv",
+    "intent": "Latvian: Programmētājs",
+    "items": [
+     "Programmētājs",
+     "Programmētāja",
+     "Vecākais programmētājs",
+     "Programmētājs-analītiķis",
+     "Tīmekļa programmētājs",
+     "Lietojumprogrammu programmētājs"
+    ],
+    "first_ms": 448,
+    "total_ms": 689,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 49,
+     "total_tokens": 553,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "grāmatved",
+    "locale": "lv",
+    "cat": "lv",
+    "intent": "Latvian: Grāmatvedis (accountant)",
+    "items": [
+     "Grāmatvedis",
+     "Grāmatvede",
+     "Grāmatvedības speciālists",
+     "Grāmatvedības vadītājs",
+     "Galvenais grāmatvedis",
+     "Grāmatvedības asistents"
+    ],
+    "first_ms": 613,
+    "total_ms": 832,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 49,
+     "total_tokens": 554,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "programuoto",
+    "locale": "lt",
+    "cat": "lt",
+    "intent": "Lithuanian: Programuotojas",
+    "items": [
+     "Programuotojas",
+     "Programuotoja",
+     "Programuotojas praktikantas",
+     "Programuotoja praktikantė",
+     "Programuotojas analitikas",
+     "Programuotojas kūrėjas"
+    ],
+    "first_ms": 605,
+    "total_ms": 811,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 44,
+     "total_tokens": 547,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "female variants and one redundant/nonstandard title"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "buhalter",
+    "locale": "lt",
+    "cat": "lt",
+    "intent": "Lithuanian: Buhalteris (accountant)",
+    "items": [
+     "Buhalteris",
+     "Buhalterė",
+     "Vyresnysis buhalteris",
+     "Vyresnioji buhalterė",
+     "Vyriausiasis buhalteris",
+     "Vyriausioji buhalterė"
+    ],
+    "first_ms": 543,
+    "total_ms": 737,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 45,
+     "total_tokens": 548,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "jurutera per",
+    "locale": "ms",
+    "cat": "ms",
+    "intent": "Malay: Jurutera Perisian (software engineer)",
+    "items": [
+     "Jurutera Perisian",
+     "Jurutera Perkhidmatan",
+     "Jurutera Perancangan",
+     "Jurutera Perolehan",
+     "Jurutera Peralatan",
+     "Jurutera Persekitaran"
+    ],
+    "first_ms": 486,
+    "total_ms": 658,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 45,
+     "total_tokens": 550,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "akauntan",
+    "locale": "ms",
+    "cat": "ms",
+    "intent": "Malay: Akauntan (accountant)",
+    "items": [
+     "Akauntan",
+     "Akauntan Kanan",
+     "Akauntan Kewangan",
+     "Akauntan Pengurusan",
+     "Akauntan Cukai",
+     "Akauntan Audit"
+    ],
+    "first_ms": 580,
+    "total_ms": 846,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 43,
+     "total_tokens": 547,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "għalliem",
+    "locale": "mt",
+    "cat": "mt",
+    "intent": "Maltese: Għalliem / Għalliema (teacher)",
+    "items": [
+     "Għalliem",
+     "Għalliem tal-Iskejjel Primarji",
+     "Għalliem tal-Iskejjel Sekondarji",
+     "Għalliem tal-Informatika",
+     "Għalliem tal-Ingliż",
+     "Għalliem tax-Xjenza"
+    ],
+    "first_ms": 1024,
+    "total_ms": 1305,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 59,
+     "total_tokens": 562,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "infermier",
+    "locale": "mt",
+    "cat": "mt",
+    "intent": "Maltese: Infermier / Infermiera (nurse)",
+    "items": [
+     "Infermier",
+     "Infermier Reġistrat",
+     "Infermier tal-Isptar",
+     "Infermier tal-Kura Intensiva",
+     "Infermier tal-Emerġenza",
+     "Infermier tal-Komunità"
+    ],
+    "first_ms": 611,
+    "total_ms": 812,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 42,
+     "total_tokens": 545,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "програмист",
+    "locale": "mn",
+    "cat": "mn",
+    "intent": "Mongolian: Программист / Програм хангамжийн инженер",
+    "items": [
+     "Программист",
+     "Программист-разработчик",
+     "Программист 1С",
+     "Веб-программист",
+     "Прикладной программист",
+     "Системный программист"
+    ],
+    "first_ms": 471,
+    "total_ms": 648,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 44,
+     "total_tokens": 548,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 5,
+    "issue": "mostly Russian titles, not Mongolian"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "нягтлан",
+    "locale": "mn",
+    "cat": "mn",
+    "intent": "Mongolian: Нягтлан бодогч (accountant)",
+    "items": [
+     "Нягтлан бодогч",
+     "Ахлах нягтлан бодогч",
+     "Ерөнхий нягтлан бодогч",
+     "Татварын нягтлан бодогч",
+     "Удирдлагын нягтлан бодогч",
+     "Санхүүгийн нягтлан бодогч"
+    ],
+    "first_ms": 565,
+    "total_ms": 838,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 69,
+     "total_tokens": 574,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "sykeplei",
+    "locale": "no",
+    "cat": "no",
+    "intent": "Norwegian: Sykepleier (nurse)",
+    "items": [
+     "Sykepleier",
+     "Sykepleierstudent",
+     "Sykepleierkoordinator",
+     "Sykepleierleder",
+     "Sykepleier ved legevakt",
+     "Sykepleier på sykehjem"
+    ],
+    "first_ms": 579,
+    "total_ms": 728,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 44,
+     "total_tokens": 549,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "regnskapsf",
+    "locale": "no",
+    "cat": "no",
+    "intent": "Norwegian: Regnskapsfører (accountant)",
+    "items": [
+     "Regnskapsfører",
+     "Regnskapsfullmektig",
+     "Regnskapsmedarbeider",
+     "Regnskapskonsulent",
+     "Regnskapsansvarlig",
+     "Regnskapsleder"
+    ],
+    "first_ms": 722,
+    "total_ms": 861,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 41,
+     "total_tokens": 546,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "some suggestions do not complete typed prefix"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "برنامه نو",
+    "locale": "fa",
+    "cat": "fa",
+    "intent": "Persian: برنامه نویس (programmer)",
+    "items": [
+     "برنامه‌نویس",
+     "برنامه‌نویس ارشد",
+     "برنامه‌نویس وب",
+     "برنامه‌نویس بک‌اند",
+     "برنامه‌نویس فرانت‌اند",
+     "برنامه‌نویس موبایل"
+    ],
+    "first_ms": 559,
+    "total_ms": 772,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 54,
+     "total_tokens": 557,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "حسابدا",
+    "locale": "fa",
+    "cat": "fa",
+    "intent": "Persian: حسابدار (accountant)",
+    "items": [
+     "حسابدار",
+     "حسابدار ارشد",
+     "حسابدار مالی",
+     "حسابدار صنعتی",
+     "حسابدار حقوق و دستمزد",
+     "حسابدار رسمی"
+    ],
+    "first_ms": 755,
+    "total_ms": 929,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 36,
+     "total_tokens": 539,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "księgow",
+    "locale": "pl",
+    "cat": "pl",
+    "intent": "Polish: Księgowa / Księgowy",
+    "items": [
+     "Księgowy",
+     "Księgowa",
+     "Księgowy ds. rachunkowości",
+     "Księgowa ds. finansów",
+     "Księgowy zarządczy",
+     "Księgowy podatkowy"
+    ],
+    "first_ms": 583,
+    "total_ms": 814,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 49,
+     "total_tokens": 553,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "kierowca",
+    "locale": "pl",
+    "cat": "pl",
+    "intent": "Polish: Kierowca ... (driver titles)",
+    "items": [
+     "Kierowca samochodu ciężarowego",
+     "Kierowca autobusu",
+     "Kierowca samochodu dostawczego",
+     "Kierowca taksówki",
+     "Kierowca międzynarodowy",
+     "Kierowca wózka widłowego"
+    ],
+    "first_ms": 680,
+    "total_ms": 924,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 59,
+     "total_tokens": 563,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "desenvolvedor",
+    "locale": "pt-BR",
+    "cat": "pt-BR",
+    "intent": "Brazilian Portuguese: Desenvolvedor (Front-end, Back-end...)",
+    "items": [
+     "Desenvolvedor de Software",
+     "Desenvolvedor Web",
+     "Desenvolvedor Front-end",
+     "Desenvolvedor Back-end",
+     "Desenvolvedor Full Stack",
+     "Desenvolvedor de Aplicativos Móveis"
+    ],
+    "first_ms": 657,
+    "total_ms": 791,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 40,
+     "total_tokens": 545,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "auxiliar adm",
+    "locale": "pt-BR",
+    "cat": "pt-BR",
+    "intent": "Brazilian Portuguese: Auxiliar Administrativo",
+    "items": [
+     "Auxiliar Administrativo",
+     "Auxiliar de Administração",
+     "Auxiliar Administrativo Financeiro",
+     "Auxiliar Administrativo de Recursos Humanos",
+     "Auxiliar Administrativo Comercial",
+     "Auxiliar Administrativo de Logística"
+    ],
+    "first_ms": 765,
+    "total_ms": 1027,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 36,
+     "total_tokens": 541,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "programad",
+    "locale": "pt-PT",
+    "cat": "pt-PT",
+    "intent": "European Portuguese: Programador (pt-PT term, not 'Desenvolvedor')",
+    "items": [
+     "Programador",
+     "Programador Web",
+     "Programador de Software",
+     "Programador de Aplicações",
+     "Programador Backend",
+     "Programador Frontend"
+    ],
+    "first_ms": 684,
+    "total_ms": 820,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 29,
+     "total_tokens": 534,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "rececionis",
+    "locale": "pt-PT",
+    "cat": "pt-PT",
+    "intent": "European Portuguese: Rececionista (pt-PT spelling)",
+    "items": [
+     "Rececionista",
+     "Rececionista de Hotel",
+     "Rececionista de Clínica",
+     "Rececionista Administrativo",
+     "Rececionista de Front Office",
+     "Rececionista de Spa"
+    ],
+    "first_ms": 588,
+    "total_ms": 778,
+    "usage": {
+     "prompt_tokens": 506,
+     "completion_tokens": 36,
+     "total_tokens": 542,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "minor anglicism in one title"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "programat",
+    "locale": "ro",
+    "cat": "ro",
+    "intent": "Romanian: Programator",
+    "items": [
+     "Programator",
+     "Programator software",
+     "Programator web",
+     "Programator Java",
+     "Programator .NET",
+     "Programator Python"
+    ],
+    "first_ms": 778,
+    "total_ms": 898,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 26,
+     "total_tokens": 529,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "contab",
+    "locale": "ro",
+    "cat": "ro",
+    "intent": "Romanian: Contabil (accountant)",
+    "items": [
+     "Contabil",
+     "Contabil senior",
+     "Contabil junior",
+     "Contabilitate financiară",
+     "Contabilitate de gestiune",
+     "Contabil-șef"
+    ],
+    "first_ms": 572,
+    "total_ms": 745,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 33,
+     "total_tokens": 536,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "two suggestions are fields, not job titles"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "бухгалт",
+    "locale": "ru",
+    "cat": "ru",
+    "intent": "Russian: Бухгалтер variants",
+    "items": [
+     "Бухгалтер",
+     "Бухгалтер-кассир",
+     "Бухгалтер по заработной плате",
+     "Главный бухгалтер",
+     "Заместитель главного бухгалтера",
+     "Бухгалтер по налогам"
+    ],
+    "first_ms": 634,
+    "total_ms": 1076,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 43,
+     "total_tokens": 547,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "разработчик",
+    "locale": "ru",
+    "cat": "ru",
+    "intent": "Russian: Разработчик ... (software developer titles)",
+    "items": [
+     "Разработчик программного обеспечения",
+     "Веб-разработчик",
+     "Разработчик мобильных приложений",
+     "Full-stack разработчик",
+     "Backend-разработчик",
+     "Frontend-разработчик"
+    ],
+    "first_ms": 525,
+    "total_ms": 709,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 38,
+     "total_tokens": 541,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "mixed English terms in some titles"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "programe",
+    "locale": "sr",
+    "cat": "sr",
+    "intent": "Serbian (Latin script): Programer",
+    "items": [
+     "Programer",
+     "Programer softvera",
+     "Programer veb aplikacija",
+     "Programer mobilnih aplikacija",
+     "Programer baza podataka",
+     "Programer automatizacije"
+    ],
+    "first_ms": 725,
+    "total_ms": 910,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 36,
+     "total_tokens": 539,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "računovođ",
+    "locale": "sr",
+    "cat": "sr",
+    "intent": "Serbian (Latin script): Računovođa (accountant)",
+    "items": [
+     "Računovođa",
+     "Viši računovođa",
+     "Glavni računovođa",
+     "Finansijski računovođa",
+     "Računovođa za poreze",
+     "Računovođa za obračun zarada"
+    ],
+    "first_ms": 434,
+    "total_ms": 682,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 48,
+     "total_tokens": 552,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "programe",
+    "locale": "sl",
+    "cat": "sl",
+    "intent": "Slovenian: Programer",
+    "items": [
+     "Programer",
+     "Programski inženir",
+     "Programer spletnih aplikacij",
+     "Programer mobilnih aplikacij",
+     "Programer baz podatkov",
+     "Programer videoiger"
+    ],
+    "first_ms": 595,
+    "total_ms": 881,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 36,
+     "total_tokens": 539,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "medicinska ses",
+    "locale": "sl",
+    "cat": "sl",
+    "intent": "Slovenian: Medicinska sestra (nurse)",
+    "items": [
+     "Medicinska sestra",
+     "Medicinska sestra v intenzivni negi",
+     "Medicinska sestra v urgentni medicini",
+     "Medicinska sestra v operacijski sobi",
+     "Medicinska sestra v pediatriji",
+     "Medicinska sestra v patronažni zdravstveni negi"
+    ],
+    "first_ms": 498,
+    "total_ms": 776,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 62,
+     "total_tokens": 566,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "auxiliar de enf",
+    "locale": "es",
+    "cat": "es",
+    "intent": "Spanish: Auxiliar de Enfermería",
+    "items": [
+     "Auxiliar de Enfermería",
+     "Auxiliar de Enfermería Geriátrica",
+     "Auxiliar de Enfermería Hospitalaria",
+     "Auxiliar de Enfermería en Quirófano",
+     "Auxiliar de Enfermería Pediátrica",
+     "Auxiliar de Enfermería de Urgencias"
+    ],
+    "first_ms": 628,
+    "total_ms": 993,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 56,
+     "total_tokens": 560,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "camarer",
+    "locale": "es",
+    "cat": "es",
+    "intent": "Spanish: Camarero / Camarera (waiter)",
+    "items": [
+     "Camarero",
+     "Camarera",
+     "Camarero de Sala",
+     "Camarero de Barra",
+     "Camarero de Restaurante",
+     "Camarero de Eventos"
+    ],
+    "first_ms": 575,
+    "total_ms": 727,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 34,
+     "total_tokens": 537,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "sjuksköt",
+    "locale": "sv",
+    "cat": "sv",
+    "intent": "Swedish: Sjuksköterska (nurse)",
+    "items": [
+     "Sjukskötare",
+     "Sjuksköterska",
+     "Sjukskötare inom akutsjukvård",
+     "Sjukskötare inom psykiatrisk vård",
+     "Sjukskötare inom intensivvård",
+     "Sjukskötare inom äldrevård"
+    ],
+    "first_ms": 469,
+    "total_ms": 699,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 61,
+     "total_tokens": 565,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 6,
+    "issue": "First suggestion not intended; several less-standard variants"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "systemutveck",
+    "locale": "sv",
+    "cat": "sv",
+    "intent": "Swedish: Systemutvecklare",
+    "items": [
+     "Systemutvecklare",
+     "Senior systemutvecklare",
+     "Junior systemutvecklare",
+     "Systemutvecklare inom webbutveckling",
+     "Systemutvecklare inom backend",
+     "Systemutvecklare inom inbyggda system"
+    ],
+    "first_ms": 613,
+    "total_ms": 912,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 52,
+     "total_tokens": 556,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "барномасоз",
+    "locale": "tg",
+    "cat": "tg",
+    "intent": "Tajik: Барномасоз (programmer)",
+    "items": [
+     "Барномасоз",
+     "Барномасози веб",
+     "Барномасози нармафзор",
+     "Барномасози замимаҳои мобилӣ",
+     "Барномасози калон",
+     "Барномасози пойгоҳи додаҳо"
+    ],
+    "first_ms": 617,
+    "total_ms": 865,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 48,
+     "total_tokens": 553,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "муҳосиб",
+    "locale": "tg",
+    "cat": "tg",
+    "intent": "Tajik: Муҳосиб (accountant)",
+    "items": [
+     "Муҳосиб",
+     "Сармуҳосиб",
+     "Муҳосиби калон",
+     "Муҳосиби молиявӣ",
+     "Муҳосиби андоз",
+     "Муҳосиби идоракунӣ"
+    ],
+    "first_ms": 517,
+    "total_ms": 723,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 44,
+     "total_tokens": 548,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "วิศวกรซอฟต์",
+    "locale": "th",
+    "cat": "th",
+    "intent": "Thai: วิศวกรซอฟต์แวร์ (software engineer)",
+    "items": [
+     "วิศวกรซอฟต์แวร์",
+     "วิศวกรซอฟต์แวร์อาวุโส",
+     "วิศวกรซอฟต์แวร์เว็บ",
+     "วิศวกรซอฟต์แวร์ระบบ",
+     "วิศวกรซอฟต์แวร์ฝังตัว",
+     "วิศวกรซอฟต์แวร์มือถือ"
+    ],
+    "first_ms": 901,
+    "total_ms": 1169,
+    "usage": {
+     "prompt_tokens": 508,
+     "completion_tokens": 79,
+     "total_tokens": 587,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "พยาบา",
+    "locale": "th",
+    "cat": "th",
+    "intent": "Thai: พยาบาล (nurse)",
+    "items": [
+     "พยาบาล",
+     "พยาบาลวิชาชีพ",
+     "พยาบาลผู้ช่วย",
+     "พยาบาลห้องฉุกเฉิน",
+     "พยาบาลห้องผ่าตัด",
+     "พยาบาลผู้ป่วยใน"
+    ],
+    "first_ms": 650,
+    "total_ms": 883,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 54,
+     "total_tokens": 559,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "minor nonstandard phrasing"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "satış tem",
+    "locale": "tr",
+    "cat": "tr",
+    "intent": "Turkish: Satış Temsilcisi",
+    "items": [
+     "Satış Temsilcisi"
+    ],
+    "first_ms": 518,
+    "total_ms": 725,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 44,
+     "total_tokens": 547,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "hemşi",
+    "locale": "tr",
+    "cat": "tr",
+    "intent": "Turkish: Hemşire (nurse)",
+    "items": [
+     "Hemşire",
+     "Hemşire Yardımcısı",
+     "Hemşirelik Öğrencisi",
+     "Başhemşire",
+     "Hemşirelik Eğitmeni",
+     "Hemşirelik Yöneticisi"
+    ],
+    "first_ms": 615,
+    "total_ms": 836,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 45,
+     "total_tokens": 548,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "one non-prefix suggestion"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "бухгалт",
+    "locale": "uk",
+    "cat": "uk",
+    "intent": "Ukrainian: Бухгалтер (Ukrainian, not Russian)",
+    "items": [
+     "Бухгалтер",
+     "Бухгалтер-касир",
+     "Бухгалтер з обліку",
+     "Головний бухгалтер",
+     "Бухгалтер з оплати праці",
+     "Бухгалтер з управлінського обліку"
+    ],
+    "first_ms": 668,
+    "total_ms": 955,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 47,
+     "total_tokens": 551,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "розробник",
+    "locale": "uk",
+    "cat": "uk",
+    "intent": "Ukrainian: Розробник ПЗ / програмного забезпечення",
+    "items": [
+     "Розробник програмного забезпечення",
+     "Розробник вебзастосунків",
+     "Розробник мобільних застосунків",
+     "Розробник програмного забезпечення на JavaScript",
+     "Розробник програмного забезпечення на Python",
+     "Розробник баз даних"
+    ],
+    "first_ms": 451,
+    "total_ms": 713,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 64,
+     "total_tokens": 568,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "dasturch",
+    "locale": "uz",
+    "cat": "uz",
+    "intent": "Uzbek (Latin): Dasturchi (programmer)",
+    "items": [
+     "Dasturchi",
+     "Katta dasturchi",
+     "Veb-dasturchi",
+     "Dasturiy ta’minot dasturchisi",
+     "Mobil ilovalar dasturchisi",
+     "Frontend dasturchi"
+    ],
+    "first_ms": 589,
+    "total_ms": 846,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 45,
+     "total_tokens": 548,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "buxgalt",
+    "locale": "uz",
+    "cat": "uz",
+    "intent": "Uzbek (Latin): Buxgalter (accountant)",
+    "items": [
+     "Buxgalter",
+     "Buxgalter yordamchisi",
+     "Buxgalter-kassir",
+     "Bosh buxgalter",
+     "Moliyaviy buxgalter",
+     "Boshqaruv hisobchisi"
+    ],
+    "first_ms": 773,
+    "total_ms": 1029,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 47,
+     "total_tokens": 552,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "kỹ sư phần",
+    "locale": "vi",
+    "cat": "vi",
+    "intent": "Vietnamese: Kỹ sư phần mềm (software engineer)",
+    "items": [
+     "Kỹ sư phần mềm",
+     "Kỹ sư phần cứng",
+     "Kỹ sư phần mềm cao cấp",
+     "Kỹ sư phần mềm nhúng",
+     "Kỹ sư phần mềm backend",
+     "Kỹ sư phần mềm frontend"
+    ],
+    "first_ms": 555,
+    "total_ms": 781,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 51,
+     "total_tokens": 556,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "kế to",
+    "locale": "vi",
+    "cat": "vi",
+    "intent": "Vietnamese: Kế toán (accountant)",
+    "items": [
+     "Kế toán",
+     "Kế toán trưởng",
+     "Kế toán tổng hợp",
+     "Kế toán công nợ",
+     "Kế toán thuế",
+     "Kế toán nội bộ"
+    ],
+    "first_ms": 815,
+    "total_ms": 992,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 36,
+     "total_tokens": 539,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "registered nur",
+    "locale": "en",
+    "cat": "en",
+    "intent": "Registered Nurse variants",
+    "items": [
+     "Registered Nurse",
+     "Registered Nurse Manager",
+     "Registered Nurse Practitioner",
+     "Registered Nurse Case Manager",
+     "Registered Nurse Educator",
+     "Registered Nurse Supervisor"
+    ],
+    "first_ms": 490,
+    "total_ms": 631,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 27,
+     "total_tokens": 530,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "warehouse",
+    "locale": "en",
+    "cat": "en",
+    "intent": "Warehouse Associate / Worker / Manager",
+    "items": [
+     "Warehouse Worker",
+     "Warehouse Associate",
+     "Warehouse Manager",
+     "Warehouse Supervisor",
+     "Warehouse Operative",
+     "Warehouse Clerk"
+    ],
+    "first_ms": 531,
+    "total_ms": 637,
+    "usage": {
+     "prompt_tokens": 502,
+     "completion_tokens": 21,
+     "total_tokens": 523,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "rekenmees",
+    "locale": "af",
+    "cat": "af",
+    "intent": "Afrikaans: Rekenmeester (accountant) variants",
+    "items": [
+     "Rekenmeester",
+     "Rekenmeester-assistent",
+     "Senior Rekenmeester",
+     "Rekenmeester en Finansiële Bestuurder",
+     "Rekenmeester vir Bestuursrekeningkunde",
+     "Rekenmeester vir Finansiële Rekeningkunde"
+    ],
+    "first_ms": 515,
+    "total_ms": 798,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 53,
+     "total_tokens": 558,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "Some variants are awkward or less standard"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "sagteware-ontw",
+    "locale": "af",
+    "cat": "af",
+    "intent": "Afrikaans: Sagteware-ontwikkelaar (software developer)",
+    "items": [
+     "Sagteware-ontwikkelaar",
+     "Sagteware-ontwerper",
+     "Sagteware-ontwikkelingsingenieur",
+     "Sagteware-ontwikkelingsbestuurder",
+     "Sagteware-ontwikkelingspesialis",
+     "Sagteware-ontwikkelingskonsultant"
+    ],
+    "first_ms": 453,
+    "total_ms": 690,
+    "usage": {
+     "prompt_tokens": 506,
+     "completion_tokens": 56,
+     "total_tokens": 562,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "inxhinier",
+    "locale": "sq",
+    "cat": "sq",
+    "intent": "Albanian: Inxhinier ... (engineer specialties)",
+    "items": [
+     "Inxhinier Softuerësh",
+     "Inxhinier Ndërtimi",
+     "Inxhinier Elektrik",
+     "Inxhinier Mekanik",
+     "Inxhinier Civil",
+     "Inxhinier i Telekomunikacionit"
+    ],
+    "first_ms": 499,
+    "total_ms": 717,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 48,
+     "total_tokens": 553,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "first title grammatically awkward"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "kontabil",
+    "locale": "sq",
+    "cat": "sq",
+    "intent": "Albanian: Kontabilist (accountant)",
+    "items": [
+     "Kontabilist",
+     "Kontabilist i Lartë",
+     "Kontabilist Financiar",
+     "Kontabilist i Tatimeve",
+     "Kontabilist i Menaxhimit",
+     "Kontabilist i Kostove"
+    ],
+    "first_ms": 424,
+    "total_ms": 658,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 42,
+     "total_tokens": 545,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "مطور برمج",
+    "locale": "ar",
+    "cat": "ar",
+    "intent": "Arabic: مطور برمجيات (software developer) variants",
+    "items": [
+     "مطور برمجيات",
+     "مطور برمجيات أول",
+     "مطور برمجة تطبيقات الويب",
+     "مطور برمجيات الواجهة الخلفية",
+     "مطور برمجيات الواجهة الأمامية",
+     "مطور تطبيقات الهاتف المحمول"
+    ],
+    "first_ms": 515,
+    "total_ms": 782,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 52,
+     "total_tokens": 557,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "اقتراح واحد بصياغة غير طبيعية"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "ممرض",
+    "locale": "ar",
+    "cat": "ar",
+    "intent": "Arabic: ممرض / ممرض قانوني (nurse) variants, masculine",
+    "items": [
+     "ممرض",
+     "ممرض مسجل",
+     "ممرض أول",
+     "ممرض طوارئ",
+     "ممرض عناية مركزة",
+     "ممرض عمليات"
+    ],
+    "first_ms": 473,
+    "total_ms": 696,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 31,
+     "total_tokens": 534,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "ծրագրավոր",
+    "locale": "hy",
+    "cat": "hy",
+    "intent": "Armenian: Ծրագրավորող (programmer) variants",
+    "items": [
+     "Ծրագրավորող",
+     "Ծրագրավորող-վերլուծաբան",
+     "Ծրագրավորող ինժեներ",
+     "Ծրագրավորող վեբ մշակող",
+     "Ծրագրավորող տվյալների բազաների",
+     "Ծրագրավորող հավելվածների"
+    ],
+    "first_ms": 511,
+    "total_ms": 753,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 54,
+     "total_tokens": 557,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 7,
+    "issue": "Some variants are awkward or nonstandard Armenian titles"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "հաշվապահ",
+    "locale": "hy",
+    "cat": "hy",
+    "intent": "Armenian: Հաշվապահ (accountant) variants",
+    "items": [
+     "Հաշվապահ",
+     "Գլխավոր հաշվապահ",
+     "Հաշվապահ-վերլուծաբան",
+     "Հարկային հաշվապահ",
+     "Աշխատավարձերի հաշվապահ",
+     "Կրտսեր հաշվապահ"
+    ],
+    "first_ms": 493,
+    "total_ms": 725,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 48,
+     "total_tokens": 551,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "proqramçı",
+    "locale": "az",
+    "cat": "az",
+    "intent": "Azerbaijani: Proqramçı (programmer) variants",
+    "items": [
+     "Proqramçı",
+     "Baş Proqramçı",
+     "Veb Proqramçı",
+     "Tətbiq Proqramçısı",
+     "Proqram Təminatı Proqramçısı",
+     "Sistem Proqramçısı"
+    ],
+    "first_ms": 504,
+    "total_ms": 709,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 42,
+     "total_tokens": 545,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "one awkward redundant title"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "mühasib",
+    "locale": "az",
+    "cat": "az",
+    "intent": "Azerbaijani: Mühasib (accountant) variants",
+    "items": [
+     "Mühasib",
+     "Baş mühasib",
+     "Maliyyə mühasibi",
+     "Vergi mühasibi",
+     "Mühasib köməkçisi",
+     "İdarəetmə mühasibi"
+    ],
+    "first_ms": 472,
+    "total_ms": 708,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 43,
+     "total_tokens": 547,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "সফটওয়্যার ইঞ্জি",
+    "locale": "bn",
+    "cat": "bn",
+    "intent": "Bengali: সফটওয়্যার ইঞ্জিনিয়ার (software engineer)",
+    "items": [
+     "সফটওয়্যার ইঞ্জিনিয়ার",
+     "সফটওয়্যার ইঞ্জিনিয়ারিং ম্যানেজার",
+     "সফটওয়্যার ইঞ্জিনিয়ারিং টেকনিশিয়ান",
+     "সফটওয়্যার ইঞ্জিনিয়ারিং আর্কিটেক্ট",
+     "সফটওয়্যার ইঞ্জিনিয়ারিং লিড",
+     "সফটওয়্যার ইঞ্জিনিয়ারিং ইন্টার্ন"
+    ],
+    "first_ms": 898,
+    "total_ms": 1215,
+    "usage": {
+     "prompt_tokens": 509,
+     "completion_tokens": 99,
+     "total_tokens": 608,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "first exact; some awkward nonstandard variants"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "হিসাবরক্ষ",
+    "locale": "bn",
+    "cat": "bn",
+    "intent": "Bengali: হিসাবরক্ষক (accountant)",
+    "items": [
+     "হিসাবরক্ষক",
+     "সিনিয়র হিসাবরক্ষক",
+     "জুনিয়র হিসাবরক্ষক",
+     "হিসাবরক্ষণ কর্মকর্তা",
+     "কর হিসাবরক্ষক",
+     "ব্যবস্থাপনা হিসাবরক্ষক"
+    ],
+    "first_ms": 566,
+    "total_ms": 827,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 54,
+     "total_tokens": 559,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "програмис",
+    "locale": "bg",
+    "cat": "bg",
+    "intent": "Bulgarian: Програмист variants",
+    "items": [
+     "Програмист",
+     "Програмист на софтуер",
+     "Програмист на приложения",
+     "Програмист на уеб приложения",
+     "Програмист на бази данни",
+     "Програмист на вградени системи"
+    ],
+    "first_ms": 549,
+    "total_ms": 781,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 55,
+     "total_tokens": 558,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "счетовод",
+    "locale": "bg",
+    "cat": "bg",
+    "intent": "Bulgarian: Счетоводител (accountant)",
+    "items": [
+     "Счетоводител",
+     "Главен счетоводител",
+     "Оперативен счетоводител",
+     "Старши счетоводител",
+     "Счетоводител ТРЗ",
+     "Счетоводител финансово отчитане"
+    ],
+    "first_ms": 489,
+    "total_ms": 715,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 52,
+     "total_tokens": 556,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "infermer",
+    "locale": "ca",
+    "cat": "ca",
+    "intent": "Catalan: Infermer / Infermera (nurse) variants",
+    "items": [
+     "Infermer",
+     "Infermer de Planta",
+     "Infermer d'Urgències",
+     "Infermer de Cures Intensives",
+     "Infermer de Quiròfan",
+     "Infermer Pediàtric"
+    ],
+    "first_ms": 530,
+    "total_ms": 723,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 39,
+     "total_tokens": 542,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "minor title-case capitalization issues"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "desenvolupador",
+    "locale": "ca",
+    "cat": "ca",
+    "intent": "Catalan: Desenvolupador de programari / web",
+    "items": [
+     "Desenvolupador de Programari",
+     "Desenvolupador Web",
+     "Desenvolupador Full Stack",
+     "Desenvolupador Front-End",
+     "Desenvolupador Back-End",
+     "Desenvolupador d’Aplicacions Mòbils"
+    ],
+    "first_ms": 739,
+    "total_ms": 967,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 50,
+     "total_tokens": 553,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "软件工",
+    "locale": "zh",
+    "cat": "zh",
+    "intent": "Chinese: 软件工程师 (software engineer) variants",
+    "items": [
+     "软件工程师",
+     "高级软件工程师",
+     "软件工程经理",
+     "软件工程实习生",
+     "软件工程技术负责人",
+     "软件工程架构师"
+    ],
+    "first_ms": 482,
+    "total_ms": 665,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 32,
+     "total_tokens": 535,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "会计",
+    "locale": "zh",
+    "cat": "zh",
+    "intent": "Chinese: 会计 / 会计师 / 财务会计 (accountant)",
+    "items": [
+     "会计",
+     "高级会计师",
+     "成本会计",
+     "管理会计",
+     "财务会计",
+     "税务会计"
+    ],
+    "first_ms": 555,
+    "total_ms": 704,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 28,
+     "total_tokens": 531,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "programe",
+    "locale": "hr",
+    "cat": "hr",
+    "intent": "Croatian: Programer variants",
+    "items": [
+     "Programer",
+     "Programer aplikacija",
+     "Programer web aplikacija",
+     "Programer softvera",
+     "Programer baza podataka",
+     "Programer mobilnih aplikacija"
+    ],
+    "first_ms": 458,
+    "total_ms": 655,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 34,
+     "total_tokens": 537,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "medicinska ses",
+    "locale": "hr",
+    "cat": "hr",
+    "intent": "Croatian: Medicinska sestra (nurse)",
+    "items": [
+     "Medicinska sestra",
+     "Medicinska sestra pripravnica",
+     "Medicinska sestra za intenzivnu njegu",
+     "Medicinska sestra na odjelu",
+     "Medicinska sestra u hitnoj službi",
+     "Medicinska sestra u operacijskoj sali"
+    ],
+    "first_ms": 514,
+    "total_ms": 762,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 56,
+     "total_tokens": 560,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "programát",
+    "locale": "cs",
+    "cat": "cs",
+    "intent": "Czech: Programátor variants",
+    "items": [
+     "Programátor",
+     "Programátor aplikací",
+     "Programátor webových aplikací",
+     "Programátor softwaru",
+     "Programátor databází",
+     "Programátor PLC"
+    ],
+    "first_ms": 460,
+    "total_ms": 628,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 32,
+     "total_tokens": 535,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "účetn",
+    "locale": "cs",
+    "cat": "cs",
+    "intent": "Czech: Účetní (accountant)",
+    "items": [
+     "Účetní",
+     "Účetní junior",
+     "Účetní senior",
+     "Účetní pro mzdy",
+     "Účetní analytik",
+     "Hlavní účetní"
+    ],
+    "first_ms": 488,
+    "total_ms": 643,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 35,
+     "total_tokens": 538,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "softwareudv",
+    "locale": "da",
+    "cat": "da",
+    "intent": "Danish: Softwareudvikler",
+    "items": [
+     "Softwareudvikler",
+     "Senior softwareudvikler",
+     "Fullstack-softwareudvikler",
+     "Backend-softwareudvikler",
+     "Frontend-softwareudvikler",
+     "Softwareudviklingsingeniør"
+    ],
+    "first_ms": 504,
+    "total_ms": 675,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 43,
+     "total_tokens": 547,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "sygeplej",
+    "locale": "da",
+    "cat": "da",
+    "intent": "Danish: Sygeplejerske (nurse)",
+    "items": [
+     "Sygeplejerske",
+     "Sygeplejerskeassistent",
+     "Sygeplejerske på hospital",
+     "Sygeplejerske i psykiatrien",
+     "Sygeplejerske i hjemmeplejen",
+     "Sygeplejerske på intensivafdeling"
+    ],
+    "first_ms": 594,
+    "total_ms": 1094,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 61,
+     "total_tokens": 566,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "some suggestions are descriptive phrases, not standard titles"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "projectlei",
+    "locale": "nl",
+    "cat": "nl",
+    "intent": "Dutch: Projectleider variants",
+    "items": [
+     "Projectleider",
+     "Projectleider Bouw",
+     "Projectleider Techniek",
+     "Projectleider IT",
+     "Projectleider Infrastructuur",
+     "Projectleider Installatietechniek"
+    ],
+    "first_ms": 762,
+    "total_ms": 974,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 32,
+     "total_tokens": 535,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "boekhoud",
+    "locale": "nl",
+    "cat": "nl",
+    "intent": "Dutch: Boekhouder (bookkeeper)",
+    "items": [
+     "Boekhouder",
+     "Boekhoudkundig medewerker",
+     "Boekhoudassistent",
+     "Boekhoudkundig specialist",
+     "Boekhoudkundig administrateur",
+     "Boekhoudkundig controller"
+    ],
+    "first_ms": 524,
+    "total_ms": 739,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 41,
+     "total_tokens": 544,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "tarkvaraar",
+    "locale": "et",
+    "cat": "et",
+    "intent": "Estonian: Tarkvaraarendaja (software developer)",
+    "items": [
+     "Tarkvaraarendaja",
+     "Tarkvaraarhitekt",
+     "Tarkvarainsener",
+     "Tarkvaratestija",
+     "Tarkvaraspetsialist",
+     "Tarkvaraprojektijuht"
+    ],
+    "first_ms": 474,
+    "total_ms": 653,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 43,
+     "total_tokens": 547,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "raamatupid",
+    "locale": "et",
+    "cat": "et",
+    "intent": "Estonian: Raamatupidaja (accountant)",
+    "items": [
+     "Raamatupidaja",
+     "Raamatupidamise spetsialist",
+     "Raamatupidamise assistent",
+     "Vanemraamatupidaja",
+     "Pearaamatupidaja",
+     "Raamatupidamisjuht"
+    ],
+    "first_ms": 780,
+    "total_ms": 1024,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 41,
+     "total_tokens": 545,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "inhinyero",
+    "locale": "fil",
+    "cat": "fil",
+    "intent": "Filipino: Inhinyero ... (engineer); English titles also acceptable since Filipino CVs commonly use English",
+    "items": [
+     "Inhinyero ng Software",
+     "Inhinyero Sibil",
+     "Inhinyero Elektrikal",
+     "Inhinyero Mekanikal",
+     "Inhinyero ng Industriya",
+     "Inhinyero ng Computer Science"
+    ],
+    "first_ms": 466,
+    "total_ms": 689,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 47,
+     "total_tokens": 551,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "some awkward or nonstandard Filipino titles"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "nars",
+    "locale": "fil",
+    "cat": "fil",
+    "intent": "Filipino: Nars (nurse); English 'Nurse' titles acceptable",
+    "items": [
+     "Nars NONE"
+    ],
+    "first_ms": 516,
+    "total_ms": 516,
+    "usage": {
+     "prompt_tokens": 502,
+     "completion_tokens": 6,
+     "total_tokens": 508,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 2,
+    "issue": "malformed title with extraneous NONE"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "ohjelmistokeh",
+    "locale": "fi",
+    "cat": "fi",
+    "intent": "Finnish: Ohjelmistokehittäjä (software developer)",
+    "items": [
+     "Ohjelmistokehittäjä",
+     "Ohjelmistokehitysinsinööri",
+     "Ohjelmistokehittäjä (backend)",
+     "Ohjelmistokehittäjä (frontend)",
+     "Ohjelmistokehittäjä (full stack)",
+     "Ohjelmistokehittäjä (mobiilisovellukset)"
+    ],
+    "first_ms": 452,
+    "total_ms": 787,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 62,
+     "total_tokens": 566,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "sairaanhoit",
+    "locale": "fi",
+    "cat": "fi",
+    "intent": "Finnish: Sairaanhoitaja (nurse)",
+    "items": [
+     "Sairaanhoitaja",
+     "Sairaanhoitajaopiskelija",
+     "Sairaanhoitajan sijainen",
+     "Sairaanhoitaja, päivystys",
+     "Sairaanhoitaja, tehohoito",
+     "Sairaanhoitaja, leikkaussali"
+    ],
+    "first_ms": 697,
+    "total_ms": 952,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 63,
+     "total_tokens": 567,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "aide-soign",
+    "locale": "fr",
+    "cat": "fr",
+    "intent": "French: Aide-soignant(e)",
+    "items": [
+     "Aide-soignant",
+     "Aide-soignante",
+     "Aide-soignant en gériatrie",
+     "Aide-soignant en EHPAD",
+     "Aide-soignant en milieu hospitalier",
+     "Aide-soignant à domicile"
+    ],
+    "first_ms": 529,
+    "total_ms": 742,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 48,
+     "total_tokens": 552,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "développeur fu",
+    "locale": "fr",
+    "cat": "fr",
+    "intent": "French: Développeur Full Stack",
+    "items": [
+     "Développeur Full Stack",
+     "Développeur Full-Stack Senior",
+     "Développeur Front-End",
+     "Développeur Back-End",
+     "Développeur Full Stack JavaScript",
+     "Développeur Full Stack Web"
+    ],
+    "first_ms": 578,
+    "total_ms": 827,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 49,
+     "total_tokens": 553,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "some suggestions do not complete 'fu'"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "პროგრამის",
+    "locale": "ka",
+    "cat": "ka",
+    "intent": "Georgian: პროგრამისტი (programmer)",
+    "items": [
+     "პროგრამისტი",
+     "პროგრამული უზრუნველყოფის ინჟინერი",
+     "პროგრამული უზრუნველყოფის დეველოპერი",
+     "პროგრამული უზრუნველყოფის არქიტექტორი",
+     "პროგრამული უზრუნველყოფის ტესტერი",
+     "პროგრამული უზრუნველყოფის კონსულტანტი"
+    ],
+    "first_ms": 490,
+    "total_ms": 927,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 65,
+     "total_tokens": 568,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "ბუღალტ",
+    "locale": "ka",
+    "cat": "ka",
+    "intent": "Georgian: ბუღალტერი (accountant)",
+    "items": [
+     "ბუღალტერი",
+     "ბუღალტრის ასისტენტი",
+     "უფროსი ბუღალტერი",
+     "მთავარი ბუღალტერი",
+     "ბუღალტერი-კონსულტანტი",
+     "ბუღალტერი-აუდიტორი"
+    ],
+    "first_ms": 407,
+    "total_ms": 661,
+    "usage": {
+     "prompt_tokens": 506,
+     "completion_tokens": 63,
+     "total_tokens": 569,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "buchhalt",
+    "locale": "de",
+    "cat": "de",
+    "intent": "German: Buchhalter(in) variants",
+    "items": [
+     "Buchhalter",
+     "Buchhaltungsassistent",
+     "Buchhaltungsfachkraft",
+     "Buchhaltungsleiter",
+     "Buchhaltungsmitarbeiter",
+     "Buchhaltungscontroller"
+    ],
+    "first_ms": 600,
+    "total_ms": 802,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 39,
+     "total_tokens": 542,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "erzieh",
+    "locale": "de",
+    "cat": "de",
+    "intent": "German: Erzieher(in) (childcare educator)",
+    "items": [
+     "Erzieher",
+     "Erzieher im Anerkennungsjahr",
+     "Erzieher für Jugendhilfe",
+     "Erzieher im Kindergarten",
+     "Erzieher für Heimerziehung",
+     "Erzieher für Sozialpädagogik"
+    ],
+    "first_ms": 439,
+    "total_ms": 698,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 45,
+     "total_tokens": 548,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 7,
+    "issue": "Missing feminine form; several awkward nonstandard specializations"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "προγραμματισ",
+    "locale": "el",
+    "cat": "el",
+    "intent": "Greek: Προγραμματιστής (programmer)",
+    "items": [
+     "Προγραμματιστής",
+     "Προγραμματιστής Λογισμικού",
+     "Προγραμματιστής Ιστού",
+     "Προγραμματιστής Εφαρμογών",
+     "Προγραμματιστής Backend",
+     "Προγραμματιστής Frontend"
+    ],
+    "first_ms": 521,
+    "total_ms": 762,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 60,
+     "total_tokens": 564,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "λογιστ",
+    "locale": "el",
+    "cat": "el",
+    "intent": "Greek: Λογιστής (accountant)",
+    "items": [
+     "Λογιστής",
+     "Λογίστρια",
+     "Λογιστής Μισθοδοσίας",
+     "Λογιστής Φοροτεχνικός",
+     "Λογιστής Κοστολόγησης",
+     "Λογιστής Ελεγκτής"
+    ],
+    "first_ms": 539,
+    "total_ms": 811,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 54,
+     "total_tokens": 559,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "מפתח תוכ",
+    "locale": "he",
+    "cat": "he",
+    "intent": "Hebrew: מפתח תוכנה (software developer)",
+    "items": [
+     "מפתח תוכנה",
+     "מפתח תוכנה בכיר",
+     "מפתח תוכנה זוטר",
+     "מפתח תוכנה למובייל",
+     "מפתח תוכנה Full Stack",
+     "מפתח תוכנה Backend"
+    ],
+    "first_ms": 579,
+    "total_ms": 785,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 42,
+     "total_tokens": 546,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "mixed English in some Hebrew titles"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "רואה חש",
+    "locale": "he",
+    "cat": "he",
+    "intent": "Hebrew: רואה חשבון (accountant / CPA)",
+    "items": [
+     "רואה חשבון",
+     "רואה חשבון בכיר",
+     "רואה חשבון מוסמך",
+     "רואה חשבון מבקר",
+     "רואה חשבון פיננסי",
+     "רואה חשבון ניהולי"
+    ],
+    "first_ms": 510,
+    "total_ms": 695,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 44,
+     "total_tokens": 548,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "सॉफ्टवेयर इंजी",
+    "locale": "hi",
+    "cat": "hi",
+    "intent": "Hindi: सॉफ्टवेयर इंजीनियर (software engineer)",
+    "items": [
+     "सॉफ्टवेयर इंजीनियर",
+     "वरिष्ठ सॉफ्टवेयर इंजीनियर",
+     "सॉफ्टवेयर इंजीनियरिंग लीड",
+     "सॉफ्टवेयर एप्लिकेशन इंजीनियर",
+     "सॉफ्टवेयर सिस्टम इंजीनियर",
+     "सॉफ्टवेयर टेस्ट इंजीनियर"
+    ],
+    "first_ms": 570,
+    "total_ms": 813,
+    "usage": {
+     "prompt_tokens": 507,
+     "completion_tokens": 61,
+     "total_tokens": 568,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "लेखाका",
+    "locale": "hi",
+    "cat": "hi",
+    "intent": "Hindi: लेखाकार (accountant)",
+    "items": [
+     "लेखाकार",
+     "लेखाकार सहायक",
+     "वरिष्ठ लेखाकार",
+     "प्रमाणित लेखाकार",
+     "कर लेखाकार",
+     "प्रबंधन लेखाकार"
+    ],
+    "first_ms": 483,
+    "total_ms": 669,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 33,
+     "total_tokens": 536,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "szoftverfejl",
+    "locale": "hu",
+    "cat": "hu",
+    "intent": "Hungarian: Szoftverfejlesztő",
+    "items": [
+     "Szoftverfejlesztő",
+     "Szoftverfejlesztő mérnök",
+     "Szoftverfejlesztési vezető",
+     "Szoftverfejlesztési szakértő",
+     "Szoftverfejlesztő gyakornok",
+     "Szoftverfejlesztési projektmenedzser"
+    ],
+    "first_ms": 709,
+    "total_ms": 968,
+    "usage": {
+     "prompt_tokens": 507,
+     "completion_tokens": 72,
+     "total_tokens": 579,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "könyvel",
+    "locale": "hu",
+    "cat": "hu",
+    "intent": "Hungarian: Könyvelő (accountant)",
+    "items": [
+     "Könyvelő",
+     "Könyvelési ügyintéző",
+     "Könyvelési szakértő",
+     "Könyvelési vezető",
+     "Könyvelő asszisztens",
+     "Könyvelési munkatárs"
+    ],
+    "first_ms": 456,
+    "total_ms": 720,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 54,
+     "total_tokens": 557,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "hjúkrunarfr",
+    "locale": "is",
+    "cat": "is",
+    "intent": "Icelandic: Hjúkrunarfræðingur (nurse)",
+    "items": [
+     "Hjúkrunarfræðingur",
+     "Hjúkrunarfræðingur á bráðamóttöku",
+     "Hjúkrunarfræðingur á gjörgæslu",
+     "Hjúkrunarfræðingur á skurðdeild",
+     "Hjúkrunarfræðingur í heimahjúkrun",
+     "Hjúkrunarfræðingur á öldrunardeild"
+    ],
+    "first_ms": 702,
+    "total_ms": 1095,
+    "usage": {
+     "prompt_tokens": 506,
+     "completion_tokens": 79,
+     "total_tokens": 585,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "bókar",
+    "locale": "is",
+    "cat": "is",
+    "intent": "Icelandic: Bókari (bookkeeper)",
+    "items": [
+     "Bókari",
+     "Bókarastjóri",
+     "Bókari viðskiptadeildar",
+     "Bókari launadeildar",
+     "Bókari viðskiptamannadeildar",
+     "Bókari fjármáladeildar"
+    ],
+    "first_ms": 577,
+    "total_ms": 911,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 53,
+     "total_tokens": 556,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "akunt",
+    "locale": "id",
+    "cat": "id",
+    "intent": "Indonesian: Akuntan (accountant)",
+    "items": [
+     "Akuntan",
+     "Akuntan Senior",
+     "Akuntan Publik",
+     "Akuntan Pajak",
+     "Akuntan Keuangan",
+     "Akuntan Manajemen"
+    ],
+    "first_ms": 532,
+    "total_ms": 751,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 35,
+     "total_tokens": 538,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "pengembang perang",
+    "locale": "id",
+    "cat": "id",
+    "intent": "Indonesian: Pengembang Perangkat Lunak (software developer)",
+    "items": [
+     "Pengembang Perangkat Lunak",
+     "Pengembang Perangkat Keras",
+     "Pengembang Perangkat Seluler",
+     "Pengembang Perangkat Lunak Senior",
+     "Pengembang Perangkat Lunak Backend",
+     "Pengembang Perangkat Lunak Full Stack"
+    ],
+    "first_ms": 496,
+    "total_ms": 694,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 48,
+     "total_tokens": 552,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "commerc",
+    "locale": "it",
+    "cat": "it",
+    "intent": "Italian: Commercialista / Commerciale",
+    "items": [
+     "Commercialista",
+     "Commerciale",
+     "Commerciante",
+     "Commercialista Junior",
+     "Commerciale Estero",
+     "Commerciale B2B"
+    ],
+    "first_ms": 628,
+    "total_ms": 801,
+    "usage": {
+     "prompt_tokens": 502,
+     "completion_tokens": 27,
+     "total_tokens": 529,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "ingegnere mecc",
+    "locale": "it",
+    "cat": "it",
+    "intent": "Italian: Ingegnere Meccanico",
+    "items": [
+     "Ingegnere meccanico",
+     "Ingegnere meccanico senior",
+     "Ingegnere meccanico progettista",
+     "Ingegnere meccanico di produzione",
+     "Ingegnere meccanico dell’automazione",
+     "Ingegnere meccanico per la ricerca e sviluppo"
+    ],
+    "first_ms": 692,
+    "total_ms": 904,
+    "usage": {
+     "prompt_tokens": 506,
+     "completion_tokens": 64,
+     "total_tokens": 570,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "ソフトウェアエン",
+    "locale": "ja",
+    "cat": "ja",
+    "intent": "Japanese: ソフトウェアエンジニア",
+    "items": [
+     "ソフトウェアエンジニア",
+     "ソフトウェアエンジニア（シニア）",
+     "ソフトウェアエンジニア（バックエンド）",
+     "ソフトウェアエンジニア（フロントエンド）",
+     "ソフトウェアエンジニア（モバイルアプリ）",
+     "ソフトウェアエンジニア（組み込み）"
+    ],
+    "first_ms": 649,
+    "total_ms": 974,
+    "usage": {
+     "prompt_tokens": 507,
+     "completion_tokens": 87,
+     "total_tokens": 594,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "看護",
+    "locale": "ja",
+    "cat": "ja",
+    "intent": "Japanese: 看護師 (nurse) variants",
+    "items": [
+     "看護師",
+     "看護主任",
+     "看護師長",
+     "看護助手",
+     "看護教員",
+     "看護管理者"
+    ],
+    "first_ms": 571,
+    "total_ms": 712,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 29,
+     "total_tokens": 532,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "бағдарлама",
+    "locale": "kk",
+    "cat": "kk",
+    "intent": "Kazakh: Бағдарламашы (programmer)",
+    "items": [
+     "Бағдарламашы",
+     "Бағдарламалық жасақтама инженері",
+     "Бағдарламалық жасақтама әзірлеушісі",
+     "Бағдарлама жасаушы",
+     "Бағдарлама әкімшісі",
+     "Бағдарлама тестілеушісі"
+    ],
+    "first_ms": 583,
+    "total_ms": 909,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 61,
+     "total_tokens": 564,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "some titles less standard"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "есепші",
+    "locale": "kk",
+    "cat": "kk",
+    "intent": "Kazakh: Есепші (accountant)",
+    "items": [
+     "Бухгалтер",
+     "Бас бухгалтер",
+     "Бухгалтер-экономист",
+     "Бухгалтер-кассир",
+     "Бухгалтер-аудитор",
+     "Басқарушы бухгалтер"
+    ],
+    "first_ms": 481,
+    "total_ms": 691,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 38,
+     "total_tokens": 541,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 6,
+    "issue": "Expected Есепші first; mostly Russian-style titles"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "គណនេយ្យ",
+    "locale": "km",
+    "cat": "km",
+    "intent": "Khmer: គណនេយ្យករ (accountant)",
+    "items": [
+     "គណនេយ្យករ",
+     "គណនេយ្យករជាន់ខ្ពស់",
+     "អ្នកគ្រប់គ្រងគណនេយ្យ",
+     "ជំនួយការគណនេយ្យ",
+     "អ្នកវិភាគហិរញ្ញវត្ថុ",
+     "អ្នករៀបចំរបាយការណ៍ហិរញ្ញវត្ថុ"
+    ],
+    "first_ms": 528,
+    "total_ms": 879,
+    "usage": {
+     "prompt_tokens": 507,
+     "completion_tokens": 86,
+     "total_tokens": 593,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "វិស្វករ",
+    "locale": "km",
+    "cat": "km",
+    "intent": "Khmer: វិស្វករ ... (engineer specialties)",
+    "items": [
+     "វិស្វករកម្មវិធី",
+     "វិស្វករសំណង់",
+     "វិស្វករមេកានិក",
+     "វិស្វករអគ្គិសនី",
+     "វិស្វករអេឡិចត្រូនិក",
+     "វិស្វករបរិស្ថាន"
+    ],
+    "first_ms": 695,
+    "total_ms": 982,
+    "usage": {
+     "prompt_tokens": 506,
+     "completion_tokens": 68,
+     "total_tokens": 574,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "소프트웨어 개",
+    "locale": "ko",
+    "cat": "ko",
+    "intent": "Korean: 소프트웨어 개발자",
+    "items": [
+     "소프트웨어 개발자",
+     "소프트웨어 개발 엔지니어",
+     "소프트웨어 개발 책임자",
+     "소프트웨어 개발 관리자",
+     "소프트웨어 개발 연구원",
+     "소프트웨어 개발 전문가"
+    ],
+    "first_ms": 611,
+    "total_ms": 809,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 43,
+     "total_tokens": 548,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "간호",
+    "locale": "ko",
+    "cat": "ko",
+    "intent": "Korean: 간호사 (nurse)",
+    "items": [
+     "간호사",
+     "간호조무사",
+     "간호 관리자",
+     "간호 연구원",
+     "간호 교육자",
+     "간호 코디네이터"
+    ],
+    "first_ms": 416,
+    "total_ms": 596,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 33,
+     "total_tokens": 536,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "programmētā",
+    "locale": "lv",
+    "cat": "lv",
+    "intent": "Latvian: Programmētājs",
+    "items": [
+     "Programmētājs",
+     "Programmētāja",
+     "Vecākais programmētājs",
+     "Vecākā programmētāja",
+     "Programmētājs-analītiķis",
+     "Programmētājs-izstrādātājs"
+    ],
+    "first_ms": 526,
+    "total_ms": 751,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 48,
+     "total_tokens": 552,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "grāmatved",
+    "locale": "lv",
+    "cat": "lv",
+    "intent": "Latvian: Grāmatvedis (accountant)",
+    "items": [
+     "Grāmatvedis",
+     "Grāmatvede",
+     "Grāmatvedības speciālists",
+     "Grāmatvedības vadītājs",
+     "Galvenais grāmatvedis",
+     "Grāmatvedības asistents"
+    ],
+    "first_ms": 767,
+    "total_ms": 963,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 49,
+     "total_tokens": 554,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "programuoto",
+    "locale": "lt",
+    "cat": "lt",
+    "intent": "Lithuanian: Programuotojas",
+    "items": [
+     "Programuotojas",
+     "Programuotoja",
+     "Programuotojas stažuotojas",
+     "Programuotojas praktikantas",
+     "Programuotojas analitikas",
+     "Programuotojas testuotojas"
+    ],
+    "first_ms": 615,
+    "total_ms": 817,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 45,
+     "total_tokens": 548,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "buhalter",
+    "locale": "lt",
+    "cat": "lt",
+    "intent": "Lithuanian: Buhalteris (accountant)",
+    "items": [
+     "Buhalteris",
+     "Buhalterė",
+     "Vyresnysis buhalteris",
+     "Vyriausiasis buhalteris",
+     "Buhalterio padėjėjas",
+     "Buhalteris apskaitininkas"
+    ],
+    "first_ms": 548,
+    "total_ms": 782,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 48,
+     "total_tokens": 551,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "jurutera per",
+    "locale": "ms",
+    "cat": "ms",
+    "intent": "Malay: Jurutera Perisian (software engineer)",
+    "items": [
+     "Jurutera Perisian",
+     "Jurutera Perkakasan",
+     "Jurutera Perhubungan",
+     "Jurutera Perkhidmatan",
+     "Jurutera Perlombongan",
+     "Jurutera Perancangan"
+    ],
+    "first_ms": 610,
+    "total_ms": 761,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 46,
+     "total_tokens": 551,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "akauntan",
+    "locale": "ms",
+    "cat": "ms",
+    "intent": "Malay: Akauntan (accountant)",
+    "items": [
+     "Akauntan",
+     "Akauntan Kanan",
+     "Akauntan Kewangan",
+     "Akauntan Pengurusan",
+     "Akauntan Cukai",
+     "Akauntan Audit"
+    ],
+    "first_ms": 556,
+    "total_ms": 706,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 43,
+     "total_tokens": 547,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "għalliem",
+    "locale": "mt",
+    "cat": "mt",
+    "intent": "Maltese: Għalliem / Għalliema (teacher)",
+    "items": [
+     "Għalliem",
+     "Għalliem tal-Iskejjel Primarji",
+     "Għalliem tal-Iskejjel Sekondarji",
+     "Għalliem tal-Informatika",
+     "Għalliem tal-Ingliż",
+     "Għalliem tal-Matematika"
+    ],
+    "first_ms": 614,
+    "total_ms": 910,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 59,
+     "total_tokens": 562,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "infermier",
+    "locale": "mt",
+    "cat": "mt",
+    "intent": "Maltese: Infermier / Infermiera (nurse)",
+    "items": [
+     "Infermier",
+     "Infermier Anzjan",
+     "Infermier tal-Kura Intensiva",
+     "Infermier tal-Emerġenza",
+     "Infermier tal-Pedjatrija",
+     "Infermier tal-Kamra tal-Operazzjonijiet"
+    ],
+    "first_ms": 608,
+    "total_ms": 1117,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 47,
+     "total_tokens": 550,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "програмист",
+    "locale": "mn",
+    "cat": "mn",
+    "intent": "Mongolian: Программист / Програм хангамжийн инженер",
+    "items": [
+     "Программист",
+     "Ведущий программист",
+     "Программист-разработчик",
+     "Веб-программист",
+     "Программист 1С",
+     "Программист-тестировщик"
+    ],
+    "first_ms": 403,
+    "total_ms": 586,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 46,
+     "total_tokens": 550,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 3,
+    "issue": "mostly Russian, not Mongolian titles"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "нягтлан",
+    "locale": "mn",
+    "cat": "mn",
+    "intent": "Mongolian: Нягтлан бодогч (accountant)",
+    "items": [
+     "нягтлан бодогч",
+     "нягтлан бодогчийн туслах",
+     "ахлах нягтлан бодогч",
+     "ерөнхий нягтлан бодогч",
+     "татварын нягтлан бодогч",
+     "санхүүгийн нягтлан бодогч"
+    ],
+    "first_ms": 679,
+    "total_ms": 900,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 64,
+     "total_tokens": 569,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "sykeplei",
+    "locale": "no",
+    "cat": "no",
+    "intent": "Norwegian: Sykepleier (nurse)",
+    "items": [
+     "Sykepleier",
+     "Sykepleierstudent",
+     "Sykepleieassistent",
+     "Sykepleier ved sykehjem",
+     "Sykepleier i hjemmetjenesten",
+     "Sykepleier på sykehus"
+    ],
+    "first_ms": 474,
+    "total_ms": 701,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 48,
+     "total_tokens": 553,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "regnskapsf",
+    "locale": "no",
+    "cat": "no",
+    "intent": "Norwegian: Regnskapsfører (accountant)",
+    "items": [
+     "Regnskapsfører",
+     "Regnskapsførerkonsulent",
+     "Regnskapsføringsmedarbeider",
+     "Regnskapsfaglig rådgiver",
+     "Regnskapsansvarlig",
+     "Regnskapsleder"
+    ],
+    "first_ms": 592,
+    "total_ms": 775,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 45,
+     "total_tokens": 550,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "some suggestions do not complete typed prefix"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "برنامه نو",
+    "locale": "fa",
+    "cat": "fa",
+    "intent": "Persian: برنامه نویس (programmer)",
+    "items": [
+     "برنامه‌نویس",
+     "برنامه‌نویس ارشد",
+     "برنامه‌نویس وب",
+     "برنامه‌نویس بک‌اند",
+     "برنامه‌نویس فرانت‌اند",
+     "برنامه‌نویس موبایل"
+    ],
+    "first_ms": 598,
+    "total_ms": 815,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 54,
+     "total_tokens": 557,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "حسابدا",
+    "locale": "fa",
+    "cat": "fa",
+    "intent": "Persian: حسابدار (accountant)",
+    "items": [
+     "حسابدار",
+     "حسابدار ارشد",
+     "حسابدار مالی",
+     "حسابدار صنعتی",
+     "حسابدار حقوق و دستمزد",
+     "حسابدار رسمی"
+    ],
+    "first_ms": 491,
+    "total_ms": 650,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 36,
+     "total_tokens": 539,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "księgow",
+    "locale": "pl",
+    "cat": "pl",
+    "intent": "Polish: Księgowa / Księgowy",
+    "items": [
+     "Księgowy",
+     "Księgowa",
+     "Księgowy bilansista",
+     "Księgowy podatkowy",
+     "Księgowy zarządczy",
+     "Księgowy ds. zobowiązań"
+    ],
+    "first_ms": 772,
+    "total_ms": 1030,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 49,
+     "total_tokens": 553,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "kierowca",
+    "locale": "pl",
+    "cat": "pl",
+    "intent": "Polish: Kierowca ... (driver titles)",
+    "items": [
+     "Kierowca samochodu ciężarowego",
+     "Kierowca autobusu",
+     "Kierowca samochodu dostawczego",
+     "Kierowca zawodowy",
+     "Kierowca międzynarodowy",
+     "Kierowca taksówki"
+    ],
+    "first_ms": 624,
+    "total_ms": 871,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 55,
+     "total_tokens": 559,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "desenvolvedor",
+    "locale": "pt-BR",
+    "cat": "pt-BR",
+    "intent": "Brazilian Portuguese: Desenvolvedor (Front-end, Back-end...)",
+    "items": [
+     "Desenvolvedor de Software",
+     "Desenvolvedor Web",
+     "Desenvolvedor Full Stack",
+     "Desenvolvedor Front-End",
+     "Desenvolvedor Back-End",
+     "Desenvolvedor de Aplicativos Móveis"
+    ],
+    "first_ms": 571,
+    "total_ms": 793,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 40,
+     "total_tokens": 545,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "auxiliar adm",
+    "locale": "pt-BR",
+    "cat": "pt-BR",
+    "intent": "Brazilian Portuguese: Auxiliar Administrativo",
+    "items": [
+     "Auxiliar Administrativo",
+     "Auxiliar Administrativo Financeiro",
+     "Auxiliar Administrativo de Recursos Humanos",
+     "Auxiliar Administrativo de Vendas",
+     "Auxiliar Administrativo Escolar",
+     "Auxiliar Administrativo de Logística"
+    ],
+    "first_ms": 472,
+    "total_ms": 667,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 38,
+     "total_tokens": 543,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "programad",
+    "locale": "pt-PT",
+    "cat": "pt-PT",
+    "intent": "European Portuguese: Programador (pt-PT term, not 'Desenvolvedor')",
+    "items": [
+     "Programador",
+     "Programador de Software",
+     "Programador Web",
+     "Programador de Aplicações",
+     "Programador Backend",
+     "Programador Frontend"
+    ],
+    "first_ms": 694,
+    "total_ms": 826,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 29,
+     "total_tokens": 534,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "rececionis",
+    "locale": "pt-PT",
+    "cat": "pt-PT",
+    "intent": "European Portuguese: Rececionista (pt-PT spelling)",
+    "items": [
+     "Rececionista",
+     "Rececionista de Hotel",
+     "Rececionista de Clínica",
+     "Rececionista Administrativo",
+     "Rececionista de Atendimento ao Cliente",
+     "Rececionista de Spa"
+    ],
+    "first_ms": 585,
+    "total_ms": 786,
+    "usage": {
+     "prompt_tokens": 506,
+     "completion_tokens": 37,
+     "total_tokens": 543,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "programat",
+    "locale": "ro",
+    "cat": "ro",
+    "intent": "Romanian: Programator",
+    "items": [
+     "Programator",
+     "Programator de aplicații",
+     "Programator software",
+     "Programator web",
+     "Programator backend",
+     "Programator frontend"
+    ],
+    "first_ms": 522,
+    "total_ms": 644,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 27,
+     "total_tokens": 530,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "contab",
+    "locale": "ro",
+    "cat": "ro",
+    "intent": "Romanian: Contabil (accountant)",
+    "items": [
+     "Contabil",
+     "Contabil Senior",
+     "Contabil Junior",
+     "Contabilitate Financiară",
+     "Contabil Șef",
+     "Contabilitate de Gestiune"
+    ],
+    "first_ms": 512,
+    "total_ms": 692,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 33,
+     "total_tokens": 536,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "some suggestions are fields, not job titles"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "бухгалт",
+    "locale": "ru",
+    "cat": "ru",
+    "intent": "Russian: Бухгалтер variants",
+    "items": [
+     "Бухгалтер",
+     "Бухгалтер-кассир",
+     "Бухгалтер по заработной плате",
+     "Главный бухгалтер",
+     "Бухгалтер по налогам",
+     "Бухгалтер по управленческому учёту"
+    ],
+    "first_ms": 451,
+    "total_ms": 684,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 46,
+     "total_tokens": 550,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "разработчик",
+    "locale": "ru",
+    "cat": "ru",
+    "intent": "Russian: Разработчик ... (software developer titles)",
+    "items": [
+     "Разработчик программного обеспечения",
+     "Веб-разработчик",
+     "Разработчик мобильных приложений",
+     "Frontend-разработчик",
+     "Backend-разработчик",
+     "Fullstack-разработчик"
+    ],
+    "first_ms": 495,
+    "total_ms": 669,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 39,
+     "total_tokens": 542,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "programe",
+    "locale": "sr",
+    "cat": "sr",
+    "intent": "Serbian (Latin script): Programer",
+    "items": [
+     "Programer",
+     "Programer softvera",
+     "Programer veb aplikacija",
+     "Programer mobilnih aplikacija",
+     "Programer ugradbenih sistema",
+     "Programer baza podataka"
+    ],
+    "first_ms": 633,
+    "total_ms": 825,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 38,
+     "total_tokens": 541,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "računovođ",
+    "locale": "sr",
+    "cat": "sr",
+    "intent": "Serbian (Latin script): Računovođa (accountant)",
+    "items": [
+     "Računovođa",
+     "Računovođa za poreze",
+     "Računovođa za finansijsko izveštavanje",
+     "Računovođa za obračun zarada",
+     "Glavni računovođa",
+     "Računovođa u reviziji"
+    ],
+    "first_ms": 483,
+    "total_ms": 740,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 59,
+     "total_tokens": 563,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "one suggestion does not start with typed prefix"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "programe",
+    "locale": "sl",
+    "cat": "sl",
+    "intent": "Slovenian: Programer",
+    "items": [
+     "Programer",
+     "Programski inženir",
+     "Programer spletnih aplikacij",
+     "Programer mobilnih aplikacij",
+     "Programer programske opreme",
+     "Programer podatkovnih baz"
+    ],
+    "first_ms": 473,
+    "total_ms": 648,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 39,
+     "total_tokens": 542,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "medicinska ses",
+    "locale": "sl",
+    "cat": "sl",
+    "intent": "Slovenian: Medicinska sestra (nurse)",
+    "items": [
+     "Medicinska sestra",
+     "Višja medicinska sestra",
+     "Diplomirana medicinska sestra",
+     "Otroška medicinska sestra",
+     "Patronažna medicinska sestra",
+     "Operacijska medicinska sestra"
+    ],
+    "first_ms": 475,
+    "total_ms": 694,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 47,
+     "total_tokens": 551,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "auxiliar de enf",
+    "locale": "es",
+    "cat": "es",
+    "intent": "Spanish: Auxiliar de Enfermería",
+    "items": [
+     "Auxiliar de Enfermería",
+     "Auxiliar de Enfermería Geriátrica",
+     "Auxiliar de Enfermería Hospitalaria",
+     "Auxiliar de Enfermería Pediátrica",
+     "Auxiliar de Enfermería de Quirófano",
+     "Auxiliar de Enfermería de Urgencias"
+    ],
+    "first_ms": 581,
+    "total_ms": 857,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 56,
+     "total_tokens": 560,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "camarer",
+    "locale": "es",
+    "cat": "es",
+    "intent": "Spanish: Camarero / Camarera (waiter)",
+    "items": [
+     "Camarero",
+     "Camarera",
+     "Camarero de Sala",
+     "Camarero de Barra",
+     "Camarero de Restaurante",
+     "Camarero de Hotel"
+    ],
+    "first_ms": 584,
+    "total_ms": 742,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 34,
+     "total_tokens": 537,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "sjuksköt",
+    "locale": "sv",
+    "cat": "sv",
+    "intent": "Swedish: Sjuksköterska (nurse)",
+    "items": [
+     "Sjukskötare",
+     "Sjukskötare inom akutsjukvård",
+     "Sjukskötare inom intensivvård",
+     "Sjukskötare inom psykiatri",
+     "Sjukskötare inom primärvård",
+     "Sjukskötare inom geriatrik"
+    ],
+    "first_ms": 437,
+    "total_ms": 684,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 61,
+     "total_tokens": 565,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 5,
+    "issue": "Expected Sjuksköterska; suggestions use Sjukskötare"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "systemutveck",
+    "locale": "sv",
+    "cat": "sv",
+    "intent": "Swedish: Systemutvecklare",
+    "items": [
+     "Systemutvecklare",
+     "Senior systemutvecklare",
+     "Junior systemutvecklare",
+     "Fullstack-systemutvecklare",
+     "Backend-systemutvecklare",
+     "Frontend-systemutvecklare"
+    ],
+    "first_ms": 472,
+    "total_ms": 683,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 44,
+     "total_tokens": 548,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "барномасоз",
+    "locale": "tg",
+    "cat": "tg",
+    "intent": "Tajik: Барномасоз (programmer)",
+    "items": [
+     "Барномасози нармафзор",
+     "Барномасози веб",
+     "Барномасози барномаҳои мобилӣ",
+     "Барномасози пешина",
+     "Барномасози ақибгоҳ",
+     "Барномасози системаҳои дарунсохт"
+    ],
+    "first_ms": 689,
+    "total_ms": 935,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 55,
+     "total_tokens": 560,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "missing generic title; some terms awkward"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "муҳосиб",
+    "locale": "tg",
+    "cat": "tg",
+    "intent": "Tajik: Муҳосиб (accountant)",
+    "items": [
+     "Муҳосиб",
+     "Сармуҳосиб",
+     "Муҳосиби калон",
+     "Муҳосиби андоз",
+     "Муҳосиби молиявӣ",
+     "Муҳосиби идоракунӣ"
+    ],
+    "first_ms": 437,
+    "total_ms": 639,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 44,
+     "total_tokens": 548,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "วิศวกรซอฟต์",
+    "locale": "th",
+    "cat": "th",
+    "intent": "Thai: วิศวกรซอฟต์แวร์ (software engineer)",
+    "items": [
+     "วิศวกรซอฟต์แวร์",
+     "วิศวกรซอฟต์แวร์อาวุโส",
+     "วิศวกรซอฟต์แวร์เว็บ",
+     "วิศวกรซอฟต์แวร์ระบบ",
+     "วิศวกรซอฟต์แวร์ฝังตัว",
+     "วิศวกรซอฟต์แวร์ทดสอบ"
+    ],
+    "first_ms": 501,
+    "total_ms": 828,
+    "usage": {
+     "prompt_tokens": 508,
+     "completion_tokens": 81,
+     "total_tokens": 589,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "minor awkward phrasing in some variants"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "พยาบา",
+    "locale": "th",
+    "cat": "th",
+    "intent": "Thai: พยาบาล (nurse)",
+    "items": [
+     "พยาบาล",
+     "พยาบาลวิชาชีพ",
+     "พยาบาลวิชาชีพอาวุโส",
+     "พยาบาลห้องฉุกเฉิน",
+     "พยาบาลหอผู้ป่วยหนัก",
+     "พยาบาลห้องผ่าตัด"
+    ],
+    "first_ms": 566,
+    "total_ms": 855,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 63,
+     "total_tokens": 568,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "satış tem",
+    "locale": "tr",
+    "cat": "tr",
+    "intent": "Turkish: Satış Temsilcisi",
+    "items": [
+     "Satış Temsilcisi",
+     "Satış Temsilcisi Yardımcısı",
+     "Satış Temsilcisi Kıdemli",
+     "Satış Temsilcisi Takım Lideri",
+     "Satış Temsilcisi İç Satış",
+     "Satış Temsilcisi Saha Satış"
+    ],
+    "first_ms": 679,
+    "total_ms": 961,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 63,
+     "total_tokens": 566,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 7,
+    "issue": "First is correct; several titles have unnatural word order"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "hemşi",
+    "locale": "tr",
+    "cat": "tr",
+    "intent": "Turkish: Hemşire (nurse)",
+    "items": [
+     "Hemşire",
+     "Hemşire Yardımcısı",
+     "Hemşirelik Öğrencisi",
+     "Hemşire Sorumlusu",
+     "Hemşirelik Hizmetleri Yöneticisi",
+     "Hemşirelik Eğitmeni"
+    ],
+    "first_ms": 535,
+    "total_ms": 794,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 51,
+     "total_tokens": 554,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "бухгалт",
+    "locale": "uk",
+    "cat": "uk",
+    "intent": "Ukrainian: Бухгалтер (Ukrainian, not Russian)",
+    "items": [
+     "Бухгалтер",
+     "Бухгалтер-касир",
+     "Бухгалтер з заробітної плати",
+     "Бухгалтер з первинної документації",
+     "Головний бухгалтер",
+     "Бухгалтер з обліку запасів"
+    ],
+    "first_ms": 660,
+    "total_ms": 925,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 49,
+     "total_tokens": 553,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "розробник",
+    "locale": "uk",
+    "cat": "uk",
+    "intent": "Ukrainian: Розробник ПЗ / програмного забезпечення",
+    "items": [
+     "Розробник програмного забезпечення",
+     "Веброзробник",
+     "Розробник мобільних застосунків",
+     "Full-Stack розробник",
+     "Frontend-розробник",
+     "Backend-розробник"
+    ],
+    "first_ms": 528,
+    "total_ms": 716,
+    "usage": {
+     "prompt_tokens": 504,
+     "completion_tokens": 47,
+     "total_tokens": 551,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "minor English terms in Ukrainian titles"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "dasturch",
+    "locale": "uz",
+    "cat": "uz",
+    "intent": "Uzbek (Latin): Dasturchi (programmer)",
+    "items": [
+     "Dasturchi",
+     "Katta dasturchi",
+     "Veb-dasturchi",
+     "Dasturiy ta’minot dasturchisi",
+     "Mobil ilovalar dasturchisi",
+     "Frontend dasturchi"
+    ],
+    "first_ms": 545,
+    "total_ms": 758,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 45,
+     "total_tokens": 548,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 9,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "buxgalt",
+    "locale": "uz",
+    "cat": "uz",
+    "intent": "Uzbek (Latin): Buxgalter (accountant)",
+    "items": [
+     "Buxgalter",
+     "Buxgalter yordamchisi",
+     "Bosh buxgalter",
+     "Buxgalter-auditor",
+     "Buxgalter-kassir",
+     "Soliq buxgalteri"
+    ],
+    "first_ms": 838,
+    "total_ms": 1099,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 46,
+     "total_tokens": 551,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "kỹ sư phần",
+    "locale": "vi",
+    "cat": "vi",
+    "intent": "Vietnamese: Kỹ sư phần mềm (software engineer)",
+    "items": [
+     "Kỹ sư phần mềm",
+     "Kỹ sư phần cứng",
+     "Kỹ sư phần mềm nhúng",
+     "Kỹ sư phần mềm backend",
+     "Kỹ sư phần mềm frontend",
+     "Kỹ sư phần mềm ứng dụng mobile"
+    ],
+    "first_ms": 904,
+    "total_ms": 1118,
+    "usage": {
+     "prompt_tokens": 505,
+     "completion_tokens": 52,
+     "total_tokens": 557,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 8,
+    "issue": "Some mixed English terms in Vietnamese titles"
+   },
+   {
+    "arm": "luna56-fs3-prio",
+    "q": "kế to",
+    "locale": "vi",
+    "cat": "vi",
+    "intent": "Vietnamese: Kế toán (accountant)",
+    "items": [
+     "Kế toán",
+     "Kế toán trưởng",
+     "Kế toán tổng hợp",
+     "Kế toán viên",
+     "Kế toán công nợ",
+     "Kế toán thuế"
+    ],
+    "first_ms": 638,
+    "total_ms": 870,
+    "usage": {
+     "prompt_tokens": 503,
+     "completion_tokens": 35,
+     "total_tokens": 538,
+     "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0
+     },
+     "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0,
+      "accepted_prediction_tokens": 0,
+      "rejected_prediction_tokens": 0
+     }
+    },
+    "tier": "priority",
+    "score": 10,
+    "issue": "ok"
+   }
+  ]
+ }
+]

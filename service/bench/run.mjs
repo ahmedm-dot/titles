@@ -1,5 +1,5 @@
 // A/B benchmark: every arm × every query, scored by an LLM judge.
-// Usage: node bench/run.mjs [armA,armB,...] [--reps=1] [--judge=gpt-5.5]
+// Usage: node bench/run.mjs [armA,armB,...] [--reps=1] [--judge=gpt-5.5] [--queries=path.json] [--out=name] [--conc=6]
 import '../src/env.mjs';
 import { readFileSync, writeFileSync } from 'node:fs';
 import { ARMS } from '../src/arms.mjs';
@@ -11,7 +11,7 @@ const armIds = (args.find(a => !a.startsWith('--'))?.split(',')) || Object.keys(
 const reps = +(opt('reps') || 1);
 const JUDGE = opt('judge') || 'gpt-5.5';
 const CONC = +(opt('conc') || 6);
-const queries = JSON.parse(readFileSync(new URL('./queries.json', import.meta.url)));
+const queries = JSON.parse(readFileSync(opt('queries') || new URL('./queries.json', import.meta.url)));
 
 async function pool(tasks, n) {
   const out = []; let i = 0;
@@ -74,7 +74,7 @@ for (const id of armIds) {
 }
 
 const stamp = new Date().toISOString().replace(/[:.]/g, '-').slice(0, 19);
-writeFileSync(new URL(`./results/run-${stamp}.json`, import.meta.url), JSON.stringify(rows, null, 1));
+writeFileSync(new URL(`./results/${opt('out') || 'run-' + stamp}.json`, import.meta.url), JSON.stringify(rows, null, 1));
 console.log('\n| arm | model | reasoning | prompt | score/10 | ≥9 % | first p50 | first p90 | total p50 | total p90 | in tok | out tok | err |');
 console.log('|---|---|---|---|---|---|---|---|---|---|---|---|---|');
 for (const { summary: s } of rows.sort((a, b) => b.summary.score - a.summary.score))
