@@ -34,7 +34,7 @@ export async function suggestAI({ q, locale, arm, n = 6, signal, onItem }) {
   const emit = raw => {
     const t = clean(raw);
     const k = norm(t);
-    if (!t || seen.has(k) || items.length >= n) return;
+    if (!t || t === 'NONE' || seen.has(k) || items.length >= n) return;
     seen.add(k); items.push(t);
     if (first_ms === null) first_ms = Math.round(performance.now() - t0);
     onItem?.(t);

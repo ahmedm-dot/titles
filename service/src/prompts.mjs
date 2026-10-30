@@ -21,6 +21,23 @@ const FEWSHOT = [
   ['محاسب', 'ar', 'محاسب\nمحاسب عام\nمحاسب مالي\nمحاسب تكاليف\nمحاسب قانوني\nمحاسب ضرائب'],
 ];
 
+// v2: tighter rules aimed at round-1 failures (partial-word ambiguity, cross-language input,
+// mixed scripts, gibberish). Few-shot inputs deliberately differ from bench queries to avoid overfitting.
+const RULES2 = `You are the job-title autocomplete in a multilingual CV builder. Return the {n} job titles the user most likely means, one per line, nothing else.
+- Complete the input as a prefix. If the last word is partial, consider every word it could become and rank by how common the resulting title is on CVs.
+- Language = the language the user is typing, even if the CV language differs. Use the CV language only when the input could be either language. Every title in that language and script; keep only universal acronyms (UX, QA, SAP, IT).
+- Fix typos, expand abbreviations (sr, swe, pm, hr, vp, cfo...). Real, standard, ATS-friendly titles; first = most common. Vary specialization/seniority, no near-duplicates.
+- Keep the grammatical gender the user typed.
+- If the input cannot be a job title, reply exactly: NONE`;
+
+const FEWSHOT2 = [
+  ['jr front', 'en', 'Junior Frontend Developer\nJunior Front End Engineer\nJunior Frontend Web Developer\nJunior React Developer\nJunior UI Developer\nJunior JavaScript Developer'],
+  ['enfermera de', 'es', 'Enfermera de Urgencias\nEnfermera de Cuidados Intensivos\nEnfermera de Quirófano\nEnfermera de Pediatría\nEnfermera de Atención Primaria\nEnfermera de Hospitalización'],
+  ['product owner', 'de', 'Product Owner\nSenior Product Owner\nTechnical Product Owner\nAgile Product Owner\nProduct Owner Digital\nProduct Owner E-Commerce'],
+  ['أخصائي تسو', 'ar', 'أخصائي تسويق\nأخصائي تسويق رقمي\nأخصائي تسويق إلكتروني\nأخصائي تسويق المحتوى\nأخصائي تسويق وسائل التواصل الاجتماعي\nأخصائي تسويق ومبيعات'],
+  ['lorem xq', 'en', 'NONE'],
+];
+
 const userMsg = (q, locale) => `CV language: ${locale || 'unknown'}\nInput: ${q}`;
 
 export const PROMPTS = {
@@ -38,6 +55,15 @@ export const PROMPTS = {
   fewshot: ({ q, locale, n }) => [
     { role: 'system', content: RULES.replace('{n}', n) },
     ...FEWSHOT.flatMap(([fq, fl, fa]) => [
+      { role: 'user', content: userMsg(fq, fl) },
+      { role: 'assistant', content: fa.split('\n').slice(0, n).join('\n') },
+    ]),
+    { role: 'user', content: userMsg(q, locale) },
+  ],
+  // P3: v2 rules + v2 few-shot
+  fewshot2: ({ q, locale, n }) => [
+    { role: 'system', content: RULES2.replace('{n}', n) },
+    ...FEWSHOT2.flatMap(([fq, fl, fa]) => [
       { role: 'user', content: userMsg(fq, fl) },
       { role: 'assistant', content: fa.split('\n').slice(0, n).join('\n') },
     ]),
