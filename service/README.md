@@ -14,6 +14,9 @@ Alternatives:
   for **$67 per 1M calls**. It is ~130 ms slower to the first item and weaker when English is typed on a non-English CV (6.5).
 - **Cheapest from the gpt-5.6 line:** `luna56-fs3` (standard tier). Same quality as the default, ~140 ms slower, $141 per 1M calls.
 
+**→ Copy-paste production config for both finalists (request bodies, prompt, server, frontend and A/B plan) is in
+[`config/CONFIG.md`](config/CONFIG.md).**
+
 **→ The full quality × speed × cost matrix, with a score breakdown per language and per category, is in
 [`bench/MATRIX.md`](bench/MATRIX.md).** Regenerate it with `node bench/matrix.mjs`. Prices are in `bench/pricing.json`.
 
