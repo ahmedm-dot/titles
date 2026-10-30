@@ -4,10 +4,18 @@ Typeahead job-title suggestions for the CV builder: the user types any partial t
 CV language, and gets 6 standard, ATS-friendly job titles streamed back.
 Pure AI (OpenAI). No dependency on the rest of this repo, and no npm dependencies (Node ≥ 20).
 
-**Production default: `mini54-fs3-prio`.** It uses `gpt-5.4-mini` with reasoning off, the few-shot v3 prompt
-and the `priority` service tier.
-It scores **9.30/10** on the multilingual benchmark. The first suggestion arrives in **~480 ms**
-at p50 (~590 ms at p90), and the full list in ~640 ms.
+**Production default: `luna56-fs3-prio`.** It uses `gpt-5.6-luna` with reasoning off, the few-shot v3 prompt and the
+Fast tier (`service_tier: "priority"`, renamed Fast mode by OpenAI).
+It scores **9.31/10**. The first suggestion arrives in **~510 ms** at p50 (~610 ms at p90), and the full list in ~660 ms.
+It costs about **$280 per 1M uncached calls**, 73% less than the previous default (`mini54-fs3-prio`, $1,050), at the same speed.
+
+Alternatives:
+- **Best quality and lowest cost:** `luna6-fs3` (`gpt-6-luna`, standard tier). It scores 9.38 with 94% of answers rated ≥ 9,
+  for **$67 per 1M calls**. It is ~130 ms slower to the first item and weaker when English is typed on a non-English CV (6.5).
+- **Cheapest from the gpt-5.6 line:** `luna56-fs3` (standard tier). Same quality as the default, ~140 ms slower, $141 per 1M calls.
+
+**→ The full quality × speed × cost matrix, with a score breakdown per language and per category, is in
+[`bench/MATRIX.md`](bench/MATRIX.md).** Regenerate it with `node bench/matrix.mjs`. Prices are in `bench/pricing.json`.
 
 ## Run
 
@@ -105,14 +113,29 @@ Findings:
 
 The winner matches `gpt-5.5` quality (9.30 vs 9.34) at about half the latency.
 
+### Round 4: luna models plus pricing (2 reps)
+
+| arm | score | ≥ 9/10 | first p50 | all p50 | $ / 1M calls |
+|---|---|---|---|---|---|
+| luna6-fs3 (gpt-6-luna) | **9.38** | **94 %** | 617 | 878 | **$67** |
+| luna6-fs3-prio (Fast) | 9.40 | 89 % | 692 | 915 | $135 |
+| luna56-fs3 | 9.32 | 85 % | 642 | 931 | $141 |
+| **luna56-fs3-prio** ✅ new default | 9.31 | 85 % | 508 | 659 | $282 |
+| mini54-fs3-prio (old default) | 9.18 | 77 % | 490 | 652 | $1,050 |
+| mini54-fs3 | 9.22 | 82 % | 678 | 911 | $523 |
+
+Findings:
+- Fast mode does not speed up gpt-6-luna. Its standard tier is already the fastest gpt-6 option.
+- The service records the tier that actually served each request (`tier` in the response). Fast requests came back
+  as `priority`, or `fast` on gpt-6-luna, so the tier was really applied.
+
 ### Known weak spots (as of round 3)
 
 - **Arabic partial words where a generic word shares the letters.** For example, `مدير مشار` gets completed to مشارك
   ("associate") about half the time instead of مشاريع ("projects"). Every model has this problem, including gpt-5.5. In
   practice one more keystroke (`مدير مشاري`) resolves it.
 - Russian and Indonesian score around 7.5–8 (still usable). The judge mostly flags the ranking order.
-- The `priority` tier has a higher per-token price than standard. If cost matters more than ~200 ms,
-  use `mini54-fs3`: the same prompt on the standard tier.
+- Fast mode costs exactly 2× standard per token (official pricing). On luna that is still far cheaper than gpt-5.4-mini.
 
 ## Files
 
@@ -122,5 +145,5 @@ src/ai.mjs         streaming OpenAI client (emits each line as a suggestion)
 src/prompts.mjs    prompt variants: minimal, rules, fewshot, fewshot2, fewshot3
 src/arms.mjs       A/B arms (model × reasoning × prompt × service tier) + DEFAULT_ARM
 public/index.html  side-by-side A/B test page
-bench/             queries.json, run.mjs (LLM-judged benchmark), results/
+bench/             queries.json, run.mjs (LLM-judged benchmark), matrix.mjs → MATRIX.md, pricing.json, results/
 ```

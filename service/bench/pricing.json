@@ -1,0 +1,11 @@
+{
+  "_source": "https://developers.openai.com/api/docs/pricing (fetched 2026-10-30). USD per 1M tokens. 'fast' = Fast mode (formerly Priority processing, service_tier=priority). null = not listed.",
+  "_note": "Prompts here are ~450-500 tokens, below the 1,024-token prompt-caching minimum, so cached-input rates do not apply.",
+  "gpt-6-luna":   { "standard": [0.10, 0.50], "fast": [0.20, 1.00] },
+  "gpt-5.6-luna": { "standard": [0.20, 1.20], "fast": [0.40, 2.40] },
+  "gpt-5.5":      { "standard": [5.00, 30.00], "fast": [12.50, 75.00] },
+  "gpt-5.4-mini": { "standard": [0.75, 4.50], "fast": [1.50, 9.00] },
+  "gpt-5.4-nano": { "standard": [0.20, 1.25], "fast": null },
+  "gpt-4.1-mini": { "standard": [0.40, 1.60], "fast": [0.70, 2.80] },
+  "gpt-4o-mini":  { "standard": [0.15, 0.60], "fast": null }
+}

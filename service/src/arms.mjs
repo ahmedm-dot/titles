@@ -30,4 +30,4 @@ export const ARMS = {
   'gpt55-fewshot':    { model: 'gpt-5.5', reasoning_effort: 'none', prompt: 'fewshot' },
 };
 
-export const DEFAULT_ARM = process.env.DEFAULT_ARM || 'mini54-fs3-prio';
+export const DEFAULT_ARM = process.env.DEFAULT_ARM || 'luna56-fs3-prio';
