@@ -64,6 +64,7 @@ for (const id of armIds) {
     perfect: Math.round(100 * ok.filter(r => r.score >= 9).length / ok.length),
     first_p50: pct(ok.map(r => r.first_ms ?? r.total_ms), 0.5), first_p90: pct(ok.map(r => r.first_ms ?? r.total_ms), 0.9),
     total_p50: pct(ok.map(r => r.total_ms), 0.5), total_p90: pct(ok.map(r => r.total_ms), 0.9),
+    tiers: [...new Set(ok.map(r => r.tier))].join('/'),
     in_tok: Math.round(mean(ok.map(r => r.usage?.prompt_tokens || 0))), out_tok: Math.round(mean(ok.map(r => r.usage?.completion_tokens || 0))),
   };
   console.log(JSON.stringify(s));

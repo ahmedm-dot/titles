@@ -7,7 +7,7 @@ const API = (process.env.OPENAI_BASE_URL || 'https://api.openai.com/v1') + '/cha
 const clean = s => s.replace(/^\s*(?:[-*•·]|\d+[.)])\s*/, '').replace(/^["'«“]+|["'»”]+$/g, '').trim();
 
 /**
- * @returns {Promise<{items:string[], first_ms:number|null, total_ms:number, usage:object|null}>}
+ * @returns {Promise<{items:string[], first_ms:number|null, total_ms:number, usage:object|null, tier:string|null}>}
  * onItem(title) fires per suggestion while streaming (drives SSE to the browser).
  */
 export async function suggestAI({ q, locale, arm, n = 6, signal, onItem }) {
@@ -30,7 +30,7 @@ export async function suggestAI({ q, locale, arm, n = 6, signal, onItem }) {
   if (!res.ok) throw new Error(`OpenAI ${res.status}: ${(await res.text()).slice(0, 300)}`);
 
   const items = [], seen = new Set();
-  let first_ms = null, usage = null, buf = '', line = '';
+  let first_ms = null, usage = null, tier = null, buf = '', line = '';
   const emit = raw => {
     const t = clean(raw);
     const k = norm(t);
@@ -48,6 +48,7 @@ export async function suggestAI({ q, locale, arm, n = 6, signal, onItem }) {
       if (!ev.startsWith('data:') || ev === 'data: [DONE]') continue;
       const j = JSON.parse(ev.slice(5));
       if (j.usage) usage = j.usage;
+      if (j.service_tier) tier = j.service_tier;
       const d = j.choices?.[0]?.delta?.content;
       if (!d) continue;
       line += d;
@@ -56,5 +57,5 @@ export async function suggestAI({ q, locale, arm, n = 6, signal, onItem }) {
     }
   }
   emit(line);
-  return { items, first_ms, total_ms: Math.round(performance.now() - t0), usage };
+  return { items, first_ms, total_ms: Math.round(performance.now() - t0), usage, tier };
 }

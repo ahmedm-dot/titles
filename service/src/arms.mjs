@@ -21,6 +21,11 @@ export const ARMS = {
   'mini54-fs3-prio':  { model: 'gpt-5.4-mini', reasoning_effort: 'none', prompt: 'fewshot3', service_tier: 'priority' },
   'mini54-fs3':       { model: 'gpt-5.4-mini', reasoning_effort: 'none', prompt: 'fewshot3' }, // same as winner without priority tier (cheaper, ~+200 ms)
   'mini41-fs3-prio':  { model: 'gpt-4.1-mini', prompt: 'fewshot3', service_tier: 'priority' },
+  // --- round 4: luna models vs winner ---
+  'luna56-fs3':       { model: 'gpt-5.6-luna', reasoning_effort: 'none', prompt: 'fewshot3' },
+  'luna56-fs3-prio':  { model: 'gpt-5.6-luna', reasoning_effort: 'none', prompt: 'fewshot3', service_tier: 'priority' },
+  'luna6-fs3':        { model: 'gpt-6-luna',   reasoning_effort: 'none', prompt: 'fewshot3' },
+  'luna6-fs3-prio':   { model: 'gpt-6-luna',   reasoning_effort: 'none', prompt: 'fewshot3', service_tier: 'priority' },
   // --- quality ceiling reference ---
   'gpt55-fewshot':    { model: 'gpt-5.5', reasoning_effort: 'none', prompt: 'fewshot' },
 };
