@@ -1399,3 +1399,603 @@ rank,title_es,title_pt,title_fr,title_ar
 6417,Técnico de servicios,Técnico de serviços,Technicien services,فني الخدمات
 6421,Supervisor de ácido,Supervisor de ácido,Superviseur acide,مشرف الحمض
 6422,Supervisor de restaurante,Supervisor de restaurante,Superviseur restaurant,مشرف المطعم
+6423,Consultor de edificios,Consultor de edifícios,Consultant bâtiment,استشاري المباني
+6424,Consultor familiar,Consultor familiar,Consultant famille,استشاري الأسرة
+6428,Ayudante de mecánico de mantenimiento,Auxiliar de mecânico de manutenção,Aide mécanicien maintenance,مساعد ميكانيكي الصيانة
+6430,Profesor de gestión de proyectos,Professor de gestão de projetos,Professeur de gestion de projets,أستاذ إدارة المشاريع
+6433,Operador de cargadora de patio,Operador de carregador de pátio,Opérateur de chargeuse de cour,مشغل محمّل الساحة
+6434,Operador de motor de patio,Operador de motor de pátio,Opérateur moteur de cour,مشغل محرك الساحة
+6438,Dependiente de carnicería,Empregado de talho,Employé boucherie,كاتب اللحوم
+6440,Administrador de seguridad,Administrador de segurança,Administrateur sécurité,مدير السلامة
+6441,Especialista hidráulico,Especialista hidráulico,Spécialiste hydraulique,أخصائي الهيدروليك
+6442,Especialista en integración,Especialista em integração,Spécialiste intégration,أخصائي التكامل
+6446,Director de escritorio,Diretor de secretariado,Directeur de bureau,مدير المكتب
+6450,Asistente de música,Assistente de música,Assistant musique,مساعد الموسيقى
+6451,Gerente de mercado de práctica médica,Gestor de mercado de práticas médicas,Responsable marché cabinets médicaux,مدير سوق الممارسات الطبية
+6452,Supervisor de instaladores de vapor,Supervisor de canalizadores de vapor,Superviseur monteur vapeur,مشرف فني تركيب البخار
+6453,Supervisor de estación de vapor,Supervisor de central de vapor,Superviseur station vapeur,مشرف محطة البخار
+6454,Supervisor de constructores de barcos de madera,Supervisor de construtores de barcos de madeira,Superviseur constructeur bateaux bois,مشرف بناء القوارب الخشبية
+6456,Ingeniero de distrito,Engenheiro de distrito,Ingénieur de district,مهندس المنطقة
+6457,Ingeniero de televisión,Engenheiro de televisão,Ingénieur télévision,مهندس التلفزيون
+6465,Técnico de seguridad,Técnico de segurança,Technicien sécurité,فني الأمن
+6476,Coordinador dental,Coordenador dentário,Coordinateur dentaire,منسق طب الأسنان
+6479,Trabajador de carrocería,Trabalhador de carroçaria,Ouvrier carrosserie auto,عامل هياكل السيارات
+6481,Trabajador de electrónica,Trabalhador de eletrónica,Ouvrier électronique,عامل الإلكترونيات
+6484,Director dental,Diretor dentário,Directeur dentaire,مدير طب الأسنان
+6485,Director de inteligencia,Diretor de inteligência,Directeur du renseignement,مدير الاستخبارات
+6486,Administrativo de farmacia,Empregado de farmácia,Employé de pharmacie,كاتب الصيدلية
+6488,Director de tienda,Diretor de loja,Directeur de magasin,مدير المتجر
+6490,Oficial de enfermería,Oficial de enfermagem,Responsable des soins infirmiers,مسؤول التمريض
+6504,Asistente de delineante,Assistente de desenhador,Assistant dessinateur,مساعد الرسام الفني
+6508,Supervisor de expedición,Supervisor de expedição,Superviseur expédition,مشرف الشحن
+6509,Inspector de tráfico,Inspetor de tráfego,Inspecteur de la circulation,مفتش المرور
+6514,Director de centro y profesor principal,Diretor de centro e professor principal,Directeur de centre et enseignant principal,مدير المركز والمعلم الرئيسي
+6518,Jugador,Jogador,Joueur,لاعب
+6519,Administrativo de entregas especiales,Empregado de entregas especiais,Employé livraisons spéciales,كاتب التوصيل الخاص
+6521,Gerente de copias,Gestor de cópias,Responsable copies,مدير النسخ
+6522,Gerente de aduanas,Gestor de alfândega,Responsable douanes,مدير الجمارك
+6523,Gerente de imagen,Gestor de imagiologia,Responsable imagerie,مدير التصوير الطبي
+6524,Gerente de refrigeración,Gestor de refrigeração,Responsable froid,مدير التبريد
+6527,Asociado de servicio de cuentas,Associado de serviço de contas,Associé service comptes,شريك خدمة الحسابات
+6528,Asociado de servicios de cuentas,Associado de serviços de contas,Associé services comptes,شريك خدمات الحسابات
+6529,Asociado de soporte de cuentas,Associado de suporte de contas,Associé support comptes,شريك دعم الحسابات
+6530,Técnico de engranajes,Técnico de engrenagens,Technicien engrenages,فني التروس
+6533,Técnico estructural,Técnico estrutural,Technicien structure,فني إنشائي
+6535,Asistente de conductor de reparto,Assistente de motorista de entregas,Assistant chauffeur livreur,مساعد سائق التوصيل
+6536,Coordinador de materiales,Coordenador de materiais,Coordinateur matières,منسق المواد
+6541,Consultor senior de gestión de seguridad,Consultor sénior de gestão de segurança,Consultant senior management de la sécurité,استشاري أول لإدارة السلامة
+6542,Instructor agrícola,Formador agrícola,Formateur agricole,مدرب زراعي
+6544,Especialista internacional,Especialista internacional,Spécialiste international,أخصائي دولي
+6547,Ingeniero de división,Engenheiro de divisão,Ingénieur de division,مهندس القسم
+6549,Supervisor de seguridad física corporativa,Supervisor de segurança física corporativa,Superviseur sécurité physique d'entreprise,مشرف الأمن المادي للمؤسسات
+6552,Director de energía,Diretor de energia,Directeur énergie,مدير الطاقة
+6559,Ayudante de mezcladora,Auxiliar de misturadora,Aide mélangeur,مساعد الخلاطة
+6561,Asistente judicial,Assistente judicial,Assistant judiciaire,مساعد المحكمة
+6562,Trabajador de cinta,Trabalhador de tapete,Ouvrier de bande,عامل الحزام
+6567,Trabajador de patrones,Trabalhador de modelos,Ouvrier modèles,عامل النماذج
+6571,Inspector de tubos,Inspetor de tubos,Inspecteur de tubes,مفتش الأنابيب
+6572,Administrativo de recambios de automoción,Empregado de peças automóveis,Employé pièces automobiles,كاتب قطع غيار السيارات
+6574,Operador de carga,Operador de carga,Opérateur de charge,مشغل الشحن
+6576,Conductor de servicio de comidas,Motorista de serviço de refeições,Chauffeur service restauration,سائق خدمة الطعام
+6591,Asociado de laboratorio,Associado de laboratório,Associé laboratoire,شريك المختبر
+6593,Coordinador residencial,Coordenador residencial,Coordinateur résidentiel,منسق سكني
+6595,Supervisor de bar,Supervisor de bar,Superviseur bar,مشرف البار
+6596,Supervisor municipal,Supervisor municipal,Superviseur municipal,مشرف المدينة
+6597,Representante comunitario,Representante comunitário,Représentant communautaire,ممثل المجتمع
+6598,Colocador jefe,Ajustador-chefe,Régleur en chef,كبير المُعِدّين
+6600,Director residencial,Diretor residencial,Directeur résidentiel,مدير سكني
+6603,Gerente de soluciones de consultoría,Gestor de soluções de consultoria,Responsable solutions conseil,مدير حلول الاستشارات
+6613,Administrativo principal,Empregado principal,Employé principal,كاتب رئيسي
+6637,Trabajador principal,Trabalhador principal,Ouvrier cœur,عامل أساسي
+6642,Aprendiz de cortador,Aprendiz de cortador,Apprenti coupeur,متدرب القطع
+6649,Especialista en prestaciones,Especialista em benefícios,Spécialiste avantages sociaux,أخصائي المزايا
+6651,Especialista en cobros,Especialista em cobranças,Spécialiste recouvrement,أخصائي التحصيل
+6653,Especialista en instalaciones,Especialista em instalações,Spécialiste installations,أخصائي المرافق
+6654,Especialista en salud,Especialista em saúde,Spécialiste santé,أخصائي الرعاية الصحية
+6656,Especialista en nóminas,Especialista em folha salarial,Spécialiste paie,أخصائي الرواتب
+6657,Especialista en rendimiento,Especialista em desempenho,Spécialiste performance,أخصائي الأداء
+6659,Supervisor de mantenimiento y reparación de edificios,Supervisor de manutenção e reparação de edifícios,Superviseur maintenance et réparation bâtiments,مشرف صيانة وإصلاح المباني
+6660,Supervisor de oficina inmobiliaria,Supervisor de escritório imobiliário,Superviseur d'agence immobilière,مشرف مكتب العقارات
+6661,Supervisor de ventas inmobiliarias,Supervisor de vendas imobiliárias,Superviseur ventes immobilières,مشرف مبيعات العقارات
+6663,Fijador,Fixador,Monteur,عامل التثبيت
+6665,Asuntos,Assuntos,Affaires,شؤون
+6667,Supervisor de patio de moldes,Supervisor de pátio de moldes,Superviseur parc à moules,مشرف ساحة القوالب
+6672,Inspector de rodillos,Inspetor de rolos,Inspecteur de rouleaux,مفتش الدرافيل
+6675,Administrativo de servicios,Empregado de serviços,Employé services généraux,كاتب المرافق
+6684,Técnico maestro de cristales de automoción,Técnico-mestre de vidros automóvel,Technicien maître vitrage automobile,فني زجاج سيارات خبير
+6685,Técnico maestro de control de incendios,Técnico-mestre de controlo de incêndios,Technicien maître contrôle incendie,فني خبير مكافحة الحرائق
+6687,Limpiador de metal,Limpador de metal,Nettoyeur métal,عامل تنظيف المعادن
+6688,Gerente de admisiones,Gestor de admissões,Responsable des admissions,مدير القبول
+6689,Gerente gráfico,Gestor gráfico,Responsable graphique,مدير الرسوم
+6695,Vendedor conductor,Vendedor-motorista,Commercial livreur,مندوب مبيعات سائق
+6700,Coordinador musical,Coordenador musical,Coordinateur musical,منسق الموسيقى
+6704,Trabajador de transporte,Trabalhador de transportes,Employé des transports,عامل النقل
+6707,Analista deportivo,Analista desportivo,Analyste sportif,محلل رياضي
+6715,Ingeniero de estación de control de agua,Engenheiro de estação de controlo de água,Ingénieur station de contrôle des eaux,مهندس محطة التحكم في المياه
+6721,Gerente de mejora continua,Gestor de melhoria contínua,Responsable amélioration continue,مدير التحسين المستمر
+6739,Ingeniero ferroviario,Engenheiro ferroviário,Ingénieur ferroviaire,مهندس السكك الحديدية
+6742,Supervisor de reparación de calderas,Supervisor de reparação de caldeiras,Superviseur réparation chaudières,مشرف إصلاح الغلايات
+6748,Técnico de integración,Técnico de integração,Technicien intégration,فني التكامل
+6751,Técnico de recreación,Técnico de recreação,Technicien loisirs,فني الترفيه
+6752,Técnico regulatorio,Técnico regulamentar,Technicien réglementation,فني تنظيمي
+6757,Consultor de potencia de datos,Consultor de poder de dados,Consultant puissance de données,استشاري قوة البيانات
+6761,Especialista en efectivo,Especialista em tesouraria,Spécialiste trésorerie,أخصائي النقدية
+6763,Operario de molino,Operador de moinho,Ouvrier de moulin,عامل المطحنة
+6766,Coordinador de aplicaciones,Coordenador de aplicações,Coordinateur applications,منسق التطبيقات
+6767,Gerente general de producción vial,Gestor geral de produção rodoviária,Responsable général production routière,مدير الإنتاج الطرقي العام
+6770,Coordinador de farmacia,Coordenador de farmácia,Coordinateur pharmacie,منسق الصيدلية
+6771,Gerente general de producción vial,Gestor geral de produção rodoviária,Directeur général production routière,مدير الإنتاج الطرقي العام
+6773,Inspector de préstamos,Inspetor de crédito,Inspecteur crédit,مفتش القروض
+6776,Oficial de barco,Oficial de barco,Officier de bord,ضابط القارب
+6778,Director de farmacia,Diretor de farmácia,Directeur de pharmacie,مدير الصيدلية
+6790,Representante de piezas,Representante de peças,Représentant pièces,ممثل قطع الغيار
+6796,Agente de venta minorista,Agente de retalho,Agent commercial retail,وكيل التجزئة
+6803,Descargador,Descarregador,Décharge,عامل التفريغ
+6804,Asistente de reclamaciones,Assistente de sinistros,Assistant sinistres,مساعد المطالبات
+6805,Asistente de impresión,Assistente de impressão,Assistant impression,مساعد الطباعة
+6811,Supervisor de instalaciones,Supervisor de instalações,Superviseur des installations,مشرف المرافق
+6814,Supervisor de reparto de correo,Supervisor de distribuição postal,Superviseur distribution du courrier,مشرف توزيع البريد
+6815,Supervisor de patrulla,Supervisor de patrulha,Superviseur de patrouille,مشرف الدورية
+6824,Ingeniero de análisis,Engenheiro de análise,Ingénieur analyse,مهندس التحليل
+6833,Asociado de producción alimentaria,Associado de produção alimentar,Associé production alimentaire,شريك الإنتاج الغذائي
+6834,Asociado de servicio de alimentación,Associado de serviço alimentar,Associé restauration,شريك خدمة الطعام
+6835,Ingeniero de talento,Engenheiro de talentos,Ingénieur talents,مهندس المواهب
+6836,Inspector de hormigón,Inspetor de betão,Inspecteur béton,مفتش الخرسانة
+6837,Socio,Sócio,Associé,شريك
+6840,Auxiliar administrativo de soporte,Empregado de apoio administrativo,Employé d'appui administratif,كاتب الدعم الإداري
+6841,Turno,Turno,Équipe,وردية
+6846,Asist.,Assist.,Assist.,مساعد
+6868,Ayudante de departamento,Auxiliar de departamento,Aide de département,مساعد القسم
+6884,Coordinador de recambios de automoción,Coordenador de peças automóveis,Coordinateur pièces automobiles,منسق قطع غيار السيارات
+6885,Mecánico de control de incendios,Mecânico de controlo de incêndios,Mécanicien contrôle incendie,ميكانيكي مكافحة الحرائق
+6888,Analista de Oracle,Analista Oracle,Analyste Oracle,محلل Oracle
+6889,Analista de soluciones,Analista de soluções,Analyste solutions,محلل الحلول
+6890,Gerente de biología,Gestor de biologia,Responsable biologie,مدير علم الأحياء
+6891,Gerente de limpieza y ama de llaves,Gestor de governanta,Responsable gouvernante,مدير خدمات التنظيف
+6893,Gerente nocturno,Gestor noturno,Responsable de nuit,مدير الليل
+6894,Gerente de planes,Gestor de planos,Responsable de plans,مدير الخطط
+6897,Mecánico de estación,Mecânico de estação,Mécanicien de station,ميكانيكي المحطة
+6909,Director de gestión de información sanitaria,Diretor de gestão da informação de saúde,Directeur gestion de l'information de santé,مدير إدارة المعلومات الصحية
+6910,Director de sistemas de información de gestión,Diretor de sistemas de informação de gestão,Directeur systèmes d'information de gestion,مدير نظم المعلومات الإدارية
+6912,Especialista en soluciones,Especialista em soluções,Spécialiste solutions,أخصائي الحلول
+6924,Analista de soporte al cliente,Analista de suporte ao cliente,Analyste support client,محلل دعم العملاء
+6925,Supervisor de graduación de patrones,Supervisor de graduação de modelos,Superviseur gradation patrons,مشرف تدريج النماذج
+6930,Coordinador de casos de pacientes,Coordenador de casos de doentes,Coordinateur dossiers patients,منسق حالات المرضى
+6938,Operador de trituradora,Operador de britagem,Opérateur de concasseur,مشغل الكسارة
+6940,Operador de instalaciones,Operador de instalações,Opérateur des installations,مشغل المرافق
+6943,Conductor de repuestos,Motorista de peças,Chauffeur pièces,سائق قطع الغيار
+6944,Ayudante de sala de control,Auxiliar de sala de controlo,Aide salle de contrôle,مساعد غرفة التحكم
+6946,Mecánico de moldes,Mecânico de moldes,Mécanicien moules,ميكانيكي القوالب
+6949,Ingeniero de soporte de aplicaciones de cliente,Engenheiro de suporte a aplicações de clientes,Ingénieur support applications clients,مهندس دعم تطبيقات العملاء
+6951,Supervisor de planta de tubos de hormigón,Supervisor de fábrica de tubos de betão,Superviseur usine de tuyaux béton,مشرف مصنع أنابيب الخرسانة
+6953,Ingeniero de hotel,Engenheiro de hotel,Ingénieur hôtelier,مهندس الفندق
+6954,Ingeniero de recuperación,Engenheiro de recuperação,Ingénieur récupération,مهندس الاسترداد
+6955,Ingeniero de señales,Engenheiro de sinais,Ingénieur signalisation,مهندس الإشارات
+6958,Impresión,Impressão,Impression,طباعة
+6959,Supervisor de recreación,Supervisor de recreação,Superviseur loisirs,مشرف الترفيه
+6960,Supervisor de tratamiento,Supervisor de tratamento,Superviseur traitement,مشرف المعالجة
+6962,Administrativo de laboratorio clínico,Empregado de laboratório clínico,Employé laboratoire clinique,كاتب المختبر السريري
+6967,Asociado de montaje,Associado de montagem,Associé assemblage,شريك التجميع
+6968,Asociado digital,Associado digital,Associé digital,شريك رقمي
+6971,Especialista en programas de gestión de emergencias,Especialista em programas de gestão de emergências,Spécialiste programmes gestion des urgences,أخصائي برامج إدارة الطوارئ
+6977,Conductor de atención al cliente,Motorista de atendimento ao cliente,Chauffeur service client,سائق خدمة العملاء
+6983,Inspector de placas,Inspetor de placas,Inspecteur de plaques,مفتش الألواح
+6985,Agente de tráfico,Agente de trânsito,Agent de circulation,ضابط المرور
+6986,Representante de comunicaciones,Representante de comunicações,Représentant communication,ممثل الاتصالات
+6992,Responsable de producción,Responsável de produção,Responsable production,قائد الإنتاج
+6994,Arquitecto de producto,Arquiteto de produto,Architecte produit,مهندس معماري للمنتج
+7001,Director de mantenimiento de aeronaves,Diretor de manutenção de aeronaves,Directeur maintenance aéronautique,مدير صيانة الطائرات
+7003,Trabajador del calzado,Trabalhador de calçado,Ouvrier chaussure,عامل الأحذية
+7007,Especialista en soluciones de aprendizaje,Especialista em soluções de aprendizagem,Spécialiste solutions d'apprentissage,أخصائي حلول التعلم
+7009,Especialista en cuentas de pacientes,Especialista de contas de doentes,Spécialiste comptes patients,أخصائي حسابات المرضى
+7011,Operador de soporte de célula,Operador de suporte de célula,Opérateur support cellule,مشغل دعم الخلية
+7014,Coordinador de reclutamiento,Coordenador de recrutamento,Coordinateur recrutement,منسق التوظيف
+7017,Asociado de gestión de investigación clínica,Associado de gestão de investigação clínica,Associé gestion recherche clinique,شريك إدارة البحوث السريرية
+7018,Asociado senior de investigación clínica,Associado sénior de investigação clínica,Associé senior recherche clinique,شريك أول للبحوث السريرية
+7019,Técnico de prestaciones,Técnico de benefícios,Technicien avantages sociaux,فني المزايا
+7027,Técnico sanitario,Técnico de saúde,Technicien santé,فني الرعاية الصحية
+7032,Supervisor de reparación de vía,Supervisor de reparação de via,Superviseur réparation voie,مشرف إصلاح المسار
+7033,Asociado comunitario,Associado comunitário,Associé communautaire,شريك مجتمعي
+7039,Empleado de gasolinera,Empregado de posto de combustível,Employé station-service,كاتب محطة الوقود
+7040,Descargador,Descarregador,Débardeur,عامل الإخراج
+7046,Analista de aseguramiento,Analista de garantia,Analyste assurance,محلل ضمان الجودة
+7048,Especialista creativo,Especialista criativo,Spécialiste créatif,أخصائي إبداعي
+7051,Especialista en revisión,Especialista em revisão,Spécialiste revue,أخصائي المراجعة
+7052,Administrativo deportivo,Empregado desportivo,Employé sportif,كاتب الرياضة
+7053,Diseñador de proyectos de ingeniería,Designer de projetos de engenharia,Concepteur projets d'ingénierie,مصمم مشاريع هندسية
+7054,Supervisor de mecánicos de equipos de campos petrolíferos,Supervisor de mecânicos de equipamentos de campos petrolíferos,Superviseur mécaniciens équipements champs pétrolifères,مشرف ميكانيكيي معدات حقول النفط
+7055,Agente financiero,Agente financeiro,Agent financier,وكيل مالي
+7056,Asociado ambiental,Associado ambiental,Associé environnement,شريك بيئي
+7061,Profesor de recursos,Professor de recursos,Enseignant ressources,معلم الموارد
+7069,Limpiador escolar,Empregado de limpeza escolar,Agent d'entretien scolaire,عامل نظافة المدرسة
+7075,Coordinador regional,Coordenador regional,Coordinateur régional,منسق إقليمي
+7084,Supervisor de costura,Supervisor de costura,Superviseur couture,مشرف الخياطة
+7085,Gerente de ayudas al estudio,Gestor de apoio financeiro a estudantes,Responsable aides financières étudiants,مدير المساعدات المالية للطلاب
+7086,Supervisor de guardia,Supervisor de turno,Superviseur de garde,مشرف المناوبة
+7087,Consultor de educación en servicios financieros,Consultor de educação em serviços financeiros,Consultant éducation services financiers,استشاري التثقيف في الخدمات المالية
+7088,Gerente de ganado,Gestor de gado,Responsable bétail,مدير الماشية
+7108,Supervisor de transporte escolar,Supervisor de transporte escolar,Superviseur transport scolaire,مشرف النقل المدرسي
+7114,Patio,Pátio,Cour,ساحة
+7115,Especialista en gestión de recursos familiares,Especialista em gestão de recursos familiares,Spécialiste gestion des ressources familiales,أخصائي إدارة الموارد الأسرية
+7116,Especialista en ingeniería de recursos hídricos,Especialista em engenharia de recursos hídricos,Spécialiste en ingénierie des ressources en eau,أخصائي هندسة الموارد المائية
+7117,Conductor de equipo,Motorista de equipa,Chauffeur équipe,سائق الفريق
+7118,Director de sistemas de información informática,Diretor de sistemas de informação informática,Directeur des systèmes d'information informatiques,مدير نظم معلومات الحاسوب
+7119,Administrativo de suministros,Empregado de abastecimento,Employé approvisionnement,كاتب التوريد
+7120,Administrativo de stock de reparto,Empregado de stock de entregas,Employé stock livraison,كاتب مخزون التوصيل
+7121,Reponedor de tienda,Repositor de loja,Employé de réassort,كاتب مخزون التجزئة
+7128,Representante de soporte de producto,Representante de suporte de produto,Représentant support produit,ممثل دعم المنتج
+7139,Técnico de combustible,Técnico de combustível,Technicien carburant,فني الوقود
+7140,Técnico de nutrición,Técnico de nutrição,Technicien nutrition,فني التغذية
+7144,Coordinador de arte,Coordenador de arte,Coordinateur artistique,منسق الفنون
+7146,Gerente de ventas y servicio de utilidades,Gestor de vendas e serviços de utilidades,Responsable ventes et services utilités,مدير مبيعات وخدمات المرافق
+7148,Auxiliar de agua,Auxiliar de água,Préposé à l'eau,مساعد المياه
+7167,Gerente de cirugía plástica,Gestor de cirurgia plástica,Responsable chirurgie plastique,مدير جراحة التجميل
+7168,Representante de cuentas minoristas,Representante de contas retalho,Représentant comptes retail,ممثل حسابات التجزئة
+7176,Representante corporativo,Representante corporativo,Représentant corporate,ممثل الشركات
+7181,Técnico de software de bases de datos,Técnico de software de bases de dados,Technicien logiciels de bases de données,فني برمجيات قواعد البيانات
+7191,Repartidor,Estafeta,Coursier,سائق دراجة التوصيل
+7193,Administrativo de unidad de enfermería,Empregado de unidade de enfermagem,Employé d'unité de soins,كاتب وحدة التمريض
+7195,Especialista académico,Especialista académico,Spécialiste académique,أخصائي أكاديمي
+7201,Coordinador administrativo clínico,Coordenador administrativo clínico,Coordinateur administratif clinique,منسق إداري سريري
+7202,Gerente de cuentas de nivel de entrada,Gestor de contas de nível de entrada,Responsable de comptes débutant,مدير حسابات مبتدئ
+7203,Subgerente de nivel de entrada,Gestor adjunto de nível de entrada,Responsable adjoint débutant,مساعد مدير مبتدئ
+7208,Especialista en recepción,Especialista em receção,Spécialiste réception,أخصائي الاستلام
+7210,Trabajador de telefonía,Trabalhador de telefonia,Téléopérateur,عامل الهاتف
+7225,Consultor de tienda,Consultor de loja,Consultant magasin,استشاري المتجر
+7229,Especificación,Especificação,Spécification,مواصفات
+7231,Director médico administrativo,Diretor médico administrativo,Directeur médical administratif,مدير طبي إداري
+7233,Director administrativo de laboratorio,Diretor administrativo de laboratório,Directeur administratif de laboratoire,مدير إداري للمختبر
+7238,Supervisor de instalaciones,Supervisor de instalações,Superviseur des installations,مشرف المرافق
+7239,Supervisor de nóminas,Supervisor de folha salarial,Superviseur paie,مشرف الرواتب
+7240,Bloqueador,Bloqueador,Bloqueur,عامل التثبيت الأولي
+7245,Instructor de salud y seguridad,Formador de saúde e segurança,Formateur santé sécurité,مدرب الصحة والسلامة
+7247,Técnico de calidad,Técnico de qualidade,Technicien qualité,فني جودة
+7251,Probador de aire,Testador de ar,Testeur d'air,فاحص الهواء
+7255,Especialista en atención al cliente de farmacia,Especialista de atendimento ao cliente de farmácia,Spécialiste service client pharmacie,أخصائي خدمة عملاء الصيدلية
+7256,Especialista en soporte minorista de farmacia,Especialista de suporte retalho de farmácia,Spécialiste support retail pharmacie,أخصائي دعم تجزئة الصيدلية
+7258,Operador de laminadora de chapa metálica,Operador de laminador de chapa metálica,Opérateur de laminoir de tôles,مشغل درفلة الألواح المعدنية
+7259,Asociado de atención al cliente,Associado de apoio ao cliente,Associé service client,شريك خدمة العملاء
+7260,Asociado de operaciones de clientes,Associado de operações de clientes,Associé opérations clients,شريك عمليات العملاء
+7261,Asociado de atención al cliente,Associado de atendimento ao cliente,Associé service client,شريك خدمة العملاء
+7262,Asociado de soporte al cliente,Associado de suporte ao cliente,Associé support client,شريك دعم العملاء
+7279,Supervisor de limpieza de vehículos,Supervisor de limpeza de automóveis,Superviseur nettoyage véhicules,مشرف تنظيف السيارات
+7285,Auxiliar de ingeniería,Auxiliar de engenharia,Assistant ingénierie,مساعد هندسي
+7286,Auxiliar de campo,Auxiliar de campo,Assistant de terrain,مساعد ميداني
+7288,Auxiliar de inspección,Auxiliar de inspeção,Assistant inspecteur,مساعد المفتش
+7289,Auxiliar de mantenimiento,Auxiliar de manutenção,Assistant maintenance,مساعد الصيانة
+7292,Supervisor de fabricación de moldes,Supervisor de fabrico de moldes,Superviseur fabrication de moules,مشرف صناعة القوالب
+7293,Supervisor de fabricación de redes,Supervisor de fabrico de redes,Superviseur fabrication de filets,مشرف صناعة الشباك
+7295,Auxiliar de producción,Auxiliar de produção,Assistant production,مساعد الإنتاج
+7296,Auxiliar de programa,Auxiliar de programa,Assistant de programme,مساعد البرنامج
+7299,Supervisor de fabricación de pantallas,Supervisor de fabrico de ecrãs,Superviseur fabrication d'écrans,مشرف صناعة الشاشات
+7300,Auxiliar de servicio,Auxiliar de serviço,Assistant service,مساعد الخدمة
+7301,Supervisor de limpieza de tanques,Supervisor de limpeza de tanques,Superviseur nettoyage de réservoirs,مشرف تنظيف الخزانات
+7315,Conductor corporativo,Motorista corporativo,Chauffeur d'entreprise,سائق الشركة
+7317,Gerente de automatización de planta,Gestor de automação de fábrica,Responsable automatisation d'atelier,مدير أتمتة المصنع
+7318,Gerente de proyectos de división de utilidades,Gestor de projetos da divisão de utilidades,Chef de projet division utilités,مدير مشاريع قسم المرافق
+7321,Especialista en control interno,Especialista em controlo interno,Spécialiste contrôle interne,أخصائي الرقابة الداخلية
+7328,Ingeniero de contenidos,Engenheiro de conteúdos,Ingénieur contenu,مهندس المحتوى
+7330,Coordinador de vuelos,Coordenador de voos,Coordinateur de vols,منسق الرحلات الجوية
+7331,Gerente de puerta de embarque,Gestor de portão,Responsable portes d'embarquement,مدير البوابات
+7334,Gerente de rehabilitación,Gestor de reabilitação,Responsable réadaptation,مدير إعادة التأهيل
+7336,Gerente universitario,Gestor universitário,Responsable universitaire,مدير الجامعة
+7337,Gerente de bóveda,Gestor de cofre,Responsable coffre-fort,مدير الخزنة
+7342,Gestor de casos bilingüe,Gestor de casos bilingue,Gestionnaire de dossiers bilingue,مدير حالات ثنائي اللغة
+7353,Gerente de ciencias de la vida,Gestor de ciências da vida,Responsable sciences du vivant,مدير علوم الحياة
+7365,Gerente de compensación laboral,Gestor de compensação de acidentes de trabajo,Responsable indemnisation des accidents du travail,مدير تعويضات العمال
+7366,Director de laboratorio médico,Diretor de laboratório médico,Directeur de laboratoire médical,مدير المختبر الطبي
+7368,Director de vuelo,Diretor de voo,Directeur de vol,مدير الرحلات
+7371,Insertador,Inseridor,Introducteur,عامل الإدخال
+7374,Operador de rectificadora de rodillos de caucho,Operador de retificadora de rolos de borracha,Opérateur rectifieuse de rouleaux caoutchouc,مشغل مطحنة درافيل المطاط
+7375,Técnico certificado en vehículos de emergencia,Técnico certificado em veículos de emergência,Technicien certifié véhicules d'urgence,فني معتمد لمركبات الطوارئ
+7377,Operador de trituradora,Operador de britadeira,Opérateur de concasseur,مشغل الكسارة
+7378,Operador distribuidor,Operador distribuidor,Opérateur distributeur,مشغل الموزع
+7379,Operador de ascensor,Operador de elevador,Opérateur d'ascenseur,مشغل المصعد
+7380,Operador de lavandería,Operador de lavandaria,Opérateur blanchisserie,مشغل المغسلة
+7382,Supervisor de cultivos,Supervisor de culturas,Superviseur cultures,مشرف المحاصيل
+7383,Supervisor forestal,Supervisor florestal,Superviseur forestier,مشرف الغابات
+7386,Ingeniero electrónico de servicio técnico,Engenheiro eletrónico de serviço de campo,Ingénieur électronique service terrain,مهندس إلكترونيات خدمة ميدانية
+7388,Instalador de equipos informáticos,Instalador de computadores,Installateur informatique,مركب أجهزة الحاسوب
+7389,Subsecretario,Subsecretário,Greffier adjoint,كاتب مساعد
+7392,Asistente de aseguramiento,Assistente de garantia,Assistant assurance,مساعد ضمان الجودة
+7393,Limpiador de línea,Limpador de linha,Nettoyeur de ligne,عامل تنظيف الخط
+7394,Inspector de propiedades,Inspetor de propriedades,Inspecteur immobilier,مفتش العقارات
+7395,Supervisor de terapia ocupacional,Supervisor de terapia ocupacional,Superviseur ergothérapie,مشرف العلاج المهني
+7396,Supervisor de reparación de calzado,Supervisor de reparação de calçado,Superviseur réparation chaussures,مشرف إصلاح الأحذية
+7398,Coordinador quirúrgico,Coordenador cirúrgico,Coordinateur chirurgical,منسق الجراحة
+7399,Responsable de proyecto,Responsável de projeto,Chef de projet,قائد المشروع
+7400,Trabajador de bolsas,Trabalhador de sacos,Ouvrier sacs,عامل الأكياس
+7404,Operador de rellenadora trasera,Operador de enchedora traseira,Opérateur remplisseuse arrière,مشغل الحشو الخلفي
+7405,Operador de zapato trasero,Operador de sapato traseiro,Opérateur semelle arrière,مشغل النعل الخلفي
+7406,Operador de respaldo de cinta,Operador de costas de tapete,Opérateur dos de bande,مشغل ظهر الحزام
+7414,Representante financiero asociado,Representante financeiro associado,Représentant financier associé,ممثل مالي مشارك
+7419,Representante de construcción,Representante de construção,Représentant construction,ممثل البناء
+7420,Representante de pacientes,Representante de doentes,Représentant des patients,ممثل المرضى
+7421,Director deportivo,Diretor desportivo,Directeur sportif,مدير رياضي
+7439,Técnico de ascensores,Técnico de elevadores,Technicien ascenseurs,فني المصاعد
+7440,Técnico de lavandería,Técnico de lavandaria,Technicien blanchisserie,فني المغسلة
+7441,Ingeniero marino de bomberos,Engenheiro naval de bombeiros,Ingénieur marine pompiers,مهندس بحري في الإطفاء
+7443,Ingeniero de investigación de equipos marinos,Engenheiro de investigação de equipamentos marítimos,Ingénieur recherche équipements marins,مهندس أبحاث المعدات البحرية
+7444,Ingeniero de ventas de equipos marinos,Engenheiro de vendas de equipamentos marítimos,Ingénieur commercial équipements marins,مهندس مبيعات المعدات البحرية
+7446,Oficial de radio,Oficial de rádio,Radio-navigant,ضابط الراديو
+7447,Representante de ventas de sistemas de seguridad,Representante de vendas de sistemas de segurança,Représentant commercial systèmes de sécurité,ممثل مبيعات أنظمة الأمن
+7449,Ingeniero de almacenamiento,Engenheiro de armazenamento,Ingénieur stockage,مهندس التخزين
+7463,Analista de publicidad,Analista de publicidade,Analyste publicitaire,محلل الإعلان
+7464,Desarrollador de formación,Desenvolvedor de formação,Développeur de formation,مطور التدريب
+7475,Gestor de casos de formación profesional,Gestor de casos de formação profissional,Gestionnaire de dossiers formation professionnelle,مدير حالات التدريب المهني
+7477,Especialista en administración,Especialista em administração,Spécialiste administration,أخصائي الإدارة
+7482,Operador de transportador,Operador de transportador,Opérateur de convoyeur,مشغل الناقل
+7483,Asistente de control de crédito,Assistente de controlo de crédito,Assistant contrôle crédit,مساعد مراقبة الائتمان
+7484,Operador de conformado,Operador de conformação,Opérateur de formage,مشغل التشكيل
+7485,Operador de recepción,Operador de receção,Opérateur réception,مشغل الاستلام
+7489,Supervisor de torre,Supervisor de torre,Superviseur tour,مشرف البرج
+7490,Supervisor de chapado,Supervisor de folheados,Superviseur placage,مشرف القشرة الخشبية
+7506,Arquitecto de procesos,Arquiteto de processos,Architecte processus,مهندس معماري للعمليات
+7507,Técnico de diseño,Técnico de design,Technicien design,فني التصميم
+7508,Mercancías,Mercadorias,Marchandises,بضائع
+7509,Adjunto,Adjunto,Adjoint,نائب
+7513,Gerente de servicios de emergencia ferroviarios,Gestor de serviços de emergência ferroviários,Responsable services d'urgence ferroviaires,مدير خدمات الطوارئ للسكك الحديدية
+7516,Auxiliar de oficina,Auxiliar de escritório,Assistant de bureau,مساعد المكتب
+7517,Gerente de arquitectura,Gestor de arquitetura,Responsable architecture,مدير الهندسة المعمارية
+7520,Gerente de clínica,Gestor de clínica,Responsable de clinique,مدير العيادة
+7521,Coordinador de enfermería clínica,Coordenador de enfermagem clínica,Coordinateur soins infirmiers cliniques,منسق التمريض السريري
+7523,Gerente de carga,Gestor de carga,Responsable de charge,مدير التحميل
+7527,Gerente de informes,Gestor de relatórios,Responsable reporting,مدير التقارير
+7531,Codificador,Codificador,Codeur,مبرمج
+7532,Conductor de obra,Motorista de obra,Chauffeur de chantier,سائق البناء
+7535,Director de residencia geriátrica,Diretor de lar,Directeur d'établissement pour personnes âgées,مدير دار المسنين
+7543,Ingeniero residente,Engenheiro residente,Ingénieur résident,مهندس مقيم
+7546,Supervisor de consultores de energía doméstica,Supervisor de consultores de energia doméstica,Superviseur conseil énergie domestique,مشرف استشاريي الطاقة المنزلية
+7553,Asociado de centro de salud,Associado de centro de saúde,Associé centre de santé,شريك المركز الصحي
+7557,Asociado de operaciones de producto,Associado de operações de produto,Associé opérations produit,شريك عمليات المنتج
+7558,Asociado de seguridad de producto,Associado de segurança de produtos,Associé sécurité produit,شريك سلامة المنتجات
+7562,Director de grupo,Diretor de grupo,Directeur de groupe,مدير المجموعة
+7570,Encargado de línea,Vigilante de linha,Surveillant de ligne,عامل مراقبة الخط
+7584,Conductor de cisterna,Motorista de cisterna,Chauffeur de citerne,سائق الخزان
+7588,Asistente de operador de rotativa,Assistente de operador de rotativa,Assistant opérateur rotative,مساعد مشغل المطبعة الدوارة
+7589,Mecánico de controladores,Mecânico de controladores,Mécanicien contrôleurs,ميكانيكي وحدات التحكم
+7594,Asociado corporativo,Associado corporativo,Associé corporate,شريك الشركة
+7601,Director médico de laboratorio clínico,Diretor médico de laboratório clínico,Directeur médical de laboratoire clinique,مدير طبي للمختبر السريري
+7613,Auxiliar de comunicaciones,Auxiliar de comunicações,Préposé communications,مساعد الاتصالات
+7627,Administrativo de carga,Empregado de carga,Employé fret,كاتب الشحن
+7628,Administrativo hospitalario,Empregado hospitalar,Employé hospitalier,كاتب المستشفى
+7651,Operador de cepillo,Operador de escova,Opérateur brosse,مشغل الفرشاة
+7652,Supervisor de trituradora,Supervisor de britagem,Superviseur concasseur,مشرف الكسارة
+7657,Gerente de rutas de ventas y servicio,Gestor de rotas de vendas e serviço,Responsable tournées ventes et services,مدير مسارات المبيعات والخدمة
+7663,Especialista científico,Especialista científico,Spécialiste scientifique,أخصائي علمي
+7664,Especialista en traslados,Especialista em transferências,Spécialiste transferts,أخصائي النقل
+7668,Asociado de medios,Associado de media,Associé média,شريك الوسائط
+7675,Inspector de carne,Inspetor de carne,Inspecteur viande,مفتش اللحوم
+7678,Conductor y operario polivalente,Motorista e trabalhador polivalente,Chauffeur polyvalent,سائق عامل متعدد المهام
+7680,Operario polivalente,Trabalhador polivalente,Ouvrier polyvalent,عامل متعدد المهام
+7689,Modelista,Modelista,Modéliste,صانع النماذج
+7694,Supervisor de fabricación de modelos,Supervisor de fabrico de modelos,Superviseur fabrication de modèles,مشرف صناعة النماذج
+7695,Supervisor de mecánicos externos,Supervisor de mecânicos externos,Superviseur mécaniciens extérieurs,مشرف الميكانيكيين الخارجيين
+7697,Admin,Admin,Admin,إداري
+7699,Asociado de fabricación,Associado de fabrico,Associé fabrication,شريك التصنيع
+7704,Técnico de entrada de pedidos de farmacia,Técnico de entrada de encomendas de farmácia,Technicien saisie commandes pharmacie,فني إدخال طلبات الصيدلية
+7705,Consultor principal,Consultor principal,Consultant principal,استشاري رئيسي
+7716,Operador de formadora de tubos,Operador de formadora de tubos,Opérateur formeuse de tubes,مشغل تشكيل الأنابيب
+7721,Mecánico de preparación,Mecânico de preparação,Mécanicien de réglage,ميكانيكي الإعداد
+7722,Coordinador de redes,Coordenador de redes,Coordinateur filets,منسق الشباك
+7723,Profesorado,Corpo docente,Corps enseignant,هيئة التدريس
+7724,Ama de casa,Dona de casa,Femme au foyer,ربة منزل
+7726,Administrativo de stock de almacén,Empregado de stock de armazém,Employé stock entrepôt,كاتب مخزون المستودع
+7727,Asistente de productor,Assistente de produtor,Assistant producteur,مساعد المنتج
+7729,Recortador manual,Aparador manual,Ébarbeur manuel,عامل التشذيب اليدوي
+7732,Subdirector,Diretor adjunto,Directeur adjoint,نائب المدير
+7736,Especialista en monitorización de tráfico,Especialista em monitorização de tráfego,Spécialiste surveillance du trafic,أخصائي مراقبة المرور
+7740,Responsable de operaciones de ventas,Responsável de operações de vendas,Responsable opérations commerciales,قائد عمليات المبيعات
+7741,Ayudante de molino,Auxiliar de moinho,Aide moulin,مساعد المطحنة
+7743,Asociado de procesamiento,Associado de processamento,Associé traitement,شريك المعالجة
+7744,Ayudante de tienda,Auxiliar de loja,Aide commerce,مساعد التجزئة
+7745,Soplador,Soprador,Souffleur,عامل النفخ
+7750,Gerente de BI,Gestor de BI,Responsable BI,مدير ذكاء الأعمال
+7751,Auxiliar de centro de negocios,Auxiliar de centro de negócios,Préposé centre d'affaires,مساعد مركز الأعمال
+7754,Gerente de carga,Gestor de carga,Responsable chargement,مدير التحميل
+7755,Gerente de informes,Gestor de reporting,Responsable reporting,مدير التقارير
+7756,Gerente estatal,Gestor estadual,Responsable régional,مدير الولاية
+7757,Gerente de tránsito,Gestor de tránsito,Responsable transit,مدير النقل
+7761,Operador de línea automática de ruedas,Operador de linha automática de rodas,Opérateur ligne automatique roues,مشغل خط العجلات الآلي
+7765,Operador general de máquinas polivalentes,Operador geral de máquinas polivalentes,Opérateur machine polyvalent,مشغل آلات متعددة الأغراض
+7770,Operador reparador de sistemas de utilidades,Operador reparador de sistemas de utilidades,Opérateur réparateur systèmes utilités,مشغل إصلاح أنظمة المرافق
+7771,Supervisor de confitería,Supervisor de confeitaria,Superviseur confiserie,مشرف الحلويات
+7772,Supervisor de formación,Supervisor pedagógico,Superviseur pédagogique,مشرف التدريس
+7774,Supervisor de moldeo,Supervisor de moldagem,Superviseur moulage,مشرف القولبة
+7776,Supervisor de radiología,Supervisor de radiologia,Superviseur radiologie,مشرف الأشعة
+7777,Supervisor de recepción,Supervisor de receção,Superviseur réception,مشرف الاستلام
+7778,Mecánico de rodillos,Mecânico de rolos,Mécanicien de rouleaux,ميكانيكي الدرافيل
+7789,Arquitecto técnico principal,Arquiteto técnico principal,Architecte technique principal,مهندس معماري تقني رئيسي
+7797,Profesor de relaciones humanas,Professor de relações humanas,Enseignant relations humaines,معلم العلاقات الإنسانية
+7801,Supervisor de servicio de bombas,Supervisor de assistência de bombas,Superviseur service pompes,مشرف صيانة المضخات
+7808,Desarrollador de placas,Desenvolvedor de placas,Développeur de plaques,مطور الألواح
+7809,Especialista en adultos,Especialista em adultos,Spécialiste adultes,أخصائي البالغين
+7811,Especialista en conducta,Especialista comportamental,Spécialiste comportemental,أخصائي السلوك
+7827,Gerente de laboratorio fotográfico,Gestor de laboratório fotográfico,Responsable laboratoire photo,مدير مختبر التصوير
+7834,Especialista en ingresos,Especialista em receitas,Spécialiste revenus,أخصائي الإيرادات
+7838,Vendedor auxiliar,Vendedor auxiliar,Vendeur auxiliaire,مساعد مبيعات
+7839,Administrativo de patio,Empregado de pátio,Employé de cour,كاتب الساحة
+7841,Operador de alimentador y unidad de potencia,Operador de alimentador e unidade de potência,Opérateur alimentation et groupe de puissance,مشغل المغذي ووحدة الطاقة
+7847,Ingeniero de recreación,Engenheiro de recreação,Ingénieur loisirs,مهندس الترفيه
+7849,Asistente de patio,Assistente de pátio,Assistant de cour,مساعد الساحة
+7857,Trabajador de forros,Trabalhador de forros,Ouvrier doublure,عامل البطانة
+7858,Profesor de deportes,Professor de desporto,Professeur d'éducation physique,معلم الرياضة
+7860,Oficial de escritorio,Oficial de secretariado,Agent de bureau,موظف المكتب
+7861,Ajustador e inspector,Ajustador e inspetor,Régleur et inspecteur,مُعدِّل ومفتش
+7862,Analista principal,Analista principal,Analyste cœur,محلل أساسي
+7864,Ayudante de mecánico de automóviles,Auxiliar de mecânico de automóveis,Aide mécanicien automobile,مساعد ميكانيكي السيارات
+7865,Ayudante de reparador de automóviles,Auxiliar de reparador de automóveis,Aide réparateur automobile,مساعد إصلاح السيارات
+7866,Ayudante de trabajador de automóviles,Auxiliar de trabalhador de automóveis,Aide ouvrier automobile,مساعد عامل السيارات
+7868,Asociado de servicios financieros,Associado de serviços financeiros,Associé services financiers,شريك الخدمات المالية
+7869,Mecánico de carrocería,Mecânico de carroçaria,Mécanicien carrosserie,ميكانيكي الهياكل
+7873,Especialista en facturación de seguros,Especialista em faturação de seguros,Spécialiste facturation assurance,أخصائي فواتير التأمين
+7874,Especialista en paritorio,Especialista em sala de partos,Spécialiste salle de travail,أخصائي غرفة الولادة
+7881,Representante de planta,Representante de piso,Représentant d'étage,ممثل الأرضيات
+7883,Técnico de fitness,Técnico de fitness,Technicien fitness,فني اللياقة البدنية
+7884,Técnico de inventario,Técnico de inventário,Technicien inventaire,فني الجرد
+7885,Técnico de arena,Técnico de areia,Technicien sable,فني الرمل
+7891,Gerente de instalación de energía solar,Gestor de instalação de energia solar,Responsable installation solaire,مدير تركيب الطاقة الشمسية
+7898,Divisor,Divisor,Refendeur,عامل الشق
+7899,Inspector de acero,Inspetor de aço,Inspecteur acier,مفتش الفولاذ
+7909,Profesor sustituto,Professor substituto,Enseignant remplaçant,معلم بديل
+7920,Mecánico maestro,Mecânico-mestre,Mécanicien maître,ميكانيكي خبير
+7921,Representante de entregas,Representante de entregas,Représentant livraison,ممثل التوصيل
+7922,Administrativo de planificación de mantenimiento,Empregado de planeamento de manutenção,Employé planification maintenance,كاتب تخطيط الصيانة
+7924,Asistente de planificación financiera,Assistente de planeamento financeiro,Assistant planification financière,مساعد التخطيط المالي
+7927,Asistente de programa de formación,Assistente de programa de formação,Assistant programme de formation,مساعد برنامج التدريب
+7934,Analista de transporte,Analista de transportes,Analyste transport,محلل النقل
+7935,Trabajador de monitores,Trabalhador de monitores,Ouvrier moniteur,عامل المراقبة
+7936,Consultor de arte,Consultor de arte,Consultant en art,استشاري الفنون
+7939,Operador de pala cargadora,Operador de pá carregadora,Opérateur de chargeuse frontale,مشغل الجرافة الأمامية
+7945,Operador bilingüe,Operador bilingue,Opérateur bilingue,مشغل ثنائي اللغة
+7946,Auxiliar de orientación,Auxiliar de aconselhamento,Assistant conseiller,مساعد المستشار
+7949,Cofundador,Cofundador,Cofondateur,شريك مؤسس
+7951,Ingeniero consultor,Engenheiro consultor,Ingénieur conseil,مهندس استشاري
+7952,Ingeniero de guardia,Engenheiro de turno,Ingénieur de garde,مهندس المناوبة
+7953,Especialista en auditoría,Especialista em auditoria,Spécialiste audit,أخصائي التدقيق
+7955,Especialista en títulos,Especialista em títulos,Spécialiste titres,أخصائي السندات
+7956,Especialista en bienestar,Especialista em bem-estar,Spécialiste bien-être,أخصائي العافية
+7961,Especialista en ventas de ruta,Especialista em vendas de rota,Spécialiste ventes itinérantes,أخصائي مبيعات المسارات
+7972,Inspector de corte,Inspetor de corte,Inspecteur de coupe,مفتش القطع
+7976,Inspector de ruedas,Inspetor de rodas,Inspecteur roues,مفتش العجلات
+7978,Coordinador hospitalario,Coordenador hospitalar,Coordinateur hospitalier,منسق المستشفى
+7979,Coordinador de tutorías,Coordenador de tutoria,Coordinateur de tutorat,منسق المرشدين
+7982,Profesor de grupo,Professor de grupo,Enseignant de groupe,معلم المجموعة
+7984,Subdirector general de restaurante,Diretor-geral adjunto de restaurante,Directeur général adjoint restaurant,مساعد المدير العام للمطعم
+7985,Director de hospital,Diretor hospitalar,Directeur d'hôpital,مدير المستشفى
+7989,Gerente de muelle,Gestor de cais,Responsable de quai,مدير الرصيف
+7994,Supervisor de reparación de frenos,Supervisor de reparação de travões,Superviseur réparation freins,مشرف إصلاح الفرامل
+7996,Técnico de órdenes de división,Técnico de ordens de divisão,Technicien ordres de division,فني أوامر القسم
+8004,Técnico educativo,Técnico educativo,Technicien pédagogique,فني تعليمي
+8006,Analista de marketing en redes sociales,Analista de marketing de redes sociais,Analyste marketing réseaux sociaux,محلل تسويق وسائل التواصل الاجتماعي
+8007,Profesor de servicios de laboratorio clínico,Professor de serviços de laboratório clínico,Enseignant services laboratoire clinique,معلم خدمات المختبر السريري
+8009,Analista de registros,Analista de registos,Analyste des dossiers,محلل السجلات
+8016,Auxiliar de pacientes,Auxiliar de doentes,Préposé aux patients,مساعد المرضى
+8018,Asociado de red,Associado de rede,Associé réseau,شريك الشبكة
+8020,Mecánico de radio,Mecânico de rádio,Mécanicien radio,ميكانيكي الراديو
+8021,Trabajador de latas,Trabalhador de latas,Ouvrier boîtes,عامل العلب
+8022,Trabajador de contacto,Trabalhador de contacto,Employé de contact,عامل الاتصال
+8023,Reparador de mantenimiento,Reparador de manutenção,Réparateur maintenance,مُصلِح الصيانة
+8024,Trabajador ferroviario,Trabalhador ferroviário,Cheminot,عامل السكك الحديدية
+8025,Trabajador de muestras,Trabalhador de amostras,Préleveur,عامل العينات
+8032,Coordinador de educación para la salud comunitaria,Coordenador de educação para a saúde comunitária,Coordinateur éducation santé communautaire,منسق التثقيف الصحي المجتمعي
+8033,Coordinador de programas de salud comunitaria,Coordenador de programas de saúde comunitária,Coordinateur programmes santé communautaire,منسق برامج الصحة المجتمعية
+8034,Coordinador de agentes de servicios comunitarios,Coordenador de agentes de serviço comunitário,Coordinateur agents de service communautaire,منسق ضباط الخدمة المجتمعية
+8035,Asistente de oficial de préstamos,Assistente de gestor de crédito,Assistant chargé de crédit,مساعد موظف القروض
+8036,Coordinador de relaciones escuela-comunidad,Coordenador de relações escola-comunidade,Coordinateur relations école-communauté,منسق العلاقات بين المدرسة والمجتمع
+8040,Ingeniero de gestión de registros,Engenheiro de gestão de registos,Ingénieur gestion des documents,مهندس إدارة السجلات
+8046,Coordinador global,Coordenador global,Coordinateur global,منسق عالمي
+8050,Responsable de servicio de equipos,Responsável de serviço de equipamentos,Responsable service équipements,قائد خدمة المعدات
+8055,Ingeniero de ventas de equipos químicos,Engenheiro de vendas de equipamento químico,Ingénieur commercial équipements chimiques,مهندس مبيعات المعدات الكيميائية
+8058,Administrativo de patrones,Empregado de modelos,Employé modèles,كاتب النماذج
+8069,Director de producción,Diretor de produção,Directeur de production,مدير الإنتاج
+8072,Ingeniero de trituración,Engenheiro de britagem,Ingénieur concassage,مهندس الكسارة
+8078,Supervisor de recubrimiento,Supervisor de revestimento,Superviseur revêtement,مشرف الطلاء
+8079,Supervisor de empleo,Supervisor de emprego,Superviseur emploi,مشرف التوظيف
+8080,Supervisor de fitness,Supervisor de fitness,Superviseur fitness,مشرف اللياقة البدنية
+8081,Supervisor de mercancías,Supervisor de mercadorias,Superviseur marchandises,مشرف البضائع
+8082,Supervisor de empaquetado,Supervisor de embalagem,Superviseur conditionnement,مشرف التعبئة
+8083,Supervisor de aparejadores,Supervisor de aparelhadores,Superviseur gréeurs,مشرف الرفع والتثبيت
+8084,Asociado de procesos de negocio,Associado de processos de negócio,Associé processus métier,شريك عمليات الأعمال
+8085,Asistente de lentes,Assistente de lentes,Assistant optique,مساعد العدسات
+8088,Agente general,Agente geral,Agent général,وكيل عام
+8089,Director de ingeniería de tráfico,Diretor de engenharia de tráfego,Directeur ingénierie de la circulation,مدير هندسة المرور
+8091,Cortador de prensa,Cortador de prensa,Coupeur presse,عامل قطع المكبس
+8092,Enfermera de gestión de calidad,Enfermeiro de gestão da qualidade,Infirmier management qualité,ممرض إدارة الجودة
+8095,Evaluador,Avaliador,Expert,مقيّم
+8097,Gerente de marketing de contenidos digitales,Gestor de marketing de conteúdos digitais,Responsable marketing de contenu digital,مدير التسويق بالمحتوى الرقمي
+8117,Especialista en cobros,Especialista em cobranças,Spécialiste recouvrement,أخصائي التحصيل
+8120,Especialista en fotografía,Especialista em fotografia,Spécialiste photo,أخصائي التصوير
+8137,Responsable de programa,Responsável de programa,Responsable de programme,قائد البرنامج
+8138,Gerente de búsqueda de títulos,Gestor de pesquisa de títulos,Responsable recherche de titres,مدير بحث السندات
+8140,Coordinador contable,Coordenador contabilístico,Coordinateur comptable,منسق المحاسبة
+8147,Director de front office,Diretor de front office,Directeur front-office,مدير الاستقبال
+8148,Trabajador principal de suministros,Trabalhador principal de abastecimento,Chef approvisionnement,عامل التوريد الرئيسي
+8154,Director inmobiliario,Diretor imobiliário,Directeur immobilier,مدير العقارات
+8158,Operador de pruebas de pozos,Operador de testes de poços,Opérateur d'essais de puits,مشغل اختبار الآبار
+8159,Coordinador de patio,Coordenador de pátio,Coordinateur de cour,منسق الساحة
+8160,Supervisor de servicio de gases industriales,Supervisor de assistência de gases industriais,Superviseur service gaz industriels,مشرف خدمة الغازات الصناعية
+8164,Responsable de seguridad,Responsável de segurança,Responsable sécurité,قائد الأمن
+8167,Mecánico de lavadoras automáticas,Mecânico de máquinas de lavar automáticas,Mécanicien laveuses automatiques,ميكانيكي الغسالات الآلية
+8170,Técnico conductual,Técnico comportamental,Technicien comportemental,فني سلوكي
+8172,Técnico de rango,Técnico de gama,Technicien gamme,فني المدى
+8175,Operador de rectificadora,Operador de rectificadora,Opérateur de meule,عامل المطحنة
+8177,Asociado de TI,Associado de TI,Associé informatique,شريك تقنية المعلومات
+8180,Especialista en garantía de calidad clínica,Especialista em garantia de qualidade clínica,Spécialiste assurance qualité clinique,أخصائي ضمان الجودة السريرية
+8182,Especialista en garantía de calidad de investigación,Especialista em garantia de qualidade de investigação,Spécialiste assurance qualité recherche,أخصائي ضمان الجودة في البحث
+8183,Especialista senior en garantía de calidad,Especialista sénior em garantia de qualidade,Spécialiste senior assurance qualité,أخصائي أول لضمان الجودة
+8187,Vendedor conductor,Vendedor-motorista,Commercial livreur,مندوب مبيعات سائق
+8192,Ingeniero forestal,Engenheiro florestal,Ingénieur forestier,مهندس غابات
+8201,Supervisor certificado en arteterapia,Supervisor certificado em arteterapia,Superviseur certifié en art-thérapie,مشرف معتمد للعلاج بالفنون
+8206,Ayudante de proceso,Auxiliar de processo,Aide process,مساعد العمليات
+8210,Supervisor de molinero,Supervisor de moleiro,Superviseur meunier,مشرف الطحن
+8211,Supervisor de asistentes jurídicos,Supervisor de paralegais,Superviseur juridique,مشرف المساعدين القانونيين
+8213,Gerente de apelaciones,Gestor de recursos,Responsable des recours,مدير الاستئنافات
+8217,Gerente de litigios,Gestor de contencioso,Responsable contentieux,مدير التقاضي
+8218,Gerente administrador,Gestor-administrador,Gérant,مدير إداري عام
+8221,Gerente de báscula,Gestor de balança,Responsable pesage,مدير الميزان
+8225,Ventas médicas,Vendas médicas,Ventes médicales,مبيعات طبية
+8231,Agente especial,Agente especial,Agent spécial,عميل خاص
+8232,Responsable de sistemas de negocio,Responsável de sistemas de negócio,Responsable systèmes métier,قائد أنظمة الأعمال
+8234,Operador de vehículo de salud móvil,Operador de veículo de saúde móvel,Opérateur unité de santé mobile,مشغل مركبة الصحة المتنقلة
+8236,Coordinador de fisioterapia,Coordenador de fisioterapia,Coordinateur kinésithérapie,منسق العلاج الطبيعي
+8240,Operador de elevación,Operador de elevação,Opérateur de levage,مشغل الرافعة
+8241,Administrativo de transporte,Empregado de transportes,Employé transport,كاتب النقل
+8243,Aplicador,Aplicador,Applicateur,عامل التطبيق
+8255,Asistente de transporte,Assistente de transportes,Assistant transport,مساعد النقل
+8256,Trabajador de señalización,Trabalhador de sinalização,Ouvrier signalisation,عامل الإشارات
+8258,Director de planificación patrimonial,Diretor de planeamento patrimonial,Directeur de la planification successorale,مدير تخطيط التركات
+8260,Director de fisioterapia,Diretor de fisioterapia,Directeur kinésithérapie,مدير العلاج الطبيعي
+8263,Quitador,Removedor,Décapeur,عامل الإزالة
+8264,Especialista en acceso,Especialista em acesso,Spécialiste accès,أخصائي الوصول
+8268,Especialista en QA,Especialista em QA,Spécialiste QA,أخصائي ضمان الجودة
+8269,Especialista en transporte,Especialista em transporte,Spécialiste transport,أخصائي النقل
+8270,Representante administrativo,Representante administrativo,Représentant administratif,ممثل إداري
+8271,Agente agrícola,Agente agrícola,Agent agricole,وكيل زراعي
+8275,Asociado de planta,Associado de piso,Associé d'étage,شريك الأرضيات
+8284,Inspector reparador de equipos contra incendios,Inspetor reparador de equipamento de incêndio,Inspecteur réparateur matériel incendie,مفتش إصلاح معدات الحريق
+8288,Gerente de ciencias naturales,Gestor de ciências naturais,Responsable sciences naturelles,مدير العلوم الطبيعية
+8289,Gerente de ciencias naturales,Gestor de ciências naturais,Responsable sciences naturelles,مدير العلوم الطبيعية
+8292,Gerente de terapia respiratoria,Gestor de terapia respiratória,Responsable thérapie respiratoire,مدير العلاج التنفسي
+8299,Mecánico de procesamiento de datos,Mecânico de processamento de dados,Mécanicien traitement de données,ميكانيكي معالجة البيانات
+8301,Probador especial,Testador especial,Testeur spécial,فاحص خاص
+8311,Residente,Residente,Résident,مقيم
+8321,Asociado de entregas,Associado de entregas,Associé livraison,شريك التوصيل
+8322,Administrativo de distribución,Empregado de distribuição,Employé distribution,كاتب التوزيع
+8324,Técnico de seguridad,Técnico de segurança,Technicien sécurité,فني السلامة
+8325,Administrativo de vídeo,Empregado de vídeo,Employé vidéo,كاتب الفيديو
+8338,Consultor de soporte al cliente,Consultor de suporte ao cliente,Consultant support client,استشاري دعم العملاء
+8339,Becario de arquitectura,Estagiário de arquitetura,Stagiaire architecte,متدرب معماري
+8341,Becario de negocios,Estagiário de negócios,Stagiaire business,متدرب أعمال
+8343,Becario de consultoría,Estagiário de consultoria,Stagiaire consultant,متدرب استشارات
+8344,Becario de diseño,Estagiário de design,Stagiaire design,متدرب تصميم
+8345,Becario de desarrollo,Estagiário de desenvolvimento,Stagiaire développement,متدرب تطوير
+8346,Becario de educación,Estagiário de educação,Stagiaire éducation,متدرب تعليم
+8347,Becario de ingeniería,Estagiário de engenharia,Stagiaire ingénieur,متدرب هندسة
+8348,Becario de ingeniería,Estagiário de engenharia,Stagiaire ingénierie,متدرب هندسة
+8351,Becario de gestión,Estagiário de gestão,Stagiaire management,متدرب إدارة
+8352,Becario de gerencia,Estagiário de gestão,Stagiaire manager,متدرب مدير
+8353,Becario de marketing,Estagiário de marketing,Stagiaire marketing,متدرب تسويق
+8354,Interno médico,Interno médico,Interne en médecine,متدرب طبي
+8355,Becario de enfermería,Estagiário de enfermagem,Stagiaire infirmier,متدرب تمريض
+8357,Becario de operaciones,Estagiário de operações,Stagiaire opérations,متدرب عمليات
+8358,Auxiliar médico,Auxiliar médico,Aide médical,مساعد طبيب
+8359,Becario de producción,Estagiário de produção,Stagiaire production,متدرب إنتاج
+8361,Becario de proyectos,Estagiário de projetos,Stagiaire projet,متدرب مشاريع
+8362,Becario de calidad,Estagiário de qualidade,Stagiaire qualité,متدرب جودة
+8364,Operador de unidad de recuperación,Operador de unidade de recuperação,Opérateur unité de récupération,مشغل وحدة الاسترداد
+8365,Becario de investigación,Estagiário de investigação,Stagiaire recherche,متدرب بحث
+8366,Becario de enfermería RN,Estagiário de enfermagem RN,Stagiaire infirmier RN,متدرب تمريض مسجل
+8367,Becario de ventas,Estagiário de vendas,Stagiaire commercial,متدرب مبيعات
+8368,Becario de seguridad,Estagiário de segurança,Stagiaire sécurité,متدرب أمن
+8369,Becario de software,Estagiário de software,Stagiaire logiciel,متدرب برمجيات
+8370,Becario tecnológico,Estagiário tecnológico,Stagiaire tech,متدرب تقنية
+8371,Becario técnico,Estagiário técnico,Stagiaire technique,متدرب تقني
+8375,Coordinador de préstamos comerciales,Coordenador de crédito comercial,Coordinateur crédit commercial,منسق القروض التجارية
+8377,Auxiliar de horno,Auxiliar de forno,Préposé four,مساعد الفرن
+8384,Supervisor de conserjería,Supervisor de zeladoria,Superviseur de la conciergerie,مشرف الحراسة
+8385,Probador de laboratorio,Testador de laboratório,Testeur de laboratoire,فاحص المختبر
+8391,Asociado de información asistencial,Associado de informação de cuidados,Associé information soins,شريك معلومات الرعاية
+8393,Coordinador de fruta,Coordenador de fruta,Coordinateur fruits,منسق الفاكهة
+8394,Analista de aprendizaje,Analista de aprendizagem,Analyste apprentissage,محلل التعلم
+8397,Operador de cocina,Operador de cozinha,Opérateur cuisine,مشغل المطبخ
+8398,Operador de mantenimiento,Operador de manutenção,Opérateur maintenance,مشغل الصيانة
+8407,Auxiliar de alimentación,Auxiliar alimentar,Aide alimentaire,مساعد الغذاء
+8408,Inspector de azulejos,Inspetor de azulejos,Inspecteur carrelage,مفتش البلاط
+8409,Inspector de neumáticos,Inspetor de pneus,Inspecteur pneus,مفتش الإطارات
+8420,Administrativo de vehículos a motor,Empregado de veículos a motor,Employé véhicules à moteur,كاتب المركبات الآلية
+8423,Supervisor de pruebas físicas,Supervisor de testes físicos,Superviseur essais physiques,مشرف الاختبارات الفيزيائية
+8428,Supervisor de montaje de muelles,Supervisor de montagem de molas,Superviseur assemblage ressorts,مشرف تجميع النوابض
+8430,Supervisor de muelles,Supervisor de molas,Superviseur ressorts,مشرف النوابض
+8432,Supervisor de trabajos de patio,Supervisor de trabalhos de pátio,Superviseur travaux de cour,مشرف عمال الساحة
+8438,Administrativo de control de procesamiento de datos,Empregado de controlo de processamento de dados,Employé contrôle traitement de données,كاتب مراقبة معالجة البيانات
+8439,Gerente RN,Gestor RN,Responsable RN,مدير مسجل
+8440,Asistente de estación de electricistas,Assistente de estação de eletricistas,Assistant station électriciens,مساعد محطة الكهربائيين
+8450,Especialista administrativo,Especialista administrativo,Spécialiste administratif,أخصائي كتابي
+8452,Especialista en fabricación,Especialista em fabrico,Spécialiste fabrication,أخصائي التصنيع
+8453,Especialista en informática,Especialista em informática,Spécialiste informatique,أخصائي المعلوماتية
+8454,Mecánico principal de tanques,Mecânico principal de tanques,Chef mécanicien réservoirs,ميكانيكي الخزانات الرئيسي
+8455,Especialista en búsqueda,Especialista em pesquisa,Spécialiste recherche,أخصائي البحث
+8458,Asistente de carpintero,Assistente de carpinteiro,Assistant menuisier,مساعد النجار
+8459,Asistente de químico,Assistente de químico,Assistant chimiste,مساعد الكيميائي
+8460,Trabajador de carrocería de automóviles,Trabalhador de carroçaria automóvel,Ouvrier carrosserie automobile,عامل هياكل السيارات
