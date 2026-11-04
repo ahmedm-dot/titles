@@ -851,7 +851,7 @@ rank,title_es,title_pt,title_fr,title_ar
 36988,Ajustador de martillos,Ajustador de martelos,Régleur de marteaux,ضابط المطارق
 36989,Asistente de igualdad de oportunidades,Assistente de igualdade de oportunidades,Assistant égalité des chances,مساعد تكافؤ الفرص
 36992,Asistente de revisión de permisos,Assistente de análise de licenças,Assistant d'instruction des permis,مساعد مراجعة التصاريح
-36993,Enrollador de tabaco,Enroladeira de tabaco,Roulleur de tabac,عامل لف التبغ
+36993,Enrollador de tabaco,Enroladeira de tabaco,Rouleur de tabac,عامل لف التبغ
 36996,Enlace de atención sanitaria,Interlocutor de cuidados de saúde,Correspondant soins de santé,مسؤول ارتباط الرعاية الصحية
 36997,Enlace de cuidados paliativos,Interlocutor de cuidados paliativos,Correspondant soins palliatifs,مسؤول ارتباط الرعاية التلطيفية
 37004,Director de ventas de suscripción,Diretor de vendas de subscrição,Directeur commercial souscription,مدير مبيعات التأمين
@@ -1798,3 +1798,204 @@ rank,title_es,title_pt,title_fr,title_ar
 39587,Jefe de cuadrilla,Chefe de equipa,Chef d'équipe,رئيس الطاقم
 39588,Jefe seco,Chefe seco,Chef à sec,رئيس الجفاف
 39589,Jefe de motor,Chefe de motor,Chef moteur,رئيس المحرك
+39591,Jefe de incendios,Chefe de incêndios,Chef des feux,رئيس الحرائق
+39593,Jefe de máquinas,Chefe de máquinas,Chef de machines,رئيس الآلات
+39594,Jefe de motor,Chefe de motor,Chef moteur,رئيس المحرك الآلي
+39595,Jefe de carretera,Chefe de estrada,Chef de route,رئيس الطريق
+39596,Jefe de sierra,Chefe de serra,Chef scie,رئيس المنشار
+39597,Jefe de turno,Chefe de turno,Chef d'équipe de quart,رئيس المناوبة
+39599,Técnico de mantenimiento de señalización eléctrica,Técnico de manutenção de sinalética eléctrica,Technicien d'entretien de signalétique électrique,فني صيانة اللوحات الكهربائية
+39605,Mezclador de plumas,Misturador de penas,Mélangeur de plumes,عامل خلط الريش
+39614,Recolector a granel,Recolhedor a granel,Trieur en vrac,عامل التقاط بالجملة
+39615,Grabador químico,Gravador químico,Graveur chimique,نقّاش كيميائي
+39625,Grabador musical,Gravador musical,Graveur musical,نقّاش الموسيقى
+39627,Grabador de caucho,Gravador de borracha,Graveur sur caoutchouc,نقّاش المطاط
+39631,Electricista de relojería,Eletricista de relojoaria,Électricien horloger,كهربائي الساعات
+39632,Maquinista de instalación exterior,Maquinista de instalação exterior,Machiniste d'installations extérieures,ميكانيكي التركيبات الخارجية
+39635,Enlace de acceso,Interlocutor de acesso,Correspondant d'accès,مسؤول ارتباط الوصول
+39636,Persona de continuidad,Pessoa de continuidade,Agent de continuité,موظف الاستمرارية
+39649,Recolector de leche,Recolhedor de leite,Collecteur de lait,عامل جمع الحليب
+39652,Redactor de tarjetas de exhibición,Redator de cartões de exposição,Rédacteur de cartes d'étalage,كاتب بطاقات العرض
+39663,Bloqueador automático,Bloqueador automático,Bloqueur automatique,آلة التثبيت الآلية
+39665,Gerente de atención al cliente,Gestor de apoio ao cliente,Responsable du support client,مدير دعم العملاء
+39667,Reparador de cremalleras,Reparador de fechos,Réparateur de fermetures éclair,مصلح السحابات
+39675,Clasificador de huevos,Classificador de ovos,Trieur d'œufs,فارز البيض
+39679,Clasificador de cerdos,Classificador de suínos,Trieur de porcs,فارز الخنازير
+39687,Clasificador de cáscaras,Classificador de cascas,Trieur de coquilles,فارز القشور
+39692,Revelador de impresión automático,Revelador de impressão automático,Révélateur d'impression automatique,جهاز تحميض الطباعة الآلي
+39698,Rellenador,Preenchedor,Remplisseur,عامل التعبئة
+39701,Representante de planes,Representante de planos,Représentant de plans,ممثل الخطط
+39722,Jefe de cafetería,Chefe de cafetaria,Chef de cafétéria,رئيس المقهى
+39724,Operador de máquina medidora,Operador de máquina de medição,Opérateur de machine à mesurer,مشغل آلة القياس
+39727,Operador de máquina de inspección de bebidas,Operador de máquina de inspeção de bebidas,Opérateur de machine d'inspection des boissons,مشغل آلة فحص المشروبات
+39728,Montador de detalles,Montador de pormenores,Monteur de détails,عامل تجميع التفاصيل
+39734,Recortador de cuentas,Aparador de contas,Ébarbeur de perles,عامل تشذيب الخرز
+39735,Clasificador de lúpulo,Classificador de lúpulo,Trieur de houblon,فارز الشمر
+39736,Verificador de dibujos de troqueles,Verificador de desenhos de matrizes,Contrôleur de dessins de matrices,مراقب رسومات القوالب
+39737,Pulidor de tiras,Polidor de tiras,Polisseur de bandes,عامل تلميع الشرائط
+39738,Verificador de dibujos de herramientas,Verificador de desenhos de ferramentas,Contrôleur de dessins d'outillage,مراقب رسومات الأدوات
+39741,Cortador de cuentas,Cortador de contas,Coupeur de perles,قاطع الخرز
+39742,Cortador de ribetes,Cortador de debruns,Coupeur de galons,قاطع الشريط الحاف
+39743,Cortador de cortinajes,Cortador de cortinados,Coupeur de draperies,قاطع الستائر
+39744,Cortador de sobres,Cortador de envelopes,Coupeur d'enveloppes,قاطع الأظرف
+39746,Especialista en reclamaciones y recursos,Especialista em reclamações e recursos,Spécialiste des réclamations et recours,أخصائي الشكاوى والطعون
+39747,Capitán de experiencia del huésped,Capitão de experiência do hóspede,Chef de l'expérience client,قائد تجربة الضيوف
+39748,Cortador de solapas,Cortador de sobreposições,Coupeur de recouvrements,قاطع التراكب
+39749,Especialista en orientación y movilidad,Especialista em orientação e mobilidade,Spécialiste en orientation et mobilité,أخصائي التوجيه والتنقل
+39750,Especialista en orientación y movilidad,Especialista em orientação e mobilidade,Spécialiste en orientation et mobilité,أخصائي التوجيه والتنقل
+39751,Cortador de bolsillos,Cortador de bolsos,Coupeur de poches,قاطع الجيوب
+39753,Cortador de tonos,Cortador de tons,Coupeur de nuances,قاطع الظلال
+39754,Cortador de tallos,Cortador de hastes,Coupeur de tiges,قاطع السيقان
+39755,Cortador de hojalata,Cortador de folha-de-flandres,Coupeur de fer-blanc,قاطع الصفيح
+39756,Cortador de recortes,Cortador de aparas,Coupeur de chutes,قاطع الفضلات
+39760,Líder de cambios de ventas y servicio,Líder de alterações de vendas e serviço,Responsable des changements commerciaux et de service,قائد تغييرات المبيعات والخدمة
+39761,Reparador de correas,Reparador de correias,Réparateur de courroies,مصلح الأحزمة
+39763,Hombre de circulación,Homem de circulação,Homme de circulation,عامل التداول
+39765,Reparador de marcos,Reparador de armações,Réparateur de cadres,مصلح الإطارات
+39766,Hombre de admisión,Homem de admissão,Homme d'admission,عامل الاستقبال
+39771,Reparador de bobinadoras,Reparador de bobinadoras,Réparateur d'enrouleuses,مصلح آلات اللف
+39772,Prácticas de galería,Estágio de galeria,Stage en galerie,تدريب في المعرض
+39775,Extractor de traviesas,Extrator de travessas,Arracheur de traverses,عامل سحب الروابط
+39783,Forrador de bolsas,Forrador de sacos,Doublure de sacs,عامل تبطين الأكياس
+39784,Forrador de barriles,Forrador de barris,Doublure de fûts,عامل تبطين البراميل
+39785,Forrador de carrocerías,Forrador de carroçarias,Doublure de carrosseries,عامل تبطين الهياكل
+39786,Forrador de cajas,Forrador de caixas,Doublure de boîtes,عامل تبطين الصناديق
+39787,Forrador de frenos,Forrador de travões,Garnisseur de freins,عامل تبطين الفرامل
+39788,Forrador de estuches,Forrador de estojos,Doublure d'étuis,عامل تبطين العلب
+39789,Forrador de celdas,Forrador de células,Doublure de cellules,عامل تبطين الخلايا
+39790,Forrador de puertas,Forrador de portas,Doublure de portes,عامل تبطين الأبواب
+39791,Forrador de hornos,Forrador de fornos,Garnisseur de fours,عامل تبطين الأفران
+39792,Forrador de sombreros,Forrador de chapéus,Doublure de chapeaux,عامل تبطين القبعات
+39793,Forrador de tuberías,Forrador de tubagens,Garnisseur de tuyaux,عامل تبطين الأنابيب
+39794,Forrador de caucho,Forrador de borracha,Garnisseur en caoutchouc,عامل تبطين المطاط
+39806,Cortador de cuchillo caliente,Cortador de faca quente,Coupeur au couteau chaud,قاطع بالسكين الساخنة
+39811,Cortador de piezas pequeñas,Cortador de peças pequenas,Coupeur de petites pièces,قاطع القطع الصغيرة
+39814,Cortador de tipos de madera,Cortador de tipos de madeira,Coupeur de caractères en bois,قاطع الحروف الخشبية
+39819,Planificador de construcción,Planeador de construção,Planificateur de chantier,مخطط البناء
+39820,Planificador corporativo,Planeador corporativo,Planificateur d'entreprise,مخطط الشركات
+39821,Planificador de cuadrillas,Planeador de equipas,Planificateur d'équipes,مخطط الفرق
+39824,Planificador de equipos,Planeador de equipamentos,Planificateur d'équipements,مخطط المعدات
+39828,Planificador de materiales,Planeador de materiais,Planificateur de matériaux,مخطط المواد
+39829,Planificador de materiales,Planeador de materiais,Planificateur de matériaux,مخطط المواد
+39837,Planificador de programas,Planeador de programas,Planificateur de programmes,مخطط البرامج
+39841,Planificador sénior,Planeador sénior,Planificateur senior,مخطط أول
+39844,Ajustador de máquina de recubrimiento de papel carbón,Ajustador de máquina de revestimento de papel químico,Régleur de machine d'enduction de papier carbone,ضابط آلة تغطية ورق الكربون
+39847,Ajustador de máquina de fundas de rodillos de pintura,Ajustador de máquina de capas de rolos de pintura,Régleur de machine de manchons de rouleaux à peinture,ضابط آلة أغطية أسطوانات الطلاء
+39851,Ajustador de mangas de puntada ciega,Ajustador de mangas de ponto corrido,Régleur de manches à point noué,ضابط الأكمام بالغرز المقفلة
+39853,Máquina fabricante de aros,Máquina fabricante de aros,Machine à cerceaux,آلة صناعة الأطواق
+39857,Pesador de algodón,Pesador de algodão,Peseur de coton,موزن القطن
+39860,Limpiador de cacahuetes,Limpador de amendoins,Nettoyeur de cacahuètes,عامل تنظيف الفول السوداني
+39862,Limpiador de carretes,Limpador de carretos,Nettoyeur de bobines,عامل تنظيف البكرات
+39863,Limpiador de estufas,Limpador de fogões,Nettoyeur de poêles,عامل تنظيف المواقد
+39864,Cargador de vagones de cemento,Carregador de vagões de cimento,Chargeur de wagons de ciment,عامل تحميل عربات الإسمنت
+39870,Analista de resolución de conflictos,Analista de resolução de litígios,Analyste de résolution des litiges,محلل حل النزاعات
+39882,Empaquetador de aislamiento,Embalador de isolamento,Emballeur d'isolants,عامل تعبئة العزل
+39883,Pintor de bordes de paneles,Pintor de arestas de painéis,Peintre de chants de panneaux,عامل دهان حواف الألواح
+39884,Moldeador de banco,Moldador de bancada,Mouleur sur établi,عامل قولبة على المنضدة
+39885,Moldeador de bordes,Moldador de arestas,Mouleur de bords,عامل قولبة الحواف
+39888,Especialista sénior en Lean Six Sigma,Especialista sénior em Lean Six Sigma,Spécialiste senior Lean Six Sigma,أخصائي أول في Lean Six Sigma
+39892,Oficial de centro de información de combate de estado mayor,Oficial do centro de informação de combate do estado-maior,Officier du centre d'information de combat d'état-major,ضابط مركز معلومات القتال للأركان
+39895,Hombre de puerta lateral,Homem de porta lateral,Homme de porte latérale,عامل الباب الجانبي
+39917,Ingeniero de subproductos,Engenheiro de subprodutos,Ingénieur de sous-produits,مهندس المنتجات الثانوية
+39919,Ingeniero de cuchara de almeja,Engenheiro de bivalve,Ingénieur de benne preneuse,مهندس الملقط ذو الفكين
+39920,Ingeniero de durabilidad,Engenheiro de durabilidade,Ingénieur de durabilité,مهندس المتانة
+39928,Ingeniero de oxidación,Engenheiro de oxidação,Ingénieur d'oxydation,مهندس الأكسدة
+39929,Ingeniero de proyectos,Engenheiro de projetos,Ingénieur de projet,مهندس المشاريع
+39930,Ingeniero de cualificación,Engenheiro de qualificação,Ingénieur de qualification,مهندس التأهيل
+39932,Ingeniero de contenedores refrigerados,Engenheiro de contentores refrigerados,Ingénieur de conteneurs frigorifiques,مهندس الحاويات المبردة
+39933,Ingeniero de resultados,Engenheiro de resultados,Ingénieur des résultats,مهندس النتائج
+39935,Ingeniero de fototelefoto,Engenheiro de telefoto,Ingénieur de téléphoto,مهندس التصوير عن بعد
+39936,Montador de torres,Montador de torres,Monteur de tours,عامل تركيب الأبراج
+39937,Ingeniero de parada técnica,Engenheiro de paragem técnica,Ingénieur d'arrêt technique,مهندس التوقف الفني
+39943,Lavador de bobinas,Lavador de bobinas,Laveur de bobines,عامل غسل البكرات
+39945,Lavador de ostras,Lavador de ostras,Laveur d'huîtres,عامل غسل المحار
+39946,Instructor EPIC,Formador EPIC,Formateur EPIC,مدرب EPIC
+39948,Marcador de empresa,Marcador de empresa,Marqueur d'entreprise,عامل تمييز الشركات
+39960,Asociado de centro de distribución,Associado de centro de distribuição,Associé de plateforme,مساعد مركز التوزيع
+39966,Auxiliar institucional,Auxiliar institucional,Aide institutionnel,مساعد مؤسسي
+39967,Auxiliar de guardabosques,Auxiliar de guarda florestal,Aide garde forestier,مساعد حارس الغابة
+39968,Auxiliar de supervisión,Auxiliar de supervisão,Aide superviseur,مساعد المشرف
+39970,Ayudante de instalador de aire acondicionado,Auxiliar de instalador de ar condicionado,Aide installateur de climatisation,مساعد فني تركيب المكيفات
+39971,Ayudante de reparación de bobinadores de inducidos,Auxiliar de reparação de bobinadores de induzido,Aide réparateur d'enrouleur d'induit,مساعد إصلاح ملفات المحركات
+39973,Ayudante de operador de equipo de perforación,Auxiliar de operador de equipamento de perfuração,Aide opérateur de foreuse,مساعد مشغل جهاز الحفر
+39974,Ayudante de desescamado de caña de campo,Auxiliar de descamação de cana de campo,Aide écailleur de canne sur champ,مساعد تقشير قصب الحقل
+39975,Ayudante de operador de puente de licor,Auxiliar de operador de ponte de licor,Aide opérateur de pont à liqueur,مساعد مشغل جسر السائل
+39976,Ayudante de reparación de bobinadores de inducidos,Auxiliar de reparação de bobinadores de induzido,Aide réparateur d'enrouleur d'induit,مساعد إصلاح ملفات المحركات
+39982,Estratega de cuentas,Estratega de contas,Stratège de comptes,استراتيجي الحسابات
+39986,Estratega de clientes,Estratega de clientes,Stratège clients,استراتيجي العملاء
+39991,Estratega de información,Estratega de informação,Stratège de l'information,استراتيجي المعلومات
+39993,Estratega de aprendizaje,Estratega de aprendizagem,Stratège de l'apprentissage,استراتيجي التعلم
+39997,Estratega de redes,Estratega de redes,Stratège réseaux,استراتيجي الشبكات
+39999,Estratega principal,Estratega principal,Stratège principal,استراتيجي رئيسي
+40000,Estratega de programas,Estratega de programas,Stratège de programmes,استراتيجي البرامج
+40001,Estratega de seguridad,Estratega de segurança,Stratège sécurité,استراتيجي الأمن
+40002,Líder de grupo de procesamiento de semiconductores,Líder de grupo de processamento de semicondutores,Chef de groupe traitement des semi-conducteurs,قائد مجموعة معالجة أشباه الموصلات
+40003,Líder de grupo de pruebas de semiconductores,Líder de grupo de testes de semicondutores,Chef de groupe test des semi-conducteurs,قائد مجموعة اختبار أشباه الموصلات
+40004,Jefe de buque,Chefe de navio,Chef de bord,رئيس السفينة
+40005,Estratega de tecnología,Estratega de tecnologia,Stratège technologique,استراتيجي التكنولوجيا
+40008,Operador de accesorios de calefacción,Operador de acessórios de aquecimento,Opérateur de dispositifs de chauffage,مشغل تركيبات التدفئة
+40018,Diseñador de exposiciones de museo,Designer de exposições de museu,Concepteur d'expositions de musée,مصمم معارض المتاحف
+40025,Verificador de palanquillas,Verificador de tarugos,Contrôleur de billettes,فاحص القضبان الخام
+40027,Empaquetador,Empacotador,Botteleur,عامل التحزيم
+40029,Cultivador,Cultivador,Culturiste,مزارع الكائنات الدقيقة
+40034,Piloto forestal,Piloto florestal,Pilote forestier,طيار الغابات
+40037,Negociador,Negociador,Négociateur,مفاوض
+40038,Plegador de pliegues,Dobrador de pregas,Plisseur,عامل التكسير
+40052,Trabajador de tamales calientes,Trabalhador de tamales quentes,Ouvrier de tamales chauds,عامل التامال الساخن
+40056,Trabajador de taller protegido,Trabalhador de oficina protegida,Travailleur d'atelier protégé,عامل ورشة محمية
+40062,Formación de enfermería,Formação de enfermagem,Formation RN,تدريب التمريض
+40063,Operario de capas de mica,Operário de camadas de mica,Ouvrier de plaques de mica,عامل طبقات الميكا
+40064,Peón de saneamiento,Trabalhador de saneamento,Manœuvre d'assainissement,عامل النظافة
+40065,Planificador de fuerza laboral,Planeador de força de trabalho,Planificateur des effectifs,مخطط القوى العاملة
+40066,Ajustador de pasadores bancarios,Ajustador de pinos bancários,Régleur de broches bancaires,ضابط دبابيس البنوك
+40067,Persona de cestas,Pessoa de cestos,Agent de paniers,عامل السلال
+40070,Operario de despeje,Operário de desobstrução,Ouvrier de dégagement,عامل التنظيف
+40071,Operario de sándwich,Operário de sanduíche,Ouvrier de sandwich,عامل الساندويتش
+40072,Operario de cortadora,Operário de cortador,Ouvrier de cisaille,عامل القطع الطولي
+40074,Operario de salarios,Operário de salários,Ouvrier salarié,عامل الأجر
+40075,Clasificador de mineral,Classificador de minério,Trieur de minerai,فارز الخام
+40076,Clasificador de ostras,Classificador de ostras,Trieur d'huîtres,فارز المحار
+40083,Montador de unidades,Montador de unidades,Monteur d'ensembles,عامل تجميع الوحدات
+40084,Ayudante de mantenimiento de carpintería,Auxiliar de manutenção de carpintaria,Aide menuisier d'entretien,مساعد صيانة النجارة
+40086,Supervisor de mantenimiento de celdas,Supervisor de manutenção de células,Superviseur de maintenance de cellules,مشرف صيانة الخلايا
+40087,Guía de planta,Guia de fábrica,Guide d'usine,مرشد المصنع
+40088,Acabador de fondo,Acabador de fundo,Finisseur de fond,عامل تشطيب القاع
+40090,Acabador de varillas,Acabador de varetas,Finisseur de tiges,عامل تشطيب القضبان
+40091,Corredor de carcasas,Corredor de carcaças,Coureur de carcasses,عامل الغلاف
+40092,Corredor de canteadora,Corredor de canteadora,Coureur de chanfreineuse,عامل تشطيب الحواف
+40093,Operario de canal,Operário de caleiro,Ouvrier de goulotte,عامل القناة
+40095,Operario de flotación,Operário de flutuação,Ouvrier de flottation,عامل الطفو
+40096,Operario de cesta de elevación,Operário de cesto de elevação,Ouvrier de benne de levage,عامل سلة الرفع
+40098,Operario de carrete,Operário de carretel,Ouvrier de bobine,عامل البكرة
+40099,Operario de estufa,Operário de fogão,Ouvrier de poêle,عامل المواقد
+40100,Operario de tambor,Operário de tambor,Ouvrier de tambour,عامل الأسطوانة الدوارة
+40101,Operario de muelle,Operário de cais,Ouvrier de quai,عامل الرصيف
+40103,Extractor de negro,Extrator de negro,Extracteur de noir,عامل سحب السواد
+40105,Verificador de órganos eléctricos,Verificador de órgãos eléctricos,Contrôleur d'orgues électriques,مراقب الأرغن الكهربائي
+40110,Consejero de cursos de extensión,Conselheiro de cursos de extensão,Conseiller de cours de formation continue,مستشار دورات التعليم الإضافي
+40111,Ajustador de relés,Ajustador de relés,Régleur de relais,ضابط المرحلات
+40112,Recortador de puntas de esquí,Aparador de pontas de esqui,Ébarbeur de pointes de skis,عامل تشذيب أطراف الزلاجات
+40113,Agente de asignaciones,Agente de atribuições,Agent d'affectation,وكيل التكليف
+40114,Agente de autores,Agente de autores,Agent d'auteurs,وكيل المؤلفين
+40125,Mecánico de demolición,Mecânico de demolição,Mécanicien de démolition,ميكانيكي الهدم
+40130,Cortador de postes de cerca,Cortador de postes de vedação,Coupeur de poteaux de clôture,قاطع أعمدة السياج
+40133,Cortador de piezas de guante,Cortador de peças de luva,Coupeur de pièces de gant,قاطع أجزاء القفازات
+40134,Trabajador de banco de mango hueco,Trabalhador de bancada de cabo oco,Ouvrier d'établi de manches creux,عامل منضدة المقابض المجوفة
+40145,Ayudante de tanque de mezcla,Auxiliar de tanque de mistura,Aide cuve de mélange,مساعد خزان الخلط
+40146,Ayudante de cortador térmico,Auxiliar de cortador térmico,Aide découpeur thermique,مساعد القاطع الحراري
+40147,Ayudante de fabricante de barniz,Auxiliar de fabricante de verniz,Aide fabricant de vernis,مساعد صانع الورنيش
+40148,Ayudante de fundidor de barniz,Auxiliar de fundidor de verniz,Aide fondeur de vernis,مساعد صاهر الورنيش
+40149,Enlace de difusión,Interlocutor de divulgação,Correspondant de sensibilisation,مسؤول ارتباط التوعية
+40153,Fabricante de solapas,Fabricante de abas,Fabricant de rabats,صانع الألسنة
+40155,Fabricante de plumas,Fabricante de canetas,Fabricant de stylos,صانع الأقلام
+40158,Fabricante de lamas,Fabricante de palhetas,Fabricant de roseaux,صانع القصبات
+40159,Fabricante de sacos,Fabricante de sacos,Fabricant de sacs,صانع الأكياس
+40160,Fabricante de tallas,Fabricante de tamanhos,Fabricant de tailles,صانع المقاسات
+40161,Clasificador de hilo de urdimbre,Classificador de fio de urdidura,Trieur de fil de chaîne,فارز خيوط السدى
+40162,Canalizador,Canalizador,Canaliseur,عامل التوجيه بالقنوات
+40163,Tapador,Tampão,Boucheur,عامل السد
+40164,Operario de corrección de ácidos,Operário de correção de ácidos,Ouvrier de correction acide,عامل تصحيح الحموضة
+40166,Operario de tubérculos celulares,Operário de tubérculos celulares,Ouvrier de tubercules cellulaires,عامل الدرنات الخلوية
+40167,Corredor licenciado corporativo,Corretor licenciado corporativo,Courtier agréé d'entreprise,وسيط مرخص للشركات
+40168,Secador de tambor,Secador de tambor,Sécheur à tambour,مجفف الأسطوانة
+40170,Operario de acabado de productos planos,Operário de acabamento de produtos planos,Ouvrier de finition de produits plats,عامل تشطيب المنتجات المسطحة

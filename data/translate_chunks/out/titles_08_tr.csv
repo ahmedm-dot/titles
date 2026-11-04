@@ -1197,3 +1197,203 @@ rank,title_es,title_pt,title_fr,title_ar
 48214,Partidor manual,Divisor manual,Refendeur manuel,عامل شق يدوي
 48215,Partidor de tacones,Divisor de saltos,Refendeur de talons,عامل شق الكعوب
 48217,Clasificador de cascos,Triador de cascos,Trieur de coques,فارز الهياكل
+48219,Operario de máquina de cortado,Operador de máquina de corte,Opérateur de machine à fendre,مشغل آلة الشق
+48220,Partidor de postes,Divisor de postes,Refendeur de poteaux,عامل شق الأعمدة
+48221,Partidor de carriles,Divisor de carris,Refendeur de rails,عامل شق السكك
+48224,Consultor de servicios compartidos de RR. HH.,Consultor de serviços partilhados de RH,Consultant en services partagés RH,مستشار خدمات الموارد البشرية المشتركة
+48225,Enderezador de apilador,Endireitador de empilhador,Dresseur d'empileuse,مُقوّم الكومة
+48228,Estratega analítico,Estratega analítico,Stratège analytique,استراتيجي تحليلي
+48229,Vigilante del campus,Vigilante do campus,Surveillant de campus,مراقب الحرم الجامعي
+48237,Superintendente de horticultura,Superintendente de horticultura,Surintendant d'horticulture,مشرف البستنة
+48239,Reparador de plantillas y utillajes,Reparador de gabaritos e dispositivos,Réparateur de gabarits et de montages,مُصلح القوالب والتركيبات
+48244,Reparador de herramientas y utillajes,Reparador de ferramentas e dispositivos,Réparateur d'outillages et de montages,مُصلح الأدوات والتركيبات
+48249,Procesador de depósitos en garantía,Processador de depósitos fiduciários,Traiteur de séquestres,معالج الضمانات
+48252,Reparador de horquillas,Reparador de forquilhas,Réparateur de fourches,مُصلح الشوكات
+48254,Reparador de matrices,Reparador de matrizes,Réparateur de matrices,مُصلح القوالب
+48255,Reparador de ejes,Reparador de eixos,Réparateur d'arbres,مُصلح الأعمدة
+48257,Recolector de almejas,Apanhador de amêijoas,Ramasseur de palourdes,جامع المحار
+48258,Recolector de remolques,Recolhedor de reboques,Ramasseur de remorques,جامع المقطورات
+48259,Encuadernador de bobinas,Encadernador de bobinas,Lieur de bobines,عامل ربط الملفات
+48260,Auxiliar de máquina de soplado de pieles,Auxiliar de máquina de soprar peles,Auxiliaire de machine de soufflage de fourrures,موظف آلة نفخ الفراء
+48262,Auxiliar de herramientas y piezas,Auxiliar de ferramentas e peças,Préposé aux outils et aux pièces,موظف الأدوات والقطع
+48263,Probador de fuelles,Testador de foles,Testeur de soufflets,فاحص المنافخ
+48267,Probador de globos,Testador de globos,Testeur de globes,فاحص الأغلفة الزجاجية
+48268,Probador de estatores,Testador de estatores,Testeur de stators,فاحص العضو الثابت
+48269,Probador de torsión,Testador de torção,Testeur de torsion,فاحص الالتواء
+48270,Custodio de bóveda,Guarda de cofre,Gardien de coffre-fort,أمين الخزينة
+48271,Probador de lana,Testador de lã,Testeur de laine,فاحص الصوف
+48276,Auxiliar de humidificador,Auxiliar de humidificador,Préposé à l'humidificateur,مساعد المرطب
+48277,Auxiliar de sala de eventos,Auxiliar de local de eventos,Préposé au lieu d'événements,موظف قاعة الفعاليات
+48285,Agente de Fruit Express,Agente de Fruit Express,Agent Fruit Express,وكيل Fruit Express
+48286,Gerente de cuidados respiratorios,Gestor de cuidados respiratórios,Responsable des soins respiratoires,مدير الرعاية التنفسية
+48294,Supervisor de sala de embalaje,Supervisor da sala de embalagem,Superviseur de la salle d'emballage,مشرف غرفة التعبئة
+48298,Operario de mezcladora de metal caliente,Operador de misturador de metal quente,Opérateur de mélangeur de fonte liquide,مشغل خالط المعدن المنصهر
+48302,Contratista de pavimentación,Empreiteiro de pavimentação,Entrepreneur de revêtement,مقاول الرصف
+48307,Director de recepción,Diretor de receção,Directeur de la réception,مدير الاستقبال
+48313,Supervisor de oficina inmobiliaria,Supervisor de escritório imobiliário,Superviseur d'agence immobilière,مشرف مكتب العقارات
+48317,Corrugador,Corrugador,Cannelleuse,آلة التموج
+48322,Rompedor de chatarra,Partidor de sucata,Casseur de ferraille,كاسر الخردة
+48324,Operador de molino de control de cinta,Operador de moinho de controlo de fita,Opérateur de laminoir de contrôle de bande,مشغل مطحنة التحكم في الشريط
+48327,Taladrador de matrices de diamante,Perfurador de matrizes de diamante,Perceur de filières en diamant,مثقاب قوالب الماس
+48336,Reparador de cajas registradoras,Reparador de caixas registadoras,Réparateur de caisses enregistreuses,مُصلح آلات تسجيل النقد
+48340,Auxiliar de compras y ventas de corretaje,Auxiliar de compras e vendas de corretagem,Employé d'achats et de ventes de courtage,موظف شراء وبيع الوساطة
+48341,Auxiliar de cobro de cupones y bonos,Auxiliar de cobrança de cupões e obrigações,Employé d'encaissement de coupons et d'obligations,موظف تحصيل القسائم والسندات
+48355,Capataz de galvanizado,Capataz de galvanoplastia,Contremaître de placage,مشرف الطلاء الكهربائي
+48358,Buzo bombero,Mergulhador bombeiro,Plongeur pompier,غطّاس المضخات
+48359,Inspector y ajustador de cabezas de palo de golf,Inspetor e ajustador de cabeças de tacos de golfe,Contrôleur et ajusteur de têtes de club de golf,فاحص ومعدّل رؤوس عصي الغولف
+48360,Mezclador de hojas,Misturador de folhas,Mélangeur de feuilles,خالط الأوراق
+48362,Supervisor del departamento de ensamblaje de vigas,Supervisor do departamento de vigas,Superviseur du département des poutres,مشرف قسم العوارض
+48367,Aserrador automático de corte de troncos,Serrador automático de corte de toros,Scieur automatique de billons,منشار القطع الآلي للجذوع
+48369,Auxiliar de certificados de nacimiento,Auxiliar de certidões de nascimento,Employé des actes de naissance,موظف شهادات الميلاد
+48370,Jefe de auxiliares de peaje,Chefe de auxiliares de portagem,Chef des employés de péage,رئيس موظفي عوائد المرور
+48371,Auxiliar de manifiestos de cupones,Auxiliar de manifestos de cupões,Employé des manifestes de coupons,موظف بيانات القسائم
+48372,Auxiliar de canje de cupones,Auxiliar de resgate de cupões,Employé de remboursement de coupons,موظف استرداد القسائم
+48377,Probador de alta tensión,Testador de alta tensão,Testeur de haute tension,فاحص الجهد العالي
+48378,Auxiliar de carga entrante,Auxiliar de carga recebida,Employé du fret entrant,موظف الشحنات الواردة
+48379,Probador de gránulos de hierro,Testador de pellets de ferro,Testeur de boulettes de fer,فاحص كريات الحديد
+48381,Auxiliar de enlace de pasajeros,Auxiliar de ligação de passageiros,Employé de correspondance passagers,موظف ربط الركاب
+48382,Auxiliar de inventario rotativo,Auxiliar de inventário rotativo,Employé d'inventaire tournant,موظف الجرد الدوري
+48383,Probador de tensión de rodillo,Testador de tensão de rolo,Testeur de tension de rouleau,فاحص شد الأسطوانات
+48384,Auxiliar de recuento de aserradero,Auxiliar de contagem de serração,Employé de comptage de scierie,موظف عد الأخشاب بالمنشرة
+48385,Probador de obleas semiconductoras,Testador de bolachas semicondutoras,Testeur de plaquettes semi-conductrices,فاحص رقائق أشباه الموصلات
+48386,Auxiliar de canje de sellos,Auxiliar de resgate de selos,Employé de remboursement de timbres,موظف استرداد الطوابع
+48388,Probador de tensión de urdimbre,Testador de tensão de urdidura,Testeur de tension de chaîne,فاحص شد السداة
+48389,Auxiliar de recuento de muelle,Auxiliar de contagem de cais,Employé de comptage de quai,موظف عد الشحنات على الرصيف
+48390,Auxiliar de recogida de envíos,Auxiliar de levantamento de encomendas,Employé de retrait sur demande,موظف استلام الطلبات
+48393,Ensamblador de cabezales,Montador de cabeças,Monteur de têtes,مجمّع الرؤوس
+48394,Ensamblador de aislamiento y suelos,Montador de isolamento e pavimentos,Monteur d'isolation et de sols,مجمّع العزل والأرضيات
+48395,Director de público,Diretor de público,Directeur du public,مدير الجمهور
+48396,Gerente de público,Gestor de público,Responsable du public,مدير الجمهور
+48397,Auxiliar de modificación de conducta,Auxiliar de modificação de comportamento,Assistant en modification du comportement,مساعد تعديل السلوك
+48405,Auxiliar de acumulación de porcelana,Auxiliar de acumulação de porcelana,Assistant d'accumulation de porcelaine,مساعد تراكم الخزف
+48406,Auxiliar de rehabilitación residencial,Auxiliar de reabilitação residencial,Assistant de réadaptation en résidence,مساعد إعادة التأهيل السكني
+48408,Auxiliar de control de vectores,Auxiliar de controlo de vetores,Assistant de lutte antivectorielle,مساعد مكافحة ناقلات الأمراض
+48411,Lavador de trapos de aceite,Lavador de trapos de óleo,Laveur de chiffons huileux,عامل غسل خرق الزيت
+48413,Ejecutivo de soluciones de seguridad,Executivo de soluções de segurança,Cadre des solutions de sécurité,مدير حلول الأمن
+48415,Acabador de juntas,Acabador de juntas,Finisseur de joints,منهي المفاصل
+48417,Secador de huesos,Secador de ossos,Sécheur d'os,عامل تجفيف العظام
+48418,Gerente electrónico,Gestor electrónico,Responsable électronique,مدير الإلكترونيات
+48419,Líder de hub,Líder de hub,Responsable de hub,قائد المركز
+48421,Líder de Tableau,Líder de Tableau,Responsable Tableau,قائد Tableau
+48422,Llenador de contenedores,Enchedor de contentores,Remplisseur de bacs,عامل تعبئة الحاويات
+48425,Fabricante de solución de decapado,Fabricante de solução de decapagem,Fabricant de solution de décapage,صانع محلول التنظيف الحمضي
+48428,Entrenador de excelencia,Treinador de excelência,Coach de l'excellence,مدرب التميز
+48435,Capitán de puerto,Capitão de porto,Capitaine de port,قائد الميناء
+48437,Desarrollo de merchandising de ventas minoristas,Desenvolvimento de merchandising de vendas a retalho,Développement du merchandising de vente au détail,تطوير التسويق المرئي للبيع بالتجزئة
+48438,Mecánico de garaje industrial,Mecânico de garagem industrial,Mécanicien de garage industriel,فني صيانة الكراجات الصناعية
+48451,Formador de conos,Formador de cones,Formeur de cônes,مشكّل المخاريط
+48453,Cosedor de plumas,Costureiro de penas,Piqueur de plumes,خياط الريش
+48461,Ayudante de tostador de cacao,Auxiliar de torrefactor de cacau,Aide torréfacteur de cacao,مساعد محمّص الكاكاو
+48462,Ayudante de operador de máquina de rosquillas,Auxiliar de operador de máquina de donuts,Aide opérateur de machine à beignets,مساعد مشغل آلة الدونات
+48463,Obrero de granja lechera,Trabalhador de exploração leiteira,Ouvrier de ferme laitière,عامل مزرعة الألبان
+48464,Ayudante de taller de fabricación metálica,Auxiliar de oficina de fabrico metálico,Aide d'atelier de construction métallique,مساعد ورشة تصنيع المعادن
+48465,Ayudante de ferrallista,Auxiliar de armador de ferro,Aide armateur en fer à béton,مساعد عامل حديد التسليح
+48466,Ayudante de fabricante de cestas de listones,Auxiliar de fabricante de cestos de ripas,Aide fabricant de paniers à lattes,مساعد صانع السلال الخشبية
+48467,Ayudante de operador de control de lodos,Auxiliar de operador de controlo de lamas,Aide opérateur de contrôle des boues,مساعد مشغل التحكم في الملاط
+48470,Partidor de rocas,Divisor de rochas,Fendeur de roches,عامل تفتيت الصخور
+48474,Sargento sénior de inteligencia,Sargento sénior de inteligência,Sergent-chef du renseignement,رقيب أول الاستخبارات
+48476,Sargento de equipos motorizados,Sargento de equipamento motorizado,Sergent des équipements motorisés,رقيب المعدات الآلية
+48478,Conserje de palco de prensa,Zelador do camarote de imprensa,Gardien de la tribune de presse,حارس منصة الصحافة
+48485,Analista de asignación,Analista de alocação,Analyste d'allocation,محلل التخصيص
+48487,Analista de causas,Analista de causas,Analyste des causes,محلل الأسباب
+48489,Analista de conflictos,Analista de conflitos,Analyste des conflits,محلل النزاعات
+48491,Analista de explotación,Analista de exploração,Analyste d'exploitation,محلل الاستغلال
+48493,Analista armónico,Analista harmónico,Analyste harmonique,محلل توافقي
+48496,Analista de resultados,Analista de resultados,Analyste des résultats,محلل النتائج
+48497,Analista de ritmo,Analista de ritmo,Analyste du rythme,محلل الإيقاع
+48498,Analista de preimpresión,Analista de pré-impressão,Analyste de préimpression,محلل ما قبل الطباعة
+48502,Analista Surtass,Analista Surtass,Analyste Surtass,محلل Surtass
+48503,Analista de exenciones,Analista de isenções,Analyste des dérogations,محلل الإعفاءات
+48515,Evaluador de internet,Avaliador de internet,Évaluateur internet,مقيّم الإنترنت
+48516,Plegador de etiquetas,Dobrador de etiquetas,Plieur d'étiquettes,عامل طي الملصقات
+48518,Insertador de alfileres,Inseridor de alfinetes,Inséreur d'épingles,عامل إدراج الدبابيس
+48519,Relevo principal,Responsável de substituição,Chef de relève,المسؤول البديل
+48522,Insertador de separadores,Inseridor de separadores,Inséreur de séparateurs,عامل إدراج الفواصل
+48523,Evaluador de suelas,Avaliador de solas,Évaluateur de semelles,مقيّم النعال
+48525,Volteador de asas,Virador de pegas,Retourneur de poignées,عامل قلب المقابض
+48533,Becario de edición,Estagiário de edição,Stagiaire en édition,متدرب التحرير
+48535,Mezclador de pasta de almendra,Misturador de pasta de amêndoa,Mélangeur de pâte d'amande,خالط عجينة اللوز
+48536,Director de control interno,Diretor de controlo interno,Directeur du contrôle interne,مدير الرقابة الداخلية
+48537,Maquinista de impresión de etiquetas,Maquinista de impressão de etiquetas,Machiniste d'impression d'étiquettes,ميكانيكي طباعة الملصقات
+48538,Ensamblador de mesas metálicas,Montador de mesas metálicas,Monteur de tables métalliques,مجمّع الطاولات المعدنية
+48546,Ingeniero cognitivo gestor,Engenheiro cognitivo gestor,Ingénieur cognitif gestionnaire,مهندس إدراكي إداري
+48547,Portador de bastidor,Transportador de bastidor,Porteur de râtelier,عامل حمل الرفوف
+48548,Portador de tejas,Transportador de telhas,Porteur de bardeaux,عامل حمل ألواح السقف
+48552,Impresor de pan de oro,Impressor de folha de ouro,Imprimeur de feuille d'or,طابع رقائق الذهب
+48554,Supervisor de mantenimiento mecánico,Supervisor de manutenção mecânica,Superviseur de maintenance mécanique,مشرف الصيانة الميكانيكية
+48560,Director de edificios,Diretor de edifícios,Directeur des bâtiments,مدير المباني
+48564,Informática,Informática,Informatica,المعلوماتية
+48565,Marcador de cajas de máquina,Marcador de caixas de máquina,Marqueur de cartons machine,عامل تعليم كراتين الآلة
+48566,Operador automático de extendedora,Operador automático de espalhador,Opérateur automatique d'épandeuse,مشغل الناشر الآلي
+48569,Medios deportivos,Media desportivos,Médias sportifs,الإعلام الرياضي
+48573,Director asociado de ayudas financieras,Diretor associado de apoio financeiro,Directeur adjoint de l'aide financière,مدير مساعد المساعدات المالية
+48574,Director de ayudas financieras,Diretor de apoio financeiro,Directeur de l'aide financière,مدير المساعدات المالية
+48575,Director de ayudas estudiantiles,Diretor de apoio aos estudantes,Directeur de l'aide aux étudiants,مدير المساعدات الطلابية
+48579,Planificador de espacios,Planeador de espaços,Planificateur d'espaces,مجدول المساحات
+48580,Miembro del equipo de agentes State Farm,Membro da equipa de agentes State Farm,Membre de l'équipe d'agents State Farm,عضو فريق وكلاء State Farm
+48582,Máquina trituradora de rellenos,Máquina trituradora de enchimentos,Machine à déchiqueter les charges,آلة تقطيع الحشوات
+48583,Ayudante de laboratorio de animales,Auxiliar de laboratório de animais,Aide de laboratoire animal,مساعد مختبر الحيوانات
+48584,Máquina de costura de sacos,Máquina de coser sacos,Machine à coudre les sacs,آلة خياطة الأكياس
+48585,Bobinador de carretes,Enroladeira de carretéis,Bobineur de bobines,عامل لف البكرات
+48587,Experto en explosivos,Especialista em explosivos,Expert en explosifs,خبير المتفجرات
+48590,Formador de cabezas de palos de golf,Formador de cabeças de tacos de golfe,Formeur de têtes de club de golf,مشكّل رؤوس عصي الغولف
+48591,Jefe de cuadrilla de perforación,Chefe de equipa de perfuração,Chef d'équipe de forage,رئيس فريق الحفر
+48592,Pesador de envíos y recepciones,Pesador de expedição e receção,Peseur à l'expédition et à la réception,موزن الشحن والاستلام
+48594,Educador de ensayos clínicos,Educador de ensaios clínicos,Éducateur d'essais cliniques,مثقف التجارب السريرية
+48596,Representante de derechos civiles,Representante de direitos civis,Représentant des droits civiques,مندوب الحقوق المدنية
+48603,Supervisor del departamento de extremo verde,Supervisor do departamento de extremidade verde,Superviseur du département de bout vert,مشرف قسم الطرف الأخضر
+48605,Diseñador exterior,Designer de exteriores,Concepteur d'extérieurs,مصمم خارجي
+48608,Consejero financiero entre pares,Conselheiro financeiro entre pares,Conseiller financier entre pairs,مستشار مالي من الأقران
+48611,Pesador de material de carcasas,Pesador de material de invólucro,Peseur de matériau d'enveloppe,موزن مواد الغلاف
+48612,Operador automático de cigarros,Operador automático de charutos,Opérateur automatique de cigares,مشغل السيجار الآلي
+48613,Moldeador de alas,Moldador de abas,Mouleur de bords,مشكّل الحواف
+48616,Marcador de puntadas,Marcador de pontos,Marqueur de points,عامل تعليم الغُرز
+48617,Operario de rollo gris,Operário de rolo cinzento,Ouvrier de rouleau gris,عامل الدرفلة الرمادية
+48618,Director de servicios de alimentación y nutrición,Diretor de serviços de alimentação e nutrição,Directeur des services de restauration et de nutrition,مدير خدمات التغذية والطعام
+48619,Enlace de ciclo,Ligação de ciclo,Agent de liaison de cycle,منسق الدورة
+48620,Especialista en documentación,Especialista em documentação,Spécialiste de la documentation,أخصائي التوثيق
+48621,Especialista en rehabilitación,Especialista em reabilitação,Spécialiste de la réadaptation,أخصائي إعادة التأهيل
+48622,Enlace de reembolsos,Ligação de reembolsos,Agent de liaison remboursements,منسق التعويضات
+48624,Operario de sala de salmuera,Operário de sala de salmoura,Ouvrier de la saumurerie,عامل غرفة الملح
+48625,Operario de esmalte porcelanizado,Operário de esmalte porcelanado,Ouvrier d'émail vitrifié,عامل المينا الخزفية
+48628,Camarero de apuestas deportivas,Empregado de apostas desportivas,Serveur de paris sportifs,نادل المراهنات الرياضية
+48629,Asignador,Atribuidor,Responsable des affectations,المكلّف بالتعيينات
+48633,CNS,CNS,CNS,CNS
+48634,Mostrador de atención,Atendente de balcão,Employé de comptoir,موظف الكاونتر
+48635,Operario de bobinador de hilos,Operário de enroladeira de fios,Opérateur de bobinoir,عامل البكرات
+48637,Personalizador,Personalizador,Personnalisateur,مخصص المنتجات
+48638,Dosimetrista,Dosimetrista,Dosimétriste,أخصائي الجرعات الإشعاعية
+48639,Aprendiz de grabador de puntos,Aprendiz de gravador de pontos,Apprenti graveur de points,متدرب نقش النقاط
+48640,Erradicador,Erradicador,Éradicateur,عامل الإزالة
+48642,Abanderado,Sinaleiro,Signaleur,المرشد الإشاري
+48644,Repostador,Abastecedor de combustível,Ravitailleur,عامل التزويد بالوقود
+48645,Financiador,Financiador,Bailleur de fonds,الممول
+48651,Informático,Informático,Informaticien,أخصائي المعلوماتية
+48652,Operario de palanca,Operário de alavanca,Opérateur de levier,عامل الرافعة
+48655,Operario de boquilla,Operário de bico,Opérateur de lance,عامل الفوهة
+48658,Recuperador,Recuperador,Récupérateur,عامل الاستعادة
+48661,Encogedor,Encolhedor,Rétrécisseur,عامل التقليص
+48662,Operario de limpieza general,Auxiliar de limpeza geral,Agent de nettoyage général,عامل النظافة العامة
+48664,Contador de existencias,Contador de existências,Compteur de stocks,عامل العد
+48666,Operario de herramientas,Operário de ferramentas,Opérateur d'outils,عامل الأدوات
+48672,Operario de lijado con cepillo,Operário de lixagem com escova,Ponceur à brosse,عامل صنفرة الفرشاة
+48673,Operaciones químicas y formación,Operações químicas e formação,Opérations chimiques et formation,العمليات الكيميائية والتدريب
+48674,Constructor de grifos,Construtor de torneiras,Constructeur de robinets,بنّاء الصنابير
+48676,Lavador de grises,Lavador de cinzentos,Laveur de gris,عامل غسل الأقمشة الرمادية
+48677,Alimentador de túnel de vapor,Alimentador de túnel de vapor,Alimentateur de tunnel à vapeur,مغذي نفق البخار
+48678,Lavador de trigo,Lavador de trigo,Laveur de blé,عامل غسل القمح
+48680,Director de salud laboral,Diretor de saúde ocupacional,Directeur de la santé au travail,مدير الصحة المهنية
+48681,Ajustador de equipos de calentamiento por inducción,Ajustador de equipamento de aquecimento por indução,Régleur d'équipement de chauffage par induction,مُعدّل معدات التسخين بالحث
+48683,Ajustador de herramientas de carga de cebadores,Ajustador de ferramentas de carga de cápsulas,Régleur d'outils de chargement d'amorces,مُعدّل أدوات تحميل الكبسولات
+48684,Ajustador de telares de tejido de alambre,Ajustador de teares de tecer arame,Régleur de métiers à tisser le fil,مُعدّل أنوال نسج الأسلاك
+48686,Recolector de latas de aluminio,Recolhedor de latas de alumínio,Collecteur de canettes en aluminium,جامع علب الألومنيوم
+48688,Defensor de marca,Defensor da marca,Ambassadeur de marque,المدافع عن العلامة التجارية
+48690,Defensor del cuidado,Defensor do cuidado,Défenseur des soins,المدافع عن الرعاية
+48691,Defensor de casos,Defensor de casos,Défenseur de dossiers,مدافع الحالات
+48692,Aplicador químico,Aplicador químico,Applicateur chimique,عامل التطبيق الكيميائي
+48693,Defensor infantil,Defensor da criança,Défenseur de l'enfant,مدافع حقوق الطفل
+48694,Defensor del cliente,Defensor do cliente,Défenseur du client,مدافع العملاء
+48696,Defensor del consumidor,Defensor do consumidor,Défenseur du consommateur,مدافع المستهلك
+48697,Defensor judicial,Defensor judicial,Défenseur judiciaire,مدافع المحكمة
+48698,Aplicador personalizado,Aplicador personalizado,Applicateur sur mesure,عامل التطبيق المخصص
+48699,Defensor del cliente,Defensor do cliente,Défenseur client,مدافع الزبائن

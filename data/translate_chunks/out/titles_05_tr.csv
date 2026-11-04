@@ -1599,3 +1599,203 @@ rank,title_es,title_pt,title_fr,title_ar
 33989,Guardián de Matrices,Guardião de Matrizes,Gardien de matrices,حارس القوالب
 33990,Guardián de Horno,Guardião de Forno,Gardien de four,حارس الفرن
 33991,Guardián de Modelos,Guardião de Padrões,Gardien de modèles,حارس النماذج
+33992,Guardián de Placas,Guardião de Placas,Gardien de plaques,حارس الألواح
+33994,Guardián de Herramientas,Guardião de Ferramentas,Gardien d'outillage,حارس الأدوات
+33995,Relaciones Públicas,Relações Públicas,Relations publiques,العلاقات العامة
+34000,Analista de Cobertura,Analista de Cobertura,Analyste de couverture,محلل التغطية
+34006,Analista de Rendimiento,Analista de Rendimento,Analyste de rendement,محلل الإنتاجية
+34008,Ajustador de Luces,Ajustador de Luzes,Régleur d'éclairage,مُعدّ الإضاءة
+34012,Limpiador de Latón,Limpador de Latão,Nettoyeur de laiton,منظف النحاس
+34013,Limpiador de Pollos,Limpador de Frangos,Nettoyeur de volailles,منظف الدجاج
+34015,Limpiador de Cuerdas,Limpador de Cordas,Nettoyeur de cordes,منظف الحبال
+34017,Fabricante de Cuentas,Fabricante de Contas,Fabricant de perles,صانع الخرز
+34018,Consultor de Grandes Máquinas,Consultor de Máquinas de Grande Porte,Consultant en grosses machines,مستشار الآلات الكبيرة
+34020,Fabricante de Cortinas,Fabricante de Cortinados,Fabricant de rideaux,صانع الستائر
+34022,Profesor de Ciencias de la Familia y del Consumidor,Professor de Ciências da Família e do Consumidor,Professeur de sciences de la famille et de la consommation,أستاذ علوم الأسرة والمستهلك
+34026,Fabricante de Solapas,Fabricante de Lapelas,Fabricant de revers,صانع الياقات المطوية
+34030,Fabricante de Bolsillos,Fabricante de Bolsos,Fabricant de poches,صانع الجيوب
+34033,Fabricante de Pantallas,Fabricante de Abajures,Fabricant d'abat-jour,صانع أغطية المصابيح
+34034,Fabricante de Tallos,Fabricante de Hastes,Fabricant de tiges,صانع السيقان
+34036,Reparador de Compresores,Reparador de Compressores,Réparateur de compresseurs,مُصلح الضواغط
+34037,Servicios al Huésped,Serviços ao Hóspede,Services aux clients,خدمات النزلاء
+34038,Reparador de Martillos,Reparador de Martelos,Réparateur de marteaux,مُصلح المطارق
+34041,Calidad de Enfermería,Qualidade de Enfermagem,Qualité infirmière,جودة التمريض
+34042,Calidad RN,Qualidade RN,Qualité RN,جودة الممرضين المسجلين
+34044,Operador de Cortadora de Ala de Sombrero de Paja,Operador de Máquina de Corte de Abas de Chapéu de Palha,Opérateur de machine à couper les bords de chapeaux de paille,مشغل آلة قص حافة القبعة من القش
+34045,Operador de Elevadora de Ala de Sombrero de Paja,Operador de Máquina de Levantamento de Abas de Chapéu de Palha,Opérateur de machine à relever les bords de chapeaux de paille,مشغل آلة رفع حافة القبعة من القش
+34047,Operador de Máquina Lavadora y Tapadora,Operador de Máquina de Lavagem e Tampagem,Opérateur de machine à laver et capsuler,مشغل آلة الغسل والتغطية
+34053,Formador Adjunto,Formador Adjunto,Formateur adjoint,مدرب مساعد
+34054,Operador de Escaldado de Almendras,Operador de Branqueamento de Amêndoas,Opérateur d'échaudage d'amandes,مشغل سلق اللوز
+34056,Operador de Nitrato de Amonio,Operador de Nitrato de Amónio,Opérateur de nitrate d'ammonium,مشغل نترات الأمونيوم
+34062,Operador de Máquina de Estriado de Cañones,Operador de Máquina de Estriar Canos,Opérateur de rayure de canons,مشغل آلة تخديد الماسورة
+34065,Operador de Óxido Negro,Operador de Óxido Negro,Opérateur d'oxydation noire,مشغل الأكسدة السوداء
+34066,Operador de Tina de Cocción,Operador de Tina de Cozedura,Opérateur de cuve d'ébullition,مشغل حوض الغليان
+34075,Operador de Mortajadora de Cincel,Operador de Mortejadora de Cinzel,Opérateur de mortaiseuse à burin,مشغل آلة الحز بالإزميل
+34087,Operador de Dolly Eléctrico,Operador de Dolly Elétrico,Opérateur de chariot électrique,مشغل العربة الكهربائية
+34110,Operador de Baño de Lejía,Operador de Banho de Lixívia,Opérateur de bain de soude,مشغل حوض الصودا الكاوية
+34114,Operador de Acondicionador de Humedad,Operador de Condicionador de Humidade,Opérateur de conditionneur d'humidité,مشغل مكيف الرطوبة
+34115,Operador de Medidor de Humedad,Operador de Medidor de Humidade,Opérateur de humidimètre,مشغل مقياس الرطوبة
+34119,Operador de Destilador MVA,Operador de Destilador MVA,Opérateur d'alambic MVA,مشغل مقطر MVA
+34129,Productor de Impresión,Produtor de Impressão,Producteur d'impression,منتج الطباعة
+34134,Operador de Molde de Recauchutado,Operador de Molde de Recauchutagem,Opérateur de moule de rechapage,مشغل قالب إعادة تحميص الإطارات
+34143,Operador de Trazadora de Secciones,Operador de Traçadora de Secções,Opérateur de traceur de sections,مشغل راسم المقاطع
+34145,Operador de Biseladora Semiautomática,Operador de Chanfradora Semiautomática,Opérateur de chanfreineuse semi-automatique,مشغل آلة التشطيب نصف الآلية
+34147,Operador de Tamiz de Cáscara,Operador de Peneira de Casca,Opérateur de tamis à coquilles,مشغل منخل القشور
+34151,Operador de Máquina de Un Solo Estayado,Operador de Máquina de Reforço Simples,Opérateur de machine à renfort simple,مشغل آلة التقوية الواحدة
+34152,Operador de Garra de Clasificación,Operador de Garra de Triagem,Opérateur de grappin de tri,مشغل الكلاب الفارزة
+34153,Operador de Trazadora Estereoscópica,Operador de Traçadora Estereoscópica,Opérateur de traceur stéréo,مشغل راسم الصور المجسمة
+34162,Conductor de Barra de Remolque,Condutor de Barra de Reboque,Conducteur de barre de remorquage,سائق قضيب الجر
+34167,Operador de Asentador de Válvulas,Operador de Assentador de Válvulas,Opérateur d'assise de soupapes,مشغل آلة تركيب الصمامات
+34170,Operador de Recuento de Peso,Operador de Contagem de Peso,Opérateur de comptage par pesée,مشغل عد الوزن
+34176,Portador de Fundición,Transportador de Fundição,Porteur de fonte,حامل الصب
+34181,Probador Magnético,Testador Magnético,Testeur magnétique,فاحص مغناطيسي
+34188,Probador de Río,Testador de Rio,Testeur de rivière,فاحص النهر
+34190,Ingeniero de Rendimiento de Pila,Engenheiro de Rendimento de Pilha,Ingénieur de rendement de pile,مهندس إنتاجية الكومة
+34194,Auxiliar de Elevador de Barriles,Auxiliar de Elevador de Barris,Aide au relevage de fûts,مساعد رافع البراميل
+34195,Auxiliar de Pesaje de Cañas,Auxiliar de Pesagem de Canas,Aide au pesage des cannes,مساعد وزن القصب
+34196,Auxiliar de Reparación de Hormas,Auxiliar de Reparação de Formas,Aide au réparateur de formes,مساعد مُصلح القوالب
+34197,Auxiliar de Operador de Subestación,Auxiliar de Operador de Subestação,Aide-opérateur de sous-station,مساعد مشغل المحطة الفرعية
+34200,Operario de Línea de Acabado de Tejidos,Operário de Linha de Acabamento de Tecidos,Opérateur de ligne de finition des tissus,عامل خط تشطيب الأقمشة
+34207,Examinador de Recursos,Examinador de Recursos,Examinateur des recours,فاحص الطعون
+34209,Examinador de Guantes,Examinador de Luvas,Contrôleur de gants,فاحص القفازات
+34210,Examinador de Litigios,Examinador de Litígios,Examinateur des contentieux,فاحص النزاعات
+34211,Aserrador de Bloques,Serrador de Blocos,Scieur de blocs,منشار الكتل
+34212,Mezclador de Virutas,Misturador de Aparas,Mélangeur de copeaux,خلاط الرقائق
+34213,Aserrador Principal,Serrador Principal,Scieur principal,المنشار الرئيسي
+34215,Aserrador de Recortes,Serrador de Aparas,Scieur d'ébarbage,منشار التشذيب
+34216,Aserrador de Alambre,Serrador de Arame,Scieur à fil,منشار الأسلاك
+34218,Cosedor de Bordes,Costureiro de Bordas,Piqueur de bords,خياط الحواف
+34222,Auxiliar de Fabricante de Machos,Auxiliar de Fabricante de Machos,Aide au fabricant de noyaux,مساعد صانع القوالب الرملية
+34225,Auxiliar de Oficios,Auxiliar de Ofícios,Aide aux métiers,مساعد الحرفيين
+34226,Lavador de Vegetales,Lavador de Vegetais,Laveur de légumes,عامل غسل الخضروات
+34227,Rodillo Trasero,Rolo Traseiro,Rouleau arrière,البكرة الخلفية
+34230,Montador de Techos,Montador de Telhados,Monteur de toitures,مُركِّب الأسقف
+34231,Montador de Carcasas,Montador de Carcaças,Monteur de coques,مُركِّب الأغلفة
+34232,Superintendente de Parque,Superintendente de Parque,Responsable de parc,مشرف الحديقة
+34233,Vicepresidente de Educación,Vice-Presidente de Educação,Vice-président éducation,نائب رئيس التعليم
+34239,Responsable de Envíos,Responsável de Expedição,Responsable d'expédition,رئيس الشحن
+34241,Líder Ejecutivo de Ciberseguridad,Líder Executivo de Cibersegurança,Responsable exécutif cybersécurité,قائد الأمن السيبراني التنفيذي
+34243,Auxiliar de Albañil Principal,Auxiliar de Pedreiro Principal,Aide maçon principal,مساعد المعلم البنّاء الرئيسي
+34256,Técnico Sonar Principal,Técnico de Sonar Principal,Technicien sonar principal,فني السونار الرئيسي
+34261,Técnico de Intercepción de Voz,Técnico de Interceção de Voz,Technicien d'interception vocale,فني اعتراض الصوت
+34266,Guardarropa,Guarda-Roupa,Préposé au vestiaire,موظف الحفظ
+34273,Verificador de Grados,Verificador de Graus,Contrôleur de calibres,فاحص الدرجات
+34274,Verificador de Carga,Verificador de Carga,Contrôleur de chargement,فاحص الحمولة
+34279,Verificador de Informes,Verificador de Relatórios,Contrôleur de rapports,فاحص التقارير
+34281,Vicepresidente de Servicios Empresariales,Vice-Presidente de Serviços Empresariais,Vice-président des services aux entreprises,نائب الرئيس لخدمات الأعمال
+34282,Vicepresidente de Servicios de Información,Vice-Presidente de Serviços de Informação,Vice-président des services d'information,نائب الرئيس لخدمات المعلومات
+34285,Vicepresidente de Operaciones de Planta,Vice-Presidente de Operações de Fábrica,Vice-président des opérations d'usine,نائب الرئيس لعمليات المصنع
+34286,Vicepresidente de Operaciones Técnicas,Vice-Presidente de Operações Técnicas,Vice-président des opérations techniques,نائب الرئيس للعمليات الفنية
+34288,Vicepresidente de Desarrollo de Redes,Vice-Presidente de Desenvolvimento de Redes,Vice-président développement réseaux,نائب الرئيس لتطوير الشبكات
+34289,Vicepresidente de Desarrollo,Vice-Presidente de Desenvolvimento,Vice-président du développement,نائب الرئيس للتطوير
+34291,Mecánico de Conductos,Mecânico de Condutas,Mécanicien de conduits,ميكانيكي القنوات
+34295,Moldeador de Placas,Moldador de Placas,Mouleur de plaques,مُشكِّل الألواح
+34296,Mecánico de Ejes,Mecânico de Eixos,Mécanicien d'arbres,ميكانيكي الأعمدة
+34300,Cortador Final de Carril,Cortador Final de Carril,Coupeur final de rails,قاطع السكك النهائي
+34302,Oficial de Vehículos Blindados,Oficial de Veículos Blindados,Officier de véhicules blindés,ضابط المركبات المدرعة
+34304,Ventas a Contratistas Externos,Vendas a Empreiteiros Externos,Ventes aux sous-traitants externes,مبيعات المقاولين الخارجيين
+34307,Enlace de Rehabilitación,Interlocutor de Reabilitação,Chargé de liaison réadaptation,منسق إعادة التأهيل
+34308,Auditor Regulatorio,Auditor Regulatório,Auditeur réglementaire,مدقق تنظيمي
+34309,Superintendente de Silo de Grano,Superintendente de Silo de Grãos,Responsable de silo à grains,مشرف صوامع الحبوب
+34312,Instalador de Cines en Casa,Instalador de Home Cinema,Installateur de home cinéma,مُركِّب المسارح المنزلية
+34318,Manipulador de Hierro,Manipulador de Ferro,Manutentionnaire de fer,مناول الحديد
+34319,Manipulador de Madera,Manipulador de Madeira,Manutentionnaire de bois,مناول الخشب
+34320,Manipulador de Mercancías,Manipulador de Mercadorias,Manutentionnaire de marchandises,مناول البضائع
+34321,Clasificador de Frutos Secos,Classificador de Frutos Secos,Trieur de noix,مُصنِّف المكسرات
+34322,Coordinador de Edificios y Terrenos,Coordenador de Edifícios e Terrenos,Coordinateur bâtiments et espaces verts,منسق المباني والمرافق
+34323,Cargador de Hornos,Carregador de Fornos,Enfourneur,عامل تحميل الأفران
+34325,Agricultor Forestal,Produtor Florestal,Sylviculteur,مزارع الغابات
+34332,Especialista en Atención a Pacientes de Hemodiálisis,Especialista em Cuidados a Doentes de Hemodiálise,Spécialiste des soins aux patients en hémodialyse,أخصائي رعاية مرضى غسيل الكلى
+34335,Especialista en Seguimiento de Seguros,Especialista em Seguimento de Seguros,Spécialiste du suivi des assurances,أخصائي متابعة التأمين
+34336,Especialista en Licencias y Permisos,Especialista em Licenças e Autorizações,Spécialiste des licences et permis,أخصائي التراخيص والتصاريح
+34343,Especialista ACLS,Especialista ACLS,Spécialiste ACLS,أخصائي ACLS
+34344,Especialista en Acuarios,Especialista em Aquários,Spécialiste en aquariums,أخصائي الأحواض المائية
+34345,Especialista en Biológicos,Especialista em Biológicos,Spécialiste des produits biologiques,أخصائي المنتجات البيولوجية
+34346,Especialista en Garantías,Especialista em Garantias,Spécialiste des garanties,أخصائي الضمانات
+34347,Especialista Diferencial,Especialista Diferencial,Spécialiste différentiel,أخصائي الفروق
+34348,Especialista en Expedientes,Especialista em Processos,Spécialiste des dossiers,أخصائي الملفات
+34349,Especialista en Donaciones,Especialista em Doações,Spécialiste des dons,أخصائي التبرعات
+34350,Hombre de Caída,Homem de Queda,Ouvrier de chute,عامل السقوط
+34351,Especialista EP,Especialista EP,Spécialiste EP,أخصائي EP
+34353,Especialista en Encendido,Especialista em Ignição,Spécialiste de l'allumage,أخصائي الإشعال
+34354,Especialista IMCU,Especialista IMCU,Spécialiste IMCU,أخصائي IMCU
+34355,Especialista en Permisos,Especialista em Licenças,Spécialiste des congés,أخصائي الإجازات
+34356,Acabador de Forros,Acabador de Forros,Finisseur de doublures,مُنهي البطانات
+34358,Especialista en Metalurgia,Especialista em Metalurgia,Spécialiste de la métallurgie,أخصائي المعادن
+34359,Especialista en Microarrays,Especialista em Microarrays,Spécialiste des microarrays,أخصائي المصفوفات الدقيقة
+34360,Especialista MIS,Especialista MIS,Spécialiste MIS,أخصائي نظم المعلومات الإدارية
+34361,Especialista en Canteras,Especialista em Pedreiras,Spécialiste de l'extraction en carrière,أخصائي المحاجر
+34362,Especialista en Reembolsos,Especialista em Reembolsos,Spécialiste des remboursements,أخصائي الاسترداد
+34363,Especialista en Renovaciones,Especialista em Renovações,Spécialiste des renouvellements,أخصائي التجديدات
+34364,Especialista en Recuperación,Especialista em Recuperação,Spécialiste de la récupération,أخصائي الاسترجاع
+34367,Especialista en Supervivencia,Especialista em Sobrevivência,Spécialiste de survie,أخصائي البقاء
+34368,Hombre de Tránsito,Homem de Trânsito,Agent de transit,عامل العبور
+34370,Director de Edificios y Terrenos,Diretor de Edifícios e Terrenos,Directeur bâtiments et espaces verts,مدير المباني والمرافق
+34372,Ajustador Administrativo,Ajustador Administrativo,Expert administratif,مُقدّر إداري
+34376,Becario de Precios,Estagiário de Preços,Stagiaire tarification,متدرب في التسعير
+34377,Becario de Abastecimiento,Estagiário de Aprovisionamento,Stagiaire achats et approvisionnement,متدرب في التوريد
+34379,Becario de Suscripción,Estagiário de Subscrição,Stagiaire souscription,متدرب في الاكتتاب
+34382,Becario de Validación,Estagiário de Validação,Stagiaire validation,متدرب في التحقق
+34383,Recolector de Carbón,Recolhedor de Carvão,Ramasseur de charbon,جامع الفحم
+34385,Asociado de Fundición,Associado de Fundição,Associé de fonderie,موظف الصب
+34387,Cortador y Prensador,Cortador e Prensador,Coupeur et presseur,قاطع ومكبس
+34388,Asociado de Charcutería,Associado de Charcutaria,Employé de charcuterie,موظف الدلي
+34390,Arquitecto de Movilidad,Arquiteto de Mobilidade,Architecte de mobilité,مهندس معماري للتنقل
+34393,Inspector de Montaje y Trazado,Inspetor de Montagem e Traçado,Inspecteur de préparation et de traçage,مفتش التجهيز والتخطيط
+34401,Responsable Analítico,Responsável Analítico,Responsable analytique,رئيس التحليل
+34405,Recortador Especializado,Aparador Especializado,Ébarbeur spécialisé,مُشذِّب متخصص
+34406,Mecánico de Revestimiento de Aluminio,Mecânico de Revestimento de Alumínio,Mécanicien de bardage aluminium,ميكانيكي كسوة الألومنيوم
+34407,Mecánico de Revestimiento de Amianto,Mecânico de Revestimento de Amianto,Mécanicien de bardage amiante,ميكانيكي كسوة الأسبستوس
+34410,Asesor de Implementación,Consultor de Implementação,Conseiller en déploiement,مستشار التنفيذ
+34414,Mecánico de Burletes,Mecânico de Vedantes,Mécanicien de joints d'étanchéité,ميكانيكي أشرطة العزل
+34415,Operario de Capas de Rompimiento,Operário de Camadas de Quebra,Ouvrier de couche de rupture,عامل طبقة الكسر
+34418,Artista Forense,Artista Forense,Artiste judiciaire,فنان الطب الشرعي
+34419,Operario de Capa de Base,Operário de Camada de Base,Ouvrier de couche de fond,عامل طبقة القاعدة
+34423,Inspector de Tuberías de Vivienda,Inspetor de Canalizações Domésticas,Inspecteur de canalisations domestiques,مفتش أنابيب المنزل
+34424,Inspector de Correas en V,Inspetor de Correias em V,Inspecteur de courroies trapézoïdales,مفتش السيور المثلثة
+34425,Operario de Pollo,Operário de Frango,Ouvrier de volaille,عامل الدجاج
+34426,Operario de Acondicionador,Operário de Condicionador,Opérateur de conditionneur,عامل المكيف
+34427,Operario de Enfriador,Operário de Arrefecedor,Opérateur de refroidisseur,عامل المبرد
+34428,Operario de Cubilote,Operário de Cubilote,Opérateur de cubilot,عامل الكوبيلو
+34429,Operario de Fundición,Operário de Fundição,Opérateur de fonderie,عامل الفوندري
+34430,Operario de Rascador,Operário de Raspador,Opérateur de racleur,عامل الكاشط
+34431,Empaquetador de Tacones,Embalador de Saltos,Emballeur de talons,مُعبّئ الكعوب
+34444,Subdirector de Relaciones Federales y Estatales,Subdiretor de Relações Federais e Estaduais,Directeur adjoint des relations fédérales et d'État,نائب مدير العلاقات الفيدرالية وعلاقات الولايات
+34448,Auxiliar de Sala de Pan,Auxiliar de Sala de Pão,Aide de salle à pain,مساعد غرفة الخبز
+34449,Tecnólogo Cardiológico,Tecnólogo Cardiológico,Technologue en cardiologie,تقني أمراض القلب
+34450,Auxiliar de Estirado de Pieles,Auxiliar de Estiramento de Peles,Aide à l'étirage des peaux,مساعد سحب الجلود
+34451,Auxiliar de Prensa Neumática,Auxiliar de Prensa Pneumática,Aide à la presse pneumatique,مساعد المكبس الهوائي
+34452,Sellador y Probador de Presión,Selador e Testador de Pressão,Étanchéiste et testeur de pression,مُحكِم ومختبر الضغط
+34453,Tecnólogo Espacial,Tecnólogo Espacial,Technologue spatial,تقني الفضاء
+34455,Empleado de Distribución de Compensaciones,Empregado de Distribuição de Compensação,Employé de distribution des compensations,موظف توزيع المقاصة
+34456,Empleado de Cámara de Compensación,Empregado de Câmara de Compensação,Employé de chambre de compensation,موظف غرفة المقاصة
+34458,Empleado de Ajustes de Mercancías,Empregado de Ajustes de Mercadorias,Employé des ajustements de marchandises,موظف تسويات البضائع
+34460,Empleado de Distribución de Extractos,Empregado de Distribuição de Extratos,Employé de distribution des relevés,موظف توزيع الكشوف
+34461,Práctica Administrativa,Estágio Administrativo,Stage administratif,تدريب إداري
+34462,Extractor de Madera,Extrator de Madeira,Extracteur de bois,عامل سحب الخشب
+34466,Asistente de Enriquecimiento Vital,Assistente de Enriquecimento de Vida,Assistant d'enrichissement de vie,مساعد الإثراء الحياتي
+34468,Asistente de Estudios Sísmicos,Assistente de Estudos Sísmicos,Assistant d'études sismiques,مساعد مسح الزلازل
+34470,Auxiliar de Máquina de Troquelado de Cilindros,Auxiliar de Máquina de Cilindros de Corte,Aide machine à matriçage de cylindres,مساعد آلة قطع الأسطوانات
+34471,Auxiliar de Operador de Prensa de Cilindros,Auxiliar de Operador de Prensa de Cilindros,Aide-opérateur de presse à cylindres,مساعد مشغل مكبس الأسطوانات
+34473,Auxiliar de Operador de Telar de Agujas,Auxiliar de Operador de Tear de Agulhas,Aide-opérateur de métier à aiguilles,مساعد مشغل النول الإبري
+34474,Auxiliar de Operador de Pala Mecánica,Auxiliar de Operador de Escavadora,Aide-opérateur de pelle mécanique,مساعد مشغل الجرافة الميكانيكية
+34477,Constructor de Muelles,Construtor de Cais,Constructeur de quais,بنّاء الأرصفة
+34478,Operario de Rendimiento Energético del Hogar,Operário de Desempenho Energético Doméstico,Ouvrier de performance énergétique du logement,عامل كفاءة الطاقة المنزلية
+34481,Montador de Turbinas de Vapor,Montador de Turbinas a Vapor,Monteur de turbines à vapeur,مُركِّب توربينات البخار
+34487,Educador del Consumidor,Educador do Consumidor,Éducateur des consommateurs,مربي المستهلك
+34489,Oficial Blindado,Oficial Blindado,Officier blindé,ضابط مدرع
+34490,Fabricante de Esquís a Medida,Fabricante de Esquis Personalizados,Fabricant de skis sur mesure,صانع زلاجات مخصصة
+34492,Fabricante de Esquís de Fibra de Vidrio,Fabricante de Esquis de Fibra de Vidro,Fabricant de skis en fibre de verre,صانع زلاجات الفايبرغلاس
+34495,Fabricante de Formas de Yeso,Fabricante de Formas de Gesso,Fabricant de moules en plâtre,صانع القوالب الجصية
+34497,Oficial de Calificación,Oficial de Avaliação,Officier d'évaluation,ضابط التقييم
+34499,Encargado de Mesas,Encarregado de Mesas,Gardien de tables,حارس الطاولات
+34507,Cortador y Recortador de Bordes,Cortador e Aparador de Bordas,Découpeur et ébarbeur de bords,قاطع ومُشذِّب الحواف
+34511,Técnico de Manipulación,Técnico de Manuseamento,Technicien de manutention,فني المناولة
+34513,Técnico de Lencería,Técnico de Roupa de Cama,Technicien du linge,فني الكتان
+34514,Superintendente de Terminal,Superintendente de Terminal,Responsable de terminal,مشرف المحطة الطرفية
+34517,Profesional de Ventas Directas,Profissional de Vendas Diretas,Professionnel de la vente directe,محترف المبيعات المباشرة
+34520,Examinador de Cigarrillos,Examinador de Cigarros,Examinateur de cigarettes,فاحص السجائر
+34521,Examinador de Prendas,Examinador de Vestuário,Examinateur de vêtements,فاحص الملابس
+34523,Supervisor de Colocación de Placas de Piso de Acero,Supervisor de Colocação de Chapas de Piso de Aço,Superviseur de pose de tôles de plancher en acier,مشرف تركيب ألواح أرضية الفولاذ
+34524,Supervisor de Colocación de Encofrado de Acero,Supervisor de Colocação de Cofragem de Aço,Superviseur de pose de coffrages en acier,مشرف تركيب قوالب الفولاذ
+34525,Auxiliar de Mudanzas de Muebles,Auxiliar de Mudanças de Mobiliário,Aide déménageur de meubles,مساعد نقل الأثاث
