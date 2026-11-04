@@ -998,3 +998,874 @@ rank,title_es,title_pt,title_fr,title_ar
 71867,Compactador de Tabaco Cortado,Compactador de Tabaco Cortado,Compacteur de tabac coupé,مُكدِّس التبغ المقطّع
 71872,Quebrador de Tacones de Cuero,Partidor de Calcanhares de Couro,Briseur de talons en cuir,مُكسِّر كعب الجلد
 71874,"Metalizador, Operación de Campo","Metalizador, Operação de Campo","Métalliseur, opération de terrain",مُطلي معدني، عمليات ميدانية
+71878,Expendedor de Ropa de Protección,Distribuidor de Vestuário de Proteção,Distributeur de vêtements de protection,موزّع ملابس الوقاية
+71879,Registrador de la Propiedad,Conservador do Registo Predial,Conservateur des hypothèques,أمين سجل العقارات
+71880,Registrador de Escrituras,Conservador de Registo,Conservateur des titres de propriété,أمين سجل الصكوك
+71884,Abanderado de Control de Tráfico,Sinaleiro de Controlo de Tráfego,Signaleur de contrôle de circulation,مُرشد التحكم في المرور
+71885,Recortador y Reforzador,Aparador e Reforçador,Ébarbeur et renforceur,مُقلّم ومُدعّم
+71886,Ayudante de Camionero,Ajudante de Camionista,Aide-chauffeur de poids lourd,مساعد سائق الشاحنة
+71887,"Ensambladora de Chapas, Reincorporador",Juntador de Folheados,Abouteur de placage,مُوصِّل الألواح الرقيقة
+71889,Encargado de Sala de Videopóker,Encarregado de Sala de Vídeo-Póquer,Responsable de salle de vidéo-poker,مسؤول أرضية البوكر بالفيديو
+71890,Ayudante de Tratamiento de Pozos,Ajudante de Tratamento de Poços,Aide au traitement de puits,مساعد معالجة الآبار
+71891,Laminador de Material de Lámina Ondulada,Laminador de Material em Chapa Canelada,Feuilleteuse de matériau en feuilles ondulées,مُصفِّح مواد الألواح المموّجة
+71894,Sanador Divino,Curandeiro Divino,Guérisseur divin,معالج إلهي
+71895,Anudador de Cordón Corredizo,Atador de Cordão Corrediço,Noueur de cordon coulissant,عاقد الخيط المسحوب
+71897,Atornillador de Rodilla,Aparafusador de Joelho,Boulonneur de genou,مُثبِّت الركبة بالبراغي
+71902,Tamizador de Finos,Peneirador de Finos,Tamiseur de fines,منخّل الفضلات
+71903,Director de Orientación en Escuelas Públicas,Diretor de Orientação em Escolas Públicas,Directeur de l'orientation dans les écoles publiques,مدير التوجيه في المدارس الحكومية
+71904,"Operador de Máquina de Desengomado por Ebullición, Tela","Operador de Máquina de Desengomagem por Fervura, Tecido","Opérateur de machine de débouillissage, tissu",مشغل آلة إزالة المقاس بالغلي للقماش
+71910,"Operador de Quemado, Encaje","Operador de Queima, Renda","Opérateur de brûlage, dentelle",مشغل الحرق للدانتيل
+71914,Cubridor de Cornamusas,Cobridor de Cunhas,Couvreur de taquets,مُغطّي الأوتاد
+71917,Peletero a Medida,Peleteiro por Medida,Fourreur sur mesure,فرّاء حسب الطلب
+71918,Director de Farmacovigilancia,Diretor de Farmacovigilância,Directeur de pharmacovigilance,مدير اليقظة الدوائية
+71919,Director de Preventa,Diretor de Pré-Venda,Directeur d'avant-vente,مدير ما قبل البيع
+71925,Calcinador de Yeso,Calcinador de Gesso,Calcinateur de gypse,مُكلِّس الجص
+71927,Vicegobernador,Vice-Governador,Lieutenant-gouverneur,نائب الحاكم
+71929,Gerente de Intel,Gestor Intel,Manager Intel,مدير Intel
+71930,Gerente de Intranet,Gestor de Intranet,Manager intranet,مدير الإنترانت
+71931,Gerente de Mac,Gestor Mac,Manager Mac,مدير Mac
+71932,Gerente Multicultural,Gestor Multicultural,Manager multiculturel,مدير التعددية الثقافية
+71933,MDM Senior,MDM Sénior,MDM senior,مدير MDM أول
+71939,Muestreador Recolector,Amostrador Recolhedor,Préleveur ramasseur,عامل أخذ العينات والجمع
+71941,Desnatador de Horno de Reverbero,Escumador de Forno de Reverbero,Écumeur de four à réverbère,مُنزِّع الخبث في فرن الانعكاس
+71942,Subprior,Subprior,Sous-prieur,نائب الرئيس الديني
+71943,Supervisor de Trenzado,Supervisor de Entrançamento,Superviseur de tressage,مشرف الضفر
+71944,Supervisor de Bodegas,Supervisor de Adegas,Superviseur de caves,مشرف القبو
+71945,Supervisor de Zanjado,Supervisor de Valetagem,Superviseur de fossoyage,مشرف الحفر
+71946,Supervisor de Vertido,Supervisor de Descarga,Superviseur de déversement,مشرف التفريغ
+71947,Supervisor de Fieltrado,Supervisor de Feltragem,Superviseur de feutrage,مشرف الاستخراج اللبادي
+71948,Supervisor de Propiedades,Supervisor de Propriedades,Superviseur des biens immobiliers,مشرف الممتلكات
+71949,Supervisor de Acolchado,Supervisor de Acolchoado,Superviseur de matelassage,مشرف التطريز
+71951,Supervisor de Costura,Supervisor de Costura,Superviseur de couture,مشرف الخياطة
+71952,Supervisor de Descarga,Supervisor de Descarga,Superviseur de déchargement,مشرف التفريغ
+71955,Lavador de Carcasas,Lavador de Carcaças,Laveur de carcasses,غاسل الهياكل
+71957,"Ferrallista, Malla Electrosoldada","Armador de Aço, Malha Soldada","Ferrailleur, treillis soudé",عامل حديد التسليح، شبك الأسلاك
+71959,Pulidor de Almohadilla Inflable,Polidor de Almofada Inflável,Polisseur de coussin gonflé,مُلمّع الوسادة المنفوخة
+71960,Empleado de Básculas,Empregado de Balanças,Employé de pesage,موظف الموازين
+71964,Reparador de Defectos en Cristalería,Reparador de Defeitos em Vidraria,Réparateur de défauts de verrerie,مُصلح عيوب الزجاجيات
+71965,Director de Organizaciones sin Ánimo de Lucro,Diretor de Entidades sem Fins Lucrativos,Directeur d'organisation à but non lucratif,مدير المنظمات غير الربحية
+71966,Director de Valoración,Diretor de Avaliação,Directeur de l'évaluation,مدير التقييم
+71967,Bruñidor de Bordes de Cortes,Polidor de Bordos de Gáspeas,Lisseur de bords de tiges,مُلمّع حواف الأعلى
+71968,Entintador de Bordes de Cortes,Tintador de Bordos de Gáspeas,Encreur de bords de tiges,مُلوّن حواف الأعلى
+71970,Gerente de Organizaciones sin Ánimo de Lucro,Gestor de Entidades sem Fins Lucrativos,Manager à but non lucratif,مدير المنظمات غير الربحية
+71971,Gerente de Alianzas Estratégicas,Gestor de Alianças Estratégicas,Manager alliances stratégiques,مدير التحالفات الاستراتيجية
+71973,Mezclador de Vertido Húmedo,Misturador de Betonagem Húmida,Mélangeur de coulage humide,خلاط الصب الرطب
+71977,Mantenedor de Caravanas,Assistente de Caravanas,Réparateur de caravanes,فني صيانة المقطورات السياحية
+71980,Superintendente de Estaciones Compresoras,Superintendente de Estações de Compressão,Superintendant des stations de compression,مشرف محطات الضغط
+71981,Supervisor de Vertido Húmedo,Supervisor de Betonagem Húmida,Superviseur de coulage humide,مشرف الصب الرطب
+71982,Desintegrador de Batata Dulce,Desintegrador de Batata-Doce,Désintégrateur de patates douces,مُفتِّت البطاطا الحلوة
+71983,Atador y Detonador,Atador e Detonador,Lieur et détonateur,مُحزِّم ومُفجِّر
+71987,Cortador de Ranura en V,Cortador de Ranhura em V,Découpeur de rainure en V,قاطع الشق على شكل V
+71991,Alisador Plano de Joya,Alisador Plano de Jóia,Surfaceur plat de bijou,مُسوّي الجواهر المسطحة
+71993,Inspector de Cuarzo Bruto,Inspetor de Quartzo Bruto,Inspecteur de quartz brut,مفتش الكوارتز الخام
+71994,Gerente de Almacenamiento de Datos,Gestor de Data Warehousing,Manager data warehousing,مدير مستودعات البيانات
+71996,Gerente Six Sigma,Gestor Six Sigma,Manager Six Sigma,مدير Six Sigma
+72008,Supervisor de Acabado de Láminas de Plástico,Supervisor de Acabamento de Folhas de Plástico,Superviseur de finition de feuilles plastiques,مشرف تشطيب الألواح البلاستيكية
+72009,Inspector de Conjuntos e Instalaciones,Inspetor de Conjuntos e Instalações,Inspecteur d'assemblages et d'installations,مفتش التجميعات والتركيبات
+72013,Supervisor de Pulido y Pegado,Supervisor de Polimento e Colagem,Superviseur de polissage et collage,مشرف التلميع واللصق
+72014,Director Global de Aire y Cambio Climático,Diretor Global do Ar e Alterações Climáticas,Directeur mondial air et changement climatique,المدير العالمي للهواء والتغير المناخي
+72016,Retirador de Máquina de Tensado,Retirador de Máquina de Tensionamento,Dégageur de machine à rames,مُزيل الأقمشة من آلة التثبيت
+72019,Supervisor de Cocina Kosher,Supervisor de Cozinha Kosher,Surveillant de cuisine casher,مشرف مطبخ الكوشير
+72020,"Operador de Relleno de Arena, Superficie","Operador de Enchimento de Areia, Superfície","Opérateur de remplissage au sable, surface",مشغل ردم الرمل السطحي
+72021,Madereador de Cable Flojo,Madeireiro de Cabo Frouxo,Débardeur par câble mou,عامل سحب الأخشاب بالكابل المرتخي
+72024,"VP de Marketing Digital, Redes Sociales y CRM","VP de Marketing Digital, Redes Sociais e CRM","VP marketing digital, réseaux sociaux et CRM",نائب الرئيس للتسويق الرقمي ووسائل التواصل الاجتماعي وإدارة علاقات العملاء
+72025,Operador de Unidad de Carga de Polvo,Operador de Unidade de Carregamento de Pó,Opérateur d'unité de chargement de poudre,مشغل وحدة تحميل المسحوق
+72026,Director del Programa de Personal de Alumnos,Diretor do Programa de Pessoal Discente,Directeur du programme du personnel scolaire,مدير برنامج شؤون الطلاب
+72027,Gerente de Exposiciones y Colecciones,Gestor de Exposições e Coleções,Responsable des expositions et des collections,مدير المعارض والمجموعات
+72030,Reemplazador de Cristalería de Bulevar,Substituidor de Vidraria de Boulevard,Remplaceur de verrerie de boulevard,مُستبدل الزجاجيات في الشارع
+72031,Entallador de Tablero de Teja de Madera,Entalhador de Tábua de Telhas,Encocheur de planche de bardeau,مُحزّز لوح الكساء الخشبي
+72032,Tasador de Alojamientos de Viaje,Avaliador de Alojamentos de Viagem,Évaluateur d'hébergements de voyage,مُقيّم أماكن إقامة السفر
+72034,Montador y Encolador de Plásticos Laminados,Montador e Colador de Plásticos Laminados,Monteur et colleur de plastiques stratifiés,مُجمِّع ولاصق البلاستيك المصفح
+72036,Director de Coordinación de Campo,Diretor de Coordenação de Campo,Directeur de la coordination terrain,مدير التنسيق الميداني
+72037,"Clasificador de Tarjetas de Plástico, Sala de Juego","Classificador de Cartões de Plástico, Sala de Jogo","Trieur de cartes plastiques, salle de jeux",مُصنّف البطاقات البلاستيكية في صالة الألعاب
+72038,Supervisor de Limpieza y Recocido,Supervisor de Limpeza e Recozimento,Superviseur de nettoyage et recuit,مشرف التنظيف والتلدين
+72042,Ingeniero de Booster y Extractor,Engenheiro de Booster e Exaustor,Ingénieur de surpresseur et d'extracteur,مهندس المعزز والشفّاط
+72043,Ingeniero de Vuelo Cualificado en Rendimiento,Engenheiro de Voo Qualificado em Desempenho,Mécanicien navigant qualifié performances,مهندس طيران مؤهل للأداء
+72046,Rebajador de Cortes o Forros,Rebaixador de Gáspeas ou Forros,Pareur de tiges ou doublures,مُرقِّق الأعلى أو البطانات
+72047,Gerente de Unidad de Tiendas de Conveniencia,Gestor de Unidade de Lojas de Conveniência,Responsable d'unité de supérettes,مدير وحدة متاجر الراحة
+72049,Control y Recuperación en Rescate de Combate,Controlo e Recuperação em Resgate de Combate,"Contrôle et récupération, sauvetage de combat",التحكم والاسترداد في إنقاذ القتال
+72050,Director de la Instalación de Biofísica,Diretor da Instalação de Biofísica,Directeur de l'installation de biophysique,مدير مرفق الفيزياء الحيوية
+72051,Gerente Senior de Fusiones y Adquisiciones,Gestor Sénior de Fusões e Aquisições,Manager senior fusions-acquisitions,مدير أول الاندماج والاستحواذ
+72052,Director de Actividades para Adolescentes,Diretor de Atividades para Adolescentes,Directeur des activités pour adolescents,مدير أنشطة المراهقين
+72053,Director Global de Soluciones para Anunciantes,Responsável Global de Soluções para Anunciantes,Responsable mondial des solutions annonceurs,رئيس حلول المعلنين العالمية
+72054,Ejecutivo de Cuentas,Executivo de Contas,Responsable de comptes,المدير التنفيذي للحسابات
+72056,Emparejador de Guanteletes,Emparelhador de Luvas,Appareilleur de gantelets,مُزاوج القفازات الحديدية
+72062,Forjador de Palma y Dorso,Forjador de Palma e Costas,Forgeron de paume et de dos,مُطرِّق راحة اليد والظهر
+72063,Asesor de Mando en Combate,Conselheiro de Comando em Combate,Conseiller de commandement au combat,مستشار القيادة في القتال
+72065,"Estriador de Barriles, Broca","Estriador de Canos, Brochador","Rayeur de canons, brocheuse",مُخدِّش البراميل بالمِبرد
+72066,"Estriador de Barriles, Botón","Estriador de Canos, Botão","Rayeur de canons, bouton",مُخدِّش البراميل بالزر
+72067,"Estriador de Barriles, Gancho","Estriador de Canos, Gancho","Rayeur de canons, crochet",مُخدِّش البراميل بالخطّاف
+72069,Contratista de Trilla de Mijo Escobero,Empreiteiro de Debulha de Sorgo Vassoura,Entrepreneur de battage de sorgho à balais,مقاول دراس ذرة المكانس
+72071,Director de Traumatología y Ortopedia,Diretor de Ortopedia,Directeur d'orthopédie,مدير جراحة العظام
+72073,Rastreador Web Ambiental,Rastreador Web Ambiental,Robot d'exploration web environnemental,زاحف ويب بيئي
+72074,Operador de Evaporador de Melaza,Operador de Evaporador de Melaço,Opérateur d'évaporateur à mélasse,مشغل مبخّر المولاس
+72075,Examinador de Moneda,Examinador de Moeda,Examinateur de monnaie,فاحص العملة
+72076,Insertador de Artículos Promocionales,Inseridor de Artigos Promocionais,Inséreur d'articles promotionnels,مُدخِل المواد الترويجية
+72079,Empacador de Carne Seca de Vacuno,Embalador de Carne Seca de Vaca,Emballeur de viande de bœuf séchée,مُعبّئ لحم البقر المجفف
+72082,Supervisor de Turno de Fundición,Supervisor de Turno de Fusão,Chef d'équipe de fusion,مشرف وردية الصهر
+72084,Supervisor de Plateado Manual,Supervisor de Prateação Manual,Superviseur d'argenture manuelle,مشرف الفضية اليدوية
+72085,"Bombero de Tanques, Cuadro Eléctrico","Bombeiro de Tanques, Quadro Elétrico","Pompiste de réservoirs, tableau",مُضخّ الخزانات، لوحة التحكم
+72089,Operador de Prensa de Señal Estelar,Operador de Prensa de Sinal Estelar,"Opérateur de presse, signal étoile",مشغل مكبس الإشارة النجمية
+72090,Supervisor Ferroviario de Locomotoras,Supervisor Ferroviário de Locomotivas,Superviseur ferroviaire des locomotives,مشرف القاطرات بالسكك الحديدية
+72091,Supervisor de Locomotoras de Carretera,Supervisor de Motores Rodoviários,Superviseur des moteurs routiers,مشرف محركات الطرق
+72092,Supervisor de Estañado por Inmersión en Caliente,Supervisor de Estanhagem por Imersão a Quente,Superviseur d'étamage à chaud,مشرف التقصدير بالغمس الساخن
+72093,Gestor de Tráfico Publicitario,Gestor de Tráfego Publicitário,Trafiquant publicitaire,مسؤول توزيع الإعلانات
+72098,Montador de Bolsos,Montador de Carteiras de Mão,Monteur de sacs à main,مُجمِّع الحقائب اليدوية
+72101,Válvulas de Bolsas,Válvula de Sacos,Valveur de sacs,مُركِّب صمامات الأكياس
+72103,Empujador de Bandas,Empurrador de Bandas,Pousseur de bandes,دافع الأشرطة
+72104,Desbarbador de Corteza,Descascador de Casca,Écorceur à la bêche,مُقشّر اللحاء
+72105,Depositador de Masa,Depositor de Massa,Doseur de pâte,مُودِع العجينة
+72108,Canalizador de Remolacha,Canalizador de Beterraba,Canaliseur de betteraves,مُسيّل البنجر في القنوات
+72109,Trípoli de Broca,Triturador de Trípoli de Broca,Tripoliseur de trépan,مُلمِّع الميزان بالتريبولي
+72110,Ojalador Ciego,Ilhoseador Cego,Œilletonneur aveugle,مُثقِّب العيون العمياء
+72111,Cablero de Bloque,Cabista de Bloco,Câbleur de bloc,عامل الكابلات للكتل
+72113,Guarnecedor de Barcos,Guarnecedor de Barcos,Garnisseur de bateaux,مُزيّن القوارب
+72114,Arrendador de Barcos,Locador de Barcos,Loueur de bateaux,مُؤجِّر القوارب
+72115,Enmascarador de Carrocería,Mascarador de Carroçaria,Masqueur de carrosserie,مُقنِّع الهيكل
+72118,Corredor de Apuestas de Mapas,Bookmaker de Mapas,Bookmaker de cartes,مُقامر الخرائط
+72119,Tapador de Cajas,Tampador de Caixas,Couvercleur de boîtes,مُغطّي الصناديق
+72120,Podador de Brilliandeer,Podador de Brilliandeer,Élagueur Brilliandeer,مُقلّم برلياندير
+72123,Agriador de Marrón,Acidificador de Castanho,Acidifieur brun,مُحمّض البني
+72126,Clavador de Botones,Pregador de Botões,Pointeur de boutons,مُثبِّت الأزرار بالمسامير
+72127,Comprador Arrendador,Comprador Locatário,Acheteur loueur,مشتري المستأجرين
+72128,Rebobinador de Cable,Rebobinador de Cabo,Rebobineur de câble,مُعيد لفّ الكابل
+72129,Cableador de Cordones,Cordoeiro de Cabos,Câbleur de torons,مُضفّر الكابلات
+72131,Golpeador de Coches,Batedor de Carros,Frappeur de voitures,مُطرِّق السيارات
+72133,Descornador de Ganado,Descornador de Gado,Écorneur de bétail,مُزيل قرون الماشية
+72135,Reventador de Cereales,Pipocador de Cereais,Éclateur de céréales,مُفجّر الحبوب
+72137,Arrebatador de Gráficos,Arrebatador de Gráficos,Chasseur de graphiques,خاطف الرسوم البيانية
+72138,Piloto Verificador,Piloto Verificador,Pilote contrôleur,طيار الفحص
+72139,Revisor de Cheques,Verificador de Cheques,Vérificateur de chèques,مُراجع الشيكات
+72140,Jefe de Inspección Forestal,Chefe de Cruzeiro,Chef de cubage,رئيس المسح الحرجي
+72143,Operador de Escoria,Pitman de Escória,Préposé aux cendres,مُعالج الخبث
+72145,Oficiante Civil,Celebrante Civil,Officiant civil,مُحتفل مدني
+72149,Eliminador de Nudos de Tela,Removedor de Nós de Tecido,Épouilleur de tissu,مُزيل العقد من القماش
+72152,Cooperativa,Cooperativa,Coopérative,تعاوني
+72156,Rescatador de Núcleo,Recuperador de Núcleos,Récupérateur de carottes,مُستعيد اللب
+72157,Reventador de Maíz,Pipocador de Milho,Éclateur de maïs,مُفجّر الذرة
+72165,Subcapitán de Puerto,Subcapitão de Porto,Adjoint du capitaine de port,نائب مدير الميناء
+72166,Evangelista de Desarrolladores,Evangelista de Programadores,Évangéliste développeurs,مبشّر المطورين
+72168,Soldador por Inmersión,Brasador por Imersão,Brasier par immersion,لحّام الغمس
+72169,Recubridor de Disco,Revestidor de Disco,Recouvreur de disques,مُعيد طلاء الأقراص
+72170,Jefe de División de Carreteras,Chefe de Divisão de Estradas,Responsable de division routière,مشرف الطرق بالقسم
+72173,Equipador de Dibujantes,Equipador de Desenhadores,Équipeur de dessinateurs,مُجهّز الرسّامين
+72174,Operador de Tubería de Draga,Operador de Tubagem de Draga,Tuyauteur de drague,عامل أنابيب الكراكة
+72175,Vaquero de Rancho Turístico,Vaqueiro de Rancho Turístico,Gardien de ranch touristique,راعي الرحلات السياحية
+72176,Metalúrgico de Duraluminio,Metalúrgico de Duralumínio,Métallurgiste en duralumin,عامل معادن الدورالومنيوم
+72177,Oleadora de Huevos,Cheirador de Ovos,Contrôleur olfactif d'œufs,فاحص رائحة البيض
+72180,Preparador de Herramientas de Estampado en Relieve,Preparador de Ferramentas de Gravação em Relevo,Régleur d'outils de gaufrage,مُعدّ أدوات النقش البارز
+72181,Desflecador de Extremos,Desfiador de Extremidades,Défrangeur de bouts,مُزيل شراشيب الأطراف
+72182,Técnico de Endoscopia,Técnico de Endoscopia,Technicien en endoscopie,فني التنظير الداخلي
+72185,Estructurador de Capital,Estruturador de Capital,Structureur de capitaux,مُهيكل حقوق الملكية
+72187,Oxidador de Etilbenceno,Oxidador de Etilbenzeno,Oxydeur d'éthylbenzène,مُؤكسِد الإيثيل بنزين
+72188,Vigilante de Exámenes,Vigilante de Exames,Surveillant d'examens,مراقب الامتحانات
+72189,Normalizador de Tejido,Normalizador de Tecido,Normaliseur de tissu,مُعيّر القماش
+72190,Eliminador de Nudos de Caras,Removedor de Nós de Faces,Épouilleur de faces,مُزيل العقد من الوجه
+72192,Enmascarador de Película,Mascarador de Filme,Masqueur de film,مُقنِّع الفيلم
+72193,Depilador Fino,Depilador Fino,Épileur fin,مُزيل الشعر الدقيق
+72198,Fabricante de Chenilla de Flor,Fabricante de Chenille de Flor,Fabricant de chenille à fleurs,صانع الزهور المخملية
+72207,Ribeteador de Guantes,Punhadeiro de Luvas,Manchettiste de gants,مُطرّز أطراف القفازات
+72208,Encantador de Oro,Encantador de Ouro,Charmeur d'or,ساحر الذهب
+72209,Verteador de Grano,Vertedor de Grão,Déverseur de grain,مُفرِّغ الحبوب بالأنبوب
+72210,Encadenador de Verde,Encadeador Verde,Chaîneur vert,مُسلسِل الأخضر
+72211,Perchero de Gris,Pousador de Cinzento,Perchoir de gris,مُعلِّق القماش الرمادي
+72213,Delegado Guía,Delegado-Guia,Délégué guide,مندوب مرشد
+72214,Sincronizador de Armas,Sincronizador de Armas,Synchroniseur d'armes,مُزامن الأسلحة
+72215,Extractor de Tripas,Extrator de Tripas,Arracheur d'intestins,مُستخرج الأمعاء
+72216,Descarnador Manual,Descarnador Manual,Écharneur manuel,مُقشّر اللحم يدوياً
+72217,Separador de Manos,Separador de Mãos,Séparateur de mains,مُفرِّق الأيدي
+72219,Engomador de Tacones,Gomador de Calcanhares,Gommeur de talons,مُصمِّغ الكعب
+72223,Auxiliar de Hospital,Auxiliar Hospitalar,Infirmier auxiliaire militaire,مساعد طبي في المستشفى
+72224,Apuntalador de Casas,Escorador de Casas,Étayeur de maisons,دعّام المنازل
+72226,Especialista en Prevención de Infecciones,Especialista em Prevenção de Infeções,Spécialiste de la prévention des infections,أخصائي الوقاية من العدوى
+72233,Pesador de Zumo,Pesador de Sumo,Peseur de jus,موزّن العصير
+72234,Jefe de Cargadores,Chefe de Carregadores,Chef chargeur,رئيس عمال الشحن
+72240,Empeinador de Forros,Gaspeador de Forros,"Garnisseur de tiges, doublure",مُسوّي بطانة الأعلى
+72242,Blanqueador de Máquina,Branqueador de Máquina,Blanchisseur à machine,مُبيّض الآلة
+72243,Localizador Magnético,Localizador Magnético,Localisateur magnétique,مُحدِّد المواقع المغناطيسي
+72245,Gerente de LSW,Gestor LSW,Manager LSW,مدير LSW
+72248,Oxidador Mecánico,Oxidador Mecânico,Oxydeur mécanique,مُؤكسِد ميكانيكي
+72250,Superintendente de Fusión,Superintendente de Fusão,Superintendant de fusion,مشرف الصهر
+72254,Limpiador de Moldes,Limpador de Moldes,Nettoyeur de moules,مُنظّف القوالب
+72255,Conferenciante Motivacional,Orador Motivacional,Conférencier motivationnel,متحدث تحفيزي
+72257,Copista de Música,Copista de Música,Copiste de musique,كاتب النوتة الموسيقية
+72263,Desparafinador de Aceite,Desparafinador de Óleo,Dewaxeur d'huile,مُعالج الزيت للتشتية
+72264,Flexionador de Suela,Flexionador de Sola,Fléchisseur de semelle extérieure,مُرِن النعل الخارجي
+72265,Parafinador de Suela,Parafinador de Sola,Paraffineur de semelle extérieure,مُشمّع النعل الخارجي
+72266,Untador de Hornos,Untador de Fornos,Badigeonneur de fours,مُدهِن الأفران
+72270,Empujador de Bandejas,Empurrador de Tabuleiros,Pousseur de bacs,دافع الصواني
+72271,Cerrador de Papel,Fixador de Papel,Fermeur de papier,مُثبِّت الورق بالمزلاج
+72272,Acompañante de Salón,Acompanhante de Salão,Chaperon de salon,مرافق الصالون
+72279,Trabajador a Destajo,Trabalhador à Peça,Travailleur à la pièce,عامل بالقطعة
+72282,Sensibilizador de Placas,Sensibilizador de Placas,Sensibilisateur de plaques,مُحسّس الألواح
+72283,Equilibrador de Balanza,Equilibrador de Balança,Équilibreur de balance,مُوازن ميزان
+72284,Técnico Móvil de Seguimiento,Técnico Portátil de Rastreio,Technicien de suivi portable,تقني التتبع المحمول
+72285,Investigador Posdoctoral,Investigador Pós-Doutorado,Chercheur postdoctoral,باحث ما بعد الدكتوراه
+72286,Fundente de Crisol,Fundente de Cadinho,Fluxeur de creuset,مُنظّف البوتقة بالفلكس
+72287,Descopetador de Aves,Desbicador de Aves,Écorçonneur de volailles,مُزيل مناقير الدواجن
+72288,Evangelista de Producto,Evangelista de Produto,Évangéliste produit,مبشّر المنتج
+72289,Higienizador de Producción,Higienizador de Produção,Hygiéniste de production,مُعقِّم الإنتاج
+72291,Despachador de Radio,Despachante de Rádio,Répartiteur radio,موزّع الراديو
+72296,Codificadores Remotos,Codificadores Remotos,Codeurs à distance,مبرمجون عن بُعد
+72298,Becario de Investigación,Bolseiro de Investigação,Boursier de recherche,باحث منحة
+72305,Game Master Sénior,Game Master Sénior,Maître de jeu senior,مدير ألعاب أول
+72307,Aleteador de Caña,Aleteador de Haste,Ébarbeur de tige,مُزيل حواف الساق
+72308,Ponedor de Hormas,Colocador de Formas de Calzado,Mettreur en forme de chaussures,مُثبِّت قوالب الأحذية
+72309,Cronometrador de Señales,Cronometrista de Sinais,Régleur de signaux,مُوقِّت الإشارات
+72310,Operador de Jaula,Pitman de Skip,Préposé au skip,عامل صندوق الرفع
+72311,Bombero,Bombeiro,Pompier,مُطفئ الحرائق
+72313,Vigilante de Sonar,Vigilante de Sonar,Opérateur de veille sonar,مراقب السونار
+72315,Posicionador de Boquilla,Posicionador de Bico,Positionneur de bec,مُحدِّد موضع المصبّ
+72316,Encajador de Muelles,Embalador de Molas,Encaisseur de ressorts,مُعبّئ النوابض في الغلاف
+72317,Desflecador de Tallos,Desfiador de Hastes,Défrangeur de tiges,مُزيل شراشيب السيقان
+72320,Supervisor de Agarres,Supervisor de Pegas,Superviseur de poignées,مشرف المقابض
+72327,Mentor Terapéutico,Mentor Terapêutico,Mentor thérapeutique,موجّه علاجي
+72331,Envenenador de Madera,Envenenador de Madeira,Traiteur de bois,مُعالج الخشب بالسموم
+72332,Ladrón de Madera,Ladrão de Madeira,Voleur de bois,عامل قطع الأخشاب
+72333,Aromatizador de Tabaco,Aromatizador de Tabaco,Aromatiseur de tabac,مُنكّه التبغ
+72334,Conductor de Remolque,Condutor de Reboque,Conducteur de remorque,موجّه المقطورة
+72335,Cota de Viaje,Cota de Viagem,Cota voyage,حصة السفر
+72336,OT de Viajes,OT de Viagens,OT voyages,ساعات العمل الإضافية للسفر
+72337,PTA de Viajes,PTA de Viagens,PTA voyages,مكتب السفر PTA
+72339,Delegado Tribal,Delegado Tribal,Délégué tribal,مندوب القبيلة
+72340,Localizador de Averías,Localizador de Avarias,Localisateur de pannes,محدّد الأعطال
+72342,Mapeador de Tipos,Mapeador de Tipos,Mappeur de types,مُخطِّط الأنواع
+72346,Vicealmirante,Vice-Almirante,Vice-amiral,نائب الأدميرال
+72347,Vicerrector,Vice-Reitor,Vice-chancelier,نائب المستشار
+72350,Rebordeador de Vira,Rebordador de Debrum,Bordeur de bord de tige,مُحيِّط حافة الكعب
+72351,Acidificador de Blanco,Acidificador de Branco,Acidifieur blanc,مُحمّض الأبيض
+72352,Cableador de Alambre,Cordoeiro de Arame,Câbleur de fil,مُضفّر السلك
+72353,Calafateador de Madera,Calafetador de Madeira,Calfateur de bois,مُحكِم الخشب
+72354,Reparcheador de Madera,Remendador de Madeira,Réparateur de bois,مُرقِّع الخشب
+72355,Oficial de Sistema Sonar An/SQQ-89(V)15,Oficial de Sistema Sonar An/SQQ-89(V)15,Technicien qualifié système sonar An/SQQ-89(V)15,فني منظومة السونار An/SQQ 89(v)15
+72356,Artillero de Defensa Antiaérea de Baja Altitud,Artilheiro de Defesa Antiaérea de Baixa Altitude,Canonnier de défense antiaérienne basse altitude,مدفعي الدفاع الجوي منخفض الارتفاع
+72357,Artillero de Asalto Antitanque,Artilheiro de Assalto Antitanque,Canonnier d'assaut antichar,مدفعي الهجوم المضاد للدروع
+72358,Operador de Máquina Compactadora,Operador de Máquina Compactadora,Opérateur de machine de compactage,مشغل آلة الضغط
+72359,Gerente de Proyectos y Producción de Imagen,Gestor de Projetos e Produção de Imagem,Responsable de projets et production imagerie,مدير المشاريع والإنتاج للتصوير
+72361,Plegador de Blanqueo Ácido,Pregueador de Branqueamento Ácido,Plisseur de blanchiment acide,مُطوٍّ التبييض الحمضي
+72362,Secador de Bagazo,Secador de Bagaço,Sécheur de drêches,مُجفّف الحبوب المستهلكة
+72364,Director de Museo o Zoo,Diretor de Museu ou Jardim Zoológico,Directeur de musée ou de zoo,مدير المتحف أو حديقة الحيوان
+72366,Soldador de Bordes de Sierra Circular,Soldador de Bordos de Serra Circular,Fondeur de bords de scie circulaire,مُلحِم حواف المنشار الدائري
+72367,Atador de Hilos Finos,Atador de Fio Fino,Botteleur de fils fins,مُحزِّم الأسلاك الرفيعة
+72368,Topógrafo Direccional de Pozos Petrolíferos,Topógrafo Direcional de Poços de Petróleo,Géomètre directionnel de puits pétroliers,مساح الآبار النفطية الاتجاهية
+72370,Concentrador de Ácido,Concentrador de Ácido,Concentrateur d'acide,مُركِّز الحمض
+72372,Artista Sospechoso,Artista Suspeito,Artiste suspect,فنان مشتبه به
+72373,Enredadera de Judías,Trepadeira de Feijões,Grimpeur de haricots,مُعرِّش الفاصوليا
+72376,Cocedor de Sulfato,Cozedor de Sulfato,Cuiseur de sulfate,طبّاخ الكبريتات
+72377,Extractor de Núcleos,Sugador de Núcleos,Extracteur de noyaux,مُستخرج اللب بالشفط
+72378,Desgranador de Maíz,Descascador de Milho,Éplucheur de maïs,مُقشّر الذرة
+72379,Atascador de Algodón,Empanador de Algodão,Bourreur de coton,مُعطّل القطن
+72380,Juez de Testamentaría del Condado,Juiz de Órfãos do Condado,Juge des successions du comté,قاضي تركات المقاطعة
+72382,Perro Diablo,Cão Diabo,Chien du diable,كلب الشيطان
+72383,Director de Toxicología,Diretor de Toxicologia,Directeur de toxicologie,مدير علم السموم
+72385,PM de ERP,PM de ERP,PM ERP,مدير مشروع ERP
+72389,Número de Arma,Número de Arma,Numéroteur d'arme,رقم السلاح
+72390,Inspector de Alineación,Inspetor de Alinhamento,Inspecteur d'alignement,مفتش المحاذاة
+72392,JD Edwards,JD Edwards,JD Edwards,JD Edwards
+72393,Peón de Corteza de Curtiduría,Trabalhador de Casca de Curtume,Manœuvre d'écorce à tan,عامل قشر الدباغة
+72394,Sustituto Temporal,Locum Tenens,Locum,بديل مؤقت
+72395,Balsero de Troncos,Jangadeiro de Toros,Flotteur de grumes,عامل تعويم الجذوع
+72396,Gerente de Antecedentes,Gestor de Background,Manager background,مدير الخلفية
+72397,Gerente de Terminaciones,Gestor de Conclusões,Manager achèvements,مدير الإنجازات
+72398,Gerente de Costes,Gestor de Custeio,Manager coûts,مدير التكاليف
+72400,Gerente de Centro Comercial,Gestor de Centro Comercial,Manager centre commercial,مدير المركز التجاري
+72401,Gerente de NC,Gestor NC,Manager NC,مدير NC
+72402,Gerente de Transfusión,Gestor de Transfusão,Manager transfusion,مدير نقل الدم
+72404,Moldeador de Barrido,Moldador de Varredura,Mouleur à balayage,قالب الكنس
+72410,Sujeto de Investigación,Sujeito de Investigação,Sujet de recherche,مشارك في البحث
+72420,Guía Lateral,Guia Lateral,Guide latéral,موجّه جانبي
+72422,Mayordomo de Hipódromo,Mordomo de Hipódromo,Intendant d'hippodrome,مشرف حلبة السباق
+72424,Superintendente de Vivero,Superintendente de Menagerie,Superintendant de ménagerie,مشرف حديقة الحيوانات
+72426,Supervisor de Matadero,Supervisor de Matadouro,Superviseur d'abattoir,مشرف المسلخ
+72427,Supervisor de Descarnado,Supervisor de Descarnagem,Superviseur d'écharnage,مشرف التقشير
+72428,Supervisor de Glicerina,Supervisor de Glicerina,Superviseur de glycérine,مشرف الجلسرين
+72429,Supervisor de Arboleda,Supervisor de Olival ou Bosque,Superviseur de bosquet,مشرف البستان
+72430,Supervisor de Litargirio,Supervisor de Litargírio,Superviseur de litharge,مشرف مرداسنج
+72431,Supervisor de Parcheado,Supervisor de Remendagem,Superviseur de rapiéçage,مشرف الترقيع
+72432,Supervisor de Fotocopiado,Supervisor de Fotocópias,Superviseur de photocopie,مشرف النسخ الضوئي
+72434,Supervisor de Plisado,Supervisor de Pregagem,Superviseur de plissage,مشرف الطي
+72435,Supervisor de Retrabajo,Supervisor de Retrabalho,Superviseur de reprise,مشرف إعادة العمل
+72438,VP de Reumatología,VP de Reumatologia,VP rhumatologie,نائب الرئيس لأمراض الروماتيزم
+72439,Pesador de Aleación,Pesador de Liga,Peseur d'alliage,موزّن السبائك
+72441,Director de Actividades de Scouts,Diretor de Atividades Escutistas,Directeur d'activités scoutes,مدير أنشطة الكشافة
+72443,Pintor Aprendiz de Corbatas,Pintor Aprendiz de Gravatas,Peintre apprenti de cravates,متدرّب دهّان ربطات العنق
+72445,Almidonador de Flores Artificiales,Engomador de Flores Artificiais,Amidonneur de fleurs artificielles,مُنشّي الزهور الاصطناعية
+72446,Montador de Luces Fluorescentes,Montador de Luzes Fluorescentes,Monteur de néons,مُجمِّع المصابيح الفلورية
+72448,Desbrozador de Topografía,Desbravador de Topografia,Débroussailleur pour levés topographiques,مُمهّد مسح الأراضي
+72449,Capitán de la Guardia,Capitão da Guarda,Capitaine de la garde,قائد الحرس
+72450,Empleado de Control de Reparaciones,Empregado de Controlo de Reparações,Employé de contrôle des réparations,موظف مراقبة الإصلاحات
+72451,Director de la Comisión de Aeronáutica,Diretor da Comissão de Aeronáutica,Directeur de la commission de l'aéronautique,مدير لجنة الطيران
+72452,Director de Filantropía,Diretor de Filantropia,Directeur de la philanthropie,مدير العمل الخيري
+72458,Handicapper de Carreras de Trote,Handicapper de Corridas de Trote,Handicapeur des courses de trot,مُحدِّد أوزان سباقات الخيل المُقيّدة
+72459,Entintador y Opacador,Tintador e Opacificador,Encreur et opacifiant,مُلوِّن ومُعتِم
+72462,Maestro en la Cancillería,Mestre na Chancelaria,Maître en chancellerie,ماجستير القضاء الأهلي
+72464,Fabricante de Tornillos de Prensa Fotográfica,Fabricante de Parafusos de Prensa Fotográfica,Fabricant de vis de presse photographique,صانع براغي المكبس الفوتوغرافي
+72466,Director de Programa de Scouts,Diretor de Programa Escutista,Directeur de programme scout,مدير برنامج الكشافة
+72467,Gerente de Programa SLP,Gestor de Programa SLP,Responsable de programme SLP,مدير برنامج SLP
+72468,Registrador en la Cancillería,Registador na Chancelaria,Greffier en chancellerie,مسجّل القضاء الأهلي
+72469,Cortador Transversal de Vidrio Laminado,Cortador Transversal de Vidro Laminado,Coupeur transversal de verre laminé,قاطع الزجاج المدرفل بالعرض
+72470,Sargento de Oficiales,Sargento de Oficiais,Sergent des officiers,رقيب الضباط
+72471,Conductor de Caballos de Tiro,Condutor de Cavalos de Tração,Conducteur de chevaux de trait,سائق خيل الجر
+72472,Igualador de Pernos de Duelas,Equalizador de Parafusos de Aduelas,Égaliseur de boulons de douves,مُعادل براغي الألواح
+72474,Formador de Punteras de Cosido a Fondo,Formador de Biqueiras de Costura de Fundo,"Formeur de bouts, montage à couture",مُشكِّل مقدمة الحذاء بالخياطة
+72475,Recortador de Recortes de Prensa,Aparador de Recortes de Imprensa,Découpeur de coupures de presse,مُقلّم قصاصات الصحف
+72476,Rover de Laminador de Alambre,Rover de Laminador de Arame,Rover de tréfilerie,عامل مطحنة الأسلاك المتنقل
+72477,"Asesor, Defensor, Cofundador de Inversor Ángel","Conselheiro, Advogado, Cofundador de Anjo Investidor","Conseiller, avocat, cofondateur d'investisseur providentiel",مستشار ومدافع ومؤسس مشارك لمستثمر ملاك
+72478,Ejecutivo de Ventas de Servicios Gestionados B2B,Executivo de Vendas de Serviços Geridos B2B,Responsable commercial services gérés B2B,المدير التنفيذي لمبيعات الخدمات المُدارة B2B
+72481,Inyector Ciaio Lumite,Injetor Ciaio Lumite,Injecteur Ciaio Lumite,حاقن Ciaio Lumite
+72483,Director de Teen Post,Diretor do Teen Post,Directeur Teen Post,مدير Teen Post
+72486,"Auxiliar de Mesa de Vapor, Ferrocarril","Auxiliar de Mesa a Vapor, Caminho de Ferro","Préposé au buffet, chemin de fer",مساعد مائدة البخار بالسكك الحديدية
+72487,Supervisor de Fertilizante Fosfatado,Supervisor de Fertilizante Fosfatado,Superviseur d'engrais phosphaté,مشرف الأسمدة الفوسفاتية
+72488,"Operador de Consola Aegis, Seguimiento","Operador de Consola Aegis, Rastreio","Opérateur de console Aegis, poursuite",مشغل وحدة تحكم Aegis للتتبع
+72489,Operador de Máquina de Anudado Portátil,Operador de Máquina de Atar Portátil,Opérateur de machine à nouer portable,مشغل آلة العقد المحمولة
+72490,Operador de Cepilladora y Reductora,Operador de Máquina de Desbaste e Redutora,Opérateur de machine à dégrossir et réducteur,مشغل آلة التشذيب والتخفيض
+72491,"Cambiador de Lugar, Atornillador de Techo","Mudador de Local, Aparafusador de Teto","Changeur d'emplacement, boulonneur de toit",مُغيّر الموقع، مُثبِّت السقف بالبراغي
+72494,Probador y Escurridor de Barriles,Testador e Escorredor de Barris,Testeur et vidangeur de fûts,فاحص ومُفرِّغ البراميل
+72496,Subregistrador de la Propiedad,Subconservador do Registo Predial,Adjoint du conservateur des hypothèques,نائب أمين سجل العقارات
+72497,"Kaiako Kura Kaupapa Maori, Profesor de Escuela Maorí",Kaiako Kura Kaupapa Maori,"Kaiako Kura Kaupapa Maori, enseignant d'école maorie",مُعلِّم كورا كاوبابا ماوري
+72504,Personal Sénior de Empleo Especializado,Pessoal Sénior de Emprego Especializado,Personnel senior à l'emploi spécialisé,موظف أول للتوظيف المتخصص
+72505,Impresor y Etiquetador de Billetes,Impressor e Etiquetador de Bilhetes,Imprimeur et étiqueteur de billets,مُطبّع ومُعنوِن التذاكر
+72506,Descopetador Leguillon,Desbicador Leguillon,Écorçonneur Leguillon,مُزيل مناقير Leguillon
+72508,Copos de Potasa,Floculador de Potassa,Paillettier de potasse,مُقشّر البوتاس
+72509,Refuerzo Cuádruple,Reforçador Quádruplo,Renforceur quadruple,مُدعّم رباعي
+72515,"Alimentador de Soplador, Materia Prima Teñida","Alimentador de Soprador, Matéria-Prima Tingida","Alimentateur de soufflerie, matière première teinte",مُغذّي النافخ للمواد الخام المصبوغة
+72516,Calculador de Valor de Rescate,Calculador de Valor de Resgate,Calculateur de valeur de rachat,حاسب قيمة الاسترداد النقدي
+72518,Purificador de Ácido Ftálico,Purificador de Ácido Ftálico,Purificateur d'acide phtalique,منقّي حمض الفثاليك
+72520,Gerente General/SVP de Negocio Editorial Global,Gestor Geral/SVP de Negócio Editorial Global,DG/SVP édition mondiale,المدير العام / نائب الرئيس لأعمال النشر العالمية
+72521,Sumergidor de Agujas de Reloj,Mergulhador de Ponteiros de Relógio,Plongeur d'aiguilles d'horloge et de montre,مُغمّس عقارب الساعات
+72522,Inspector de Barriles Estancos,Inspetor de Barris Estanques,Inspecteur de fûts étanches,مفتش البراميل المحكمة
+72526,Decano de Chicos,Decano dos Rapazes,Doyen des garçons,عميد الطلاب الذكور
+72527,Decana de Chicas,Decana das Raparigas,Doyenne des filles,عميدة الطالبات
+72529,Director de Acreditación,Diretor de Acreditação,Directeur de l'accréditation,مدير الاعتماد
+72530,Director de Contrainteligencia,Diretor de Contrainformação,Directeur du contre-espionnage,مدير مكافحة التجسس
+72531,Director de Exposiciones,Diretor de Exposições,Directeur des expositions,مدير المعارض
+72532,Operador de Secadora de Naftaleno,Operador de Secador de Naftaleno,Opérateur de sécheur à naphtalène,مشغل مجفف النفثالين
+72534,Investigador de Faltantes de Caja,Investigador de Faltas de Caixa,Enquêteur sur les manques de caisse,محقق عجز النقد
+72535,"Inspector de Misiles, Prevuelo","Inspetor de Mísseis, Pré-Voo","Inspecteur de missiles, pré-vol",مفتش الصواريخ قبل الإطلاق
+72537,Supervisor de Preparación de Congelación,Supervisor de Preparação para Congelação,Superviseur de préparation de congélation,مشرف تحضير التجميد
+72542,Estabilizador Rotativo de Suelos,Estabilizador Rotativo de Solos,Stabilisateur rotatif de sols,مُثبِّت التربة الدوّار
+72546,Supervisor de Soldadura de Plomo,Supervisor de Soldagem de Chumbo,Superviseur de soudure du plomb,مشرف لحام الرصاص
+72547,Supervisor de Leche Malteada,Supervisor de Leite Malteado,Superviseur de lait malté,مشرف الحليب المالتي
+72549,"Regulador de Temperatura, Pirómetro","Regulador de Temperatura, Pirómetro","Régulateur de température, pyromètre",منظم درجة الحرارة، مقياس الحرارة العالية
+72553,Director de Alianzas Estratégicas,Diretor de Alianças Estratégicas,Directeur des alliances stratégiques,مدير التحالفات الاستراتيجية
+72554,Supervisor de Auxiliares de Alto Horno,Supervisor de Auxiliares de Alto-Forno,Superviseur des auxiliaires de haut fourneau,مشرف المساعدين في الفرن العالي
+72555,Supervisor de Limpiadores de Fábrica de Botellas,Supervisor de Limpeza de Fábrica de Garrafas,Superviseur de nettoyeurs de verrerie,مشرف عمال تنظيف مصنع الزجاجات
+72556,Supervisor de Mina y Auxiliares,Supervisor de Poço e Auxiliares,Superviseur de fosse et auxiliaires,مشرف الحفرة والمساعدين
+72557,"Trabajador de Banco, Mango Hueco","Trabalhador de Bancada, Cabo Oco","Ouvrier d'établi, manche creux",عامل المنضدة للمقابض المجوّفة
+72558,Director del Consejo para la Tercera Edad,Diretor do Conselho para o Envelhecimento,Directeur du conseil sur le vieillissement,مدير مجلس الشيخوخة
+72559,"Colector de Polvo, Trituración de Mineral","Coletor de Pó, Britagem de Minério","Collecteur de poussières, concassage du minerai",مُجمّع الغبار في تكسير الخام
+72560,Mezclador de Sustrato de Crecimiento para Champiñones,Misturador de Substrato para Cogumelos,Mélangeur de substrat de culture pour champignons,خلاط وسط النمو للفطر
+72564,Director de Colecciones y Archivos,Diretor de Coleções e Arquivos,Directeur des collections et des archives,مدير المجموعات والأرشيف
+72566,Localizador de Extremos Sueltos de Bobina,Localizador de Pontas Soltas de Bobina,Chercheur de bouts libres de bobine,مُحدِّد النهايات الحرة للبكرة
+72567,Palanquero de Ríos y Lagos,Operador de Alavanca de Rios e Lagos,"Manœuvre de levier, fleuves et lacs",عامل رافعة الأنهار والبحيرات
+72568,Director del Programa de Cefaleas Hospitalarias,Diretor do Programa de Cefaleias de Internamento,Directeur du programme hospitalier des céphalées,مدير برنامج الصداع للمرضى المقيمين
+72570,"Operador de Mezcladora, Junta de Corcho","Operador de Misturadora, Junta de Cortiça","Conducteur de mélangeuse, joint de liège",مشغل خلاط حشية الفلين
+72571,Operador de Defensa Antiaérea Terrestre,Operador de Defesa Antiaérea Terrestre,Opérateur de défense aérienne sol,مشغل الدفاع الجوي الأرضي
+72572,Investigador Asociado de Control de Calidad,Investigador Associado de Controlo de Qualidade,"Chercheur associé, contrôle qualité",باحث مشارك لمراقبة الجودة
+72575,Tasador de Servicios de Mensajería y Entrega,Avaliador de Serviços de Mensagens e Entregas,Estimateur de services de messagerie et livraison,مُسعِّر خدمات الرسائل والتوصيل
+72581,Superintendente de Alquiler y Gestión,Superintendente de Arrendamento e Gestão,Superintendant de location et gestion,مشرف التأجير والإدارة
+72582,"Prueba, Agitación y Envío","Testes, Agitação e Expedição","Test, agitation et expédition",اختبار وهز وشحن
+72583,Encogedor de Tejido de Lana para Trajes,Encolhedor de Tecido de Lã para Fatos,Rétrécisseur de tissu de laine pour costumes,مُقلِّص قماش الصوف للبدلات
+72585,Jefe de Compras de Mercancías,Responsável de Compras de Mercadorias,Responsable des achats de marchandises,رئيس شراء البضائع
+72586,Guardia de Hielo de Pista de Patinaje,Guarda de Gelo de Pista de Patinagem,Gardien de glace de patinoire,حارس الجليد في حلبة التزلج
+72587,"Operador de Unidad de Carga, Engarzado","Operador de Unidade de Carregamento, Crimpagem","Opérateur d'unité de chargement, sertissage",مشغل وحدة التحميل للتجعيد
+72588,"Operador de Unidad de Carga, Asentado","Operador de Unidade de Carregamento, Assentamento","Opérateur d'unité de chargement, mise en place",مشغل وحدة التحميل للتثبيت
+72589,Coordinador Médico de Uso de Pesticidas,Coordenador Médico de Utilização de Pesticidas,Coordinateur médical d'utilisation de pesticides,المنسق الطبي لاستخدام المبيدات
+72591,Supervisor de Fundas de Rodillo de Pintura,Supervisor de Coberturas de Rolos de Pintura,Superviseur de manchons de rouleaux à peinture,مشرف أغطية أسطوانات الطلاء
+72592,Montador de Caravanas,Montador de Autocaravanas,Monteur de camping-cars,مُجمِّع المقطورات السياحية
+72594,Montador de Claraboyas,Montador de Clarabóias,Monteur de lanterneaux,مُجمِّع الفتحات العلوية
+72596,Centrador de Barriles,Centrador de Barris,Centreur de fûts,مُركِّز البراميل
+72597,Soplador de Tráquea,Soprador de Traqueia,Souffleur de trachée,نافخ القصبة
+72598,Calibrador de Barómetros,Calibrador de Barómetros,Étalonneur de baromètres,معاير مقاييس الضغط الجوي
+72599,Deslizador de Latas,Deslizador de Latas,Glisseur de boîtes,منزلق العلب
+72601,Limpiador de Carcasas,Lavador de Invólucros,Rinceur d'enveloppes,مُنظّف الأغلفة
+72602,Manipulador de Carga,Manipulador de Carga,Manipulateur de charge,مناول الشحنات
+72603,Jefe de Muelle,Chefe de Cais,Chef de quai,رئيس أمناء الموانئ
+72604,Formulador de Aromas,Formulador de Aromas,Formulateur d'arômes,مُركِّب النكهات
+72614,Cocedor de Sulfito,Cozedor de Sulfito,Cuiseur de sulfite,طبّاخ الكبريتيت
+72615,Director de Prospección,Diretor de Prospeção,Directeur de la prospection,مدير الاستقطاب
+72616,Director de Traducción,Diretor de Tradução,Directeur de la traduction,مدير الترجمة
+72617,Director Traslacional,Diretor Translacional,Directeur translationnel,مدير البحوث الانتقالية
+72619,Ingeniero de Subproductos,Engenheiro de Subprodutos,Ingénieur des sous-produits,مهندس المنتجات الثانوية
+72624,Testigo Experto,Perito Testemunhal,Expert témoin,شاهد خبير
+72627,Acabador de Tornillo Prensador,Acabador de Aperto de Parafuso,Finisseur de vis de serrage,مُنهي البراغي المُحكمة
+72629,Pescador de Galápagos,Pescador de Cágado,Pêcheur de tortues,صياد السلاحف
+72630,Médico General,Médico Generalista,Médecin généraliste,طبيب عام
+72634,Excavador a Caballo,Escavador a Cavalo,Excavateur à cheval,حفّار على ظهر الخيل
+72637,Inspector de Equilibrado,Inspetor de Equilibragem,Inspecteur d'équilibrage,مفتش الموازنة
+72643,Peón de Trapos,Trabalhador de Trapos,Manœuvre de chiffons,عامل الخرق
+72646,Atador de Troncos,Amarrador de Toros,Attacheur de grumes,عامل ربط الجذوع بالحبال
+72647,Ordeñador de Máquina,Ordenhador de Máquina,Trayeur mécanique,مُحلِّب الآلة
+72648,Ahumador de Máquina,Machine Sneller,Sneller mécanique,مُقطّع الآلة
+72649,Promotor Minero,Promotor Mineiro,Promoteur minier,مُروّج المناجم
+72652,Excavador de Ataguía,Escavador de Ensecadeira,Terrassier de batardeau,عامل حفر السد المؤقت
+72653,Ensartador de Cuello,Espetador de Pescoço,Embrocheur de cou,مُنظّم الأعناق بالدبوس
+72654,Operador de Preacabado,Operador de Pré-Acabamento,Opérateur de préfinition,مشغل ما قبل التشطيب
+72655,Artífice de Armamento,Artífice de Armamento,Artificier d'armement,حرفي الذخيرة
+72658,Piloto de Sumergible,Piloto de Submersível,Pilote de submersible,طيار الغواصة الصغيرة
+72659,Inspector de Tuberías,Inspetor de Tubos,Inspecteur de tuyaux,مُفتّش الأنابيب
+72661,Lavador de Porcelana,Lavador de Porcelana,Laveur de porcelaine,مُنظّف الخزف بالمعجون
+72662,Aprendiz de Imprenta,Aprendiz de Tipógrafo,Apprenti typographe,عامل مطبعة مبتدئ
+72664,Reparador de Herramientas Manuales,Reparador de Ferramentas Manuais,Réparateur d'outillage à main,مُصلح الأدوات اليدوية
+72673,Ajustador de Zapatos,Afiador de Sapatos,Shanker de chaussures,مُثبِّت الحذاء بالمسامير
+72674,Desollador de Pieles,Esfolador de Peles,Dépeceur de peaux,مُقشّر الجلود
+72675,Rebajador de Bloqueadores,Rebaixador de Bloqueadores,Pareur de contreforts,مُرقِّق الدعامات
+72676,Fumigador de Especias,Fumigador de Especiarias,Fumigateur d'épices,مُبخِّر التوابل
+72679,Desnudador Preliminar,Descarnador Preliminar,Dénudeur préliminaire,مُقشّر تمهيدي
+72680,Superintendente de Mina de Carbón,Superintendente de Mina de Carvão,Superintendant de houillère,مشرف منجم الفحم
+72681,Superintendente de Contadores,Superintendente de Contadores,Superintendant des compteurs,مشرف العدادات
+72682,Supervisor de Anodizado,Supervisor de Anodização,Superviseur d'anodisation,مشرف الأنودة
+72683,Supervisor de Fijación de Carteles,Supervisor de Afixação de Cartazes,Superviseur d'affichage,مشرف لصق الإعلانات
+72684,Supervisor de Alfombra de Ancho,Supervisor de Tapete de Largura,Superviseur de moquette en laize,مشرف السجاد العريض
+72685,Supervisor de Contingentes,Supervisor de Contingentes,Superviseur des contingents,مشرف الحصص
+72686,Supervisor de Vestuario,Supervisor de Guarda-Roupa,Superviseur des costumes,مشرف الأزياء
+72687,Supervisor de Dopaje,Supervisor de Dopagem,Superviseur de dopage,مشرف الحقن بالمواد
+72688,Supervisor de Archivos,Supervisor de Arquivos,Superviseur des dossiers,مشرف الملفات
+72689,Supervisor de Incisión,Supervisor de Incisão,Superviseur d'incision,مشرف الحز
+72691,Supervisor de Enlistonado,Supervisor de Ripagem,Superviseur de lattage,مشرف التخشيب
+72692,Supervisor de Correo,Supervisor de Correio,Superviseur du courrier,مشرف البريد
+72693,Supervisor de Remiendo,Supervisor de Remendagem,Superviseur de reprisage,مشرف الترقيع
+72694,Supervisor de Aglomerado,Supervisor de Aglomerado,Superviseur de panneaux de particules,مشرف ألواح الحبيبات
+72695,Supervisor de Fotocomposición,Supervisor de Fotocomposição,Superviseur de photocomposition,مشرف التنضيد الضوئي
+72696,Supervisor de Montadores Navales,Supervisor de Montadores Navais,Superviseur de monteurs navals,مشرف تركيب السفن
+72697,Supervisor de Remojo,Supervisor de Imersão,Superviseur de trempage,مشرف النقع
+72698,Supervisor de Cajeros,Supervisor de Caixas,Superviseur des caissiers,مشرف أمناء الصندوق
+72699,Supervisor de Bombos,Supervisor de Tambores,Superviseur de tonneaux,مشرف الطبول الدوّارة
+72700,Informador Táctico,Informador Tático,Débriefeur tactique,محقق المعلومات التكتيكية
+72705,Vigía de Torre de Incendios,Vigia de Torre de Incêndios,Guetteur de tour de feu,مراقب برج الحرائق
+72707,Supervisor de Envasado de Pólvora y Cebos,Supervisor de Enlatamento de Pólvora e Iniciadores,Superviseur de mise en boîte de poudre et amorces,مشرف تعبئة البارود والمُفجِّرات
+72709,Operador de Misiles Antitanque,Operador de Mísseis Antitanque,Servant de missile antichar,مشغل صاروخ مضاد للدبابات
+72710,Timonel de Bote de Asalto,Timoneiro de Bote de Assalto,Barreur de canot d'assaut,قائد زورق الهجوم
+72712,Girador de Campanas de Sousáfono,Girador de Campânulas de Sousafone,Tourneur de pavillons de sousaphones,مُدوّر أجراس الأبواق الضخمة
+72718,Bailarín o Coreógrafo,Bailarino ou Coreógrafo,Danseur ou chorégraphe,راقص أو مصمم رقصات
+72720,Gestor de Tráfico de Anuncios Digitales,Gestor de Tráfego de Anúncios Digitais,Trafiquant de publicité digitale,مسؤول توزيع الإعلانات الرقمية
+72721,Técnico de Sistemas de Distribución,Técnico de Sistemas de Distribuição,Technicien de systèmes de distribution,فني أنظمة التوزيع
+72724,"Operador de Explosivos, Granada","Operador de Explosivos, Granada","Opérateur d'explosifs, grenade",مشغل المتفجرات، القنبلة اليدوية
+72726,Artillero de Campaña,Artilheiro de Campanha,Canonnier d'artillerie de campagne,مدفعي المدفعية الميدانية
+72728,Quemador Tras Hormado,Chamuscador após Montagem,Flambeur après montage,مُلهِّب ما بعد التثبيت على القالب
+72731,Pesador de Palos de Golf,Pesador de Tacos de Golfe,Peseur de clubs de golf,موزّن عصي الغولف
+72732,Cabo Artillero G,Cabo Artilheiro G,Second maître canonnier G,مساعد المدفعي G
+72733,Etiquetador de Campo de Cosecha,Etiquetador de Campo de Colheita,Étiqueteur de champ de récolte,مُعلِّم حقل الحصاد
+72736,Cronometrador de Carreras de Caballos,Cronometrista de Corridas de Cavalos,Chronométreur de courses hippiques,موقّت سباقات الخيل
+72739,Especialista en Control de Infecciones,Especialista em Controlo de Infeções,Spécialiste de la prévention des infections,أخصائي مكافحة العدوى
+72741,Kaiako Kohanga Reo,Kaiako Kohanga Reo,"Kaiako Kohanga Reo, éducateur maori",مُعلِّم كوهانغا ريو
+72742,Kaiawhina Kohanga Reo,Kaiawhina Kohanga Reo,"Kaiawhina Kohanga Reo, assistant maori",مساعد كوهانغا ريو
+72743,Peón de Hormigón Pretensado,Trabalhador de Betão Pré-Esforçado,Manœuvre de béton précontraint,عامل الخرسانة مسبقة الإجهاد
+72744,Guardador de Hormas,Arrumador de Formas,Rangeur de formes,عامل إعادة القوالب إلى مكانها
+72745,Personal Licenciado MFT,Pessoal Licenciado MFT,Personnel agréé MFT,موظف مرخّص MFT
+72746,Operador de Máquina Replantadora,Operador de Máquina Replantadora,Opérateur de replanteuse,مشغل آلة إعادة الزراعة
+72747,Marketing Cooperativo,Marketing Cooperativo,Marketing coopératif,التسويق التعاوني
+72748,Paracaidista Naval Maestro,Paraquedista Naval Mestre,Maître parachutiste de la marine,مظلّي بحري محترف
+72749,Encajador de Muelles de Colchón,Embalador de Molas de Colchão,Encaisseur de ressorts de matelas,مُعبّئ نوابض المراتب
+72750,Inspector de Productos Metálicos,Inspetor de Produtos Metálicos,Contrôleur de produits métalliques,مفتش المنتجات المعدنية
+72751,Depositador de Obleas de Menta,Depositor de Obreias de Hortelã,Doseur de gaufrettes à la menthe,مُودِع رقائق النعناع
+72753,Calandrador de Tejido Estrecho,Calandrador de Tecido Estreito,Calandreur de tissu étroit,مُكلّس القماش الضيق
+72755,Controlador de Agujas de Chenilla,Controlador de Agulhas de Chenille,Contrôleur d'aiguilles de chenille,مُراقب إبر الزغب
+72756,Director de Neurociencia NA,Diretor de Neurociência NA,Directeur de neurosciences NA,مدير علم الأعصاب NA
+72758,Operador de Bomba de Cavidad,Operador de Bomba de Cavidade,Opérateur de pompe à cavité,مشغل مضخة التجويف
+72760,Posicionador de Piedra en Palé,Posicionador de Pedra em Palete,Positionneur de pierre sur palette,مُحدِّد موضع الحجر على المنصّة
+72763,Modelista Programador,Modelador Programador,Modeleur programmeur,صانع نماذج مبرمج
+72765,Deshuesador de Comida para Mascotas,Desossador de Ração para Animais,Désosseur d'aliments pour animaux,مُزيل العظام من طعام الحيوانات الأليفة
+72766,Presidente de Consultoría Ergonómica,Presidente de Consultoria Ergonómica,Président conseil en ergonomie,رئيس الاستشارات الإرغونومية
+72768,Peón de Planta de Unidad de Tiro,Trabalhador de Piso de Unidade de Tração,Ouvrier de plancher d'unité de tirage,عامل أرضية وحدة السحب
+72774,Paracaidista Naval Sénior,Paraquedista Naval Sénior,Parachutiste naval senior,مظلّي بحري أول
+72775,Dictador de Certificados Especiales,Ditador de Certificados Especiais,Dicteur de certificats spéciaux,مُملي الشهادات الخاصة
+72777,Aturdidor y Encadenador,Atordoador e Algemador,Étourdisseur et entraveur,مُخدّر ومُقيّد
+72778,Supervisor de Muelles Helicoidales,Supervisor de Molas Helicoidais,Superviseur de ressorts hélicoïdaux,مشرف النوابض الحلزونية
+72779,Supervisor de Oficiales,Supervisor de Oficiais,Superviseur des officiels,مشرف المسؤولين
+72786,Bloqueador de Formas Metálicas Calientes,Bloqueador de Formas Metálicas Aquecidas,Bloqueur de formes métalliques chauffées,مُشكِّل القوالب المعدنية الساخنة
+72787,Amicus Curiae,Amigo do Tribunal,Amicus curiae,صديق المحكمة
+72788,Operadores de Máquina de Pulido de Hielo,Operadores de Máquina de Polimento de Gelo,Opérateurs de surfaceuse à glace,مشغلو آلات تسوية الجليد
+72789,Picador y Fundidor de Oleo,Triturador e Derretedor de Oleo,Hacheur et fondeur d'oléo,مُفتّت ومُذيب الشحوم
+72791,Operador de Máquina de Impresión de Reglas de Cinta,Operador de Máquina de Impressão de Régua de Fita,Opérateur de machine d'impression de règles à ruban,مشغل آلة طباعة شريط القياس
+72792,Ejecutivo de Cuentas de Agronegocios,Executivo de Contas de Agronegócio,Responsable de comptes agroalimentaire,مدير حسابات الأعمال الزراعية
+72793,Ejecutivo de Cuentas de Metalurgia,Executivo de Contas de Metalurgia,Responsable de comptes métallurgie,مدير حسابات تشغيل المعادن
+72795,Montador de Pipas de Mazorca,Montador de Cachimbos de Sabugo,Monteur de pipes en épi de maïs,مُجمِّع أنابيب كوز الذرة
+72796,Montador de Retroexcavadora Hidráulica,Montador de Retroescavadora Hidráulica,Monteur de pelle rétro hydraulique,مُجمِّع الحفّار الهيدروليكي الخلفي
+72797,Montador de Laminados,Montador de Laminados,Monteur de stratifiés,مُجمِّع الطبقات المركبة
+72800,Comandante de Reservas Policiales,Comandante da Reserva Policial,Commandant de la réserve de police,قائد احتياط الشرطة
+72801,Adjunto del Gran Jurado,Adjunto do Grande Júri,Adjoint du grand jury,نائب هيئة المحلفين الكبرى
+72803,Director de Niños,Diretor de Crianças,Directeur des enfants,مدير شؤون الأطفال
+72805,Director de Cursos de Verano,Diretor de Cursos de Verão,Directeur des sessions d'été,مدير الدورات الصيفية
+72807,Estimador de Cajas de Cartón,Estimador de Caixas de Cartão,Estimateur de boîtes en carton,مُقدِّر صناديق الورق المقوى
+72809,Cabo Artillero M,Cabo Artilheiro M,Second maître canonnier M,مساعد المدفعي M
+72810,Handicapper de Carreras de Trote,Handicapper de Corridas de Trote,Handicapeur des courses de trot,مُحدِّد أوزان سباقات الخيل المُقيّدة
+72811,Jefe de Operadores de Sulfuro,Chefe de Operadores de Sulfureto,Chef opérateur sulfure,رئيس مشغلي الكبريتيد
+72814,Inspector de Disposición de Materiales,Inspetor de Disposição de Materiais,Inspecteur de disposition des matériaux,مفتش توزيع المواد
+72815,Inspector y Reparador de Arenisca,Inspetor e Reparador de Arenito,Inspecteur-réparateur de grès,مفتش ومُصلح الحجر الرملي
+72816,Ablandador de Filetes a Máquina,Amaciador de Bifes a Máquina,Attendrisseur de steaks à machine,مُليّن الشرائح بالآلة
+72817,Gerente de Insuficiencia Cardíaca,Gestor de Insuficiência Cardíaca,Manager insuffisance cardiaque,مدير قصور القلب
+72818,"Trabajador de Pólvora, TNT","Trabalhador de Pólvora, TNT","Ouvrier de poudre, TNT",عامل البارود، تي إن تي
+72822,Reorganizador de Departamento Minorista,Reorganizador de Departamento Retalhista,Réaménagement de rayon,مُعيد ترتيب قسم التجزئة
+72824,Muestreador de Residuos Radiactivos,Amostrador de Resíduos Radioativos,Échantillonneur de déchets radioactifs,أخذ عينات النفايات المشعة
+72827,Supervisor de Taller de Arreglos,Supervisor de Oficina de Alterações,Superviseur d'atelier de retouches,مشرف ورشة التعديلات
+72829,Supervisor de Mecánica de Calderería,Supervisor de Mecânica de Caldeiraria,Superviseur de chaudronnerie mécanique,مشرف ميكانيكا الغلايات
+72830,Supervisor de Ácido Fosfórico,Supervisor de Ácido Fosfórico,Superviseur d'acide phosphorique,مشرف حمض الفوسفوريك
+72831,Rasgador de Recortes de Prensa,Rasgador de Recortes de Imprensa,Déchireur de coupures de presse,مُمزّق قصاصات الصحف
+72836,"Rebordeador de Punteras de Caja, Cosido a Fondo","Rebordador de Biqueiras de Caixa, Costura de Fundo","Bordeur de bouts de caisse, montage à couture",مُحيِّط مقدمة الحذاء الصندوقية بالخياطة
+72837,Director de Plataformas Digitales,Diretor de Plataformas Digitais,Directeur des plateformes numériques,مدير المنصات الرقمية
+72838,Despachador de Eliminación de Residuos Radiactivos,Despachante de Eliminação de Resíduos Radioativos,Répartiteur d'élimination des déchets radioactifs,موزّع التخلص من النفايات المشعة
+72840,Secretario de Carreras y Handicapper,Secretário de Corridas e Handicapper,Secrétaire des courses et handicapeur,سكرتير السباقات ومُحدِّد الأوزان
+72841,Desbrozador de Servidumbre de Paso,Desbravador de Servidão de Passagem,Défricheur d'emprise,مُمهّد حق المرور
+72847,Pulpeador de Bloques de Suelo Sintético,Desfibrador de Blocos de Solo Sintético,Défibreur de blocs de sol synthétique,مُفتّت كتل التربة الاصطناعية
+72848,Vicepresidente de Filantropía,Vice-Presidente de Filantropia,Vice-président de la philanthropie,نائب الرئيس للعمل الخيري
+72849,Batidor de Cuello de Palo de Madera,Batedor de Pescoço de Taco de Madeira,Fouetteur de col de club en bois,مُطرِّق عنق عصا الغولف الخشبية
+72852,Capitán/Piloto Verificador,Capitão/Piloto Verificador,Commandant de bord/pilote contrôleur,قائد الطائرة / طيار الفحص
+72854,Vigilante de Examen,Vigilante de Exame,Surveillant d'examen,مراقب الامتحان
+72855,Golpeador de Vagones Plataforma,Batedor de Vagões Plataforma,Frappeur de wagons plats,مُطرِّق العربات المسطحة
+72858,Peón/Verificador de Nivel,Trabalhador/Verificador de Nível,Manœuvre/contrôleur de niveau,عامل / فاحص المنسوب
+72859,Fruncidor Multiaguja,Franzidor de Múltiplas Agulhas,Froncheur multi-aiguilles,مُكشّاة متعددة الإبر
+72860,Atendedor Trasero de Rotoformer,Assistente Traseiro de Rotoformer,Aide arrière de rotoformeur,مساعد الخلف لآلة الروتوفورمر
+72861,Asentador de Juncos,Assentador de Junco,Assiseur de jonc,مُثبِّت القش
+72863,Encantador de Serpientes,Encantador de Serpentes,Charmeur de serpents,مُروّض الثعابين
+72865,"Agricultor de Arbustos y Vid, Cultivos Frutales","Agricultor de Arbustos e Videira, Culturas Frutícolas","Arboriculteur et viticulteur, fruits",مزارع الشجيرات والكروم والمحاصيل الفاكهية
+72869,"Socio Director de Marketing de Contenidos Digitales, Norteamérica","Sócio-Gerente de Marketing de Conteúdos Digitais, América do Norte","Associé gérant marketing de contenus numériques, Amérique du Nord",الشريك المدير لتسويق المحتوى الرقمي في أمريكا الشمالية
+72874,Encargado de Bar de Honor,Encarregado do Bar de Honra,Préposé au bar d'honneur,مسؤول بار الشرف
+72877,Inspector de Tejidos Recubiertos,Inspetor de Tecidos Revestidos,Inspecteur de tissus enduits,مفتش الأقمشة المطلية
+72878,Inspector de Casa de Empeño,Inspetor de Casa de Penhores,Inspecteur de prêt sur gages,مفتش محل الرهن
+72879,Paracaidista/Buzo de Combate Cualificado,Paraquedista/Mergulhador de Combate Qualificado,Parachutiste/plongeur de combat qualifié,مظلّي/غطّاس قتالي مؤهل
+72880,Piquete Sindical,Piquete Sindical,Piquet syndical,مُتظاهر نقابي
+72881,Preformador de Tejidos Impregnados,Preformador de Tecidos Impregnados,Préformeur de tissus imprégnés,مُشكِّل الأقمشة المشبّعة
+72884,Inteligencia de Señales/Guerra Electrónica,Informações de Sinais/Guerra Eletrónica,Renseignement d'origine électromagnétique/guerre électronique,استخبارات الإشارات / الحرب الإلكترونية
+72889,Ayudante de Barra o Recogemesas,Ajudante de Bar ou Empregado de Mesa,Aide de bar ou desservant,مساعد البار أو عامل الطاولات
+72890,Taladrador y Desbarbador de Reflectores,Furador e Desbarbador de Refletores,Perceur et ébavureur de réflecteurs,مُثقِّب ومُزيل حواف العاكسات
+72894,Director Ejecutivo de Taller Protegido,Diretor Executivo de Oficina Protegida,Directeur exécutif d'atelier protégé,المدير التنفيذي لورشة العمل المحمية
+72895,Jefe de Focalización de Precisión,Responsável de Segmentação de Precisão,Responsable du ciblage de précision,رئيس الاستهداف الدقيق
+72897,Operador Auxiliar I de Cementación,Operador Auxiliar I de Cimentação,Opérateur assistant I de cimentation,مشغل مساعد I للتسميت
+72899,Supervisor de Corte y Deshuesado,Supervisor de Corte e Desossagem,Superviseur de découpe et désossage,مشرف التقطيع والتعظيم
+72900,Supervisor de Formado y Temple,Supervisor de Formação e Temperamento,Superviseur de formage et trempe,مشرف التشكيل والتلدين
+72903,Cargador de Hormigonera Montada en Camión,Carregador de Betoneira Montada em Camião,Chargeur de malaxeur à béton monté sur camion,محمّل خلاطة الخرسانة المركبة على شاحنة
+72907,"Operador de Soplado, Pulverización de Almidón","Operador de Máquina de Sopro, Pulverização de Amido","Conducteur de souffleuse, pulvérisation d'amidon",مشغل آلة النفخ لرش النشا
+72912,Costurero y Cortador de Materiales de Pulido para Dedos,Costureiro e Cortador de Material de Polimento para Dedos,Couseur et coupeur de matériaux de polissage pour doigts,خياط وقاطع مواد تلميع الأصابع
+72915,Conductor de Caballos o Mulas,Condutor de Cavalos ou Mulas,Charretier de chevaux ou mulets,سائق الخيول أو البغال
+72917,Operario de Costa de Draga o Gabarra,Trabalhador de Terra de Draga ou Batelão,Manœuvre à terre de drague ou de chaland,عامل الشاطئ للكراكة أو البارجة
+72920,Cristalizador de Nitrato de Amonio,Cristalizador de Nitrato de Amónio,Cristallisateur de nitrate d'ammonium,مُبلور نترات الأمونيوم
+72921,Revisor de Recursos de Veteranos,Revisor de Recursos de Veteranos,Examinateur de recours d'anciens combattants,مُراجع طعون المحاربين القدامى
+72923,Montador de Araña Caterpillar,Montador de Aranha Caterpillar,Monteur de support de chenille,مُجمِّع هيكل كاتربيلر
+72924,Montador de Discos de Pulido para Dedos,Montador de Discos de Polimento para Dedos,Monteur de polissoirs pour doigts,مُجمِّع أقراص التلميع للأصابع
+72925,Montador de Flotadores de Pesca,Montador de Boias de Pesca,Monteur de flotteurs de pêche,مُجمِّع عوامات الصيد
+72927,Mejores Segundos Empleos,Melhores Segundos Empregos,Meilleurs seconds emplois,أفضل الوظائف الثانوية
+72928,Analista de Sangre de Aves,Analista de Sangue de Aves,Analyste sanguin de volailles,فاحص دم الطيور
+72929,Empaquetador de Verde de Temporada,Embalador de Verdura Sazonal,Botteleur de verdure saisonnière,مُجمّع الخضرة الموسمية في حزم
+72930,Abridor de Canales de Suelas,Abridor de Canais de Solas,Ouvreur de canaux de semelles,مُفتّح قنوات النعال الخارجية
+72934,Contratista de Transporte de Campo,Empreiteiro de Transporte de Campo,Entrepreneur de transport sur terrain,مقاول النقل الحقلي
+72938,Cortador de Cañas de Instrumentos de Viento,Cortador de Palhetas de Sopro,Coupeur d'anches de bois,قاطع قصبات الآلات النفخية الخشبية
+72939,Decorador de Luminarias,Decorador de Iluminação,Décorateur de luminaires,مُزيّن الإضاءة
+72940,Demostrador de Técnicas de Costura,Demonstrador de Técnicas de Costura,Démonstrateur de techniques de couture,مُعرِض تقنيات الخياطة
+72942,Preparador de Documentos para Microfilmación,Preparador de Documentos para Microfilmagem,Préparateur de documents pour microfilmage,مُعدّ الوثائق للتصوير الميكروفيلمي
+72946,Fabricante de Artículos Especiales,Fabricante de Artigos Especiais,Fabricant d'articles spéciaux,صانع الأصناف الخاصة
+72948,Primer Ventilador Frontal,Primeiro Ventilador Frontal,Premier ventilateur avant,مُهوّي الواجهة الأولى
+72949,Pescador de Esponjas con Gancho,Pescador de Esponjas com Gancho,Pêcheur d'éponges au crochet,صياد الإسفنج بالخطّاف
+72955,"Inspector de Circuitos, Negativo","Inspetor de Circuitos, Negativo","Inspecteur de circuits, négatifs",مفتش الدوائر، السالب
+72956,Inspector de Dragado,Inspetor de Dragagem,Inspecteur de dragage,مفتش التجريف
+72958,Peón de Hinca de Pozos,Trabalhador de Abertura de Poços,Manœuvre de fonçage de puits,عامل حفر الآبار الرأسية
+72960,Operador de Línea de Aglomerado,Operador de Linha de Painel de Partículas,Opérateur de ligne de panneaux de particules,مشغل خط الألواح الرقائقية
+72963,Operador de Concentración de Catalizador,Operador de Concentração de Catalisador,Opérateur de concentration de catalyseur,مشغل تركيز المحفز
+72970,Investigador de Enciclopedia,Investigador de Enciclopédia,Chercheur d'encyclopédie,باحث الموسوعات
+72971,Profesional de Piezas Minoristas,Profissional de Peças de Retalho,Professionnel des pièces détachées en magasin,محترف قطع الغيار للتجزئة
+72974,"Capataz de Hilera, Azadonado","Capataz de Linha, Sachagem","Chef de rang, binage",مشرف صفوف العزيق
+72977,"Empleado de Expedición, Embalaje en Cajas","Empregado de Expedição, Embalagem em Caixotes","Employé d'expédition, mise en caisse",موظف الشحن للتعبئة في صناديق
+72978,Operador de Trituradora de Turba,Operador de Trituradora de Turfa,Opérateur de broyeur à tourbe,مشغل مفتّت الخث
+72979,Preformador de Carrera Simple,Preformador de Curso Simples,Préformeur à simple course,مُشكِّل الشوط الواحد
+72981,Supervisor de Citas de Agencia,Supervisor de Nomeações de Agência,Superviseur des rendez-vous d'agence,مشرف مواعيد الوكالة
+72982,Supervisor de Equipamiento de Barcos,Supervisor de Equipamento de Barcos,Superviseur d'équipement de bateaux,مشرف تجهيز القوارب
+72983,Supervisor de Electrodos de Carbono,Supervisor de Elétrodos de Carbono,Superviseur d'électrodes de carbone,مشرف أقطاب الكربون
+72984,Supervisor de Bobinas Electrónicas,Supervisor de Bobinas Eletrónicas,Superviseur de bobines électroniques,مشرف الملفات الإلكترونية
+72985,Supervisor de Tala y Tronzado,Supervisor de Abate e Desrama,Superviseur d'abattage et de tronçonnage,مشرف القطع والتقطيع
+72986,Supervisor de Bloqueo de Fibra,Supervisor de Bloqueio de Fibra,Superviseur de verrouillage des fibres,مشرف تثبيت الألياف
+72987,Supervisor de Desgarre de Encaje,Supervisor de Rasgamento de Renda,Superviseur de déchiquetage de dentelle,مشرف تمزيق الدانتيل
+72988,Supervisor de Pantallas de Lámpara,Supervisor de Abajures,Superviseur d'abat-jours,مشرف أغطية المصابيح
+72991,Supervisor de Juntas de Tubería,Supervisor de Juntas de Tubagem,Superviseur de joints de tuyauterie,مشرف وصلات الأنابيب
+72993,Supervisor de Estropajos,Supervisor de Esfregões,Superviseur de tampons à récurer,مشرف وسادات الجلي
+72994,Supervisor de Chapado de Lanzadera,Supervisor de Folheamento de Navete,Superviseur de placage à navette,مشرف الترصيع بالقشرة بالمكوك
+72996,Probador de Gases Comprimidos,Testador de Gases Comprimidos,Testeur de gaz comprimés,فاحص الغازات المضغوطة
+72997,Probador de Sustrato de Oblea,Testador de Substrato de Pastilha,Testeur de substrat de plaquette,فاحص ركيزة الرقائق
+72999,Montador de Mesas de Ping Pong,Montador de Mesas de Ténis de Mesa,Monteur de tables de ping-pong,مُجمِّع طاولات تنس الطاولة
+73002,Avellanador de Orificio de Tornillo de Balance,Escareador de Furo de Parafuso de Balanço,Fraiseur de trou de vis de balancier,مُخرِّط ثقب براغي عجلة التوازن
+73003,Tripulante de Carro de Combate Principal,Tripulante de Carro de Combate Principal,Membre d'équipage de char de combat principal,عضو طاقم الدبابة الرئيسية
+73004,Habilidades de Combate de Fuerza Expedicionaria,Competências de Combate de Força Expedicionária,Compétences de combat de force expéditionnaire,مهارات القتال للقوة الاستكشافية
+73005,Técnico de Control de Tiro G,Técnico de Controlo de Tiro G,Technicien de conduite de tir G,فني التحكم بالنيران G
+73006,Pelador de Frutas y Verduras,Descascador de Frutos e Legumes,Éplucheur de fruits et légumes,مُقشّر الفاكهة والخضروات
+73008,Apagador de Lechada de Cal,Extintor de Leite de Cal,Éteigneur de lait de chaux,مُطفئ حليب الجير
+73010,Técnico de Operaciones y Mantenimiento,Técnico de Operações e Manutenção,Technicien d'exploitation et de maintenance,فني التشغيل والصيانة
+73011,Preparador de Muestras y Reparaciones,Preparador de Amostras e Reparações,Préparateur d'échantillons et de réparations,مُعدّ العينات والإصلاحات
+73012,"Operador de Prensa, Granada Incendiaria","Operador de Prensa, Granada Incendiária","Opérateur de presse, grenade incendiaire",مشغل مكبس القنبلة الحارقة
+73017,Supervisor de Emparejado e Inspección,Supervisor de Emparelhamento e Inspeção,Superviseur d'appairage et d'inspection,مشرف المزاوجة والتفتيش
+73018,Supervisor de Rasurado y Hendido,Supervisor de Rapagem e Fenda,Superviseur de rabotage et de fendage,مشرف الحلاقة والشق
+73019,Retirador de Fibra de Cáñamo,Retirador de Fibra de Cânhamo,Dégageur de fibres de chanvre,مُزيل ألياف القنب
+73022,Director del Instituto de Restauración Forestal,Diretor do Instituto de Restauração Florestal,Directeur de l'institut de restauration forestière,مدير معهد استعادة الغابات
+73023,Director de Epilepsia en Adultos,Diretor de Epilepsia em Adultos,Directeur de l'épilepsie de l'adulte,مدير قسم صرع البالغين
+73024,"Trabajador de Piso, Bahía de Transferencia","Trabalhador de Piso, Baía de Transferência","Ouvrier de sol, baie de transfert",عامل الأرضية لمنطقة النقل
+73025,Inspector de Materiales y Procesos,Inspetor de Materiais e Processos,Inspecteur des matériaux et procédés,مفتش المواد والعمليات
+73028,Operador de Prensa de Bloques de Carbono,Operador de Prensa de Blocos de Carbono,Opérateur de presse à blocs de carbone,مشغل مكبس كتل الكربون
+73030,Agente de Ventas de Cupones,Agente de Vendas de Selos de Desconto,Agent commercial de timbres-primes,وكيل مبيعات طوابع الاستبدال
+73032,Supervisor de Copia de Planos y Fotocopia,Supervisor de Reprografia e Fotocópia,Superviseur de reprographie et photocopie,مشرف طباعة المخططات والنسخ
+73040,Plegador de Aire,Pregueador de Ar,Plisseur d'air,مُطوٍّ الهواء
+73044,Asesor de Apelaciones,Conferencista de Recurso,Conférencier d'appel,مُستشار الاستئناف
+73051,Artesano de Toldos,Artesão de Toldos,Artisan de stores,حرفي المظلات الشمسية
+73052,Rebajador de Balanza,Rebaixador de Balanço,Évideur de balancier,مُفرّغ ميزان
+73053,Terminador de Bolas,Terminador de Bolas,Finisseur de balles,مُنهي الكرات
+73055,Remojador de Cebada,Demolhador de Cevada,Trempeur d'orge,مُنقّع الشعير
+73056,Regador de Barriles,Regador de Barris,Arroseur de fûts,مُروّي البراميل
+73057,Recogepelotas de Béisbol,Apanhador de Bolas de Basebol,Ramasseur de balles de baseball,جامع كرات البيسبول
+73058,Batonista,Bastoneiro,Majorette,لاعب العصا الدوّارة
+73060,Experimentador de Biometría,Experimentador de Biometria,Expérimentateur en biométrie,باحث تجريبي في القياسات الحيوية
+73062,Cubicador de Bloques,Cubificador de Blocos,Cubeur de blocs,مُكعِّب الكتل
+73063,Disquero de Bobinas,Discador de Bobinas,Disqueur de bobines,مُقرِّص البكرات
+73068,Sembrador de Mijo Escobero,Semeador de Sorgo Vassoura,Semeur de sorgho à balais,زارع ذرة المكانس
+73073,Propietario de Negocio e Ingeniero,Proprietário de Negócio/Engenheiro,Chef d'entreprise/ingénieur,صاحب عمل / مهندس
+73074,Encarretador de Botones,Enfiador de Botões,Enfileur de boutons,مُحوِّر الأزرار على القضيب
+73076,Transportista de Vagones,Transportador de Vagões,Transporteur de wagons,ناقل العربات
+73077,Pellizcador de Vagones,Pinçador de Vagões,Pinceur de wagons,عامل عربات الضغط
+73078,Almacenero de Vagones,Armazenista de Vagões,Stockeur de wagons,عامل تخزين العربات
+73079,Estibador de Vagones,Estivador de Vagões,Arrimeur de wagons,عامل تكديس العربات
+73080,Cardador de Mantas,Cardador de Mantas,Cardeur de couvertures,مُمشِّط البطانيات
+73081,Resumidor de Casos,Relator de Processos,Rapporteur d'affaires,مُلخِّص القضايا
+73085,Encañador de Sillas,Canelador de Cadeiras,Canneur de chaises,مُجدِّل كراسي القش
+73087,Presidente Emérito,Presidente Emérito,Président émérite,رئيس فخري
+73088,Engrasador de Suelas,Lubrificador de Solas,Enduiseur de semelles,مُعالج النعال بالطباشير
+73089,Socios de Canal,Parceiros de Canal,Partenaires de canal,شركاء القنوات
+73092,Totalizador de Cheques,Totalizador de Cheques,Totalisateur de chèques,مُجمِّع الشيكات
+73094,Mezclador Químico,Misturador Químico,Mangeur chimique,مُعالج كيميائي
+73098,Jefe de Oficinistas Navales,Chefe Yeoman,Chef yeoman,رئيس الكتّاب البحريين
+73102,Pisador de Almejas,Pisador de Amêijoas,Piétineur de palourdes,مُدوس المحار
+73104,Contadores de Recortes,Contadores de Recortes,Compteurs de coupures,عدّادو القصاصات
+73107,Vagonetero de Carbón,Carregador de Vagonetas de Carvão,Berlineur de charbon,عامل عربات الفحم
+73109,Validador de Codificación,Validador de Codificação,Validateur de codage,مُدقِّق الترميز
+73113,Coordinador de Hoteles,Coordenador de Hotéis,Coordinateur hôtelier,منسق الفنادق
+73114,Microarquitecto de Núcleo,Microarquiteto de Núcleo,Microarchitecte de cœur,مهندس معماري دقيق للنواة
+73115,Jurado de Forense,Jurado do Médico-Legista,Juré de coroner,محلّف الطب الشرعي
+73116,Factor de Algodón,Feitor de Algodão,Facteur de coton,وكيل القطن
+73117,Pisador de Algodón,Pisador de Algodão,Piétineur de coton,مُدوِّس القطن
+73120,Gurú Creativo,Guru Criativo,Gourou créatif,خبير إبداعي
+73122,Desvulcanizador de Cilindros,Desvulcanizador de Cilindros,Dévulcanisateur de cylindres,مُزيل فلكنة الأسطوانات
+73132,Director de CPG,Diretor de CPG,Directeur CPG,مدير CPG
+73133,Director de Reuniones,Diretor de Reuniões,Directeur des réunions,مدير الاجتماعات
+73134,Director de Metabolismo,Diretor de Metabolismo,Directeur du métabolisme,مدير الأيض
+73135,Expedidor de Licencias de Perros,Licenciador de Cães,Délivreur de licences pour chiens,مرخّص الكلاب
+73137,Conejo de Pascua,Coelhinho da Páscoa,Lapin de Pâques,أرنب عيد الفصح
+73138,Revendedor de eBay,Revendedor eBay,Revendeur eBay,مُعيد بيع على eBay
+73139,Tejedor de Bordes,Tricotador de Bordas,Tricoteur de bords,مُحيك الحواف
+73140,Ovoscopista,Ovoscopista,Mireur d'œufs,فاحص البيض بالضوء
+73141,Encajador de Huevos en Bandejas,Acondicionador de Ovos em Tabuleiros,Mettreur d'œufs en plateaux,مُرتِّب البيض في الصواني
+73146,Operador de Equipos,Operador de Equipamento,Opérateur d'équipement,مشغل المعدات
+73151,Barrendero de Campo,Varredor de Campo,Balayeur de champ,مُكنِّس الحقول
+73153,Caprificador de Higos,Caprificador de Figos,Caprificateur de figues,مُلقِّح التين البري
+73158,Operador de Control de Tiro,Operador de Controlo de Tiro,Contrôleur de tir,مشغل التحكم بالنيران
+73162,Reemplazador de Lámparas de Luminarias,Substituidor de Lâmpadas de Luminárias,Remplaceur de lampes de luminaires,مُستبدل مصابيح التركيبات
+73163,Gerente de Flota y Despacho,Gestor de Frota/Despacho,Responsable de flotte et répartition,مدير الأسطول والتوزيع
+73166,Ajustador/Conductor de Formas,Ajustador/Condutor de Formas,Régleur/conducteur de formes,مُعدّ القوالب / السائق
+73171,Abrillantador de Pieles,Lustrador de Peles,Lustreur de fourrures,مُلمّع الفراء
+73172,Desplumador de Pieles,Depenador de Peles,Plumeur de fourrures,مُنتِف الفراء
+73173,Moderador de Juegos,Moderador de Jogos,Animateur de jeux,مُشرف الألعاب
+73179,Tachonador de Espiral,Pregador de Espiral,Clouteur de spiral,مُثبِّت الشعيرة بالمسامير
+73181,Escudriñador Manual,Raspador Manual,Racleur manuel,مُكشط يدوي
+73183,Profesional Sanitario,Profissional de Saúde,Professionnel de santé,محترف الرعاية الصحية
+73191,Preparador de Viviendas para Venta,Preparador de Casas para Venda,Présentateur de maisons,منسّق المنازل للعرض
+73194,Mozo de Patio de Hotel,Trabalhador de Pátio de Hotel,Préposé de cour d'hôtel,عامل ساحة الفندق
+73197,Tareas del Hogar,Tarefas Domésticas,Tâches ménagères,الأعمال المنزلية
+73209,Hilador de Juntas,Fiador de Juntas,Fileur de joints,مُحيك الوصلات
+73211,"Kai Whakaruruhau, Cuidador Maorí",Kai Whakaruruhau,"Kai Whakaruruhau, soignant maori",كاي فاكارورهاو
+73212,Kaitara Taraka,Kaitara Taraka,Kaitara Taraka,كايتارا تاراكا
+73213,Escribiente/Corredor de Keno,Escrevente/Corredor de Keno,Préposé aux paris keno,كاتب/ساعي الكينو
+73214,Pegador de Etiquetas,Fixador de Etiquetas,Piqueur d'étiquettes,مُثبِّت الملصقات بالدبوس
+73216,Atornillador de Pernos,Aparafusador de Pernos,Visseur de tire-fond,مُثبِّت البراغي الملولبة
+73219,Sensei Lean,Sensei Lean,Sensei Lean,معلّم Lean
+73221,Puntero de Lentes,Pontilhador de Lentes,Pointeur de verres,مُنقِّط العدسات
+73225,Cargador de Desmoldeo,Carregador de Desmoldagem,Chargeur de démoulage,عامل تحميل إزالة القوالب
+73226,Operario de Cubierta de Troncos,Operador de Convés de Toros,Préposé au pont de grumes,عامل سطح الجذوع
+73227,Enderezador de Madera,Endireitador de Madeira,Redresseur de bois d'œuvre,مُقوّم الأخشاب
+73228,Censor de Correo,Censor de Correio,Censeur du courrier,مُراقب البريد
+73230,Logístico de Mamma,Logístico Mamma,Logisticien Mamma,لوجستي Mamma
+73231,Marcador de Envíos,Marcador de Remessas,Marqueur d'expéditions,مُعلِّم الشحنات
+73233,Solicitante de Material,Requisitante de Material,Demandeur de matériel,مُطالب بالمواد
+73235,Pediatra Médico,Pediatra Médico,Pédiatre médical,طبيب أطفال عام
+73238,Médicos en Ejercicio,Médicos Praticantes,Praticiens médicaux,ممارسو المهنة الطبية
+73240,Acanalador de Metal,Sulcador de Metal,Sillonneur de métal,مُخدِّش المعدن
+73242,Polarizador de Motor,Polarizador de Motor,Polariseur de moteur,مُقطِّب المحرك
+73246,Grafista Musical,Grafista Musical,Graphiste musical,رسّام النوتات
+73248,Embarrilador de Clavos,Encaixotador de Pregos,Mettreur de clous en fût,مُعبّئ المسامير في براميل
+73252,Calentador de Aceite,Aquecedor de Óleo,Chauffeur d'huile,مُسخِّن الزيت
+73253,Activista en Línea,Ativista Online,Militant en ligne,ناشط إلكتروني
+73254,Oficial de Operaciones de Tablero,Operador de Quadro de Operações,Opérateur de tableau de bord,ضابط لوحة العمليات
+73257,Recogedor de Mineral,Recolhedor de Minério,Ramasseur de minerai,مُجمِّع الخام
+73259,Escalonador de Sobrebobina,Escalonador de Sobrebobina,Étageur de surenroulement,مُدرّج الملفات الزائدة
+73260,Plastificador de Superposición,Plastificador de Sobreposição,Plasticien d'overlay,مُشكِّل التراكب البلاستيكي
+73261,Almacenero de Pintura,Armazenista de Tinta,Magasinier de peinture,أمين مخزن الدهانات
+73262,Emparejador de Cuotas,Emparelhador de Odds,Appareilleur de cotes,مُزاوج الاحتمالات
+73263,Emparejador de Subestándar,Emparelhador de Subnormas,Appareilleur de non-conformes,مُزاوج الأصناف دون المعيار
+73265,Catalogador de Piezas,Catalogador de Peças,Catalogueur de pièces,مُفهرس القطع
+73268,Defensor del Paciente,Provedor do Doente,Médiateur des patients,وسيط المرضى
+73270,Puerta de Patrones,Portal de Padrões,Porte de patrons,بوّاب النماذج
+73272,Pelador de Perlas,Descascador de Pérolas,Pelleur de perles,مُقشّر اللؤلؤ
+73277,Tallador de Yeso,Talhador de Gesso,Tailleur de plâtre,مُشذِّب الجص
+73278,Labrador de Huertos,Lavrador de Hortas,Labourage de jardins,حراثة الحدائق
+73279,Revestidor Neumático,Revestidor Pneumático,Chemisier pneumatique,مُكسِّي الهواء المضغوط بالغلاف
+73280,Pulidor de Numerales,Polidor de Numerais,Polisseur de numéros,مُلمّع الأرقام
+73281,Cortador de Polvo,Cortador de Pó,Coupeur de poudre,مُقطّع المسحوق
+73285,Gerente de Compras y Ventas,Gestor de Compras/Vendas,Responsable achats et ventes,مدير المشتريات والمبيعات
+73286,Orientador de Cuarzo,Orientador de Quartzo,Orientateur de quartz,موجّه الكوارتز
+73289,Esquinero de Rayón,Cantoneiro de Raiom,Coineur de rayonne,مُزاوج خيوط الرايون
+73296,Horquillero de Retorta,Forquilhador de Retorta,Fourcheur de cornue,مُرفع الأنابيب الحرارية
+73297,Fabricante de Bloques de Cinta,Fabricante de Blocos de Fita,Fabricant de blocs de ruban,صانع كتل الشريط
+73298,Circuncidador Ritual,Circuncidador Ritual,Circonciseur rituel,مُختن طقوسي
+73304,Remojador de Sagger,Demolhador de Saggar,Trempeur de saggar,مُنقّع السَّاغار
+73305,Determinador de Salvamento,Determinador de Salvados,Déterminateur de récupération,محدِّد أصناف الإنقاذ
+73306,Balanceador de Arena,Oscilador de Areia,Bobineur de sable,مُعرِّج الرمل
+73307,Arrendador de Exploradores,Arrendador de Escuteiros,Loueur d'éclaireurs,مُؤجِّر الكشافة
+73309,Peletizador de Semillas,Peletizador de Sementes,Pelleteur de semences,مُحبِّب البذور
+73311,Jefe de Pozo,Chefe de Poço,Chef de puits,رئيس عمال المنجم
+73312,Arquero de Caña,Arqueiro de Haste,Archer de tige,مُقوِّس الساق
+73313,Falsificador de Caña,Falsificador de Haste,Faussaire de tige,مُزيِّف الساق
+73314,Empapelador de Caña,Papelador de Haste,Papier de tige,مُغطّي الساق بالورق
+73315,Chatarrero de Cizalla,Sucateiro de Tesoura,Ferrailleur de cisaille,عامل خردة القص
+73318,Empleado de Expedición/Administración,Empregado de Expedição/Administração,Employé d'expédition/administration,موظف الشحن / الإدارة
+73319,Limpiabotas,Engraxador de Sapatos,Cireur de chaussures,مُلمّع الأحذية
+73322,Camarero de Patines,Empregado de Patins,Serveur sur patins,نادل الزلاجات
+73323,Cepillador de Patines,Aplainador de Patins,Herminette à patins,مُسوِّي الزلاقات بالقدوم
+73325,Dializador de Soda,Dialisador de Soda,Dialyseur de soude,مُنقّي الصودا بالديلزة
+73333,Pescador de Vapor con Arpón,Arpoador a Vapor,Harponneur à vapeur,صيّاد البخار بالحربة
+73335,Superintendente de No Venta,Superintendente de Não Venda,Superintendant non commercial,مشرف الأنشطة غير البيعية
+73336,Supervisor de Relleno Posterior,Supervisor de Reaterro,Superviseur de remblayage,مشرف الردم الخلفي
+73337,Supervisor de Intermedios,Supervisor de Intermédios,Superviseur des intermédiaires,مشرف المواد الوسيطة
+73339,SVP de Monetización,SVP de Monetização,SVP monétisation,نائب الرئيس للتسييل النقدي
+73343,Profesor CCLC,Professor CCLC,Enseignant CCLC,معلّم CCLC
+73345,Operador de Escritorio de Pruebas,Operador de Secretária de Testes,Responsable de bureau d'essais,موظف مكتب الاختبارات
+73347,Volteador de Hojalata,Virador de Folha-de-Flandres,Retourneur de fer-blanc,مُقلِّب الصفيح
+73348,Medias de Puntera,Meias de Biqueira,Bas de bout,جوارب مقدمة الحذاء
+73349,Maza Superior,Maça Superior,Massue supérieure,مُطرِّق القمة
+73350,Colocador de Marcas Registradas,Aplicador de Marcas Registadas,Apposeur de marques,مُلصِّق العلامات التجارية
+73351,Sangrador de Árboles,Sangrador de Árvores,Saigneur d'arbres,مُستنزِف الأشجار
+73352,Desparchador de Tubos,Desremendador de Tubos,Dépatcheur de tubes,مُزيل رقع الأنابيب
+73353,Lanzador de Tubos,Lançador de Tubos,Lanceur de tubes,رامي الأنابيب
+73356,Colocador de Gargantas de Empeine,Garganta de Gáspea,Gorgeur de tiges,مُشكِّل حنجرة الأعلى
+73357,Barnizador Plastificador,Envernizador Plastificador,Vernisseur plastifieur,مُورنش ومُغلّف بالبلاستيك
+73358,Manchador de Verduras,Manchador de Legumes,Tacheteur de légumes,مُبقّع الخضروات
+73359,Secador de Chapas,Secador de Folheados,Sécheur de placage,مُعيد تجفيف القشرة
+73361,Vicerrector,Vice-Reitor,Vice-prévôt,نائب العميد الأكاديمي
+73363,Eliminación de Residuos,Eliminação de Resíduos,Élimination des déchets,إزالة النفايات
+73364,Aguador,Aguadeiro,Porteur d'eau,حمّال الماء
+73366,Estimador de Peso,Estimador de Peso,Estimateur de poids,مُقدِّر الوزن
+73368,Ayudante de Silbato,Ajudante de Apito,Aide au sifflet,مساعد الصفّارة
+73369,Enrollador de Alambre,Enrolador de Arame,Bobineur de fil,مُلفّف الأسلاك
+73370,Colgador de Lana,Pendurador de Lã,Accrocheur de laine,مُعلّق الصوف
+73371,Cortador y Pegador de Recortes de Prensa,Cortador e Colador de Recortes de Imprensa,Découpeur et colleur de coupures de presse,قاطع ولاصق قصاصات الصحف
+73373,Oficiante Ceremonial Aborigen,Celebrante Cerimonial Aborígene,Officiant cérémoniel aborigène,محتفل طقوسي من السكان الأصليين
+73374,Coordinador Administrativo de Programa,Coordenador Administrativo de Programa,Coordinateur administratif de programme,منسق البرامج الإدارية
+73376,Azulador de Máquina Dulite,Azulador de Máquina Dulite,Bleuisseur de machine Dulite,مُزرِّق آلة Dulite
+73381,"EVP, Jefe de Estrategia de Experiencia SMG Américas","EVP, Responsável de Estratégia de Experiência SMG Américas","EVP, responsable stratégie d'expérience SMG Amériques",نائب الرئيس التنفيذي لرئيس استراتيجية تجربة SMG الأمريكتين
+73382,Artillería Antiaérea de Misiles Hawk,Artilharia de Defesa Antiaérea de Mísseis Hawk,Artillerie de défense aérienne missile Hawk,مدفعية الدفاع الجوي بصواريخ هوك
+73383,Invertidor de Balones de Baloncesto y Fútbol,Invertedor de Bolas de Basquetebol e Futebol,Inverseur de ballons de basket et de football,مُعكِس كرات السلة وكرات القدم
+73385,"Pouako Kura Kaupapa Maori, Profesor Maorí",Pouako Kura Kaupapa Maori,"Pouako Kura Kaupapa Maori, enseignant maori",مُعلِّم بوواكو كورا كاوبابا ماوري
+73387,Presidente de los Estados Unidos,Presidente dos Estados Unidos,Président des États-Unis,رئيس الولايات المتحدة
+73389,Espaciador de Barra y Segmento Tipográfico,Espaçador de Barra e Segmento Tipográfico,Espaceur de barre et segment de caractères,مُباعد قضيب وقطعة الطباعة
+73394,Colorista de Pieles y Cueros,Colorizador de Peles e Couros,Colorateur de peaux et cuirs,ملوّن الجلود والأدم
+73396,Director de Iniciativas Estratégicas,Diretor de Iniciativas Estratégicas,Directeur des initiatives stratégiques,مدير المبادرات الاستراتيجية
+73402,Peón de Vigueta de Acero Ajustable,Trabalhador de Vigota de Aço Ajustável,Manœuvre de solive en acier réglable,عامل العوارض الفولاذية القابلة للتعديل
+73403,Agentes Autorizados de Gastos Finales,Agentes Licenciados de Despesas Finais,Agents agréés de frais funéraires,وكلاء مرخّصون لتغطية نفقات الجنازة
+73411,"Superintendente de Turno, Cresilato Cáustico","Superintendente de Turno, Cresilato Cáustico","Chef d'équipe, crésylate caustique",مشرف الوردية، كريسيلات الصودا الكاوية
+73412,Supervisor de Remate y Unión,Supervisor de Remate e Junção,Superviseur d'ébarbage et d'assemblage,مشرف التنظيف والتوصيل
+73413,Supervisor de Ésteres y Emulsionantes,Supervisor de Ésteres e Emulsionantes,Superviseur d'esters et d'émulsifiants,مشرف الإسترات والمستحلبات
+73414,Supervisor de Colchones y Somieres,Supervisor de Colchões e Estrados,Superviseur de matelas et sommiers,مشرف المراتب والقواعد
+73420,Auxiliar de Actas para Tráfico Básico,Escriturário de Atas para Tráfego Básico,"Secrétaire de séance, trafic de base",كاتب المحاضر لحركة المرور الأساسية
+73422,"Control y Recuperación, Tácticas Especiales","Controlo e Recuperação, Táticas Especiais","Contrôle et récupération, tactiques spéciales",التحكم والاسترداد، التكتيكات الخاصة
+73426,Alisador y Desbarbador de Compuestos,Alisador e Desbastador de Compósitos,Lisseur et ébavureur de composites,عامل تسوية وتجليخ المواد المركبة
+73430,Liberador de Tubos de Aire,Libertador de Tubos de Ar,Libérateur de tubes à air,مُحرِّر أنابيب الهواء
+73434,Consejo de Administración,Conselho de Administração,Conseil d'administration,مجلس الإدارة
+73436,Intercalador de Papel Carbón,Intercalador de Papel Químico,Intercaleur de papier carbone,مُدخِل ورق الكربون
+73440,Ambientalista de Interiores Certificado,Ambientalista Interior Certificado,Spécialiste certifié de l'environnement intérieur,أخصائي بيئة داخلية معتمد
+73441,Maestro Certificado de Cajas Fuertes,Mestre Certificado de Arrombamento de Cofres,Maître certifié en ouverture de coffres-forts,خبير معتمد لفتح الخزائن
+73450,Especialista Jefe LEED,Especialista Principal LEED,Spécialiste principal LEED,كبير أخصائيي LEED
+73451,Perforador de Cabeza de Puro,Perfurador de Cabeça de Charuto,Perceur de tête de cigare,مُثقِّب رأس السيجار
+73452,Reensacador de Tabaco para Puros,Reacondicionador de Tabaco para Charutos,Manutentionnaire de tabac à cigares,مُعيد مناولة تبغ السيجار
+73453,Oficial de Clasificaciones CC/CM,Oficial de Classificações CC/CM,Officier de classification CC/CM,ضابط التصنيفات CC/CM
+73455,Gránulos de Batería de Compresor,Pellets de Bateria de Compressor,Granulés de batterie de compresseur,حبيبات بطارية الضاغط
+73457,Moldeador Lateral de Núcleos,Moldador Lateral de Machos,Façonneur latéral de noyaux,مُشكِّل جوانب النوى
+73460,Decano de Capilla,Decano da Capela,Doyen de la chapelle,عميد الكنيسة
+73463,Desarrollador Verificador de Tapicería,Testador de Desenvolvimento de Estofos,Testeur de développement de rembourrage,مختبر تطوير التنجيد
+73464,Guía de Inmersión de Estufas,Guia de Imersão de Fogões,Guide d'immersion de poêles,مُوجّه غمس المواقد
+73466,Director de Valoración,Diretor de Avaliação,Directeur de l'évaluation fiscale,مدير التقييم الضريبي
+73468,Director de Hemofilia,Diretor de Hemofilia,Directeur de l'hémophilie,مدير علاج الهيموفيليا
+73471,Director de ROTC,Diretor de ROTC,Directeur du ROTC,مدير برنامج ROTC
+73472,Distribuidor de Directorios,Distribuidor de Listas Telefónicas,Distributeur d'annuaires,موزّع الأدلة
+73474,Alineador de Cable de Acometida,Alinhador de Fio de Ligação,Aligneur de fil de branchement,مُرتّب أسلاك التوصيل
+73478,Implementador de Transacciones Electrónicas,Implementador de Transações Eletrónicas,Implémenteur de transactions électroniques,مُنفّذ المعاملات الإلكترونية
+73480,Ingeniero de Estación de Línea Principal,Engenheiro de Estação de Linha Principal,Ingénieur de station de ligne principale,مهندس محطة الخط الرئيسي
+73481,Tripulación Alistada/Observador Aéreo/Artillero,Tripulação Alistada/Observador Aéreo/Artilheiro,Équipage enrôlé/observateur aérien/mitrailleur,طاقم جوي مجند / مراقب جوي / مدفعي
+73483,Analistas Ambulatorios de Epic,Analistas Ambulatórios Epic,Analystes Epic ambulatoires,محللو Epic للعيادات الخارجية
+73484,Fieltrador de Pelotas de Tenis,Feltrador de Bolas de Ténis,Feutreur de balles de tennis,مُلبّد كرات التنس
+73485,Limador de Patrones Metálicos,Limador de Padrões Metálicos,Limeur de gabarits métalliques,مُبرِد النماذج المعدنية
+73486,Pedidor de Reemplazo de Película,Encomendador de Substituição de Filme,Commandeur de remplacement de films,مُطلِب استبدال الأفلام
+73487,Acabador de Existencias Especiales,Acabador de Stocks Especiais,Finisseur de stocks spéciaux,مُنهي المخزونات الخاصة
+73489,"Tripulación de Vuelo, Armero","Tripulação de Voo, Armeiro","Équipage de vol, armurier",طاقم طيران، فنّي ذخيرة
+73490,Asignador de Espacio de Piso,Atribuidor de Espaço de Pavimento,Affecteur d'espace au sol,مُوزِّع مساحة الأرضية
+73491,Peón/Diseñador de Floristería,Trabalhador/Designer de Florista,Ouvrier/décorateur de fleuriste,عامل / مصمم محل الزهور
+73493,Operario de Pasarela,Trabalhador de Prancha de Acesso,Ouvrier de passerelle,عامل ممر التحميل
+73494,Técnico de Geek Squad,Técnico Geek Squad,Technicien Geek Squad,فني Geek Squad
+73496,Tutor Ad Litem,Curador Ad Litem,Tuteur ad litem,الوصي القضائي ad litem
+73501,Responsable de Recursos Humanos Designado,Responsável de Recursos Humanos Designado,Responsable RH désigné,مسؤول الموارد البشرية المعيّن
+73502,Impregnador de Condensadores Electrolíticos,Impregnador de Condensadores Eletrolíticos,Imprégnateur de condensateurs électrolytiques,مُشرِّب المكثفات الكهروكيميائية
+73506,Esquinero de Agujeros de Joyas,Cantoneiro de Furos de Jóias,Coineur de trous de rubis,مُزاوج ثقوب الجواهر
+73508,Operador/Navegante de Radar LCAC,Operador/Navegador de Radar LCAC,Opérateur radar/navigateur LCAC,مشغل رادار / ملاح LCAC
+73509,Constructor de Elevación Completa,Construtor de Elevação Completa,Constructeur d'élévation entière,بانٍ الرفع الكامل
+73510,Fortificador de Azúcar Líquido,Fortificador de Açúcar Líquido,Fortifiant de sucre liquide,مُدعِّم السكر السائل
+73514,Majador de Leche Malteada,Triturador de Leite Malteado,Broyeur de lait malté,مُهشِّم الحليب المالتي
+73515,Director Gerente Atlas,Diretor-Gerente Atlas,Directeur général Atlas,المدير الإداري لأطلس
+73535,Fabricante de Fundas de Rodillo de Pintura,Fabricante de Coberturas de Rolos de Pintura,Fabricant de manchons de rouleaux à peinture,صانع أغطية أسطوانات الطلاء
+73536,Pagador de Monederos,Pagador de Bolsas,Trésorier des bourses,أمين صندوق المنح
+73537,Médicos y Cirujanos,Médicos e Cirurgiões,Médecins et chirurgiens,الأطباء والجراحون
+73539,Beca Posdoctoral,Bolsa de Pós-Doutoramento,Bourse postdoctorale,زمالة ما بعد الدكتوراه
+73541,Operador de Concentrado Premezclado,Operador de Concentrado Pré-Misturado,Opérateur de concentré prémélangé,مشغل المركّز المخلوط مسبقاً
+73543,Presidente de Adquisición de Celebridades,Presidente de Aquisição de Celebridades,Président acquisition de célébrités,رئيس استقطاب المشاهير
+73546,Informático de Salud Pública,Informático de Saúde Pública,Informaticien de santé publique,أخصائي المعلوماتية الصحية العامة
+73550,Etiquetador de Transporte Ferroviario,Etiquetador de Transporte Ferroviário,Étiqueteur de transport ferroviaire,مُعلِّم النقل بالسكك الحديدية
+73555,Registrador de Testamentos,Conservador de Testamentos,Greffier des testaments,أمين سجل الوصايا
+73557,Responsable de Llaves en Gestión Minorista,Responsável de Chaves em Gestão Retalhista,Responsable des clés en gestion de détail,حامل مفاتيح إدارة التجزئة
+73558,Inventor de Juguetes Robóticos,Inventor de Brinquedos Robóticos,Inventeur de jouets robotiques,مخترع ألعاب الروبوت
+73560,Vendedor de Parcelas Funerarias,Vendedor de Jazigos,Vendeur de concessions funéraires,بائع قطع الدفن
+73567,Gerente Senior MMCOE,Gestor Sénior MMCOE,Manager senior MMCOE,مدير أول MMCOE
+73568,Sombreador y Tonificador,Sombreador e Tonalizador,Ombrageur et tonalisateur,مُظلِّل ومُلوِّن الدرجات
+73570,Designado de Servicios Sociales,Designado para Serviços Sociais,Représentant désigné des services sociaux,مُعيَّن الخدمات الاجتماعية
+73572,Mudador de Cangrejos Blandos,Mudador de Caranguejos Moles,Mue de crabes mous,مُنتشل قشر السلطعون الطري
+73574,Musgo de Cuero Escindido,Musgueiro de Couro Dividido,Mousseur de cuir refendu,مُعالج الجلد المشقوق بالطحالب
+73575,Topógrafo de Proyección Estereóptica,Topógrafo de Projeção Estereoscópica,Topographe à projection stéréoscopique,طبوغرافي الإسقاط المجسّم
+73579,Supervisor de Tecnólogos de Microbiología,Supervisor de Tecnólogos de Microbiologia,Superviseur des technologues en microbiologie,مشرف فنيي علم الأحياء الدقيقة
+73580,Supervisor de Reparto de Periódicos,Supervisor de Entregas de Jornais,Superviseur des livraisons de journaux,مشرف توزيع الصحف
+73581,SVP de Digitail®,SVP da Digitail®,SVP Digitail®,نائب الرئيس لـ Digitail®
+73582,SVP de TV Programática,SVP de TV Programática,SVP TV programmatique,نائب الرئيس للتلفزيون البرمجي
+73586,Compresor de Elevación Superior,Compressor de Elevação Superior,Compresseur de levage supérieur,مُضغط الرفع العلوي
+73591,Limpiador de Zapatos Blancos,Limpador de Sapatos Brancos,Nettoyeur de chaussures blanches,مُنظّف الأحذية البيضاء
+73592,Hidráulico de Gorros de Lana,Hidráulico de Gorros de Lã,Hydraulicien de bonnets de laine,مُركّب الهيدروليك لقبعات الصوف
+73593,Montador de Cierres y Muelles,Montador de Fechos e Molas,Monteur de loquets et ressorts,مُجمِّع المزاليج والنوابض
+73597,"Operario de Limpieza, Lavado de Maquinaria con Manguera","Trabalhador de Saneamento, Lavagem de Maquinaria com Mangueira","Agent d'assainissement, lavage des machines au jet",عامل النظافة لغسل الآلات بالخرطوم
+73600,Artillería Antiaérea de Misiles Patriot,Artilharia de Defesa Antiaérea de Mísseis Patriot,Artillerie de défense aérienne missile Patriot,مدفعية الدفاع الجوي بصواريخ باتريوت
+73608,Supervisor de Plantas de Grano y Levadura,Supervisor de Unidades de Cereais e Levedura,Superviseur d'usines de céréales et de levure,مشرف مصانع الحبوب والخميرة
+73613,Montador de Tarjetas y Anuncios,Montador de Cartões e Anúncios,Monteur de cartes et faire-part,مُجمِّع البطاقات والإعلانات
+73616,Tallador y Verificador de Especiales,Entalhador e Verificador de Especiais,Graveur et contrôleur de spéciaux,مُنحِت ومُراقب الأصناف الخاصة
+73619,"Rigidizador de Bordes de Canal, Plantillas","Rigidificador de Canal, Palmilhas","Rigidificateur de bords de canal, semelles",مُقوّي حافة القناة للنعال الداخلية
+73620,Recolector de Especímenes de Acuario,Colecionador de Espécimes de Aquário,Collecteur de spécimens d'aquarium,جامع عينات الأحواض المائية
+73621,Director de Patrocinios Corporativos,Diretor de Patrocínios Corporativos,Directeur des parrainages d'entreprise,مدير الرعاية المؤسسية
+73622,Director de Primera Impresión,Diretor de Primeiras Impressões,Directeur de l'accueil,مدير الانطباعات الأولى
+73627,Colorista de Pieles y Cueros,Colorizador de Peles e Couros,Colorateur de peaux et cuirs,ملوّن الجلود والأدم
+73632,Polo de Línea y Bastidor,Polidor de Linha e Estrutura,Polisseur de ligne et de cadre,مُلمّع الخط والإطار
+73634,Organizador de Manifiestos y Pedidos de Impresión,Organizador de Manifestos/Encomendas de Impressão,Organisateur de manifestes/commandes d'impression,مُنظّم البيانات / طلبات الطباعة
+73639,"Enfermeros, Auxiliares Médicos y Flebotomistas","Enfermeiros, Assistentes Médicos e Flebotomistas","Infirmiers, assistants médicaux et phlébotomistes",الممرضون والمساعدون الطبيون وفنيو سحب الدم
+73640,Operador de Radar de Localización de Armas,Operador de Radar de Localização de Armas,Opérateur de radar de localisation d'armes,مشغل رادار تحديد موقع الأسلحة
+73642,Coordinador de Mejora de Calidad (Enfermero Titulado),Coordenador de Melhoria da Qualidade (Enfermeiro),Coordinateur d'amélioration de la qualité (IDE),منسق تحسين الجودة (ممرض مسجّل)
+73648,Supervisor de Captadores de Donantes de Sangre,Supervisor de Recrutadores de Dadores de Sangue,Superviseur des recruteurs de donneurs de sang,مشرف مُجنّدي المتبرعين بالدم
+73649,Supervisor de Secado y Ablandado,Supervisor de Secagem e Amaciamento,Superviseur de séchage et d'assouplissement,مشرف التجفيف والتليين
+73651,Supervisor de Elementos Ópticos de Precisión,Supervisor de Elementos Ópticos de Precisão,Superviseur d'éléments optiques de précision,مشرف العناصر البصرية الدقيقة
+73653,Supervisor de Traslado y Embalaje en Cajas,Supervisor de Transferência e Embalagem em Caixas,Superviseur de transfert et de mise en boîte,مشرف النقل والتعبئة في صناديق
+73654,Equipo de Respiración de Suministro en Superficie,Aparelho Respiratório de Alimentação em Superfície,Appareil respiratoire à alimentation de surface,جهاز التنفس بالإمداد السطحي
+73655,SVP de Video News Corp,SVP Video News Corp,SVP Video News Corp,نائب الرئيس لشركة Video News
+73656,Probador de Inducidos o Campos,Testador de Induzidos ou Campos,Testeur d'induits ou d'inducteurs,فاحص الدوّار أو المجالات
+73658,"Ensambladora de Chapas, Retroalimentación de Encolado","Juntador de Folheados, Realimentação de Colagem","Abouteur de placage, rétroaction de collage",مُوصِّل القشرة، تغذية الغراء الراجعة
+73660,VP de Ventas Publicitarias Oeste,VP de Vendas Publicitárias Oeste,VP ventes publicitaires Ouest,نائب الرئيس لمبيعات الإعلانات بالغرب
+73662,Operador de Sierra de Corte de Tubos en Bruto,Operador de Serra de Corte de Tubos em Bruto,"Opérateur de scie à tronçonner, ébauches de tubes",مشغل منشار القطع لأنابيب الخامات
+73666,Tripulante de Transporte Blindado de Personal M113,Tripulante de Transporte Blindado de Pessoal M113,Membre d'équipage de véhicule blindé de transport de troupes M113,طاقم ناقلة الجند المدرعة M113
+73667,"Miembro de Fuerzas de Defensa, Otros Rangos","Membro das Forças de Defesa, Outras Patentes","Membre des forces de défense, autres grades",عضو قوات الدفاع، رتب أخرى
+73670,Presidente/Gerente General de Producción y Experiencias en Vivo,Presidente/Gestor Geral de Produção e Experiências ao Vivo,Président/directeur général production et expériences en direct,الرئيس / المدير العام للإنتاج والتجارب الحية
+73672,"Operaciones Espaciales y de Misiles, Lanzamiento Espacial","Operações Espaciais e de Mísseis, Lançamento Espacial","Opérations spatiales et de missiles, lancement spatial",عمليات الفضاء والصواريخ، الإطلاق الفضائي
+73673,Asesores de Membresía de Clubes Deportivos de Salud,Consultores de Adesão a Clubes Desportivos e de Saúde,Conseillers en adhésion de clubs de sport et santé,مستشارو العضوية في نوادي الرياضة والصحة
+73676,Patrocinador o Defensor de Empleados y,Patrocinador ou Defensor de Funcionários e,Parrain ou défenseur d'employés et,راعي الموظف أو المدافع عنه و
+73679,Planificadores de la Fuerza Operativa Aeroterrestre Marina,Planeadores de Força-Tarefa Aérea e Terrestre da Marinha,Planificateurs de force opérationnelle aéro-terrestre des Marines,مخططو قوة المهام الجوية البرية البحرية
