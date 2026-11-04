@@ -1,5 +1,1204 @@
 rank,title_es,title_pt,title_fr,title_ar
+24570,Director de Anestesia,Diretor de Anestesia,Directeur de l'anesthésie,مدير التخدير
+24571,Director de Entretenimiento,Diretor de Entretenimento,Directeur du divertissement,مدير الترفيه
+24574,Director de Neurología,Diretor de Neurologia,Directeur de neurologie,مدير طب الأعصاب
+24575,Ingeniero Auxiliar,Engenheiro Auxiliar,Ingénieur auxiliaire,مهندس مساعد
+24577,Ingeniero de Compilación,Engenheiro de Compilação,Ingénieur build,مهندس البناء
+24579,Ingeniero de Contratación,Engenheiro de Contratação,Ingénieur contractant,مهندس التعاقدات
+24584,Ingeniero de Cartografía,Engenheiro de Cartografia,Ingénieur cartographe,مهندس رسم الخرائط
+24586,Ingeniero de Requisitos,Engenheiro de Requisitos,Ingénieur des exigences,مهندس المتطلبات
+24587,Ingeniero RFID,Engenheiro RFID,Ingénieur RFID,مهندس RFID
+24589,Ingeniero de Instalaciones Fijas,Engenheiro de Central Térmica,Ingénieur de chaufferie,مهندس المنشآت الثابتة
+24590,Ingeniero de Volcadero,Engenheiro de Tombamento,Ingénieur de culbuteur,مهندس منصة التفريغ
+24591,Director de Laboratorio Cardiovascular,Diretor de Laboratório Cardiovascular,Directeur du laboratoire cardiovasculaire,مدير مختبر القلب والأوعية الدموية
+24595,Máquina Plegadora,Máquina de Dobragem,Machine à plier,آلة الطي
+24598,Responsable de Envíos,Responsável de Expedição,Responsable expédition,مسؤول الشحن
+24601,Operario de Productos Químicos,Operador de Produtos Químicos,Manipulateur de produits chimiques,عامل مناولة المواد الكيميائية
+24605,Especialista en Alineación,Especialista em Alinhamento,Spécialiste de l'alignement,أخصائي المحاذاة
+24606,Especialista en Antenas,Especialista em Antenas,Spécialiste des antennes,أخصائي الهوائيات
+24607,Especialista en Actividades Acuáticas,Especialista em Atividades Aquáticas,Spécialiste aquatique,أخصائي الأنشطة المائية
+24609,Especialista en Biometría,Especialista em Biometria,Spécialiste en biométrie,أخصائي القياسات الحيوية
+24610,Especialista en Carpintería,Especialista em Carpintaria,Spécialiste en menuiserie,أخصائي النجارة
+24611,Especialista en Compuestos,Especialista em Compostos,Spécialiste des composés,أخصائي المركبات
+24612,Especialista en Lactancia,Especialista em Aleitamento,Spécialiste de l'allaitement,أخصائي الرضاعة الطبيعية
+24613,Especialista en Correo,Especialista em Correio,Spécialiste du routage,أخصائي البريد
+24615,Especialista en Calificación,Especialista em Classificação,Spécialiste de l'évaluation,أخصائي التصنيف
+24616,Especialista en Temas de Mujer,Especialista em Assuntos da Mulher,Spécialiste femmes,أخصائي شؤون المرأة
+24620,Operario de Ladrillos,Operador de Tijolos,Opérateur de briques,عامل الطوب
+24622,Operario de Ascensores,Operador de Elevadores,Opérateur d'ascenseur,عامل المصاعد
+24626,Cortador de Puertas,Cortador de Portas,Découpeur de portes,قاطع الأبواب
+24628,Lavador de Carne,Lavador de Carne,Laveur de viande,غاسل اللحوم
+24630,Encargado de Báscula,Atendente de Balança,Préposé à la bascule,مشرف الميزان
+24637,Oficial de Gestión de Registros del Condado,Oficial de Gestão de Registos do Condado,Responsable de la gestion des archives du comté,موظف إدارة سجلات المقاطعة
+24641,Oficial de Armas del Personal,Oficial de Armamento do Pessoal,Officier d'armement du personnel,ضابط أسلحة الطاقم
+24642,Líder de Mejora,Líder de Melhoria,Responsable de l'amélioration,قائد التحسين
+24649,Conductor de Aspersores,Condutor de Aspersores,Conducteur d'arroseuse,سائق الرشاشات
+24654,Trabajador de Escoria,Trabalhador de Escória,Ouvrier des scories,عامل الرماد والخبث
+24656,Trabajador de Charcutería,Trabalhador de Charcutaria,Employé de charcuterie,عامل المأكولات الجاهزة
+24657,Trabajador de Aditivos,Trabalhador de Aditivos,Ouvrier de l'enduction,عامل المواد المضافة
+24661,Trabajador de Altillo,Trabalhador de Sótão,Ouvrier de grenier,عامل الطابق العلوي
+24664,Trabajador de Caña,Trabalhador de Cana,Ouvrier de roseau,عامل القصب
+24665,Trabajador de Tamaño,Trabalhador de Dimensionamento,Ouvrier d'encollage,عامل التحجيم
+24667,Superintendente de Correo,Superintendente de Correio,Superintendant du courrier,مشرف البريد
+24669,Inspector de Forja Libre,Inspetor de Forjamento Livre,Inspecteur de forge libre,مفتش القوالب المفتوحة
+24675,Enfermero de Imagen,Enfermeiro de Imagiologia,Infirmier en imagerie,ممرض التصوير الطبي
+24677,Jefe de Alcantarillado,Chefe de Saneamento,Chef des égouts,رئيس قسم الصرف
+24678,Empleado de Timbre,Empregado de Campainha,Employé à la cloche,موظف الجرس
+24679,Empleado de Bonos,Empregado de Obrigações,Employé des obligations,موظف السندات
+24680,Operario de Cubierta de Cajas,Operador de Cobertura de Caixas,Opérateur de couverture de boîtes,عامل تغطية الصناديق
+24682,Operario de Patio de Ladrillos,Operador de Parque de Tijolos,Ouvrier de chantier de briques,عامل ساحة الطوب
+24683,Empleado de Economato,Empregado de Economato,Employé de l'intendance,موظف المقصف
+24684,Empleado de Comisiones,Empregado de Comissões,Employé des commissions,موظف العمولات
+24685,Empleado de Eficiencia,Empregado de Eficiência,Employé chargé de l'efficacité,موظف الكفاءة
+24687,Empleado de Expedición,Empregado de Expedição,Employé d'expédition,موظف التسيير
+24689,Empleado de Jamón,Empregado de Presunto,Employé du jambon,موظف لحوم الخنزير
+24690,Empleado Temporal,Empregado Sazonal,Employé saisonnier,موظف موسمي
+24692,Agente Extranjero,Agente Estrangeiro,Agent étranger,وكيل أجنبي
+24694,Auxiliar de Radiología,Auxiliar de Radiologia,Aide en radiologie,مساعد أخصائي الأشعة
+24696,Enfermero Investigador,Enfermeiro de Investigação,Infirmier chercheur,ممرض بحث
+24698,Asistente de Actividades,Assistente de Atividades,Assistant d'activités,مساعد الأنشطة
+24699,Asistente de Economato,Assistente de Economato,Assistant de l'intendance,مساعد المقصف
+24701,Asistente de Fundación,Assistente de Fundação,Assistant en fondation,مساعد المؤسسة
+24704,Asistente Religioso,Assistente Religioso,Assistant religieux,مساعد ديني
+24707,Examinador de Muestras,Examinador de Amostras,Examinateur d'échantillons,فاحص العينات
+24711,Clasificador de Redes,Classificador de Redes,Trieur de filets,فارز الشباك
+24713,Asociado de Cafetería,Associado de Cafetaria,Employé de cafétéria,موظف المقصف
+24714,Inspector de Bombillas,Inspetor de Lâmpadas,Inspecteur d'ampoules,مفتش المصابيح
+24715,Inspector de Reclamaciones,Inspetor de Reclamações,Inspecteur des réclamations,مفتش الشكاوى
+24716,Inspector de Paracaídas,Inspetor de Paraquedas,Inspecteur de parachutes,مفتش المظلات
+24717,Inspector de Trapos,Inspetor de Trapos,Inspecteur de chiffons,مفتش الأقمشة
+24720,Profesor de Programa Integrado,Professor de Programa Integrado,Enseignant de programme intégré,معلم البرامج المتكاملة
+24722,Profesor de Máquinas de Oficina,Professor de Máquinas de Escritório,Enseignant en machines de bureau,معلم الآلات المكتبية
+24730,Ayudante de Podador de Árboles,Ajudante de Podador de Árvores,Aide élagueur,مساعد مقلّم الأشجار
+24731,Inspector de Cajas Calientes,Verificador de Caixas Quentes,Contrôleur de boîtes chaudes,مفتش الصناديق الساخنة
+24732,Agente de Silo de Grano,Agente de Silo de Cereais,Agent de silo à grains,وكيل صومعة الحبوب
+24735,Reparador de Contadores,Reparador de Contadores,Réparateur de compteurs,فني إصلاح العدادات
+24737,Limpiador de Brochas,Limpador de Escovas,Nettoyeur de brosses,عامل تنظيف الفرش
+24738,Limpiador de Bobinas,Limpador de Bobinas,Nettoyeur de bobines,عامل تنظيف الملفات
+24739,Probador Mecánico de Contadores de Campo,Testador Mecânico de Contadores de Campo,Testeur mécanique de compteurs sur site,فاحص العدادات الميكانيكية الميدانية
+24740,Limpiador Final,Limpador Final,Nettoyeur final,عامل التنظيف النهائي
+24742,Prácticas en Aplicaciones,Estágio em Aplicações,Stage en applications,تدريب في التطبيقات
+24745,Prácticas Comerciales,Estágio Comercial,Stage commercial,تدريب تجاري
+24746,Prácticas de Consultoría,Estágio de Consultoria,Stage de conseil,تدريب استشاري
+24747,Probador de Cilindros,Testador de Cilindros,Testeur de cylindres,فاحص الأسطوانات
+24748,Prácticas de Ingeniería,Estágio de Engenharia,Stage d'ingénierie,تدريب هندسي
+24749,Prácticas Financieras,Estágio Financeiro,Stage financier,تدريب مالي
+24750,Gerente de Ubicación de Funeraria,Gestor de Localização de Casa Funerária,Responsable de site de funérarium,مدير موقع دار الجنازات
+24753,Prácticas de Gestión,Estágio de Gestão,Stage en management,تدريب في الإدارة
+24754,Prácticas de Gerente,Estágio de Gestor,Stage de manager,تدريب مدير
+24756,Prácticas de Redes,Estágio de Redes,Stage réseaux,تدريب في الشبكات
+24757,Prácticas de Planificación,Estágio de Planeamento,Stage de planification,تدريب في التخطيط
+24758,Prácticas de Producción,Estágio de Produção,Stage de production,تدريب في الإنتاج
+24759,Prácticas de Proyectos,Estágio de Projeto,Stage projet,تدريب في المشاريع
+24760,Prácticas de Calidad,Estágio de Qualidade,Stage qualité,تدريب في الجودة
+24763,Probador de Semillas,Testador de Sementes,Testeur de semences,فاحص البذور
+24765,Prácticas Técnicas,Estágio Técnico,Stage technique,تدريب فني
+24766,Prácticas de Tecnología,Estágio de Tecnologia,Stage en technologies,تدريب في التكنولوجيا
+24771,Gerente de Tasaciones,Gestor de Avaliações,Responsable des évaluations,مدير التقييم
+24774,Gerente de EKG,Gestor de ECG,Responsable ECG,مدير تخطيط القلب الكهربائي
+24775,Gerente de Estimaciones,Gestor de Orçamentação,Responsable des estimations,مدير التقديرات
+24776,Gerente de Llenado,Gestor de Enchimento,Responsable de remplissage,مدير التعبئة
+24782,Gerente de Marina,Gestor de Marina,Responsable de marina,مدير المرسى
+24783,Gerente de Metrología,Gestor de Metrologia,Responsable de métrologie,مدير القياس
+24784,Gerente de Entorno,Gestor de Meio,Responsable du milieu,مدير البيئة
+24785,Gerente de Organización sin Fines de Lucro,Gestor de Organização sem Fins Lucrativos,Responsable d'organisation à but non lucratif,مدير منظمة غير ربحية
+24786,Gerente de Educación Física,Gestor de Educação Física,Responsable d'EPS,مدير التربية البدنية
+24787,Gerente de Recursos Humanos,Gestor de Recursos Humanos,Responsable des ressources humaines,مدير الموارد البشرية
+24790,Gerente de Vacunas,Gestor de Vacinas,Responsable des vaccins,مدير اللقاحات
+24791,Gerente de Garantía,Gestor de Garantias,Responsable garantie,مدير الضمان
+24792,Gerente de Cuencas,Gestor de Bacias Hidrográficas,Responsable de bassin versant,مدير مستجمعات المياه
+24793,Gerente de Jornada Laboral,Gestor de Jornada de Trabalho,Responsable de la journée de travail,مدير يوم العمل
+24798,Ayudante de Instalador-Reparador de Cables,Ajudante de Instalador-Reparador de Cabos,Aide installateur-réparateur de câbles,مساعد فني تركيب وإصلاح الكابلات
+24799,Mecánico de Cucharas de Colada,Mecânico de Conchas,Mécanicien de poche de coulée,ميكانيكي المغارف
+24804,Consultor de Soluciones para Eventos,Consultor de Soluções para Eventos,Consultant en solutions événementielles,مستشار حلول الفعاليات
+24819,Operador de Altillo Continuo,Operador de Sótão Contínuo,Opérateur de grenier continu,مشغل الطابق العلوي المستمر
+24843,Operador de Vagoneta de Lanzadera,Operador de Carrinho Shuttle,Opérateur de chariot navette,مشغل عربة المكوك
+24857,Conductor Apilador de Madera,Condutor de Empilhadora de Madeira,Conducteur d'empileuse de bois,سائق رافعة تكديس الخشب
+24862,Becario de Estrategia,Estagiário de Estratégia,Stagiaire en stratégie,متدرب في الاستراتيجية
+24869,Mecánico Experimental de Madera,Mecânico Experimental de Madeira,Mécanicien expérimental du bois,ميكانيكي تجريبي للخشب
+24870,Llenador de Placas,Enchedor de Placas,Remplisseur de plaques,عامل تعبئة الألواح
+24871,Operario de Transportador,Operador de Transportador,Opérateur de convoyeur,عامل السير الناقل
+24874,Operario de Laminado Automático,Operador de Laminagem Automática,Opérateur de laminoir automatique,عامل الدرفلة الآلية
+24878,Laminador Manual,Laminador Manual,Rouleur manuel,عامل الدرفلة اليدوية
+24881,Laminador de Tuberías,Laminador de Tubos,Cintreur de tuyaux,عامل درفلة الأنابيب
+24894,Cadenero,Agente de Cadeia,Porte-chaîne,عامل السلاسل
+24895,Director de Programa de Justicia Penal,Diretor de Programa de Justiça Criminal,Directeur de programme de justice pénale,مدير برنامج العدالة الجنائية
+24897,Examinador de Pieles,Examinador de Peles,Examinateur de fourrures,فاحص الفراء
+24898,Aprendiz de Montador de Líneas,Aprendiz de Montador de Linhas,Apprenti monteur de lignes,متدرب فني تركيب الخطوط
+24901,Aprendiz de Montador de Acero,Aprendiz de Montador de Aço,Apprenti monteur en acier,متدرب فني تركيب الهياكل الفولاذية
+24902,Verificador de Bolsas,Verificador de Sacos,Contrôleur de sacs,مفتش الحقائب
+24904,Fabricante de Bandas Superiores,Fabricante de Topos de Faixas,Fabricant de bandes supérieures,صانع الحزام العلوي
+24913,Trabajador de Procesamiento de Pieles y Cueros,Trabalhador de Processamento de Peles e Couros,Ouvrier de transformation des peaux et cuirs,عامل معالجة الجلود والجلد
+24914,Supervisor de Empaque y Envoltura,Supervisor de Embalagem e Acondicionamento,Superviseur de l'emballage et du conditionnement,مشرف التعبئة والتغليف
+24915,Supervisor de Formado de Piezas de Juguete,Supervisor de Formação de Peças de Brinquedo,Superviseur de formage de pièces de jouets,مشرف تشكيل أجزاء الألعاب
+24916,Operario Cortador de Caramelos,Operador de Corte de Rebuçados,Ouvrier coupeur de bonbons,عامل تقطيع الحلوى
+24917,Operario Bañador de Caramelos,Operador de Mergulho de Rebuçados,Ouvrier trempeur de bonbons,عامل غمس الحلوى
+24918,Dosificador,Doseador,Doseur,عامل التقطير
+24919,Coordinador de Expedición,Expedidor,Expéditeur,مسؤول التوريد
+24922,Trabajador de Purga,Trabalhador de Purga,Ouvrier de purge,عامل التنفيس
+24925,Trabajador de Rampa de Engrase,Trabalhador de Rampa de Lubrificação,Ouvrier de pont de graissage,عامل رف التشحيم
+24926,Trabajador de Soplado en Caliente,Trabalhador de Sopro Quente,Ouvrier de soufflage à chaud,عامل النفخ الساخن
+24927,Despachador de Policía,Despachante da Polícia,Standardiste de police,موزع الشرطة
+24932,Instalador de Bóvedas,Instalador de Cofres,Installateur de chambres fortes,فني تركيب الخزائن
+24937,Analista de Formularios,Analista de Formulários,Analyste de formulaires,محلل النماذج
+24938,Analista de Optimización,Analista de Otimização,Analyste en optimisation,محلل التحسين
+24942,Operario de Bordeadora,Operador de Acabamento de Bordas,Ouvrier de bordure,عامل الحواف
+24946,Ayudante de Operador de Grúa Camión,Ajudante de Operador de Grua de Camião,Aide opérateur de grue sur camion,مساعد مشغل الرافعة الشاحنة
+24948,Líder de Grupo de Ingeniería,Líder de Grupo de Engenharia,Chef de groupe ingénierie,قائد مجموعة هندسية
+24949,Ayudante de Mantenimiento de Instalaciones,Ajudante de Manutenção de Instalações,Aide à la maintenance des installations,مساعد صيانة المرافق
+24960,Técnico de Fundición a Presión,Técnico de Fundição sob Pressão,Technicien de fonderie sous pression,فني صب القوالب
+24961,Técnico de Educación a Distancia,Técnico de Ensino à Distância,Technicien de formation à distance,فني التعليم عن بعد
+24968,Técnico de Pagos Militares,Técnico de Pagamentos Militares,Technicien de la solde militaire,فني الرواتب العسكرية
+24977,Reparador de Máquinas,Reparador de Máquinas,Réparateur de machines,فني إصلاح الآلات
+24978,Segundo Ayudante,Segundo Ajudante,Second aide,المساعد الثاني
+24979,Preparador de Máquinas,Preparador de Máquinas,Préparateur de machines,فني التجهيز
+24980,Superintendente de Vía,Superintendente de Via,Superintendant de voie,مشرف المسار
+24987,Alimentador de Moldeadora,Alimentador de Moldadora,Alimentateur de mouleuse,مغذي القوالب
+24992,Profesionales,Profissionais,Professionnels,المحترفون
+24994,Transcriptor,Transcritor,Transcripteur,ناسخ
+24997,Creador de Registros,Criador de Registos,Créateur de registres,معد السجلات
+24998,Instructor de Producción de Audio,Formador de Produção de Áudio,Formateur en production audio,مدرب إنتاج الصوت
+24999,Instructor de Vida Comunitaria,Formador de Vida Comunitária,Formateur à la vie communautaire,مدرب المعيشة المجتمعية
+25003,Empleado de Almacén de Barricas,Empregado de Armazém de Pipas,Magasinier de barriques,موظف مخزون البراميل
+25005,Empleado de Distribución de Publicaciones,Empregado de Distribuição de Publicações,Employé de distribution des publications,موظف توزيع المنشورات
+25006,Asociado de Protección de Activos,Associado de Proteção de Ativos,Chargé de protection des actifs,موظف حماية الأصول
+25007,Arquitecto C,Arquiteto C,Architecte C,مهندس معماري C
+25010,Operario de Proceso de Carga Seca,Operador de Processo de Carga Seca,Opérateur de procédé à charge sèche,عامل عملية الشحن الجاف
+25015,Jefe de Laboratorio,Chefe de Laboratório,Chef de laboratoire,رئيس المختبر
+25021,Encargado de Cafetería,Empregado de Cafetaria,Employé de cafétéria,عامل المقصف
+25022,Cajero de Cambio de Casino,Caixa de Câmbio de Casino,Caissier de change de casino,موظف صرف الكازينو
+25023,Analista de Laboratorio Forense,Analista de Laboratório Forense,Analyste de laboratoire criminalistique,محلل مختبر الجرائم
+25028,Analista de Combinación de Hornos,Analista de Combinação de Fornos,Analyste de combinaison de fours,محلل تركيبة الأفران
+25029,Operario de Alimentación Verde,Operador de Alimentação Verde,Opérateur d'alimentation verte,عامل التغذية الخضراء
+25030,Encargado de Incubadora,Encarregado de Incubatório,Préposé à l'écloserie,عامل المفقس
+25031,Operario de Rectificadora Interna,Operador de Retificadora Interna,Opérateur de rectifieuse intérieure,عامل الطحن الداخلي
+25034,Encargado de Foso de Aceite,Encarregado de Fosso de Óleo,Préposé à la fosse à huile,عامل حفرة الزيت
+25036,Analista de Integridad de Ingresos,Analista de Integridade de Receitas,Analyste de l'intégrité des revenus,محلل نزاهة الإيرادات
+25037,Encargado de Máquinas Tragaperras,Encarregado de Slots,Préposé aux machines à sous,موظف ماكينات القمار
+25042,Inspector de Máquinas de Juego de Pines,Inspetor de Máquinas de Jogo de Pinos,Inspecteur de machines de jeu de quilles,مفتش آلات ألعاب الدبابيس
+25047,Gestor de Propiedades,Gestor de Propriedades,Gestionnaire de biens,مسؤول الممتلكات
+25054,Director de Prácticas de Campo,Diretor de Estágios de Campo,Directeur des stages sur le terrain,مدير التدريب الميداني
+25058,Director de Estudios de Voz,Diretor de Estudos de Voz,Directeur des études vocales,مدير دراسات الصوت
+25060,Oficial de Vigilancia de Casino,Oficial de Vigilância de Casino,Agent de surveillance de casino,ضابط مراقبة الكازينو
+25061,Becario Creativo,Estagiário Criativo,Stagiaire créatif,متدرب إبداعي
+25062,Becario de Políticas,Estagiário de Políticas,Stagiaire en politiques publiques,متدرب في السياسات
+25067,Aprendiz de Mecánico de Equipos de Impresión,Aprendiz de Mecânico de Equipamentos de Impressão,Apprenti mécanicien d'équipements d'impression,متدرب ميكانيكي معدات الطباعة
+25070,Fabricante de Tarjetas de Muestra,Fabricante de Cartões de Amostra,Fabricant de cartes d'échantillons,صانع بطاقات العينات
+25071,Recortador de Calzado,Acabador de Calçado,Ajusteur de chaussures,عامل تشذيب الأحذية
+25076,Operario de Horno de Carbón de Hueso,Operador de Forno de Carvão de Osso,Opérateur de four à noir d'os,مشغل فرن فحم العظام
+25093,Operario de Almacén de Soda Seca,Operador de Armazém de Soda Seca,Opérateur de séchoir à soude,مشغل مخزن الصودا الجافة
+25094,Consultor Sr.,Consultor Sénior,Consultant senior,مستشار أول
+25100,Operario de Preparación de Conformadora de Herramientas,Operador de Preparação de Modeladora de Ferramentas,Opérateur de réglage de façonneuse d'outils,مشغل إعداد مشكّل الأدوات
+25101,Consultor de Tesorería,Consultor de Tesouraria,Consultant en trésorerie,مستشار الخزينة
+25102,Operario de Jarabe de Azúcar Blanco,Operador de Xarope de Açúcar Branco,Opérateur de sirop de sucre blanc,مشغل شراب السكر الأبيض
+25105,Ingeniero Asociado de Integridad de Productos,Engenheiro Associado de Integridade de Produtos,Ingénieur associé en intégrité produit,مهندس مشارك في سلامة المنتج
+25115,Profesional de Finanzas,Profissional de Finanças,Professionnel des finances,محترف مالية
+25123,Ingeniero Senior de Integridad de Productos,Engenheiro Sénior de Integridade de Produtos,Ingénieur senior en intégrité produit,مهندس أول سلامة المنتج
+25124,Cortador de Calzado,Cortador de Calçado,Coupeur de chaussures,عامل قطع الأحذية
+25127,Operador de Respaldo,Operador de Backup,Opérateur de sauvegarde,مشغل النسخ الاحتياطي
+25129,Operador de Booster,Operador de Booster,Opérateur de booster,مشغل المضخم
+25131,Operador de Conmutador,Operador de Comutador,Opérateur de commutateur,مشغل المبدل
 25132,Operador de Explosivos,Operador de Explosivos,Opérateur d'explosifs,مشغل المتفجرات
+25133,Operador de Filtración,Operador de Filtração,Opérateur de filtration,مشغل الترشيح
+25134,Operador de Reenvío,Operador de Reencaminhamento,Opérateur de réexpédition,مشغل إعادة التوجيه
+25138,Operador de Cuchara,Operador de Concha,Opérateur de pelle,مشغل الملعقة
+25139,Operador de Silo,Operador de Silo,Opérateur de silo,مشغل الصومعة
+25142,Operador de Paso Continuo,Operador de Passagem Contínua,Opérateur de passage continu,مشغل المرور المستمر
+25144,Reparador de Bolsas,Reparador de Sacos,Réparateur de sacs,فني إصلاح الحقائب
+25146,Líder de Cumplimiento de Seguridad de Productos,Líder de Conformidade de Segurança de Produtos,Responsable de la conformité de sécurité des produits,قائد الامتثال لسلامة المنتجات
+25148,Probador de Botellas,Testador de Garrafas,Testeur de bouteilles,فاحص الزجاجات
+25149,Probador de Carcasas,Testador de Carcaças,Testeur de boîtiers,فاحص الهياكل
+25151,Probador de Suelos,Testador de Solos,Testeur de sols,فاحص التربة
+25152,Asesor de Electrodomésticos,Consultor de Eletrodomésticos,Conseiller en électroménager,مستشار الأجهزة المنزلية
+25156,Inspector de Conos de Sombrero,Inspetor de Cones de Chapéu,Inspecteur de cônes de chapeaux,مفتش مخاريط القبعات
+25158,Ajustador de Hierro,Ajustador de Ferro,Régleur de fer,فني ضبط الحديد
+25160,Operario de Máquina Lúpulo,Operador de Máquina de Lúpulo,Opérateur de machine à houblon,عامل آلة الهوب
+25161,Operario Polivalente de Molino Mercante,Operador Polivalente de Moinho Mercante,Ouvrier polyvalent de moulin marchand,عامل خدمات مطحنة التجارة
+25163,Trabajador de Construcción de Armazones de Postes,Trabalhador de Construção de Estruturas de Postes,Ouvrier de construction de cadres de poteaux,عامل إنشاء هياكل الأعمدة
+25164,Investigador de Casos,Investigador de Casos,Enquêteur de dossiers,محقق الحالات
+25165,Investigador Jefe,Investigador Principal,Enquêteur principal,كبير المحققين
+25166,Investigador Clínico,Investigador Clínico,Investigateur clinique,محقق سريري
+25167,Investigador de Cumplimiento,Investigador de Cumprimento,Enquêteur conformité,محقق الامتثال
+25168,Investigador Corporativo,Investigador Corporativo,Enquêteur d'entreprise,محقق مؤسسي
+25169,Investigador de Crédito,Investigador de Crédito,Enquêteur crédit,محقق الائتمان
+25170,Investigador de Campo,Investigador de Campo,Enquêteur de terrain,محقق ميداني
+25174,Investigador Principal,Investigador Principal,Enquêteur principal,محقق رئيسي
+25175,Investigador Jurídico,Investigador Jurídico,Enquêteur juridique,محقق قانوني
+25176,Investigador Médico,Investigador Médico,Enquêteur médical,محقق طبي
+25177,Investigador de Personas,Investigador de Pessoas,Enquêteur de personnes,محقق الأشخاص
+25178,Investigador de Investigación,Investigador de Investigação,Chercheur enquêteur,باحث تحقيق
+25179,Investigador de Seguridad,Investigador de Segurança,Enquêteur sécurité,محقق السلامة
+25181,Investigador Senior,Investigador Sénior,Enquêteur senior,محقق أول
+25182,Investigador Especial,Investigador Especial,Enquêteur spécial,محقق خاص
+25183,Investigador de Tráfico,Investigador de Tráfego,Enquêteur de la circulation,محقق المرور
+25184,Vicepresidente de Investigación,Vice-Investigador,Enquêteur adjoint,نائب المحقق
+25198,Personal de Suministros,Pessoal de Abastecimento,Préposé aux approvisionnements,موظف التوريد
+25199,Asociado de Campaña,Associado de Campanha,Chargé de campagne,موظف الحملة
+25202,Operario de Llenado de Cepillos,Operador de Enchimento de Escovas,Ouvrier de remplissage de brosses,عامل تعبئة الفرش
+25206,Operario Ayudante de Bobinado de Bobinas,Ajudante de Bobinagem de Bobinas,Aide à l'enroulement des bobines,مساعد لف الملفات
+25208,Científico de Aplicaciones Técnicas,Cientista de Aplicações Técnicas,Scientifique en applications techniques,عالم التطبيقات التقنية
+25209,Ayudante de Reparación de Telares,Ajudante de Reparação de Teares,Aide réparateur de métiers à tisser,مساعد إصلاح الأنوال
+25213,Cargador de Barriles,Carregador de Barris,Chargeur de barils,عامل تحميل البراميل
+25216,Profesional de Educación Secundaria,Profissional do Ensino Secundário,Professionnel du lycée,محترف التعليم الثانوي
+25220,Profesor de Aula,Professor de Sala de Aula,Enseignant en classe,معلم الفصل
+25222,Profesor de Neurología,Professor de Neurologia,Enseignant en neurologie,معلم طب الأعصاب
+25227,Técnico en Biometría,Técnico de Biometria,Technicien en biométrie,فني القياسات الحيوية
+25228,Técnico Forense,Técnico Médico-Legal,Technicien médico-légal,فني الطب الشرعي
+25231,Técnico en Gastroenterología,Técnico de Gastroenterologia,Technicien en gastro-entérologie,فني أمراض الجهاز الهضمي
+25232,Técnico de Cámara Hiperbárica,Técnico de Câmara Hiperbárica,Technicien en caisson hyperbare,فني الغرفة فوق الضغط
+25234,Técnico Matemático,Técnico Matemático,Technicien en mathématiques,فني الرياضيات
+25240,Técnico de Remediación,Técnico de Remediação,Technicien de dépollution,فني المعالجة البيئية
+25245,Ajustador de Neumáticos,Ajustador de Pneus,Régleur de pneus,فني ضبط الإطارات
+25248,Prácticas Dentales,Estágio em Medicina Dentária,Stage dentaire,تدريب في طب الأسنان
+25249,Operador de Sala de Control,Operador de Sala de Controlo,Opérateur de salle de contrôle,مشغل غرفة التحكم
+25253,Coordinador de Mezclas,Coordenador de Mistura,Coordinateur de mélange,منسق الخلط
+25255,Mecánico de Cierre de Puertas,Mecânico de Fechaduras de Portas,Mécanicien de ferme-porte,ميكانيكي إغلاق الأبواب
+25256,Coordinador de Fundación,Coordenador de Fundação,Coordinateur de fondation,منسق المؤسسة
+25257,Coordinador de Masajes,Coordenador de Massagens,Coordinateur de massages,منسق المساج
+25258,Coordinador de Medicare,Coordenador de Medicare,Coordinateur Medicare,منسق ميديكير
+25259,Coordinador de Seguimiento,Coordenador de Monitorização,Coordinateur du suivi,منسق المراقبة
+25264,Trabajador de Fábrica de Telas y Textiles,Trabalhador de Fábrica de Tecidos e Têxteis,Ouvrier d'usine de tissus et textiles,عامل مصنع الأقمشة والمنسوجات
+25267,Pintor de Placas,Pintor de Placas,Peintre de plaques,دهّان الألواح
+25269,Constructor de Bandas,Construtor de Faixas,Constructeur de bandes,صانع الأحزمة
+25275,Fabricante de Paneles,Fabricante de Painéis,Fabricant de panneaux,صانع الألواح
+25276,Representante de Admisiones Escolares,Representante de Admissões Escolares,Chargé des admissions scolaires,ممثل قبول المدارس
+25277,Ayudante de Dobladora,Ajudante de Dobragem,Aide à la cintreuse,مساعد الثني
+25279,Ayudante de Chapado,Ajudante de Galvanização,Aide au placage,مساعد الطلاء بالصفائح
+25281,Director de Actividades,Diretor de Atividades,Directeur d'activités,مدير الأنشطة
+25282,Director de Vestuario,Diretor de Guarda-Roupa,Directeur des costumes,مدير الأزياء
+25284,Director de Fundación,Diretor de Fundação,Directeur de fondation,مدير المؤسسة
+25288,Clasificador de Bloques,Classificador de Blocos,Trieur de blocs,فارز الكتل
+25289,Reparador de Forros,Reparador de Forros,Réparateur de doublures,فني إصلاح البطانات
+25290,Peón de Patio,Trabalhador de Pátio,Manœuvre de cour,عامل الساحة
+25293,Editor de Arte,Editor de Arte,Éditeur artistique,محرر فني
+25294,Instalador de Molduras,Instalador de Acabamentos,Installateur de garnitures,فني تركيب الزخارف
+25304,Hombre de Forros,Homem de Forros,Ouvrier de doublures,عامل البطانات
+25306,Supervisor de Productos de Fieltro por Agujado,Supervisor de Produtos de Feltro por Agulhagem,Superviseur de feutre aiguilleté,مشرف منتجات اللباد بالإبر
+25309,Operario de Tanque de Azúcar Blanco,Operador de Tanque de Açúcar Branco,Opérateur de bac à sucre blanc,مشغل خزان السكر الأبيض
+25311,Becario Académico,Estagiário Académico,Stagiaire académique,متدرب أكاديمي
+25317,Supervisor de Laminado de Tejidos,Supervisor de Laminagem de Tecidos,Superviseur de contrecollage de tissus,مشرف تصفيح الأقمشة
+25318,Supervisor de Fundición a Presión,Supervisor de Fundição sob Pressão,Superviseur de fonderie sous pression,مشرف صب القوالب
+25331,Especialista en Radiadores de Automóviles,Especialista em Radiadores Automóveis,Spécialiste des radiateurs automobiles,أخصائي مشعات السيارات
+25333,Especialista en Conciliación de Caja,Especialista em Conciliação de Caixa,Spécialiste du rapprochement de caisse,أخصائي تسوية النقدية
+25336,Especialista en Despliegue de Correo Electrónico,Especialista em Implementação de Correio Eletrónico,Spécialiste du déploiement de courriel,أخصائي نشر البريد الإلكتروني
+25338,Especialista en Identificación de Campo,Especialista em Identificação de Campo,Spécialiste de l'identification sur le terrain,أخصائي تحديد الحقول
+25349,Especialista en Identificación de Sitios,Especialista em Identificação de Locais,Spécialiste de l'identification de sites,أخصائي تحديد المواقع
+25354,Enfermero de Planes,Enfermeiro de Planos,Infirmier de plan,ممرض الخطط
+25356,Supervisor del Departamento de Líneas,Supervisor do Departamento de Linhas,Superviseur du département lignes,مشرف قسم الخطوط
+25361,Jefe de Despacho de Energía,Chefe de Despacho de Energia,Chef répartiteur d'énergie,رئيس موزعي الطاقة
+25366,Despachador de Oficina General,Despachante de Escritório Geral,Standardiste de bureau général,موزع المكتب العام
+25370,Despachador de Seguridad Pública,Despachante de Segurança Pública,Standardiste de sécurité publique,موزع السلامة العامة
+25378,Asociado de Eventos Especiales de Venta Minorista,Associado de Eventos Especiais de Retalho,Employé d'événements spéciaux en commerce de détail,موظف الفعاليات الخاصة بالتجزئة
+25381,Mecánico de Dinkey,Mecânico de Dinkey,Mécanicien de locotracteur,ميكانيكي الدينكي
+25385,Asesor de Soluciones,Consultor de Soluções,Conseiller en solutions,مستشار الحلول
+25388,Operario de Configuración de Máquinas de Impresión de Diseños,Operador de Configuração de Máquinas de Impressão de Desenhos,Régleur de machines d'impression de motifs,عامل ضبط آلات طباعة التصاميم
+25389,Inspector de Botellas y Vidrio,Inspetor de Garrafas e Vidro,Inspecteur de bouteilles et verre,مفتش الزجاجات والزجاج
+25392,Ayudante de Extremo Húmedo,Ajudante de Final Húmido,Aide de la partie humide,مساعد الطرف الرطب
+25393,Alimentador de Tela,Alimentador de Tecido,Alimentateur de tissu,مغذي القماش
+25396,Inspector de Mantas,Inspetor de Cobertores,Inspecteur de couvertures,مفتش البطانيات
+25397,Inspector de Códigos,Inspetor de Códigos,Inspecteur de codes,مفتش الأكواد
+25398,Inspector de Cortinas,Inspetor de Cortinas,Inspecteur de rideaux,مفتش الستائر
+25400,Entrenador de Redes,Formador de Redes,Formateur en filets,مدرب الشباك
+25401,Inspector de Chapado,Inspetor de Galvanização,Inspecteur de placage,مفتش الطلاء
+25403,Inspector de Tejas,Inspetor de Telhas,Inspecteur de bardeaux,مفتش الألواح الخشبية
+25404,Inspector de Madejas,Inspetor de Meadas,Inspecteur d'écheveaux,مفتش الخيوط
+25406,Inspector de Tratamiento,Inspetor de Tratamento,Inspecteur de traitement,مفتش المعالجة
+25411,Operario de Rodillo de Alambre,Operador de Rolo de Arame,Ouvrier de laminoir à fil,عامل درفلة الأسلاك
+25412,Líder de Integración,Líder de Integração,Responsable d'intégration,قائد التكامل
+25413,Líder de Regulación,Líder de Regulamentação,Responsable réglementaire,قائد الشؤون التنظيمية
+25418,Superintendente de Mercado,Superintendente de Mercado,Superintendant de marché,مشرف السوق
+25422,Constructor de Muestras,Construtor de Amostras,Fabricant d'échantillons,صانع العينات
+25426,Operario de Banco de Formas de Sombrero,Operador de Banco de Formas de Chapéu,Ouvrier d'établi de formes de chapeaux,عامل طاولة قوالب القبعات
+25427,Operario Cosedor de Bordes de Rollo,Operador de Costura de Bordas de Rolo,Ouvrier de couture de bords de rouleau,عامل خياطة حواف الرولات
+25428,Instalador de Paneles de Concreto,Instalador de Painéis de Betão,Installateur de panneaux en béton,فني تركيب ألواح الخرسانة
+25429,Instalador de Paneles de Plástico,Instalador de Painéis de Plástico,Installateur de panneaux plastiques,فني تركيب الألواح البلاستيكية
+25431,Empleado de Recepción de No Alimentos,Empregado de Receção de Não Alimentares,Employé de réception de non-alimentaire,موظف استلام المواد غير الغذائية
+25433,Director de Ingeniería,Diretor de Engenharia,Directeur de l'ingénierie,مدير الهندسة
+25435,Empleado de Citas,Empregado de Marcações,Employé des rendez-vous,موظف المواعيد
+25437,Empleado de Paquetes,Empregado de Pacotes,Employé des lots,موظف الحزم
+25438,Probador de Ganado,Testador de Gado,Testeur de bétail,فاحص الماشية
+25439,Empleado de Dietas,Empregado de Dietas,Employé des régimes,موظف الحميات الغذائية
+25440,Empleado de Relieve,Empregado de Gaufrage,Employé de gaufrage,موظف النقش البارز
+25442,Empleado de Floristería,Empregado de Floricultura,Employé floral,موظف الزهور
+25444,Encargado de Llaves,Encarregado de Chaves,Préposé aux clés,موظف المفاتيح
+25447,Empleado de Registros,Empregado de Registos,Employé d'enregistrement,موظف التسجيلات
+25448,Probador de Válvulas,Testador de Válvulas,Testeur de vannes,فاحص الصمامات
+25450,Alimentador de Horno,Alimentador de Forno,Alimentateur de four,مغذي الفرن
+25452,Asistente de Adquisiciones,Assistente de Aquisições,Assistant aux acquisitions,مساعد المقتنيات
+25455,Asistente de Dietas,Assistente de Dietas,Assistant diététique,مساعد الحميات الغذائية
+25457,Asistente Fiscal,Assistente Fiscal,Assistant fiscal,مساعد مالي ضريبي
+25458,Asistente de Floristería,Assistente de Floricultura,Assistant floral,مساعد الزهور
+25460,Asistente de Galería,Assistente de Galeria,Assistant de galerie,مساعد المعرض
+25461,Constructor de Tacones Altos,Construtor de Saltos Altos,Monteur de talons hauts,صانع الكعوب العالية
+25463,Constructor de Tacones a Máquina,Construtor de Saltos à Máquina,Monteur de talons machine,صانع الكعوب بالآلة
+25464,Becario de Comunicación Interna,Estagiário de Comunicação Interna,Stagiaire en communication interne,متدرب في الاتصالات الداخلية
+25465,Ensamblador de Filtros,Montador de Filtros,Monteur de filtres,مجمّع المرشحات
+25470,Gerente de Enfermedades Crónicas,Gestor de Doenças Crónicas,Responsable des maladies chroniques,مدير الأمراض المزمنة
+25475,Gerente de Seguimiento,Gestor de Seguimento,Responsable du suivi,مدير المتابعة
+25490,Gestor de Casos de Telesalud,Gestor de Casos de Telessaúde,Gestionnaire de cas en télésanté,مدير حالات الرعاية عن بُعد
+25491,Gerente de Aula Virtual,Gestor de Sala de Aula Virtual,Responsable de classe virtuelle,مدير الفصول الافتراضية
+25496,Responsable de Instrumentación Química,Responsável de Instrumentação Química,Responsable de l'instrumentation chimique,مسؤول الأجهزة الكيميائية
+25500,Controlador de Propiedades,Controlador de Propriedades,Contrôleur des biens,مراقب الممتلكات
+25501,Asesor de Cuentas de Clientes,Consultor de Contas de Clientes,Conseiller en comptes clients,مستشار حسابات العملاء
+25504,Acabador de Troqueles,Acabador de Cunhos,Finisseur de matrices,عامل تشطيب القوالب
+25508,Alimentador de Cajas,Alimentador de Caixas,Alimentateur de boîtes,مغذي الصناديق
+25511,Alimentador de Llenado,Alimentador de Enchimento,Alimentateur de remplissage,مغذي التعبئة
+25517,Clasificador de Tarjetas,Classificador de Cartões,Trieur de cartes,فارز البطاقات
+25518,Director de Gestión de Productos,Diretor de Gestão de Produtos,Directeur de la gestion produit,مدير إدارة المنتجات
+25519,Supervisor de Chapado por Inmersión en Caliente,Supervisor de Galvanização por Imersão a Quente,Superviseur de galvanisation à chaud,مشرف الطلاء بالغمس الساخن
+25520,Gerente de Gestión de Productos,Gestor de Gestão de Produtos,Responsable de la gestion produit,مدير إدارة المنتجات
+25521,Supervisor de Operadores de Control de Redes,Supervisor de Operadores de Controlo de Redes,Superviseur des opérateurs de contrôle réseau,مشرف مشغلي التحكم بالشبكات
+25523,Reparador de Sistemas de Servicios,Reparador de Sistemas de Utilidades,Réparateur de systèmes utilitaires,فني إصلاح أنظمة المرافق
+25525,Recortador de Grano,Recortador de Grão,Ébarbeur de grain,مشذّب الحبوب
+25529,Ayudante de Cementación,Ajudante de Cimentação,Aide au cimentage,مساعد التسميت
+25539,Administrador de Adquisición de Talento,Administrador de Aquisição de Talentos,Administrateur d'acquisition de talents,مدير استقطاب المواهب
+25541,Administrador de Compensación a Trabajadores,Administrador de Compensação de Trabalhadores,Administrateur des accidents du travail,مدير تعويضات العمال
+25542,Supervisor de Embotellado,Supervisor de Engarrafamento,Superviseur d'embouteillage,مشرف التعبئة في الزجاجات
+25543,Supervisor de Cabina,Supervisor de Cabina,Superviseur de cabine,مشرف المقصورة
+25544,Coordinador de Reclutamiento en Campus,Coordenador de Recrutamento em Campus,Coordinateur du recrutement sur campus,منسق التوظيف في الحرم الجامعي
+25545,Supervisor de Cardado,Supervisor de Cardagem,Superviseur de cardage,مشرف التمشيط
+25546,Supervisor de Sala de Cardado,Supervisor de Sala de Cardagem,Superviseur de salle de cardage,مشرف قاعة التمشيط
+25553,Supervisor de Biselado,Supervisor de Biselagem,Superviseur de chanfreinage,مشرف الحواف
+25554,Supervisor de Filtración,Supervisor de Filtração,Superviseur de filtration,مشرف الترشيح
+25556,Supervisor de Juntas,Supervisor de Juntas,Superviseur des joints,مشرف الحشوات
+25557,Supervisor de Tablero de Fibra,Supervisor de Aglomerado Duro,Superviseur de panneaux de fibres dures,مشرف الألواح الليفية الصلبة
+25558,Supervisor de Inspección,Supervisor de Inspeção,Superviseur d'inspection,مشرف التفتيش
+25559,Supervisor de Limpieza,Supervisor de Limpeza,Superviseur de nettoyage,مشرف النظافة
+25560,Coordinador de Habilidades para la Vida,Coordenador de Competências para a Vida,Coordinateur de compétences de vie,منسق المهارات الحياتية
+25561,Supervisor de Microondas,Supervisor de Micro-ondas,Superviseur micro-ondes,مشرف الموجات الدقيقة
+25563,Oficial de Paracaídas,Oficial de Paraquedas,Officier de parachutes,ضابط المظلات
+25565,Supervisor de Plantación,Supervisor de Plantação,Superviseur de plantation,مشرف الزراعة
+25566,Supervisor de Patio de Juegos,Supervisor de Parque Infantil,Surveillant de cour de récréation,مشرف الملاعب
+25567,Supervisor de Polimerización,Supervisor de Polimerização,Superviseur de polymérisation,مشرف البلمرة
+25570,Supervisor de Cubiertos,Supervisor de Talheres,Superviseur de la coutellerie,مشرف أدوات المائدة
+25571,Supervisor de Aranceles,Supervisor de Tarifas,Superviseur des tarifs douaniers,مشرف التعرفة الجمركية
+25576,Empleado Federal de Distrito,Empregado Federal do Distrito,Greffier fédéral de district,موظف المحكمة الفيدرالية
+25580,Empleado de Existencias de Transformadores,Empregado de Stock de Transformadores,Magasinier de transformateurs,موظف مخزون المحولات
+25582,Científico de Laboratorio,Cientista de Bancada,Scientifique de laboratoire,عالم مخبري
+25583,Verificador de Forros,Verificador de Forros,Contrôleur de doublures,مفتش البطانات
+25584,Cortador Exterior,Cortador Exterior,Découpeur extérieur,قاطع خارجي
+25586,Cortador de Carreteras,Cortador de Estradas,Découpeur de routes,قاطع الطرق
+25588,Operario de Calentadores,Operador de Aquecedores,Opérateur de chauffage,مشغل المسخنات
+25589,Consejero de Personal,Conselheiro de Pessoal,Conseiller du personnel,مستشار الموظفين
+25590,Asistente de Campo de Golf,Assistente de Campo de Golfe,Assistant de terrain de golf,مساعد ملعب الغولف
+25595,Asistente de Patio Ferroviario,Assistente de Pátio Ferroviário,Assistant de gare de triage,مساعد ساحة السكك الحديدية
+25598,Ayudante de Pintor de Barcos,Ajudante de Pintor de Navios,Aide peintre de navires,مساعد دهان السفن
+25599,Ayudante de Pintor a Pistola,Ajudante de Pintor por Pulverização,Aide peintre au pistolet,مساعد الدهان بالرش
+25600,Ayudante de Topógrafo de Cadena,Ajudante de Agrimensor de Cadeia,Aide chaîne de géomètre,مساعد مساح السلسلة
+25603,Asesor de Cambios,Consultor de Mudanças,Conseiller en gestion du changement,مستشار التغيير
+25608,Director de Laboratorio Geofísico,Diretor de Laboratório Geofísico,Directeur du laboratoire géophysique,مدير المختبر الجيوفيزيائي
+25610,Director de Medios Interactivos,Diretor de Media Interativos,Directeur des médias interactifs,مدير الوسائط التفاعلية
+25613,Inspector de Hierro Dulce,Inspetor de Ferro Macio,Inspecteur de fer doux,مفتش الحديد اللين
+25614,Inspector de Rayos X,Inspetor de Raios X,Inspecteur aux rayons X,مفتش الأشعة السينية
+25615,Operario de Refrigeración por Amoníaco,Operador de Refrigeração por Amoníaco,Opérateur de réfrigération à l'ammoniac,عامل تبريد الأمونيا
+25620,Limpiador de Rieles Guía,Limpador de Calhas-Guia,Nettoyeur de rails de guidage,عامل تنظيف سكك التوجيه
+25637,Ayudante de Grabador,Ajudante de Gravador,Aide graveur à l'acide,مساعد النقش
+25638,Ayudante de Reparación,Ajudante de Reparação,Aide réparateur,مساعد الترميم
+25641,Ayudante de Almohadillado,Ajudante de Acolchoamento,Aide au rembourrage,مساعد الحشو
+25642,Analista de Revisión de Propuestas,Analista de Revisão de Propostas,Analyste de revue de propositions,محلل مراجعة المقترحات
+25644,Analista del Ciclo de Ingresos,Analista do Ciclo de Receitas,Analyste du cycle de revenus,محلل دورة الإيرادات
+25645,Ayudante de Urdimbre,Ajudante de Urdidura,Aide d'ourdissage,مساعد التحضير للنسيج
+25647,Trabajador de Callejón,Trabalhador de Beco,Ouvrier de ruelle,عامل الأزقة
+25651,Operario de Mosca,Operador de Mosca,Ouvrier de mouche,عامل الذباب
+25652,Trabajador de Ubicación,Trabalhador de Localização,Ouvrier de localisation,عامل المواقع
+25653,Controlador de Materiales,Controlador de Materiais,Contrôleur de matériaux,مراقب المواد
+25654,Operario de Parches,Operador de Remendos,Ouvrier de rapiéçage,عامل الترقيع
+25655,Operario de Masilla,Operador de Massa,Ouvrier au mastic,عامل المعجون
+25656,Director de Soporte de Ventas,Diretor de Apoio às Vendas,Directeur du support commercial,مدير دعم المبيعات
+25657,Gerente de Soporte de Ventas,Gestor de Apoio às Vendas,Responsable du support commercial,مدير دعم المبيعات
+25659,Asociado de Centro de Copiado,Associado de Centro de Cópias,Employé de centre de copies,موظف مركز النسخ
+25662,Máquina Constructora de Tacones,Máquina de Construção de Saltos,Machine à monter les talons,آلة صنع الكعوب
+25663,Auxiliar de Línea de Empaquetado,Auxiliar de Linha de Embalagem,Préposé à la ligne de conditionnement,مشرف خط التعبئة
+25670,Instalador de Carcasas,Instalador de Caixas,Installateur de boîtiers,فني تركيب الهياكل
+25673,Formador de Vida,Formador de Competências para a Vida,Formateur en compétences de vie,مدرب المهارات الحياتية
+25677,Preparador,Preparador,Préparateur,فني الإعداد
+25678,Auxiliar de Cocina,Auxiliar de Cozinha,Aide de cuisine,مساعد المطبخ
+25679,Auxiliar de Formación Profesional,Auxiliar de Formação Profissional,Aide à la formation professionnelle,مساعد التدريب المهني
+25680,Técnico de Acceso,Técnico de Acesso,Technicien d'accès,فني الوصول
+25681,Mezclador de Pieles,Misturador de Peles,Mélangeur de fourrures,خلاط الفراء
+25683,Técnico de Calidad,Técnico de Qualidade,Technicien qualité,فني الجودة
+25684,Técnico de Transporte,Técnico de Transportes,Technicien des transports,فني النقل
+25687,Aplicador,Aplicador,Applicateur,عامل التطبيق
+25689,Ingeniero de Combustión,Engenheiro de Combustão,Ingénieur en combustion,مهندس الاحتراق
+25692,Bobinador de Motores Eléctricos,Bobinador de Motores Elétricos,Bobineur de moteurs électriques,ملفّاف المحركات الكهربائية
+25693,Operario de Refrentado,Operador de Faceamento,Opérateur de dressage,عامل التسوية الوجهية
+25696,Endurecedor,Endurecedor,Opérateur de trempe,عامل التصليد
+25702,Constructor-Bobinador de Motores,Construtor-Bobinador de Motores,Monteur-bobineur de moteurs,فني بناء ولف المحركات
+25708,Ingeniero de Aparejos,Engenheiro de Guinchos,Ingénieur de treuil,مهندس الرافعات
+25709,Operario de Deshuesado de Carne,Operador de Desossa de Carne,Désosseur de viande,عامل نزع عظام اللحم
+25710,Prácticas en Música,Estágio em Música,Stage en musique,تدريب في الموسيقى
+25714,Operario de Montaje de Tapas de Latas,Operador de Montagem de Tampas de Latas,Régleur de sertissage de couvercles,عامل ضبط أغطية العلب
+25719,Redactor Jurídico,Redator Jurídico,Rédacteur juridique,كاتب قانوني
+25720,Cargador de Mercancías,Carregador de Mercadorias,Chargeur de fret,عامل تحميل البضائع
+25721,Profesor Auxiliar de Dietética,Professor Auxiliar de Dietética,Enseignant auxiliaire en diététique,معلم مساعد للتغذية
+25722,Operario de Corte de Bolsas,Operador de Corte de Sacos,Coupeur de sacs,عامل قطع الأكياس
+25726,Analista de Clasificación,Analista de Classificação,Analyste de classification,محلل التصنيف
+25729,Analista de Medicaid,Analista de Medicaid,Analyste Medicaid,محلل ميديكيد
+25730,Analista de Modelado,Analista de Modelação,Analyste de modélisation,محلل النمذجة
+25731,Operario de Rebobinado,Operador de Rebobinagem,Rebobineur,عامل إعادة اللف
+25732,Analista de Programación,Analista de Planeamento,Analyste de planification,محلل الجداول الزمنية
+25736,Peón de Planta de Hormigón,Trabalhador de Central de Betão,Manœuvre de centrale à béton,عامل مصنع الخرسانة
+25737,Capitán de Campo,Capitão de Campo,Chef d'équipe de terrain,قائد الميدان
+25739,Capitán de Máquina,Capitão de Máquina,Chef d'équipe machine,قائد الآلة
+25741,Capitán de Oficiales,Capitão de Oficiais,Capitaine des officiers,قائد الضباط
+25744,Capitán de Estación,Capitão de Estação,Capitaine de station,قائد المحطة
+25746,Operario de Máquina de Engrapado de Alambre,Operador de Máquina de Agrafagem de Arame,Opérateur de machine à piquer le fil,مشغل آلة تثبيت الأسلاك بالدبابيس
+25751,Operario de Reactor CD,Operador de Reator CD,Opérateur de réacteur CD,مشغل مفاعل CD
+25752,Operario de Destilador CD,Operador de Destilador CD,Opérateur d'alambic CD,مشغل مقطّر CD
+25756,Operario de Máquina de Escritura de Cheques,Operador de Máquina de Escrita de Cheques,Opérateur de machine à imprimer les chèques,مشغل آلة كتابة الشيكات
+25761,Líder Clínico Global,Líder Clínico Global,Responsable clinique mondial,قائد سريري عالمي
+25763,Operario de Unidad de Calibre Principal,Operador de Unidade de Calibre Principal,Opérateur d'unité de jauge de tête,مشغل وحدة القياس الرئيسية
+25767,Consultor Lean,Consultor Lean,Consultant Lean,مستشار الإنتاج الرشيق
+25770,Consultor Cuantitativo,Consultor Quantitativo,Consultant quantitatif,مستشار كمي
+25771,Operario de Bobinadora y Rebobinadora,Operador de Bobinadora e Rebobinadora,Opérateur de dévidoir et rebobineuse,مشغل المكبس وإعادة اللف
+25780,Becario de Administración,Estagiário de Administração,Stagiaire administration,متدرب في الإدارة
+25786,Consultor de Validación de Limpieza,Consultor de Validação de Limpeza,Consultant en validation de nettoyage,مستشار التحقق من التنظيف
+25789,Fabricante de Formularios,Fabricante de Formulários,Fabricant de formulaires,صانع النماذج
+25791,Limpiador Manual de Pieles,Limpador Manual de Peles,Nettoyeur manuel de fourrures,عامل تنظيف الفراء يدويًا
+25793,Limpiador de Pieles a Máquina,Limpador de Peles a Máquina,Nettoyeur machine de fourrures,عامل تنظيف الفراء آليًا
+25797,Operario de Recortadora de Filo Múltiple,Operador de Aparadora de Lâmina Múltipla,Opérateur de ébarbeuse à lames multiples,مشغل مشذّبة الحواف متعددة الشفرات
+25800,Operario de Cámara de Copia con Montaje Manual,Operador de Câmara de Cópia de Montagem Manual,Opérateur de caméra de copie et montage,مشغل كاميرا النسخ والتجميع اليدوي
+25804,Fabricante de Billetes,Fabricante de Bilhetes,Fabricant de billets,صانع التذاكر
+25817,Operario de Bolera,Operador de Pista de Bowling,Opérateur de bowling,مشغل صالة البولينغ
+25821,Operario de Escurridor de Carcasas,Operador de Escorredor de Carcaças,Opérateur de essoreuse de boîtiers,مشغل معصرة الهياكل
+25822,Operario Jefe de Consola,Operador Principal de Consola,Opérateur principal de console,كبير مشغلي وحدة التحكم
+25824,Operario de Consola de Transportador,Operador de Consola de Transportador,Opérateur de console de convoyeur,مشغل وحدة تحكم السير الناقل
+25826,Operario de Draga de Arrastre Diésel,Operador de Draga de Arrasto Diesel,Opérateur de drague à benne traînante diesel,مشغل كاسحة الجرف الديزل
+25828,Operario Eléctrico de Astillero,Operador Elétrico de Estaleiro,Opérateur électrique de chantier naval,مشغل الأحواض البحرية الكهربائية
+25833,Operario de Draga de Arrastre de Gasolina,Operador de Draga de Arrasto a Gasolina,Opérateur de drague à benne traînante à essence,مشغل كاسحة الجرف بالبنزين
+25835,Líder de Práctica Móvil,Líder de Prática Móvel,Responsable de pratique mobile,قائد الممارسة المتنقلة
+25836,Operario de Tripulación Aérea Naval,Operador de Tripulação Aérea Naval,Opérateur d'équipage aérien naval,مشغل طاقم الطيران البحري
+25853,Operario de Cinta de Sudadera,Operador de Fita de Suor,Opérateur de ruban de bandeau,مشغل شريط العرق
+25855,Operario de Cosido a Caballete,Operador de Costura a Cavalo,Opérateur de piqûre à cheval,مشغل الخياطة بالتثبيت الجانبي
+25857,Operario de Depósito de Soldadura,Operador de Deposição de Solda,Opérateur de dépôt de soudure,مشغل ترسيب اللحام
+25861,Operario de Contador de Etiquetas,Operador de Contador de Etiquetas,Opérateur de compteur d'étiquettes,مشغل عداد البطاقات
+25870,Probador de Crema,Testador de Creme,Testeur de crème,فاحص الكريمة
+25880,Representante de Cuentas por Pagar,Representante de Contas a Pagar,Représentant comptes fournisseurs,ممثل الحسابات الدائنة
+25883,Ingeniero de Teledetección,Engenheiro de Deteção Remota,Ingénieur de télédétection,مهندس الاستشعار عن بُعد
+25886,Ingeniero de Montacargas,Engenheiro de Monta-Cargas,Ingénieur de monte-charge,مهندس الرافعة الكهربائية
+25890,Probador de Urdimbre,Testador de Urdidura,Testeur d'ourdissage,فاحص السداة
+25891,Ayudante de Pintor de Puentes,Ajudante de Pintor de Pontes,Aide peintre de ponts,مساعد دهان الجسور
+25894,Administrador de Rehabilitación Profesional,Administrador de Reabilitação Profissional,Administrateur de réadaptation professionnelle,مدير التأهيل المهني
+25898,Soporte Administrativo Senior,Apoio Administrativo Sénior,Support administratif senior,دعم إداري أول
+25899,Gerente Técnico de Armas Aerotransportadas,Gestor Técnico de Armas Aerotransportadas,Responsable technique des armements aéroportés,مدير تقني للأسلحة الجوية
+25900,Gerente de Compilación y Publicación,Gestor de Build e Lançamento,Responsable build et publication,مدير البناء والإصدار
+25903,Gerente de Planificación de Necesidades de Materiales,Gestor de Planeamento de Necessidades de Materiais,Responsable de la planification des besoins en matières,مدير تخطيط احتياجات المواد
+25905,Responsable de Nómina,Responsável de Folha de Pagamento,Responsable de la paie,مسؤول الرواتب
+25907,Gerente de Análisis de Inteligencia de Señales,Gestor de Análise de Inteligência de Sinais,Responsable d'analyse du renseignement d'origine électromagnétique,مدير تحليل الاستخبارات الإشارية
+25908,Operario de Molienda de Madera,Operador de Moagem de Madeira,Broyeur de bois,عامل طحن الخشب
+25909,Examinador de Abogacía,Examinador da Ordem dos Advogados,Examinateur du barreau,فاحص نقابة المحامين
+25910,Clasificador de Frutas,Classificador de Frutos,Trieur de fruits,فارز الفاكهة
+25912,Peón de Vía,Trabalhador de Via,Manœuvre de voie,عامل السكك
+25913,Empleado de Registros de Inspección de Aeronaves,Empregado de Registos de Inspeção de Aeronaves,Employé des registres d'inspection d'aéronefs,موظف سجلات تفتيش الطائرات
+25914,Acabador de Cajas,Acabador de Caixas,Finisseur de boîtes,عامل تشطيب الصناديق
+25915,Cargador de Hornos,Carregador de Fornos,Enfourneur de fours,عامل تحميل الأفران
+25918,Manipulador de Acero,Manipulador de Aço,Manutentionnaire d'acier,عامل مناولة الفولاذ
+25919,Ayudante de Colada,Ajudante de Vazamento,Aide au coulage,مساعد الصب
+25920,Ayudante de Cocina,Ajudante de Cozinha,Aide cuisinier,مساعد الطهي
+25921,Procesador de Operaciones de Crédito,Processador de Operações de Crédito,Gestionnaire des opérations de crédit,معالج عمليات الائتمان
+25922,Asistente Médico de Cuidados Críticos,Assistente Médico de Cuidados Intensivos,Assistant médical en soins intensifs,مساعد طبيب الرعاية الحرجة
+25923,Ayudante de Caldera,Ajudante de Fogueiro,Aide chauffeur,مساعد الوقّاد
+25924,Auxiliar de Laboratorio de Inspección de Enlace,Auxiliar de Laboratório de Inspeção de Ligação,Assistant de laboratoire d'inspection de liaison,مساعد مختبر التفتيش الارتباطي
+25925,Ayudante de Sartén,Ajudante de Tacho,Aide de bassin,مساعد المقلاة
+25927,Técnico de Mantenimiento Multioficio,Técnico de Manutenção Multiofício,Technicien de maintenance polyvalent,فني صيانة متعدد الحرف
+25928,Técnico de Sellado de Aire Residencial,Técnico de Vedação de Ar Residencial,Technicien d'étanchéité à l'air résidentielle,فني عزل الهواء السكني
+25935,Administrador de Intercambio,Administrador de Intercâmbio,Administrateur d'échanges,مدير التبادل
+25936,Cortador de Forros,Cortador de Forros,Découpeur de doublures,قاطع البطانات
+25941,Técnico de Identificación Penitenciaria,Técnico de Identificação Prisional,Technicien d'identification pénitentiaire,فني تحديد هوية السجناء
+25944,Técnico Especialista en Endoscopia,Técnico Especialista em Endoscopia,Technicien spécialisé en endoscopie,فني تنظير متخصص
+25945,Técnico de Conversión de Combustible,Técnico de Conversão de Combustível,Technicien de conversion de combustible,فني تحويل الوقود
+25954,Técnico de Identificación de Piezas,Técnico de Identificação de Peças,Technicien d'identification de pièces,فني تحديد القطع
+25955,Técnico de Diálisis Renal,Técnico de Diálise Renal,Technicien en dialyse rénale,فني غسيل الكلى
+25962,Verificador de Facturación,Verificador de Faturação,Contrôleur de facturation,مدقق الفواتير
+25971,Verificador de Muestras,Verificador de Amostras,Contrôleur d'échantillons,فاحص العينات
+25974,Mecánico de Polipasto,Mecânico de Talha,Mécanicien de palan,ميكانيكي الرافعة
+25975,Mecánico de Misiles,Mecânico de Mísseis,Mécanicien de missiles,ميكانيكي الصواريخ
+25976,Mecánico de Central Eléctrica,Mecânico de Central Elétrica,Mécanicien de centrale électrique,ميكانيكي محطة الطاقة
+25980,Piloto de Vagón,Piloto de Vagão,Pilote de wagon,قائد عربة
+25982,Técnico de Codificación,Técnico de Codificação,Technicien de codage,فني الترميز
+25985,Piloto de Motor,Piloto de Motor,Pilote de moteur,قائد المحرك
+25987,Piloto de Incendios,Piloto de Combate a Incêndios,Pilote de lutte contre les incendies,طيار مكافحة الحرائق
+26000,Ayudante de Reparación de Resortes,Ajudante de Reparação de Molas,Aide réparateur de ressorts,مساعد إصلاح النوابض
+26001,Instalador de Viviendas a Medida,Instalador de Casas Personalizadas,Installateur de maisons sur mesure,فني تركيب المنازل المخصصة
+26002,Operario de Llenado,Operador de Enchimento,Ouvrier de remplissage,عامل التعبئة
+26004,Director de Gestión de Programas,Diretor de Gestão de Programas,Directeur de la gestion de programmes,مدير إدارة البرامج
+26005,Operario de Llenado de Cajas de Cocina,Operador de Enchimento de Caixas de Cozinha,Remplisseur de boîtes de cuisine,عامل تعبئة صناديق المطبخ
+26007,Planificador de Sitios,Planeador de Locais,Planificateur de site,مخطط الموقع
+26010,Coordinador de Citas,Coordenador de Marcações,Coordinateur de rendez-vous,منسق المواعيد
+26024,Especialista en Casos,Especialista em Casos,Spécialiste des dossiers,أخصائي الحالات
+26025,Especialista en Enfermedades Crónicas,Especialista em Doenças Crónicas,Spécialiste des maladies chroniques,أخصائي الأمراض المزمنة
+26027,Especialista en Acreditación,Especialista em Credenciação,Spécialiste de l'accréditation,أخصائي الاعتماد
+26029,Director de Educación,Diretor de Educação,Directeur de l'éducation,مدير التعليم
+26030,Especialista en Cumplimiento de Pedidos,Especialista em Atendimento de Pedidos,Spécialiste de l'exécution des commandes,أخصائي تنفيذ الطلبات
+26031,Especialista en Rehabilitación,Especialista em Habilitação,Spécialiste de la réadaptation,أخصائي التأهيل
+26035,Especialista en Fabricación,Especialista em Fabrico,Spécialiste de la fabrication,أخصائي التصنيع
+26036,Especialista en Resultados,Especialista em Resultados,Spécialiste des résultats,أخصائي النتائج
+26037,Especialista en Permisos,Especialista em Licenças,Spécialiste des autorisations,أخصائي التراخيص
+26038,Especialista en Publicaciones,Especialista em Publicações,Spécialiste de la publication,أخصائي النشر
+26040,Especialista en Salesforce,Especialista em Salesforce,Spécialiste Salesforce,أخصائي Salesforce
+26041,Especialista en Cribado,Especialista em Rastreio,Spécialiste du dépistage,أخصائي الفحص والتصفية
+26043,Ajustador de Fletes,Ajustador de Fretes,Régleur de fret,مسؤول تسوية الشحن
+26044,Director de Ventas de Reuniones Domiciliarias,Diretor de Vendas de Reuniões Domiciliárias,Directeur des ventes en réunions à domicile,مدير مبيعات الحفلات المنزلية
+26045,Operario de Carga y Limpieza de Barriles,Operador de Carga e Limpeza de Barris,Chargeur et nettoyeur de barils,عامل تحميل البراميل وتنظيفها
+26046,Máquina Lavadora de Barriles,Máquina de Lavagem de Barris,Machine de lavage de barils,آلة غسل البراميل
+26047,Ayudante de Montador de Torres,Ajudante de Montagem de Torres,Aide monteur de tours,مساعد تركيب الأبراج
+26048,Asociado de Cardiología,Associado de Cardiologia,Associé en cardiologie,موظف أمراض القلب
+26049,Asociado de Catering,Associado de Catering,Employé de restauration,موظف التموين
+26050,Asociado de Eventos,Associado de Eventos,Employé d'événements,موظف الفعاليات
+26053,Asociado de Relés,Associado de Relés,Associé relais,موظف المرحّلات
+26055,Clasificador de Baldosas,Classificador de Azulejos,Trieur de carreaux,فارز البلاط
+26056,Montador de Encimeras,Montador de Bancadas,Assembleur de plans de travail,مجمّع الأسطح الرخامية
+26057,Limpiador de Cocinas,Limpador de Cozinhas,Agent de nettoyage de cuisines,عامل تنظيف المطابخ
+26059,Montador de Tapas de Estuches,Montador de Tampas de Caixas,Assembleur de couvercles de boîtiers,مجمّع أغطية العلب
+26062,Inspector de Movimiento de Volante de Balance,Inspetor de Movimento de Volante de Balanço,Inspecteur de mouvement de balancier,مفتش حركة عجلة التوازن
+26063,Agente de Abrigos,Agente de Casacos,Agent des manteaux,وكيل المعاطف
+26064,Inspector de Laminador de Bandas en Caliente,Inspetor de Laminador de Tiras a Quente,Inspecteur de laminoir à chaud,مفتش درفلة الشرائح الساخنة
+26066,Terapeuta de Vida Infantil,Terapeuta de Vida Infantil,Thérapeute de la vie de l'enfant,معالج الحياة الطفولية
+26071,Inspector de Cojinetes,Inspetor de Rolamentos,Inspecteur de roulements,مفتش المحامل
+26072,Inspector de Coque,Inspetor de Coque,Inspecteur de coke,مفتش الكوك
+26074,Inspector de Calibres,Inspetor de Calibres,Inspecteur de jauges,مفتش القياسات
+26075,Inspector de Fugas,Inspetor de Fugas,Inspecteur de fuites,مفتش التسربات
+26077,Inspector Postal,Inspetor Postal,Inspecteur postal,مفتش البريد
+26078,Mecánico de Túnel de Viento,Mecânico de Túnel de Vento,Mécanicien de soufflerie,ميكانيكي نفق الرياح
+26079,Probador de Protectores de Hielo,Testador de Protetores de Gelo,Testeur de protections antigel,فاحص واقيات الجليد
+26080,Probador de Cambiadores de Discos,Testador de Trocadores de Discos,Testeur de changeurs de disques,فاحص مغيّرات الأسطوانات
+26082,Miembro del Equipo de Servicio de Comidas,Membro da Equipa de Serviço de Alimentação,Membre de l'équipe de restauration,عضو فريق خدمة الطعام
+26083,Administrador de Programas de Bienestar,Administrador de Programas de Bem-Estar,Administrateur de programmes de bien-être,مدير برامج الصحة والعافية
+26084,Ajustador de Cuero,Ajustador de Couro,Ajusteur de cuir,فني ضبط الجلود
+26087,Operario de Equipos de Suministro de Producción,Operador de Equipamentos de Abastecimento de Produção,Opérateur d'équipements d'approvisionnement de production,عامل معدات تزويد الإنتاج
+26088,Operario de Impresión por Rodillo,Operador de Impressão por Rolo,Opérateur d'impression au rouleau,عامل الطباعة بالأسطوانة
+26089,Montador Hidráulico,Montador Hidráulico,Monteur hydraulique,مجمّع الهيدروليك
+26090,Director de Servicios Humanos,Diretor de Serviços Humanos,Directeur des services humains,مدير الخدمات الإنسانية
+26091,Trabajador de Licencias de Control Animal,Trabalhador de Licenciamento de Controlo Animal,Agent de licences de contrôle animalier,عامل تراخيص مراقبة الحيوانات
+26093,Coordinador de Cursos de Extensión,Coordenador de Cursos de Extensão,Coordinateur des cours de formation continue,منسق دورات التعليم الإضافي
+26095,Coordinador de Manipulación de Materiales,Coordenador de Movimentação de Materiais,Coordinateur de manutention des matériaux,منسق مناولة المواد
+26096,Coordinador de Reclutamiento de Voluntarios,Coordenador de Recrutamento de Voluntários,Coordinateur du recrutement de bénévoles,منسق استقطاب المتطوعين
+26100,Lavador de Barriles,Lavador de Barris,Laveur de barils,عامل غسل البراميل
+26104,Reparador de Latas,Reparador de Latas,Réparateur de boîtes,عامل إصلاح العلب
+26106,Empleado de Alquiler de Equipos Audiovisuales,Empregado de Aluguer de Equipamento Audiovisual,Employé de location de matériel audiovisuel,موظف تأجير المعدات السمعية البصرية
+26107,Tecnólogo Creativo,Tecnólogo Criativo,Technologue créatif,تقني إبداعي
+26109,Operario de Colocación de Suelas,Operador de Colocação de Solas,Ouvrier de collage de semelles,عامل تركيب النعل
+26110,Operario Cosedor de Suelas,Operador de Costura de Solas,Ouvrier de couture de semelles,عامل خياطة النعل
+26111,Operario Cosedor de Suelas a Máquina,Operador de Costura de Solas,Ouvrier piqueur de semelles,عامل تثبيت النعال
+26115,Operario de Limpieza en Seco de Pieles,Operador de Limpeza a Seco de Peles,Ouvrier de nettoyage à sec des fourrures,عامل التنظيف الجاف للفراء
+26116,Montador de Vigas de Madera,Montador de Vigas de Madeira,Monteur de poutres en bois,مركّب العوارض الخشبية
+26119,Empleado de Préstamos de Productos Básicos,Empregado de Empréstimos de Mercadorias,Employé de prêts sur marchandises,موظف قروض السلع
+26123,Probador por Lotes,Testador de Lotes,Testeur de lots,فاحص الدفعات
+26124,Probador de Carga,Testador de Carga,Testeur de charge,فاحص الحمولة
+26125,Probador de Presión,Testador de Pressão,Testeur de pression,فاحص الضغط
+26131,Asistente de Recreación Terapéutica,Assistente de Recreação Terapêutica,Assistant en loisirs thérapeutiques,مساعد الترفيه العلاجي
+26133,Operario de Procesamiento Químico,Operador de Processamento Químico,Manœuvre de traitement chimique,عامل المعالجة الكيميائية
+26134,Prácticas de Ingeniería Civil,Estágio de Engenharia Civil,Stage en génie civil,تدريب في الهندسة المدنية
+26135,Ayudante de Operario de Taladro de Núcleo,Ajudante de Operador de Furadora de Núcleo,Aide opérateur de carotteuse,مساعد مشغل مثقاب اللب
+26136,Ayudante de Operario de Taladro de Columna,Ajudante de Operador de Furadora de Coluna,Aide opérateur de perceuse à colonne,مساعد مشغل المثقاب العمودي
+26137,Ayudante de Instalador de Contadores Eléctricos,Ajudante de Instalador de Contadores Elétricos,Aide installateur de compteurs électriques,مساعد فني تركيب العدادات الكهربائية
+26138,Ayudante de Reparador de Contadores Eléctricos,Ajudante de Reparador de Contadores Elétricos,Aide réparateur de compteurs électriques,مساعد فني إصلاح العدادات الكهربائية
+26139,Ayudante de Probador de Contadores Eléctricos,Ajudante de Testador de Contadores Elétricos,Aide testeur de compteurs électriques,مساعد فاحص العدادات الكهربائية
+26141,Ayudante de Instalador de Contadores de Gas,Ajudante de Instalador de Contadores de Gás,Aide installateur de compteurs à gaz,مساعد فني تركيب عدادات الغاز
+26142,Asesor de Juegos Senior,Consultor de Jogos Sénior,Conseiller senior en jeux,مستشار ألعاب أول
+26145,Acabador de Estuches,Acabador de Caixas,Finisseur de boîtiers,عامل تشطيب الهياكل
+26148,Pulidor de Armazones,Polidor de Estruturas,Polisseur de cadres,عامل تلميع الهياكل
+26152,Fabricante de Tela Filtrante,Fabricante de Tecido Filtrante,Fabricant de toile filtrante,صانع أقمشة الترشيح
+26153,Fabricante de Barritas de Fruta,Fabricante de Barras de Fruta,Fabricant de barres de fruits,صانع أعواد الفاكهة
+26162,Superintendente de Turno,Superintendente de Turno,Superintendant de poste,مشرف الوردية
+26163,Trabajador de Patio,Trabalhador de Pátio,Ouvrier de cour,عامل الساحة
+26165,Recortador de Bordes,Aparador de Bordas,Ébarbeur de bords,مشذّب الحواف
+26166,Recortador de Aves de Corral,Aparador de Aves,Parer de volaille,مشذّب الدواجن
+26170,Supervisor de Área de CD,Supervisor de Área CD,Superviseur de zone CD,مشرف منطقة CD
+26174,Analista de Soporte Funcional,Analista de Apoio Funcional,Analyste de support fonctionnel,محلل الدعم الوظيفي
+26179,Analista de Promoción Comercial,Analista de Promoção Comercial,Analyste de promotion commerciale,محلل الترويج التجاري
+26181,Director de Servicio de Campo,Diretor de Serviço de Campo,Directeur du service sur site,مدير خدمات الميدان
+26182,Cortador de Bordes,Cortador de Bordas,Découpeur de bords,قاطع الحواف
+26183,Examinador de Instalaciones,Examinador de Instalações,Contrôleur d'installations,مفتش المرافق
+26187,Asociado de Inventario y Conductor,Associado de Inventário e Motorista,Employé d'inventaire et chauffeur,موظف المخزون والسائق
+26192,Ayudante de Recubrimiento de Calderas,Ajudante de Revestimento de Caldeiras,Aide au revêtement de chaudières,مساعد تغطية المراجل
+26193,Ayudante de Acabado de Cemento,Ajudante de Acabamento de Cimento,Aide finisseur de ciment,مساعد تشطيب الإسمنت
+26194,Ayudante de Rociado de Cemento,Ajudante de Projeção de Cimento,Aide projeteur de ciment,مساعد رش الإسمنت
+26195,Ayudante de Secadora Continua,Ajudante de Secador Contínuo,Aide sécheur continu,مساعد المجفف المستمر
+26196,Ayudante de Montador de Elevadores,Ajudante de Montador de Elevadores,Aide monteur d'ascenseurs,مساعد فني تركيب المصاعد
+26197,Ayudante de Reparador de Elevadores,Ajudante de Reparador de Elevadores,Aide réparateur d'ascenseurs,مساعد فني إصلاح المصاعد
+26198,Ayudante de Aislante de Tuberías,Ajudante de Isolamento de Tubagens,Aide calorifugeur de tuyauteries,مساعد عزل الأنابيب
+26201,Bobinador de Tableros,Bobinador de Painéis,Enrouleur de panneaux,ملفّاف الألواح
+26206,Supervisor de Corte de Tejidos,Supervisor de Tosquia de Tecidos,Superviseur de tonte des tissus,مشرف قص الأقمشة
+26213,Supervisor de Curtido de Pieles,Supervisor de Curtimenta de Peles,Superviseur du tannage des fourrures,مشرف دباغة الفراء
+26214,Supervisor de Refinado de Grasas,Supervisor de Refinação de Gorduras,Superviseur du raffinage des graisses,مشرف تكرير الشحوم
+26217,Lavador de Redes,Lavador de Redes,Laveur de filets,عامل غسل الشباك
+26222,Supervisor de Fabricación de Soldadura,Supervisor de Fabrico de Solda,Superviseur de fabrication de soudure,مشرف صناعة اللحام
+26226,Supervisor de Almacén de Herramientas,Supervisor de Armazém de Ferramentas,Superviseur du magasin d'outillage,مشرف مستودع الأدوات
+26229,Supervisor de Esquilado de Lana,Supervisor de Tosquia de Lã,Superviseur de tonte de laine,مشرف جز الصوف
+26232,Líder de Soluciones,Líder de Soluções,Responsable des solutions,قائد الحلول
+26233,Líder de Estrategia,Líder de Estratégia,Responsable stratégie,قائد الاستراتيجية
+26236,Empleado de Reservas,Empregado de Reservas,Employé des réservations,موظف الحجوزات
+26238,Empleado de Directorio,Empregado de Lista Telefónica,Employé du répertoire,موظف الدليل
+26240,Empleado de Derivaciones,Empregado de Encaminhamentos,Employé des orientations,موظف الإحالات
+26241,Empleado de Registro,Empregado de Registo,Employé d'enregistrement,موظف السجل
+26243,Empleado de Horarios,Empregado de Horários,Employé des plannings,موظف الجداول الزمنية
+26244,Empleado Supervisor,Empregado Supervisor,Employé superviseur,موظف مشرف
+26245,Empleado de Plantillas,Empregado de Modelos,Employé des modèles,موظف النماذج
+26246,Empleado de Dientes,Empregado de Dentes,Employé dentaire,موظف الأسنان
+26247,Empleado Meteorológico,Empregado Meteorológico,Employé météo,موظف الأرصاد الجوية
+26249,Científico Lácteo,Cientista de Lacticínios,Scientifique laitier,عالم الألبان
+26253,Representante Viajante,Representante Itinerante,Représentant itinérant,مندوب متجول
+26258,Auxiliar de Congelación,Auxiliar de Congelação,Assistant congélation,مساعد التجميد
+26259,Auxiliar de Ministerio,Auxiliar de Ministro,Assistant de ministre,مساعد الوزير
+26260,Asistente Operativo,Assistente Operacional,Assistant opérationnel,مساعد تشغيلي
+26261,Auxiliar de Psicología,Assistente de Psicologia,Assistant en psychologie,مساعد نفسي
+26262,Máquina Cortadora de Tiras,Máquina de Corte de Tiras,Machine à découper les bandes,آلة قطع الشرائح
+26263,Auxiliar de Triaje,Assistente de Triagem,Assistant de triage,مساعد الفرز الطبي
+26266,Auxiliar de Formación Visual,Auxiliar de Formação Visual,Aide à la formation visuelle,مساعد التدريب البصري
+26268,Limpiador de Luces,Limpador de Luzes,Nettoyeur de luminaires,عامل تنظيف الإضاءة
+26269,Limpiador de Lana,Limpador de Lã,Nettoyeur de laine,عامل تنظيف الصوف
+26270,Médico Docente,Médico Docente,Médecin enseignant,طبيب هيئة التدريس
+26275,Reparador de Pieles,Reparador de Peles,Réparateur de fourrures,فني إصلاح الفراء
+26277,Trabajador de Mulas de Carga,Trabalhador de Mulas de Carga,Ouvrier de mulets de bât,عامل بغال النقل
+26281,Operario de Retirada,Operador de Retirada,Ouvrier de dépose,عامل الإزالة
+26286,Ensamblador de Pantallas de Impresión,Montador de Telas de Impressão,Monteur de cadres de sérigraphie,مجمّع شاشات الطباعة
+26287,Auxiliar de Catering,Auxiliar de Catering,Aide traiteur,مساعد التموين
+26289,Auxiliar de Garaje,Auxiliar de Garagem,Préposé au garage,مساعد الجراج
+26291,Director de Servicios Especiales,Diretor de Serviços Especiais,Directeur des services spéciaux,مدير الخدمات الخاصة
+26301,Especialista Investigador Supervisor,Especialista Investigador Supervisor,Spécialiste d'enquête superviseur,أخصائي تحقيق مشرف
+26303,Especialista en Vida de Transición,Especialista em Vida de Transição,Spécialiste de la vie en transition,أخصائي المعيشة الانتقالية
+26304,Manipulador de Tableros,Manipulador de Painéis,Manutentionnaire de panneaux,عامل مناولة الألواح
+26306,Aprendiz de Soldador Principal,Aprendiz de Soldador Principal,Apprenti soudeur principal,متدرب لحّام رئيسي
+26310,Ayudante de Operario de Mezcladora de Metal Fundido,Ajudante de Operador de Misturador de Metal Líquido,Aide opérateur de mélangeur de métal en fusion,مساعد مشغل خلاط المعدن المنصهر
+26318,Arquitecto de Intercambio,Arquiteto de Intercâmbio,Architecte d'échanges,مهندس معماري للتبادل
+26320,Becario de Marketing de Equipos Deportivos,Estagiário de Marketing de Equipas Desportivas,Stagiaire marketing d'équipes sportives,متدرب تسويق الفرق الرياضية
+26323,Líder Regulatorio,Líder Regulatório,Responsable réglementaire,قائد الشؤون التنظيمية
+26324,Instalador de Vallas,Instalador de Vedações,Installateur de clôtures,فني تركيب الأسوار
+26326,Instalador de Básculas,Instalador de Balanças,Installateur de bascules,فني تركيب الموازين
+26327,Preparador de Formas,Preparador de Formas,Préparateur de formes,مجهّز القوالب
+26329,Soporte de Oficina,Apoio de Escritório,Support de bureau,دعم المكتب
+26334,Director del Equipo de Estudio Infantil,Diretor da Equipa de Estudo Infantil,Directeur de l'équipe d'étude de l'enfant,مدير فريق دراسة الطفل
+26336,Equilibrador,Equilibrador,Équilibreur,موازن
+26337,Cargador de Frutas,Carregador de Frutas,Chargeur de fruits,عامل تحميل الفاكهة
+26338,Cargador Superior,Carregador Superior,Chargeur supérieur,عامل التحميل العلوي
+26344,Empleado de Control de Pedidos de Banco de Sangre,Empregado de Controlo de Pedidos do Banco de Sangue,Employé de contrôle des commandes de banque du sang,موظف مراقبة طلبات بنك الدم
+26345,Empleado de Pedidos de Alimentos y Bebidas,Empregado de Pedidos de Alimentos e Bebidas,Employé des commandes restauration,موظف طلبات الأغذية والمشروبات
+26346,Auxiliar de Transporte,Auxiliar de Transporte,Aide au transport,مساعد النقل
+26347,Operario de Llenado de Ruedas,Operador de Enchimento de Rodas,Ouvrier de remplissage de roues,عامل تعبئة العجلات
+26348,Examinador de Hilos,Examinador de Fios,Contrôleur de fils,فاحص الخيوط
+26349,Planificador de Calzado,Planeador de Calçado,Planificateur de chaussures,مخطط الأحذية
+26350,Director de Servicios de Salud a Domicilio,Diretor de Serviços de Saúde Domiciliária,Directeur des services de soins à domicile,مدير خدمات الرعاية الصحية المنزلية
+26352,Conductor Clase C,Condutor Classe C,Conducteur classe C,سائق الفئة C
+26360,Director de Servicios al Cliente,Diretor de Serviços ao Cliente,Directeur des services clients,مدير خدمة العملاء
+26361,Ayudante de Fabricante de Dulces,Ajudante de Fabrico de Doces,Aide fabricant de confiseries,مساعد صانع الحلويات
+26362,Consultor de Enmarcado,Consultor de Molduras,Conseiller en encadrement,مستشار التأطير
+26363,Consultor de Regalos,Consultor de Presentes,Conseiller cadeaux,مستشار الهدايا
+26364,Profesor de Biblioteca de Historiales Médicos,Professor de Biblioteca de Registos Clínicos,Professeur de bibliothèque des dossiers médicaux,أستاذ مكتبة السجلات الطبية
+26366,Consultor Organizacional,Consultor Organizacional,Consultant en organisation,مستشار تنظيمي
+26367,Ayudante de Perforador Rotativo,Ajudante de Perfurador Rotativo,Aide foreur rotatif,مساعد حفار دوار
+26372,Operario de Mezcladora Automática de Salmuera,Operador de Misturador Automático de Salmoura,Opérateur de mélangeur automatique de saumure,مشغل خلاط المحلول الملحي الآلي
+26376,Operario de Pavimentadora de Asfalto,Operador de Pavimentadora de Asfalto,Opérateur de finisseur d'enrobé,مشغل مرصفة الأسفلت
+26378,Operario de Separador de Tanque de Salmuera,Operador de Separador de Tanque de Salmoura,Opérateur de séparateur de bac à saumure,مشغل فاصل خزان المحلول الملحي
+26379,Operario de Prensa de Ensamblaje de Balas,Operador de Prensa de Montagem de Balas,Opérateur de presse d'assemblage de projectiles,مشغل مكبس تجميع المقذوفات
+26382,Mecánico de Baldosas Cerámicas,Mecânico de Azulejos Cerâmicos,Mécanicien de carrelage céramique,ميكانيكي البلاط السيراميك
+26383,Operario de Máquina Cortadora de Esquinas,Operador de Máquina de Corte de Cantos,Opérateur de machine à découper les coins,مشغل آلة قص الزوايا
+26386,Operario de Máquina Dobladora de Puños,Operador de Máquina de Dobragem de Punhos,Opérateur de machine à retourner les poignets,مشغل آلة ثني الأكمام
+26388,Operario de Máquina de Encolado Electrónico,Operador de Máquina de Colagem Eletrónica,Opérateur de machine de collage électronique,مشغل آلة اللصق الإلكترونية
+26389,Operador de Radar de Artillería de Campaña,Operador de Radar de Artilharia de Campanha,Opérateur radar d'artillerie de campagne,مشغل رادار المدفعية الميدانية
+26390,Operario de Prensa de Macetas,Operador de Prensa de Vasos,Opérateur de presse à pots de fleurs,مشغل مكبس أصص الزهور
+26391,Operario de Máquina de Cosecha de Frutas,Operador de Máquina de Colheita de Frutos,Opérateur de machine de récolte de fruits,مشغل آلة حصاد الفاكهة
+26396,Operario de Carretilla Elevadora de Alta Elevación,Operador de Empilhador de Elevação Alta,Opérateur de chariot élévateur à haut levage,مشغل رافعة شوكية عالية الرفع
+26398,Operario de Máquina de Esquinas de Cierre,Operador de Máquina de Cantos de Fecho,Opérateur de machine à coins de fermeture,مشغل آلة زوايا الإغلاق
+26400,Operario de Caldera de Baja Presión,Operador de Caldeira de Baixa Pressão,Opérateur de chaudière basse pression,مشغل مرجل الضغط المنخفض
+26407,Mecánico de Línea de Peaje,Mecânico de Linha de Portagem,Mécanicien de ligne de péage,ميكانيكي خط الرسوم
+26408,Operario de Máquina de Cosecha de Hortalizas,Operador de Máquina de Colheita de Legumes,Opérateur de machine de récolte de légumes,مشغل آلة حصاد الخضروات
+26413,Operador AS400,Operador AS400,Opérateur AS400,مشغل AS400
+26416,Ayudante de Operario de Máquina de Bolsas,Ajudante de Operador de Máquina de Sacos,Aide opérateur de machine à sacs,مساعد مشغل آلة الأكياس
+26417,Operario de Rebarbadora,Operador de Rebarbadora,Opérateur d'ébavureuse,مشغل مزيلة البرادة
+26418,Operario de Subproductos,Operador de Subprodutos,Opérateur de sous-produits,مشغل المنتجات الثانوية
+26419,Operario de Calculadora,Operador de Calculadora,Opérateur de calcul,مشغل الحاسبة
+26421,Líder de Cambios,Líder de Mudanças,Responsable du changement,قائد التغيير
+26422,Ayudante de Operario de Bomba de Hormigón,Ajudante de Operador de Bomba de Betão,Aide opérateur de pompe à béton,مساعد مشغل مضخة الخرسانة
+26424,Líder Creativo,Líder Criativo,Responsable créatif,قائد إبداعي
+26425,Operario Deshidratador,Operador de Desidratação,Opérateur de déshydratation,مشغل مجفف
+26426,Operario Desvulcanizador,Operador de Devulcanização,Opérateur de dévulcanisation,مشغل مزيل الفلكنة
+26430,Operario de Ojales,Operador de Ilhós,Opérateur d'œillets,مشغل العيون المعدنية
+26432,Operario de Fusión,Operador de Fusão,Opérateur de fusion,مشغل الدمج
+26433,Operario de Caldera de Cocción,Operador de Cozedor,Opérateur de chaudière de cuisson,مشغل مرجل الطبخ
+26437,Asociado de Lotes,Associado de Lotes,Employé de lots,موظف الدفعات
+26438,Operario de Ingletadora,Operador de Meia-Esquadria,Opérateur de coupe d'onglets,مشغل آلة القص بزاوية
+26440,Operario de Boquilla,Operador de Bocal,Opérateur de buse,مشغل الفوهة
+26441,Operario de Perfiladora,Operador de Perfilagem,Opérateur de profileuse,مشغل آلة التشكيل
+26445,Operario de Ranuradora,Operador de Ranhuradora,Opérateur de fraiseuse à fentes,مشغل آلة الشق
+26446,Coordinador de Desarrollo de Personal RN,Coordenador de Desenvolvimento de Pessoal RN,Coordinateur du développement du personnel IDE,منسق تطوير الكوادر التمريضية
+26447,Operario de Flejadora,Operador de Cintadora,Opérateur de cerclage,مشغل آلة التعبئة بالأشرطة
+26448,Operario de Succión,Operador de Sucção,Opérateur d'aspiration,مشغل الشفط
+26449,Operario de Apisonadora,Operador de Compactadora,Opérateur de tasseuse,مشغل الدكّاك
+26450,Asociado de Docencia,Associado de Ensino,Assistant d'enseignement,موظف التدريس
+26453,Operario de Trampa,Operador de Armadilha,Opérateur de piège,مشغل المصيدة
+26454,Operario de Tuftadora,Operador de Tufting,Opérateur de tuftage,مشغل آلة التوفت
+26457,Operario de Cabrestante,Operador de Guincho,Opérateur de treuil,مشغل الونش
+26461,Asociado,Associado,Associé,موظف مشارك
+26462,Llamador,Chamador,Appeleur,المنادي
+26463,Técnico Cardíaco,Técnico Cardíaco,Technicien cardiaque,فني القلب
+26465,Encargado de Planta,Encarregado de Piso,Chef de plateau,مشرف الأرضية
+26466,Corredor,Corredor,Coureur,سائق السباق
+26467,Auxiliar de Mesas,Empregado de Mesa,Employé de salle,مساعد الخدمة
+26468,Ayudante de Receptor,Ajudante de Apanhador,Aide receveur,مساعد الاستقبال
+26469,Ayudante de Tejedor de Punto,Ajudante de Tricotador,Aide tricoteur,مساعد الحياكة
+26470,Ayudante de Reparador de Tejidos,Ajudante de Remendador,Aide raccommodeur,مساعد الترقيع
+26471,Instalador de Hornos de Trabajos en Chapa Metálica,Instalador de Fornos de Chapa Metálica,Installateur de fours de tôlerie,فني تركيب أفران الصفائح المعدنية
+26472,Ayudante de Lavado,Ajudante de Lavagem,Aide au lavage,مساعد الغسيل
+26473,Probador BI,Testador BI,Testeur BI,فاحص BI
+26474,Probador de Chips,Testador de Chips,Testeur de puces,فاحص الرقائق
+26475,Probador de Caídas,Testador de Quedas,Testeur de chute,فاحص السقوط
+26476,Probador de Transmisiones,Testador de Transmissões,Testeur de transmissions,فاحص ناقل الحركة
+26479,Becario de Auditoría,Estagiário de Auditoria,Stagiaire en audit,متدرب في التدقيق
+26480,Capitán de Policía,Capitão da Polícia,Capitaine de police,نقيب الشرطة
+26481,Becario de Análisis de Datos,Estagiário de Análise de Dados,Stagiaire en analyse de données,متدرب تحليل البيانات
+26482,Becario del Departamento de Noticias,Estagiário do Departamento de Notícias,Stagiaire au service d'information,متدرب قسم الأخبار
+26483,Asesor de Adquisiciones,Consultor de Aquisições,Conseiller en acquisitions,مستشار الاستحواذ
+26486,Asesor de Huéspedes,Consultor de Hóspedes,Conseiller clientèle,مستشار الضيوف
+26487,Asesor Científico,Consultor Científico,Conseiller scientifique,مستشار علمي
+26492,Mecánico y Soldador,Mecânico e Soldador,Mécanicien et soudeur,ميكانيكي ولحّام
+26495,Mecánico de Juguetes,Mecânico de Brinquedos,Mécanicien de jouets,ميكانيكي الألعاب
+26498,Superintendente de Campo de Golf,Superintendente de Campo de Golfe,Superintendant de terrain de golf,مشرف ملعب الغولف
+26503,Cargador de Núcleos,Carregador de Núcleos,Chargeur de noyaux,عامل تحميل النوى
+26505,Inspector de Filtros de Boquilla,Inspetor de Filtros de Boquilha,Inspecteur de bouts filtres,مفتش فلاتر السجائر
+26509,Cortador de Bandas,Cortador de Bandas,Découpeur de bandes,قاطع الأشرطة
+26511,Ayudante Instructor de Psiquiatría,Auxiliar Instrutor de Psiquiatria,Instructeur auxiliaire en psychiatrie,معلم مساعد للطب النفسي
+26517,Líder de Analítica,Líder de Analítica,Responsable analytique,قائد التحليلات
+26519,Líder de Vigilancia,Líder de Vigilância,Responsable de surveillance,قائد المراقبة
+26524,Técnico de Cerámica,Técnico de Cerâmica,Technicien en céramique,فني السيراميك
+26525,Técnico de Certificación,Técnico de Certificação,Technicien de certification,فني الاعتماد
+26528,Técnico Criptológico,Técnico Criptológico,Technicien cryptologue,فني التشفير
+26529,Técnico de Gemas,Técnico de Gemas,Technicien en gemmes,فني الأحجار الكريمة
+26530,Técnico de Hemodiálisis,Técnico de Hemodiálise,Technicien en hémodialyse,فني غسيل الدم
+26531,Técnico de Sistemas de Información,Técnico de Sistemas de Informação,Technicien en systèmes d'information,فني نظم المعلومات
+26534,Técnico de Páginas,Técnico de Páginas,Technicien de pages,فني الصفحات
+26536,Técnico de Permisos,Técnico de Licenças,Technicien des autorisations,فني التراخيص
+26538,Técnico de Cribado,Técnico de Rastreio,Technicien de dépistage,فني الفحص والتصفية
+26539,Técnico de Liquidaciones,Técnico de Liquidações,Technicien de règlements,فني التسويات
+26540,Técnico de Empalmes,Técnico de Emendas,Technicien d'épissage,فني الوصلات
+26541,Técnico de Estructuras,Técnico de Estruturas,Technicien des structures,فني الهياكل
+26542,Técnico de Tabletas,Técnico de Comprimidos,Technicien de comprimés,فني الأقراص
+26544,Fabricante de Arcilla,Fabricante de Argila,Fabricant d'argile,صانع الطين
+26546,Fabricante de Cajones,Fabricante de Gavetas,Fabricant de tiroirs,صانع الأدراج
+26548,Capa de Láminas,Montador de Folhas,Poseur de feuilles,عامل تركيب الصفائح
+26549,Cosedor de Láminas,Costureiro de Folhas,Piqueur de feuilles,عامل خياطة الصفائح
+26551,Analista de Categorías,Analista de Categorias,Analyste de catégories,محلل الفئات
+26555,Analista de Transformación,Analista de Transformação,Analyste de transformation,محلل التحول
+26559,Ajustador de Núcleos,Ajustador de Núcleos,Ajusteur de noyaux,فني تركيب النوى
+26560,Ajustador de Vías,Ajustador de Vias,Ajusteur de voies,فني تركيب المسار
+26562,Tirador de Cadenas,Puxador de Correntes,Tireur de chaîne,عامل سحب السلاسل
+26563,Operario de Colisiones,Operador de Colisões,Opérateur de collisions,عامل التصادم
+26564,Operario de Presa,Operador de Barragem,Ouvrier de barrage,عامل السد
+26566,Operario de Accionamiento,Operador de Acionamento,Ouvrier d'entraînement,عامل المحرك
+26567,Operario de Escape,Operador de Exaustão,Ouvrier d'échappement,عامل العادم
+26568,Operario de Frente,Operador de Frente,Ouvrier de front de taille,عامل الواجهة
+26570,Operario de Comedor,Operador de Refeitório,Ouvrier de cantine,عامل المطعم
+26571,Operario de Escoria,Operador de Escória,Ouvrier des scories,عامل الخبث
+26572,Operario de Lodos,Operador de Lamas,Ouvrier de boues,عامل الطين الدائري
+26574,Operario de Cola,Operador de Cauda,Ouvrier de queue,عامل الذيل
+26575,Operario de Blanco,Operador de Alvo,Ouvrier de cible,عامل الهدف
+26576,Operario de Tolva de Descarga,Operador de Tremonha de Descarga,Ouvrier de culbuteur,عامل منصة التفريغ
+26578,Procesador Electrónico,Processador Eletrónico,Processeur électronique,معالج إلكتروني
+26579,Ayudante de Operario de Mesa de Bastidor,Ajudante de Operador de Mesa de Bastidor,Aide opérateur de table à cadre,مساعد مشغل طاولة الإطار
+26580,Procesador de Correo,Processador de Correio,Trieur de courrier,معالج البريد
+26581,Alimentador de Papel,Alimentador de Papel,Alimentateur de papier,مغذي الورق
+26583,Operario de Retirada de Chatarra,Operador de Retirada de Sucata,Ouvrier de retrait de rebuts,عامل نزع الخردة
+26584,Operario de Recubrimiento de Azúcar,Operador de Revestimento de Açúcar,Ouvrier d'enrobage au sucre,عامل تغليف السكر
+26589,Planificador de Procesamiento Automático de Datos,Planeador de Processamento Automático de Dados,Planificateur de traitement automatique des données,مخطط المعالجة الآلية للبيانات
+26590,Ingeniero de Reubicación de Automóviles,Engenheiro de Relocalização de Automóveis,Ingénieur de relocalisation automobile,مهندس نقل السيارات
+26592,Ingeniero de Fundición a Presión,Engenheiro de Fundição sob Pressão,Ingénieur de fonderie sous pression,مهندس صب القوالب
+26598,Preparador de Conformadora,Preparador de Modeladora,Régleur de façonneuse,مجهّز المشكّلة
+26599,Reparador de Fundición,Reparador de Fundição,Réparateur de fonderie,فني إصلاح الصب
+26604,Desarrollador de Diapositivas,Desenvolvedor de Diapositivos,Développeur de diapositives,مطور الشرائح
+26608,Profesor de Educación Especial,Professor de Educação Especial,Enseignant en éducation spécialisée,معلم التربية الخاصة
+26610,Empleado de Báscula de Caña de Campo,Empregado de Balança de Cana no Campo,Employé de pesée de canne sur champ,موظف ميزان قصب السكر الميداني
+26611,Ejecutivo Financiero,Executivo Financeiro,Cadre financier,مدير مالي تنفيذي
+26613,Coordinador de Grandes Donantes,Coordenador de Grandes Doadores,Coordinateur des grands donateurs,منسق كبار المتبرعين
+26617,Coach de Recuperación,Treinador de Recuperação,Coach de rétablissement,مدرب التعافي
+26622,Operario de Flejado,Operador de Cintagem,Ouvrier de cerclage,عامل التثبيت بالأشرطة
+26623,Operario de Muelle,Operador de Cais,Ouvrier de quai,عامل الرصيف
+26624,Operario de Hielo,Operador de Gelo,Ouvrier de glaçage,عامل التثليج
+26625,Operario de Piezas,Operador de Peças,Ouvrier de pièces,عامل القطع
+26626,Auxiliar Administrativo,Auxiliar Administrativo,Aide administratif,مساعد إداري
+26629,Director de Vida Asistida,Diretor de Vida Assistida,Directeur de la vie assistée,مدير السكن المدعوم
+26630,Responsable de Recepción,Responsável de Receção,Responsable de la réception,مسؤول الاستلام
+26633,Director de Residencia,Diretor de Residência,Directeur de résidence,مدير السكن الجامعي
+26634,Director de Recreación Terapéutica,Diretor de Recreação Terapêutica,Directeur des loisirs thérapeutiques,مدير الترفيه العلاجي
+26635,Superintendente de Distrito,Superintendente de Distrito,Superintendant de district,مشرف المنطقة
+26636,Limpiador de Filtros de Malla,Limpador de Filtros de Rede,Nettoyeur de tamis filtrants,عامل تنظيف مصافي الشبك
+26637,Limpiador de Filtros de Agua,Limpador de Filtros de Água,Nettoyeur de filtres à eau,عامل تنظيف فلاتر المياه
+26638,Ensamblador de Combustible,Montador de Combustível,Assembleur de carburant,مجمّع الوقود
+26641,Clasificador de Envoltorios,Classificador de Embrulhos,Trieur d'emballages,فارز الأغلفة
+26648,Alimentador de Existencias,Alimentador de Stock,Alimentateur de stock,مغذي المخزون
+26649,Fabricante de Cuerpos de Sombrero de Copa,Fabricante de Corpos de Cartola,Fabricant de corps de hauts-de-forme,صانع أجسام القبعات العالية
+26655,Operario de Cortadora de Latas,Operador de Cortadora de Latas,Opérateur de coupe de boîtes,عامل قطع العلب
+26657,Cortador de Muestras,Cortador de Amostras,Découpeur d'échantillons,قاطع العينات
+26659,Inspector de Gafas,Inspetor de Óculos,Inspecteur de lunettes,مفتش النظارات
+26660,Inspector de Enmarcado,Inspetor de Enquadramento,Inspecteur d'encadrement,مفتش التأطير
+26661,Inspector de Colchones,Inspetor de Colchões,Inspecteur de matelas,مفتش المراتب
+26662,Inspector de Losas,Inspetor de Lajes,Inspecteur de dalles,مفتش الألواح
+26664,Inspector de Barniz,Inspetor de Verniz,Inspecteur de vernis,مفتش الورنيش
+26666,Prácticas Deportivas,Estágio Desportivo,Stage sportif,تدريب رياضي
+26668,Representante de Licencias,Representante de Licenciamento,Représentant des licences,ممثل التراخيص
+26669,Becario de Merchandising,Estagiário de Merchandising,Stagiaire merchandising,متدرب في التسويق بالمتجر
+26671,Becario de Fotografía,Estagiário de Fotografia,Stagiaire photo,متدرب تصوير
+26672,Representante de Promociones,Representante de Promoções,Représentant promotions,ممثل العروض الترويجية
+26673,Asesor de Documentos,Consultor de Documentos,Conseiller documentaire,مستشار الوثائق
+26675,Asesor Privado,Consultor Privado,Conseiller privé,مستشار خاص
+26679,Auxiliar de Baños,Auxiliar de Balneário,Préposé aux bains,مساعد الحمامات
+26680,Encargado de Lote,Encarregado de Parque,Préposé au parking,موظف الساحة
+26685,Operario de Llenado de Tableros,Operador de Enchimento de Painéis,Ouvrier de remplissage de panneaux,عامل تعبئة الألواح
+26687,Consultor Independiente de Belleza,Consultor Independente de Beleza,Conseiller beauté indépendant,مستشار تجميل مستقل
+26690,Consultor de Habilidades para la Vida,Consultor de Competências para a Vida,Consultant en compétences de vie,مستشار المهارات الحياتية
+26698,Operario de Equipos de Limpieza y Lavado,Operador de Equipamentos de Limpeza e Lavagem,Opérateur d'équipements de nettoyage et de lavage,مشغل معدات التنظيف والغسيل
+26701,Operario de Rodillo de Tallo o Trituradora,Operador de Rolo de Caule ou Triturador,Opérateur de rouleau à tiges ou concasseur,مشغل درفيل الساق أو المطحنة
+26703,Coordinador de Fletamentos,Coordenador de Fretamentos,Coordinateur d'affrètement,منسق الاستئجار
+26704,Coordinador de Psicología,Coordenador de Psicologia,Coordinateur en psychologie,منسق علم النفس
+26705,Coordinador de Derivaciones,Coordenador de Encaminhamentos,Coordinateur des orientations,منسق الإحالات
+26706,Coordinador de Vestuario,Coordenador de Guarda-Roupa,Coordinateur de garde-robe,منسق الملابس
+26716,Operario de Portaabrazaderas,Operador de Porta-Grampos,Opérateur de porte-pinces,مشغل حامل المشابك
+26718,Operario de Pulverizadora de Carbón,Operador de Pulverizador de Carvão,Opérateur de broyeur à charbon,مشغل مطحنة الفحم
+26722,Operario de Puerta de Descarga,Operador de Porta de Descarga,Opérateur de porte de déchargement,مشغل باب التفريغ
+26723,Operario de Abrazadera de Puertas,Operador de Grampo de Portas,Opérateur de serre-porte,مشغل مشبك الأبواب
+26729,Operario de Prensa de Pegado,Operador de Prensa de Colagem,Opérateur de presse de collage,مشغل مشبك اللصق
+26731,Operario Apilador de Heno,Operador de Empilhadora de Feno,Opérateur d'empileuse de foin,مشغل رافعة تكديس القش
+26739,Operario de Multisensor,Operador de Multissensor,Opérateur multicapteur,مشغل متعدد المستشعرات
+26745,Operario de Perfiladora de Formas,Operador de Perfilagem de Formas,Opérateur de profileuse de formes,مشغل آلة تشكيل الأشكال
+26748,Operario de Perforadora de Techos,Operador de Perfuratriz de Tetos,Opérateur de boulonneuse de toit,مشغل مثقاب تثبيت السقف
+26752,Operario de Vertedero Sanitario,Operador de Aterro Sanitário,Opérateur de décharge contrôlée,مشغل مكب النفايات الصحي
+26753,Operario de Abrazadera de Bastidores,Operador de Grampo de Caixilhos,Opérateur de serre-châssis,مشغل مشبك الإطارات
+26755,Operario de Motor de Escoria,Operador de Motor de Escória,Opérateur de moteur à scories,مشغل محرك الخبث
+26765,Operario de Cocción de Malezas,Operador de Cozedura de Ervas Daninhas,Opérateur de cuisson des mauvaises herbes,مشغل طهي الأعشاب الضارة
+26766,Operario de Cultivo de Levadura,Operador de Cultura de Levedura,Opérateur de culture de levure,مشغل مزرعة الخميرة
+26774,Ayudante de Observador,Ajudante de Observador,Aide observateur,مساعد المراقب
+26781,Tecnólogo de Arena,Tecnólogo de Areia,Technologue des sables,تقني الرمال
+26783,Director Acuático,Diretor Aquático,Directeur aquatique,مدير الأنشطة المائية
+26785,Director de Pesquerías,Diretor de Pescas,Directeur des pêcheries,مدير مصايد الأسماك
+26786,Director de Modelado,Diretor de Modelação,Directeur de la modélisation,مدير النمذجة
+26789,Mecánico de Máquinas de Pinball,Mecânico de Máquinas de Pinball,Mécanicien de flippers,ميكانيكي آلات البينبول
+26791,Editor de Publicidad,Editor de Publicidade,Éditeur publicitaire,محرر الإعلانات
+26792,Verificador de Color,Verificador de Cor,Contrôleur des couleurs,مدقق الألوان
+26793,Verificador de Contenidos,Verificador de Conteúdos,Contrôleur de contenus,مدقق المحتوى
+26801,Verificador de Envíos,Verificador de Expedições,Contrôleur des expéditions,مدقق الشحنات
+26804,Asesor de Mejoras para el Hogar,Consultor de Melhorias para a Casa,Conseiller en amélioration de l'habitat,مستشار تحسين المنزل
+26807,Analista de Atención Gestionada,Analista de Cuidados Geridos,Analyste en soins gérés,محلل الرعاية المدارة
+26813,Auxiliar de Planificación Urbana,Auxiliar de Planeamento Urbano,Assistant en urbanisme,مساعد التخطيط العمراني
+26814,Examinador de Terrenos,Examinador de Terrenos,Examinateur de terrains,فاحص الأراضي
+26815,Examinador de Nóminas,Examinador de Folhas de Pagamento,Contrôleur de paie,فاحص الرواتب
+26816,Examinador de Trenes,Examinador de Comboios,Examinateur de trains,فاحص القطارات
+26819,Oficial de Jubilación,Oficial de Reforma,Agent des retraites,موظف التقاعد
+26820,Coach de Aseguramiento de Calidad,Treinador de Garantia da Qualidade,Coach en assurance qualité,مدرب ضمان الجودة
+26821,Probador de Reguladores,Testador de Reguladores,Testeur de régulateurs,فاحص المنظّمات
+26822,Probador de Muestreadores,Testador de Amostradores,Testeur d'échantillonneurs,فاحص أجهزة أخذ العينات
+26825,Superintendente de División,Superintendente de Divisão,Superintendant de division,مشرف القسم
+26827,Revelador de Rayos X,Revelador de Raios X,Développeur de radiographies,مظهّر الأشعة السينية
+26828,Fabricante de Botones,Fabricante de Botões,Fabricant de boutons,صانع الأزرار
+26838,Recortador Manual de Neumáticos,Aparador Manual de Pneus,Ébarbeur manuel de pneus,مشذّب الإطارات يدويًا
+26846,Ingeniero de Respaldo,Engenheiro de Backup,Ingénieur de secours,مهندس احتياطي
+26847,Ingeniero de Exploración,Engenheiro de Prospeção,Ingénieur d'exploration,مهندس الاستكشاف
+26850,Recortador de Pieles,Aparador de Peles,Ébarbeur de fourrures,مشذّب الفراء
+26851,Ingeniero Inspector,Engenheiro Inspetor,Ingénieur inspecteur,مهندس التفتيش
+26855,Ingeniero Matemático,Engenheiro Matemático,Ingénieur mathématicien,مهندس رياضي
+26858,Peón Exterior,Trabalhador Exterior,Manœuvre extérieur,عامل خارجي
+26866,Aprendiz de Pintor y Mecánico de Carrocerías,Aprendiz de Pintor e Mecânico de Carroçarias,Apprenti peintre et mécanicien carrosserie,متدرب دهان وميكانيكي هياكل السيارات
+26868,Líder de Mercado de Ventas,Líder de Mercado de Vendas,Responsable du marché commercial,قائد سوق المبيعات
+26877,Técnico de Rectificado de Perfiles,Técnico de Retificação de Perfis,Technicien de rectification de profils,فني تجليخ المقاطع
+26879,Ayudante de Limpieza de Alfombras,Ajudante de Limpeza de Tapetes,Aide au nettoyage de tapis,مساعد تنظيف السجاد
+26884,Encargado de Puerta,Porteiro,Portier,حارس الباب
+26887,Supervisor de Calentamiento y Mezcla,Supervisor de Aquecimento e Mistura,Superviseur de chauffage et mélange,مشرف التسخين والخلط
+26890,Operario de Corte de Impresión,Operador de Corte de Impressão,Opérateur de coupe d'impression,مشغل قص المطبوعات
+26891,Planificador de Gestión de Recursos,Planeador de Gestão de Recursos,Planificateur de gestion des ressources,مخطط إدارة الموارد
+26892,Supervisor de Sección de Balas Trazadoras,Supervisor de Secção de Balas Traçadoras,Superviseur de section de balles traçantes,مشرف قسم الرصاص المتتبع
+26893,Asociado de Gestión de Proveedores,Associado de Gestão de Fornecedores,Employé de gestion des fournisseurs,موظف إدارة الموردين
+26895,Ensamblador de Bolas,Montador de Bolas,Assembleur de balles,مجمّع الكرات
+26898,Ayudante de Máquina de Recubrimiento,Ajudante de Máquina de Revestimento,Aide machine de revêtement,مساعد آلة الطلاء
+26900,Ayudante de Tintorería,Ajudante de Tinturaria,Aide à la teinturerie,مساعد مصبغة
+26901,Ayudante de Sala de Tintes,Ajudante de Sala de Tinturaria,Aide de salle de teinture,مساعد قاعة الصباغة
+26902,Ayudante de Pesaje de Tintes,Ajudante de Pesagem de Corantes,Aide au pesage des colorants,مساعد وزن الأصباغ
+26904,Ayudante de Moldeador de Hierro,Ajudante de Moldador de Ferro,Aide mouleur de fonte,مساعد صب الحديد
+26908,Supervisor de Taladro Helicoidal,Supervisor de Broca Helicoidal,Superviseur de tarière,مشرف المثقاب الحلزوني
+26909,Supervisor de Subproductos,Supervisor de Subprodutos,Superviseur des sous-produits,مشرف المنتجات الثانوية
+26910,Supervisor de Ebanistería,Supervisor de Marcenaria,Superviseur d'ébénisterie,مشرف النجارة
+26912,Supervisor de Trabajos en Madera,Supervisor de Trabalhos em Madeira,Superviseur de travaux de menuiserie,مشرف أعمال النجارة
+26914,Supervisor de Concesiones,Supervisor de Concessões,Superviseur des concessions,مشرف الامتيازات
+26915,Supervisor de Corrugadora,Supervisor de Canelador,Superviseur de cannelure,مشرف آلة التموج
+26916,Supervisor Criptológico,Supervisor Criptológico,Superviseur cryptologique,مشرف التشفير
+26917,Supervisor de Citología,Supervisor de Citologia,Superviseur de cytologie,مشرف علم الخلايا
+26919,Supervisor de Grabado,Supervisor de Gravação,Superviseur de gravure,مشرف النقش
+26921,Instructor de SIG,Formador de SIG,Formateur SIG,مدرب نظم المعلومات الجغرافية
+26922,Supervisor de Insecticidas,Supervisor de Insecticidas,Superviseur des insecticides,مشرف المبيدات الحشرية
+26926,Supervisor de Escáner,Supervisor de Scanner,Superviseur de scanner,مشرف الماسح الضوئي
+26927,Supervisor de Clasificación,Supervisor de Triagem,Superviseur de tri,مشرف الفرز
+26928,Supervisor de Empalmes,Supervisor de Emendas,Superviseur d'épissage,مشرف الوصلات
+26931,Supervisor de Transmisores,Supervisor de Transmissores,Superviseur des émetteurs,مشرف أجهزة الإرسال
+26933,Supervisor de Cinta Tejida,Supervisor de Fita Tecida,Superviseur de sangles tissées,مشرف الشريط المنسوج
+26935,Gerente de Acreditación,Gestor de Acreditação,Responsable de l'accréditation,مدير الاعتماد
+26937,Gerente de Licitaciones,Gestor de Propostas,Responsable des appels d'offres,مدير المناقصات
+26942,Gerente de Depósito,Gestor de Depósito,Responsable de dépôt,مدير المستودع
+26944,Gerente de Reclamaciones,Gestor de Reclamações,Responsable des réclamations,مدير الشكاوى
+26947,Acabador de Moldes,Acabador de Moldes,Finisseur de moules,عامل تشطيب القوالب
+26948,Gerente Multicultural,Gestor Multicultural,Responsable multiculturel,مدير التنوع الثقافي
+26949,Gerente de Operaciones,Gestor de Operações,Responsable des opérations,مدير العمليات
+26950,Acabador de Papel,Acabador de Papel,Finisseur de papier,عامل تشطيب الورق
+26951,Gerente PST,Gestor PST,Responsable PST,مدير PST
+26952,Gerente de Refugio,Gestor de Refúgio,Responsable de refuge,مدير الملجأ
+26953,Gerente de Salarios,Gestor de Salários,Responsable des salaires,مدير الرواتب
+26955,Gerente de Especificaciones,Gestor de Especificações,Responsable des spécifications,مدير المواصفات
+26957,Representante de Participación Comunitaria,Representante de Envolvimento Comunitário,Représentant de l'engagement communautaire,ممثل المشاركة المجتمعية
+26960,Asociado de Precios,Associado de Preços,Employé de tarification,موظف التسعير
+26961,Asociado de Saneamiento,Associado de Saneamento,Employé de salubrité,موظف النظافة الصحية
+26962,Asociado de Aprovisionamiento,Associado de Aprovisionamento,Employé d'approvisionnement,موظف المشتريات
+26966,Manipulador de Barriles,Manipulador de Barris,Manutentionnaire de barils,عامل مناولة البراميل
+26974,Operario de Armado de Pedidos y Carga,Operador de Montagem e Carga de Pedidos,Opérateur de préparation et chargement de commandes,عامل تجهيز الطلبات وتحميلها
+26976,Administrador de Exportaciones,Administrador de Exportação,Administrateur des exportations,مدير التصدير
+26978,Operario de Lavadora de Carbón,Operador de Lavagem de Carvão,Opérateur de laverie de charbon,مشغل غسل الفحم
+26988,Becario de Aseguramiento de Calidad,Estagiário de Garantia da Qualidade,Stagiaire en assurance qualité,متدرب ضمان الجودة
+26990,Reparador de Colores,Reparador de Cores,Réparateur de couleurs,فني إصلاح الألوان
+26995,Operario de Preparación de Montaje de Básculas,Operador de Preparação de Montagem de Balanças,Opérateur de préparation d'assemblage de balances,عامل تجهيز تجميع الموازين
+27006,Lavador de Calderas,Lavador de Caldeiras,Laveur de chaudières,عامل غسل المراجل
+27011,Operario de Unión Compuesta,Operador de Ligação Composta,Ouvrier de liaison composite,عامل الترابط المركب
+27020,Gerente de Alianzas con Socios,Gestor de Alianças com Parceiros,Responsable des alliances partenaires,مدير تحالفات الشركاء
+27028,Examinador Forestal,Examinador Florestal,Contrôleur forestier,فاحص الغابات
+27031,Aprendiz de Pulidor de Lentes de Instrumentos,Aprendiz de Polidor de Lentes de Instrumentos,Apprenti polisseur de lentilles d'instruments,متدرب مجلّي عدسات الأدوات
+27033,Técnico de Empaquetado,Técnico de Embalagem,Technicien de conditionnement,فني التعبئة
+27041,Operario de Cepillado,Operador de Escovagem,Ouvrier de brossage,عامل التنظيف بالفرشاة
+27042,Inspector de Esterillas de Barriles,Inspetor de Tapetes de Pipas,Inspecteur de tapis de barriques,مفتش حصائر البراميل
+27043,Inspector de Arrendamiento de Patrones,Inspetor de Locação de Moldes,Inspecteur de location de modèles,مفتش تأجير النماذج
+27045,Constructor de Cadenas de Patrones,Construtor de Cadeias de Moldes,Constructeur de chaînes de modèles,صانع سلاسل النماذج
+27047,Probador de Vacío de Latas,Testador de Vácuo de Latas,Testeur de vide de boîtes,فاحص تفريغ العلب
+27051,Cortador de Troncos,Cortador de Troncos,Découpeur de rondins,قاطع الجذوع
+27052,Limpiador de Libros,Limpador de Livros,Nettoyeur de livres,عامل تنظيف الكتب
+27053,Limpiador de Pieles,Limpador de Peles,Nettoyeur de peaux,عامل تنظيف الجلود
+27054,Empleado de Mostrador de Bolera,Empregado de Balcão de Bowling,Employé de comptoir de bowling,موظف مكتب صالة البولينغ
+27060,Empleado de Charcutería,Empregado de Charcutaria,Employé de charcuterie,موظف المأكولات الجاهزة
+27061,Empleado de Depósitos,Empregado de Depósitos,Employé des dépôts,موظف الودائع
+27062,Empleado de Depósito en Garantía,Empregado de Depósito em Garantia,Employé de séquestre,موظف الضمان
+27075,Aprendiz de Reparador de Telares,Aprendiz de Reparador de Teares,Apprenti réparateur de métiers à tisser,متدرب إصلاح الأنوال
+27092,Operario de Horno,Operador de Forno,Opérateur de four,مشغل الفرن
+27094,Operario de Rodillo de Papel,Operador de Rolo de Papel,Rouleur de papier,عامل درفلة الورق
+27099,Asistente de Depósito en Garantía,Assistente de Depósito em Garantia,Assistant de séquestre,مساعد الضمان
+27100,Investigador de Riesgos,Investigador de Riscos,Enquêteur des risques,محقق المخاطر
+27103,Asistente de Trading,Assistente de Trading,Assistant trading,مساعد التداول
+27105,Ayudante de Revestimiento de Cabeza Caliente,Ajudante de Revestimento de Topo Quente,Aide au revêtement de la tête chaude,مساعد تبطين القمة الساخنة
+27106,Ayudante de Operario de Máquina de Revestimiento,Ajudante de Operador de Máquina de Revestimento,Aide opérateur de machine de revêtement,مساعد مشغل آلة التبطين
+27108,Agente de Exportación,Agente de Exportação,Agent export,وكيل التصدير
+27109,Agente de Báscula,Agente de Balança,Agent de pesée,وكيل الميزان
+27110,Ayudante de Voladura,Ajudante de Detonação,Aide au tir de mine,مساعد التفجير
+27111,Montador de Trituradoras,Montador de Britadores,Monteur de concasseurs,مجمّع الكسارات
+27113,Ayudante de Cizalla,Ajudante de Guilhotina,Aide cisaille,مساعد المقص
+27115,Conductor de Caballos de Exhibición,Condutor de Cavalos de Exposição,Conducteur de chevaux de concours,سائق خيول العرض
+27118,Departamento de Edición,Departamento de Edição,Service éditorial,قسم التحرير
+27119,Controlador de Suministros,Controlador de Abastecimento,Contrôleur des approvisionnements,مراقب الإمدادات
+27121,Trabajador de Pico y Pala,Trabalhador de Picareta e Pá,Ouvrier à la pioche et à la pelle,عامل المعول والمجرفة
+27125,Ayudante de Molinero de Grano,Ajudante de Moleiro de Grão,Aide meunier,مساعد طحن الحبوب
+27126,Ayudante de Ingeniero de Calentadores,Ajudante de Engenheiro de Aquecedores,Aide ingénieur des chauffages,مساعد مهندس المسخنات
+27127,Ayudante de Operario de Calentadores,Ajudante de Operador de Aquecedores,Aide opérateur de chauffage,مساعد مشغل المسخنات
+27128,Ayudante de Sala de Calderas,Ajudante de Sala de Aquecedores,Aide de salle de chauffe,مساعد غرفة التسخين
+27129,Ayudante de Calentador de Láminas,Ajudante de Aquecedor de Chapas,Aide au chauffage des tôles,مساعد تسخين الصفائح
+27137,Comprador,Comprador,Acheteur,المتسوق
+27139,Operario de Rayas,Operador de Riscas,Opérateur de rayures,عامل الخطوط
+27140,Pulidor de Ruedas,Polidor de Rodas,Polisseur de roues,عامل تلميع العجلات
+27141,Clasificador de Bolsas,Classificador de Sacos,Trieur de sacs,فارز الأكياس
+27142,Clasificador de Películas,Classificador de Filmes,Trieur de films,فارز الأفلام
+27143,Empleado de Pedidos de Cajas,Empregado de Pedidos de Caixas,Préparateur de commandes de boîtes,موظف طلبات الصناديق
+27145,Consultor de Ventas de Reuniones Domiciliarias,Consultor de Vendas de Reuniões Domiciliárias,Conseiller des ventes en réunions à domicile,مستشار مبيعات الحفلات المنزلية
+27148,Coordinador de Merchandising de Comercio Electrónico,Coordenador de Merchandising de Comércio Eletrónico,Coordinateur merchandising e-commerce,منسق التسويق الإلكتروني
+27150,Operario de Almidón Seco Automático,Operador de Amido Seco Automático,Opérateur d'amidon sec automatique,مشغل النشا الجاف الآلي
+27152,Operario de Máquina Decoradora de Botones,Operador de Máquina de Decoração de Botões,Opérateur de machine à décorer les boutons,مشغل آلة تزيين الأزرار
+27155,Consultor de Cosméticos,Consultor de Cosméticos,Conseiller en cosmétiques,مستشار مستحضرات التجميل
+27156,Consultor de Decoración,Consultor de Decoração,Conseiller en décoration,مستشار الديكور
+27159,Operario de Máquina de Cocción de Alimentos,Operador de Máquina de Cozedura de Alimentos,Opérateur de machine de cuisson des aliments,مشغل آلة طهي الأطعمة
+27162,Recepcionista de Bienvenida,Recepcionista,Accueillant,موظف الاستقبال
+27165,Consultor de Optimización,Consultor de Otimização,Consultant en optimisation,مستشار التحسين
+27169,Operario de Máquina de Selección de Plumas,Operador de Máquina de Seleção de Penas,Opérateur de machine de tri des plumes,مشغل آلة فرز الريش
+27170,Operario Cortador de Tabaco de Fumar,Operador de Corte de Tabaco para Fumar,Opérateur de coupe de tabac à fumer,مشغل قاطع تبغ التدخين
+27171,Operario de Máquina de Limpieza a Vapor,Operador de Máquina de Limpeza a Vapor,Opérateur de machine de nettoyage à vapeur,مشغل آلة التنظيف بالبخار
+27173,Clasificador de Tarjetas,Classificador de Cartões,Classificateur de cartes,مصنّف البطاقات
+27178,Rodillo de Existencias,Rolo de Stock,Rouleau de stock,درفيل المخزون
+27189,Probador de Aisladores,Testador de Isoladores,Testeur d'isolateurs,فاحص العوازل
+27190,Probador de Básculas,Testador de Balanças,Testeur de balances,فاحص الموازين
+27192,Director de Servicios Ambientales,Diretor de Serviços Ambientais,Directeur des services environnementaux,مدير الخدمات البيئية
+27194,Auxiliar de Plataforma,Auxiliar de Plataforma,Préposé au quai,مساعد المنصة
+27199,Supervisor de Comedor Infantil,Supervisor de Refeitório Infantil,Surveillant de cantine enfantine,مشرف مطعم الأطفال
+27200,Instructor de Justicia Penal,Formador de Justiça Criminal,Formateur en justice pénale,مدرب العدالة الجنائية
+27206,Supervisor de Nave de Empaquetado,Supervisor de Armazém de Embalagem,Superviseur de hangar de conditionnement,مشرف مستودع التعبئة
+27212,Supervisor de Almacén de Jarabe,Supervisor de Armazém de Xarope,Superviseur de hangar à sirop,مشرف مستودع الشراب
+27216,Operario de Piezas de Automóviles,Operador de Peças Automóveis,Manutentionnaire de pièces auto,عامل مناولة قطع غيار السيارات
+27217,Agente Especial Cibernético,Agente Especial Cibernético,Agent spécial cyber,عميل خاص للأمن السيبراني
+27219,Agente de Extensión Doméstica,Agente de Extensão Doméstica,Agent de vulgarisation domestique,وكيل الإرشاد المنزلي
+27220,Agente de Extensión Marítima,Agente de Extensão Marítima,Agent de vulgarisation maritime,وكيل الإرشاد البحري
+27229,Representante de Contratos,Representante de Contratos,Représentant des contrats,ممثل العقود
+27230,Representante de Discapacidad,Representante para a Deficiência,Représentant handicap,ممثل ذوي الإعاقة
+27231,Operario de Capas de Acero,Operador de Camadas de Aço,Ouvrier de couches d'acier,عامل طبقات الفولاذ
+27234,Máquina para Trabajador Agrícola,Máquina para Trabalhador Agrícola,Machine pour ouvrier agricole,آلة عامل المزرعة
+27235,Director de Renta Fija,Diretor de Rendimento Fixo,Directeur des revenus fixes,مدير الدخل الثابت
+27237,Director de Grupo SVP,Diretor de Grupo SVP,Directeur de groupe SVP,مدير مجموعة نائب رئيس أول
+27238,Subgerente de Gestión de Calidad,Gestor Adjunto de Gestão da Qualidade,Directeur adjoint du management qualité,مساعد مدير إدارة الجودة
+27239,Técnico de Calidad de Combustible,Técnico de Qualidade de Combustível,Technicien qualité carburant,فني جودة الوقود
+27241,Gerente de Metal,Gestor de Metal,Responsable métal,مدير المعادن
+27242,Consultor de Integridad de Datos,Consultor de Integridade de Dados,Consultant en intégrité des données,مستشار سلامة البيانات
+27245,Operario de Planta de Manipulación de Materiales a Granel,Operador de Central de Manuseamento de Materiais a Granel,Opérateur d'installation de manutention de vrac,مشغل محطة مناولة المواد السائبة
+27260,Lavador de Frutas,Lavador de Frutos,Laveur de fruits,عامل غسل الفاكهة
+27303,Hombre de Hilo,Homem de Fios,Ouvrier des fils,عامل الغزل
+27313,Empleado de Fuente de Soda,Empregado de Fonte de Refrigerantes,Employé de fontaine à soda,موظف مشروبات غازية
+27314,Mecánico de Agua Blanda,Mecânico de Água Mole,Mécanicien en eau adoucie,ميكانيكي المياه المحلاة
+27319,Técnico de Imagen,Técnico de Imagem,Technicien imagerie,فني التصوير
+27320,Constructor de Puertas de Horno,Construtor de Portas de Forno,Monteur de portes de four,صانع أبواب الأفران
+27325,Auxiliar de Mezcla de Jarabe,Auxiliar de Mistura de Xarope,Assistant de mélange de sirop,مساعد خلط الشراب
+27332,Instalador de Bombas de Agua Subterránea,Instalador de Bombas de Água Subterrânea,Installateur de pompes d'eau souterraine,فني تركيب مضخات المياه الجوفية
+27333,Limpiador de Carbón,Limpador de Carbono,Nettoyeur de carbone,عامل تنظيف الكربون
+27337,Ensamblador de Bolsas Utilitarias,Montador de Sacos Utilitários,Assembleur de sacs utilitaires,مجمّع الأكياس متعددة الاستخدامات
+27338,Ensamblador de Bombas de Agua,Montador de Bombas de Água,Assembleur de pompes à eau,مجمّع مضخات المياه
+27342,Empaquetador de Coches,Embalador de Carros,Emballeur de voitures,عامل تعبئة السيارات
+27344,Empaquetador de Alimentos,Embalador de Alimentos,Emballeur alimentaire,عامل تعبئة الأغذية
+27346,Empaquetador Inspector,Embalador Inspetor,Emballeur inspecteur,مفتش التعبئة
+27347,Empaquetador a Máquina,Embalador a Máquina,Emballeur machine,عامل التعبئة الآلية
+27349,Empaquetador de Planta,Embalador de Fábrica,Emballeur d'usine,عامل تعبئة المصنع
+27350,Empaquetador de Camiones,Embalador de Camiões,Emballeur de camions,عامل تحميل الشاحنات
+27351,Mezclador Húmedo,Misturador Húmido,Mélangeur humide,خلاط رطب
+27352,Bobinador de Torno,Bobinador de Torno,Bobineur de tour,ملفّاف المخرطة
+27354,Líder de Adquisiciones,Líder de Aquisições,Responsable des acquisitions,قائد الاستحواذ
+27356,Ayudante de Piloto de Avión,Ajudante de Piloto de Avião,Aide pilote d'avion,مساعد طيار الطائرة
+27357,Pintor de Tacones,Pintor de Saltos,Peintre de talons,دهّان الكعوب
+27358,Operario de Divisor,Operador de Divisor,Opérateur de séparateur,عامل الفاصل
+27359,Llenador de Barriles,Enchedor de Barris,Remplisseur de barils,عامل تعبئة البراميل
+27364,Operario de Máquina Cortadora de Tiras,Operador de Máquina de Corte de Tiras,Opérateur de machine de découpe de bandes,مشغل آلة قص الشرائح
+27370,Especialista Certificado en Apoyo entre Pares,Especialista Certificado em Apoio entre Pares,Spécialiste certifié en pair-aidance,أخصائي دعم الأقران المعتمد
+27371,Especialista en Retención de Clientes,Especialista em Retenção de Clientes,Spécialiste de la rétention client,أخصائي الاحتفاظ بالعملاء
+27373,Especialista en Retención de Clientes,Especialista em Retenção de Clientes,Spécialiste de la fidélisation client,أخصائي الاحتفاظ بالعملاء
+27375,Pulidor de Extremos,Polidor de Extremidades,Polisseur d'extrémités,مجلّي الأطراف
+27376,Especialista Epic Willow,Especialista Epic Willow,Spécialiste Epic Willow,أخصائي Epic Willow
+27378,Especialista en Enriquecimiento de la Vida,Especialista em Enriquecimento de Vida,Spécialiste de l'enrichissement de la vie,أخصائي إثراء الحياة
+27386,Asociado de Promociones,Associado de Promoções,Employé de promotions,موظف العروض الترويجية
+27387,Auxiliar de Terapia Recreativa,Auxiliar de Terapia Recreativa,Aide en thérapie récréative,مساعد العلاج بالترفيه
+27389,Operario Manual de Batidor,Operador Manual de Batedor,Ouvrier à la main de batteur,عامل الخلاط اليدوي
+27391,Operario Manual de Cajón,Operador Manual de Gaveta,Ouvrier de tiroir à la main,عامل الدرج يدويًا
+27392,Operario Manual de Dibujo,Operador Manual de Desenho,Ouvrier de tracé à la main,عامل الرسم يدويًا
+27393,Operario Manual de Plantilla,Operador Manual de Gabarito,Ouvrier de gabarit à la main,عامل القوالب يدويًا
+27394,Operario Manual de Caldera,Operador Manual de Caldeira,Ouvrier de chaudière à la main,عامل المرجل يدويًا
+27395,Operario Manual de Calibrado,Operador Manual de Calibragem,Ouvrier de calibrage à la main,عامل التدريج يدويًا
+27396,Cortador de Ácido,Cortador de Ácido,Découpeur à l'acide,قاطع الحمض
+27401,Profesor de Modelado,Professor de Modelação,Enseignant en modélisation,معلم النمذجة
+27403,Arquitecto de Portafolio,Arquiteto de Portefólio,Architecte de portefeuille,مهندس محافظ الأعمال
+27406,Profesor de Meteorología,Professor de Meteorologia,Enseignant en météorologie,معلم الأرصاد الجوية
+27411,Ayudante de Reparador de Muelles,Ajudante de Reparador de Molas,Aide réparateur de ressorts,مساعد إصلاح النوابض اليدوية
+27413,Conductor Independiente,Condutor Independente,Chauffeur indépendant,سائق مستقل
+27415,Inspector de Ascensores,Examinador de Elevadores,Inspecteur d'ascenseurs,مفتش المصاعد
+27416,Inspector Final de Camiones y Remolques,Inspetor Final de Camiões e Reboques,Inspecteur final camions et remorques,المفتش النهائي للشاحنات والمقطورات
+27417,Preparador de Carbón,Preparador de Carbono,Régleur de charbon,مجهّز الكربون
+27418,Ayudante de Buzo,Ajudante de Mergulhador,Aide plongeur,مساعد الغطاس
+27420,Ayudante de Albañil,Ajudante de Pedreiro,Aide maçon,مساعد البنّاء
+27421,Ayudante de Engrasador,Ajudante de Lubrificador,Aide graisseur,مساعد المشحّم
+27423,Ayudante de Fontanero,Ajudante de Canalizador,Aide plombier,مساعد السبّاك
+27424,Inspector de Componentes,Inspetor de Componentes,Inspecteur de composants,مفتش المكونات
+27425,Inspector de Decoración,Inspetor de Decoração,Inspecteur de décoration,مفتش الزخرفة
+27426,Inspector de Máscaras,Inspetor de Máscaras,Inspecteur de masques,مفتش الأقنعة
+27427,Inspector de Termitas,Inspetor de Térmitas,Inspecteur termites,مفتش النمل الأبيض
+27428,Analista Epic Ambulatorio,Analista Epic Ambulatório,Analyste Epic ambulatoire,محلل Epic للرعاية الخارجية
+27429,Analista Epic de Anestesia,Analista Epic de Anestesia,Analyste Epic anesthésie,محلل Epic للتخدير
+27436,Jefe de Despachadores de Pedidos,Chefe de Despacho de Pedidos,Chef des répartiteurs de commandes,رئيس موزعي الطلبات
+27439,Analista de Ubicación,Analista de Localização,Analyste de localisation,محلل المواقع
+27442,Analista de Pagos,Analista de Pagamentos,Analyste des paiements,محلل المدفوعات
+27443,Analista de Procedimientos,Analista de Procedimentos,Analyste des procédures,محلل الإجراءات
+27444,Analista de Conciliación,Analista de Conciliação,Analyste de rapprochement,محلل التسويات
+27445,Analista de Simulación,Analista de Simulação,Analyste de simulation,محلل المحاكاة
+27446,Analista de Valor,Analista de Valor,Analyste de valeur,محلل القيمة
+27447,Prácticas de Compras,Estágio de Compras,Stage en achats,تدريب في المشتريات
+27459,Especialista en Operaciones con Fuentes Militares,Especialista em Operações com Fontes Militares,Spécialiste des opérations de sources militaires,أخصائي عمليات المصادر العسكرية
+27460,Especialista en Protección de Aguas de Origen,Especialista em Proteção de Águas de Captação,Spécialiste de la protection des eaux de captage,أخصائي حماية مصادر المياه
+27462,Despachador de Cables,Despachante de Cabos,Répartiteur de câbles,موزع الكابلات
+27463,Constructor de Tambores,Construtor de Tambores,Monteur de tambours,صانع الأسطوانات
+27466,Especialista en Admisiones,Especialista em Admissões,Spécialiste des admissions,أخصائي القبول
+27467,Especialista Auxiliar,Especialista Auxiliar,Spécialiste auxiliaire,أخصائي مساعد
+27471,Especialista en Comisiones,Especialista em Comissões,Spécialiste des commissions,أخصائي العمولات
+27472,Especialista en Cobertura,Especialista em Cobertura,Spécialiste de la couverture,أخصائي التغطية
+27475,Especialista en Pruebas,Especialista em Provas,Spécialiste des preuves,أخصائي الأدلة
+27478,Especialista en Información,Especialista em Informação,Spécialiste de l'information,أخصائي المعلومات
+27479,Especialista en Ingredientes,Especialista em Ingredientes,Spécialiste des ingrédients,أخصائي المكونات
+27480,Especialista en Notas,Especialista em Notas,Spécialiste des notes,أخصائي الملاحظات
+27481,Especialista en Polímeros,Especialista em Polímeros,Spécialiste des polymères,أخصائي البوليمرات
+27483,Especialista en Reurbanización,Especialista em Requalificação Urbana,Spécialiste du réaménagement urbain,أخصائي إعادة التطوير
+27484,Especialista en Trituración,Especialista em Trituração,Spécialiste du déchiquetage,أخصائي التمزيق
+27486,Especialista en Estrellas,Especialista em Estrelas,Spécialiste des étoiles,أخصائي النجوم
+27487,Becario Universitario,Estagiário Universitário,Stagiaire universitaire,متدرب جامعي
+27488,Oficial de Economato,Oficial de Economato,Officier d'intendance,ضابط المقصف
+27490,Oficial de Donaciones,Oficial de Donativos,Chargé de dons,ضابط التبرعات
+27492,Alimentador de Máquinas de Montaje,Alimentador de Máquinas de Montagem,Alimentateur de machines d'assemblage,مغذي آلة التجميع
+27494,Recolector de Tela,Recolhedor de Tecido,Cueilleur de tissu,جامع القماش
+27495,Recolector de Llenado,Recolhedor de Enchimento,Cueilleur de remplissage,جامع التعبئة
+27496,Recolector Manual,Recolhedor Manual,Cueilleur manuel,جامع يدوي
+27500,Recolector de Rollos,Recolhedor de Rolos,Cueilleur de rouleaux,جامع الرولات
+27501,Recolector de Rodillos,Recolhedor de Rolos,Cueilleur de rouleaux,جامع الدرافيل
+27504,Auxiliar de Campamento Automovilístico,Auxiliar de Parque de Campismo,Préposé au camping-car,مساعد مخيم السيارات
+27508,Superintendente de Hotel,Superintendente de Hotel,Superintendant d'hôtel,مشرف الفندق
+27511,Jefe de Producción,Chefe de Produção,Chef de production,رئيس الإنتاج
+27513,Examinador de Prueba de Carretera,Examinador de Prova de Estrada,Examinateur d'épreuve sur route,فاحص اختبار القيادة على الطريق
+27514,Auxiliar de Unidad de Donación de Sangre,Auxiliar de Unidade de Dádiva de Sangue,Assistant de l'unité de don du sang,مساعد وحدة التبرع بالدم
+27515,Portador de Empleados,Carregador de Empregados,Porteur de commis,حامل الموظفين
+27516,Portador de Tela,Carregador de Tecido,Porteur de tissu,حامل القماش
+27517,Ingeniero de Reducción de Costos,Engenheiro de Redução de Custos,Ingénieur de réduction des coûts,مهندس خفض التكاليف
+27519,Portador de Vidrio,Carregador de Vidro,Porteur de verre,حامل الزجاج
+27522,Portador de Moldes,Carregador de Moldes,Porteur de moules,حامل القوالب
+27525,Portador de Papel,Carregador de Papel,Porteur de papier,حامل الورق
+27532,Portador de Rollos,Carregador de Rolos,Porteur de rouleaux,حامل الرولات
+27537,Portador de Pruebas,Carregador de Testes,Porteur d'essais,حامل الاختبارات
+27538,Portador de Herramientas,Carregador de Ferramentas,Porteur d'outils,حامل الأدوات
+27540,Portador de Tubos,Carregador de Tubos,Porteur de tubes,حامل الأنابيب
+27545,Auditor Clínico,Auditor Clínico,Auditeur clinique,مدقق سريري
+27550,Auditor de Campo,Auditor de Campo,Auditeur de terrain,مدقق ميداني
+27555,Auditor de Préstamos,Auditor de Empréstimos,Auditeur de prêts,مدقق القروض
+27556,Auditor Médico,Auditor Médico,Auditeur médical,مدقق طبي
+27557,Auditor de Enfermería,Auditor de Enfermagem,Auditeur infirmier,مدقق التمريض
+27558,Auditor de Oficina,Auditor de Escritório,Auditeur de bureau,مدقق المكتب
+27559,Auditor de Calidad,Auditor de Qualidade,Auditeur qualité,مدقق الجودة
+27560,Auditor de Seguridad,Auditor de Segurança,Auditeur sécurité,مدقق الأمن
+27572,Ensamblador de Bobinas,Montador de Bobinas,Assembleur de bobines,مجمّع الملفات
+27574,Mezclador de Tierra,Misturador de Terra,Mélangeur de terre,خلاط التربة
+27575,Mezclador de Pulverización,Misturador de Pulverização,Mélangeur de pulvérisation,خلاط الرش
+27577,Instalador de Persianas,Instalador de Estores,Installateur de stores,فني تركيب الستائر
+27586,Inspector de Duelas de Barril,Inspetor de Aduelas de Pipa,Inspecteur de douves de barriques,مفتش ألواح البراميل
+27587,Inspector de Ruedas de Pulido,Inspetor de Rodas de Polimento,Inspecteur de meules de polissage,مفتش عجلات التلميع
+27590,Inspector de Fundas de Cojines,Inspetor de Capas de Almofadas,Inspecteur de housses de coussin,مفتش أغطية الوسائد
+27591,Inspector de Rollos Completos,Inspetor de Rolos Completos,Inspecteur de rouleaux complets,مفتش الرولات الكاملة
+27592,Cargador de Granos,Carregador de Grãos,Chargeur de grain,عامل تحميل الحبوب
+27593,Inspector de Espiral I,Inspetor de Espiral I,Inspecteur de spiral I,مفتش الشعرة I
+27594,Inspector de Espiral II,Inspetor de Espiral II,Inspecteur de spiral II,مفتش الشعرة II
+27599,Manipulador de Bloques,Manipulador de Blocos,Manutentionnaire de blocs,عامل مناولة الكتل
+27600,Verificador de Telares,Verificador de Teares,Contrôleur de métiers à tisser,مفتش الأنوال
+27602,Asociado de Informes a Clientes,Associado de Relatórios a Clientes,Employé de reporting client,موظف تقارير العملاء
+27606,Probador de Pasteles,Testador de Bolos,Testeur de gâteaux,فاحص الكعك
+27607,Probador de Cigarrillos,Testador de Cigarros,Testeur de cigarettes,فاحص السجائر
+27608,Probador de Huevos,Testador de Ovos,Testeur d'œufs,فاحص البيض
+27610,Profesor de Evaluación y Tratamiento de Salud,Professor de Avaliação e Tratamento de Saúde,Enseignant en évaluation et traitement de la santé,معلم تقييم الصحة وعلاجها
+27611,Preparador de Equipos de Serigrafía,Preparador de Equipamentos de Serigrafia,Régleur d'équipements de sérigraphie,مجهّز معدات الطباعة بالشاشة
+27612,Recortador de Acabado,Aparador de Acabamento,Ébarbeur de finition,مشذّب التشطيب
+27618,Clasificador de Piedra,Classificador de Pedra,Trieur de pierres,فارز الحجارة
+27620,Coordinador de Asistencia,Coordenador de Assistência,Coordinateur d'assistance,منسق المساعدة
+27621,Director de Sistemas de Negocio,Diretor de Sistemas de Negócio,Directeur des systèmes d'entreprise,مدير أنظمة الأعمال
+27622,Coordinador de Alfabetización,Coordenador de Literacia,Coordinateur d'alphabétisation,منسق محو الأمية
+27626,Coordinador de Traumatología,Coordenador de Traumatologia,Coordinateur traumatologie,منسق الرضوح
+27628,Ayudante de Instalador de Cableado Doméstico,Ajudante de Instalador de Cablagem Doméstica,Aide électricien résidentiel,مساعد فني تمديد الكهرباء المنزلية
+27632,Ayudante de Conductor de Ruta de Ventas,Ajudante de Condutor de Rota de Vendas,Aide chauffeur de tournée commerciale,مساعد سائق مسار المبيعات
+27638,Supervisor de Estación de Bombeo de Gas,Supervisor de Estação de Bombagem de Gás,Superviseur de station de pompage de gaz,مشرف محطة ضخ الغاز
+27639,Prácticas Hospitalarias,Estágio Hospitalar,Stage hospitalier,تدريب في المستشفى
+27640,Operario de Extracción de Tornos,Operador de Extração de Torno,Extracteur de tour,عامل سحب المخرطة
+27649,Supervisor de Tratamiento y Bombeo,Supervisor de Tratamento e Bombagem,Superviseur de traitement et de pompage,مشرف المعالجة والضخ
+27650,Asistente del Director,Assistente do Diretor,Assistant du directeur,مساعد المدير
+27653,Acabador de Botes,Acabador de Barcos,Finisseur de bateaux,عامل تشطيب القوارب
+27654,Inspector de Línea,Inspetor de Linha,Inspecteur de ligne,مفتش الخط
+27655,Líder Instructivo,Líder Instrutivo,Responsable pédagogique,قائد تعليمي
+27656,Gerente de Línea,Gestor de Linha,Responsable de ligne,مدير الخط
+27658,Vendedor-Conductor de Camión,Vendedor-Condutor de Camião,Vendeur-chauffeur de camion,بائع سائق الشاحنة
+27659,Director de Bioestadística,Diretor de Bioestatística,Directeur de biostatistique,مدير الإحصاء الحيوي
+27660,Director de Categoría,Diretor de Categoria,Directeur de catégorie,مدير الفئة
+27663,Director de Purificación,Diretor de Purificação,Directeur de la purification,مدير التنقية
+27665,Director de Residencia,Diretor de Residência,Directeur de résidence,مدير السكن
+27667,Director de Traumatología,Diretor de Traumatologia,Directeur de traumatologie,مدير الرضوح
+27668,Limpiador de Diamantes,Limpador de Diamantes,Nettoyeur de diamants,عامل تنظيف الماس
+27670,Líder de Turno Minorista,Líder de Turno Retalho,Chef d'équipe commerce de détail,قائد وردية التجزئة
+27674,Redactor de Contratos,Redator de Contratos,Rédacteur de contrats,كاتب العقود
+27675,Reclutador Clínico,Recrutador Clínico,Recruteur clinique,مجنّد سريري
+27700,Limpiador de Algodón Residual,Limpador de Algodão Residual,Nettoyeur de coton déchet,عامل تنظيف القطن المتبقي
+27702,Operario de Mantenimiento de Simulador de Vuelo,Operador de Manutenção de Simulador de Voo,Technicien de maintenance de simulateur de vol,عامل صيانة جهاز المحاكاة
+27703,Trabajador de Servicios de Actividades Terapéuticas,Trabalhador de Serviços de Atividades Terapêuticas,Agent des services d'activités thérapeutiques,عامل خدمات الأنشطة العلاجية
+27704,Auxiliar de Servicio de Vehículos con Título,Auxiliar de Serviço de Veículos com Título,Préposé au service des véhicules titrés,مساعد خدمة المركبات المسجلة
+27705,Operario de Cenizas,Operador de Cinzas,Ouvrier des cendres,عامل الرماد
+27706,Operario de Abejas,Operador de Abelhas,Apiculteur,عامل النحل
 27707,Operario de Bingo,Operador de Bingo,Opérateur de bingo,عامل البنغو
 27708,Operario de Mama,Operador de Mama,Ouvrier de sein,عامل الثدي
 27709,Operario de Conducto,Operador de Conduta,Ouvrier de conduit,عامل القنوات

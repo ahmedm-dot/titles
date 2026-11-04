@@ -1397,3 +1397,605 @@ rank,title_es,title_pt,title_fr,title_ar
 48697,Defensor judicial,Defensor judicial,Défenseur judiciaire,مدافع المحكمة
 48698,Aplicador personalizado,Aplicador personalizado,Applicateur sur mesure,عامل التطبيق المخصص
 48699,Defensor del cliente,Defensor do cliente,Défenseur client,مدافع الزبائن
+48700,Defensor de desarrolladores,Defensor de programadores,Défenseur des développeurs,مدافع المطورين
+48703,Defensor familiar,Defensor familiar,Défenseur familial,مدافع الأسرة
+48704,Defensor financiero,Defensor financeiro,Défenseur financier,مدافع الشؤون المالية
+48709,Defensor de enfermería,Defensor de enfermagem,Défenseur infirmier,مدافع التمريض
+48710,Defensor del paciente,Defensor do doente,Défenseur du patient,مدافع المرضى
+48711,Defensor de programas,Defensor de programas,Défenseur de programmes,مدافع البرامج
+48712,Defensor de recuperación,Defensor de recuperação,Défenseur de la récupération,مدافع التعافي
+48713,Defensor sénior,Defensor sénior,Défenseur senior,مدافع أول
+48714,Bloqueador de seda,Bloqueador de seda,Bloqueur de soie,عامل تثبيت الحرير
+48715,Aplicador de pulverización,Aplicador por pulverização,Applicateur par pulvérisation,عامل الرش
+48718,Clínico de salud conductual,Clínico de saúde comportamental,Clinicien en santé comportementale,معالج إكلينيكي للصحة السلوكية
+48719,Clínico de urgencias,Clínico de urgências,Clinicien des urgences,معالج إكلينيكي لقسم الطوارئ
+48720,Clínico de sala de urgencias,Clínico de sala de urgências,Clinicien de salle d'urgences,معالج إكلينيكي لغرفة الطوارئ
+48721,Clínico de salud domiciliaria,Clínico de saúde domiciliária,Clinicien de soins à domicile,معالج إكلينيكي للرعاية الصحية المنزلية
+48722,Clínico de terapia domiciliaria,Clínico de terapia domiciliária,Clinicien en thérapie à domicile,معالج إكلينيكي للعلاج المنزلي
+48725,Representante de ventas de suministros funerarios,Representante de vendas de artigos funerários,Représentant commercial en fournitures funéraires,مندوب مبيعات مستلزمات تجهيز الموتى
+48726,Quitamanchas de ácido,Removedor de ácido,Décapeur à l'acide,عامل إزالة الحمض
+48729,Quitador de tapas,Removedor de tampas,Enlève-couvercle,عامل نزع الأغطية
+48730,Teniente de escritorio,Tenente de secretária,Lieutenant de bureau,ملازم المكتب
+48731,Diseñador de adaptación diésel,Designer de adaptação diesel,Concepteur de rétrofit diesel,مصمم تحويل المحركات للديزل
+48732,Quitador de acabado,Removedor de acabamento,Décapeur de finition,عامل إزالة التشطيب
+48734,Teniente de guardia,Tenente de guarda,Lieutenant de garde,ملازم الحراسة
+48735,Descolgador,Desligador,Décrocheur,عامل الفك
+48737,Quitador de hornos,Removedor de fornos,Décapeur de fours,عامل إزالة الفرن
+48738,Enderezador de agujas,Endireitador de agulhas,Dresseur d'aiguilles,مُقوّم الإبر
+48739,Teniente de oficiales,Tenente de oficiais,Lieutenant d'officiers,ملازم الضباط
+48740,Teniente de operaciones,Tenente de operações,Lieutenant des opérations,ملازم العمليات
+48741,Quitador de piezas,Removedor de peças,Dégarnisseur de pièces,عامل نزع القطع
+48744,Teniente de tráfico,Tenente de tráfego,Lieutenant de la circulation,ملازم المرور
+48748,Caddie,Caddie,Caddie,حامل العصي
+48751,Encendedor,Isqueiro,Allumeur,عامل الإشعال
+48752,Gerente de atención primaria,Gestor de cuidados primários,Responsable des soins primaires,مدير الرعاية الأولية
+48753,Perforador,Perfurador,Perceur,عامل الثقب
+48755,Colgador de placas de yeso,Pendurador de placas de gesso,Poseur de plaques de plâtre,معلّق ألواح الجبس
+48756,Plegador de cubiertas de mesa,Dobrador de toalhas de mesa,Plieur de nappes,عامل طي أغطية الطاولات
+48757,Colgador de seda húmeda,Pendurador de seda húmida,Accrocheur de soie humide,معلّق الحرير المبلل
+48759,Recortador de pecho,Aparador de peito,Ébarbeur de poitrine,مُقلِّم الصدر
+48760,Recortador de rejilla,Aparador de grelha,Ébarbeur de grille,مُقلِّم الشبكة
+48763,Recortador de poni,Aparador de pónei,Ébarbeur de poney,مُقلِّم الفرس الصغيرة
+48764,Operaciones espaciales,Operações espaciais,Opérations spatiales,العمليات الفضائية
+48765,Mecánico de localización de averías,Mecânico de deteção de avarias,Mécanicien de dépannage,ميكانيكي تحديد الأعطال
+48770,Director de ventas de catering,Diretor de vendas de catering,Directeur des ventes de restauration,مدير مبيعات خدمات الطعام
+48771,Ejecutivo de soluciones de ventas en la nube,Executivo de soluções de vendas em nuvem,Cadre des ventes de solutions cloud,مدير مبيعات حلول السحابة
+48774,Quitador de bolsas de aire,Removedor de airbags,Dégonfleur d'airbags,عامل نزع وسادات الهواء
+48776,Cambiador de cuchillas,Mudador de facas,Changeur de couteaux,مغيّر الشفرات
+48781,Cortador de liquidación,Cortador de liquidação,Coupeur de déstockage,قاطع التصفية
+48782,Cortador de cordones,Cortador de cordões,Coupeur de cordons,قاطع الحبال
+48783,Cortador de verduras,Cortador de verduras,Coupeur de légumes verts,قاطع الخضروات الورقية
+48784,Cortador de labios,Cortador de lábios,Coupeur de lèvres,قاطع الحواف
+48785,Cortador de malla,Cortador de malha,Coupeur de maille,قاطع الشبك
+48786,Insertador de periódicos,Inseridor de jornais,Inséreur de journaux,عامل إدراج الصحف
+48791,Clasificador de desmontaje,Triador de desmontagem,Trieur de démontage,فارز الفك
+48794,Director de inteligencia de mercado,Diretor de inteligência de mercado,Directeur de l'intelligence de marché,مدير استخبارات السوق
+48796,Coordinador de control de erosión,Coordenador de controlo de erosão,Coordinateur de lutte contre l'érosion,منسق مكافحة التعرية
+48800,Residente administrativo,Interno administrativo,Résident administratif,مقيم إداري
+48801,Residente de odontología,Interno de medicina dentária,Résident en odontologie,مقيم طب الأسنان
+48802,Residente jefe,Interno chefe,Résident en chef,المقيم الرئيسي
+48805,Residente de medicina,Interno de medicina,Résident en médecine,مقيم الطب
+48806,Residente de enfermería,Interno de enfermagem,Résident en soins infirmiers,مقيم التمريض
+48807,Residente de farmacia,Interno de farmácia,Résident en pharmacie,مقيم الصيدلة
+48809,Residente de cirugía,Interno de cirurgia,Résident en chirurgie,مقيم الجراحة
+48820,Precodificador,Pré-codificador,Précodeur,مُرمّز أولي
+48822,Máquina de tablero,Máquina de tábuas,Machine à planches,آلة الألواح
+48824,Director del sistema de méritos,Diretor do sistema de mérito,Directeur du système de mérite,مدير نظام الجدارة
+48826,Pesador de lúpulo,Pesador de lúpulo,Peseur de houblon,موزن الحشيش
+48827,Formador de punteras,Formador de biqueiras,Formeur de bouts,مشكّل مقدمة الحذاء
+48828,Inspector de planta,Inspetor de piso,Inspecteur d'étage,مفتش الطابق
+48829,Gerente de planta,Gestor de piso,Responsable d'étage,مدير الطابق
+48831,Clasificador de abrasivos,Classificador de abrasivos,Classificateur d'abrasifs,مصنف المواد الكاشطة
+48832,Prácticas de asesoramiento,Estágio de consultoria,Stage de conseil,تدريب استشاري
+48833,Extractor de tobogán,Extrator de calha,Extracteur de goulotte,عامل سحب المزلق
+48839,Cocinero de goma,Cozinheiro de goma,Cuisinier de gomme,طباخ اللثة
+48845,Ejecutivo de asociación,Executivo de associação,Cadre d'association,مدير الجمعية
+48853,Cortador de tarjetas Jacquard,Cortador de cartões Jacquard,Coupeur de cartes Jacquard,قاطع بطاقات جاكار
+48854,Cortador de máquina tubérica,Cortador de máquina de tubérculos,Coupeur de machine à tubercules,قاطع آلة الدرنات
+48858,Hombre de aterrizaje,Homem de aterragem,Homme d'atterrissage,عامل الهبوط
+48859,Hombre de lubricación,Homem de lubrificação,Graisseur,عامل التزييت
+48860,Hombre de tapones,Homem de tampões,Homme de bouchage,عامل السد
+48861,Operario de tela gris de estampado,Operador de pano cinzento de impressão,Opérateur de tissu gris d'impression,عامل القماش الرمادي للطباعة
+48862,Hombre de silo,Homem de silo,Homme de silo,عامل الصومعة
+48863,Hombre de plataforma deslizante,Homem de plataforma deslizante,Homme de plate-forme glissante,عامل المنصة المنزلقة
+48864,Operario de máquina de laminado de pista,Operador de máquina de laminação de pista,Opérateur de machine de stratification de piste,مشغل آلة تصفيح المسار
+48865,Superintendente de sistemas de agua y alcantarillado,Superintendente de sistemas de água e esgotos,Surintendant des réseaux d'eau et d'assainissement,مشرف أنظمة المياه والصرف الصحي
+48866,Caucho de cemento,Borracha de cimento,Caoutchouc de ciment,مطاط الإسمنت
+48868,Cableador de cajas de llamada,Cablador de caixas de chamada,Câbleur de boîtiers d'appel,عامل توصيل صناديق الاتصال
+48871,Técnico de electrocardiograma,Técnico de eletrocardiograma,Technicien d'ECG,فني تخطيط القلب
+48874,Técnico de electrofisiología,Técnico de eletrofisiologia,Technicien d'électrophysiologie,فني الفيزيولوجيا الكهربائية
+48877,Técnico de neurodiagnóstico,Técnico de neurodiagnóstico,Technicien en neurodiagnostic,فني التشخيص العصبي
+48884,Supervisor de alcantarillado,Supervisor de sistema de esgotos,Superviseur du réseau d'égouts,مشرف شبكة الصرف
+48886,Lavador de manchas de aceite,Lavador de manchas de óleo,Laveur de taches d'huile,عامل غسل بقع الزيت
+48887,Capataz de aéreo,Encarregado de trabalhos aéreos,Contremaître aérien,مشرف العمل العلوي
+48889,Conductor de vehículo de reconocimiento blindado,Condutor de veículo blindado de reconhecimento,Conducteur de véhicule blindé de reconnaissance,سائق مركبة الاستطلاع المدرعة
+48890,Conductor de camión elevador,Condutor de camião elevador,Conducteur de chariot élévateur,سائق الشاحنة الرافعة
+48893,Supervisor de servicios de barco y planta,Supervisor de utilidades de barco e fábrica,Superviseur utilités bateau et usine,مشرف الخدمات للقارب والمنشأة
+48895,Capataz de acabado de paneles de yeso,Encarregado de acabamento de pladur,Contremaître de finition de cloisons sèches,مشرف تشطيب الجص الكرتوني
+48896,Capataz de acabado de paneles de yeso,Encarregado de acabamento de pladur,Contremaître de finition de cloisons sèches,مشرف تشطيب الجص الكرتوني
+48899,Auxiliar de asientos de depósitos de dividendos,Auxiliar de lançamentos de depósitos de dividendos,Employé de saisie des dépôts de dividendes,موظف إدخال إيداعات الأرباح
+48900,Auxiliar de comprobantes de depósitos de dividendos,Auxiliar de comprovativos de depósitos de dividendos,Employé des bordereaux de dépôts de dividendes,موظف قسائم إيداعات الأرباح
+48903,Gerente de relaciones laborales,Gestor de relações laborais,Responsable des relations sociales,مدير علاقات العمل
+48905,Fotógrafo de circuitos impresos,Fotógrafo de circuitos impressos,Photographe de circuits imprimés,مصور الدوائر المطبوعة
+48907,Auxiliar de asignaciones,Auxiliar de alocações,Employé des allocations,موظف التخصيصات
+48908,Auxiliar de bonificaciones,Auxiliar de bónus,Employé des primes,موظف المكافآت
+48910,Auxiliar de borderós,Auxiliar de borderô,Employé des bordereaux,موظف البوردرو
+48911,Auxiliar de códigos,Auxiliar de códigos,Employé des codes,موظف الأكواد
+48912,Auxiliar de títulos,Auxiliar de títulos,Employé des diplômes,موظف الشهادات
+48913,Auxiliar de salidas,Auxiliar de partidas,Employé des départs,موظف المغادرة
+48914,Auxiliar de diagramas,Auxiliar de diagramas,Employé des schémas,موظف الرسوم التخطيطية
+48915,Auxiliar de desembolsos,Auxiliar de desembolsos,Employé des décaissements,موظف الصرف
+48916,Auxiliar de descuentos,Auxiliar de descontos,Employé des remises,موظف الخصومات
+48917,Auxiliar de distribución,Auxiliar de distribuição,Employé de distribution,موظف التوزيع
+48918,Auxiliar de endosos,Auxiliar de endossos,Employé des endossements,موظف التظهير
+48921,Auxiliar de Kardex,Auxiliar de Kardex,Employé Kardex,موظف الكاردكس
+48922,Auxiliar de pagos a plazos,Auxiliar de pagamentos a prestações,Employé de paiement échelonné,موظف الدفع المؤجل
+48923,Auxiliar de kilometraje,Auxiliar de quilometragem,Employé de kilométrage,موظف المسافات
+48924,Auxiliar de OSD,Auxiliar de OSD,Employé OSD,موظف OSD
+48925,Auxiliar de OTC,Auxiliar de OTC,Employé OTC,موظف OTC
+48926,Auxiliar de piggyback,Auxiliar de piggyback,Employé piggyback,موظف النقل المزدوج
+48927,Auxiliar de prorrateo,Auxiliar de rateio,Employé de répartition au prorata,موظف التوزيع النسبي
+48928,Auxiliar de prorrateo,Auxiliar de rateio,Employé de répartition au prorata,موظف التوزيع النسبي
+48929,Auxiliar de presupuestos,Auxiliar de cotações,Employé des devis,موظف التسعير
+48930,Auxiliar de conciliación,Auxiliar de reconciliação,Employé de rapprochement,موظف المطابقة
+48931,Auxiliar de conciliación,Auxiliar de reconciliação,Employé de rapprochement,موظف المطابقة
+48932,Auxiliar de reconsignación,Auxiliar de reconsignação,Employé de réexpédition,موظف إعادة الشحن
+48933,Auxiliar de reinstauración,Auxiliar de reinstalação,Employé de rétablissement,موظف إعادة التفعيل
+48934,Auxiliar de reposición,Auxiliar de reabastecimento,Employé de réapprovisionnement,موظف إعادة الطلب
+48935,Auxiliar de reenvío,Auxiliar de reexpedição,Employé de réexpédition,موظف إعادة الإرسال
+48936,Auxiliar de revisiones,Auxiliar de revisões,Employé de révisions,موظف المراجعة
+48937,Auxiliar de recuperación,Auxiliar de recuperação,Employé de réactivation,موظف إعادة التنشيط
+48938,Auxiliar de listados,Auxiliar de listas,Employé des listes,موظف القوائم
+48939,Auxiliar de custodia,Auxiliar de custódia,Employé de garde de valeurs,موظف الحفظ الآمن
+48940,Auxiliar de vales,Auxiliar de vales,Employé des bons,موظف القسائم
+48941,Auxiliar de almacén,Auxiliar de armazém,Employé de magasin,موظف المستودع
+48942,Auxiliar de sugerencias,Auxiliar de sugestões,Employé des suggestions,موظف الاقتراحات
+48943,Auxiliar de cese,Auxiliar de cessação,Employé de résiliation,موظف الإنهاء
+48944,Auxiliar de wanigan,Auxiliar de wanigan,Employé de wanigan,موظف الوانيغان
+48945,Auxiliar de cartas de porte,Auxiliar de guias de transporte,Employé des lettres de transport,موظف بوليصة الشحن
+48946,Auxiliar de ventanilla y distribución,Auxiliar de guichê e distribuição,Employé de guichet et de distribution,موظف الشباك والتوزيع
+48947,Secadora de criba continua de transportador,Secador de peneiro contínuo de transportador,Sécheur à crible à convoyeur continu,مجفف الغربال الناقل المستمر
+48948,Auxiliar de control de especificaciones de malta,Auxiliar de controlo de especificações de malte,Assistant de contrôle des spécifications du malt,مساعد مراقبة مواصفات الشعير المنقوع
+48958,Auxiliar de organización comunitaria,Auxiliar de organização comunitária,Assistant d'organisation communautaire,مساعد المنظمات المجتمعية
+48960,Auxiliar de clasificación de algodón,Auxiliar de classificação de algodão,Assistant de classement du coton,مساعد تصنيف القطن
+48961,Auxiliar educativo y de desarrollo,Assistente educativo e de desenvolvimento,Assistant éducatif et de développement,مساعد التعليم والتطوير
+48964,Asistente ginecológico,Assistente ginecológico,Assistant gynécologique,مساعد أمراض النساء
+48967,Montador de tuercas y pernos,Montador de porcas e parafusos,Monteur d'écrous et de boulons,مجمّع الصواميل والمسامير
+48971,Asistente de ferrocarriles,Assistente de caminhos de ferro,Assistant des chemins de fer,مساعد السكك الحديدية
+48977,Acabador de hilo de amianto,Acabador de fio de amianto,Finisseur de fil d'amiante,منهي خيط الأسبستوس
+48979,Director de medicina deportiva,Diretor de medicina desportiva,Directeur de médecine du sport,مدير الطب الرياضي
+48980,Planificador de alta hospitalaria,Planeador de alta hospitalar,Planificateur de sortie,مخطط الخروج من المستشفى
+48983,Acabador de neumáticos macizos,Acabador de pneus maciços,Finisseur de pneus pleins,منهي الإطارات الصلبة
+48984,Peón de almacén,Trabalhador de armazém,Manœuvre de magasin,عامل المستودع
+48985,Médico tratante,Médico assistente,Médecin traitant,الطبيب المعالج
+48992,Bombero de muelle,Bombeiro de cais,Pompier de dock,عامل ضخ الأرصفة
+48994,Ensamblador de laminado,Montador de laminado,Monteur de stratifié,مجمّع الصفائح المصفحة
+48999,Director de seguridad física,Diretor de segurança física,Directeur de la sécurité physique,مدير الأمن المادي
+49001,Decano de admisiones,Decano de admissões,Doyen des admissions,عميد القبول
+49003,Fabricante de brazos,Fabricante de braços,Fabricant de bras,صانع الأذرع
+49004,Fabricante de vendas,Fabricante de ligaduras,Fabricant de bandages,صانع الضمادات
+49006,Fabricante de topes,Fabricante de topos,Fabricant de butées,صانع الوصلات الطرفية
+49008,Fabricante de cápsulas,Fabricante de cápsulas,Fabricant de capsules,صانع الكبسولات
+49009,Fabricante de cátodos,Fabricante de cátodos,Fabricant de cathodes,صانع الكاثودات
+49010,Fabricante de tacos,Fabricante de taquinhos,Fabricant de taquets,صانع الأوتاد
+49011,Triturador de corcho,Moedor de cortiça,Broyeur de liège,عامل طحن الفلين
+49012,Triturador de cristal,Moedor de cristal,Broyeur de cristal,عامل طحن البلور
+49013,Fabricante de calcomanías,Fabricante de decalques,Fabricant de décalcomanies,صانع الملصقات المنقولة
+49015,Fabricante de bocinas,Fabricante de bocais,Fabricant d'évasements,صانع الفوهات المتسعة
+49016,Fabricante de frita,Fabricante de frita,Fabricant de fritte,صانع الفريت
+49017,Fabricante de cuñas,Fabricante de cunhas,Fabricant de pans,صانع القطع المثلثة
+49018,Fabricante de fuelles,Fabricante de foles,Fabricant de soufflets,صانع الكُمّات
+49019,Fabricante de pañuelos,Fabricante de lenços,Fabricant de mouchoirs,صانع المناديل
+49021,Fabricante de gelatina,Fabricante de geleia,Fabricant de gelée,صانع الجيلي
+49022,Jefe de lote,Chefe de lote,Chef de lot,رئيس الدفعة
+49023,Fabricante de fósforos,Fabricante de fósforos,Fabricant d'allumettes,صانع أعواد الثقاب
+49024,Fabricante de monogramas,Fabricante de monogramas,Fabricant de monogrammes,صانع الأحرف المتشابكة
+49025,Programador de consultas externas,Agendador de consultas externas,Planificateur des consultations externes,مجدول العيادات الخارجية
+49026,Fabricante de lápices,Fabricante de lápis,Fabricant de crayons,صانع الأقلام الرصاص
+49027,Fabricante de cápsulas refractarias,Fabricante de cápsulas refratárias,Fabricant de gazettes réfractaires,صانع أوعية الحرق
+49028,Fabricante de tamices,Fabricante de peneiros,Fabricant de tamis,صانع المناخل
+49030,Jefe de escuadra,Chefe de esquadra,Chef d'escouade,قائد الفصيل
+49032,Empaquetador de perdigones,Embalador de chumbo,Emballeur de grenaille,معبئ الخرطوش
+49033,Director sénior de integración de sistemas y de negocio,Diretor sénior de integração de sistemas e negócio,Directeur senior intégration système et métier,مدير أول تكامل الأنظمة والأعمال
+49034,Jefe de ensayos clínicos,Chefe de ensaios clínicos,Responsable d'essais cliniques,رئيس التجارب السريرية
+49036,Gerente de red,Gestor de rede,Responsable réseau,مدير الشبكة
+49038,Jefe de cuadrilla solar fotovoltaica,Chefe de equipa de energia solar fotovoltaica,Chef d'équipe photovoltaïque solaire,رئيس فريق الطاقة الشمسية الكهروضوئية
+49039,Procesador de pagos,Processador de pagamentos,Traiteur de paiements,معالج المدفوعات
+49040,Supervisor de educación en artes industriales,Supervisor de educação em artes industriais,Superviseur de l'enseignement des arts industriels,مشرف تعليم الفنون الصناعية
+49044,Cubridor de gorras,Cobridor de bonés,Couvreur de casquettes,عامل تغطية القبعات
+49046,Director de servicios en la nube,Diretor de serviços de nuvem,Directeur des services cloud,مدير خدمات السحابة
+49049,Insertador de válvulas,Inseridor de válvulas,Inséreur de valves,عامل إدخال الصمامات
+49053,Gerente de pruebas,Gestor de testes,Responsable des tests,مدير الاختبارات
+49055,RN de pruebas,Enfermeiro de testes,Infirmier d'essais,ممرض الاختبارات
+49057,Supervisor de pruebas,Supervisor de testes,Superviseur des tests,مشرف الاختبارات
+49059,Reparador de loft de aparejos,Reparador de loft de aparelhos,Réparateur de loft de gréement,مُصلح ورشة التجهيز
+49060,Reparador de cremalleras,Reparador de fechos,Réparateur de fermetures à glissière,مُصلح السحّابات
+49062,Reparador de armarios de toallas,Reparador de armários de toalhas,Réparateur d'armoires à serviettes,مُصلح خزائن المناشف
+49064,Controlador de carbón u óxido,Controlador de carvão ou minério,Contrôleur de charbon ou de minerai,مراقب الفحم أو الخام
+49065,Clasificador de heno,Triador de feno,Trieur de foin,فارز القش
+49066,Inspector y probador de niveles de burbuja,Inspetor e testador de níveis de bolha,Contrôleur et testeur de niveaux à bulle,فاحص ومختبر ميزان المستوى
+49070,Gerente de transición,Gestor de transição,Responsable de transition,مدير الانتقال
+49071,Jefe de tanque de filtro de carbón,Chefe do tanque de filtro de carvão,Chef de bac à charbon actif,رئيس خزان مرشح الفحم
+49074,Estimador de tapicería,Orçamentista de estofos,Estimateur de tapisserie,مقدّر أعمال التنجيد
+49077,Forrador de cajas de cartón,Forrador de caixas de cartão,Doubleur de cartons,عامل تبطين الكراتين
+49080,Operador de enrolladora de urdimbre de bolas,Operador de enroladeira de urdidura de bolas,Opérateur d'ourdissoir à boules,مشغل آلة لف السداة الكروية
+49081,Operario de desbobinado,Operário de desbobinamento,Opérateur de dérouleur,عامل فك اللفائف
+49082,Operador de cardado auxiliar,Operador auxiliar de cardagem,Opérateur auxiliaire de cardage,مشغل التمشيط الإضافي
+49083,Operador de silo de astillas,Operador de silo de aparas,Opérateur de silo à copeaux,مشغل صومعة الرقائق
+49084,Operador de horno de polimerización,Operador de forno de polimerização,Opérateur de four de polymérisation,مشغل فرن البلمرة
+49086,Operador de lap de cinta,Operador de lap de mecha,Opérateur de lap de mèche,مشغل لفّ الشريط
+49088,Operador de caja de pesaje,Operador de caixa de pesagem,Opérateur de caisson de pesée,مشغل صندوق الوزن
+49092,Jefe de protección de planta industrial,Chefe de proteção de instalação industrial,Chef de protection de site industriel,رئيس حماية المنشأة الصناعية
+49093,Transportador de platos,Transportador de pratos,Porteur de plats,حامل الأطباق
+49098,Verificador de coloración,Verificador de coloração,Contrôleur de coloration,فاحص التلوين
+49100,Verificador de mecanografía,Verificador de digitação,Contrôleur de frappe,فاحص الكتابة الآلية
+49101,Alimentador de picadora,Alimentador de picadora,Alimentateur de hachoir,مغذي الفرّامة
+49103,Rodillo de pan de oro,Rolo de folha de ouro,Rouleau de feuille d'or,عامل دحرجة رقائق الذهب
+49105,Vendedor de furgoneta de efectivo,Vendedor de carrinha de dinheiro,Vendeur de fourgon de fonds,بائع سيارات نقل النقود
+49106,Jefe de tecnólogos radiológicos,Chefe de tecnólogos radiológicos,Chef technologue en radiologie,رئيس فنيي الأشعة
+49115,Marcador de camisas,Marcador de camisas,Marqueur de chemises,عامل تعليم القمصان
+49116,Pulidor de álabes de turbina,Polidor de pás de turbina,Polisseur d'aubes de turbine,مصقّل شفرات التوربين
+49118,Jefe de sismógrafo,Chefe de sismógrafo,Chef sismographe,رئيس جهاز قياس الزلازل
+49122,Superintendente de canal,Superintendente de canal,Surintendant de canal,مشرف القناة
+49124,Director de medicina nuclear,Diretor de medicina nuclear,Directeur de médecine nucléaire,مدير الطب النووي
+49126,Descargador por lotes,Descarregador por lotes,Déchargeur par lots,عامل تفريغ الدفعات
+49128,Fijador de adornos,Fixador de acabamentos,Fixeur de garnitures,عامل تثبيت الزينة
+49129,Montador de adornos,Montador de acabamentos,Monteur de garnitures,مركّب الزينة
+49134,Instructor de salud aliada,Instrutor de saúde aliada,Instructeur en santé paramédicale,مدرب المهن الصحية المساعدة
+49137,Artesano de artes finas,Artesão de artes finas,Artisan d'art,فنان الحرف الفنية
+49139,Instructor de preparación SAT,Instrutor de preparação ACT,Instructeur de préparation ACT,مدرب اختبار ACT
+49141,Mantenedor de taxis,Mantenedor de táxis,Entretien de taxis,فني صيانة سيارات الأجرة
+49143,Minero de placer,Mineiro de aluvião,Mineur d'alluvions,عامل تنقيب الرواسب
+49145,Colgador de persianas,Pendurador de persianas,Accrocheur de stores,معلّق الستائر
+49146,Operador de esclusa,Operador de eclusa,Maître d'écluse,مشرف القفل
+49147,Montador de adornos metálicos,Montador de acabamentos metálicos,Monteur de garnitures métalliques,مركّب الزخارف المعدنية
+49151,Formador de trazado,Formador de traçado,Formeur de tracé,مشكّل المخطط
+49155,Educador de diabetes,Educador de diabetes,Éducateur en diabète,مثقف مرضى السكري
+49156,Experto en eficiencia,Especialista em eficiência,Expert en efficacité,خبير الكفاءة
+49158,Educador religioso,Educador religioso,Éducateur religieux,مربي ديني
+49159,Agricultor de arroz,Agricultor de arroz,Riziculteur,مزارع الأرز
+49164,Coordinador de marketing integrado,Coordenador de marketing integrado,Coordinateur marketing intégré,منسق التسويق المتكامل
+49167,Fundidor principal,Fundidor principal,Fondeur principal,رئيس عمال الصب
+49169,Chapeador de plásticos,Galvanizador de plásticos,Métallisateur de plastiques,مطلّي البلاستيك
+49170,Fundidor profesional,Fundidor profissional,Fondeur professionnel,عامل الصب المحترف
+49171,Capa de plumas,Camada de penas,Couche de plumes,عامل طبقات الريش
+49173,Fundidor de vacío,Fundidor a vácuo,Fondeur sous vide,عامل الصب تحت الفراغ
+49177,Decano de servicios bibliotecarios,Decano de serviços bibliotecários,Doyen des services de bibliothèque,عميد خدمات المكتبات
+49178,Decano de asuntos estudiantiles,Decano de assuntos estudantis,Doyen des affaires étudiantes,عميد شؤون الطلاب
+49179,Decano de desarrollo estudiantil,Decano de desenvolvimento estudantil,Doyen du développement étudiant,عميد تطوير الطلاب
+49180,Decano de vida estudiantil,Decano de vida estudantil,Doyen de la vie étudiante,عميد الحياة الطلابية
+49181,Decano de servicios estudiantiles,Decano de serviços estudantis,Doyen des services aux étudiants,عميد خدمات الطلاب
+49182,Supervisor del departamento de bobinado,Supervisor do departamento de bobinagem,Superviseur du département de bobinage,مشرف قسم اللف
+49184,Pesador de queso,Pesador de queijo,Peseur de fromage,موزن الجبن
+49185,Montador de plantillas de sujeción,Montador de gabaritos de fixação,Monteur de gabarits de serrage,مجمّع قوالب التثبيت
+49190,Montador de persianas venecianas,Montador de estores venezianos,Monteur de stores vénitiens,مجمّع الستائر الفينيسية
+49191,Camarero de barra,Empregado de bar,Serveur de bar,نادل البار
+49192,Camarero de bebidas,Empregado de bebidas,Serveur de boissons,نادل المشروبات
+49193,Camarero de autobús,Empregado de autocarro,Serveur de bus,نادل الحافلة
+49194,Camarero de club,Empregado de clube,Serveur de club,نادل النادي
+49196,Camarero ejecutivo,Empregado executivo,Majordome exécutif,النادل التنفيذي
+49202,Camarero de pozo,Empregado de poço,Serveur de fosse,نادل الحفرة
+49203,Camarero de proceso,Empregado de processo,Serveur de processus,نادل العملية
+49204,Camarero de productos,Empregado de produtos,Serveur de produits,نادل المنتجات
+49205,Científico de control de calidad,Cientista de controlo de qualidade,Scientifique qualité,عالم مراقبة الجودة
+49206,Camarero segundo,Segundo empregado,Second serveur,النادل الثاني
+49208,Camarero de taller,Empregado de oficina,Serveur d'atelier,نادل الورشة
+49209,Camarero de alambre,Empregado de arame,Serveur de fil,نادل الأسلاك
+49210,Doblador de cajas,Dobrador de caixas,Plieur de boîtes,عامل ثني الصناديق
+49211,Rompedor de botones,Partidor de botões,Casseur de boutons,كاسر الأزرار
+49212,Doblador de marcos,Dobrador de armações,Cintreur de cadres,عامل ثني الإطارات
+49213,Doblador de vidrio,Dobrador de vidro,Cintreur de verre,عامل ثني الزجاج
+49214,Doblador manual,Dobrador manual,Cintreur manuel,عامل الثني اليدوي
+49215,Doblador de hierro,Dobrador de ferro,Cintreur de fer,عامل ثني الحديد
+49216,Doblador de máquinas,Dobrador de máquinas,Cintreur de machines,عامل ثني الآلات
+49217,Doblador de tuberías,Dobrador de tubos,Cintreur de tuyaux,عامل ثني الأنابيب
+49219,Doblador de carriles,Dobrador de carris,Cintreur de rails,عامل ثني السكك
+49220,Rompedor de rocas,Partidor de rochas,Casseur de roches,كاسر الصخور
+49221,Examinador de reglamentos,Examinador de regulamentos,Examinateur des règlements,فاحص اللوائح
+49222,Doblador de muelles,Dobrador de molas,Cintreur de ressorts,عامل ثني النوابض
+49223,Doblador de tubos,Dobrador de tubos,Cintreur de tubes,عامل ثني الأنابيب
+49228,Aserrador de tochos,Serrador de tarugos,Scieur de billettes,منشار القضبان
+49229,Aserrador de plumas,Serrador de penas,Scieur de plumes,منشار الريش
+49231,Superintendente de almacenamiento de munición,Superintendente de armazenamento de munições,Surintendant du stockage des munitions,مشرف تخزين الذخائر
+49233,Clasificador y cortador de trapos,Triador e cortador de trapos,Trieur et coupeur de chiffons,فارز وقاطع الخرق
+49239,Redactor de subvenciones,Redator de subsídios,Rédacteur de demandes de subventions,كاتب المنح
+49243,Cargador de molino de cargador,Carregador de moinho de carregador,Chargeur de broyeur de chargeur,عامل تحميل طاحونة المخازن
+49244,Reparador de tranvías,Reparador de elétricos,Réparateur de tramways,مُصلح الترام
+49245,Supervisor de reparación de calderas,Supervisor de reparação de caldeiras,Superviseur de réparation de chaudières,مشرف إصلاح الغلايات
+49248,Doblador de guantes,Dobrador de luvas,Plieur de gants,عامل طي القفازات
+49254,Gerente fiscal,Gestor fiscal,Responsable fiscal,مدير الضرائب
+49255,Moldeador de yeso,Moldador de gesso,Mouleur de plâtre,مشكّل الجص
+49256,Moldeador de esquís,Moldador de esquis,Mouleur de skis,مشكّل الزلاجات
+49258,Reparador de lanzaderas,Reparador de lançadeiras,Réparateur de navettes,مُصلح المكوك
+49266,Tecnólogo de procedimientos especiales,Tecnólogo de procedimentos especiais,Technologue de procédures spéciales,فني الإجراءات الخاصة
+49267,VP clínico,VP clínico,VP clinique,نائب الرئيس الإكلينيكي
+49269,VP de producto,VP de produto,VP produit,نائب الرئيس للمنتجات
+49270,Corredor de bonos,Correio de obrigações,Coursier d'obligations,عامل السندات
+49271,Corredor de puños,Correio de punhos,Coursier de poignets,عامل الأكمام
+49272,Planificador de productos terminados,Planeador de produtos acabados,Planificateur de produits finis,مخطط المنتجات النهائية
+49274,Peón de fábrica de almidón,Trabalhador de fábrica de amido,Manœuvre d'usine d'amidon,عامل مصنع النشا
+49279,Trabajadores industriales,Trabalhadores industriais,Ouvriers industriels,العمال الصناعيون
+49281,Técnico de mantenimiento de sistemas de tanques,Técnico de manutenção de sistemas de tanques,Technicien de maintenance des systèmes de réservoirs,فني صيانة أنظمة الخزانات
+49282,Intérprete de piezas de automoción,Intérprete de peças automóveis,Interprète de pièces automobiles,مترجم قطع غيار السيارات
+49287,Quemador de chatarra metálica,Queimador de sucata metálica,Brûleur de ferraille,عامل حرق الخردة المعدنية
+49289,Cableador de señales horarias,Cablador de sinais horários,Câbleur de signaux horaires,عامل توصيل إشارات التوقيت
+49295,Recubridor de varillas de soldadura,Revestidor de varetas de soldadura,Enrobeur de baguettes de soudure,عامل طلاء أقطاب اللحام
+49296,Fabricante de pantallas,Fabricante de ecrãs,Fabricant d'écrans,صانع شاشات العرض
+49299,Acabador de gasolina,Acabador de gasolina,Finisseur d'essence,منهي البنزين
+49300,Director físico,Diretor físico,Directeur physique,مدير اللياقة البدنية
+49303,Gerente físico,Gestor físico,Responsable physique,مدير اللياقة البدنية
+49314,Profesor auxiliar de geriatría,Professor auxiliar de geriatria,Enseignant auxiliaire en gériatrie,معلم مساعد لرعاية المسنين
+49316,Coordinador de resonancia magnética,Coordenador de ressonância magnética,Coordinateur d'imagerie par résonance magnétique,منسق التصوير بالرنين المغناطيسي
+49317,Profesor de medición mental,Professor de medições mentais,Enseignant en mesures mentales,معلم القياسات النفسية
+49319,Coordinador de programa multicompartido,Coordenador de programa multipartilhado,Coordinateur de programme multi-partage,منسق البرنامج المشترك متعدد الأطراف
+49323,Jefe de cabezal,Chefe de cabeçote,Chef de tête,رئيس الرأس
+49326,Coordinador ACO,Coordenador ACO,Coordinateur ACO,منسق ACO
+49328,Coordinador de distrito,Coordenador de bairro,Coordinateur de quartier,منسق المنطقة
+49329,Coordinador CIS,Coordenador CIS,Coordinateur CIS,منسق CIS
+49330,Coordinador de concursantes,Coordenador de concorrentes,Coordinateur des candidats,منسق المتسابقين
+49331,Coordinador de estética y spa,Coordenador de estética e spa,Coordinateur esthétique et spa,منسق التجميل والسبا
+49332,Coordinador de trabajo de campo,Coordenador de trabalho de campo,Coordinateur des travaux de terrain,منسق العمل الميداني
+49333,Coordinador GSA,Coordenador GSA,Coordinateur GSA,منسق GSA
+49334,Coordinador de intermedios,Coordenador de intervalos,Coordinateur des entractes,منسق الاستراحات
+49335,Coordinador ISO,Coordenador ISO,Coordinateur ISO,منسق ISO
+49336,Cubridor de hojas,Cobridor de folhas,Couvreur de feuilles,عامل تغطية الأوراق
+49337,Coordinador de revisión retrospectiva,Coordenador de revisão retrospetiva,Coordinateur de revue rétrospective,منسق المراجعة بأثر رجعي
+49339,Mezclador de productos alimenticios secos,Misturador de produtos alimentares secos,Mélangeur de produits alimentaires secs,خالط المنتجات الغذائية الجافة
+49341,Coordinador ofensivo,Coordenador ofensivo,Coordinateur offensif,منسق الهجوم
+49342,Coordinador PPAP,Coordenador PPAP,Coordinateur PPAP,منسق PPAP
+49343,Coordinador UR,Coordenador UR,Coordinateur UR,منسق UR
+49344,Ayudante de operador de máquina de bies,Auxiliar de operador de máquina de viés,Aide opérateur de machine à biais,مساعد مشغل آلة الانحياز
+49345,Ayudante de operador de máquina de soldadura fuerte,Auxiliar de operador de máquina de brasagem,Aide opérateur de machine de brasage,مساعد مشغل آلة اللحام بالنحاس
+49346,Ayudante de impregnador y secador,Auxiliar de impregnador e secador,Aide imprégnateur et sécheur,مساعد المشرب والمجفف
+49347,Ayudante de observador de prospección sísmica,Auxiliar de observador de prospeção sísmica,Aide observateur de prospection sismique,مساعد مراقب المسح الزلزالي
+49350,Ayudante de ensayista,Auxiliar de ensaiador,Aide essayeur,مساعد المحلل الفني للمعادن
+49351,Ayudante de embotellador,Auxiliar de engarrafador,Aide embouteilleur,مساعد عامل التعبئة
+49352,Ayudante de cervecero,Auxiliar de cervejeiro,Aide brasseur,مساعد صانع الجعة
+49353,Ayudante de mantequero,Auxiliar de fabricante de manteiga,Aide beurrier,مساعد صانع الزبدة
+49355,Máquina de estampado de bordes,Máquina de tingir bordas,Machine à teinter les bords,آلة تلوين الحواف
+49356,Ayudante de galvanoplastia,Auxiliar de galvanoplastia,Aide galvanoplaste,مساعد الطلاء الكهربائي
+49358,Ayudante de desmotado,Auxiliar de descaroçamento,Aide égreneur,مساعد حلاج القطن
+49359,Ayudante de impregnación,Auxiliar de impregnação,Aide d'imprégnation,مساعد التشريب
+49360,Ayudante de litógrafo,Auxiliar de litógrafo,Aide lithographe,مساعد الطابع الحجري
+49361,Director de resonancia magnética,Diretor de ressonância magnética,Directeur d'imagerie par résonance magnétique,مدير التصوير بالرنين المغناطيسي
+49362,Director de programa de asistencia médica,Diretor de programa de assistência médica,Directeur du programme d'assistant médical,مدير برنامج المساعد الطبي
+49363,Director de programa de atención a la memoria,Diretor de programa de cuidados de memória,Directeur du programme de soins de la mémoire,مدير برنامج رعاية الذاكرة
+49364,Ayudante de pudelador,Auxiliar de pudelador,Aide puddleur,مساعد عامل الصهر في فرن البودلة
+49365,Director de servicios de personal de alumnos,Diretor de serviços de pessoal discente,Directeur des services au personnel scolaire,مدير خدمات شؤون الطلاب
+49366,Ayudante de carpintero de ribera,Auxiliar de carpinteiro naval,Aide charpentier de marine,مساعد نجار السفن
+49367,Recolector de tachuelas,Apanhador de tachas,Ramasseur de broquettes,جامع المسامير
+49368,Tecnólogo 3D,Tecnólogo 3D,Technologue 3D,فني 3D
+49369,Tecnólogo de eco,Tecnólogo de eco,Technologue échographe,فني الموجات فوق الصوتية
+49370,Tecnólogo de fibra,Tecnólogo de fibra,Technologue en fibres,فني الألياف
+49371,Tecnólogo híbrido,Tecnólogo híbrido,Technologue hybride,فني هجين
+49373,Preparador y forrador de cajas,Preparador e forrador de caixas,Préparateur et doubleur de boîtes,معد ومبطن الصناديق
+49376,Director de debates,Diretor de debates,Directeur des débats,مدير المناظرات
+49377,Director de fitness y bienestar,Diretor de fitness e bem-estar,Directeur fitness et bien-être,مدير اللياقة والعافية
+49378,Director de deportes intramuros,Diretor de desporto intramuros,Directeur du sport intra-muros,مدير الرياضة الداخلية
+49379,Director de negociaciones,Diretor de negociações,Directeur des négociations,مدير المفاوضات
+49380,Director de observatorio,Diretor de observatório,Directeur d'observatoire,مدير المرصد
+49381,Director de concursos,Diretor de concursos,Directeur de concours,مدير المسابقات
+49384,Supervisor / director de puerto,Supervisor / diretor de porto,Superviseur / directeur de port,مشرف ومدير الميناء
+49385,Director de muelle,Diretor de cais,Directeur de la façade maritime,مدير الواجهة البحرية
+49386,Limpiador de delantales,Limpador de aventais,Nettoyeur de tabliers,عامل تنظيف المآزر
+49387,Limpiador de cuencas,Limpador de bacias,Nettoyeur de bassins,عامل تنظيف الأحواض
+49388,Limpiador de carretes,Limpador de bobinas,Nettoyeur de cantres,عامل تنظيف البكرات
+49389,Limpiador de letreros,Limpador de sinais,Nettoyeur d'enseignes,عامل تنظيف اللافتات
+49392,Amoladora de solapa,Rebarbadora de aba,Meuleuse de chevauchement,عامل تجليخ الحواف المتداخلة
+49394,Alimentador de máquina de conos,Alimentador de máquina de cones,Alimentateur de machine à cônes,مغذي آلة المخاريط
+49395,Director de servicios ambulatorios,Diretor de serviços ambulatórios,Directeur des services ambulatoires,مدير خدمات العيادات الخارجية
+49396,Director de servicios de voluntariado,Diretor de serviços de voluntariado,Directeur des services de bénévolat,مدير خدمات التطوع
+49400,Entrenador Scrum,Treinador Scrum,Coach Scrum,مدرب Scrum
+49402,Hombre de cama,Homem de cama,Préposé au service de nuit,عامل تجهيز الأسرّة
+49403,Becario de la industria musical,Estagiário da indústria musical,Stagiaire de l'industrie musicale,متدرب صناعة الموسيقى
+49406,Auxiliar de vagón automático,Auxiliar de vagão automático,Employé de wagon-automate,موظف عربة الوجبات الآلية
+49407,Auxiliar de tubo de flujo,Auxiliar de tubo de fluxo,Employé de tube à flux,موظف أنبوب التدفق
+49409,Auxiliar de minibar,Auxiliar de minibar,Employé du minibar,موظف الميني بار
+49413,Auxiliar de mostrador de ensaladas,Auxiliar de balcão de saladas,Employé du comptoir à salades,موظف كاونتر السلطات
+49415,Auxiliar de vagón taberna,Auxiliar de vagão taberna,Employé de voiture-taverne,موظف عربة الحانة
+49419,Descargador de astillas,Descarregador de aparas,Déchargeur de copeaux,عامل تفريغ الرقائق
+49427,Impresor de cuadrante,Impressor de mostrador,Imprimeur de cadrans,طابع الأقراص
+49428,Líder de ventas de calzado,Líder de vendas de calçado,Responsable des ventes de chaussures,رئيس مبيعات الأحذية
+49430,Patólogo forestal,Patologista florestal,Pathologiste forestier,عالم أمراض الغابات
+49435,Impresor de fotograbado,Impressor de fotogravura,Imprimeur en photogravure,طابع الحفر الضوئي
+49442,Jefe de cuadrilla de weatherización,Chefe de equipa de isolamento térmico,Chef d'équipe d'isolation thermique,رئيس فريق تحسين كفاءة الطاقة
+49443,Teniente de detectives,Tenente de detetives,Lieutenant-détective,ملازم المباحث
+49445,Educador de habilidades para la vida,Educador de competências para a vida,Éducateur aux compétences de vie,مثقف مهارات الحياة
+49447,Ayudante de operador de horno de solera abierta,Auxiliar de operador de forno de soleira aberta,Aide opérateur de four à sole ouverte,مساعد مشغل فرن القضبان المفتوح
+49448,Lavador de parches,Lavador de remendos,Laveur de pièces,عامل غسل الرقع
+49450,Preparador de máquina de impresión de identificación,Preparador de máquina de impressão de identificação,Régleur de machine d'impression d'identification,مُعدّل آلة طباعة الهويات
+49453,Partidor de cajas,Divisor de caixas,Fendeur de boîtiers,عامل شق الأغلفة
+49454,Ayudante de convertidor de deshidrogenación,Auxiliar de conversor de desidrogenação,Aide convertisseur de déshydrogénation,مساعد محول إزالة الهيدروجين
+49455,Ayudante de molino de copos,Auxiliar de moinho de flocos,Aide broyeur de flocons,مساعد طاحونة الرقائق
+49456,Ayudante de prensa flexográfica,Auxiliar de prensa flexográfica,Aide presse flexographique,مساعد المكبس المرن
+49457,Ayudante de dosificador de ingredientes,Auxiliar de dosificador de ingredientes,Aide doseur d'ingrédients,مساعد موزن المكونات
+49458,Ayudante de prensa de forja,Auxiliar de prensa de forja,Aide presse à forger,مساعد مكبس الحدادة
+49459,Sellador de bolsas,Selador de sacos,Scelleur de sacs,عامل إغلاق الأكياس
+49460,Sellador de bloques,Selador de blocos,Scelleur de blocs,عامل إغلاق الكتل
+49461,Sellador de latas,Selador de latas,Sertisseur de boîtes,عامل إغلاق العلب
+49462,Sellador de vagones,Selador de vagões,Scelleur de wagons,عامل إغلاق العربات
+49463,Sellador de cajas,Selador de caixas,Scelleur de cartons,عامل إغلاق الصناديق
+49464,Cultivador de cristales,Cultivador de cristais,Cultivateur de cristaux,مُنمّي البلورات
+49465,Sellador de bidones,Selador de tambores,Scelleur de fûts,عامل إغلاق البراميل
+49466,Sellador de papel,Selador de papel,Scelleur de papier,عامل إغلاق الورق
+49467,Sellador de seguridad,Selador de segurança,Scelleur de sécurité,عامل إغلاق الأمان
+49468,Colocador de adornos,Colocador de ornamentos,Poseur d'ornements,عامل تركيب الزخارف
+49470,Gerente de seguros de aseguramiento,Gestor de seguros de garantia,Responsable d'assurance qualité,مدير ضمان التأمين
+49475,Examinador de instrumentos legales,Examinador de instrumentos jurídicos,Examinateur d'instruments juridiques,فاحص المستندات القانونية
+49478,Ajustador de máquina de encolado,Ajustador de máquina de colagem,Régleur de machine de collage,مُعدّل آلة اللصق
+49479,Operador de secador de vagón de transferencia,Operador de secador de vagão de transferência,Opérateur de sécheur à chariot de transfert,مشغل مجفف عربة النقل
+49480,Auxiliar de restauración,Auxiliar de restauro,Aide à la restauration,مساعد الترميم
+49481,Preparador de arneses,Preparador de arreios,Préparateur de harnais,معد الأحزمة
+49483,RN de registro domiciliario,Enfermeiro de registo domiciliário,Infirmier d'enregistrement à domicile,ممرض تسجيل منزلي
+49485,Bobinador de madejas de prueba,Enroladeira de meadas de teste,Bobineur d'écheveaux d'essai,عامل لف خيوط الاختبار
+49486,Bobinador de cinta de máquina de escribir,Enroladeira de fita de máquina de escrever,Bobineur de ruban de machine à écrire,عامل لف شريط الآلة الكاتبة
+49496,Fabricante de cámaras funerarias,Fabricante de jazigos,Fabricant de caveaux funéraires,صانع المقابر الجماعية
+49502,Cargador de sacudidas,Carregador de agitação,Chargeur de secousses,عامل تحميل الهزّاز
+49504,Sumergidor de hormas,Mergulhador de fôrmas,Trempeur de formes,عامل غمس القوالب
+49505,Jefe de equipo de vía portátil,Chefe de equipa de via portátil,Chef d'équipe de voie portable,رئيس فريق السكة المتنقلة
+49506,Auxiliar de máquina de tirar de hilos,Auxiliar de máquina de puxar fios,Aide machine à tirer les fils,موظف آلة سحب الخيوط
+49508,Práctica de inclusión,Estágio de inclusão,Stage d'inclusion,تدريب الإدماج
+49509,Extractor de bucles,Extrator de laços,Extracteur de boucles,عامل سحب الحلقات
+49512,Colgador de fieltro,Pendurador de feltro,Accrocheur de feutre,معلّق اللباد
+49514,Operario de caldera de alquitrán,Operador de caldeira de alcatrão,Opérateur de chaudière à goudron,عامل مرجل القطران
+49516,Mezclador de arcilla,Misturador de argila,Malaxeur d'argile,خالط الطين
+49520,Segundo mezclador,Segundo misturador,Second malaxeur,المخلط الثاني
+49521,Cortador de presillas de cinturón,Cortador de passadores de cinto,Coupeur de passants de ceinture,قاطع أحزمة الحزام
+49524,Cortador de placas de zinc,Cortador de placas de zinco,Coupeur de plaques de zinc,قاطع ألواح الزنك
+49526,Gerente de plantación y cultivo aéreo,Gestor de plantação e cultivo aéreo,Responsable de plantation et de culture aériennes,مدير الزراعة والتشجير الجوي
+49528,Gerente de ciencia de datos e IoT,Gestor de ciência de dados e IoT,Responsable science des données et IoT,مدير علم البيانات وإنترنت الأشياء
+49529,Subgerente de Einstein Bros Bagels,Subgestor da Einstein Bros Bagels,Directeur adjoint Einstein Bros Bagels,مساعد مدير Einstein Bros Bagels
+49535,Gerente de servicios compartidos y externalización,Gestor de serviços partilhados e outsourcing,Responsable des services partagés et de l'externalisation,مدير الخدمات المشتركة والتعهيد
+49539,Encelofanador,Celofanador,Cellophaneur,عامل التغليف بالسيلوفان
+49542,Pulpeador,Pulpeiro,Pulpeur,عامل الهرس
+49546,Alimentador de línea de carcasas,Alimentador de linha de invólucros,Alimentateur de ligne d'enveloppes,مغذي خط الأغلفة
+49549,Primer triturador,Primeiro britador,Premier concasseur,المكسّر الأول
+49550,Triturador de vidrio,Britador de vidro,Concasseur de verre,مكسّر الزجاج
+49551,Marcador de paracaídas,Marcador de paraquedas,Marqueur de parachutes,عامل تعليم المظلات
+49552,Alimentador de remolque,Alimentador de reboque,Alimentateur de remorque,مغذي المقطورات
+49553,Marcador superior,Marcador superior,Marqueur supérieur,عامل التعليم العلوي
+49555,Desarrollador de paneles de placas de circuito impreso,Desenvolvedor de painéis de placas de circuito impresso,Développeur de panneaux de circuits imprimés,مطوّر ألواح الدوائر المطبوعة
+49559,Administrador de garantías de automoción,Administrador de garantias automóvel,Administrateur des garanties automobiles,مدير ضمانات السيارات
+49564,Gerente de aire,Gestor de ar,Responsable air,مدير الهواء
+49568,Encargado de tanque de decantación,Encarregado de tanque de decantação,Opérateur de bassin,مشغل الحوض
+49569,Encargado de enfriador,Encarregado de arrefecedor,Opérateur de refroidisseur,مشغل المبرّد
+49570,Encargado de mandril,Encarregado de mandril,Opérateur de mandrin,مشغل المنظومة
+49571,Encargado de escamadora,Encarregado de escamadora,Opérateur de floconneuse,مشغل آلة التقشير
+49572,Encargado de flotación,Encarregado de flotação,Opérateur de flottation,مشغل التعويم
+49574,Encargado de desmotadora,Encarregado de desmotadora,Opérateur d'égreneuse,مشغل حلاجة القطن
+49575,Verificador de color de hilo de mecha,Verificador de cor de mecha,Contrôleur de couleur de mèche,فاحص لون خيط الفتيل
+49576,Encargado de rascador,Encarregado de raspador,Opérateur de racleur,مشغل الكاشطة
+49577,Encargado de pico de vertido,Encarregado de bico de descarga,Opérateur de bec de coulée,مشغل فوهة الصب
+49578,Encargado de cuenca hidrográfica,Encarregado de bacia hidrográfica,Gardien de bassin versant,مراقب الحوض المائي
+49582,Acabador de bolas de bolos,Acabador de bolas de bowling,Finisseur de boules de bowling,منهي كرات البولينغ
+49585,Acabador de tiras de fieltro,Acabador de tiras de feltro,Finisseur de bandes de feutre,منهي شرائط اللباد
+49586,Consejero de la asociación de enfermería,Conselheiro da associação de enfermagem,Conseiller de l'association des infirmiers,مستشار جمعية التمريض
+49591,Anfitrión de spa,Anfitrião de spa,Hôte de spa,مضيف السبا
+49598,Responsable de Citrix,Responsável Citrix,Responsable Citrix,رئيس فريق Citrix
+49600,Ayudante de escaldador de almendras,Auxiliar de escaldador de amêndoas,Aide échaudeur d'amandes,مساعد مقشّر اللوز
+49601,Ayudante de cortador de cubrecamas,Auxiliar de cortador de colchas,Aide coupeur de couvre-lits,مساعد قاطع أغطية الأسرّة
+49602,Ayudante de sala de cocción,Auxiliar de sala de cozedura,Aide de la salle d'ébullition,مساعد غرفة الغليان
+49603,Ayudante de colocador de besos,Auxiliar de colocador de beijos,Aide poseur de baisers,مساعد عامل تركيب الأغطية
+49608,Instalador de piedra artificial,Instalador de pedra artificial,Installateur de pierre artificielle,فني تركيب الحجر الصناعي
+49609,Instalador de ticker,Instalador de ticker,Installateur de ticker,فني تركيب شريط الأخبار
+49610,Jefe de medicina hospitalaria,Chefe de medicina hospitalar,Chef de service de médecine hospitalière,رئيس طب المستشفيات
+49612,Pulidor de estufas,Polidor de fogões,Polisseur de poêles,مصقّل المواقد
+49615,Operario de diseño de efectos ópticos,Operador de layout de efeitos ópticos,Opérateur de mise en page d'effets optiques,مُخطِّط المؤثرات البصرية
+49616,Director de seguros de vida,Diretor de seguros de vida,Directeur d'assurance vie,مدير التأمين على الحياة
+49617,Pulidor de plantillas,Polidor de palmilhas,Ponceur de semelles intérieures,مصقّل النعال الداخلية
+49618,Forrador de plantillas,Forrador de palmilhas,Garnisseur de semelles intérieures,مُبطّن النعال الداخلية
+49619,Gerente de seguros de vida,Gestor de seguros de vida,Responsable d'assurance vie,مدير التأمين على الحياة
+49620,Distribuidor de órdenes de trabajo,Distribuidor de fichas de trabalho,Distributeur de bons de travail,موزع بطاقات العمل
+49622,Jugador de relaciones públicas,Jogador de relações públicas,Joueur de relations publiques,لاعب العلاقات العامة
+49623,Sellador de volumen,Selador de volume,Scelleur en vrac,عامل الإغلاق بالجملة
+49624,Extractor de carbón de hueso,Extrator de carvão de osso,Extracteur de noir d'os,عامل سحب فحم العظام
+49628,Agente de fianzas judiciales,Agente de cauções judiciais,Agent de cautionnement judiciaire,وكيل كفالة الإفراج بالكفالة
+49629,Agente de fianzas judiciales,Agente de cauções judiciais,Agent de cautionnement judiciaire,وكيل كفالة الإفراج بالكفالة
+49633,Gerente de arte,Gestor de arte,Responsable artistique,مدير الفن
+49634,Recortador de vísceras,Aparador de vísceras,Ébarbeur d'abats,عامل تقليم الأحشاء
+49638,Cortador de encurtidos,Cortador de pickles,Coupeur de cornichons,قاطع المخلل
+49639,Cortador de vieiras,Cortador de vieiras,Coupeur de coquilles Saint-Jacques,قاطع المحار
+49640,Cortador de astillas,Cortador de aparas,Coupeur de copeaux,قاطع الشرائح
+49641,Cortador de grapas,Cortador de agrafos,Coupeur d'agrafes,قاطع الدبابيس
+49643,Programador de suelas,Agendador de solas,Planificateur de semelles,مجدول النعال
+49644,Jefe de rampa,Chefe de rampa,Chef de rampe,رئيس المنحدر
+49645,Llenador de sacos,Enchedor de sacos,Remplisseur de sacs,عامل تعبئة الأكياس
+49648,Preparador de muestras de exposición,Preparador de exposições de amostras,Préparateur d'exposition d'échantillons,معد عرض العينات
+49651,Sargento segundo de guardia,Sargento de segunda vigia,Sergent de deuxième garde,رقيب الحراسة الثاني
+49654,Corredor supervisor,Corretor supervisor,Courtier superviseur,وسيط مشرف
+49657,Fabricante de cestas de listones a máquina,Fabricante de cestos de ripas a máquina,Fabricant de paniers à lattes à la machine,صانع السلال الخشبية بالآلة
+49658,Líder de ventas de unidad de venta en fiestas,Líder de vendas de unidade de venda em festas,Responsable des ventes de réunions à domicile,قائد مبيعات وحدة البيع بالحفلات
+49659,Fabricante de la parte superior de cestas de listones,Fabricante de topo de cestos de ripas,Fabricant de dessus de paniers à lattes,صانع الغطاء الأعلى للسلال الخشبية
+49671,Operador de máquina de ablandado de sombreros de fieltro,Operador de máquina de amaciar chapéus de feltro,Opérateur de machine d'affinage des chapeaux de feutre,مشغل آلة تليين القبعات اللبادية
+49672,Aprendiz de mecánico de guardabarros,Aprendiz de mecânico de guarda-lamas,Apprenti mécanicien de garde-boue,متدرب ميكانيكي الرفارف
+49674,Consultor de torneos de golf,Consultor de torneios de golfe,Consultant de tournois de golf,مستشار بطولات الغولف
+49684,Aprendiz de grabador de chapa,Aprendiz de granulador de placas,Apprenti grainer de plaques,متدرب تحبيب الألواح
+49686,Consultor de informes SEC,Consultor de relatórios SEC,Consultant en reporting SEC,مستشار التقارير لهيئة الأوراق المالية
+49687,Consultor de operaciones de Sephora,Consultor de operações Sephora,Consultant opérations Sephora,مستشار عمليات Sephora
+49688,Consultor de producto de Sephora,Consultor de produto Sephora,Consultant produit Sephora,مستشار منتجات Sephora
+49699,Constructor de ánodos,Construtor de ânodos,Monteur d'anodes,بنّاء الأنودات
+49700,Reparador de conectores de bobina,Reparador de conectores de bobina,Réparateur de connecteurs de bobines,مُصلح موصلات الملفات
+49703,Constructor de laminados,Construtor de laminados,Constructeur de stratifiés,بنّاء الصفائح المصفحة
+49704,Constructor de lengüetas,Construtor de lingueta,Monteur de languettes,بنّاء اللسان
+49705,Mezclador de queso,Misturador de queijo,Mélangeur de fromage,خالط الجبن
+49706,Operador de control de fuego de artillería de campaña,Operador de controlo de tiro de artilharia de campanha,Opérateur de conduite de tir d'artillerie de campagne,مشغل التحكم بالنيران للمدفعية الميدانية
+49707,Jefe de prueba,Chefe de ensaio,Chef d'essai,مدير التجارب
+49708,Probador de encogimiento de tejidos,Testador de encolhimento de tecido,Testeur de rétrécissement de tissu,فاحص انكماش الأقمشة
+49709,Probador de craqueo de mercurio,Testador de craqueamento de mercúrio,Testeur de craquage du mercure,فاحص تكسير الزئبق
+49710,Probador de encapsulados semiconductores,Testador de encapsulamentos semicondutores,Testeur de boîtiers semi-conducteurs,فاحص عبوات أشباه الموصلات
+49711,Director general de producción en carretera,Diretor-geral de produção de estrada,Directeur général de production routière,المدير العام لإنتاج الطرق
+49712,Director digital,Diretor digital,Directeur digital,مدير رقمي
+49713,Gerente digital,Gestor digital,Responsable digital,مدير رقمي
+49715,Ejecutivo de investigación e insights,Executivo de investigação e insights,Cadre études et insights,مدير الأبحاث والرؤى
+49716,Ejecutivo de investigación e insights,Executivo de investigação e insights,Cadre études et insights,مدير الأبحاث والرؤى
+49723,Peón de verdes,Trabalhador de zonas verdes,Manœuvre des espaces verts,عامل المساحات الخضراء
+49725,Acabador de fotograbado,Acabador de fotogravura,Finisseur en photogravure,منهي الحفر الضوئي
+49729,Mezclador de grasa,Misturador de lardo,Mélangeur de saindoux,خالط الشحم
+49732,Director global de investigación de mercados,Diretor global de estudos de mercado,Directeur mondial des études de marché,مدير الأبحاث التسويقية العالمية
+49733,Director de investigación de mercados,Diretor de estudos de mercado,Directeur des études de marché,مدير الأبحاث التسويقية
+49737,Supervisor de taller de rótulos,Supervisor da oficina de sinalética,Superviseur de l'atelier d'enseignes,مشرف ورشة اللافتات
+49745,Estimador de cortinajes,Orçamentista de cortinados,Estimateur de draperies,مقدّر الستائر
+49746,Contratista independiente,Empreiteiro independente,Entrepreneur indépendant,مقاول مستقل
+49750,Director de enfermería de urgencias,Diretor de enfermagem de urgências,Directeur des soins infirmiers d'urgence,مدير تمريض الطوارئ
+49753,Terapeuta de centro escolar,Terapeuta de base escolar,Thérapeute en milieu scolaire,معالج في المدرسة
+49765,Bombero de draga,Bombeiro de draga,Pompier de drague,عامل مضخة الكراكة
+49766,Envolvedor de mangueras,Enrolador de mangueiras,Enrouleur de tuyaux,عامل لف الخراطيم
+49769,Profesor de algología,Professor de algologia,Professeur d'algologie,معلم علم الطحالب
+49771,Profesor de apicultura,Professor de apicultura,Professeur d'apiculture,معلم تربية النحل
+49773,Profesor de biometría,Professor de biometria,Professeur de biométrie,معلم القياس الحيوي
+49774,Marcador de bolas de bolos,Marcador de bolas de bowling,Marqueur de boules de bowling,عامل تعليم كرات البولينغ
+49777,Encuadernador de puros,Encadernador de charutos,Lieur de cigares,عامل ربط السيجار
+49778,Profesor de criptoanálisis,Professor de criptanálise,Professeur de cryptanalyse,معلم التحليل التشفيري
+49779,Profesor de criptografía,Professor de criptografia,Professeur de cryptographie,معلم التشفير
+49780,Profesor de cristalografía,Professor de cristalografia,Professeur de cristallographie,معلم علم البلورات
+49787,Profesor de ELA,Professor de ELA,Professeur d'ELA,معلم اللغة الإنجليزية كلغة ثانية
+49788,Profesor de elocución,Professor de elocução,Professeur d'élocution,معلم الإلقاء
+49790,Profesor de etiología,Professor de etiologia,Professeur d'étiologie,معلم علم المسببات
+49791,Profesor de FACS,Professor de FACS,Professeur de FACS,معلم FACS
+49793,Profesor de FMD,Professor de FMD,Professeur de FMD,معلم FMD
+49794,Mecánico de mantenimiento de máquina formadora,Mecânico de manutenção de máquina de formar,Mécanicien d'entretien de machine à former,ميكانيكي صيانة آلة التشكيل
+49795,Profesor de geoquímica,Professor de geoquímica,Professeur de géochimie,معلم الجيوكيمياء
+49796,Profesor de geodesia,Professor de geodesia,Professeur de géodésie,معلم الجيوديسيا
+49797,Profesor de geomorfología,Professor de geomorfologia,Professeur de géomorphologie,معلم الجيومورفولوجيا
+49798,Profesor de geopolítica,Professor de geopolítica,Professeur de géopolitique,معلم الجيوسياسة
+49802,Profesor de helmintología,Professor de helmintologia,Professeur d'helminthologie,معلم علم الديدان الطفيلية
+49803,Profesor de herpetología,Professor de herpetologia,Professeur d'herpétologie,معلم علم الزواحف والبرمائيات
+49804,Profesor a domicilio,Professor domiciliário,Enseignant à domicile,معلم منزلي
+49806,Profesor de hidrografía,Professor de hidrografia,Professeur d'hydrographie,معلم علم المياه
+49807,Profesor de hidrometeorología,Professor de hidrometeorologia,Professeur d'hydrométéorologie,معلم علم الأرصاد المائية
+49808,Profesor de ictiología,Professor de ictiologia,Professeur d'ichtyologie,معلم علم الأسماك
+49812,Profesor de limnología,Professor de limnologia,Professeur de limnologie,معلم علم البحيرات
+49813,Profesor de mastozoología,Professor de mastozoologia,Professeur de mammalogie,معلم علم الثدييات
+49814,Profesor de metalografía,Professor de metalografia,Professeur de métallographie,معلم علم المعادن
+49815,Profesor de metafísica,Professor de metafísica,Professeur de métaphysique,معلم الميتافيزيقا
+49819,Profesor de morfología,Professor de morfologia,Professeur de morphologie,معلم علم التشكّل
+49821,Profesor de micología,Professor de micologia,Professeur de mycologie,معلم علم الفطريات
+49822,Profesor de nematología,Professor de nematologia,Professeur de nématologie,معلم علم الديدان الخيطية
+49823,Profesor de NSH,Professor de NSH,Professeur de NSH,معلم NSH
+49824,Profesor de oceanología,Professor de oceanologia,Professeur d'océanologie,معلم علم المحيطات
+49827,Profesor de ornitología,Professor de ornitologia,Professeur d'ornithologie,معلم علم الطيور
+49828,Profesor de osteología,Professor de osteologia,Professeur d'ostéologie,معلم علم العظام
+49829,Profesor de paleontología,Professor de paleontologia,Professeur de paléontologie,معلم علم الحفريات
+49830,Profesor de parasitología,Professor de parasitologia,Professeur de parasitologie,معلم علم الطفيليات
+49831,Profesor de petrografía,Professor de petrografia,Professeur de pétrographie,معلم علم الصخور الوصفي
+49832,Profesor de petrología,Professor de petrologia,Professeur de pétrologie,معلم علم الصخور
+49833,Profesor de farmacognosia,Professor de farmacognosia,Professeur de pharmacognosie,معلم علم العقاقير الطبيعية
+49834,Profesor de fitopatología,Professor de fitopatologia,Professeur de phytopathologie,معلم أمراض النبات
+49835,Profesor de pomología,Professor de pomologia,Professeur de pomologie,معلم علم الفاكهة
+49836,Profesor de PPA,Professor de PPA,Professeur de PPA,معلم PPA
+49838,Profesor de protozoología,Professor de protozoologia,Professeur de protozoologie,معلم علم الأوليات
+49839,Profesor de roentgenología,Professor de roentgenologia,Professeur de roentgénologie,معلم علم الأشعة السينية
+49842,Profesor de sericultura,Professor de sericicultura,Professeur de sériciculture,معلم تربية دودة القز
+49845,Profesor de estratigrafía,Professor de estratigrafia,Professeur de stratigraphie,معلم علم طبقات الأرض
+49851,Profesor de VE,Professor de VE,Professeur de VE,معلم VE
+49852,Profesor de virología,Professor de virologia,Professeur de virologie,معلم علم الفيروسات
+49853,Profesor de viticultura,Professor de viticultura,Professeur de viticulture,معلم زراعة الكروم
+49857,Coleccionista de monedas de prueba,Colecionador de moedas de prova,Collectionneur de pièces de frappe,جامع العملات التذكارية
+49862,Moldeador de masa,Moldador de massa,Mouleur de pâte,مشكّل العجين
+49866,Merchandiser de electrónica de consumo,Merchandiser de eletrónica de consumo,Merchandiser en électronique grand public,مسوّق الإلكترونيات الاستهلاكية
+49867,Máquina bobinadora de elementos antihielo,Máquina de enrolar elementos antigelo,Machine à enrouler les éléments antigivrage,آلة لف عناصر مزيل الجليد
+49869,Proveedor de servicio directo,Prestador de serviço direto,Prestataire de service direct,مزود الخدمة المباشرة
+49870,Ajustador de cintas de sombrero,Acoplador de fitas de chapéu,Fixateur de rubans de chapeau,مثبّت أشرطة القبعات
+49876,Montador de bastidores de alfombras,Montador de armações de tapetes,Monteur de cadres de tapis,مركّب إطارات السجاد
+49877,Ajustador de tacones de madera,Ajustador de saltos de madeira,Fixateur de talons en bois,مثبّت الكعوب الخشبية
+49878,Director de asuntos médicos,Diretor de assuntos médicos,Directeur des affaires médicales,مدير الشؤون الطبية
+49879,Investigador de asuntos internos,Investigador de assuntos internos,Enquêteur des affaires internes,محقق الشؤون الداخلية
+49881,Gerente de asuntos médicos,Gestor de assuntos médicos,Responsable des affaires médicales,مدير الشؤون الطبية
+49883,VP de asuntos legales,VP de assuntos jurídicos,VP affaires juridiques,نائب الرئيس للشؤون القانونية
+49886,Planificador de restauración ambiental,Planeador de restauração ambiental,Planificateur de restauration environnementale,مخطط الاستعادة البيئية
+49887,Peón de horno de solera abierta,Trabalhador de forno de soleira aberta,Manœuvre de four à sole ouverte,عامل فرن القضبان المفتوح
+49888,Peón de obras públicas,Trabalhador de obras públicas,Manœuvre des travaux publics,عامل الأشغال العامة
+49889,Limpiador de serpentín de cerveza,Limpador de serpentina de cerveja,Nettoyeur de serpentin de bière,عامل تنظيف ملفات الجعة
+49890,Máquina desbarbadora,Máquina de rebarbar,Machine à ébavurer,آلة إزالة الحواف الحادة
+49891,Máquina desbarbadora,Máquina de rebarbar,Machine à ébavurer,آلة إزالة الحواف الحادة
+49892,Máquina granuladora,Máquina de granular,Machine à grainer,آلة التحبيب
+49894,Máquina de pulido por batido,Máquina de polir por pouncing,Machine à poncer au poncif,آلة الصقل بالتنعيم
+49896,Máquina de quitar tallos,Máquina de retirar pedúnculos,Machine à équeuter,آلة إزالة الأعناق
+49903,Entrenador de centro de llamadas o contacto,Treinador de centro de chamadas ou de contacto,Coach de centre d'appels ou de contact,مدرب مركز الاتصال أو التواصل
+49904,Clasificador de mijo,Triador de sorgo,Trieur de sorgho,فارز الذرة الرفيعة
+49906,Parcheador de sacos,Remendador de sacos,Rapiéceur de sacs,عامل ترقيع الأكياس
+49908,Parcheador de latas,Remendador de latas,Rapiéceur de boîtes,عامل ترقيع العلب
+49909,Soplador de carcasas,Soprador de invólucros,Souffleur d'enveloppes,عامل نفخ الأغلفة
+49911,Parcheador de cigarros,Remendador de charutos,Rapiéceur de cigares,عامل ترقيع السيجار
+49914,Parcheador de puertas,Remendador de portas,Rapiéceur de portes,عامل ترقيع الأبواب
+49915,Parcheador de acabado,Remendador de acabamento,Rapiéceur de finition,عامل ترقيع التشطيب
