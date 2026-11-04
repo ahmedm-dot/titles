@@ -1,0 +1,2501 @@
+rank,title,family,seniority
+55898,Trauma Doctor,Healthcare & Medical,Unspecified
+55899,VP Global,Other,VP / Head
+55900,Zinc Miner,Other,Unspecified
+55901,Collision Estimator,Engineering (Non-Software),Unspecified
+55902,Parcel Contractor,"Media, Sports & Entertainment",Unspecified
+55903,Animal Care Taker,Other,Unspecified
+55904,Apprentice Machinist Outside,Manufacturing & Skilled Trades,Junior / Entry
+55906,Fire Services Plumber,Manufacturing & Skilled Trades,Unspecified
+55907,Machinist Supervisor Outside,Manufacturing & Skilled Trades,Manager
+55908,Service Order Taker,Other,Unspecified
+55910,Insole and Outsole Preparer,Other,Unspecified
+55913,Bowling Ball Grader and Marker,Other,Unspecified
+55915,Medical Record Librarians Teacher,Healthcare & Medical,Unspecified
+55916,Moid Middle School Teacher,Education & Training,Unspecified
+55917,Non Categorical Preschool Teacher,Education & Training,Unspecified
+55919,Cellar Pumper,Other,Unspecified
+55920,Grey Goods Marker,Other,Unspecified
+55921,Level Vial Marker,Other,Unspecified
+55922,Racing Board Marker,Other,Unspecified
+55924,Parcel Post Carrier,Other,Unspecified
+55925,Title 1 Tutor,Education & Training,Unspecified
+55926,Parachute Line Tier,Other,Unspecified
+55927,Superintendent Seed Mill,Manufacturing & Skilled Trades,Director
+55928,Flue Dust Laborer,Manufacturing & Skilled Trades,Unspecified
+55929,Smoking Pipes Cleaner,Manufacturing & Skilled Trades,Unspecified
+55930,Toll Service Observer,"Hospitality, Food & Travel",Unspecified
+55931,Hydroelectric Plant Maintainer,Energy & Utilities,Unspecified
+55933,Audiovisual Librarian,Education & Training,Unspecified
+55935,Head Baggage Porter,"Hospitality, Food & Travel",Unspecified
+55936,Railroad Baggage Porter,"Hospitality, Food & Travel",Unspecified
+55937,Station Baggage Porter,"Hospitality, Food & Travel",Unspecified
+55938,Men's Swim Coach,Education & Training,Unspecified
+55939,Women's Lacrosse Coach,Education & Training,Unspecified
+55940,Women's Swim Coach,Education & Training,Unspecified
+55941,Womens Volleyball Coach,Education & Training,Unspecified
+55942,Window Glass Cutter Off,Manufacturing & Skilled Trades,Unspecified
+55943,Belt Sander Stone,Manufacturing & Skilled Trades,Unspecified
+55944,Patternmaker Apprentice Wood,Manufacturing & Skilled Trades,Junior / Entry
+55946,Education Paraprofessional,Education & Training,Unspecified
+55947,Educational Paraprofessional,Education & Training,Unspecified
+55948,Home Paraprofessional,Education & Training,Unspecified
+55949,Instructional Paraprofessional,Education & Training,Unspecified
+55950,Legal Paraprofessional,Education & Training,Unspecified
+55951,Library Paraprofessional,Education & Training,Unspecified
+55952,Preschool Paraprofessional,Education & Training,Unspecified
+55953,Program Paraprofessional,Education & Training,Unspecified
+55954,Resource Paraprofessional,Education & Training,Unspecified
+55955,Atmospheric Chemist,Science & Research,Unspecified
+55956,Breast Surgeon,Healthcare & Medical,Unspecified
+55957,Computational Chemist,Science & Research,Unspecified
+55958,Heart Surgeon,Healthcare & Medical,Unspecified
+55959,Molded Goods Spot Picker,Operations & Supply Chain,Unspecified
+55960,Nutritional Chemist,Science & Research,Unspecified
+55961,Chronic Condition Nurse,Healthcare & Medical,Unspecified
+55962,Grommet Man,Manufacturing & Skilled Trades,Unspecified
+55963,House Calls Nurse,Healthcare & Medical,Unspecified
+55964,Leadite Man,Manufacturing & Skilled Trades,Unspecified
+55966,Multiple Sclerosis Nurse,Healthcare & Medical,Unspecified
+55967,Straightedge Man,Manufacturing & Skilled Trades,Unspecified
+55968,Tare Man,Manufacturing & Skilled Trades,Unspecified
+55969,Consultants Intern,General / Cross-functional,Mid
+55970,Fall Intern,General / Cross-functional,Junior / Entry
+55971,Phd Intern,General / Cross-functional,Junior / Entry
+55972,Area Forester,Other,Unspecified
+55973,Contract Forester,Other,Unspecified
+55974,Extension Forester,Other,Unspecified
+55975,Operations Forester,Operations & Supply Chain,Unspecified
+55976,Procurement Forester,Sales & Business Development,Unspecified
+55977,Regional Forester,Other,Unspecified
+55978,Resource Forester,Other,Unspecified
+55979,Roving Hauler,Other,Unspecified
+55980,Roving Sizer,Other,Unspecified
+55981,Staff Forester,General / Cross-functional,Senior
+55982,Utility Forester,Energy & Utilities,Unspecified
+55983,Cell Pourer,Other,Unspecified
+55984,Concrete Pourer,Other,Unspecified
+55985,Iron Pourer,Other,Unspecified
+55986,Lead Pourer,General / Cross-functional,Manager
+55987,Metal Pourer,Other,Unspecified
+55988,Paint Pourer,Other,Unspecified
+55989,Steel Pourer,Other,Unspecified
+55990,Business and Financial Counsel,Finance & Accounting,Unspecified
+55991,VP & General Counsel,Legal,VP / Head
+55992,Copper Plate Printer,Other,Unspecified
+55993,Director Process Improvement,Other,Director
+55994,Lump Roller,Other,Unspecified
+55995,Manager Home Improvement,Other,Manager
+55996,Manager Process Improvement,Other,Manager
+55997,Manager Quality Improvement,Other,Manager
+55998,Offal Roller,Other,Unspecified
+55999,Painter Railroad Car,Other,Unspecified
+56000,Saddle Lining Stitcher,Manufacturing & Skilled Trades,Unspecified
+56001,Saddle Tree Stitcher,Manufacturing & Skilled Trades,Unspecified
+56002,SAP Bpc Architect,Design & Creative,Unspecified
+56003,SAP Fico Architect,Design & Creative,Unspecified
+56004,SAP Hana Architect,Design & Creative,Unspecified
+56005,SAP Pi Architect,Design & Creative,Unspecified
+56007,Turf Keeper,Other,Unspecified
+56008,Blender / Cook,"Hospitality, Food & Travel",Unspecified
+56010,Flying Squad Salesperson,Sales & Business Development,Unspecified
+56013,Nutritional Services Cook,"Hospitality, Food & Travel",Unspecified
+56016,Knit Goods Washer,Manufacturing & Skilled Trades,Unspecified
+56018,Public Address Servicer,Other,Unspecified
+56020,Boilers and Pressure Vessels Inspector,Manufacturing & Skilled Trades,Unspecified
+56021,Getter Welder,Manufacturing & Skilled Trades,Unspecified
+56022,Heading and Priming Tool Setter,Manufacturing & Skilled Trades,Unspecified
+56023,Honing Machine Try Out Setter,Manufacturing & Skilled Trades,Unspecified
+56024,Rim Fire Priming Tool Setter,Manufacturing & Skilled Trades,Unspecified
+56026,Auto Damage Trainee,General / Cross-functional,Junior / Entry
+56027,Clay Pigeon Setter,Manufacturing & Skilled Trades,Unspecified
+56028,Dry Folder Cloth,Manufacturing & Skilled Trades,Unspecified
+56029,Lockstitch Waistband Setter,Manufacturing & Skilled Trades,Unspecified
+56031,Formula Weigher,Manufacturing & Skilled Trades,Unspecified
+56032,Gravel Weigher,Manufacturing & Skilled Trades,Unspecified
+56034,Juice Weigher,Manufacturing & Skilled Trades,Unspecified
+56036,Toddler Guide,Other,Unspecified
+56038,Boiler Repairman,Other,Unspecified
+56039,Bread Dumper,Other,Unspecified
+56040,Camera Repairman,"Media, Sports & Entertainment",Unspecified
+56041,Car Repairman,Other,Unspecified
+56042,Chef & Owner,"Hospitality, Food & Travel",C-Level
+56043,Cooler Deliverer,Other,Unspecified
+56045,Door Repairman,Other,Unspecified
+56046,Fence Repairman,Other,Unspecified
+56047,Global Process Owner,Executive & General Management,C-Level
+56048,Hot Repairman,Other,Unspecified
+56050,Insurance Agency Owner,Executive & General Management,C-Level
+56051,Machine Repairman,Manufacturing & Skilled Trades,Unspecified
+56052,Maintenance Repairman,Manufacturing & Skilled Trades,Unspecified
+56053,Nurse Sitter,Healthcare & Medical,Unspecified
+56054,Patient Sitter,Healthcare & Medical,Unspecified
+56056,Radio Repairman,"Media, Sports & Entertainment",Unspecified
+56057,Safety Sitter,Other,Unspecified
+56058,Shoe Repairman,Other,Unspecified
+56059,Television Repairman,"Media, Sports & Entertainment",Unspecified
+56060,Tire Repairman,Other,Unspecified
+56061,Washer Repairman,Manufacturing & Skilled Trades,Unspecified
+56062,Glost Tile Sorter,Manufacturing & Skilled Trades,Unspecified
+56063,Insole Taper,Other,Unspecified
+56064,Pants Presser,Manufacturing & Skilled Trades,Unspecified
+56065,Insect Control Aide,Healthcare & Medical,Junior / Entry
+56066,Sld Educational Aide,Education & Training,Junior / Entry
+56067,Diet Aid,Other,Unspecified
+56068,Fiscal Economist,Other,Unspecified
+56069,Floral Merchandiser,Sales & Business Development,Unspecified
+56070,Electric Refrigerator Preparer,Other,Unspecified
+56072,Travel Med Surg RN,"Hospitality, Food & Travel",Unspecified
+56075,Laborer Beam House,Other,Unspecified
+56076,Sheet Metal Roofer,Manufacturing & Skilled Trades,Unspecified
+56077,Tax Manager Public,Finance & Accounting,Manager
+56078,Iv RN,Other,Unspecified
+56080,Ostomy RN,Other,Unspecified
+56081,Sane RN,Other,Unspecified
+56082,Nylon Winder,Other,Unspecified
+56083,Resistor Winder,Other,Unspecified
+56084,Sequins Winder,Other,Unspecified
+56085,Finished Hardware Erector,Manufacturing & Skilled Trades,Unspecified
+56086,Snow Fence Erector,Manufacturing & Skilled Trades,Unspecified
+56087,Bed and Breakfast Cook,"Hospitality, Food & Travel",Unspecified
+56088,Director Data Analytics,Other,Director
+56089,Director Digital Analytics,Other,Director
+56090,Director Marketing Analytics,Marketing & Growth,Director
+56091,Director of Analytics,Other,VP / Head
+56092,Director of Business Applications,Other,VP / Head
+56093,Director of Clinical Applications,Healthcare & Medical,VP / Head
+56094,Software Engineer Web Applications,Software & Engineering,Mid
+56095,Director Client,General / Cross-functional,Director
+56097,Galley Cook,"Hospitality, Food & Travel",Unspecified
+56098,Institutional Custodian,Other,Unspecified
+56100,Wardrobe Custodian,Other,Unspecified
+56101,Gum Remover,Other,Unspecified
+56102,Manager Cable,General / Cross-functional,Manager
+56103,Varnish Remover,Other,Unspecified
+56105,Bellows Charger Assembler,Manufacturing & Skilled Trades,Unspecified
+56106,Deicer Kit Assembler,Manufacturing & Skilled Trades,Unspecified
+56107,Desk Pens Assembler,Manufacturing & Skilled Trades,Unspecified
+56109,Examining Chair Assembler,Manufacturing & Skilled Trades,Unspecified
+56110,Harp Action Assembler,Manufacturing & Skilled Trades,Unspecified
+56111,Hydraulic Governor Assembler,Manufacturing & Skilled Trades,Unspecified
+56115,Wearing Apparel Assembler,Manufacturing & Skilled Trades,Unspecified
+56116,Fire Regulator,Other,Unspecified
+56117,Heat Regulator,Other,Unspecified
+56118,Mutuel Cashier,Sales & Business Development,Unspecified
+56119,Overnight Cashier,Sales & Business Development,Unspecified
+56120,Power Regulator,Other,Unspecified
+56121,Ring Conductor,Other,Unspecified
+56122,Ring Stamper,Other,Unspecified
+56123,Tester Regulator,Manufacturing & Skilled Trades,Unspecified
+56124,Windows Desktop Support,IT & Infrastructure,Unspecified
+56125,Box Sealing Machine Feeder,Manufacturing & Skilled Trades,Unspecified
+56127,Special Investigation Unit Investigator,General / Cross-functional,Unspecified
+56128,Fresh Meat Grader,Other,Unspecified
+56129,Screen Printing Machine Loader Unloader,Manufacturing & Skilled Trades,Unspecified
+56131,Hogshead Stripper,Other,Unspecified
+56132,Analyst Business Analysis,Other,Mid
+56133,Director Financial Analysis,Finance & Accounting,Director
+56134,Director Radio News,"Media, Sports & Entertainment",Director
+56136,Grading Machine Feeder,Manufacturing & Skilled Trades,Unspecified
+56137,Shearing Machine Feeder,Manufacturing & Skilled Trades,Unspecified
+56138,Admission Discharge RN,Other,Unspecified
+56139,Advice Line RN,Other,Unspecified
+56140,Coverage Specialist RN,General / Cross-functional,Mid
+56141,Electric Track Switch Maintainer,Other,Unspecified
+56142,Transitions Manager RN,General / Cross-functional,Manager
+56143,Dean School of Nursing,Healthcare & Medical,Director
+56144,Interactive Media Marketing Strategist,Marketing & Growth,Unspecified
+56145,Atlassian Administrator,General / Cross-functional,Unspecified
+56147,Participant Administrator,General / Cross-functional,Unspecified
+56149,Sccm Administrator,General / Cross-functional,Unspecified
+56150,Windchill Administrator,General / Cross-functional,Unspecified
+56151,Face Boss,Other,Unspecified
+56152,Lunchroom Monitor,Other,Unspecified
+56153,Rfid Strategist,General / Cross-functional,Unspecified
+56154,Shed Boss,Other,Unspecified
+56155,Shelter Monitor,Other,Unspecified
+56156,Telemetry Monitor,Other,Unspecified
+56157,Tipple Boss,Other,Unspecified
+56158,A R Collections Rep,Finance & Accounting,Unspecified
+56159,Bottom Steep Tender,Manufacturing & Skilled Trades,Unspecified
+56160,C S S Representative,General / Cross-functional,Unspecified
+56161,Captain Cannery Tender,Manufacturing & Skilled Trades,Unspecified
+56162,Carbonation Equipment Tender,Manufacturing & Skilled Trades,Unspecified
+56163,Drip Box Tender,Manufacturing & Skilled Trades,Unspecified
+56165,Glass Deposition Tender,Manufacturing & Skilled Trades,Unspecified
+56167,Herbicide Service Sales Representative,Sales & Business Development,Unspecified
+56170,Plywood Scarfer Tender,Manufacturing & Skilled Trades,Unspecified
+56173,Stretch Box Tender,Manufacturing & Skilled Trades,Unspecified
+56175,Top Steep Tender,Manufacturing & Skilled Trades,Unspecified
+56177,Otolaryngology Rep,Other,Unspecified
+56178,Pottery Decoration Designer,Design & Creative,Mid
+56179,Slat Basket Maker Helper Machine,Manufacturing & Skilled Trades,Junior / Entry
+56180,Aligning Checker,Operations & Supply Chain,Unspecified
+56181,Elder Counselor,Healthcare & Medical,Unspecified
+56182,Grief Counselor,Healthcare & Medical,Unspecified
+56183,Hollow Handle Knife Assembler,Manufacturing & Skilled Trades,Unspecified
+56184,Quotation Checker,Operations & Supply Chain,Unspecified
+56185,Res Counselor,Healthcare & Medical,Unspecified
+56186,Specifications Checker,Operations & Supply Chain,Unspecified
+56187,Teen Counselor,Healthcare & Medical,Unspecified
+56188,Veterans' Counselor,Healthcare & Medical,Unspecified
+56189,National Investigative Producer,Design & Creative,Unspecified
+56190,Machine Made Shoe Unit Worker,General / Cross-functional,Unspecified
+56191,Pressed OR Blown Glass Worker,Manufacturing & Skilled Trades,Unspecified
+56192,Ceramic Maker Demonstrator,Manufacturing & Skilled Trades,Unspecified
+56193,Electrician Bus,Manufacturing & Skilled Trades,Unspecified
+56194,Circular Knitter,Manufacturing & Skilled Trades,Unspecified
+56195,Drafting Detailer,Other,Unspecified
+56196,Dust Sampler,Other,Unspecified
+56197,Hospitality Housekeeper,Healthcare & Medical,Unspecified
+56200,Viscose Cellar Charge Hand,Manufacturing & Skilled Trades,Unspecified
+56201,Zipper Ironer,Manufacturing & Skilled Trades,Unspecified
+56202,Backup Sawyer,Other,Unspecified
+56203,Bucket Turner,Manufacturing & Skilled Trades,Unspecified
+56205,Crank Hand,Manufacturing & Skilled Trades,Unspecified
+56206,Cutter First,Manufacturing & Skilled Trades,Unspecified
+56207,Gambling Broker,Sales & Business Development,Unspecified
+56208,Misdraw Hand,Manufacturing & Skilled Trades,Unspecified
+56209,Presser First,Manufacturing & Skilled Trades,Unspecified
+56210,Redye Hand,Manufacturing & Skilled Trades,Unspecified
+56211,Reroller Hand,Manufacturing & Skilled Trades,Unspecified
+56212,Underpresser Hand,Manufacturing & Skilled Trades,Unspecified
+56213,Vise Hand,Manufacturing & Skilled Trades,Unspecified
+56214,Roller Inspector and Mender,Other,Unspecified
+56215,Baker Bench,"Hospitality, Food & Travel",Unspecified
+56216,Baker Laboratory,Science & Research,Unspecified
+56217,Foot Caster,Manufacturing & Skilled Trades,Unspecified
+56218,Script Reader,Other,Unspecified
+56219,Cake Icer,Other,Unspecified
+56220,Paperhanger and Painter,Manufacturing & Skilled Trades,Unspecified
+56222,Ct Scan Special Procedures Technologist,Healthcare & Medical,Unspecified
+56223,CNA Caregiver,Healthcare & Medical,Unspecified
+56224,Companion Caregiver,Healthcare & Medical,Unspecified
+56225,Parking Lot Attendant and Cashier,Sales & Business Development,Unspecified
+56227,Bleach Boiler Packer,Operations & Supply Chain,Unspecified
+56228,Epidemiology Internship,Science & Research,Junior / Entry
+56229,Four H Club Agent,General / Cross-functional,Unspecified
+56230,Gift Basket Packer,Operations & Supply Chain,Unspecified
+56231,PR Internship,Other,Junior / Entry
+56232,Sport Internship,Other,Junior / Entry
+56233,Bark Grinder,Manufacturing & Skilled Trades,Unspecified
+56234,Glaze Grinder,Manufacturing & Skilled Trades,Unspecified
+56235,Snuff Grinder,Manufacturing & Skilled Trades,Unspecified
+56236,Swing Grinder,Manufacturing & Skilled Trades,Unspecified
+56237,Author's Agent,General / Cross-functional,Unspecified
+56238,Buyers' Agent,Sales & Business Development,Unspecified
+56239,Cia Agent,General / Cross-functional,Unspecified
+56240,Debit Agent,General / Cross-functional,Unspecified
+56241,IRS Agent,General / Cross-functional,Unspecified
+56242,Jockey's Agent,General / Cross-functional,Unspecified
+56244,Parachute Harness Rigger,Manufacturing & Skilled Trades,Unspecified
+56245,Repossession Agent,General / Cross-functional,Unspecified
+56246,Seat Covers Trimmer,Manufacturing & Skilled Trades,Unspecified
+56247,Steamship Agent,General / Cross-functional,Unspecified
+56248,Three Knife Trimmer,Manufacturing & Skilled Trades,Unspecified
+56249,Breakfast Host,"Hospitality, Food & Travel",Unspecified
+56250,Marketing Assistant Retail Division,Marketing & Growth,Junior / Entry
+56251,Supervisor Customer Records Division,Administration & Office Support,Manager
+56252,Inner Tube Cutter,Manufacturing & Skilled Trades,Unspecified
+56253,Engine Lathe Set Up Operator Tool,Manufacturing & Skilled Trades,Unspecified
+56256,Airborne Operations,Operations & Supply Chain,Unspecified
+56257,Drop Hammer Setter Up,Manufacturing & Skilled Trades,Unspecified
+56258,Geography Department Chair,Other,Unspecified
+56259,Helper Maintenance Cleaning,Manufacturing & Skilled Trades,Junior / Entry
+56260,Supervisor Aircraft Cleaning,Other,Manager
+56261,Supervisor Dry Cleaning,Other,Manager
+56262,Supervisor Tank Cleaning,Other,Manager
+56263,Technician Chemical Cleaning,Other,Unspecified
+56264,Wholesale Diamond Broker,Sales & Business Development,Unspecified
+56265,Commissary Steward,"Hospitality, Food & Travel",Unspecified
+56266,Geophysics Scientist,Science & Research,Unspecified
+56267,Institute Scientist,Science & Research,Unspecified
+56268,Lidar Scientist,Science & Research,Unspecified
+56269,Med Admin,Other,Unspecified
+56270,Port Steward,"Hospitality, Food & Travel",Unspecified
+56271,Company Miner Blasting,Other,Unspecified
+56272,Cook Fruit,"Hospitality, Food & Travel",Unspecified
+56273,Deputy Coroner Investigator,General / Cross-functional,Unspecified
+56274,Hot Dog Vendor,Sales & Business Development,Unspecified
+56275,Hydraulic Miner Blasting,Other,Unspecified
+56276,Ice Cream Vendor,Sales & Business Development,Unspecified
+56277,Industry Operations Investigator,Operations & Supply Chain,Unspecified
+56278,Iron Miner Blasting,Other,Unspecified
+56279,Lead Miner Blasting,Other,Manager
+56280,Metal Miner Blasting,Other,Unspecified
+56281,At&t Retailer Sales Consultant,Sales & Business Development,Mid
+56282,Eco Industrial Development Consultant,General / Cross-functional,Mid
+56283,Funeral Pre Need Consultant,General / Cross-functional,Mid
+56284,Oracle Agile Plm Consultant,General / Cross-functional,Mid
+56286,Roads and Parking Lots Sweeper Operator,Manufacturing & Skilled Trades,Unspecified
+56287,Ship Self Defense System Mk1 Operator,Manufacturing & Skilled Trades,Unspecified
+56288,Chest Painting Leader,General / Cross-functional,Unspecified
+56289,Ethanol Quality Leader,General / Cross-functional,Unspecified
+56290,Hunting Sales Leader,Sales & Business Development,Unspecified
+56291,Merchandise Execution Leader,General / Cross-functional,Unspecified
+56292,Metal and Plastic Heater,Other,Unspecified
+56293,Subscription Crew Leader,General / Cross-functional,Unspecified
+56294,Value Stream Leader,General / Cross-functional,Unspecified
+56295,Christmas Tree Farmer,Other,Unspecified
+56296,Game Bird Farmer,Other,Unspecified
+56297,New Autos Delivery Driver,Operations & Supply Chain,Unspecified
+56298,Rear Load Truck Driver,Operations & Supply Chain,Unspecified
+56299,Road Oiling Truck Driver,Operations & Supply Chain,Unspecified
+56300,Accountancy Professor,Education & Training,Unspecified
+56302,Bed Laster,Other,Unspecified
+56303,Cellophane Casting Machine Repairer,"Media, Sports & Entertainment",Unspecified
+56304,Corn Breeder,Other,Unspecified
+56305,Cotton Breeder,Other,Unspecified
+56307,Econometrics Professor,Education & Training,Unspecified
+56308,Ethnoarchaeology Professor,Science & Research,Unspecified
+56309,Geomatics Professor,Education & Training,Unspecified
+56311,Harness Brusher,Other,Unspecified
+56312,Hooker Laster,Other,Unspecified
+56314,Hydrogeology Professor,Education & Training,Unspecified
+56315,Interdisciplinary Professor,Education & Training,Unspecified
+56316,Jewel Stringer,Other,Unspecified
+56317,Livestock Breeder,Agriculture & Environment,Unspecified
+56318,Macroeconomics Professor,Education & Training,Unspecified
+56319,Meat Stringer,Other,Unspecified
+56320,Microeconomics Professor,Education & Training,Unspecified
+56321,Phytochemistry Professor,Science & Research,Unspecified
+56322,Piano Stringer,Other,Unspecified
+56323,Plant Breeder,Other,Unspecified
+56325,Shoe Laster,Other,Unspecified
+56326,Side Laster,Other,Unspecified
+56327,Slip Laster,Other,Unspecified
+56328,Tape Stringer,Other,Unspecified
+56329,Thread Laster,Other,Unspecified
+56330,Toe Laster,Other,Unspecified
+56331,Aluminum Pourer,Other,Unspecified
+56332,Automatic Glove Turner and Former,Other,Unspecified
+56333,Chief Librarian Circulation Department,Education & Training,C-Level
+56334,Cryogenics Repairer,Manufacturing & Skilled Trades,Unspecified
+56335,Differential Repairer,Manufacturing & Skilled Trades,Unspecified
+56336,Electrocardiograph Repairer,Healthcare & Medical,Unspecified
+56337,Flyer Repairer,Manufacturing & Skilled Trades,Unspecified
+56338,Gunstock Repairer,Manufacturing & Skilled Trades,Unspecified
+56339,Press Operator Carbon Products,Manufacturing & Skilled Trades,Unspecified
+56340,Supervisor Wall Mirror Department,Other,Manager
+56342,Ballpoint Pen Cartridge Tester,Manufacturing & Skilled Trades,Unspecified
+56343,Tin Container Straightener,Other,Unspecified
+56344,Waste Disposal Leakage Tester,Agriculture & Environment,Unspecified
+56345,Shirt Closer,Other,Unspecified
+56346,Solar Photovoltaic Electrician,Manufacturing & Skilled Trades,Unspecified
+56348,Adhesion Tester,Manufacturing & Skilled Trades,Unspecified
+56349,Argon Tester,Manufacturing & Skilled Trades,Unspecified
+56350,Babcock Tester,Manufacturing & Skilled Trades,Unspecified
+56351,Beta Tester,Manufacturing & Skilled Trades,Unspecified
+56352,Brinell Tester,Manufacturing & Skilled Trades,Unspecified
+56353,Flush Tester,Manufacturing & Skilled Trades,Unspecified
+56354,Herd Tester,Manufacturing & Skilled Trades,Unspecified
+56355,Inclinometer Tester,Manufacturing & Skilled Trades,Unspecified
+56356,Inductor Tester,Manufacturing & Skilled Trades,Unspecified
+56357,Nondestructive Tester,Manufacturing & Skilled Trades,Unspecified
+56358,Polarity Tester,Manufacturing & Skilled Trades,Unspecified
+56359,Scleroscope Tester,Manufacturing & Skilled Trades,Unspecified
+56360,Sulphate Tester,Manufacturing & Skilled Trades,Unspecified
+56361,Taste Tester,Manufacturing & Skilled Trades,Unspecified
+56362,Tensile Tester,Manufacturing & Skilled Trades,Unspecified
+56363,Thermocouple Tester,Manufacturing & Skilled Trades,Unspecified
+56364,Transistor Tester,Manufacturing & Skilled Trades,Unspecified
+56365,Uat Tester,Manufacturing & Skilled Trades,Unspecified
+56366,Letter of Credit Document Examiner,Finance & Accounting,Unspecified
+56369,Greige Goods Examiner,Education & Training,Unspecified
+56371,Comprehensive Advisor,General / Cross-functional,Unspecified
+56374,Options Advisor,General / Cross-functional,Unspecified
+56375,Resourcing Advisor,General / Cross-functional,Unspecified
+56377,Bulk Receiver,Operations & Supply Chain,Unspecified
+56378,Color Receiver,Operations & Supply Chain,Unspecified
+56379,Fish Receiver,Operations & Supply Chain,Unspecified
+56380,Freight Receiver,Operations & Supply Chain,Unspecified
+56381,Fruit Receiver,Operations & Supply Chain,Unspecified
+56382,Grain Receiver,Operations & Supply Chain,Unspecified
+56383,Milk Receiver,Operations & Supply Chain,Unspecified
+56384,Stock Receiver,Operations & Supply Chain,Unspecified
+56385,Store Receiver,Operations & Supply Chain,Unspecified
+56386,Warehouse Receiver,Operations & Supply Chain,Unspecified
+56388,Behavior Clinician,Healthcare & Medical,Unspecified
+56389,Chart Changer,Other,Unspecified
+56390,Pantograph Engraver,Other,Unspecified
+56391,Size Changer,Other,Unspecified
+56393,Joy Loader,Manufacturing & Skilled Trades,Unspecified
+56394,Boat Buffer Plastic,Manufacturing & Skilled Trades,Unspecified
+56395,Deputy Director of Finance,Finance & Accounting,VP / Head
+56396,Regional Director of Finance,Finance & Accounting,VP / Head
+56397,Vice President of Finance,Finance & Accounting,C-Level
+56398,VP Director of Finance,Finance & Accounting,VP / Head
+56399,Counter Clerk Tractor Parts,"Media, Sports & Entertainment",Unspecified
+56401,Hogshead Dumper,Other,Unspecified
+56402,Ladle Repairman,Other,Unspecified
+56404,Pulp Drier Firer,Other,Unspecified
+56405,Ring Spinner,Manufacturing & Skilled Trades,Unspecified
+56406,Aquaculture Farmer,Other,Unspecified
+56407,Breastfeeding Educator,Other,Unspecified
+56408,Muck Farmer,Other,Unspecified
+56409,Para Educator,Other,Unspecified
+56410,Automatic Buffing Wheel Former,Other,Unspecified
+56411,Filter Bed Placer,Other,Unspecified
+56412,Hand Buffing Wheel Former,Other,Unspecified
+56413,Sales Agent Protective Service,Sales & Business Development,Unspecified
+56414,Sr. Director Product Management,Other,Director
+56415,Supervisor Border Department,"Public Sector, Defense & Safety",Manager
+56416,Supervisor Twisting Department,Other,Manager
+56417,EMR Trainer,Other,Unspecified
+56418,Poker Dealer,Other,Unspecified
+56420,Waist Fitter,Manufacturing & Skilled Trades,Unspecified
+56421,Workers' Compensation Claims Examiner,Finance & Accounting,Unspecified
+56422,Firer Marine,Other,Unspecified
+56423,Group Leader Semiconductor Processing,Other,Unspecified
+56424,Infectious Disease Physician,Healthcare & Medical,Unspecified
+56425,Neurology Stroke Physician,Healthcare & Medical,Unspecified
+56426,Obgyn Hospitalist Physician,Healthcare & Medical,Unspecified
+56428,Orthopedics Pediatric Physician,Healthcare & Medical,Unspecified
+56429,Preventive Medicine Physician,Healthcare & Medical,Unspecified
+56430,Rack Puncher,Other,Unspecified
+56431,Rack Pusher,Other,Unspecified
+56432,Tow Mate,Other,Unspecified
+56433,Cancer Spec,Other,Unspecified
+56434,Leak Patcher,Other,Unspecified
+56436,Change Management Facilitator,General / Cross-functional,Unspecified
+56437,Continuous Improvement Facilitator,General / Cross-functional,Unspecified
+56438,Disc Pad Plate Filler,Manufacturing & Skilled Trades,Unspecified
+56439,Instructional Technology Facilitator,General / Cross-functional,Unspecified
+56442,Comfort Filler,Manufacturing & Skilled Trades,Unspecified
+56443,Fusing Furnace Loader,Manufacturing & Skilled Trades,Unspecified
+56444,Sagger Filler,Manufacturing & Skilled Trades,Unspecified
+56446,Court Recording Monitor,Legal,Unspecified
+56447,Medical Appointment Scheduler,Healthcare & Medical,Unspecified
+56448,Psychologist Private Practice,Healthcare & Medical,Unspecified
+56449,Wrestling Coach,Education & Training,Unspecified
+56450,Industrial Organizational Psychologist,Healthcare & Medical,Unspecified
+56451,Coronary Care Unit Nurse,Healthcare & Medical,Unspecified
+56452,Personalized Living Manager Nurse,Healthcare & Medical,Manager
+56453,Fish Bait Picker,Operations & Supply Chain,Unspecified
+56454,Machine Pecan Picker,Operations & Supply Chain,Unspecified
+56456,Flight/Transport Nurse,Healthcare & Medical,Unspecified
+56457,Housecalls Nurse,Healthcare & Medical,Unspecified
+56458,Mothercraft Nurse,Healthcare & Medical,Unspecified
+56460,Picc Nurse,Healthcare & Medical,Unspecified
+56461,Plunket Nurse,Healthcare & Medical,Unspecified
+56462,Psychopaedic Nurse,Healthcare & Medical,Unspecified
+56463,Stepdown Nurse,Healthcare & Medical,Unspecified
+56464,Subacute Nurse,Healthcare & Medical,Unspecified
+56465,Buffet Runner,"Hospitality, Food & Travel",Unspecified
+56466,Corporation Secretary,Administration & Office Support,Unspecified
+56467,Groover Runner,"Hospitality, Food & Travel",Unspecified
+56468,Quiller Runner,"Hospitality, Food & Travel",Unspecified
+56469,Slubber Runner,"Hospitality, Food & Travel",Unspecified
+56471,Chocolate Refining Roller,Other,Unspecified
+56472,Cold Reduction Roller,Other,Unspecified
+56473,Hospitality Workers,Healthcare & Medical,Unspecified
+56474,Tourist Cabin Keeper,Other,Unspecified
+56475,Tourist Home Keeper,Other,Unspecified
+56476,Zipper Joiner,Other,Unspecified
+56477,Shake Packer,Operations & Supply Chain,Unspecified
+56478,Actimize Architect,Design & Creative,Unspecified
+56479,Cow Buyer,Sales & Business Development,Unspecified
+56480,Deal Architect,Design & Creative,Unspecified
+56481,Domain Architect,Design & Creative,Unspecified
+56482,Fancy Stitcher,Manufacturing & Skilled Trades,Unspecified
+56483,Lithograph Printer,Other,Unspecified
+56484,Messaging Architect,Design & Creative,Unspecified
+56485,Oss Architect,Design & Creative,Unspecified
+56486,SAAS Architect,Design & Creative,Unspecified
+56487,Uc Architect,Design & Creative,Unspecified
+56488,Vertica Architect,Design & Creative,Unspecified
+56489,Dressmaker Garment Fitter,Manufacturing & Skilled Trades,Unspecified
+56490,Axle Bearing Polisher,Manufacturing & Skilled Trades,Unspecified
+56491,Fountain Pen Nibs Inspector,General / Cross-functional,Unspecified
+56492,Furniture and Bedding Inspector,General / Cross-functional,Unspecified
+56493,Homicide Squad Captain,Other,Unspecified
+56494,Lamps Tester and Inspector,General / Cross-functional,Unspecified
+56496,Veterinary Virus Serum Inspector,General / Cross-functional,Unspecified
+56497,Conveyor Tender Concrete Mixing Plant,Other,Unspecified
+56498,Convenience Recycle Center Tech,Manufacturing & Skilled Trades,Unspecified
+56499,President Commercial Bank,Executive & General Management,C-Level
+56500,Bat Person,Other,Unspecified
+56501,Cmm Programmer,Software & Engineering,Unspecified
+56502,PLC Programmer,Software & Engineering,Unspecified
+56503,Screed Person,Other,Unspecified
+56504,Shampoo Person,Other,Unspecified
+56505,Director of Cardiopulmonary Services,Healthcare & Medical,VP / Head
+56506,Loft Rigger,Manufacturing & Skilled Trades,Unspecified
+56507,Battery Assembler Plastic,Manufacturing & Skilled Trades,Unspecified
+56508,Drying Rack Changer,Other,Unspecified
+56510,Chocolate Molder,Manufacturing & Skilled Trades,Unspecified
+56511,Concrete Block Mason,Manufacturing & Skilled Trades,Unspecified
+56512,Gold Miner Blasting,Other,Unspecified
+56513,Lock and Dam Equipment Repairer,Manufacturing & Skilled Trades,Unspecified
+56514,Venetian Blind Cleaner and Repairer,Manufacturing & Skilled Trades,Unspecified
+56515,Mainspring Reverse Winder,Other,Unspecified
+56516,Line Clearance Foreman,Manufacturing & Skilled Trades,Manager
+56517,Investigative Reporter,"Media, Sports & Entertainment",Unspecified
+56518,Slurry Blender,Manufacturing & Skilled Trades,Unspecified
+56519,Spice Blender,Manufacturing & Skilled Trades,Unspecified
+56521,Wiper Blender,Manufacturing & Skilled Trades,Unspecified
+56522,Copper Miner,Other,Unspecified
+56523,Commercial Lending Vice President,Executive & General Management,C-Level
+56524,Director Biomedical Engineering,Healthcare & Medical,Director
+56525,Director of Community Life,Other,VP / Head
+56526,Headlight Adjuster,Other,Unspecified
+56527,Timing Adjuster,Other,Unspecified
+56529,Aoc Aadc Operations Staff Officer,Operations & Supply Chain,Senior
+56530,Catapult and Arresting Gear Officer,General / Cross-functional,Unspecified
+56531,Sound Engineer Audio Control,Design & Creative,Mid
+56532,Fluorescent Lighting Model Maker,Manufacturing & Skilled Trades,Unspecified
+56533,Supervisor Toy Assembly,Other,Manager
+56534,Supervisor Wrapping Room,Other,Manager
+56535,Wreath and Garland Maker,Manufacturing & Skilled Trades,Unspecified
+56536,Shirt Ironer,Manufacturing & Skilled Trades,Unspecified
+56537,Sleeve Ironer,Manufacturing & Skilled Trades,Unspecified
+56538,Pl SQL Programmer,Software & Engineering,Unspecified
+56539,Air Turning Machine Feeder,Manufacturing & Skilled Trades,Unspecified
+56540,Bull Rider,Other,Unspecified
+56541,Cancer Researcher,Science & Research,Unspecified
+56542,Freezer Unloader,Manufacturing & Skilled Trades,Unspecified
+56543,Manager Traffic,General / Cross-functional,Manager
+56544,Photograph Mounter,Other,Unspecified
+56545,Stove Mounter,Other,Unspecified
+56546,Resaw Feeder,Manufacturing & Skilled Trades,Unspecified
+56548,Abalone Processor,Other,Unspecified
+56550,Corporation Pilot,Other,Unspecified
+56551,Crushing Foreman,Manufacturing & Skilled Trades,Manager
+56558,Taping Foreman,Manufacturing & Skilled Trades,Manager
+56564,Fuel Efficient Aircraft Designer,Design & Creative,Mid
+56565,Fuel Efficient Automobile Designer,Design & Creative,Mid
+56568,Supervisor Channel Process,Sales & Business Development,Manager
+56569,Lime Boiler,Other,Unspecified
+56570,Lithographic Etcher,Design & Creative,Unspecified
+56571,Supervisor Color Making,Other,Manager
+56573,Trial Justice,Other,Unspecified
+56574,Catia Designer,Design & Creative,Mid
+56577,Ug Designer,Design & Creative,Mid
+56578,Awake Overnight Counselor,Healthcare & Medical,Unspecified
+56579,Conservation of Resources Commissioner,Agriculture & Environment,Unspecified
+56580,On Awake Counselor,Healthcare & Medical,Unspecified
+56581,Prenatal Genetic Counselor,Healthcare & Medical,Unspecified
+56583,Accountant Bookkeeper,Finance & Accounting,Unspecified
+56585,Assistant Bookkeeper,Finance & Accounting,Junior / Entry
+56586,Baggage Screener,Manufacturing & Skilled Trades,Unspecified
+56587,Chicken Raiser,Other,Unspecified
+56588,Computer Bookkeeper,Finance & Accounting,Unspecified
+56589,Concrete Curer,Other,Unspecified
+56590,Cork Insulator,Other,Unspecified
+56591,Dry Curer,Other,Unspecified
+56592,Head Bookkeeper,Finance & Accounting,Unspecified
+56593,Heat Curer,Other,Unspecified
+56594,Hide Curer,Other,Unspecified
+56595,Junior Bookkeeper,Finance & Accounting,Junior / Entry
+56596,Machine Bookkeeper,Finance & Accounting,Unspecified
+56597,Meat Curer,Other,Unspecified
+56598,Office Bookkeeper,Finance & Accounting,Unspecified
+56599,Outsole Splicer,Other,Unspecified
+56600,Payroll Bookkeeper,Finance & Accounting,Unspecified
+56601,Rubber Curer,Other,Unspecified
+56602,Secretary Bookkeeper,Finance & Accounting,Unspecified
+56603,Senior Bookkeeper,Finance & Accounting,Senior
+56604,Tire Curer,Other,Unspecified
+56606,Torch Heater,Other,Unspecified
+56607,Actuarial Trainee,General / Cross-functional,Junior / Entry
+56608,Head Neck Surgeon,Healthcare & Medical,Unspecified
+56609,Water Purification Chemist,Science & Research,Unspecified
+56612,Director Day Care Center,Other,Director
+56613,Dry Roaster,Other,Unspecified
+56614,Furnace Roaster,Other,Unspecified
+56615,Grain Roaster,Other,Unspecified
+56616,Metal Roaster,Other,Unspecified
+56617,Nut Roaster,Other,Unspecified
+56618,Ore Roaster,Other,Unspecified
+56619,Oven Roaster,Other,Unspecified
+56620,Power Line Lineman,Energy & Utilities,Unspecified
+56621,Wet Roaster,Other,Unspecified
+56622,Historic Clothing and Costume Maker,Manufacturing & Skilled Trades,Unspecified
+56623,Roving Weight Gauger,Other,Unspecified
+56624,Auto Body Detailer,Other,Unspecified
+56625,Auto Design Detailer,Other,Unspecified
+56626,Criminal Defense Lawyer,Legal,Unspecified
+56627,Criminal Justice Lawyer,Legal,Unspecified
+56628,Real Estate Lawyer,Legal,Unspecified
+56629,Structural Steel Detailer,Other,Unspecified
+56630,Work Order Detailer,Other,Unspecified
+56631,Stock Patch Sawyer,Other,Unspecified
+56632,Pecan Grower,Other,Unspecified
+56633,Race and Sports Book Writer,"Media, Sports & Entertainment",Unspecified
+56634,Cement Car Dumper,Other,Unspecified
+56635,Forming Acid Dumper,Other,Unspecified
+56636,Mixing Plant Dumper,Other,Unspecified
+56639,Supervisor Wet End,Other,Manager
+56640,Tank Insulator Rubber,Other,Unspecified
+56641,Greeting Card Writer,Other,Unspecified
+56642,Lang Path Therapist,Healthcare & Medical,Unspecified
+56643,Chocolate Coater,Other,Unspecified
+56644,Janitor Custodian,Other,Unspecified
+56645,Lacquer Coater,Other,Unspecified
+56646,Hand Tennis Ball Coverer,Other,Unspecified
+56647,Inspector Insulation,General / Cross-functional,Unspecified
+56648,Packer Insulation,Operations & Supply Chain,Unspecified
+56650,Treating Plant Pumper,Other,Unspecified
+56651,Animal Warden,"Public Sector, Defense & Safety",Unspecified
+56652,Architectural Modeler,Design & Creative,Unspecified
+56653,Chief Warden,"Public Sector, Defense & Safety",C-Level
+56654,Clay Modeler,Other,Unspecified
+56655,Contract Modeler,Other,Unspecified
+56656,Cream Gatherer,Other,Unspecified
+56657,Data Modeler,Other,Unspecified
+56658,Database Modeler,Other,Unspecified
+56659,Direct Support Professional Home Health,Healthcare & Medical,Unspecified
+56660,Dog Warden,"Public Sector, Defense & Safety",Unspecified
+56661,Egg Gatherer,Other,Unspecified
+56662,Fire Warden,"Public Sector, Defense & Safety",Unspecified
+56665,Heel Attacher Wood,Other,Unspecified
+56666,Hogshead Opener,Other,Unspecified
+56667,Park Warden,"Public Sector, Defense & Safety",Unspecified
+56668,Risk Modeler,Other,Unspecified
+56669,SAP Gatherer,Other,Unspecified
+56670,Statistical Modeler,Other,Unspecified
+56671,Stem Shaper,Other,Unspecified
+56672,Stem Sizer,Other,Unspecified
+56673,Transportation Modeler,Operations & Supply Chain,Unspecified
+56674,Tree Warden,"Public Sector, Defense & Safety",Unspecified
+56675,Final Touch Up Painter,Manufacturing & Skilled Trades,Unspecified
+56676,Hand Touch Up Painter,Manufacturing & Skilled Trades,Unspecified
+56677,Rug Touch Up Painter,Manufacturing & Skilled Trades,Unspecified
+56678,Casket Coverer,Other,Unspecified
+56680,Director Sports,"Media, Sports & Entertainment",Director
+56681,Manager Sports,"Media, Sports & Entertainment",Manager
+56682,Sandwich Board Carrier,Other,Unspecified
+56683,Sponge Buffer,Manufacturing & Skilled Trades,Unspecified
+56684,VP Project,Other,VP / Head
+56685,Airbrush Painter,Manufacturing & Skilled Trades,Unspecified
+56686,Carbide Powder Processor,Other,Unspecified
+56687,Clean Out Driller,Manufacturing & Skilled Trades,Unspecified
+56688,Crayon Painter,Manufacturing & Skilled Trades,Unspecified
+56690,Balloon Design Printer,Other,Unspecified
+56691,Sock Mender,Other,Unspecified
+56693,Tongue Lining Stitcher,Manufacturing & Skilled Trades,Unspecified
+56694,Seating and Mobility Technologist,Healthcare & Medical,Unspecified
+56695,Dock OR Pier Laborer,Manufacturing & Skilled Trades,Unspecified
+56696,Card Filer,Administration & Office Support,Unspecified
+56697,Core Filer,Administration & Office Support,Unspecified
+56698,Cut Filer,Administration & Office Support,Unspecified
+56699,Die Filer,Administration & Office Support,Unspecified
+56700,Electroencephalograph Technologist,Healthcare & Medical,Unspecified
+56701,Electroencephalographic Technologist,Healthcare & Medical,Unspecified
+56702,Electroneurodiagnostic Technologist,Healthcare & Medical,Unspecified
+56703,Finish Filer,Administration & Office Support,Unspecified
+56704,Histologist Technologist,Healthcare & Medical,Unspecified
+56705,Key Filer,Administration & Office Support,Unspecified
+56707,Pattern Filer,Administration & Office Support,Unspecified
+56708,Rad Technologist,Healthcare & Medical,Unspecified
+56709,Saw Filer,Administration & Office Support,Unspecified
+56710,Sonography Technologist,Healthcare & Medical,Unspecified
+56711,Tool Filer,Administration & Office Support,Unspecified
+56712,Hand Plug Shaper,Other,Unspecified
+56713,Machine Plug Shaper,Other,Unspecified
+56715,Fish and Wildlife Scientific Aid,Other,Unspecified
+56716,Aoc Operations Intelligence Chief,Operations & Supply Chain,C-Level
+56717,Clinical Genetics Laboratory Chief,Healthcare & Medical,C-Level
+56718,Director Medical Surgical,Healthcare & Medical,Director
+56719,RN Medical Surgical,Healthcare & Medical,Unspecified
+56720,Battalion Chief,General / Cross-functional,C-Level
+56721,Bookbinder Chief,General / Cross-functional,C-Level
+56722,Guillotine Trimmer,Manufacturing & Skilled Trades,Unspecified
+56723,Inseam Trimmer,Manufacturing & Skilled Trades,Unspecified
+56724,Margin Trimmer,Manufacturing & Skilled Trades,Unspecified
+56725,Pluck Trimmer,Manufacturing & Skilled Trades,Unspecified
+56727,Belting Cutter,Manufacturing & Skilled Trades,Unspecified
+56728,Bog Cutter,Manufacturing & Skilled Trades,Unspecified
+56729,Cripple Cutter,Manufacturing & Skilled Trades,Unspecified
+56730,Croze Cutter,Manufacturing & Skilled Trades,Unspecified
+56731,Fern Cutter,Manufacturing & Skilled Trades,Unspecified
+56732,Grass Cutter,Manufacturing & Skilled Trades,Unspecified
+56733,Kelp Cutter,Manufacturing & Skilled Trades,Unspecified
+56734,Pepper Cutter,Manufacturing & Skilled Trades,Unspecified
+56735,Sod Cutter,Manufacturing & Skilled Trades,Unspecified
+56736,Square Cutter,Manufacturing & Skilled Trades,Unspecified
+56737,Stay Cutter,Manufacturing & Skilled Trades,Unspecified
+56738,Suspender Cutter,Manufacturing & Skilled Trades,Unspecified
+56739,Armature and Rotor Winder,Other,Unspecified
+56741,Rivet Spinner,Manufacturing & Skilled Trades,Unspecified
+56742,Stitch Rubber,Other,Unspecified
+56743,Stitch Separator,Other,Unspecified
+56744,Cloth Bin Packer,Operations & Supply Chain,Unspecified
+56745,Epidemiology Investigator,Science & Research,Unspecified
+56746,Swimming Pool Installer and Servicer,Other,Unspecified
+56748,Cloth Shrinking Machine Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+56751,Hi Lo Driver,Operations & Supply Chain,Unspecified
+56753,M48/M60 Tank Driver,Operations & Supply Chain,Unspecified
+56754,Petrol Tanker Driver,Operations & Supply Chain,Unspecified
+56757,Vibratory Pile Driver,Operations & Supply Chain,Unspecified
+56758,Water Jet Loom Fixer,Other,Unspecified
+56759,Xm1 Tank Driver,Operations & Supply Chain,Unspecified
+56761,Esl Tutor,Education & Training,Unspecified
+56762,Flask Carrier,Other,Unspecified
+56763,Gut Carrier,Other,Unspecified
+56764,Mac Artist,Design & Creative,Unspecified
+56765,Mortar Carrier,Other,Unspecified
+56766,Piercing Artist,Design & Creative,Unspecified
+56768,Alodize Machine Helper,Manufacturing & Skilled Trades,Junior / Entry
+56769,Barrow Worker Helper,Manufacturing & Skilled Trades,Junior / Entry
+56771,Buzzsaw Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+56772,Chief Engineer's Helper,Manufacturing & Skilled Trades,C-Level
+56773,Cordwood Cutter Helper,Manufacturing & Skilled Trades,Junior / Entry
+56774,Cuprous Chloride Helper,Manufacturing & Skilled Trades,Junior / Entry
+56775,Drawbench Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+56776,Electricians Top Helper,Manufacturing & Skilled Trades,Junior / Entry
+56777,Ordnance Artificer Helper,Manufacturing & Skilled Trades,Junior / Entry
+56778,Reagent Tender Helper,Manufacturing & Skilled Trades,Junior / Entry
+56779,Shingles Roofer Helper,Manufacturing & Skilled Trades,Junior / Entry
+56780,Spaghetti Press Helper,Manufacturing & Skilled Trades,Junior / Entry
+56781,Stitcher Utility,Energy & Utilities,Unspecified
+56782,Supercalender Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+56783,Tuck Pointer Helper,Manufacturing & Skilled Trades,Junior / Entry
+56784,Washtub Worker Helper,Manufacturing & Skilled Trades,Junior / Entry
+56785,Computer Lab Para Professional,General / Cross-functional,Unspecified
+56786,Historical Guide,Other,Unspecified
+56787,Ingot Weigher,Manufacturing & Skilled Trades,Unspecified
+56788,Special Education Para Professional,Education & Training,Unspecified
+56789,Coat Tailor,Other,Unspecified
+56790,Collar Tailor,Other,Unspecified
+56792,Fur Tailor,Other,Unspecified
+56793,Motorcycle Police,"Public Sector, Defense & Safety",Unspecified
+56794,Sample Tailor,Other,Unspecified
+56795,Shop Tailor,Other,Unspecified
+56796,Director Database,General / Cross-functional,Director
+56797,Director Occupational,General / Cross-functional,Director
+56799,Manager Diesel,General / Cross-functional,Manager
+56800,Manager Occupational,General / Cross-functional,Manager
+56801,RN Occupational,Other,Unspecified
+56803,Director Supply Chain,Operations & Supply Chain,Director
+56804,Instruction Dean,Education & Training,Director
+56806,Senior Enlisted Advisor,General / Cross-functional,Senior
+56808,Fender Finisher,Manufacturing & Skilled Trades,Unspecified
+56810,Manager Talent,General / Cross-functional,Manager
+56811,Arm Rest Builder,Manufacturing & Skilled Trades,Unspecified
+56812,Manager Hydraulic,General / Cross-functional,Manager
+56813,Maxillofacial Surgeon,Healthcare & Medical,Unspecified
+56814,Orthopaedic Surgeon,Healthcare & Medical,Unspecified
+56815,Pesticide Chemist,Science & Research,Unspecified
+56816,QC Chemist,Science & Research,Unspecified
+56817,Urology Surgeon,Healthcare & Medical,Unspecified
+56819,Merry Go Round Attendant,Other,Unspecified
+56820,Contractor General Building,"Media, Sports & Entertainment",Unspecified
+56821,Dog and Cat Food Cook,"Hospitality, Food & Travel",Unspecified
+56822,Director of Student Life,Other,VP / Head
+56823,Fly Tier,Other,Unspecified
+56824,Placing Judge,Legal,Unspecified
+56826,National Expansion Recruiter,Human Resources & Recruiting,Unspecified
+56827,Casing Crew,Other,Unspecified
+56828,Chassis Wirer,Other,Unspecified
+56829,Faculty Criminal Justice,Other,Unspecified
+56830,High Pressure Firer,Manufacturing & Skilled Trades,Unspecified
+56831,Professor Criminal Justice,Education & Training,Unspecified
+56832,Aerial Lineman,Energy & Utilities,Unspecified
+56833,Billet Recorder,Other,Unspecified
+56835,Coagulating Bath Mixer,Manufacturing & Skilled Trades,Unspecified
+56836,Feather Edger,Other,Unspecified
+56837,Fluorescent Solution Mixer,Manufacturing & Skilled Trades,Unspecified
+56838,Malted Milk Mixer,Manufacturing & Skilled Trades,Unspecified
+56840,Wet Pour Mixer,Manufacturing & Skilled Trades,Unspecified
+56841,Anthropology Department Chair,Other,Unspecified
+56842,Fountain Pen Turner,Manufacturing & Skilled Trades,Unspecified
+56843,Cart Pusher,Other,Unspecified
+56844,Enrollment Services Dean,Education & Training,Director
+56845,Magnetic Observer,"Hospitality, Food & Travel",Unspecified
+56846,Package Pick Up,Other,Unspecified
+56848,Transitional Care Liaison,General / Cross-functional,Unspecified
+56849,Accessioner,Other,Unspecified
+56850,Addresser,Other,Unspecified
+56852,Answerer,Other,Unspecified
+56854,Autographer,Other,Unspecified
+56855,Bradder,Other,Unspecified
+56856,Buckle Wire Inserter,Other,Unspecified
+56857,Cableman,Other,Unspecified
+56858,Calenderer,Other,Unspecified
+56859,Calker,Other,Unspecified
+56860,Cannoneer,Other,Unspecified
+56861,Cargoman,Other,Unspecified
+56862,Certifier,Other,Unspecified
+56863,Chainer,Other,Unspecified
+56864,Chancellor,Other,Unspecified
+56865,Chaperone,Other,Unspecified
+56867,Clammer,Other,Unspecified
+56869,Corpsman,Other,Unspecified
+56870,Corsetier,Other,Unspecified
+56871,Cota,Other,Unspecified
+56872,Councilman,Other,Unspecified
+56873,Cuffer,Other,Unspecified
+56874,Cytopathologist,Other,Unspecified
+56875,Debeaker,Other,Unspecified
+56877,Dehorner,Other,Unspecified
+56878,Dentist/Owner,Healthcare & Medical,C-Level
+56879,Dermatopathologist,Healthcare & Medical,Unspecified
+56880,Driver/Guide,Operations & Supply Chain,Unspecified
+56881,Endocrinologist,Healthcare & Medical,Unspecified
+56882,Etiologist,Other,Unspecified
+56883,Extender,Other,Unspecified
+56884,Extern,Other,Unspecified
+56885,Eyeletter,Other,Unspecified
+56887,Filleter,Other,Unspecified
+56888,Flavorer,Other,Unspecified
+56889,Floorhand,Other,Unspecified
+56890,Flumer,Other,Unspecified
+56891,Fluxer,Other,Unspecified
+56892,Gamemaster,Other,Unspecified
+56893,Garnisher,Other,Unspecified
+56895,Grips,Other,Unspecified
+56896,Groundman,Other,Unspecified
+56897,Harbormaster,Other,Unspecified
+56898,Hha,Other,Unspecified
+56899,Hoseman,Other,Unspecified
+56901,Jerker,Other,Unspecified
+56902,Keyliner,Other,Unspecified
+56903,Latcher,Other,Unspecified
+56904,Lidder,Other,Unspecified
+56905,Loftsman,Other,Unspecified
+56906,Lopper,Other,Unspecified
+56907,Lsw,Other,Unspecified
+56908,Mammographer,Other,Unspecified
+56909,Mapper,Other,Unspecified
+56911,Mft,Other,Unspecified
+56912,Missileman,Other,Unspecified
+56914,Needleworker,Other,Unspecified
+56915,Nephrologist,Healthcare & Medical,Unspecified
+56916,Networker,Other,Unspecified
+56917,Neuroradiologist,Healthcare & Medical,Unspecified
+56918,Normalizer,Other,Unspecified
+56919,Orchardist,Other,Unspecified
+56921,Paraffiner,Other,Unspecified
+56922,Parer,Other,Unspecified
+56923,Pct,Other,Unspecified
+56924,Percher,Other,Unspecified
+56925,Photogrammetrist,Other,Unspecified
+56926,Pipeman,Other,Unspecified
+56927,Prepper,Other,Unspecified
+56928,Preservationist,Other,Unspecified
+56930,Pta,Other,Unspecified
+56931,Publicist,"Media, Sports & Entertainment",Unspecified
+56932,Rda,Other,Unspecified
+56933,Recharger,Other,Unspecified
+56934,Recoater,Other,Unspecified
+56935,Reinspector,Other,Unspecified
+56936,Repatcher,Other,Unspecified
+56937,Replanter,Other,Unspecified
+56938,Replenisher,Other,Unspecified
+56939,Respooler,Other,Unspecified
+56940,Roadmaster,Other,Unspecified
+56941,Roentgenologist,Other,Unspecified
+56942,RRT,Other,Unspecified
+56944,Sanitizer,Other,Unspecified
+56945,Scaleman,Other,Unspecified
+56946,SDET,Software & Engineering,Unspecified
+56947,Secy,Other,Unspecified
+56948,Sensitizer,Other,Unspecified
+56949,Shackler,Other,Unspecified
+56950,Shelver,Other,Unspecified
+56951,Shingler,Other,Unspecified
+56952,Shirrer,Other,Unspecified
+56953,Shoer,Other,Unspecified
+56954,Shorer,Other,Unspecified
+56956,Smearer,Other,Unspecified
+56957,Smeller,Other,Unspecified
+56959,Spouter,Other,Unspecified
+56960,Spudder,Other,Unspecified
+56961,Steerer,Other,Unspecified
+56962,Storeperson,Other,Unspecified
+56963,Structurer,Other,Unspecified
+56964,Swabber,Other,Unspecified
+56965,Synchronizer,Other,Unspecified
+56966,Tableman,Other,Unspecified
+56967,Tankerman,Other,Unspecified
+56968,Telepathist,Other,Unspecified
+56970,Ticketer,Other,Unspecified
+56971,Tonger,Other,Unspecified
+56972,Trackman,Other,Unspecified
+56973,Treer,Other,Unspecified
+56974,Tripoler,Other,Unspecified
+56975,Typer,Other,Unspecified
+56976,Unhairer,Other,Unspecified
+56977,Upfitter,Other,Unspecified
+56978,Valver,Other,Unspecified
+56979,Vamper,Other,Unspecified
+56980,Vender,Other,Unspecified
+56982,Voicer,Other,Unspecified
+56983,Warehouseman,Operations & Supply Chain,Unspecified
+56985,Weighter,Other,Unspecified
+56988,Winterizer,Other,Unspecified
+56989,Epilepsy Physician,Healthcare & Medical,Unspecified
+56990,Neurosurgery Physician,Healthcare & Medical,Unspecified
+56991,Nocturnist Physician,Healthcare & Medical,Unspecified
+56992,Pediatrics Physician,Healthcare & Medical,Unspecified
+56993,Battery Charger Conveyor Line,Other,Unspecified
+56994,Conveyor Line Battery Charger,Other,Unspecified
+56995,Set Up and Charger,Other,Unspecified
+56996,Dry Primer Powder Blender,Manufacturing & Skilled Trades,Unspecified
+56997,Sleeping Bag Filler,Manufacturing & Skilled Trades,Unspecified
+56998,Tanning Wheel Filler,Manufacturing & Skilled Trades,Unspecified
+56999,Wet Primer Powder Blender,Manufacturing & Skilled Trades,Unspecified
+57000,Corrections Lieutenant,"Public Sector, Defense & Safety",Unspecified
+57001,Global CEO,Other,C-Level
+57002,Cast Shell Grinder,Manufacturing & Skilled Trades,Unspecified
+57003,Gambling Monitor,Other,Unspecified
+57004,Grip Boss,Other,Unspecified
+57005,Level Vial Grinder,Manufacturing & Skilled Trades,Unspecified
+57006,Yarder Boss,Other,Unspecified
+57007,Trimming Department Blocker,Other,Unspecified
+57008,Seat Scooper Machine,Manufacturing & Skilled Trades,Unspecified
+57009,Stitcher Standard Machine,Manufacturing & Skilled Trades,Unspecified
+57010,Mushroom Growth Media Mixer,Marketing & Growth,Unspecified
+57011,Soft Drink Powder Mixer,Manufacturing & Skilled Trades,Unspecified
+57012,Human Factors Advisor Lead,"Media, Sports & Entertainment",Manager
+57013,Windows 7 Deployment Lead,General / Cross-functional,Manager
+57014,Index Editor,Design & Creative,Unspecified
+57015,Industrial Roof Plumber,Manufacturing & Skilled Trades,Unspecified
+57016,Society Editor,Design & Creative,Unspecified
+57017,Suction Roller,Other,Unspecified
+57018,Top Collar Baster,Other,Unspecified
+57020,Run Lead,General / Cross-functional,Manager
+57021,Build Master,Other,Unspecified
+57022,Chemical Analytical Sampler,Other,Unspecified
+57023,Chiropractic Care,Other,Unspecified
+57024,Quarter Folder,Manufacturing & Skilled Trades,Unspecified
+57025,Vinyl Hanger,Other,Unspecified
+57026,Yacht Master,Other,Unspecified
+57027,Administrative Assistant Data Entry,Administration & Office Support,Junior / Entry
+57032,Bellhop Captain,"Hospitality, Food & Travel",Unspecified
+57033,Decorator Store,Other,Unspecified
+57034,Lighter Captain,Other,Unspecified
+57035,Seating Captain,Other,Unspecified
+57036,Supervisor Final,General / Cross-functional,Manager
+57037,Tombstone Polisher,Manufacturing & Skilled Trades,Unspecified
+57038,Hot Tamale Man,Manufacturing & Skilled Trades,Unspecified
+57039,Cattle and Wheat Farmer,Other,Unspecified
+57040,Sheep and Wheat Farmer,Other,Unspecified
+57041,Stud Beef Cattle Farmer,Other,Unspecified
+57042,Stud Dairy Cattle Farmer,Other,Unspecified
+57043,Brass Chaser,Other,Unspecified
+57044,Brass Pourer,Other,Unspecified
+57045,Butcher Meat,Other,Unspecified
+57046,Car Chaser,Other,Unspecified
+57047,Copy Chaser,Marketing & Growth,Unspecified
+57048,Crane Chaser,Manufacturing & Skilled Trades,Unspecified
+57049,Material Chaser,Other,Unspecified
+57050,Parts Chaser,Other,Unspecified
+57051,Pin Chaser,Other,Unspecified
+57052,Pneumatic Riveter,Manufacturing & Skilled Trades,Unspecified
+57053,Scraper Meat,Other,Unspecified
+57054,Stock Chaser,Other,Unspecified
+57055,Tool Chaser,Other,Unspecified
+57056,Water Chaser,Other,Unspecified
+57057,Women's Health Care Nurse Practitioner,Healthcare & Medical,Unspecified
+57058,Bar Catcher,Other,Unspecified
+57059,Board Catcher,Other,Unspecified
+57060,Brick Catcher,Other,Unspecified
+57061,Candy Catcher,Other,Unspecified
+57062,Dog Catcher,Other,Unspecified
+57063,Feeder Catcher,Manufacturing & Skilled Trades,Unspecified
+57064,Frame Catcher,Other,Unspecified
+57065,Press Catcher,Manufacturing & Skilled Trades,Unspecified
+57066,Sheet Catcher,Other,Unspecified
+57067,Cheese Cooker,Other,Unspecified
+57068,Drywall Taper,Other,Unspecified
+57069,Lime Spreader,Other,Unspecified
+57070,Substance Abuse Clinician,Healthcare & Medical,Unspecified
+57071,Alarm Security OR Surveillance Monitor,Other,Unspecified
+57072,Candy Starch Mold Printer,Manufacturing & Skilled Trades,Unspecified
+57073,Supervisor Denture Department,Other,Manager
+57074,Frame and Scrap Crusher,Manufacturing & Skilled Trades,Unspecified
+57075,Maid Housekeeper,"Hospitality, Food & Travel",Unspecified
+57076,Spindle Carver,"Hospitality, Food & Travel",Unspecified
+57077,Admissions Evaluator,Education & Training,Unspecified
+57078,Analysis Evaluator,General / Cross-functional,Unspecified
+57080,Bead Stringer,Other,Unspecified
+57081,Brand Ambassador,Design & Creative,Unspecified
+57082,Campus Ambassador,Other,Unspecified
+57083,Carcass Washer,Manufacturing & Skilled Trades,Unspecified
+57084,Casket Liner,Other,Unspecified
+57085,Cell Biologist,Science & Research,Unspecified
+57086,Client Evaluator,General / Cross-functional,Unspecified
+57087,Clinical Evaluator,Healthcare & Medical,Unspecified
+57088,Community Ambassador,Other,Unspecified
+57089,Crisis Clinician,Healthcare & Medical,Unspecified
+57090,Crystal Evaluator,General / Cross-functional,Unspecified
+57091,Cullet Washer,Manufacturing & Skilled Trades,Unspecified
+57092,Fund Raiser,Other,Unspecified
+57093,Health Evaluator,General / Cross-functional,Unspecified
+57095,Marketing Ambassador,Marketing & Growth,Unspecified
+57096,Messenger Office,Other,Unspecified
+57097,Patient Ambassador,Healthcare & Medical,Unspecified
+57098,Pet Ambassador,Other,Unspecified
+57099,Product Ambassador,Other,Unspecified
+57100,Program Evaluator,General / Cross-functional,Unspecified
+57101,Research Biologist,Science & Research,Unspecified
+57102,Sales Ambassador,Sales & Business Development,Unspecified
+57103,Security Ambassador,Other,Unspecified
+57104,Shade Matcher,Other,Unspecified
+57105,Slot Ambassador,Other,Unspecified
+57106,Stem Crusher,Manufacturing & Skilled Trades,Unspecified
+57107,Structural Biologist,Science & Research,Unspecified
+57108,Student Ambassador,Other,Junior / Entry
+57109,Tar Heater,Other,Unspecified
+57110,Tar Roofer,Manufacturing & Skilled Trades,Unspecified
+57112,Test Evaluator,General / Cross-functional,Unspecified
+57113,Tin Roofer,Manufacturing & Skilled Trades,Unspecified
+57114,Tripe Washer,Manufacturing & Skilled Trades,Unspecified
+57115,Vamp Liner,Other,Unspecified
+57116,Vocational Evaluator,General / Cross-functional,Unspecified
+57117,Wellness Ambassador,Other,Unspecified
+57119,Welder Tool and Die,Manufacturing & Skilled Trades,Unspecified
+57120,Flame Hardening Machine Setter,Manufacturing & Skilled Trades,Unspecified
+57121,Slate Splitter,Other,Unspecified
+57123,Bander and Cellophaner Machine,Manufacturing & Skilled Trades,Unspecified
+57125,Blow Torch Burner,Other,Unspecified
+57126,Electric Blanket Wirer,Other,Unspecified
+57127,Investigator Vice,General / Cross-functional,Unspecified
+57128,Manager Concrete,General / Cross-functional,Manager
+57129,Supervisor Ride Assembly,Other,Manager
+57130,Translator and Interpreter,Other,Unspecified
+57131,Wedding Decorator,Other,Unspecified
+57132,Box Gluer,Other,Unspecified
+57133,Cloud Physicist,Science & Research,Unspecified
+57134,Edge Gluer,Other,Unspecified
+57135,Electronic Gluer,Other,Unspecified
+57136,Experimental Physicist,Science & Research,Unspecified
+57137,Health Physicist,Science & Research,Unspecified
+57140,Panel Gluer,Other,Unspecified
+57141,Radiation Physicist,Science & Research,Unspecified
+57142,Research Physicist,Science & Research,Unspecified
+57143,Side Gluer,Other,Unspecified
+57144,Space Physicist,Science & Research,Unspecified
+57145,Stone Gluer,Other,Unspecified
+57146,Veneer Gluer,Other,Unspecified
+57147,Wood Gluer,Other,Unspecified
+57148,Honey Producer,Design & Creative,Unspecified
+57149,Adapted Physical Education Aide,Education & Training,Junior / Entry
+57152,Financial Institution Vice President,Finance & Accounting,C-Level
+57153,Gluing Machine Operator Automatic,Manufacturing & Skilled Trades,Unspecified
+57155,Space and Missile Operations,Operations & Supply Chain,Unspecified
+57156,Concession Cashier,Sales & Business Development,Unspecified
+57157,Inspector Final Assembly Conveyor Line,Other,Unspecified
+57158,Director Rehabilitation Program,Other,Director
+57159,Snuff Drier,Other,Unspecified
+57160,Axle Turner,Manufacturing & Skilled Trades,Unspecified
+57161,Bank Secrecy Act Officer,General / Cross-functional,Unspecified
+57162,Chief Environmental Commitment Officer,Agriculture & Environment,C-Level
+57163,Community Reinvestment Act Officer,Finance & Accounting,Unspecified
+57164,Forward Air Controller/Air Officer,Finance & Accounting,Unspecified
+57166,Inshore Undersea Warfare Officer,General / Cross-functional,Unspecified
+57167,Morals Squad Police Officer,"Public Sector, Defense & Safety",Unspecified
+57168,Sewage Reticulation Drafting Officer,General / Cross-functional,Unspecified
+57169,Strike Warfare/Missile Systems Officer,General / Cross-functional,Unspecified
+57170,Tactical Deception Plans Officer,General / Cross-functional,Unspecified
+57171,Transit Authority Police Officer,"Public Sector, Defense & Safety",Unspecified
+57172,V/Stol Landing Signal Officer,General / Cross-functional,Unspecified
+57173,Worldwide Chief Creative Officer,General / Cross-functional,C-Level
+57174,Pie Baker,"Hospitality, Food & Travel",Unspecified
+57175,Police Captain Senior,"Public Sector, Defense & Safety",Senior
+57176,Grove Superintendent,Construction & Real Estate,Director
+57177,Menagerie Superintendent,Construction & Real Estate,Director
+57180,Instructor Wastewater Treatment Plant,Education & Training,Unspecified
+57181,Gas Main and Line Fitter,Energy & Utilities,Unspecified
+57182,Stave Block Splitter,Other,Unspecified
+57183,Tongue and Groove Machine Setter,Manufacturing & Skilled Trades,Unspecified
+57185,Body Recall Instructor,Education & Training,Unspecified
+57187,Environmental Issues Instructor,Education & Training,Unspecified
+57188,Hang Gliding Instructor,Education & Training,Unspecified
+57189,Makeup Artistry Instructor,Education & Training,Unspecified
+57191,Nurse Midwife/Clinical Instructor,Healthcare & Medical,Unspecified
+57193,Parenting Skills Instructor,Education & Training,Unspecified
+57195,Show Jumping Instructor,Education & Training,Unspecified
+57196,Tai Chi Instructor,Education & Training,Unspecified
+57197,Spindle Sander,Manufacturing & Skilled Trades,Unspecified
+57198,Wire Weaver Cloth,Manufacturing & Skilled Trades,Unspecified
+57199,Contour Grinder,Manufacturing & Skilled Trades,Unspecified
+57200,Hardboard Grinder,Manufacturing & Skilled Trades,Unspecified
+57201,Mash Grinder,Manufacturing & Skilled Trades,Unspecified
+57202,Tap Grinder,Manufacturing & Skilled Trades,Unspecified
+57203,Director Software Quality Assurance,Software & Engineering,Director
+57204,Senior Manager Quality Assurance,Other,Manager
+57205,Vice President Quality Assurance,Executive & General Management,C-Level
+57208,Material Reprocessing Associate,General / Cross-functional,Junior / Entry
+57209,Merchandise Pickup/Receiving Associate,Operations & Supply Chain,Junior / Entry
+57210,Pi/Senior Research Associate,Science & Research,Senior
+57211,Coat Joiner Lockstitch,Other,Unspecified
+57213,Bung Sewer,Manufacturing & Skilled Trades,Unspecified
+57214,Cleat Layer,Other,Unspecified
+57215,Seconds Grader,Other,Unspecified
+57216,Clip Loading Machine Feeder,Manufacturing & Skilled Trades,Unspecified
+57217,Craft Demonstrator,Other,Unspecified
+57218,Dish Stacker,Manufacturing & Skilled Trades,Unspecified
+57219,Buyer Grain,Sales & Business Development,Unspecified
+57220,Pearl Glue Drier,Other,Unspecified
+57221,Processor Grain,Other,Unspecified
+57222,Wet Process Assistant Head Miller,General / Cross-functional,Junior / Entry
+57223,Assistant Store Manager Trainee,General / Cross-functional,Manager
+57225,Office Administration,Other,Unspecified
+57226,Sales and Management Trainee,Sales & Business Development,Junior / Entry
+57227,Sales and Operations Trainee,Sales & Business Development,Junior / Entry
+57229,Bit Bender,Other,Unspecified
+57230,Medicare Interviewer,Other,Unspecified
+57232,Blister Packing Machine Tender,Manufacturing & Skilled Trades,Unspecified
+57233,Casing Running Machine Tender,Manufacturing & Skilled Trades,Unspecified
+57234,Cracker Sprayer,Manufacturing & Skilled Trades,Unspecified
+57235,Die Attaching Machine Tender,Manufacturing & Skilled Trades,Unspecified
+57236,Drag Sawyer,Other,Unspecified
+57237,Felt Tipping Machine Tender,Manufacturing & Skilled Trades,Unspecified
+57238,Friction Paint Machine Tender,Manufacturing & Skilled Trades,Unspecified
+57239,Glass Unloading Equipment Tender,Manufacturing & Skilled Trades,Unspecified
+57240,Insecticide Sprayer,Manufacturing & Skilled Trades,Unspecified
+57241,Miter Sawyer,Other,Unspecified
+57242,Neon Tube Pumper,Other,Unspecified
+57243,Orchard Sprayer,Manufacturing & Skilled Trades,Unspecified
+57244,Printing Gray Cloth Tender,Manufacturing & Skilled Trades,Unspecified
+57245,Rotary Peel Oven Tender,Manufacturing & Skilled Trades,Unspecified
+57246,Shoulder Sawyer,Other,Unspecified
+57247,Stain Sprayer,Manufacturing & Skilled Trades,Unspecified
+57248,Tubular Splitting Machine Tender,Manufacturing & Skilled Trades,Unspecified
+57249,Waterproof Coating Machine Tender,Manufacturing & Skilled Trades,Unspecified
+57250,Certified Lactation Educator,Other,Unspecified
+57252,Amusement OR Recreation Card Checker,Operations & Supply Chain,Unspecified
+57253,Feather Separator,Other,Unspecified
+57255,Sleeve Baster,Other,Unspecified
+57256,Sleeve Separator,Other,Unspecified
+57257,Com Writer,Other,Unspecified
+57258,Operator Coating Furnace,Manufacturing & Skilled Trades,Unspecified
+57259,Specifications Writer,Other,Unspecified
+57260,Manager Java,General / Cross-functional,Manager
+57261,Sales Agent Food Vending Service,Sales & Business Development,Unspecified
+57262,Sales Agent Pest Control Service,Sales & Business Development,Unspecified
+57263,Supervisor Aluminum Boat Assembly,Other,Manager
+57264,Installment Account Checker,Operations & Supply Chain,Unspecified
+57265,Blanket Binder,Manufacturing & Skilled Trades,Unspecified
+57267,Corporate Bond Trader,Finance & Accounting,Unspecified
+57268,Float Remover,Other,Unspecified
+57269,Hull Molder,Manufacturing & Skilled Trades,Unspecified
+57270,Mannequin Molder,Manufacturing & Skilled Trades,Unspecified
+57271,Programmer Analyst Health IT,Software & Engineering,Mid
+57272,Churn Driller,Manufacturing & Skilled Trades,Unspecified
+57273,Gambling Dealer,Other,Unspecified
+57274,Computed Tomography Technologist,Healthcare & Medical,Unspecified
+57275,Echocardiography Radiology Technologist,Healthcare & Medical,Unspecified
+57276,Magnetic Resonance Technologist,Healthcare & Medical,Unspecified
+57278,Pulmonary Function Technologist,Healthcare & Medical,Unspecified
+57279,Habitat Conservation Planner,Operations & Supply Chain,Unspecified
+57280,Incinerator Plant Laborer,Manufacturing & Skilled Trades,Unspecified
+57282,Tree Tapping Laborer,Manufacturing & Skilled Trades,Unspecified
+57283,Wreath and Garland Maker Hand,Manufacturing & Skilled Trades,Unspecified
+57284,Welding Machine Operator Gas,Manufacturing & Skilled Trades,Unspecified
+57285,Childcare Provider,Education & Training,Unspecified
+57286,Cook Restaurant,"Hospitality, Food & Travel",Unspecified
+57287,Daycare Provider,Education & Training,Unspecified
+57288,Flour Distributor,Other,Unspecified
+57290,Pen Rider,Other,Unspecified
+57291,Supervisor Customer Complaint Service,Other,Manager
+57292,Supervisor Toy Parts Former,Other,Manager
+57293,Towel Distributor,Other,Unspecified
+57294,Director of Recreation Therapy,Healthcare & Medical,VP / Head
+57295,Piano Regulator,Other,Unspecified
+57296,Blueprint Blocker,Other,Unspecified
+57297,Blueprint Reader,Other,Unspecified
+57298,Molecular Pathologist,Other,Unspecified
+57299,Oral Pathologist,Other,Unspecified
+57301,Cardroom Drawing Runner,"Hospitality, Food & Travel",Unspecified
+57302,Batch Unit Treater,Other,Unspecified
+57303,Car Rental Deliverer,Other,Unspecified
+57304,Clay Plant Treater,Other,Unspecified
+57305,Milk Route Deliverer,Other,Unspecified
+57306,Rental Car Deliverer,Other,Unspecified
+57307,Family Member Caretaker,Other,Unspecified
+57308,Interior Plant Caretaker,Other,Unspecified
+57311,Director Sterile Processing,Other,Director
+57312,Independent Agent Music Education,Education & Training,Unspecified
+57313,Manager Sterile Processing,Other,Manager
+57314,Nuisance Animal Damage Control Agent,General / Cross-functional,Unspecified
+57315,Supervisor Sterile Processing,Other,Manager
+57316,Auto Suspension and Steering Mechanic,Manufacturing & Skilled Trades,Unspecified
+57317,Bait Packer,Operations & Supply Chain,Unspecified
+57318,Balloon Dipper,Manufacturing & Skilled Trades,Unspecified
+57319,Chiropractic Doctor,Healthcare & Medical,Unspecified
+57320,Meal Packer,Operations & Supply Chain,Unspecified
+57321,Passenger Barge Master,Other,Unspecified
+57322,Tissue Packer,Operations & Supply Chain,Unspecified
+57323,Vinyl Dipper,Manufacturing & Skilled Trades,Unspecified
+57324,Balance Wheel Screw Hole Driller,Manufacturing & Skilled Trades,Unspecified
+57325,Progressive Assembler and Fitter,Manufacturing & Skilled Trades,Unspecified
+57326,Spray Gun Sizer,Other,Unspecified
+57328,Catalytic Converter Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+57329,Filtering Machine Tender Helper,Manufacturing & Skilled Trades,Junior / Entry
+57330,Jacquard Lace Weaver,Manufacturing & Skilled Trades,Unspecified
+57331,Jacquard Loom Fixer,Other,Unspecified
+57333,Money Market Dealer,Other,Unspecified
+57334,Post Tensioning Ironworker Helper,Manufacturing & Skilled Trades,Junior / Entry
+57335,Pug Mill Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+57336,Push Bench Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+57337,Straightedge Machine Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+57338,Stranding Machine Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+57339,Twisting Frame Fixer,Other,Unspecified
+57340,Waxing Machine Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+57341,Field Crop Ii Farmworker,Agriculture & Environment,Mid
+57342,Tin Tie Machine Operator Automatic,Manufacturing & Skilled Trades,Unspecified
+57343,Busher Helper,Manufacturing & Skilled Trades,Junior / Entry
+57344,Caterers Helper,Manufacturing & Skilled Trades,Junior / Entry
+57345,Crutcher Helper,Manufacturing & Skilled Trades,Junior / Entry
+57346,Forgeman Helper,Manufacturing & Skilled Trades,Junior / Entry
+57347,Grouter Helper,Manufacturing & Skilled Trades,Junior / Entry
+57348,Hammersmith Helper,Manufacturing & Skilled Trades,Junior / Entry
+57349,Kindergartners Helper,Manufacturing & Skilled Trades,Junior / Entry
+57350,Magician Helper,Manufacturing & Skilled Trades,Junior / Entry
+57351,Milliner Helper,Manufacturing & Skilled Trades,Junior / Entry
+57354,Paleontological Helper,Manufacturing & Skilled Trades,Junior / Entry
+57355,Pugger Helper,Manufacturing & Skilled Trades,Junior / Entry
+57357,Scaffolding Helper,Manufacturing & Skilled Trades,Junior / Entry
+57358,Sexton Helper,Manufacturing & Skilled Trades,Junior / Entry
+57361,Composition Stone Applicator,Other,Unspecified
+57362,Manager Web Application,Other,Manager
+57363,Mems Device Scientist,Science & Research,Unspecified
+57365,Tailer Out,Other,Unspecified
+57366,Technician Biological Health,Other,Unspecified
+57367,Veterans Adviser,Other,Unspecified
+57368,Wrap Yarn Sorter,Manufacturing & Skilled Trades,Unspecified
+57369,Director of Perioperative Services,Other,VP / Head
+57370,Coat Operator Insulator,Manufacturing & Skilled Trades,Unspecified
+57371,Rock Wool Insulator,Other,Unspecified
+57372,Sheet Metal Insulator,Manufacturing & Skilled Trades,Unspecified
+57373,Green Belt,Other,Unspecified
+57374,Miller First,Other,Unspecified
+57375,Women's Studies Lecturer,Education & Training,Unspecified
+57377,Destination Sign Repairer,Manufacturing & Skilled Trades,Unspecified
+57378,Glassware Defect Repairer,Manufacturing & Skilled Trades,Unspecified
+57381,Windshield Wiper Repairer,Manufacturing & Skilled Trades,Unspecified
+57384,Supervisor Chemical,General / Cross-functional,Manager
+57385,Box Toe Cementer,Other,Unspecified
+57387,Snuff Blender,Manufacturing & Skilled Trades,Unspecified
+57388,Soft Hat Binder,Manufacturing & Skilled Trades,Unspecified
+57389,Toe Lining Closer,Other,Unspecified
+57392,Coffee Urn Attendant,Other,Unspecified
+57394,Fairmont Gold Attendant,Other,Unspecified
+57395,Fuel Island Attendant,Other,Unspecified
+57396,Gourmet Coffee Attendant,Other,Unspecified
+57397,Lead Instructor/Flight Attendant,Education & Training,Manager
+57398,Poolroom Table Attendant,Other,Unspecified
+57399,Racecourse Barrier Attendant,Other,Unspecified
+57401,Virginia Line Attendant,Other,Unspecified
+57402,Veterinarian Laboratory Animal Care,Healthcare & Medical,Unspecified
+57403,Administrative Assistant Front Desk,Customer Success & Support,Junior / Entry
+57404,Armature Bander,Other,Unspecified
+57405,Check Scaler,Other,Unspecified
+57406,Deck Scaler,Other,Unspecified
+57408,Granite Chip Terrazzo Finisher,Manufacturing & Skilled Trades,Unspecified
+57410,High Scaler,Other,Unspecified
+57411,Log Scaler,Other,Unspecified
+57412,Lumber Scaler,Other,Unspecified
+57413,Mess Cook,"Hospitality, Food & Travel",Unspecified
+57414,Patient Coordinator Front Desk,Healthcare & Medical,Unspecified
+57415,Ship Scaler,Other,Unspecified
+57416,Tip Bander,Other,Unspecified
+57417,Wood Scaler,Other,Unspecified
+57418,Acidizer,Other,Unspecified
+57420,Blunger,Other,Unspecified
+57422,Crystalizer,Other,Unspecified
+57423,Electrotyper,Other,Unspecified
+57424,Kaiawhina,Other,Unspecified
+57425,Mailer,Other,Unspecified
+57426,Metalizer,Other,Unspecified
+57427,Nocturnist,Other,Unspecified
+57428,Pmp,Other,Unspecified
+57429,Saturator,Other,Unspecified
+57430,Scarfer,Other,Unspecified
+57433,Stereotyper,Other,Unspecified
+57434,Teletypesetter,Other,Unspecified
+57437,Whizzer,Other,Unspecified
+57438,Certified Midwife,Healthcare & Medical,Unspecified
+57440,Ladle Pourer,Other,Unspecified
+57441,Lay Midwife,Healthcare & Medical,Unspecified
+57442,Licensed Midwife,Healthcare & Medical,Unspecified
+57443,Nurse Midwife,Healthcare & Medical,Unspecified
+57444,Registered Midwife,Healthcare & Medical,Unspecified
+57445,RN Midwife,Healthcare & Medical,Unspecified
+57446,Staff Midwife,Healthcare & Medical,Senior
+57447,Tar Boiler,Other,Unspecified
+57448,Tar Chaser,Other,Unspecified
+57449,Tin Pourer,Other,Unspecified
+57451,Manager Internal,General / Cross-functional,Manager
+57452,Taxicab Dispatcher,Operations & Supply Chain,Unspecified
+57453,Blind Escort,Other,Unspecified
+57454,Bus Escort,Other,Unspecified
+57456,Guide Escort,Other,Unspecified
+57458,Security Escort,Other,Unspecified
+57460,Transportation Escort,Operations & Supply Chain,Unspecified
+57461,Filer and Sander,Manufacturing & Skilled Trades,Unspecified
+57462,Hadoop Admin,Other,Unspecified
+57463,Siding Applicator,Other,Unspecified
+57464,Clerk to Justice,Administration & Office Support,Unspecified
+57465,Greaser and Oiler,Manufacturing & Skilled Trades,Unspecified
+57467,Zipper Slide Attacher,Other,Unspecified
+57468,Lean Facilitator,General / Cross-functional,Unspecified
+57469,Auto Rebuilder,Other,Unspecified
+57470,Channel Rebuilder,Sales & Business Development,Unspecified
+57472,Email Marketer,Other,Unspecified
+57473,Environmental Marketer,Agriculture & Environment,Unspecified
+57474,Exhaust and Muffler Repairer,Manufacturing & Skilled Trades,Unspecified
+57475,Farm Marketer,Agriculture & Environment,Unspecified
+57476,Fashion Marketer,Other,Unspecified
+57477,Field Marketer,Other,Unspecified
+57478,Fretted String Instrument Repairer,Manufacturing & Skilled Trades,Unspecified
+57479,Generator Rebuilder,Other,Unspecified
+57480,Green Marketer,Other,Unspecified
+57481,Healthcare Marketer,Other,Unspecified
+57482,Hospitality Ambassador,Healthcare & Medical,Unspecified
+57484,Machine Rebuilder,Manufacturing & Skilled Trades,Unspecified
+57485,Motor Rebuilder,Other,Unspecified
+57487,Power Marketer,Other,Unspecified
+57488,Product Marketer,Other,Unspecified
+57489,Pump Rebuilder,Other,Unspecified
+57490,Rivet Heater,Other,Unspecified
+57491,Sports Marketer,"Media, Sports & Entertainment",Unspecified
+57492,Tank Crewmember,Other,Unspecified
+57493,Tire Rebuilder,Other,Unspecified
+57494,Transmission Rebuilder,Other,Unspecified
+57495,Tube Rebuilder,Other,Unspecified
+57496,Validation Software Facilitator,Software & Engineering,Unspecified
+57497,Ab Initio ETL Developer,Software & Engineering,Mid
+57498,Infant Caregiver,Healthcare & Medical,Unspecified
+57499,Inpatient Coder,Healthcare & Medical,Unspecified
+57500,Java Golden Gate Developer,Software & Engineering,Mid
+57501,Visual Basic .NET Developer,Software & Engineering,Mid
+57503,Fixed Wing Pilot,Other,Unspecified
+57505,Social Security Benefits Interviewer,Human Resources & Recruiting,Unspecified
+57506,Window Shade Ring Coverer,Other,Unspecified
+57507,Monument Erector,Manufacturing & Skilled Trades,Unspecified
+57508,Silo Erector,Manufacturing & Skilled Trades,Unspecified
+57509,Stoker Erector,Manufacturing & Skilled Trades,Unspecified
+57510,Cartridge Assembling Machine Adjuster,Manufacturing & Skilled Trades,Unspecified
+57511,Cable Mock Up Assembler,Manufacturing & Skilled Trades,Unspecified
+57512,Cathode Ray Tube Assembler,Manufacturing & Skilled Trades,Unspecified
+57513,Clip on Sunglasses Assembler,Manufacturing & Skilled Trades,Unspecified
+57514,Sport Shoe Spike Assembler,Manufacturing & Skilled Trades,Unspecified
+57515,Travel Trailer Components Assembler,Manufacturing & Skilled Trades,Unspecified
+57516,Woven Wood Shade Assembler,Manufacturing & Skilled Trades,Unspecified
+57517,Merchant Police,"Public Sector, Defense & Safety",Unspecified
+57518,Merchant Tailor,Other,Unspecified
+57519,Bedspring Assembler,Manufacturing & Skilled Trades,Unspecified
+57520,Bunk Assembler,Manufacturing & Skilled Trades,Unspecified
+57521,Camouflage Assembler,Manufacturing & Skilled Trades,Unspecified
+57522,Camper Assembler,Manufacturing & Skilled Trades,Unspecified
+57523,Faucets Assembler,Manufacturing & Skilled Trades,Unspecified
+57524,Igniter Assembler,Manufacturing & Skilled Trades,Unspecified
+57525,Matchbook Assembler,Manufacturing & Skilled Trades,Unspecified
+57526,Puzzle Assembler,Manufacturing & Skilled Trades,Unspecified
+57527,Servomechanism Assembler,Manufacturing & Skilled Trades,Unspecified
+57528,Shuttlecock Assembler,Manufacturing & Skilled Trades,Unspecified
+57529,Skylights Assembler,Manufacturing & Skilled Trades,Unspecified
+57530,Slider Assembler,Manufacturing & Skilled Trades,Unspecified
+57531,Spider Assembler,Manufacturing & Skilled Trades,Unspecified
+57532,Music Therapist Public School System,Healthcare & Medical,Unspecified
+57533,High School Assistant Football Coach,Education & Training,Junior / Entry
+57534,Defensive Line Coach,Education & Training,Unspecified
+57535,Defensive Secondary Coach,Education & Training,Unspecified
+57538,Plywood Patcher,Other,Unspecified
+57540,Snow Blower,Other,Unspecified
+57541,Value Stream Coach,Education & Training,Unspecified
+57542,Harbor Tug Captain,Other,Unspecified
+57543,Strip Catcher,Other,Unspecified
+57544,Subway Guard,"Public Sector, Defense & Safety",Unspecified
+57547,Sealer Aircraft,Manufacturing & Skilled Trades,Unspecified
+57549,Char Filter Tank Tender Head,Manufacturing & Skilled Trades,Unspecified
+57550,Feather Shaper,Other,Unspecified
+57551,Mica Sizer,Other,Unspecified
+57553,Dining Car Waiter/Waitress,"Hospitality, Food & Travel",Unspecified
+57554,Room Service Waiter/Waitress,"Hospitality, Food & Travel",Unspecified
+57555,Personal Injury Attorney,Legal,Unspecified
+57556,RN Rehabilitation,Other,Unspecified
+57557,Account Liaison Hospice,Healthcare & Medical,Unspecified
+57558,Director Revenue,General / Cross-functional,Director
+57559,Food Service Employee,"Hospitality, Food & Travel",Unspecified
+57560,Manager Performance Improvement,Other,Manager
+57563,Farmworker Chicken Farm,Agriculture & Environment,Unspecified
+57564,Helper Chicken Farm,Agriculture & Environment,Junior / Entry
+57565,Ironworker Apprentice Shop,Manufacturing & Skilled Trades,Junior / Entry
+57566,Ironworker Helper Shop,Manufacturing & Skilled Trades,Junior / Entry
+57567,Laborer Chicken Farm,Agriculture & Environment,Unspecified
+57568,Residential Framing Carpenter,Manufacturing & Skilled Trades,Unspecified
+57569,Well Drill Operator Helper Cable Tool,Manufacturing & Skilled Trades,Junior / Entry
+57570,Credit Union Teller,Finance & Accounting,Unspecified
+57571,Patternmaker Metal Bench,Other,Unspecified
+57572,Solar Sales Representative and Assessor,Sales & Business Development,Unspecified
+57573,Terrazzo Journeyman,Manufacturing & Skilled Trades,Unspecified
+57574,Assembling Fabricator,Manufacturing & Skilled Trades,Unspecified
+57575,Paperhanger Contractor,"Media, Sports & Entertainment",Unspecified
+57576,Turf Grower,Other,Unspecified
+57577,Worm Grower,Other,Unspecified
+57578,Yardage Estimator,Engineering (Non-Software),Unspecified
+57579,Stripping Cutter and Winder,Other,Unspecified
+57580,Continuous Mining Machine Coal Miner,Other,Unspecified
+57581,Continuous Mining Machine Company Miner,Other,Unspecified
+57582,Stator Winder,Other,Unspecified
+57583,Hand Candle Dipper,Manufacturing & Skilled Trades,Unspecified
+57584,Hard Rock Miner,Other,Unspecified
+57585,Special Agent in Charge,Other,Unspecified
+57586,County Sheriff,"Public Sector, Defense & Safety",Unspecified
+57587,Deputy Sheriff,Other,Unspecified
+57588,Instrument Lens Generator,Other,Unspecified
+57589,Planting Material Carrier,Other,Unspecified
+57590,Precision Lens Generator,Other,Unspecified
+57592,Sheriff Deputy,Other,Unspecified
+57593,Diving Judge,Legal,Unspecified
+57595,Skein Yarn Dyer,Manufacturing & Skilled Trades,Unspecified
+57596,Ink Printer,Other,Unspecified
+57597,Necktie Stitcher,Manufacturing & Skilled Trades,Unspecified
+57598,Projection Printer,Other,Unspecified
+57602,Manager Review,General / Cross-functional,Manager
+57603,Phone Banker,Finance & Accounting,Unspecified
+57604,RN Review,Other,Unspecified
+57605,Spindle Plumber,Manufacturing & Skilled Trades,Unspecified
+57606,Superintendent Laundry,Construction & Real Estate,Director
+57607,Supervisor Laundry,General / Cross-functional,Manager
+57609,Soft Shoe Dancer,"Media, Sports & Entertainment",Unspecified
+57610,Surgical Elastic Knitter,Healthcare & Medical,Unspecified
+57611,Criminal Justice Faculty,Other,Unspecified
+57612,English Adjunct Faculty,Other,Unspecified
+57613,Munitions Handler,Manufacturing & Skilled Trades,Unspecified
+57614,Seconds Handler,Manufacturing & Skilled Trades,Unspecified
+57615,Brazing Furnace Feeder,Manufacturing & Skilled Trades,Unspecified
+57616,Brazing Machine Feeder,Manufacturing & Skilled Trades,Unspecified
+57617,Broomcorn Press Feeder,Manufacturing & Skilled Trades,Unspecified
+57618,College OR University Registrar,Education & Training,Unspecified
+57619,Event Specialist Food Demonstrator,"Hospitality, Food & Travel",Mid
+57620,Event Specialist Product Demonstrator,"Hospitality, Food & Travel",Mid
+57621,Aboriginal Community Council Member,Other,Unspecified
+57622,Flexible Shaft Winder,Other,Unspecified
+57623,Director Card,General / Cross-functional,Director
+57624,Manager Card,General / Cross-functional,Manager
+57625,Tribunal Member,Other,Unspecified
+57627,Vaccine Key Customer Leader,Healthcare & Medical,Unspecified
+57629,Carburetor Expert,Other,Unspecified
+57630,Chainstitch Binder,Manufacturing & Skilled Trades,Unspecified
+57631,Collar Closer Lockstitch,Other,Unspecified
+57632,Cosmetology Educator,Other,Unspecified
+57633,Excel Expert,Other,Unspecified
+57634,Fingerprint Expert,Other,Unspecified
+57635,Frog Farmer,Other,Unspecified
+57636,Reinsurance Accountant,Finance & Accounting,Unspecified
+57637,Sampling Expert,Other,Unspecified
+57639,Taxation Accountant,Finance & Accounting,Unspecified
+57641,Lining Strap Closer,Other,Unspecified
+57642,Supervisor Canvas Products,Other,Manager
+57643,Adventure Guide,Finance & Accounting,Unspecified
+57644,Cruise Guide,"Hospitality, Food & Travel",Unspecified
+57645,Gasket Former,Other,Unspecified
+57646,Sliver Former,Other,Unspecified
+57647,Centrifugal Wax Molder,Manufacturing & Skilled Trades,Unspecified
+57648,Overhead Cleaner Maintainer,Manufacturing & Skilled Trades,Unspecified
+57649,Second Cook and Baker,"Hospitality, Food & Travel",Unspecified
+57650,Veneer Jointer Offbearer,Other,Unspecified
+57651,High Density Press Laborer,Manufacturing & Skilled Trades,Unspecified
+57652,Admitting Interviewer,Other,Unspecified
+57653,Bundle Breaker,Agriculture & Environment,Unspecified
+57654,Deportation Examiner,Education & Training,Unspecified
+57655,Grazing Examiner,Education & Training,Unspecified
+57656,Rib Bender,Other,Unspecified
+57657,Injection Molding Machine Offbearer,Manufacturing & Skilled Trades,Unspecified
+57658,Tanbark Laborer,Manufacturing & Skilled Trades,Unspecified
+57659,Vacation Planner,Operations & Supply Chain,Unspecified
+57660,Field Artillery Senior Sergeant,Other,Senior
+57661,Mannequin Decorator,Other,Unspecified
+57662,Log Haul Chain Feeder,Manufacturing & Skilled Trades,Unspecified
+57663,Gauger Chief Delivery,General / Cross-functional,C-Level
+57664,Garnett Feeder,Manufacturing & Skilled Trades,Unspecified
+57665,Tenter Feeder,Manufacturing & Skilled Trades,Unspecified
+57666,Apprentice Stylist,Manufacturing & Skilled Trades,Junior / Entry
+57667,Band Singer,Other,Unspecified
+57668,Body Stylist,Other,Unspecified
+57669,Commercial Singer,Other,Unspecified
+57671,Food Stylist,Other,Unspecified
+57672,Frame Stylist,Other,Unspecified
+57673,Fur Stylist,Other,Unspecified
+57674,Gas Singer,Energy & Utilities,Unspecified
+57676,Hand Singer,Manufacturing & Skilled Trades,Unspecified
+57678,Manager Stylist,General / Cross-functional,Manager
+57679,Metal Base Blocker,Other,Unspecified
+57680,Pet Stylist,Other,Unspecified
+57681,Photo Stylist,Other,Unspecified
+57682,Rock Singer,Other,Unspecified
+57683,Shade Bander,Other,Unspecified
+57684,Shoe Singer,Other,Unspecified
+57685,Textile Stylist,Other,Unspecified
+57686,Thread Singer,Other,Unspecified
+57687,Visual Stylist,Other,Unspecified
+57689,Seed Corn Manager Production,General / Cross-functional,Manager
+57690,Glassware Engraver,Other,Unspecified
+57691,Hoe Runner,"Hospitality, Food & Travel",Unspecified
+57692,Paint and Table Edger,Other,Unspecified
+57693,Auditor Medical Claims,Finance & Accounting,Unspecified
+57694,Director Credit Risk,Finance & Accounting,Director
+57697,Auto Refinisher,Other,Unspecified
+57699,Band Lining Bander,Other,Unspecified
+57700,Basting Puller,Other,Unspecified
+57701,Batch Trucker,Other,Unspecified
+57702,Bobbin Trucker,Other,Unspecified
+57704,Car Spotter,Other,Unspecified
+57705,Casting Trucker,"Media, Sports & Entertainment",Unspecified
+57706,Coal Shooter,Other,Unspecified
+57707,Cone Trucker,Other,Unspecified
+57708,Date Puller,Other,Unspecified
+57709,Electric Trucker,Other,Unspecified
+57710,Extract Puller,Other,Unspecified
+57711,Floor Refinisher,Other,Unspecified
+57712,Freight Trucker,Operations & Supply Chain,Unspecified
+57714,Hand Edge Bander,Other,Unspecified
+57715,Hand Trucker,Manufacturing & Skilled Trades,Unspecified
+57716,Inside Trucker,Other,Unspecified
+57717,Kinesiology Internship,Other,Junior / Entry
+57718,Lathe Spotter,Manufacturing & Skilled Trades,Unspecified
+57719,Livestock Trucker,Agriculture & Environment,Unspecified
+57720,Machine Edge Bander,Other,Unspecified
+57721,Mandrel Puller,Other,Unspecified
+57722,Mba Internship,Other,Junior / Entry
+57723,Mud Trucker,Other,Unspecified
+57724,Multicultural Internship,Other,Junior / Entry
+57725,Photographic Spotter,Design & Creative,Unspecified
+57726,Photography Spotter,Other,Unspecified
+57727,Piano Refinisher,Other,Unspecified
+57728,Potato Spotter,Other,Unspecified
+57729,Retort Firer,Other,Unspecified
+57730,Roll Trucker,Other,Unspecified
+57731,Scale Shooter,Other,Unspecified
+57732,Seed Trucker,Other,Unspecified
+57733,Shuttle Spotter,Other,Unspecified
+57734,Silk Spotter,Other,Unspecified
+57735,Silver Chaser,Other,Unspecified
+57736,Sugar Trucker,Other,Unspecified
+57737,Tank Refinisher,Other,Unspecified
+57738,Timber Spotter,Other,Unspecified
+57739,Tire Spotter,Other,Unspecified
+57740,Tire Trucker,Other,Unspecified
+57741,Top Spotter,Other,Unspecified
+57742,Truck Spotter,Other,Unspecified
+57743,Twister In,Other,Unspecified
+57744,Undergraduate Internship,Other,Junior / Entry
+57746,Warp Trucker,Other,Unspecified
+57747,Wax Pourer,Other,Unspecified
+57748,Well Shooter,Other,Unspecified
+57749,Wool Spotter,Other,Unspecified
+57750,Yard Spotter,Other,Unspecified
+57751,Blue Split Trimmer,Manufacturing & Skilled Trades,Unspecified
+57752,FAA Certified Powerplant Mechanic,Manufacturing & Skilled Trades,Unspecified
+57753,Foundry Worker General,General / Cross-functional,Unspecified
+57754,Hands Hanger,Other,Unspecified
+57755,Insulation Cupola Charger,Other,Unspecified
+57756,Ship's Master,Other,Unspecified
+57758,Computerized Table Cutter,Manufacturing & Skilled Trades,Unspecified
+57759,Lacing String Cutter,Manufacturing & Skilled Trades,Unspecified
+57761,Plating Stripper,Other,Unspecified
+57762,Admission Liaison,General / Cross-functional,Unspecified
+57763,Welfare Eligibility Interviewer,Other,Unspecified
+57764,Turret Lathe Machinist,Manufacturing & Skilled Trades,Unspecified
+57765,Race Relations Adviser,Other,Unspecified
+57766,Spud Sorter,Manufacturing & Skilled Trades,Unspecified
+57767,Vice President Network,Executive & General Management,C-Level
+57768,Playground Monitor,Other,Unspecified
+57769,Specimen Boss,Other,Unspecified
+57770,Weigh Boss,Other,Unspecified
+57772,Buckle Stringer,Other,Unspecified
+57773,Composition Roofer,Manufacturing & Skilled Trades,Unspecified
+57776,Tumbler Plater,Manufacturing & Skilled Trades,Unspecified
+57777,Excelsior Picker,Operations & Supply Chain,Unspecified
+57781,Video Editing Internship,Other,Junior / Entry
+57783,Burial Needs Salesperson,Sales & Business Development,Unspecified
+57784,Car Ferry Master,Other,Unspecified
+57785,Manager Intensive Care,Other,Manager
+57786,Linoleum Tile Floor Layer,Other,Unspecified
+57787,Pony Roll Finisher,Manufacturing & Skilled Trades,Unspecified
+57788,Rim Turning Finisher,Manufacturing & Skilled Trades,Unspecified
+57789,Snuff Box Finisher,Manufacturing & Skilled Trades,Unspecified
+57791,Helmet Hat Brim Cutter,Manufacturing & Skilled Trades,Unspecified
+57793,Medical Collections,Finance & Accounting,Unspecified
+57794,Residential Collections,Finance & Accounting,Unspecified
+57795,Chainstitch Elastic Attacher,Other,Unspecified
+57798,Polishing Pad Mounter,Other,Unspecified
+57799,C T Tech,Manufacturing & Skilled Trades,Unspecified
+57800,Cert Pharmacy Tech,Healthcare & Medical,Unspecified
+57801,Echo Vasc Tech,Manufacturing & Skilled Trades,Unspecified
+57802,Linotype Machinist,Manufacturing & Skilled Trades,Unspecified
+57803,Monotype Machinist,Manufacturing & Skilled Trades,Unspecified
+57804,Sterile Proc Tech,Manufacturing & Skilled Trades,Unspecified
+57805,Toolroom Machinist,Manufacturing & Skilled Trades,Unspecified
+57806,Match Up Person,Other,Unspecified
+57807,Corporate Director of Human Resources,Human Resources & Recruiting,VP / Head
+57809,Vice President of Human Resources,Human Resources & Recruiting,C-Level
+57810,Circus Rider,Other,Unspecified
+57811,Mannequin Mounter,Other,Unspecified
+57812,Electrical Line Splicer,Other,Unspecified
+57813,Ore Miner Blasting,Other,Unspecified
+57815,Bow Tacker,Other,Unspecified
+57816,Cvicu RN,Other,Unspecified
+57817,Ldr RN,Other,Unspecified
+57818,Math and Science Division Chair,Other,Unspecified
+57819,Math and Sciences Department Chair,Other,Unspecified
+57820,Perianesthesia RN,Healthcare & Medical,Unspecified
+57821,Postpartum RN,Other,Unspecified
+57822,Drone Pilot,Other,Unspecified
+57824,Overage Shortage and Damage Clerk,Administration & Office Support,Unspecified
+57825,Mineral Surveyor,Engineering (Non-Software),Unspecified
+57826,Parcel Wrapper,Manufacturing & Skilled Trades,Unspecified
+57827,Ware Server,"Hospitality, Food & Travel",Unspecified
+57829,Upper Shaper,Other,Unspecified
+57830,Wooden Fence Erector,Manufacturing & Skilled Trades,Unspecified
+57831,Wooden Tank Erector,Manufacturing & Skilled Trades,Unspecified
+57832,Farmworker Animal,Other,Unspecified
+57833,Follow Up Rep,Other,Unspecified
+57835,Manager Inside,General / Cross-functional,Manager
+57836,Manager Integration,General / Cross-functional,Manager
+57837,Mate Ship,Other,Unspecified
+57838,Supervisor Area,General / Cross-functional,Manager
+57839,University Partnership Rep,Executive & General Management,Unspecified
+57840,VP Integration,Other,VP / Head
+57841,Steel Box Toe Inserter,Other,Unspecified
+57842,Vest Front Presser,Manufacturing & Skilled Trades,Unspecified
+57843,Neuro Intensivist Physician,Healthcare & Medical,Unspecified
+57844,Occ Med Physician,Healthcare & Medical,Unspecified
+57845,Swaging Machine Adjuster,Manufacturing & Skilled Trades,Unspecified
+57846,Thoracic Medicine Physician,Healthcare & Medical,Unspecified
+57848,Ballpoint Pens Assembler,Manufacturing & Skilled Trades,Unspecified
+57849,Corncob Pipes Assembler,Manufacturing & Skilled Trades,Unspecified
+57850,Covered Buckle Assembler,Manufacturing & Skilled Trades,Unspecified
+57851,E M Assembler,Manufacturing & Skilled Trades,Unspecified
+57852,Knock Up Assembler,Manufacturing & Skilled Trades,Unspecified
+57853,Lay Ups Assembler,Manufacturing & Skilled Trades,Unspecified
+57854,Magnet Valve Assembler,Manufacturing & Skilled Trades,Unspecified
+57856,Phonograph Cartridge Assembler,Manufacturing & Skilled Trades,Unspecified
+57857,Pigment Pusher,Other,Unspecified
+57858,Pull Socket Assembler,Manufacturing & Skilled Trades,Unspecified
+57859,Push Connector Assembler,Manufacturing & Skilled Trades,Unspecified
+57860,Rotating Field Assembler,Manufacturing & Skilled Trades,Unspecified
+57861,Spar Finisher,Manufacturing & Skilled Trades,Unspecified
+57862,Spark Plug Assembler,Manufacturing & Skilled Trades,Unspecified
+57865,Underwear Finisher,Manufacturing & Skilled Trades,Unspecified
+57867,Entertainment Dancer,"Media, Sports & Entertainment",Unspecified
+57868,Entertainment Lawyer,Legal,Unspecified
+57869,Taxi Dancer,"Media, Sports & Entertainment",Unspecified
+57870,Aircraft Seat Upholsterer,Other,Unspecified
+57871,Assembly Line Upholsterer,Other,Unspecified
+57872,Body Trimmer Upholsterer,Manufacturing & Skilled Trades,Unspecified
+57873,Box Spring Upholsterer,Other,Unspecified
+57875,Shell Maker Lockstitch,Manufacturing & Skilled Trades,Unspecified
+57877,Antisqueak Filler,Manufacturing & Skilled Trades,Unspecified
+57878,Bellows Filler,Manufacturing & Skilled Trades,Unspecified
+57879,Pitch Filler,Manufacturing & Skilled Trades,Unspecified
+57881,Third Shift Lieutenant,Other,Unspecified
+57882,Bowling Ball Weigher and Packer,Operations & Supply Chain,Unspecified
+57884,Felt Hat Inspector and Packer,Operations & Supply Chain,Unspecified
+57885,Fireproof Door Maker,Manufacturing & Skilled Trades,Unspecified
+57886,Honeycomb Blanket Maker,Manufacturing & Skilled Trades,Unspecified
+57888,Pork Cutlet Maker,Manufacturing & Skilled Trades,Unspecified
+57891,Taffy Candy Maker,Manufacturing & Skilled Trades,Unspecified
+57892,Manager Continuous Improvement,Other,Manager
+57893,Production Engineer Track,Other,Mid
+57894,Flat Breakdown Processor,Other,Unspecified
+57895,Lead Nitrate Processor,Other,Manager
+57896,Greenskeeper Head,General / Cross-functional,Unspecified
+57898,Assistant to the Dean,Education & Training,Director
+57899,Automatic Clipper and Stripper,Other,Unspecified
+57900,Cardroom Plastic Card Grader,Other,Unspecified
+57901,Cutter Brake Lining,Other,Unspecified
+57902,Driller Brake Lining,Other,Unspecified
+57903,Fertilizer Applicator,Other,Unspecified
+57904,Grinder Brake Lining,Other,Unspecified
+57905,Inspector Brake Lining,Other,Unspecified
+57906,Surgical Assistant Certified,Healthcare & Medical,Junior / Entry
+57907,Clinician Oncology,Healthcare & Medical,Unspecified
+57908,Director Oncology,Healthcare & Medical,Director
+57909,Manager Oncology,Healthcare & Medical,Manager
+57910,RN Oncology,Healthcare & Medical,Unspecified
+57911,Gaming Surveillance Observer,"Hospitality, Food & Travel",Unspecified
+57913,Per Diem Interpreter,Other,Unspecified
+57914,Rivet Hole Puncher,Other,Unspecified
+57915,Field Horticultural Specialty Grower,Agriculture & Environment,Unspecified
+57916,Inside Horticultural Specialty Grower,Agriculture & Environment,Unspecified
+57917,Sheet Rock Taper,Other,Unspecified
+57918,Stripper and Taper,Other,Unspecified
+57919,Wood Veneer Taper,Other,Unspecified
+57920,Hose Inspector and Patcher,Other,Unspecified
+57921,Assistant Professor of Surgery,Education & Training,Junior / Entry
+57922,Associate Professor of Surgery,Education & Training,Junior / Entry
+57923,Doctor of Dental Surgery,Healthcare & Medical,Unspecified
+57924,Rural Mail Contractor,"Media, Sports & Entertainment",Unspecified
+57925,Bottom Turning Lathe Turner,Manufacturing & Skilled Trades,Unspecified
+57926,Correction Lieutenant,Other,Unspecified
+57927,Smoking Pipe Liner,Other,Unspecified
+57928,Ticket Dispenser Changer,Healthcare & Medical,Unspecified
+57929,Pillowcase Turner,Manufacturing & Skilled Trades,Unspecified
+57931,Curtain Framer,Other,Unspecified
+57932,Multiple Drum Sander,Manufacturing & Skilled Trades,Unspecified
+57933,Aba Therapist,Healthcare & Medical,Unspecified
+57934,Colon Therapist,Healthcare & Medical,Unspecified
+57935,Diversional Therapist,Healthcare & Medical,Unspecified
+57936,Occup Therapist,Healthcare & Medical,Unspecified
+57937,Resp Therapist,Healthcare & Medical,Unspecified
+57938,Heart Doctor,Healthcare & Medical,Unspecified
+57940,VP Site,Other,VP / Head
+57941,Rural Route Mail Carrier,Administration & Office Support,Unspecified
+57942,Director International,General / Cross-functional,Director
+57944,RN International,Other,Junior / Entry
+57945,Comber Fixer,Other,Unspecified
+57946,Exploration Driller,Manufacturing & Skilled Trades,Unspecified
+57947,Fare Collector,Other,Unspecified
+57948,Jail Keeper,Other,Unspecified
+57949,Keno Dealer,Other,Unspecified
+57950,Monkey Keeper,Other,Unspecified
+57951,Note Keeper,Other,Unspecified
+57952,Rubbish Collector,Other,Unspecified
+57953,Toolroom Keeper,Other,Unspecified
+57954,Warper Fixer,Other,Unspecified
+57956,Morning Caregiver,Healthcare & Medical,Unspecified
+57957,Bowling Alley Floors Installer,Manufacturing & Skilled Trades,Unspecified
+57958,Button Buttonhole Marker,Other,Unspecified
+57960,Carpenter Packing,Manufacturing & Skilled Trades,Unspecified
+57961,Supervisor Coating,General / Cross-functional,Manager
+57962,Supervisor Packing,General / Cross-functional,Manager
+57963,Weigher Packing,Manufacturing & Skilled Trades,Unspecified
+57964,Acting Section Chief,General / Cross-functional,C-Level
+57965,Blade Filer,Administration & Office Support,Unspecified
+57966,Block Greaser,Manufacturing & Skilled Trades,Unspecified
+57967,Bus Greaser,Manufacturing & Skilled Trades,Unspecified
+57968,Car Greaser,Manufacturing & Skilled Trades,Unspecified
+57969,Cleaner Greaser,Manufacturing & Skilled Trades,Unspecified
+57970,Forestry Hunter,Agriculture & Environment,Unspecified
+57971,Ground Crewman,Other,Unspecified
+57972,Last Greaser,Manufacturing & Skilled Trades,Unspecified
+57973,Line Crewman,Other,Unspecified
+57975,Pan Greaser,Manufacturing & Skilled Trades,Unspecified
+57976,Rod Greaser,Manufacturing & Skilled Trades,Unspecified
+57977,Sales Hunter,Sales & Business Development,Unspecified
+57978,Track Greaser,Manufacturing & Skilled Trades,Unspecified
+57979,Truck Greaser,Manufacturing & Skilled Trades,Unspecified
+57980,Activities Concierge,Customer Success & Support,Unspecified
+57982,Bilingual Nanny,Other,Unspecified
+57983,Chef Concierge,Customer Success & Support,Unspecified
+57984,Chief Concierge,Customer Success & Support,C-Level
+57985,Club Concierge,Customer Success & Support,Unspecified
+57986,Compressor Stations Superintendent,Manufacturing & Skilled Trades,Director
+57987,Conference Concierge,Customer Success & Support,Unspecified
+57988,Corporate Concierge,Customer Success & Support,Unspecified
+57989,Fish Trapper,Agriculture & Environment,Unspecified
+57992,Head Concierge,Customer Success & Support,Unspecified
+57993,Health Concierge,Customer Success & Support,Unspecified
+57995,Housekeeper Nanny,"Hospitality, Food & Travel",Unspecified
+57996,Hunter Trapper,Agriculture & Environment,Unspecified
+57997,Medical Concierge,Healthcare & Medical,Unspecified
+57998,Residential Concierge,Customer Success & Support,Unspecified
+57999,Spa Concierge,Customer Success & Support,Unspecified
+58001,Director of Graduate Medical Education,Healthcare & Medical,VP / Head
+58002,Anesthesiology Medical Doctor,Healthcare & Medical,Unspecified
+58003,Athletic Scout,Other,Unspecified
+58004,Barrel Scraper,Other,Unspecified
+58005,Bread Icer,Other,Unspecified
+58006,Card Scraper,Other,Unspecified
+58007,Crop Scout,Agriculture & Environment,Unspecified
+58008,Field Scout,Other,Unspecified
+58009,Floor Scraper,Other,Unspecified
+58010,Fur Scraper,Other,Unspecified
+58011,Hand Scraper,Manufacturing & Skilled Trades,Unspecified
+58012,Hog Scraper,Other,Unspecified
+58013,Ice Scraper,Other,Unspecified
+58014,Leather Scraper,Other,Unspecified
+58015,Oil Scout,Energy & Utilities,Unspecified
+58016,Ship Scraper,Other,Unspecified
+58017,Sole Scraper,Other,Unspecified
+58018,Talent Scout,Other,Unspecified
+58019,Tree Scout,Other,Unspecified
+58020,Wall Scraper,Other,Unspecified
+58021,Worm Packer,Operations & Supply Chain,Unspecified
+58022,Housekeeper Home,"Hospitality, Food & Travel",Unspecified
+58023,District Manager Postal Service,Other,Manager
+58024,Diversified Crops Farmer,Other,Unspecified
+58027,Mutual Fund Accountant,Finance & Accounting,Unspecified
+58028,Telehealth Nurse Educator,Healthcare & Medical,Unspecified
+58029,Quick Sketch Artist,Design & Creative,Unspecified
+58030,Administrative Fellow,Administration & Office Support,Unspecified
+58031,Adult Psychiatrist,Healthcare & Medical,Unspecified
+58032,Cardiology Fellow,Healthcare & Medical,Unspecified
+58033,Caser In,Other,Unspecified
+58034,Child Psychiatrist,Healthcare & Medical,Unspecified
+58035,Clinical Fellow,Healthcare & Medical,Unspecified
+58036,Clinical Psychiatrist,Healthcare & Medical,Unspecified
+58037,Concrete Craftsman,Other,Unspecified
+58038,Consulting Psychiatrist,Healthcare & Medical,Unspecified
+58039,Forensic Psychiatrist,Healthcare & Medical,Unspecified
+58040,Graduate Fellow,Other,Junior / Entry
+58041,Hospice Fellow,Healthcare & Medical,Unspecified
+58042,Hospital Fellow,Healthcare & Medical,Unspecified
+58043,House Fellow,Other,Unspecified
+58045,Lubrication Servicer,Other,Unspecified
+58046,Maintenance Craftsman,Manufacturing & Skilled Trades,Unspecified
+58047,Master Craftsman,Other,Unspecified
+58048,Nanny Babysitter,Other,Unspecified
+58049,Outpatient Psychiatrist,Healthcare & Medical,Unspecified
+58050,Pediatric Psychiatrist,Healthcare & Medical,Unspecified
+58051,Product Craftsman,Other,Unspecified
+58052,Psychology Fellow,Other,Unspecified
+58053,Research Fellow,Science & Research,Unspecified
+58054,Staff Psychiatrist,Healthcare & Medical,Senior
+58055,Summer Babysitter,Other,Unspecified
+58057,Technical Fellow,Other,Unspecified
+58058,Wood Craftsman,Other,Unspecified
+58062,Fly Fishing Guide,Other,Unspecified
+58063,Manager Video,General / Cross-functional,Manager
+58064,Soldering Machine Operator Automatic,Manufacturing & Skilled Trades,Unspecified
+58066,Tinner Automatic,Other,Unspecified
+58067,Basic Sciences Dean,Education & Training,Director
+58068,Passport Application Examiner,Education & Training,Unspecified
+58069,Skeins Yarn Examiner,Education & Training,Unspecified
+58070,Trade Mark Examiner,Education & Training,Unspecified
+58071,Yarn Skeins Examiner,Education & Training,Unspecified
+58072,Director of Convention Services,Other,VP / Head
+58073,Manager Managed Backup Services,Other,Manager
+58075,Wrapper Hands Sprayer,Manufacturing & Skilled Trades,Unspecified
+58076,Gluing Machine Offbearer,Manufacturing & Skilled Trades,Unspecified
+58077,Pumper Gager Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+58078,Supervisor Conditioning Yard,Other,Manager
+58079,Glue Bone Crusher,Manufacturing & Skilled Trades,Unspecified
+58080,Heel Seam Rubber,Other,Unspecified
+58081,In Flight Refueling System Repairer,Manufacturing & Skilled Trades,Unspecified
+58082,In Store Banker,Finance & Accounting,Unspecified
+58085,Telephone Ad Taker,Other,Unspecified
+58087,Catheter Builder,Manufacturing & Skilled Trades,Unspecified
+58088,Closet Builder,Manufacturing & Skilled Trades,Unspecified
+58089,Diaphragm Builder,Manufacturing & Skilled Trades,Unspecified
+58090,Manhole Builder,Manufacturing & Skilled Trades,Unspecified
+58091,Miller Head Wet Process,Other,Unspecified
+58092,Scenery Builder,Manufacturing & Skilled Trades,Unspecified
+58094,Manager Steel,General / Cross-functional,Manager
+58095,Administrative Dietitian,Healthcare & Medical,Unspecified
+58096,Bag Shaker,Other,Unspecified
+58097,Blunger Loader,Manufacturing & Skilled Trades,Unspecified
+58098,Chief Dietitian,Healthcare & Medical,C-Level
+58099,Clinical Dietitian,Healthcare & Medical,Unspecified
+58100,Community Dietitian,Healthcare & Medical,Unspecified
+58101,Consultant Dietitian,Healthcare & Medical,Mid
+58102,Filler Shaker,Manufacturing & Skilled Trades,Unspecified
+58103,Hand Shaker,Manufacturing & Skilled Trades,Unspecified
+58104,Hide Shaker,Other,Unspecified
+58105,Mold Shaker,Manufacturing & Skilled Trades,Unspecified
+58106,Outpatient Dietitian,Healthcare & Medical,Unspecified
+58107,Pan Shaker,Other,Unspecified
+58108,Plasterer Journeyman,Manufacturing & Skilled Trades,Unspecified
+58109,Registered Dietitian,Healthcare & Medical,Unspecified
+58110,Research Dietitian,Healthcare & Medical,Unspecified
+58112,Teaching Dietitian,Healthcare & Medical,Unspecified
+58113,Tobacco Shaker,Other,Unspecified
+58114,Breast Buffer,Manufacturing & Skilled Trades,Unspecified
+58118,Foxing Painter,Manufacturing & Skilled Trades,Unspecified
+58119,Guard Museum,"Public Sector, Defense & Safety",Unspecified
+58120,Manager Assessment,General / Cross-functional,Manager
+58121,Manager Pathology,General / Cross-functional,Manager
+58122,RN Assessment,Other,Unspecified
+58123,Trouble Lineman,Energy & Utilities,Unspecified
+58124,Food Service Worker Hospital,Healthcare & Medical,Unspecified
+58125,Extractor Loader and Unloader,"Media, Sports & Entertainment",Unspecified
+58127,Broth Mixer,Manufacturing & Skilled Trades,Unspecified
+58128,Gunite Mixer,Manufacturing & Skilled Trades,Unspecified
+58129,Healthcare OR Medical,Healthcare & Medical,Unspecified
+58130,Indigo Mixer,Manufacturing & Skilled Trades,Unspecified
+58131,Mayonnaise Mixer,Manufacturing & Skilled Trades,Unspecified
+58132,Ocean Biologist,Science & Research,Unspecified
+58133,Phone Screener,Manufacturing & Skilled Trades,Unspecified
+58134,Seasoning Mixer,Manufacturing & Skilled Trades,Unspecified
+58135,Tailer Off,Other,Unspecified
+58136,Resort Host,"Hospitality, Food & Travel",Unspecified
+58137,Weed Burner,Other,Unspecified
+58138,Damper Fitter,Manufacturing & Skilled Trades,Unspecified
+58139,Hood Fitter,Manufacturing & Skilled Trades,Unspecified
+58140,Lion Trainer,Other,Unspecified
+58142,Secondary School Registrar,Education & Training,Unspecified
+58143,Associate Professor of Library Science,Education & Training,Junior / Entry
+58144,Helper Steel Fabrication,Other,Junior / Entry
+58146,Carpenter Mold,Manufacturing & Skilled Trades,Unspecified
+58147,Cartridge Gauger,Other,Unspecified
+58148,Beading Sawyer,Other,Unspecified
+58149,Humanities Department Chair,Other,Unspecified
+58150,Humanities Division Chair,Other,Unspecified
+58151,Satellite Project Site Monitor,Other,Unspecified
+58152,Sizing Sprayer,Manufacturing & Skilled Trades,Unspecified
+58153,English as a Second Language Teacher,Education & Training,Unspecified
+58156,Electrolysis Investigator,General / Cross-functional,Unspecified
+58157,Shopping Investigator,General / Cross-functional,Unspecified
+58158,Cd Storage and Materials Make Up Helper,Operations & Supply Chain,Junior / Entry
+58159,Forming Machine Upkeep Mechanic Helper,Manufacturing & Skilled Trades,Junior / Entry
+58160,Programmer Numerical Control,Software & Engineering,Unspecified
+58161,Slice Cutting Machine Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+58162,Slice Plug Cutter Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+58163,Tumbling Barrel Painter,Manufacturing & Skilled Trades,Unspecified
+58164,Veneer Glue Spreader,Other,Unspecified
+58165,Spanish Moss Picker,Operations & Supply Chain,Unspecified
+58166,Stitcher Tape Controlled Machine,Manufacturing & Skilled Trades,Unspecified
+58167,Taker Off Braker Machine,Manufacturing & Skilled Trades,Unspecified
+58168,Glass Mould Cleaner,Manufacturing & Skilled Trades,Unspecified
+58169,Heeler Machine,Manufacturing & Skilled Trades,Unspecified
+58170,Immersion Metal Cleaner,Manufacturing & Skilled Trades,Unspecified
+58171,Machine Heddle Cleaner,Manufacturing & Skilled Trades,Unspecified
+58172,Milker Machine,Manufacturing & Skilled Trades,Unspecified
+58173,Pigs Feet Cleaner,Manufacturing & Skilled Trades,Unspecified
+58174,Associate Merchant,General / Cross-functional,Junior / Entry
+58175,Diamond Merchant,Other,Unspecified
+58176,E Merchant,Other,Unspecified
+58177,Greeting Card Editor,Design & Creative,Unspecified
+58178,Internet Merchant,Other,Junior / Entry
+58179,Online Merchant,Other,Unspecified
+58180,Web Merchant,Other,Unspecified
+58181,Wool Merchant,Other,Unspecified
+58182,Animation Producer,Design & Creative,Unspecified
+58183,Children Librarian,Education & Training,Unspecified
+58184,Mica Laminating Machine Feeder,Manufacturing & Skilled Trades,Unspecified
+58185,Supervisor Tank Storage,Other,Manager
+58186,Dobie Man,Manufacturing & Skilled Trades,Unspecified
+58187,Easement Man,Manufacturing & Skilled Trades,Unspecified
+58188,Fairing Man,Manufacturing & Skilled Trades,Unspecified
+58189,Handy Man,Manufacturing & Skilled Trades,Unspecified
+58190,Icebox Man,Manufacturing & Skilled Trades,Unspecified
+58191,Idea Man,Manufacturing & Skilled Trades,Unspecified
+58192,Jackscrew Man,Manufacturing & Skilled Trades,Unspecified
+58193,Jordan Man,Manufacturing & Skilled Trades,Unspecified
+58194,Knockdown Man,Manufacturing & Skilled Trades,Unspecified
+58195,Nitro Man,Manufacturing & Skilled Trades,Unspecified
+58196,Pillar Man,Manufacturing & Skilled Trades,Unspecified
+58197,Rollway Man,Manufacturing & Skilled Trades,Unspecified
+58198,Skidway Man,Manufacturing & Skilled Trades,Unspecified
+58199,Squirrel Man,Manufacturing & Skilled Trades,Unspecified
+58200,Tiller Man,Manufacturing & Skilled Trades,Unspecified
+58201,Cat Hooker,Other,Unspecified
+58202,Ibm Mainframe Systems Programmer,Software & Engineering,Unspecified
+58203,Cvir Tech,Manufacturing & Skilled Trades,Unspecified
+58204,Endo Tech,Manufacturing & Skilled Trades,Unspecified
+58205,Haz Tech,Manufacturing & Skilled Trades,Unspecified
+58206,Histopath Tech,Manufacturing & Skilled Trades,Unspecified
+58207,Invas Tech,Manufacturing & Skilled Trades,Unspecified
+58208,Neurophysiology Tech,Healthcare & Medical,Unspecified
+58209,Opthalmic Tech,Manufacturing & Skilled Trades,Unspecified
+58210,Polysom Tech,Manufacturing & Skilled Trades,Unspecified
+58211,Polysomnograph Tech,Manufacturing & Skilled Trades,Unspecified
+58212,Proced Tech,Manufacturing & Skilled Trades,Unspecified
+58213,Sorter/Assay Tech,Manufacturing & Skilled Trades,Unspecified
+58214,Tomographic Tech,Design & Creative,Unspecified
+58215,Xray Tech,Healthcare & Medical,Unspecified
+58216,Analytic Programmer,Software & Engineering,Unspecified
+58217,Perl Programmer,Software & Engineering,Unspecified
+58218,Printed Circuit Boards Contact Printer,Other,Unspecified
+58219,Rpg Programmer,Software & Engineering,Unspecified
+58220,Soup Person,Other,Unspecified
+58221,Vba Programmer,Software & Engineering,Unspecified
+58222,Bait Tier,Other,Unspecified
+58223,Greens Tier,Other,Unspecified
+58224,Hardboard Panel Printer,Other,Unspecified
+58226,Smoking Pipe Coater,Other,Unspecified
+58232,Dried Fruit Washer,Manufacturing & Skilled Trades,Unspecified
+58233,Distance Education Faculty Liaison,Education & Training,Unspecified
+58235,Director of Revenue Cycle Management,Other,VP / Head
+58236,Colored Leather Setter,Manufacturing & Skilled Trades,Unspecified
+58238,RN Pain Management,Other,Unspecified
+58239,Pneumatic Drum Sander,Manufacturing & Skilled Trades,Unspecified
+58240,Portable Machine Sander,Manufacturing & Skilled Trades,Unspecified
+58241,Machine Straw Hat Presser,Manufacturing & Skilled Trades,Unspecified
+58242,Butt Presser,Manufacturing & Skilled Trades,Unspecified
+58243,Handkerchief Presser,Manufacturing & Skilled Trades,C-Level
+58244,Rouge Presser,Manufacturing & Skilled Trades,Unspecified
+58245,Bindery Machine Feeder Offbearer,Manufacturing & Skilled Trades,Unspecified
+58246,Buckle Strap Puncher,Other,Unspecified
+58247,Civil Engineer's Aide,Engineering (Non-Software),Mid
+58248,Mental Retardation Aide,Healthcare & Medical,Junior / Entry
+58249,Oxygen Equipment Preparer,Other,Unspecified
+58250,Short Goods Drier,Other,Unspecified
+58251,Vice President of Advertising,Marketing & Growth,C-Level
+58252,Bakery Worker Conveyor Line,"Hospitality, Food & Travel",Unspecified
+58254,Chart Reader,Other,Unspecified
+58255,Director of Labor and Delivery,Other,VP / Head
+58259,Phonograph Needle Tip Maker,Manufacturing & Skilled Trades,Unspecified
+58261,Steel Rule Die Maker,Manufacturing & Skilled Trades,Unspecified
+58262,Combat Control,Other,Unspecified
+58263,Cuff Knitter,Manufacturing & Skilled Trades,Unspecified
+58264,Sock Ironer,Manufacturing & Skilled Trades,Unspecified
+58265,Sock Knitter,Manufacturing & Skilled Trades,Unspecified
+58266,Bagel Maker,Manufacturing & Skilled Trades,Unspecified
+58267,Bight Maker,Manufacturing & Skilled Trades,Unspecified
+58268,Bowstring Maker,Manufacturing & Skilled Trades,Unspecified
+58269,Burrito Maker,Manufacturing & Skilled Trades,Unspecified
+58270,Cask Maker,Manufacturing & Skilled Trades,Unspecified
+58271,Chandelier Maker,Manufacturing & Skilled Trades,Unspecified
+58272,Coffin Maker,Manufacturing & Skilled Trades,Unspecified
+58273,Corsage Maker,Manufacturing & Skilled Trades,Unspecified
+58274,Crossbow Maker,Manufacturing & Skilled Trades,Unspecified
+58275,Crutch Maker,Manufacturing & Skilled Trades,Unspecified
+58276,Duplicate Maker,Manufacturing & Skilled Trades,Unspecified
+58278,Favor Maker,Manufacturing & Skilled Trades,Unspecified
+58279,Figurine Maker,Manufacturing & Skilled Trades,Unspecified
+58280,Forcer Maker,Manufacturing & Skilled Trades,Unspecified
+58281,Harmonica Maker,Manufacturing & Skilled Trades,Unspecified
+58283,Hassock Maker,Manufacturing & Skilled Trades,Unspecified
+58284,Hollock Maker,Manufacturing & Skilled Trades,Unspecified
+58285,Junction Maker,Manufacturing & Skilled Trades,Unspecified
+58286,Kayak Maker,Manufacturing & Skilled Trades,Unspecified
+58287,King Maker,Manufacturing & Skilled Trades,Unspecified
+58288,Legend Maker,Manufacturing & Skilled Trades,Unspecified
+58289,Levi Maker,Manufacturing & Skilled Trades,Unspecified
+58290,Lithoplate Maker,Manufacturing & Skilled Trades,Unspecified
+58291,Locket Maker,Manufacturing & Skilled Trades,Unspecified
+58292,Mast Maker,Manufacturing & Skilled Trades,Unspecified
+58293,Mincemeat Maker,Manufacturing & Skilled Trades,Unspecified
+58294,Mouthpiece Maker,Manufacturing & Skilled Trades,Unspecified
+58295,Oleomargarine Maker,Manufacturing & Skilled Trades,Unspecified
+58296,Pelota Maker,Manufacturing & Skilled Trades,Unspecified
+58297,Pierogi Maker,Manufacturing & Skilled Trades,Unspecified
+58298,Piston Maker,Manufacturing & Skilled Trades,Unspecified
+58299,Plaque Maker,Manufacturing & Skilled Trades,Unspecified
+58300,Pocketbook Maker,Manufacturing & Skilled Trades,Unspecified
+58301,Pompom Maker,Manufacturing & Skilled Trades,Unspecified
+58302,Racquet Maker,Manufacturing & Skilled Trades,Unspecified
+58303,Reinforcement Maker,Manufacturing & Skilled Trades,Unspecified
+58304,Siene Maker,Manufacturing & Skilled Trades,Unspecified
+58305,Slipper Maker,Manufacturing & Skilled Trades,Unspecified
+58306,Spoke Maker,Manufacturing & Skilled Trades,Unspecified
+58307,Spoon Maker,Manufacturing & Skilled Trades,Unspecified
+58308,Toby Maker,Manufacturing & Skilled Trades,Unspecified
+58310,Vinegar Maker,Manufacturing & Skilled Trades,Unspecified
+58312,Bumper Straightener,Other,Unspecified
+58313,Natural History Collections Curator,Finance & Accounting,Unspecified
+58314,Putty Remover,Other,Unspecified
+58315,Radio Installer Automobile,"Media, Sports & Entertainment",Unspecified
+58316,Returns Processor,Other,Unspecified
+58317,Airline Hostess,"Hospitality, Food & Travel",Unspecified
+58318,Bar Hostess,"Hospitality, Food & Travel",Unspecified
+58319,Flight Hostess,"Hospitality, Food & Travel",Unspecified
+58321,Meat Hostess,"Hospitality, Food & Travel",Unspecified
+58323,Ammunition and Explosives Handler,Manufacturing & Skilled Trades,Unspecified
+58324,Director of Compensation,Human Resources & Recruiting,VP / Head
+58325,Manager of Compensation,Human Resources & Recruiting,Manager
+58326,Fruit Buying Grader,Other,Unspecified
+58327,Glass Wool Blanket Machine Feeder,Manufacturing & Skilled Trades,Unspecified
+58328,Implant Polisher,Manufacturing & Skilled Trades,Unspecified
+58329,Plane Captain,Other,Unspecified
+58330,Screwhead Polisher,Manufacturing & Skilled Trades,Unspecified
+58331,Suture Polisher,Manufacturing & Skilled Trades,Unspecified
+58332,Towboat Captain,Other,Unspecified
+58333,Bank Messenger,Other,Unspecified
+58334,Baseball Scout,Other,Unspecified
+58335,Cable Spooler,Other,Unspecified
+58336,Copy Messenger,Marketing & Growth,Unspecified
+58337,Core Paster,Other,Unspecified
+58338,Court Messenger,Legal,Unspecified
+58340,Film Spooler,"Media, Sports & Entertainment",Unspecified
+58341,Hand Paster,Manufacturing & Skilled Trades,Unspecified
+58342,Hide Paster,Other,Unspecified
+58343,Label Paster,Other,Unspecified
+58344,Mail Messenger,Administration & Office Support,Unspecified
+58345,Office Messenger,Other,Unspecified
+58346,Paper Spooler,Other,Unspecified
+58347,Pharmacy Messenger,Healthcare & Medical,Unspecified
+58348,Plug Paster,Other,Unspecified
+58349,Sample Paster,Other,Unspecified
+58350,Security Messenger,Other,Unspecified
+58351,Silk Spooler,Other,Unspecified
+58352,Telegraph Messenger,Other,Unspecified
+58353,Telephone Messenger,Other,Unspecified
+58354,Thread Spooler,Other,Unspecified
+58355,Warp Spooler,Other,Unspecified
+58356,Weather Observer,"Hospitality, Food & Travel",Unspecified
+58357,White Spooler,Other,Unspecified
+58358,Wire Spooler,Other,Unspecified
+58359,Yarn Spooler,Other,Unspecified
+58360,Airport Security Screener,Manufacturing & Skilled Trades,Unspecified
+58361,Carding Machine Feeder,Manufacturing & Skilled Trades,Unspecified
+58362,Edging Machine Feeder,Manufacturing & Skilled Trades,Unspecified
+58363,Hair Sample Matcher,Other,Unspecified
+58364,Lead Cargo Mover,Manufacturing & Skilled Trades,Manager
+58366,Post Hole Digger,Manufacturing & Skilled Trades,Unspecified
+58368,Slicing Machine Feeder,Manufacturing & Skilled Trades,Unspecified
+58369,Splitting Machine Feeder,Manufacturing & Skilled Trades,Unspecified
+58370,Transportation Security Screener,Operations & Supply Chain,Unspecified
+58371,Carton Catcher,Other,Unspecified
+58374,Chicken Stuffer,Other,Unspecified
+58375,Circular Stuffer,Other,Unspecified
+58376,Commercial Illustrator,Design & Creative,Unspecified
+58377,Cushion Stuffer,Other,Unspecified
+58378,Cycle Counter,Operations & Supply Chain,Unspecified
+58379,Engineering Illustrator,Design & Creative,Mid
+58380,Envelope Stuffer,Other,Unspecified
+58381,Fashion Illustrator,Design & Creative,Unspecified
+58382,Finisher Fiberglass Boat Parts,Other,Unspecified
+58383,Fruit Stuffer,Other,Unspecified
+58384,Graphic Illustrator,Design & Creative,Unspecified
+58385,Lining Stuffer,Other,Unspecified
+58386,Machine Stuffer,Manufacturing & Skilled Trades,Unspecified
+58387,Meat Stuffer,Other,Unspecified
+58389,Mica Spreader,Other,Unspecified
+58390,Newspaper Illustrator,Design & Creative,Unspecified
+58391,Newspaper Stuffer,Other,Unspecified
+58392,Pattern Illustrator,Design & Creative,Unspecified
+58393,Production Illustrator,Design & Creative,Unspecified
+58394,Scientific Illustrator,Design & Creative,Unspecified
+58395,Set Illustrator,Design & Creative,Unspecified
+58396,Shirt Bander,Other,Unspecified
+58397,Summer Nanny,Other,Unspecified
+58399,Field Crop Harvest Contractor,"Media, Sports & Entertainment",Unspecified
+58400,Manager Battery,General / Cross-functional,Manager
+58401,Coke Drawer,Other,Unspecified
+58402,Black Oxide Coating Equipment Tender,Manufacturing & Skilled Trades,Unspecified
+58403,Cherry Grower,Other,Unspecified
+58404,Masonry Contractor,Manufacturing & Skilled Trades,Unspecified
+58405,Olive Grower,Other,Unspecified
+58406,Orange Grower,Other,Unspecified
+58408,Acoustical Carpenter,Manufacturing & Skilled Trades,Unspecified
+58409,Automatic Bandsaw Tender,Manufacturing & Skilled Trades,Unspecified
+58410,Balling Head Tender,Manufacturing & Skilled Trades,Unspecified
+58411,Blacking Wheel Tender,Manufacturing & Skilled Trades,Unspecified
+58412,Calcine Furnace Tender,Manufacturing & Skilled Trades,Unspecified
+58413,Chips Screen Tender,Manufacturing & Skilled Trades,Unspecified
+58414,Crucible Furnace Tender,Manufacturing & Skilled Trades,Unspecified
+58417,Drywall Hanger Framer,Other,Unspecified
+58418,Flakeboard Line Tender,Manufacturing & Skilled Trades,Unspecified
+58419,Hydrate Control Tender,Manufacturing & Skilled Trades,Unspecified
+58422,Peat Shredder Tender,Manufacturing & Skilled Trades,Unspecified
+58426,Ship's Carpenter,Manufacturing & Skilled Trades,Unspecified
+58427,Sorter Upholstery Parts,Other,Unspecified
+58428,Steaming Cabinet Tender,Manufacturing & Skilled Trades,Unspecified
+58431,Bit Sander,Manufacturing & Skilled Trades,Unspecified
+58434,Cashier Credit,Finance & Accounting,Unspecified
+58435,Cooking Show Host,"Hospitality, Food & Travel",Unspecified
+58436,Decoration Checker,Operations & Supply Chain,Unspecified
+58437,Truckload Checker,Operations & Supply Chain,Unspecified
+58438,Act English Tutor,Education & Training,Unspecified
+58440,Automobile Washer Steam,Manufacturing & Skilled Trades,Unspecified
+58441,Hand Ii Tube Bender,Other,Mid
+58443,Baseboard Heating Installer,Manufacturing & Skilled Trades,Unspecified
+58444,Bulk Coolers Installer,Manufacturing & Skilled Trades,Unspecified
+58445,Cool Roofing Installer,Manufacturing & Skilled Trades,Unspecified
+58448,Engine Cowling Installer,Manufacturing & Skilled Trades,Unspecified
+58449,Evaporative Cooler Installer,Manufacturing & Skilled Trades,Unspecified
+58450,Fios Line Installer,Manufacturing & Skilled Trades,Unspecified
+58451,Granite Countertop Installer,Manufacturing & Skilled Trades,Unspecified
+58452,Iron Guardrail Installer,Manufacturing & Skilled Trades,Unspecified
+58455,Medical Donation Professional,Healthcare & Medical,Unspecified
+58456,Movable Bulkhead Installer,Manufacturing & Skilled Trades,Unspecified
+58458,Shower Enclosure Installer,Manufacturing & Skilled Trades,Unspecified
+58459,Solar Electric/Photovoltaic Installer,Energy & Utilities,Unspecified
+58460,Allergy and Immunology Chief,Healthcare & Medical,C-Level
+58461,Rag Boiler,Other,Unspecified
+58462,Scouring Train Operator Chief,Manufacturing & Skilled Trades,C-Level
+58463,Tailer In,Other,Unspecified
+58464,Telegraphic Typewriter Operator Chief,Design & Creative,C-Level
+58465,Boot and Saddle Repair Person,Other,Unspecified
+58466,Cadd Drafter,Design & Creative,Unspecified
+58468,Microfilm Mounter,Other,Unspecified
+58469,Mineral Economist,Other,Unspecified
+58470,Twisting Frame Changer,Other,Unspecified
+58471,Etcher Aircraft,Other,Unspecified
+58473,County Home Demonstration Agent,"Public Sector, Defense & Safety",Unspecified
+58474,Director of Managed Care,Other,VP / Head
+58475,Supervisor Telephone Information,Other,Manager
+58476,Full Time Staff Interpreter,General / Cross-functional,Senior
+58477,Tire Changer Aircraft,Other,Unspecified
+58478,Director Chemistry,Science & Research,Director
+58479,Manager Chemistry,Science & Research,Manager
+58480,Manager Flight,General / Cross-functional,Manager
+58481,RN Flight,Other,Unspecified
+58482,Assistant Professor of Radiology,Healthcare & Medical,Junior / Entry
+58483,Associate Professor of Radiology,Healthcare & Medical,Junior / Entry
+58484,Manager Shipping,Operations & Supply Chain,Manager
+58485,Pier Master,Other,Unspecified
+58487,Resident Physician in Radiology,Healthcare & Medical,Unspecified
+58488,Supervisor Shipping,Operations & Supply Chain,Manager
+58489,Air Purifier Servicer,Other,Unspecified
+58491,Water Softener Servicer,Other,Unspecified
+58494,Suspect Artist,Design & Creative,Unspecified
+58495,Chief Vendor Quality,Sales & Business Development,C-Level
+58496,Machinist First Class,Manufacturing & Skilled Trades,Unspecified
+58497,Quilt Sewer,Manufacturing & Skilled Trades,Unspecified
+58499,Waiter/Waitress First Class,"Hospitality, Food & Travel",Unspecified
+58500,Waiter/Waitress Second Class,"Hospitality, Food & Travel",Unspecified
+58501,Welder First Class,Manufacturing & Skilled Trades,Unspecified
+58502,Investigation Lieutenant,Other,Unspecified
+58503,Fire Lieutenant Marine,Other,Unspecified
+58504,RN Admissions,Education & Training,Unspecified
+58505,Co Founder,Executive & General Management,C-Level
+58506,Vice President of Academic Affairs,Education & Training,C-Level
+58507,Launch Steward,"Hospitality, Food & Travel",Unspecified
+58508,Race Steward,"Hospitality, Food & Travel",Unspecified
+58509,Archeology Faculty Member,Other,Unspecified
+58510,Meteorology Faculty Member,Science & Research,Unspecified
+58511,Stage Setting Painter Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+58512,Stripper and Opaquer Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+58513,Modern Greek Studies Professor,Education & Training,Unspecified
+58514,Near East Archeology Professor,Education & Training,Unspecified
+58515,Goldsmith Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+58516,Lapidary Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+58517,Unindentured Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+58518,Watchmaker Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+58519,Cat Breeder,Other,Unspecified
+58520,Clam Digger,Manufacturing & Skilled Trades,Unspecified
+58521,Dial Brusher,Other,Unspecified
+58522,Pen and Pencil Repairer,Manufacturing & Skilled Trades,Unspecified
+58524,Sausage Stringer,Other,Unspecified
+58525,Small Arms Artillery Repairer,Manufacturing & Skilled Trades,Unspecified
+58526,Stack Matcher,Other,Unspecified
+58527,Banjo Repairer,Manufacturing & Skilled Trades,Unspecified
+58528,Dynamo Repairer,Manufacturing & Skilled Trades,Unspecified
+58529,Gyroscope Repairer,Manufacturing & Skilled Trades,Unspecified
+58530,Handtools Repairer,Manufacturing & Skilled Trades,Unspecified
+58531,Luster Repairer,Manufacturing & Skilled Trades,Unspecified
+58532,Mandolin Repairer,Manufacturing & Skilled Trades,Unspecified
+58533,Sidewalk Repairer,Manufacturing & Skilled Trades,Unspecified
+58534,Switchgear Repairer,Manufacturing & Skilled Trades,Unspecified
+58535,Convertible Sofa Bedspring Tester,Manufacturing & Skilled Trades,Unspecified
+58536,Geodetic Surveyor,Engineering (Non-Software),Unspecified
+58537,Grip Wrapper,Manufacturing & Skilled Trades,Unspecified
+58538,Sandwich Wrapper,Manufacturing & Skilled Trades,Unspecified
+58539,Ship's Surveyor,Engineering (Non-Software),Unspecified
+58540,Grid Molder,Manufacturing & Skilled Trades,Unspecified
+58541,Cyber Intel Planner,Operations & Supply Chain,Unspecified
+58542,Cyber OPS Planner,Operations & Supply Chain,Unspecified
+58543,Tailings Dam Laborer,Manufacturing & Skilled Trades,Unspecified
+58544,Executive VP,Other,VP / Head
+58545,Expansion Joint Finisher,Manufacturing & Skilled Trades,Unspecified
+58546,Degreasing Solution Mixer,Manufacturing & Skilled Trades,Unspecified
+58547,Lozenge Dough Mixer,Manufacturing & Skilled Trades,Unspecified
+58549,RN Clinical Resource,Healthcare & Medical,Unspecified
+58550,Estimator Printing Plate Making,Engineering (Non-Software),Unspecified
+58552,Director Business Travel,"Hospitality, Food & Travel",Director
+58553,Road Engineer Freight,Operations & Supply Chain,Mid
+58554,Director of Early Childhood Education,Education & Training,VP / Head
+58555,Professor of Early Childhood Education,Education & Training,Unspecified
+58556,Signal Operator Technical,Manufacturing & Skilled Trades,Unspecified
+58557,Cancer Registrar,Education & Training,Unspecified
+58558,Cast Iron Dipper,Manufacturing & Skilled Trades,Unspecified
+58559,Cone Chocolate Dipper,Manufacturing & Skilled Trades,Unspecified
+58560,Flower Stripper,Other,Unspecified
+58561,Ham Stripper,Other,Unspecified
+58562,Manager of Global,Other,Manager
+58563,Mattress Stripper,Other,Unspecified
+58564,Slab Stripper,Other,Unspecified
+58565,Automotive Collision Estimator,Engineering (Non-Software),Unspecified
+58566,Barrel Lathe Operator Outside,Manufacturing & Skilled Trades,Unspecified
+58567,Inspector Outside Steam Distribution,Operations & Supply Chain,Unspecified
+58568,Palliative Care Nurse Practitioner,Healthcare & Medical,Unspecified
+58569,Weaver Hand Loom,Manufacturing & Skilled Trades,Unspecified
+58570,Weaver Wire Loom,Other,Unspecified
+58571,2 Year Olds Preschool Teacher,Education & Training,Unspecified
+58572,Family Consumer Science Fcs Teacher,Education & Training,Unspecified
+58573,Self Contained Behavior Unit Teacher,Education & Training,Unspecified
+58574,Compounder Sterile Products,Other,Unspecified
+58575,Remote Sensing Surveyor,Engineering (Non-Software),Unspecified
+58576,Cabinetmaker Maintenance,Manufacturing & Skilled Trades,Unspecified
+58577,Woods Boss,Other,Unspecified
+58578,Cigarette Catcher,Other,Unspecified
+58580,Braille Coder,Other,Unspecified
+58581,Hourly Caregiver,Healthcare & Medical,Unspecified
+58582,Toddler Caregiver,Healthcare & Medical,Unspecified
+58584,Manager Company,General / Cross-functional,Manager
+58585,Hamper Maker Machine,Manufacturing & Skilled Trades,Unspecified
+58586,Steak Tenderizer Machine,Manufacturing & Skilled Trades,Unspecified
+58587,RN Document Improvement,Other,Unspecified
+58588,Bakeshop Cleaner,Manufacturing & Skilled Trades,Unspecified
+58589,Cesspool Cleaner,Manufacturing & Skilled Trades,Unspecified
+58590,Cutch Cleaner,Manufacturing & Skilled Trades,Unspecified
+58592,Graffiti Cleaner,Manufacturing & Skilled Trades,Unspecified
+58593,Latrine Cleaner,Manufacturing & Skilled Trades,Unspecified
+58594,Lingo Cleaner,Manufacturing & Skilled Trades,Unspecified
+58595,Lint Cleaner,Manufacturing & Skilled Trades,Unspecified
+58596,Millstone Cleaner,Manufacturing & Skilled Trades,Unspecified
+58597,Briar Wood Sorter,Manufacturing & Skilled Trades,Unspecified
+58598,Cloth Seconds Sorter,Manufacturing & Skilled Trades,Unspecified
+58599,Recyclable Materials Sorter,Operations & Supply Chain,Unspecified
+58600,Recyclable Products Sorter,Manufacturing & Skilled Trades,Unspecified
+58601,Assistant Men's Lacrosse Coach,Education & Training,Junior / Entry
+58602,Assistant Womens Volleyball Coach,Education & Training,Junior / Entry
+58603,Blast Furnace Blower,Other,Unspecified
+58604,Manager Film,"Media, Sports & Entertainment",Manager
+58605,Etiquette Coach,Education & Training,Unspecified
+58606,Gymnastic Coach,Education & Training,Unspecified
+58607,Foot Gatherer,Other,Unspecified
+58608,Group Home Paraprofessional,Education & Training,Unspecified
+58609,Special Education Paraprofessional,Education & Training,Unspecified
+58610,Title I Paraprofessional,Education & Training,Unspecified
+58611,Farmworker Livestock,Agriculture & Environment,Unspecified
+58612,Laborer Livestock,Agriculture & Environment,Unspecified
+58613,Peritoneal Dialysis Registered Nurse,Healthcare & Medical,Unspecified
+58614,Psychologist Personnel,Healthcare & Medical,Unspecified
+58615,Tear Down Man,Manufacturing & Skilled Trades,Unspecified
+58616,Transverse Abdominal Muscle Nurse,Healthcare & Medical,Unspecified
+58617,Assistant Unit Forester,Other,Junior / Entry
+58618,Chief Unit Forester,Other,C-Level
+58619,Consulting Utility Forester,Energy & Utilities,Unspecified
+58620,Environmental Protection Forester,Agriculture & Environment,Unspecified
+58621,Fire Operations Forester,Operations & Supply Chain,Unspecified
+58622,Fire Prevention Forester,"Hospitality, Food & Travel",Unspecified
+58623,Land Management Forester,Construction & Real Estate,Unspecified
+58624,Resource Manager Forester,General / Cross-functional,Manager
+58625,Conservation OR Heritage Architect,Design & Creative,Unspecified
+58626,Director of Quality Improvement,Other,VP / Head
+58627,Openstack Cloud Consulting Architect,Design & Creative,Unspecified
+58628,Right of Way Buyer,Sales & Business Development,Unspecified
+58629,Vice President Quality Improvement,Executive & General Management,C-Level
+58630,Flare Stitcher,Manufacturing & Skilled Trades,Unspecified
+58631,Gore Stitcher,Manufacturing & Skilled Trades,Unspecified
+58632,Government Employee,"Public Sector, Defense & Safety",Unspecified
+58633,Gusset Stitcher,Manufacturing & Skilled Trades,Unspecified
+58634,Lapel Stitcher,Manufacturing & Skilled Trades,Unspecified
+58635,Ornament Stitcher,Manufacturing & Skilled Trades,Unspecified
+58636,Replenishment Buyer,Sales & Business Development,Unspecified
+58637,Intel Recruiter,Human Resources & Recruiting,Unspecified
+58638,Wigs Salesperson,Sales & Business Development,Unspecified
+58639,Fig Washer,Manufacturing & Skilled Trades,Unspecified
+58641,Double End Tenoner Setter,Manufacturing & Skilled Trades,Unspecified
+58642,Varnishing Unit Tool Setter,Manufacturing & Skilled Trades,Unspecified
+58643,Vial Gauger,Other,Unspecified
+58644,Agate Setter,Manufacturing & Skilled Trades,Unspecified
+58645,Batterboard Setter,Manufacturing & Skilled Trades,Unspecified
+58646,Cribbing Setter,Manufacturing & Skilled Trades,Unspecified
+58647,Crimp Setter,Manufacturing & Skilled Trades,Unspecified
+58648,Curbstone Setter,Manufacturing & Skilled Trades,Unspecified
+58649,Deputy Clerk of Court,Legal,Unspecified
+58650,Director Biology,General / Cross-functional,Director
+58651,Director of Extension Work,Other,VP / Head
+58652,Nick Setter,Manufacturing & Skilled Trades,Unspecified
+58653,Parcel Post Weigher,Manufacturing & Skilled Trades,Unspecified
+58654,Ratchet Setter,Manufacturing & Skilled Trades,Unspecified
+58655,Raw Juice Weigher,Manufacturing & Skilled Trades,Unspecified
+58656,Rhinestone Setter,Manufacturing & Skilled Trades,Unspecified
+58657,VP Biology,Other,VP / Head
+58658,Auto Body Repairman,Other,Unspecified
+58659,Child Care Sitter,Other,Unspecified
+58661,Patient Safety Sitter,Healthcare & Medical,Unspecified
+58663,Pharmacist in Charge,Healthcare & Medical,Unspecified
+58664,Rail Car Repairman,Other,Unspecified
+58665,Railroad Car Repairman,Other,Unspecified
+58666,Associate Publisher,General / Cross-functional,Junior / Entry
+58669,Box Stapler,Other,Unspecified
+58670,Carton Stapler,Other,Unspecified
+58671,Computer Publisher,Other,Unspecified
+58672,Content Publisher,Other,Unspecified
+58674,Division Commander,Other,Unspecified
+58676,End Stapler,Other,Unspecified
+58677,Hand Stapler,Manufacturing & Skilled Trades,Unspecified
+58678,Incident Commander,Other,Unspecified
+58679,Machine Stapler,Manufacturing & Skilled Trades,Unspecified
+58681,Newspaper Publisher,Other,Unspecified
+58682,Online Publisher,Other,Unspecified
+58683,Patrol Commander,Other,Unspecified
+58684,Platform Stapler,Other,Unspecified
+58685,Post Commander,Other,Unspecified
+58686,Shank Stapler,Other,Unspecified
+58687,Shift Commander,Other,Unspecified
+58688,Side Stapler,Other,Unspecified
+58689,Software Publisher,Software & Engineering,Unspecified
+58690,Toe Stapler,Other,Unspecified
+58691,Veneer Stapler,Other,Unspecified
+58692,Watch Commander,Other,Unspecified
+58693,Web Publisher,Other,Unspecified
+58694,Blade Sharpener,Other,Unspecified
+58695,Buckle Gluer,Other,Unspecified
+58696,Drill Sharpener,Other,Unspecified
+58697,Knife Sharpener,Other,Unspecified
+58698,Saw Sharpener,Other,Unspecified
+58702,Director Oracle,General / Cross-functional,Director
+58703,Manager Group,General / Cross-functional,Manager
+58704,Manager Nuclear,Energy & Utilities,Manager
+58705,Manager Oracle,General / Cross-functional,Manager
+58706,Parachute Accessories Attacher,Other,Unspecified
+58707,Smoking Pipe Mounter,Other,Unspecified
+58708,Caterer's Aide,Healthcare & Medical,Junior / Entry
+58709,Gerontology Aide,Healthcare & Medical,Junior / Entry
+58710,Neuropsychiatric Aide,Healthcare & Medical,Junior / Entry
+58711,Ortho/Prosthetic Aide,Healthcare & Medical,Junior / Entry
+58712,Pharmacist's Aide,Healthcare & Medical,Junior / Entry
+58713,Shopper's Aide,Healthcare & Medical,Junior / Entry
+58714,Tailor's Aide,Healthcare & Medical,Junior / Entry
+58715,Director Speech,General / Cross-functional,Director
+58716,Grinder Gear,Manufacturing & Skilled Trades,Unspecified
+58717,Manager Speech,General / Cross-functional,Manager
+58718,Supervisor Speech,General / Cross-functional,Manager
+58720,Kier Drier,Other,Unspecified
+58721,Cardiothoracic ICU RN,Healthcare & Medical,Unspecified
+58722,New Grad RN,Other,Unspecified
+58723,Bariatric Surgeon,Healthcare & Medical,Unspecified
+58724,Boiling Off Winder,Other,Unspecified
+58725,Cereal Chemist,Science & Research,Unspecified
+58726,Ent Surgeon,Healthcare & Medical,Unspecified
+58727,Otolaryngology Surgeon,Healthcare & Medical,Unspecified
+58728,Polymer Chemist,Science & Research,Unspecified
+58729,Spine Surgeon,Healthcare & Medical,Unspecified
+58730,Analyzer Sales,Sales & Business Development,Unspecified
+58731,Exhibitor Sales,Sales & Business Development,Unspecified
+58732,Lap Regulator,Other,Unspecified
+58733,Latex Dipper,Manufacturing & Skilled Trades,Unspecified
+58734,Orthopaedic Doctor,Healthcare & Medical,Unspecified
+58735,Director of Marketing Analytics,Marketing & Growth,VP / Head
+58736,Director of Retail Analytics,Other,VP / Head
+58737,Director of Video Analytics,Other,VP / Head
+58738,Head of Marketing Analytics,Marketing & Growth,VP / Head
+58739,Parachute Taper,Other,Unspecified
+58740,Salon Stylist,Other,Unspecified
+58741,Senior Software Engineer Analytics,Software & Engineering,Senior
+58742,Skiver Counter,Operations & Supply Chain,Unspecified
+58743,Toy Stuffer,Other,Unspecified
+58744,Airline Lounge Receptionist,Customer Success & Support,Unspecified
+58745,Deliverer Food,Other,Unspecified
+58746,Jockey Room Custodian,Other,Unspecified
+58748,Operational Review Sergeant,Other,Unspecified
+58749,Snack Bar Cook,"Hospitality, Food & Travel",Unspecified
+58750,Traffic Controller Cable,Finance & Accounting,Unspecified
+58751,De Icer Kit Assembler,Manufacturing & Skilled Trades,Unspecified
+58753,A Class Lineman,Energy & Utilities,Unspecified
+58754,Class a Lineman,Energy & Utilities,Unspecified
+58756,Hunter Skin Diver,Other,Unspecified
+58757,Lamp Shade Joiner,Other,Unspecified
+58758,Lap Hand Tool,Manufacturing & Skilled Trades,Unspecified
+58759,Pin Inserter Regulator,Other,Unspecified
+58760,Rib Knitter,Manufacturing & Skilled Trades,Unspecified
+58761,Sheep Clipper,Manufacturing & Skilled Trades,Unspecified
+58762,Director Custom,General / Cross-functional,Director
+58763,Grinder Operator Surface Tool,Manufacturing & Skilled Trades,Unspecified
+58764,Hazard Waste Handler,Agriculture & Environment,Unspecified
+58765,Manager Custom,General / Cross-functional,Manager
+58766,Video and Sound Recorder,Design & Creative,Unspecified
+58767,Director of Market Analysis,Other,VP / Head
+58768,Vice President of News,"Media, Sports & Entertainment",C-Level
+58769,Chick Grader,Other,Unspecified
+58770,Spud Grader,Other,Unspecified
+58771,Tomato Grader,Other,Unspecified
+58772,Fish Dressing Machine Feeder,Manufacturing & Skilled Trades,Unspecified
+58773,Cleat Feeder,Manufacturing & Skilled Trades,Unspecified
+58775,Anchor Tacker,"Media, Sports & Entertainment",Unspecified
+58779,Can Solderer,Manufacturing & Skilled Trades,Unspecified
+58781,Electrical Solderer,Manufacturing & Skilled Trades,Unspecified
+58782,Liquor Merchant,Other,Unspecified
+58784,Production Solderer,Manufacturing & Skilled Trades,Unspecified
+58785,Torch Solderer,Manufacturing & Skilled Trades,Unspecified
+58787,Collar Stay Fuser Tender,Manufacturing & Skilled Trades,Unspecified
+58788,Color Depositing Machine Tender,Manufacturing & Skilled Trades,Unspecified
+58791,Sanitary Napkin Machine Tender,Manufacturing & Skilled Trades,Unspecified
+58792,Soaping Machine Back Tender,Manufacturing & Skilled Trades,Unspecified
+58793,Bell Spinner,Manufacturing & Skilled Trades,Unspecified
+58794,Buoy Tender,Manufacturing & Skilled Trades,Unspecified
+58795,Centrifugal Separator,Other,Unspecified
+58796,Centrifugal Spinner,Manufacturing & Skilled Trades,Unspecified
+58798,Disulfurizer Tender,Manufacturing & Skilled Trades,Unspecified
+58799,Diver's Tender,Manufacturing & Skilled Trades,Unspecified
+58800,Mule Spinner,Manufacturing & Skilled Trades,Unspecified
+58801,Puffer Tender,Manufacturing & Skilled Trades,Unspecified
+58802,Refrigerator Repairman,Other,Unspecified
+58803,Riffler Tender,Manufacturing & Skilled Trades,Unspecified
+58804,Scutcher Tender,Manufacturing & Skilled Trades,Unspecified
+58805,Sluice Tender,Manufacturing & Skilled Trades,Unspecified
+58806,Standpipe Tender,Manufacturing & Skilled Trades,Unspecified
+58807,Swift Tender,Manufacturing & Skilled Trades,Unspecified
+58808,Trommel Tender,Manufacturing & Skilled Trades,Unspecified
+58809,Uptwister Tender,Manufacturing & Skilled Trades,Unspecified
+58810,Dial Refinisher,Other,Unspecified
+58811,Hemmer Lockstitch,Other,Unspecified
+58812,Photoengraving Etcher,Other,Unspecified
+58813,Final Assembler Boat,Manufacturing & Skilled Trades,Unspecified
+58815,Bad Cloth Checker,Operations & Supply Chain,Unspecified
+58817,Ends Down Checker,Operations & Supply Chain,Unspecified

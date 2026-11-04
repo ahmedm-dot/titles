@@ -1,0 +1,2501 @@
+rank,title,family,seniority
+1,Teacher,Education & Training,Unspecified
+2,Manager,General / Cross-functional,Manager
+3,Operator,Manufacturing & Skilled Trades,Unspecified
+10,Supervisor,General / Cross-functional,Manager
+12,Specialist,General / Cross-functional,Mid
+14,Technician,Manufacturing & Skilled Trades,Unspecified
+19,Engineer,Other,Mid
+28,Delivery Manager,Product,Manager
+31,Director,General / Cross-functional,Director
+32,Worker,General / Cross-functional,Unspecified
+37,Assistant,General / Cross-functional,Junior / Entry
+39,Analyst,General / Cross-functional,Mid
+40,Clerk,Administration & Office Support,Unspecified
+43,Coordinator,Administration & Office Support,Unspecified
+47,Service Designer,Design & Creative,Mid
+48,Inspector,General / Cross-functional,Unspecified
+50,Consultant,General / Cross-functional,Mid
+52,Administrative Coordinator,Administration & Office Support,Unspecified
+55,Officer,General / Cross-functional,Unspecified
+58,Channel Manager,Sales & Business Development,Manager
+59,Developer,Software & Engineering,Mid
+60,Mechanic,Manufacturing & Skilled Trades,Unspecified
+69,Java Developer,Software & Engineering,Mid
+70,Analytics Engineer,Data & AI,Mid
+72,Solutions Consultant,General / Cross-functional,Mid
+78,Associate,General / Cross-functional,Junior / Entry
+79,Design Lead,General / Cross-functional,Manager
+80,CRM Manager,Marketing & Growth,Manager
+82,Helper,Manufacturing & Skilled Trades,Junior / Entry
+83,Net Developer,Software & Engineering,Mid
+86,Representative,General / Cross-functional,Unspecified
+87,Procurement Specialist,Sales & Business Development,Mid
+89,Instructor,Education & Training,Unspecified
+90,SAP Consultant,General / Cross-functional,Mid
+95,Attendant,Other,Unspecified
+96,Nurse,Healthcare & Medical,Unspecified
+97,Registered Nurse,Healthcare & Medical,Unspecified
+99,SEO Manager,Marketing & Growth,Manager
+100,Carbon Analyst,General / Cross-functional,Mid
+106,Cloud Engineer,Software & Engineering,Mid
+108,Platform Engineer,Software & Engineering,Mid
+112,Agent,General / Cross-functional,Unspecified
+113,Sales,Sales & Business Development,Unspecified
+115,Administrator,General / Cross-functional,Unspecified
+119,Designer,Design & Creative,Mid
+122,Partnerships Manager,Sales & Business Development,Manager
+124,BI Developer,Software & Engineering,Mid
+128,Fulfillment Manager,Operations & Supply Chain,Manager
+132,Freelance Consultant,General / Cross-functional,Mid
+133,Brand Designer,Design & Creative,Mid
+136,Setter,Manufacturing & Skilled Trades,Unspecified
+139,Tech,Manufacturing & Skilled Trades,Unspecified
+142,Assistant Manager,General / Cross-functional,Manager
+144,PHP Developer,Software & Engineering,Mid
+145,Services,Other,Unspecified
+147,Operator Technician,Manufacturing & Skilled Trades,Unspecified
+148,Aide,Healthcare & Medical,Junior / Entry
+150,Engineer Specialist,General / Cross-functional,Mid
+151,Incident Response Analyst,Cybersecurity,Mid
+155,Engineer Technician,Manufacturing & Skilled Trades,Mid
+156,Motion Designer,Design & Creative,Mid
+158,Clerk Manager,Administration & Office Support,Manager
+159,Intern,General / Cross-functional,Junior / Entry
+161,Counselor,Healthcare & Medical,Unspecified
+162,DEVOPS Engineer,Software & Engineering,Mid
+164,Advisor,General / Cross-functional,Unspecified
+167,Technical Recruiter,Human Resources & Recruiting,Unspecified
+169,Operator Engineer,Manufacturing & Skilled Trades,Mid
+170,Android Developer,Software & Engineering,Mid
+171,Technologist,Healthcare & Medical,Unspecified
+172,Chief,General / Cross-functional,C-Level
+173,Hris Analyst,Human Resources & Recruiting,Mid
+175,Assistant Operator,Manufacturing & Skilled Trades,Junior / Entry
+177,Assistant Technician,Manufacturing & Skilled Trades,Junior / Entry
+178,Cloud Architect,Software & Engineering,Unspecified
+180,UX Designer,Design & Creative,Mid
+181,Renewals Manager,Customer Success & Support,Manager
+183,Python Developer,Software & Engineering,Mid
+185,Professional,General / Cross-functional,Unspecified
+188,Executive,Other,Unspecified
+189,Sales Specialist,Sales & Business Development,Mid
+190,Assistant Engineer,General / Cross-functional,Mid
+192,Full Stack Developer,Software & Engineering,Mid
+193,Marketing,Marketing & Growth,Unspecified
+194,Clerk Specialist,Administration & Office Support,Mid
+198,Leader,General / Cross-functional,Unspecified
+199,Clerk Operator,Manufacturing & Skilled Trades,Unspecified
+200,Examiner,Education & Training,Unspecified
+201,Therapist,Healthcare & Medical,Unspecified
+202,Pharmacovigilance Specialist,General / Cross-functional,Mid
+206,Physician,Healthcare & Medical,Unspecified
+207,Clerk Supervisor,Administration & Office Support,Manager
+208,Associate Manager,General / Cross-functional,Manager
+211,Teacher Specialist,Education & Training,Mid
+212,Inspector Technician,Manufacturing & Skilled Trades,Unspecified
+213,Virtual Assistant,Administration & Office Support,Junior / Entry
+214,Driver Manager,Operations & Supply Chain,Manager
+215,Development,Other,Unspecified
+216,iOS Developer,Software & Engineering,Mid
+222,Checker,Operations & Supply Chain,Unspecified
+223,Coach,Education & Training,Unspecified
+227,Laborer,Manufacturing & Skilled Trades,Unspecified
+228,Scientist,Science & Research,Unspecified
+232,Management,Other,Unspecified
+233,Head,General / Cross-functional,Unspecified
+234,Engineer Assistant,General / Cross-functional,Mid
+235,Machine Assistant,Manufacturing & Skilled Trades,Junior / Entry
+236,Technician Assistant,Manufacturing & Skilled Trades,Junior / Entry
+240,Care,Other,Unspecified
+241,Employer Branding Specialist,Design & Creative,Mid
+242,Operations,Operations & Supply Chain,Unspecified
+245,Assistant Director,General / Cross-functional,Director
+250,Salesforce Developer,Software & Engineering,Mid
+255,Assistant Analyst,General / Cross-functional,Mid
+257,Associate Technician,Manufacturing & Skilled Trades,Junior / Entry
+259,Clerk Analyst,Administration & Office Support,Mid
+261,Private Equity Associate,Finance & Accounting,Junior / Entry
+263,Loader,Manufacturing & Skilled Trades,Unspecified
+264,Onboarding Specialist,Customer Success & Support,Mid
+266,Maintenance,Manufacturing & Skilled Trades,Unspecified
+271,FP&A Manager,Finance & Accounting,Manager
+272,Marketplace Manager,General / Cross-functional,Manager
+274,RN Manager,General / Cross-functional,Manager
+282,Member,Other,Unspecified
+284,UX Writer,Design & Creative,Unspecified
+288,Architect Manager,Design & Creative,Manager
+290,Associate Engineer,General / Cross-functional,Mid
+292,Planner,Operations & Supply Chain,Unspecified
+293,Nurse Technician,Healthcare & Medical,Unspecified
+296,Health,Other,Unspecified
+298,Teacher Assistant,Education & Training,Junior / Entry
+299,Nurse Supervisor,Healthcare & Medical,Manager
+305,Plant,Other,Unspecified
+306,Backend Developer,Software & Engineering,Mid
+308,Prompt Engineer,Data & AI,Mid
+309,Washer,Manufacturing & Skilled Trades,Unspecified
+310,Content Strategist,Marketing & Growth,Unspecified
+313,Helper Coordinator,Administration & Office Support,Junior / Entry
+314,Applied Scientist,Science & Research,Unspecified
+322,Driver Engineer,Operations & Supply Chain,Mid
+326,Trainer,Other,Unspecified
+328,Assistant Teacher,Education & Training,Junior / Entry
+329,Sales Teacher,Education & Training,Unspecified
+337,Adjuster,Other,Unspecified
+342,Helper Teacher,Education & Training,Junior / Entry
+345,Sales Inspector,Sales & Business Development,Unspecified
+353,Processor,Other,Unspecified
+355,Control Specialist,General / Cross-functional,Mid
+356,Person,Other,Unspecified
+357,Developer Analyst,Software & Engineering,Mid
+364,Painter,Manufacturing & Skilled Trades,Unspecified
+369,Room,Other,Unspecified
+371,Department,Other,Unspecified
+373,Consultant Teacher,Education & Training,Mid
+384,Winder,Other,Unspecified
+385,Ruby on Rails Developer,Software & Engineering,Mid
+387,Installer Technician,Manufacturing & Skilled Trades,Unspecified
+403,Hand Worker,Manufacturing & Skilled Trades,Unspecified
+404,Support,Other,Unspecified
+407,Lead Operator,Manufacturing & Skilled Trades,Manager
+409,Plant Specialist,General / Cross-functional,Mid
+416,Lead Technician,Manufacturing & Skilled Trades,Manager
+424,Filler,Manufacturing & Skilled Trades,Unspecified
+425,Education,Education & Training,Unspecified
+427,Localization Specialist,General / Cross-functional,Mid
+433,Control,Other,Unspecified
+435,Tender Coordinator,Administration & Office Support,Unspecified
+438,Tester Operator,Manufacturing & Skilled Trades,Unspecified
+442,Inspector and Clerk,Administration & Office Support,Unspecified
+449,Equipment,Other,Unspecified
+466,Business Supervisor,General / Cross-functional,Manager
+469,Executive Manager,General / Cross-functional,Manager
+473,Marketing Engineer,Marketing & Growth,Mid
+479,Handler,Manufacturing & Skilled Trades,Unspecified
+480,Clinical Specialist,Healthcare & Medical,Mid
+481,Chief Operator,Manufacturing & Skilled Trades,C-Level
+482,Counselor Manager,Healthcare & Medical,Manager
+484,Puller,Other,Unspecified
+488,Grc Analyst,Cybersecurity,Mid
+489,Lead Engineer,General / Cross-functional,Manager
+490,Production,Other,Unspecified
+492,Identity and Access Management Engineer,Other,Mid
+493,Associate Director,General / Cross-functional,Director
+494,Management Technician,Manufacturing & Skilled Trades,Unspecified
+497,Systems,Other,Unspecified
+498,President,Executive & General Management,C-Level
+513,Automatic,Other,Unspecified
+517,Press Supervisor,Manufacturing & Skilled Trades,Manager
+518,Rust Developer,Software & Engineering,Mid
+519,Servicenow Developer,Software & Engineering,Mid
+520,Manager Machine,Manufacturing & Skilled Trades,Manager
+522,Controller,Finance & Accounting,Unspecified
+535,Associate Teacher,Education & Training,Junior / Entry
+536,Devsecops Engineer,Other,Mid
+537,Kubernetes Engineer,Other,Mid
+538,LLM Engineer,Other,Mid
+539,MLOPS Engineer,Data & AI,Mid
+540,NLP Engineer,Data & AI,Mid
+547,Layer,Other,Unspecified
+552,Polisher,Manufacturing & Skilled Trades,Unspecified
+570,Telemedicine Coordinator,Administration & Office Support,Unspecified
+573,Field Specialist,General / Cross-functional,Mid
+575,Research,Science & Research,Unspecified
+580,Internship,Other,Junior / Entry
+584,Sales Developer,Software & Engineering,Mid
+586,Roller,Other,Unspecified
+594,Project Specialist,General / Cross-functional,Mid
+613,Investigator,General / Cross-functional,Unspecified
+620,Management Engineer,Other,Mid
+624,Nurse Coordinator,Healthcare & Medical,Unspecified
+628,Engineering,Other,Mid
+629,OR Manager,General / Cross-functional,Manager
+632,Last Mile Operations Manager,Operations & Supply Chain,Manager
+666,Cleaner Operator,Manufacturing & Skilled Trades,Unspecified
+671,Pilot,Other,Unspecified
+673,Agile Coach,Product,Unspecified
+684,Software Technician,Software & Engineering,Unspecified
+688,Apprentice Technician,Manufacturing & Skilled Trades,Junior / Entry
+736,Care Analyst,General / Cross-functional,Mid
+737,Assistant Clinical Nurse Manager,Healthcare & Medical,Manager
+741,Program Technician,Manufacturing & Skilled Trades,Unspecified
+743,Health Analyst,General / Cross-functional,Mid
+744,Car Supervisor,General / Cross-functional,Manager
+775,Program Supervisor,General / Cross-functional,Manager
+787,Education Technician,Education & Training,Unspecified
+789,Fire Manager,General / Cross-functional,Manager
+791,Metal,Other,Unspecified
+792,Hand Developer,Software & Engineering,Mid
+795,Frontend Developer,Software & Engineering,Mid
+796,React Developer,Software & Engineering,Mid
+797,Wordpress Developer,Software & Engineering,Mid
+808,Marketing Clerk,Marketing & Growth,Unspecified
+812,Picker,Operations & Supply Chain,Unspecified
+817,School Supervisor,General / Cross-functional,Manager
+823,Auditor,Finance & Accounting,Unspecified
+829,Medical Director,Healthcare & Medical,Director
+836,Education Supervisor,Education & Training,Manager
+839,Line,Other,Unspecified
+844,Recruiter,Human Resources & Recruiting,Unspecified
+855,Health Coordinator,Administration & Office Support,Unspecified
+871,Press Hand Supervisor,Manufacturing & Skilled Trades,Manager
+875,Account Specialist,General / Cross-functional,Mid
+886,Home Specialist,General / Cross-functional,Mid
+887,Truck Supervisor,General / Cross-functional,Manager
+890,Crypto Analyst,General / Cross-functional,Mid
+891,Cybersecurity Analyst,Cybersecurity,Mid
+893,ESG Analyst,General / Cross-functional,Mid
+894,KYC Analyst,General / Cross-functional,Mid
+901,SOC Analyst,Cybersecurity,Mid
+902,Control Director,General / Cross-functional,Director
+904,Cook Manager,"Hospitality, Food & Travel",Manager
+907,Equipment Analyst,General / Cross-functional,Mid
+908,Operations Clerk,Operations & Supply Chain,Unspecified
+924,Program Engineer,Other,Mid
+925,Department Specialist,General / Cross-functional,Mid
+926,Collector,Other,Unspecified
+928,Business Analyst Project Manager,Product,Manager
+934,Physician Specialist,Healthcare & Medical,Mid
+942,Printer,Other,Unspecified
+943,Health Teacher,Education & Training,Unspecified
+945,Plant Clerk,Administration & Office Support,Unspecified
+953,Director Machine,Manufacturing & Skilled Trades,Director
+954,Clinical Field Specialist,Healthcare & Medical,Mid
+956,Field Sales Specialist,Sales & Business Development,Mid
+959,Support Analyst,General / Cross-functional,Mid
+960,Account Technician,Manufacturing & Skilled Trades,Unspecified
+968,Expert,Other,Unspecified
+969,Parts Manager,General / Cross-functional,Manager
+970,Business Assistant,General / Cross-functional,Junior / Entry
+975,Medical Consultant,Healthcare & Medical,Mid
+976,Counselor Supervisor,Healthcare & Medical,Manager
+977,Development Assistant,General / Cross-functional,Junior / Entry
+994,Design Supervisor,General / Cross-functional,Manager
+997,Servicer,Other,Unspecified
+999,Field Worker,General / Cross-functional,Unspecified
+1010,Senior Software Development Manager,Software & Engineering,Manager
+1017,Senior Software Engineering Manager,Software & Engineering,Manager
+1018,Software Engineering Associate Manager,Software & Engineering,Manager
+1022,Support Clerk,Administration & Office Support,Unspecified
+1029,Management Analyst,General / Cross-functional,Mid
+1030,Lead Teacher,Education & Training,Manager
+1031,Engine Manager,General / Cross-functional,Manager
+1063,Customer Specialist,General / Cross-functional,Mid
+1078,Equipment Coordinator,Administration & Office Support,Unspecified
+1083,Clinical Analyst,Healthcare & Medical,Mid
+1086,Office Engineer,Other,Mid
+1091,Assembly,Other,Unspecified
+1094,Mechanical Manager,General / Cross-functional,Manager
+1103,Finisher Operator,Manufacturing & Skilled Trades,Unspecified
+1104,Chief Clerk,Administration & Office Support,C-Level
+1116,Science Manager,General / Cross-functional,Manager
+1117,Foreman,Manufacturing & Skilled Trades,Manager
+1120,Support Director,General / Cross-functional,Director
+1122,Lead Consultant,General / Cross-functional,Manager
+1125,Retail Specialist,General / Cross-functional,Mid
+1127,Maintenance Analyst,Manufacturing & Skilled Trades,Mid
+1137,Senior Associate,General / Cross-functional,Senior
+1138,Service Associate,General / Cross-functional,Junior / Entry
+1139,Teacher Associate,Education & Training,Junior / Entry
+1143,RN Teacher,Education & Training,Unspecified
+1147,Operations Consultant,Operations & Supply Chain,Mid
+1148,Lead Inspector,General / Cross-functional,Manager
+1156,Head Worker,General / Cross-functional,Unspecified
+1160,Artist Manager,Design & Creative,Manager
+1164,Security,Other,Unspecified
+1174,Office,Other,Unspecified
+1185,Feeder Operator,Manufacturing & Skilled Trades,Unspecified
+1197,Account Engineer,Other,Mid
+1201,Product Technician,Manufacturing & Skilled Trades,Unspecified
+1202,Maintenance Clerk,Administration & Office Support,Unspecified
+1203,Maintenance Assistant,Manufacturing & Skilled Trades,Junior / Entry
+1210,Machine Helper,Manufacturing & Skilled Trades,Junior / Entry
+1211,Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+1213,Builder Operator,Manufacturing & Skilled Trades,Unspecified
+1214,Plant Health Care Technician,Manufacturing & Skilled Trades,Unspecified
+1215,Insurance Specialist,General / Cross-functional,Mid
+1217,Molder,Manufacturing & Skilled Trades,Unspecified
+1218,Clinical Coordinator,Healthcare & Medical,Unspecified
+1221,Senior Technical Program Manager,Product,Manager
+1228,Stitcher,Manufacturing & Skilled Trades,Unspecified
+1230,Laborer Operator,Manufacturing & Skilled Trades,Unspecified
+1242,Production Analyst,General / Cross-functional,Mid
+1243,School,Other,Unspecified
+1245,Case Manager,General / Cross-functional,Manager
+1248,Liaison,General / Cross-functional,Unspecified
+1255,Professional Engineer,General / Cross-functional,Mid
+1256,Aircraft Manager,General / Cross-functional,Manager
+1265,Marketing Developer,Software & Engineering,Mid
+1269,Health Care Analyst,General / Cross-functional,Mid
+1278,Maintenance Director,Manufacturing & Skilled Trades,Director
+1279,Clinical Data Management Manager,Healthcare & Medical,Manager
+1280,Senior Clinical Data Manager,Healthcare & Medical,Manager
+1286,Drier,Other,Unspecified
+1288,Interaction Designer,Design & Creative,Mid
+1303,Helper Driver,Operations & Supply Chain,Junior / Entry
+1304,Mechanic Driver,Operations & Supply Chain,Unspecified
+1306,Sales Driver,Sales & Business Development,Unspecified
+1314,Production Clerk,Administration & Office Support,Unspecified
+1331,Lab Manager,General / Cross-functional,Manager
+1332,Project Analyst,General / Cross-functional,Mid
+1333,Tool Specialist,General / Cross-functional,Mid
+1355,Lead Developer,Software & Engineering,Manager
+1356,Field Clerk,Administration & Office Support,Unspecified
+1357,Commercial Technician,Manufacturing & Skilled Trades,Unspecified
+1359,Field Assistant,General / Cross-functional,Junior / Entry
+1366,Center,Other,Unspecified
+1368,Practitioner,Other,Unspecified
+1371,Stock Manager,General / Cross-functional,Manager
+1377,Information Operator,Manufacturing & Skilled Trades,Unspecified
+1380,Associate Medical Director,Healthcare & Medical,Director
+1388,HR Business Partner,Human Resources & Recruiting,Unspecified
+1391,Operations Developer,Software & Engineering,Mid
+1396,Research Clerk,Science & Research,Unspecified
+1407,Clinical Consultant,Healthcare & Medical,Mid
+1419,UX Researcher,Science & Research,Unspecified
+1423,Trimmer Operator,Manufacturing & Skilled Trades,Unspecified
+1440,Lead Mechanic,Manufacturing & Skilled Trades,Manager
+1441,Quality Worker,General / Cross-functional,Unspecified
+1449,Coach Operator,Education & Training,Unspecified
+1451,Field Coordinator,Administration & Office Support,Unspecified
+1458,Field Director,General / Cross-functional,Director
+1469,Blockchain Developer,Software & Engineering,Mid
+1471,Flutter Developer,Software & Engineering,Mid
+1472,Golang Developer,Software & Engineering,Mid
+1473,Laravel Developer,Software & Engineering,Mid
+1474,No-Code Developer,Software & Engineering,Mid
+1475,Node.js Developer,Software & Engineering,Mid
+1476,Shopify Developer,Software & Engineering,Mid
+1477,Webflow Developer,Software & Engineering,Mid
+1487,Clinical Account Specialist,Healthcare & Medical,Mid
+1488,Sales Account Specialist,Sales & Business Development,Mid
+1493,Cleaner Assistant,Manufacturing & Skilled Trades,Junior / Entry
+1494,Farm Specialist,Agriculture & Environment,Mid
+1502,Tool Supervisor,General / Cross-functional,Manager
+1511,Nurse Instructor,Healthcare & Medical,Unspecified
+1513,Anti-Money Laundering Analyst,General / Cross-functional,Mid
+1522,Pilot Manager,General / Cross-functional,Manager
+1525,General Operator,Manufacturing & Skilled Trades,Unspecified
+1527,Software Clerk,Software & Engineering,Unspecified
+1528,Farm,Agriculture & Environment,Unspecified
+1532,Master,Other,Unspecified
+1548,Mechanic Helper,Manufacturing & Skilled Trades,Junior / Entry
+1549,Engineering Clerk,Administration & Office Support,Mid
+1551,Plant Mechanic,Manufacturing & Skilled Trades,Unspecified
+1553,General Technician,Manufacturing & Skilled Trades,Unspecified
+1555,Program Analyst,General / Cross-functional,Mid
+1566,Design,Other,Unspecified
+1570,Financial Engineer,Finance & Accounting,Mid
+1584,Family Manager,General / Cross-functional,Manager
+1587,Sprayer,Manufacturing & Skilled Trades,Unspecified
+1589,Development Mechanic,Manufacturing & Skilled Trades,Unspecified
+1605,Marker,Other,Unspecified
+1610,Therapy Manager,Healthcare & Medical,Manager
+1612,Fire Supervisor,General / Cross-functional,Manager
+1622,Senior Safety Support Manager,General / Cross-functional,Manager
+1625,Business Development Assistant,Sales & Business Development,Junior / Entry
+1633,Repair Specialist,General / Cross-functional,Mid
+1635,Loader Operator,Manufacturing & Skilled Trades,Unspecified
+1640,Systems Mechanic,Manufacturing & Skilled Trades,Unspecified
+1645,Program Clerk,Administration & Office Support,Unspecified
+1646,Engineering Director,General / Cross-functional,Director
+1648,Program Assistant,General / Cross-functional,Junior / Entry
+1649,Tool,Other,Unspecified
+1650,Shop,Other,Unspecified
+1652,Loader Technician,Manufacturing & Skilled Trades,Unspecified
+1653,Security Assistant,General / Cross-functional,Junior / Entry
+1669,Commercial Engineer,Other,Mid
+1670,Management Developer,Software & Engineering,Mid
+1673,Auto Parts Manager,General / Cross-functional,Manager
+1678,Relations,Other,Unspecified
+1694,Technical Analyst,General / Cross-functional,Mid
+1695,Java Manager,General / Cross-functional,Manager
+1696,Parts Specialist,General / Cross-functional,Mid
+1701,Data Center Project Manager,Product,Manager
+1713,Mill,Manufacturing & Skilled Trades,Unspecified
+1720,Repair Operator,Manufacturing & Skilled Trades,Unspecified
+1723,Customer Account Specialist,General / Cross-functional,Mid
+1731,Customer Sales Specialist,Sales & Business Development,Mid
+1734,Room Inspector,General / Cross-functional,Unspecified
+1748,Line Analyst,General / Cross-functional,Mid
+1749,Shop Technician,Manufacturing & Skilled Trades,Unspecified
+1754,School Clerk,Administration & Office Support,Unspecified
+1764,Field Inspector,General / Cross-functional,Unspecified
+1776,Medical Driver,Healthcare & Medical,Unspecified
+1791,Project Consultant,General / Cross-functional,Mid
+1795,Electrician Manager,Manufacturing & Skilled Trades,Manager
+1801,Sales Attendant,Sales & Business Development,Unspecified
+1808,Chair,Other,Unspecified
+1813,Cook Supervisor,"Hospitality, Food & Travel",Manager
+1815,Communications,Marketing & Growth,Unspecified
+1834,Keeper,Other,Unspecified
+1837,Marketing Representative,Marketing & Growth,Unspecified
+1838,Accountant Manager,Finance & Accounting,Manager
+1844,Repair Supervisor,General / Cross-functional,Manager
+1845,Water Supervisor,General / Cross-functional,Manager
+1864,Project Inspector,General / Cross-functional,Unspecified
+1865,Quality,Other,Unspecified
+1866,Retail Account Specialist,General / Cross-functional,Mid
+1869,Retail Sales Specialist,Sales & Business Development,Mid
+1873,Parts Technician,Manufacturing & Skilled Trades,Unspecified
+1874,Penetration Tester,Cybersecurity,Unspecified
+1878,Dental Manager,Healthcare & Medical,Manager
+1882,Processing,Other,Unspecified
+1890,Medical Instructor,Healthcare & Medical,Unspecified
+1892,Medical Associate,Healthcare & Medical,Junior / Entry
+1896,Production Officer,General / Cross-functional,Unspecified
+1901,Emergency Manager,General / Cross-functional,Manager
+1904,Material Manager,General / Cross-functional,Manager
+1905,Sheet Manager,General / Cross-functional,Manager
+1916,Software Consultant,Software & Engineering,Mid
+1919,Processing Specialist,General / Cross-functional,Mid
+1922,General Engineer,Other,Mid
+1923,Police Manager,"Public Sector, Defense & Safety",Manager
+1926,Product Owner,Product,C-Level
+1929,Retail Worker,General / Cross-functional,Unspecified
+1934,Chief Medical Director,Healthcare & Medical,C-Level
+1935,Design Analyst,General / Cross-functional,Mid
+1937,Care Associate,General / Cross-functional,Junior / Entry
+1938,Data Assistant,General / Cross-functional,Junior / Entry
+1943,Construction Specialist,Construction & Real Estate,Mid
+1953,Sorter Operator,Manufacturing & Skilled Trades,Unspecified
+1956,Medical Attendant,Healthcare & Medical,Unspecified
+1969,Quality Assistant,General / Cross-functional,Junior / Entry
+1973,Health Associate,General / Cross-functional,Junior / Entry
+1981,Safety,Other,Unspecified
+1990,Media Operator,Manufacturing & Skilled Trades,Unspecified
+1993,Pipe Supervisor,General / Cross-functional,Manager
+1999,Machine Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+2001,Line Director,General / Cross-functional,Director
+2003,Tax Manager,Finance & Accounting,Manager
+2005,Laboratory Engineer,Science & Research,Mid
+2006,Manufacturing Operator,Manufacturing & Skilled Trades,Unspecified
+2008,Communications Supervisor,Marketing & Growth,Manager
+2012,Insurance Account Specialist,General / Cross-functional,Mid
+2014,Insurance Sales Specialist,Sales & Business Development,Mid
+2015,Lead Driver,Operations & Supply Chain,Manager
+2018,Media Technician,Manufacturing & Skilled Trades,Unspecified
+2026,Office Director,General / Cross-functional,Director
+2027,RN Clinical Coordinator,Healthcare & Medical,Unspecified
+2034,Painter Supervisor,Manufacturing & Skilled Trades,Manager
+2037,Head Inspector,General / Cross-functional,Unspecified
+2040,Entry Manager,General / Cross-functional,Manager
+2041,Operations Representative,Operations & Supply Chain,Unspecified
+2050,Scientist Engineer,Science & Research,Mid
+2054,Information Support Project Manager,Product,Manager
+2058,Project Officer,General / Cross-functional,Unspecified
+2060,Production Support Analyst,General / Cross-functional,Mid
+2062,Loader Engineer,Manufacturing & Skilled Trades,Mid
+2071,Lead Case Manager,General / Cross-functional,Manager
+2075,RN Case Manager,General / Cross-functional,Manager
+2077,Steel Manager,General / Cross-functional,Manager
+2078,Program Consultant,General / Cross-functional,Mid
+2080,Welder Operator,Manufacturing & Skilled Trades,Unspecified
+2082,Design Assistant,General / Cross-functional,Junior / Entry
+2093,Executive Coordinator,Administration & Office Support,Unspecified
+2095,Recruiter Manager,Human Resources & Recruiting,Manager
+2101,Metal Inspector,General / Cross-functional,Unspecified
+2102,Consultant Nurse,Healthcare & Medical,Mid
+2103,Supervisor Nurse,Healthcare & Medical,Manager
+2106,Executive Director,Executive & General Management,VP / Head
+2114,Media Supervisor,General / Cross-functional,Manager
+2124,Electric Operator,Manufacturing & Skilled Trades,Unspecified
+2125,Floor Specialist,General / Cross-functional,Mid
+2126,Associate Field Service Engineer,Other,Mid
+2128,Senior Field Service Engineer,Other,Senior
+2137,Delivery Specialist,General / Cross-functional,Mid
+2143,Printing Manager,General / Cross-functional,Manager
+2145,Technical Sales Support Specialist,Sales & Business Development,Mid
+2146,Cutter Hand,Manufacturing & Skilled Trades,Unspecified
+2158,Project Developer,Software & Engineering,Mid
+2166,Die Technician,Manufacturing & Skilled Trades,Unspecified
+2178,Cashier Manager,Sales & Business Development,Manager
+2179,Case Specialist,General / Cross-functional,Mid
+2186,Department Clerk,Administration & Office Support,Unspecified
+2187,Field Mechanic,Manufacturing & Skilled Trades,Unspecified
+2188,Department Assistant,General / Cross-functional,Junior / Entry
+2190,Design Coordinator,Administration & Office Support,Unspecified
+2193,Operations Associate,Operations & Supply Chain,Junior / Entry
+2196,Turner,Manufacturing & Skilled Trades,Unspecified
+2198,Equipment Driver,Operations & Supply Chain,Unspecified
+2200,Project Management Analyst,General / Cross-functional,Mid
+2203,Associate Professor,Education & Training,Junior / Entry
+2206,Filler Operator,Manufacturing & Skilled Trades,Unspecified
+2209,Instructor Nurse,Healthcare & Medical,Unspecified
+2217,Account Coordinator,Customer Success & Support,Unspecified
+2218,Parts,Other,Unspecified
+2220,Food Clerk,Administration & Office Support,Unspecified
+2221,Account Director,General / Cross-functional,Director
+2223,Plastic Manager,General / Cross-functional,Manager
+2225,Surgical Manager,Healthcare & Medical,Manager
+2234,Research Mechanic,Science & Research,Unspecified
+2235,Support Representative,Customer Success & Support,Unspecified
+2238,Home Coordinator,Administration & Office Support,Unspecified
+2246,Safety Analyst,General / Cross-functional,Mid
+2251,Technical Consultant,General / Cross-functional,Mid
+2252,Floor Technician,Manufacturing & Skilled Trades,Unspecified
+2256,Mobile Manager,General / Cross-functional,Manager
+2257,Plant Associate,General / Cross-functional,Junior / Entry
+2260,Tire Manager,General / Cross-functional,Manager
+2262,Insurance,Other,Unspecified
+2267,Motor Operator,Manufacturing & Skilled Trades,Unspecified
+2273,Tool Worker,General / Cross-functional,Unspecified
+2274,Administrative Specialist,Administration & Office Support,Mid
+2275,Delivery Technician,Manufacturing & Skilled Trades,Unspecified
+2291,Case Operator,Manufacturing & Skilled Trades,Unspecified
+2292,Field Operations Farm Manager,Operations & Supply Chain,Manager
+2297,Oracle Manager,General / Cross-functional,Manager
+2298,Solutions Manager,General / Cross-functional,Manager
+2306,Business Associate,General / Cross-functional,Junior / Entry
+2325,Equipment Associate,General / Cross-functional,Junior / Entry
+2326,Clinical Operations Consultant,Healthcare & Medical,Mid
+2335,Case Technician,Manufacturing & Skilled Trades,Unspecified
+2336,Driver Helper,Operations & Supply Chain,Junior / Entry
+2339,Solar Manager,Energy & Utilities,Manager
+2354,Technical Inspector,General / Cross-functional,Unspecified
+2355,Unit Operator,Manufacturing & Skilled Trades,Unspecified
+2357,Senior Sales Operations Analyst,Sales & Business Development,Senior
+2360,Plant Attendant,Other,Unspecified
+2364,Associate Software Development Engineer,Software & Engineering,Mid
+2365,Lead Software Development Engineer,Software & Engineering,Manager
+2366,Senior Lead Software Engineer,Software & Engineering,Manager
+2367,Senior Software Development Engineer,Software & Engineering,Senior
+2379,Net Manager,General / Cross-functional,Manager
+2381,Data Consultant,General / Cross-functional,Mid
+2382,Unit Technician,IT & Infrastructure,Unspecified
+2383,Delivery Supervisor,General / Cross-functional,Manager
+2392,System Developer Associate Manager,Software & Engineering,Manager
+2396,Senior Design Engineering Specialist,Engineering (Non-Software),Senior
+2399,Executive Consultant,General / Cross-functional,Mid
+2401,Safety Assistant,General / Cross-functional,Junior / Entry
+2404,House,Other,Unspecified
+2425,Customer Assistant,General / Cross-functional,Junior / Entry
+2427,React Native Developer,Software & Engineering,Mid
+2428,Case Supervisor,General / Cross-functional,Manager
+2431,Support Associate,General / Cross-functional,Junior / Entry
+2436,General Worker,General / Cross-functional,Unspecified
+2438,Life Manager,General / Cross-functional,Manager
+2440,Office Machine Service Supervisor,General / Cross-functional,Manager
+2442,Administrative Technician,Administration & Office Support,Unspecified
+2453,Client Specialist,General / Cross-functional,Mid
+2456,Process,Other,Unspecified
+2457,Fabricator,Manufacturing & Skilled Trades,Unspecified
+2458,Program Developer,Software & Engineering,Mid
+2460,Staff Engineer,General / Cross-functional,Senior
+2461,Surgeon,Healthcare & Medical,Unspecified
+2462,Unit Supervisor,General / Cross-functional,Manager
+2470,Security Developer,Software & Engineering,Mid
+2485,Head Mechanic,Manufacturing & Skilled Trades,Unspecified
+2494,Digital Marketing Program Manager,Product,Manager
+2495,Digital Marketing Project Manager,Product,Manager
+2499,Computer Analyst Supervisor,General / Cross-functional,Manager
+2501,Mold Operator,Manufacturing & Skilled Trades,Unspecified
+2507,Health Program Analyst,General / Cross-functional,Mid
+2509,Program Management Analyst,General / Cross-functional,Mid
+2510,Program Project Analyst,General / Cross-functional,Mid
+2556,Service Worker Helper,Manufacturing & Skilled Trades,Junior / Entry
+2562,Erector,Manufacturing & Skilled Trades,Unspecified
+2563,Retail Clerk,Administration & Office Support,Unspecified
+2565,Cutter Helper,Manufacturing & Skilled Trades,Junior / Entry
+2566,Account Consultant,General / Cross-functional,Mid
+2572,Gas Analyst,Energy & Utilities,Mid
+2573,Retail Assistant,General / Cross-functional,Junior / Entry
+2578,Maintenance Representative,Manufacturing & Skilled Trades,Unspecified
+2585,Management Associate,General / Cross-functional,Junior / Entry
+2589,Nursing Technician,Healthcare & Medical,Unspecified
+2594,OR Assistant,General / Cross-functional,Junior / Entry
+2595,Server,"Hospitality, Food & Travel",Unspecified
+2601,Physical Therapy Manager,Healthcare & Medical,Manager
+2613,Former,Other,Unspecified
+2616,Station Supervisor,General / Cross-functional,Manager
+2618,Retail,Other,Unspecified
+2630,Repair,Other,Unspecified
+2637,Crane Manager,Manufacturing & Skilled Trades,Manager
+2658,Compliance Technician,Finance & Accounting,Unspecified
+2660,Clinical Instructor,Healthcare & Medical,Unspecified
+2662,Clinical Associate,Healthcare & Medical,Junior / Entry
+2663,Weigher,Manufacturing & Skilled Trades,Unspecified
+2674,Program Support Clerk,Administration & Office Support,Unspecified
+2675,Advisor Consultant,General / Cross-functional,Mid
+2680,Financial Assistant,Finance & Accounting,Junior / Entry
+2681,Home Inspector,General / Cross-functional,Unspecified
+2690,Lead Installer,Manufacturing & Skilled Trades,Manager
+2691,Repairer Helper,Manufacturing & Skilled Trades,Junior / Entry
+2698,Special Education Supervisor,Education & Training,Manager
+2703,Medical Nurse,Healthcare & Medical,Unspecified
+2704,Web Worker,General / Cross-functional,Unspecified
+2705,Guard,"Public Sector, Defense & Safety",Unspecified
+2712,Product Coordinator,Administration & Office Support,Unspecified
+2716,Building Specialist,General / Cross-functional,Mid
+2717,Family Specialist,General / Cross-functional,Mid
+2725,Executive Officer,General / Cross-functional,Unspecified
+2727,Retail Coordinator,Administration & Office Support,Unspecified
+2729,Home Health Clinical Supervisor,Healthcare & Medical,Manager
+2732,Retail Director,General / Cross-functional,Director
+2733,Assistant Auto Center Manager,General / Cross-functional,Manager
+2734,Auto Care Center Manager,General / Cross-functional,Manager
+2736,Boat Operator,Manufacturing & Skilled Trades,Unspecified
+2737,Core Manager,General / Cross-functional,Manager
+2738,Server Manager,"Hospitality, Food & Travel",Manager
+2739,Track Manager,General / Cross-functional,Manager
+2744,Health Professor,Education & Training,Unspecified
+2746,Test Worker,General / Cross-functional,Unspecified
+2761,Safety Teacher,Education & Training,Unspecified
+2769,Technical Support Analyst,IT & Infrastructure,Mid
+2773,Planning Specialist,General / Cross-functional,Mid
+2775,Delivery Engineer,Other,Mid
+2777,Door Manager,General / Cross-functional,Manager
+2778,Maintenance Instructor,Education & Training,Unspecified
+2783,OR Director,General / Cross-functional,Director
+2787,Maintenance Associate,Manufacturing & Skilled Trades,Junior / Entry
+2788,Marketing Professor,Education & Training,Unspecified
+2800,Metal Control Coordinator,Administration & Office Support,Unspecified
+2814,Process Assistant,General / Cross-functional,Junior / Entry
+2815,Technical Customer Support Specialist,Customer Success & Support,Mid
+2817,Body Specialist,General / Cross-functional,Mid
+2831,Traffic Operator,Manufacturing & Skilled Trades,Unspecified
+2833,Contractor,"Media, Sports & Entertainment",Unspecified
+2836,Monitor,Other,Unspecified
+2841,Child Specialist,General / Cross-functional,Mid
+2846,Loan Specialist,General / Cross-functional,Mid
+2847,Principal,Education & Training,Director
+2863,Tool Analyst,General / Cross-functional,Mid
+2876,Tube Operator,Manufacturing & Skilled Trades,Unspecified
+2882,Traffic Technician,Manufacturing & Skilled Trades,Unspecified
+2883,Warehouse Technician,Operations & Supply Chain,Unspecified
+2894,Cell Manager,General / Cross-functional,Manager
+2895,Cleaning Manager,General / Cross-functional,Manager
+2922,Line Mechanic,Manufacturing & Skilled Trades,Unspecified
+2923,Pilot Supervisor,General / Cross-functional,Manager
+2928,Air Director,General / Cross-functional,Director
+2950,Folder,Manufacturing & Skilled Trades,Unspecified
+2962,Car Repair Supervisor,General / Cross-functional,Manager
+2969,Truck Repair Supervisor,General / Cross-functional,Manager
+2975,Customer Consultant,General / Cross-functional,Mid
+2980,Training Technician,Manufacturing & Skilled Trades,Unspecified
+2981,Information Assistant,General / Cross-functional,Junior / Entry
+2982,Retail Customer Service Specialist,Customer Success & Support,Mid
+3020,Glass Worker,General / Cross-functional,Unspecified
+3023,Appraiser,Construction & Real Estate,Unspecified
+3062,Tool Clerk,Administration & Office Support,Unspecified
+3063,Adviser,Other,Unspecified
+3064,Doctor,Healthcare & Medical,Unspecified
+3065,Investigator Operator,Manufacturing & Skilled Trades,Unspecified
+3067,Lab Engineer,Other,Mid
+3069,Network Operations Project Manager,Product,Manager
+3070,Network Services Project Manager,Product,Manager
+3071,Tool and Die Manager,Manufacturing & Skilled Trades,Manager
+3072,Master Technician,Manufacturing & Skilled Trades,Unspecified
+3079,Software Developer Consultant,Software & Engineering,Mid
+3081,Production Associate,General / Cross-functional,Junior / Entry
+3085,Commercial Coordinator,Administration & Office Support,Unspecified
+3095,Radio Operator,Manufacturing & Skilled Trades,Unspecified
+3096,Concrete Technician,Manufacturing & Skilled Trades,Unspecified
+3097,Legal Technician,Legal,Unspecified
+3098,Account Developer,Software & Engineering,Mid
+3116,Computer Clerk,Administration & Office Support,Unspecified
+3121,Data Control Assistant,General / Cross-functional,Junior / Entry
+3122,Grain Manager,General / Cross-functional,Manager
+3124,Materials Manager,Operations & Supply Chain,Manager
+3128,Computer Assistant,General / Cross-functional,Junior / Entry
+3139,Patient Account Specialist,Healthcare & Medical,Mid
+3153,Center Consultant,General / Cross-functional,Mid
+3154,Center Line Cutter Operator,Manufacturing & Skilled Trades,Unspecified
+3155,Product Consultant,General / Cross-functional,Mid
+3156,Security Control Center Operator,Manufacturing & Skilled Trades,Unspecified
+3157,Security Operations Center Operator,Operations & Supply Chain,Unspecified
+3163,Quality Control Assistant,General / Cross-functional,Junior / Entry
+3171,Field Instructor,Education & Training,Unspecified
+3173,Retail Consultant,General / Cross-functional,Mid
+3176,Field Associate,General / Cross-functional,Junior / Entry
+3184,Loan Supervisor,General / Cross-functional,Manager
+3188,Secretary Specialist,Administration & Office Support,Mid
+3189,Store Specialist,General / Cross-functional,Mid
+3194,Pipe Fitter Supervisor,Manufacturing & Skilled Trades,Manager
+3214,Production Support Developer,Software & Engineering,Mid
+3216,Research Manufacturing Operator,Science & Research,Unspecified
+3219,Insurance Customer Service Specialist,Customer Success & Support,Mid
+3221,Emergency Specialist,General / Cross-functional,Mid
+3228,Assembler Tester,Manufacturing & Skilled Trades,Unspecified
+3229,Machine Tester,Manufacturing & Skilled Trades,Unspecified
+3230,Service Tester,Manufacturing & Skilled Trades,Unspecified
+3236,Blender,Manufacturing & Skilled Trades,Unspecified
+3246,Research Instructor,Science & Research,Unspecified
+3247,Vehicle Operator,Manufacturing & Skilled Trades,Unspecified
+3250,Tool Coordinator,Administration & Office Support,Unspecified
+3258,Fire Assistant,General / Cross-functional,Junior / Entry
+3271,Automotive General Sales Manager,Sales & Business Development,Manager
+3272,Wrapper,Manufacturing & Skilled Trades,Unspecified
+3275,Police Specialist,"Public Sector, Defense & Safety",Mid
+3276,Residential Specialist,General / Cross-functional,Mid
+3278,Field Attendant,Other,Unspecified
+3282,Business Agent,General / Cross-functional,Unspecified
+3283,Carrier Operator,Manufacturing & Skilled Trades,Unspecified
+3284,Marketing Agent,Marketing & Growth,Unspecified
+3285,Operations Agent,Operations & Supply Chain,Unspecified
+3291,Electrician Technician,Manufacturing & Skilled Trades,Unspecified
+3308,Field Nurse Case Manager,Healthcare & Medical,Manager
+3309,RN Field Case Manager,General / Cross-functional,Manager
+3310,Special Education Case Manager,Education & Training,Manager
+3313,Circuit Manager,IT & Infrastructure,Manager
+3314,Clinical Program Consultant,Healthcare & Medical,Mid
+3316,Golf Manager,General / Cross-functional,Manager
+3317,Rehabilitation Manager,General / Cross-functional,Manager
+3318,Financial Consultant,Finance & Accounting,Mid
+3323,Project Associate,General / Cross-functional,Junior / Entry
+3341,Grower,Other,Unspecified
+3343,Frame Operator,Manufacturing & Skilled Trades,Unspecified
+3358,Installer Helper,Manufacturing & Skilled Trades,Junior / Entry
+3368,Meat Specialist,General / Cross-functional,Mid
+3369,Music Specialist,General / Cross-functional,Mid
+3370,Analyst Sales,Sales & Business Development,Mid
+3372,Bench Manager,General / Cross-functional,Manager
+3375,Welding Manager,General / Cross-functional,Manager
+3376,Medicine,Other,Unspecified
+3378,Farm Assistant,Agriculture & Environment,Junior / Entry
+3379,Air Support Operations Operator,Operations & Supply Chain,Unspecified
+3403,Laboratory Clerk,Science & Research,Unspecified
+3404,Social Director,General / Cross-functional,Director
+3406,Assistant Administrator,General / Cross-functional,Junior / Entry
+3407,Business Administrator,General / Cross-functional,Unspecified
+3408,Development Administrator,General / Cross-functional,Unspecified
+3412,Marketing Administrator,Marketing & Growth,Unspecified
+3414,Nurse Administrator,Healthcare & Medical,Unspecified
+3419,Web Analyst,General / Cross-functional,Mid
+3427,Picker Operator,Operations & Supply Chain,Unspecified
+3436,Cloth Worker,General / Cross-functional,Unspecified
+3449,Automation Manager,General / Cross-functional,Manager
+3464,Court Specialist,Legal,Mid
+3465,Entry Specialist,General / Cross-functional,Mid
+3471,Furnace Worker,General / Cross-functional,Unspecified
+3474,Fire Coordinator,Administration & Office Support,Unspecified
+3480,Certified Health Education Specialist,Education & Training,Mid
+3481,Health Services Information Specialist,General / Cross-functional,Mid
+3504,School Plant Consultant,General / Cross-functional,Mid
+3505,Box Worker,General / Cross-functional,Unspecified
+3509,Case Manager Specialist,General / Cross-functional,Manager
+3510,Band Manager,General / Cross-functional,Manager
+3516,Accountant Supervisor,Finance & Accounting,Manager
+3519,Security Representative,General / Cross-functional,Unspecified
+3521,Warehouse Engineer,Operations & Supply Chain,Mid
+3522,Tank Builder Supervisor,Manufacturing & Skilled Trades,Manager
+3525,Floor Worker,General / Cross-functional,Unspecified
+3541,Science,Other,Unspecified
+3546,Preparer,Other,Unspecified
+3548,Director and Professor,Education & Training,Director
+3549,Engineering Associate,General / Cross-functional,Mid
+3550,Recruiter Specialist,Human Resources & Recruiting,Mid
+3551,Utility Specialist,Energy & Utilities,Mid
+3552,Boss,Other,Unspecified
+3553,Gas Line Installer Supervisor,Energy & Utilities,Manager
+3563,Engraver,Other,Unspecified
+3564,Planning,Other,Unspecified
+3565,Wood,Other,Unspecified
+3566,Human Services Case Manager,General / Cross-functional,Manager
+3574,Billing Manager,Finance & Accounting,Manager
+3575,Compensation Manager,Human Resources & Recruiting,Manager
+3577,Improvement Manager,General / Cross-functional,Manager
+3580,Testing Manager,General / Cross-functional,Manager
+3584,Associate Account Director,General / Cross-functional,Director
+3585,Field Account Director,General / Cross-functional,Director
+3589,Automotive Worker,General / Cross-functional,Unspecified
+3595,Industrial Gas Production Operator,Manufacturing & Skilled Trades,Unspecified
+3596,Care Support Representative,Customer Success & Support,Unspecified
+3597,Operations Support Representative,Customer Success & Support,Unspecified
+3603,Laboratory Coordinator,Science & Research,Unspecified
+3604,Computer Customer Support Specialist,Customer Success & Support,Mid
+3605,Computer Systems Support Specialist,Customer Success & Support,Mid
+3606,Computer Technical Support Specialist,IT & Infrastructure,Mid
+3607,Web Assistant,General / Cross-functional,Junior / Entry
+3608,Fixer,Other,Unspecified
+3609,Press Hand,Manufacturing & Skilled Trades,Unspecified
+3612,Parts Analyst,General / Cross-functional,Mid
+3614,Laboratory Director,Science & Research,Director
+3615,Liner,Other,Unspecified
+3617,Scheduler,Operations & Supply Chain,Unspecified
+3618,Training Engineer,Other,Mid
+3622,Technical Support Consultant,IT & Infrastructure,Mid
+3625,Shop Clerk,Administration & Office Support,Unspecified
+3634,Management Professor,Education & Training,Unspecified
+3636,Machinist Supervisor,Manufacturing & Skilled Trades,Manager
+3638,Residential Supervisor,General / Cross-functional,Manager
+3640,Tax Technician,Finance & Accounting,Unspecified
+3641,Art Specialist,General / Cross-functional,Mid
+3642,Claims Specialist,Finance & Accounting,Mid
+3646,Chef Manager,"Hospitality, Food & Travel",Manager
+3648,Dairy Manager,General / Cross-functional,Manager
+3649,Print Manager,General / Cross-functional,Manager
+3652,Talent Manager,General / Cross-functional,Manager
+3656,Aircraft Worker,General / Cross-functional,Unspecified
+3657,Motor Coach Operator,Education & Training,Unspecified
+3659,Nursing,Healthcare & Medical,Unspecified
+3661,Repair Clerk,Administration & Office Support,Unspecified
+3662,Test Clerk,Administration & Office Support,Unspecified
+3670,Body Engineer,Other,Mid
+3672,Chief Nurse,Healthcare & Medical,C-Level
+3678,Case Loader Operator,Manufacturing & Skilled Trades,Unspecified
+3693,Business Services Associate,General / Cross-functional,Junior / Entry
+3694,Cloth Grader Supervisor,General / Cross-functional,Manager
+3697,Certified Control Systems Technician,Manufacturing & Skilled Trades,Unspecified
+3698,Health Information Systems Technician,Healthcare & Medical,Unspecified
+3702,Strategist,General / Cross-functional,Unspecified
+3703,Business Architect,Design & Creative,Unspecified
+3704,Chief Architect,Design & Creative,C-Level
+3706,Developer Architect,Software & Engineering,Mid
+3707,Development Architect,Design & Creative,Unspecified
+3709,Lead Architect,Design & Creative,Manager
+3711,Log Manager,General / Cross-functional,Manager
+3713,Operations Architect,Design & Creative,Unspecified
+3715,Sales Architect,Design & Creative,Unspecified
+3716,SAP Manager,General / Cross-functional,Manager
+3717,Senior Architect,Design & Creative,Senior
+3718,Service Architect,Design & Creative,Unspecified
+3719,Signal Manager,General / Cross-functional,Manager
+3720,Support Architect,Design & Creative,Unspecified
+3722,Environmental Assistant,Agriculture & Environment,Junior / Entry
+3723,Equipment Service Associate,General / Cross-functional,Junior / Entry
+3724,Equipment Services Associate,General / Cross-functional,Junior / Entry
+3725,Meat Supervisor,General / Cross-functional,Manager
+3728,Clinical Professor,Healthcare & Medical,Unspecified
+3729,Utility Operator,Manufacturing & Skilled Trades,Unspecified
+3733,Training,Other,Unspecified
+3736,Management Architect,Design & Creative,Unspecified
+3737,Librarian Specialist,Education & Training,Mid
+3739,Corporate Operations Compliance Manager,Finance & Accounting,Manager
+3740,Concrete Engineer,Other,Mid
+3749,Operations Plant Attendant,Operations & Supply Chain,Unspecified
+3750,Unit,Other,Unspecified
+3752,Program Instructor,Education & Training,Unspecified
+3756,Program Associate,General / Cross-functional,Junior / Entry
+3759,Utility Technician,Energy & Utilities,Unspecified
+3761,Security Associate,General / Cross-functional,Junior / Entry
+3763,Sports Specialist,"Media, Sports & Entertainment",Mid
+3764,Surgical Specialist,Healthcare & Medical,Mid
+3772,Oil Analyst,Energy & Utilities,Mid
+3774,Technology Analyst,General / Cross-functional,Mid
+3777,Car Attendant,Other,Unspecified
+3781,Computer Consultant,General / Cross-functional,Mid
+3799,Web Coordinator,Administration & Office Support,Unspecified
+3801,Counter Supervisor,Operations & Supply Chain,Manager
+3802,Court Supervisor,Legal,Manager
+3803,Parts Clerk,Administration & Office Support,Unspecified
+3809,Java Engineer,Other,Mid
+3812,Designer Architect,Design & Creative,Mid
+3816,Tire Specialist,General / Cross-functional,Mid
+3831,Shop Director,General / Cross-functional,Director
+3836,Auditor Supervisor,Finance & Accounting,Manager
+3838,Business Support Associate,General / Cross-functional,Junior / Entry
+3841,Claims Technician,Finance & Accounting,Unspecified
+3851,Test Director,General / Cross-functional,Director
+3852,Program Attendant,Other,Unspecified
+3853,Oracle Specialist,General / Cross-functional,Mid
+3854,Solutions Specialist,General / Cross-functional,Mid
+3856,Clinical Research Nurse Coordinator,Healthcare & Medical,Unspecified
+3857,Lead Clinical Research Coordinator,Healthcare & Medical,Manager
+3876,Staff Analyst,General / Cross-functional,Senior
+3877,Client Account Specialist,General / Cross-functional,Mid
+3879,Client Delivery Specialist,General / Cross-functional,Mid
+3885,Cutting Supervisor,General / Cross-functional,Manager
+3887,Assistant Designer,Design & Creative,Mid
+3888,Associate Designer,Design & Creative,Mid
+3889,Developer Designer,Software & Engineering,Mid
+3890,Lead Designer,Design & Creative,Manager
+3891,Machine Designer,Design & Creative,Mid
+3892,Marketing Designer,Design & Creative,Mid
+3893,Sales Designer,Design & Creative,Mid
+3898,Financial Developer,Software & Engineering,Mid
+3924,Communications Clerk,Marketing & Growth,Unspecified
+3925,Environmental Director,Agriculture & Environment,Director
+3926,Processing Analyst,General / Cross-functional,Mid
+3929,Team Assistant,General / Cross-functional,Junior / Entry
+3955,Line Driver,Operations & Supply Chain,Unspecified
+3957,Stock Worker,General / Cross-functional,Unspecified
+3962,Education Associate,Education & Training,Junior / Entry
+3969,Physical Therapist Center Manager,Healthcare & Medical,Manager
+3972,Painter Assistant,Manufacturing & Skilled Trades,Junior / Entry
+3973,Assurance Specialist,General / Cross-functional,Mid
+3989,Construction Analyst,Construction & Real Estate,Mid
+4001,Hanger,Other,Unspecified
+4007,Chief Business Development Officer,Sales & Business Development,C-Level
+4009,City Manager,"Public Sector, Defense & Safety",Manager
+4010,Storage Manager,General / Cross-functional,Manager
+4017,Plastic Technician,Manufacturing & Skilled Trades,Unspecified
+4031,Parts Coordinator,Administration & Office Support,Unspecified
+4051,Cutter Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+4062,Cashier Supervisor,Sales & Business Development,Manager
+4066,Industrial Relations Worker,General / Cross-functional,Unspecified
+4078,Customer Account Coordinator,Customer Success & Support,Unspecified
+4085,Farm Consultant,Agriculture & Environment,Mid
+4087,Tire Technician,Manufacturing & Skilled Trades,Unspecified
+4089,Solutions Operator,Manufacturing & Skilled Trades,Unspecified
+4090,Process Developer,Software & Engineering,Mid
+4091,Media Clerk,Administration & Office Support,Unspecified
+4092,Delivery,Other,Unspecified
+4093,Intelligence Engineer,Other,Mid
+4095,Structural Manager,General / Cross-functional,Manager
+4097,Application Assistant,General / Cross-functional,Junior / Entry
+4098,Media Assistant,General / Cross-functional,Junior / Entry
+4103,Life Specialist,General / Cross-functional,Mid
+4104,Business Management Associate,General / Cross-functional,Junior / Entry
+4105,Care Management Associate,General / Cross-functional,Junior / Entry
+4106,Technical Associate,General / Cross-functional,Junior / Entry
+4107,Production Administrator,General / Cross-functional,Unspecified
+4109,Rubber,Other,Unspecified
+4112,Shop Teacher,Education & Training,Unspecified
+4114,Manufacturing Assistant,General / Cross-functional,Junior / Entry
+4116,Staff Assistant,General / Cross-functional,Senior
+4123,Production Hand,Manufacturing & Skilled Trades,Unspecified
+4134,Processing Clerk,Administration & Office Support,Unspecified
+4138,Processing Assistant,General / Cross-functional,Junior / Entry
+4140,Surgical Supervisor,Healthcare & Medical,Manager
+4141,Special Inspector,General / Cross-functional,Unspecified
+4142,Communications Director,Marketing & Growth,Director
+4144,Charge Manager,General / Cross-functional,Manager
+4148,Insulation Manager,General / Cross-functional,Manager
+4149,Process Safety Management Engineer,Other,Mid
+4170,Clinical Support Associate,Healthcare & Medical,Junior / Entry
+4171,Intelligence,Other,Unspecified
+4173,Production Tester,Manufacturing & Skilled Trades,Unspecified
+4180,Field Administrator,General / Cross-functional,Unspecified
+4186,Technology Coordinator,Administration & Office Support,Unspecified
+4188,Construction Assistant,Construction & Real Estate,Junior / Entry
+4189,Laboratory Inspector,Science & Research,Unspecified
+4191,Welder Assistant,Manufacturing & Skilled Trades,Junior / Entry
+4196,Press Helper,Manufacturing & Skilled Trades,Junior / Entry
+4198,Field Hand,Manufacturing & Skilled Trades,Unspecified
+4210,Industrial Machine System Technician,Manufacturing & Skilled Trades,Unspecified
+4218,Integration Manager,General / Cross-functional,Manager
+4219,Optical Manager,General / Cross-functional,Manager
+4225,Account Representative,General / Cross-functional,Unspecified
+4236,Yard Specialist,General / Cross-functional,Mid
+4237,Music Engineer,Other,Mid
+4238,Field Agent,General / Cross-functional,Unspecified
+4245,Process Mechanic,Manufacturing & Skilled Trades,Unspecified
+4253,Information Developer,Software & Engineering,Mid
+4256,Application Coordinator,Administration & Office Support,Unspecified
+4257,Executive Associate,General / Cross-functional,Junior / Entry
+4259,Quality Associate,General / Cross-functional,Junior / Entry
+4262,Web Consultant,General / Cross-functional,Mid
+4264,Media Director,General / Cross-functional,Director
+4266,Delivery Analyst,General / Cross-functional,Mid
+4278,Pilot Boat Operator,Manufacturing & Skilled Trades,Unspecified
+4286,Software Installer,Software & Engineering,Unspecified
+4287,Senior Technical Business Analyst,Product,Senior
+4288,Senior Technical Support Analyst,IT & Infrastructure,Senior
+4289,Technical Business Systems Analyst,General / Cross-functional,Mid
+4300,Consulting Manager,General / Cross-functional,Manager
+4302,Traffic Worker,General / Cross-functional,Unspecified
+4321,Motor Analyst,General / Cross-functional,Mid
+4328,Entry Engineer,Other,Mid
+4332,Project Administrator,General / Cross-functional,Unspecified
+4334,Test Consultant,General / Cross-functional,Mid
+4343,Front Worker,General / Cross-functional,Unspecified
+4344,Tube Worker,General / Cross-functional,Unspecified
+4345,Senior Information Security Engineer,Cybersecurity,Senior
+4348,Hospital Technician,Healthcare & Medical,Unspecified
+4350,Field Nurse,Healthcare & Medical,Unspecified
+4370,Principal Engineer,Education & Training,Director
+4392,Physical Therapist Technician,Healthcare & Medical,Unspecified
+4394,Burner,Other,Unspecified
+4404,Hospice Manager,Healthcare & Medical,Manager
+4406,Payroll Manager,Finance & Accounting,Manager
+4409,Ship Manager,General / Cross-functional,Manager
+4410,Construction Coordinator,Construction & Real Estate,Unspecified
+4411,Patient Coordinator,Healthcare & Medical,Unspecified
+4412,Furnace Clerk,Administration & Office Support,Unspecified
+4417,Construction Director,Construction & Real Estate,Director
+4418,IT Assistant,General / Cross-functional,Junior / Entry
+4422,Physician Representative,Healthcare & Medical,Unspecified
+4426,Maintenance Helper,Manufacturing & Skilled Trades,Junior / Entry
+4431,Yard Operator,Manufacturing & Skilled Trades,Unspecified
+4436,Room Designer,Design & Creative,Mid
+4437,Utility Engineer,Energy & Utilities,Mid
+4450,Research Nurse,Healthcare & Medical,Unspecified
+4461,Professional Driver,Operations & Supply Chain,Unspecified
+4462,Floor Clerk,Administration & Office Support,Unspecified
+4463,Body Worker,General / Cross-functional,Unspecified
+4470,Regional Engineer,Other,Mid
+4472,Bridge Manager,General / Cross-functional,Manager
+4477,Nutrition Manager,General / Cross-functional,Manager
+4497,Delivery Clerk,Administration & Office Support,Unspecified
+4498,Dispatcher Clerk,Operations & Supply Chain,Unspecified
+4501,Occupational Therapy Manager,Healthcare & Medical,Manager
+4503,Account Associate,General / Cross-functional,Junior / Entry
+4504,Parts Consultant,General / Cross-functional,Mid
+4505,Delivery Assistant,General / Cross-functional,Junior / Entry
+4507,Senior Software Quality Analyst,Software & Engineering,Senior
+4515,Public Relations Account Supervisor,Marketing & Growth,Manager
+4516,Scrum Master,Product,Unspecified
+4518,Printing Engineer,Other,Mid
+4520,Site Specialist,General / Cross-functional,Mid
+4525,Administrative Analyst,Administration & Office Support,Mid
+4532,Customer Support Consultant,Customer Success & Support,Mid
+4533,Network Director,General / Cross-functional,Director
+4535,Wood Inspector,General / Cross-functional,Unspecified
+4548,Community Health Nurse Supervisor,Healthcare & Medical,Manager
+4551,Software Administrator,Software & Engineering,Unspecified
+4553,Mixer Attendant,Manufacturing & Skilled Trades,Unspecified
+4563,Solution Manager,General / Cross-functional,Manager
+4564,SQL Manager,General / Cross-functional,Manager
+4565,Veterinary Manager,General / Cross-functional,Manager
+4567,Case Assistant,General / Cross-functional,Junior / Entry
+4569,Engineering Administrator,General / Cross-functional,Mid
+4570,Manufacturing Teacher,Education & Training,Unspecified
+4574,Auto Glass Worker,General / Cross-functional,Unspecified
+4575,Distribution Specialist,Operations & Supply Chain,Mid
+4576,Practice Specialist,General / Cross-functional,Mid
+4580,Mail Technician,Administration & Office Support,Unspecified
+4581,Underwriter,Finance & Accounting,Unspecified
+4583,Packer Inspector,Operations & Supply Chain,Unspecified
+4584,Physical Medicine Specialist,General / Cross-functional,Mid
+4585,Belt Operator,Manufacturing & Skilled Trades,Unspecified
+4586,Lab Analyst,General / Cross-functional,Mid
+4590,Crew Clerk,Administration & Office Support,Unspecified
+4594,Coach Mechanic,Education & Training,Unspecified
+4595,Computer Mechanic,Manufacturing & Skilled Trades,Unspecified
+4597,Advertising Supervisor,Marketing & Growth,Manager
+4600,Emergency Medical Service Manager,Healthcare & Medical,Manager
+4610,Water Resources Project Manager,Product,Manager
+4611,Yard Supervisor,General / Cross-functional,Manager
+4615,IT Coordinator,Administration & Office Support,Unspecified
+4616,Project Designer,Design & Creative,Mid
+4630,Unit Clerk,Administration & Office Support,Unspecified
+4631,Engineering Agent,General / Cross-functional,Mid
+4633,Order Processing Specialist,General / Cross-functional,Mid
+4634,Sales Order Specialist,Sales & Business Development,Mid
+4636,Mechanical Technical Service Specialist,General / Cross-functional,Mid
+4637,Unit Assistant,General / Cross-functional,Junior / Entry
+4638,Cleaning Specialist,General / Cross-functional,Mid
+4640,Pattern Technician,Manufacturing & Skilled Trades,Unspecified
+4645,Sales Consultant Residential Manager,Sales & Business Development,Manager
+4647,Change Manager,General / Cross-functional,Manager
+4654,Review Manager,General / Cross-functional,Manager
+4657,Home Attendant,Other,Unspecified
+4659,Coverer,Other,Unspecified
+4660,Construction Teacher,Education & Training,Unspecified
+4662,Liaison Engineer,General / Cross-functional,Mid
+4663,Physical Therapy Supervisor,Healthcare & Medical,Manager
+4664,Plant Tender,Manufacturing & Skilled Trades,Unspecified
+4690,Floor Director,General / Cross-functional,Director
+4691,Industrial Engineering Director,Manufacturing & Skilled Trades,Director
+4693,Room Service Associate,General / Cross-functional,Junior / Entry
+4694,Water Resource Project Manager,Product,Manager
+4695,Patient Financial Services Specialist,Finance & Accounting,Mid
+4700,Research Test Engine Operator,Science & Research,Unspecified
+4701,Safety Representative,General / Cross-functional,Unspecified
+4702,Stripper,Other,Unspecified
+4703,Door Operator,Manufacturing & Skilled Trades,Unspecified
+4705,Center Lead Consultant,General / Cross-functional,Manager
+4707,Data Center Consultant,General / Cross-functional,Mid
+4708,Delivery Coordinator,Administration & Office Support,Unspecified
+4710,Medicine Worker,General / Cross-functional,Unspecified
+4715,Product Support Consultant,General / Cross-functional,Mid
+4719,Office Manager Executive Assistant,Administration & Office Support,Manager
+4720,Front Desk Specialist,Customer Success & Support,Mid
+4722,Production Helper,Manufacturing & Skilled Trades,Junior / Entry
+4724,Meat,Other,Unspecified
+4725,Delivery Director,General / Cross-functional,Director
+4730,Administrative Clerk,Administration & Office Support,Unspecified
+4737,Meat Processing Center Manager,General / Cross-functional,Manager
+4738,Electrical Engineering Director,Engineering (Non-Software),Director
+4739,Academic Manager,Education & Training,Manager
+4741,Instructional Manager,General / Cross-functional,Manager
+4743,Molding Manager,General / Cross-functional,Manager
+4745,Radiology Manager,Healthcare & Medical,Manager
+4746,Receiving Manager,Operations & Supply Chain,Manager
+4748,Apprentice Architect,Design & Creative,Junior / Entry
+4754,Tier,Other,Unspecified
+4756,Door Technician,Manufacturing & Skilled Trades,Unspecified
+4759,Order Worker,General / Cross-functional,Unspecified
+4761,Transportation Technician,Operations & Supply Chain,Unspecified
+4766,Auto Inspector,General / Cross-functional,Unspecified
+4767,Glass Inspector,General / Cross-functional,Unspecified
+4784,Oracle Engineer,Other,Mid
+4785,Solutions Engineer,Other,Mid
+4788,Client Analyst,General / Cross-functional,Mid
+4789,Case Coordinator,Administration & Office Support,Unspecified
+4799,Oil Inspector,Energy & Utilities,Unspecified
+4800,Roller Inspector,General / Cross-functional,Unspecified
+4801,Staff Consultant,General / Cross-functional,Senior
+4802,Plant Attendant OR Assistant Operator,Manufacturing & Skilled Trades,Junior / Entry
+4804,Program Administrator,General / Cross-functional,Unspecified
+4805,Lab Clerk,Administration & Office Support,Unspecified
+4809,Emergency Medicine Specialist,General / Cross-functional,Mid
+4815,Inspector and Tester,Manufacturing & Skilled Trades,Unspecified
+4817,Head Nurse,Healthcare & Medical,Unspecified
+4832,Computer Network Support Specialist,Customer Success & Support,Mid
+4836,Provider,Other,Unspecified
+4839,Crew Director,General / Cross-functional,Director
+4841,Accounts Specialist,General / Cross-functional,Mid
+4842,Learning Specialist,General / Cross-functional,Mid
+4844,Software Support Representative,Software & Engineering,Unspecified
+4845,Cell Operator,Manufacturing & Skilled Trades,Unspecified
+4863,Track Supervisor,General / Cross-functional,Manager
+4864,Compliance,Finance & Accounting,Unspecified
+4865,Fire Control Assistant,General / Cross-functional,Junior / Entry
+4872,Engineering Designer,Design & Creative,Mid
+4873,Automatic Developer,Software & Engineering,Mid
+4874,House Officer,General / Cross-functional,Unspecified
+4875,Business Development Agent,Sales & Business Development,Unspecified
+4881,Farm Mechanic,Agriculture & Environment,Unspecified
+4910,Cutter Machine,Manufacturing & Skilled Trades,Unspecified
+4912,Financial Operations Consultant,Finance & Accounting,Mid
+4918,IT Teacher,Education & Training,Unspecified
+4919,Property Worker,General / Cross-functional,Unspecified
+4920,Store Worker,General / Cross-functional,Unspecified
+4922,Database Operator,Manufacturing & Skilled Trades,Unspecified
+4925,Travel Specialist,"Hospitality, Food & Travel",Mid
+4926,Senior Clinical Data Coordinator,Healthcare & Medical,Senior
+4928,Transportation Supervisor,Operations & Supply Chain,Manager
+4937,Clinical Data Management Director,Healthcare & Medical,Director
+4938,Stock Clerk,Administration & Office Support,Unspecified
+4941,Product Representative,General / Cross-functional,Unspecified
+4944,IT Technical Support Specialist,IT & Infrastructure,Mid
+4945,Project Management IT Specialist,IT & Infrastructure,Mid
+4948,Coating Manager,General / Cross-functional,Manager
+4955,Mill Representative,Manufacturing & Skilled Trades,Unspecified
+4956,Retail Representative,General / Cross-functional,Unspecified
+4957,Surgery Manager,General / Cross-functional,Manager
+4959,Database Technician,Manufacturing & Skilled Trades,Unspecified
+4961,Line Installer,Manufacturing & Skilled Trades,Unspecified
+4964,Music Therapy Specialist,Healthcare & Medical,Mid
+4965,Nursing Clerk,Healthcare & Medical,Unspecified
+4972,Entry Level Manager,General / Cross-functional,Manager
+4983,Wrapper Operator,Manufacturing & Skilled Trades,Unspecified
+4987,Administrative Director,Administration & Office Support,Director
+4990,Estate,Other,Unspecified
+4996,Test Developer,Software & Engineering,Mid
+4999,Safety Instructor,Education & Training,Unspecified
+5000,Police Worker,"Public Sector, Defense & Safety",Unspecified
+5007,Safety Associate,General / Cross-functional,Junior / Entry
+5036,Program Architect,Design & Creative,Unspecified
+5042,Feeder Driver,Operations & Supply Chain,Unspecified
+5043,Security Nurse,Healthcare & Medical,Unspecified
+5050,Customer Associate,General / Cross-functional,Junior / Entry
+5059,Wire Inspector,General / Cross-functional,Unspecified
+5061,Security Architect,Cybersecurity,Unspecified
+5067,Business Services Sales Representative,Sales & Business Development,Unspecified
+5069,Cleaning Supervisor,General / Cross-functional,Manager
+5072,Driller Operator,Manufacturing & Skilled Trades,Unspecified
+5079,Licensed Psychologist Manager,Healthcare & Medical,Manager
+5082,Compliance Clerk,Finance & Accounting,Unspecified
+5083,Counter,Operations & Supply Chain,Unspecified
+5084,Internal Specialist,General / Cross-functional,Mid
+5085,Lab Coordinator,Administration & Office Support,Unspecified
+5086,Motor Teacher,Education & Training,Unspecified
+5087,Hot Worker,General / Cross-functional,Unspecified
+5088,Assistant Front End Manager,Software & Engineering,Manager
+5090,Compliance Assistant,Finance & Accounting,Junior / Entry
+5092,Bilingual Manager,General / Cross-functional,Manager
+5094,Jewelry Manager,General / Cross-functional,Manager
+5095,Pumper,Other,Unspecified
+5096,Scientific Manager,General / Cross-functional,Manager
+5097,Fitter Mechanic,Manufacturing & Skilled Trades,Unspecified
+5098,Lab Director,General / Cross-functional,Director
+5099,Setter Helper,Manufacturing & Skilled Trades,Junior / Entry
+5100,Tank Inspector,General / Cross-functional,Unspecified
+5101,Freight Engineer,Operations & Supply Chain,Mid
+5103,Order Entry Specialist,General / Cross-functional,Mid
+5104,Parts Counter Specialist,Operations & Supply Chain,Mid
+5112,Public Health Analyst,"Public Sector, Defense & Safety",Mid
+5134,Lead Software Test Engineer,Software & Engineering,Manager
+5135,Network Operations Center Technician,Operations & Supply Chain,Unspecified
+5137,Senior Software Test Engineer,Software & Engineering,Senior
+5143,Telephone Technician,Manufacturing & Skilled Trades,Unspecified
+5144,Music Worker,General / Cross-functional,Unspecified
+5146,Artist Consultant,Design & Creative,Mid
+5147,Traffic Analyst,General / Cross-functional,Mid
+5149,Grain Operator,Manufacturing & Skilled Trades,Unspecified
+5150,Outside Operator,Manufacturing & Skilled Trades,Unspecified
+5151,Financial Representative,Finance & Accounting,Unspecified
+5153,Brake Specialist,General / Cross-functional,Mid
+5154,Branch Specialist,General / Cross-functional,Mid
+5177,Registered Nurse Supervisor,Healthcare & Medical,Manager
+5182,Model,Other,Unspecified
+5183,Safety Attendant,Other,Unspecified
+5187,Aircraft Electrical Systems Specialist,General / Cross-functional,Mid
+5188,Farmworker,Other,Unspecified
+5190,High Risk Case Manager,General / Cross-functional,Manager
+5191,Laborer Driver,Operations & Supply Chain,Unspecified
+5192,Adult Manager,General / Cross-functional,Manager
+5194,Custodian Manager,General / Cross-functional,Manager
+5195,Die Inspector,General / Cross-functional,Unspecified
+5196,Document Manager,General / Cross-functional,Manager
+5197,Logistics Technician,Operations & Supply Chain,Unspecified
+5199,Model Technician,Manufacturing & Skilled Trades,Unspecified
+5200,Range Manager,General / Cross-functional,Manager
+5203,Senior Engineering Associate,General / Cross-functional,Senior
+5206,Technical Administrator,General / Cross-functional,Unspecified
+5211,Programmer Developer,Software & Engineering,Mid
+5214,Credit Assistant,Finance & Accounting,Junior / Entry
+5215,Shop Mechanic,Manufacturing & Skilled Trades,Unspecified
+5224,Yard Engineer,Other,Mid
+5225,Prevention Specialist,"Hospitality, Food & Travel",Mid
+5227,Television Specialist,"Media, Sports & Entertainment",Mid
+5240,Court Worker,Legal,Unspecified
+5241,Nursing Coordinator,Healthcare & Medical,Unspecified
+5242,Assembly Mechanic,Manufacturing & Skilled Trades,Unspecified
+5244,Water Mechanic,Manufacturing & Skilled Trades,Unspecified
+5245,School Nurse,Healthcare & Medical,Unspecified
+5248,Nursing Director,Healthcare & Medical,Director
+5258,Education Nurse,Healthcare & Medical,Unspecified
+5259,Feeder Associate,Manufacturing & Skilled Trades,Junior / Entry
+5261,Marketing Lead,Marketing & Growth,Manager
+5262,Medical Lead,Healthcare & Medical,Manager
+5263,Sales Lead,Sales & Business Development,Manager
+5264,Cloth Inspector,General / Cross-functional,Unspecified
+5266,Pump Technician,Manufacturing & Skilled Trades,Unspecified
+5270,Tool and Die Supervisor,Manufacturing & Skilled Trades,Manager
+5271,Training Analyst,General / Cross-functional,Mid
+5276,Meter Supervisor,General / Cross-functional,Manager
+5280,Boiler Engineer,Other,Mid
+5281,Cable Engineer,Other,Mid
+5282,Delivery Consultant,General / Cross-functional,Mid
+5292,Steel Worker,General / Cross-functional,Unspecified
+5297,Client Director,General / Cross-functional,Director
+5301,Field Technical Support Consultant,IT & Infrastructure,Mid
+5302,Changer,Other,Unspecified
+5303,Maintenance Shop Clerk,Administration & Office Support,Unspecified
+5305,Therapy,Healthcare & Medical,Unspecified
+5307,Industrial Safety and Health Technician,Manufacturing & Skilled Trades,Unspecified
+5326,Art Therapy Specialist,Healthcare & Medical,Mid
+5328,Claims Account Specialist,Finance & Accounting,Mid
+5331,Front End Specialist,Software & Engineering,Mid
+5332,Insurance Claims Specialist,Finance & Accounting,Mid
+5333,Lift Manager,General / Cross-functional,Manager
+5335,Operating Manager,General / Cross-functional,Manager
+5336,Partner Manager,Executive & General Management,Manager
+5339,Title Manager,General / Cross-functional,Manager
+5363,Talent Solutions Manager,General / Cross-functional,Manager
+5366,Apprentice Plant Attendant,Other,Junior / Entry
+5369,Delivery Crew Worker,General / Cross-functional,Unspecified
+5370,Fire Crew Worker,General / Cross-functional,Unspecified
+5372,Trader,Finance & Accounting,Unspecified
+5374,Commercial Field Inspector,General / Cross-functional,Unspecified
+5381,Box Inspector,General / Cross-functional,Unspecified
+5385,Public Relations Assistant,Marketing & Growth,Junior / Entry
+5387,Utility Worker,Energy & Utilities,Unspecified
+5388,Water Quality Assistant,General / Cross-functional,Junior / Entry
+5389,Wheel Worker,General / Cross-functional,Unspecified
+5390,Associate Chief Nurse,Healthcare & Medical,C-Level
+5391,Crane Engineer,Manufacturing & Skilled Trades,Mid
+5393,Logistics Supervisor,Operations & Supply Chain,Manager
+5394,Materials Supervisor,Operations & Supply Chain,Manager
+5397,Inspector Repairer,Manufacturing & Skilled Trades,Unspecified
+5399,Case Consultant,General / Cross-functional,Mid
+5401,Counter Intelligence Technician,Manufacturing & Skilled Trades,Unspecified
+5403,Order Entry Technician,Manufacturing & Skilled Trades,Unspecified
+5407,Loan Analyst,General / Cross-functional,Mid
+5408,Operations Research Group Manager,Science & Research,Manager
+5409,Office Agent,General / Cross-functional,Unspecified
+5410,Police,"Public Sector, Defense & Safety",Unspecified
+5414,Line Tester,Manufacturing & Skilled Trades,Unspecified
+5415,Traffic Clerk,Administration & Office Support,Unspecified
+5416,Warehouse Clerk,Operations & Supply Chain,Unspecified
+5417,Floor Inspector,General / Cross-functional,Unspecified
+5418,Finance Specialist,Finance & Accounting,Mid
+5419,Traffic Assistant,General / Cross-functional,Junior / Entry
+5420,Warehouse Assistant,Operations & Supply Chain,Junior / Entry
+5422,Operations Lead,Operations & Supply Chain,Manager
+5442,Senior Business Architect,Design & Creative,Senior
+5447,Oil Developer,Software & Engineering,Mid
+5448,Plant Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+5449,Concrete Analyst,General / Cross-functional,Mid
+5461,Account Installer,Manufacturing & Skilled Trades,Unspecified
+5464,Game Technician,Manufacturing & Skilled Trades,Unspecified
+5465,Golf Technician,Manufacturing & Skilled Trades,Unspecified
+5466,Rehabilitation Technician,Manufacturing & Skilled Trades,Unspecified
+5469,Technical Architect,Design & Creative,Unspecified
+5472,Flight Control Specialist,General / Cross-functional,Mid
+5476,Mill Attendant,Manufacturing & Skilled Trades,Unspecified
+5477,Retail Attendant,Other,Unspecified
+5481,Family Assistant,General / Cross-functional,Junior / Entry
+5482,Fishing Manager,General / Cross-functional,Manager
+5485,Photo Manager,General / Cross-functional,Manager
+5486,Player Manager,General / Cross-functional,Manager
+5487,Distributor,Other,Unspecified
+5489,Executive Administrator,General / Cross-functional,Unspecified
+5490,Security Control Room Officer,General / Cross-functional,Unspecified
+5491,Erector Operator,Manufacturing & Skilled Trades,Unspecified
+5492,Television Operator,Manufacturing & Skilled Trades,Unspecified
+5493,Weigher Operator,Manufacturing & Skilled Trades,Unspecified
+5495,Credit Coordinator,Finance & Accounting,Unspecified
+5496,Hand Cutter,Manufacturing & Skilled Trades,Unspecified
+5497,Machine Cutter,Manufacturing & Skilled Trades,Unspecified
+5498,End Worker,General / Cross-functional,Unspecified
+5499,Financial Associate,Finance & Accounting,Junior / Entry
+5500,Credit Director,IT & Infrastructure,Director
+5501,Human Services Care Specialist,General / Cross-functional,Mid
+5502,Human Services Program Specialist,General / Cross-functional,Mid
+5503,Tester Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+5504,Tank Officer,General / Cross-functional,Unspecified
+5505,Billing Specialist,Finance & Accounting,Mid
+5506,Compensation Specialist,Human Resources & Recruiting,Mid
+5507,Improvement Specialist,General / Cross-functional,Mid
+5508,Labor Specialist,General / Cross-functional,Mid
+5512,Server Engineer,"Hospitality, Food & Travel",Mid
+5519,Sports Medicine Specialist,"Media, Sports & Entertainment",Mid
+5527,Technology Support Analyst,General / Cross-functional,Mid
+5529,Bench Technician,Manufacturing & Skilled Trades,Unspecified
+5530,Television Technician,"Media, Sports & Entertainment",Unspecified
+5532,Assistant Food Service Director,"Hospitality, Food & Travel",Director
+5535,Java Analyst,General / Cross-functional,Mid
+5537,Office Nurse,Healthcare & Medical,Unspecified
+5539,Board Worker,General / Cross-functional,Unspecified
+5540,Runner Worker,"Hospitality, Food & Travel",Unspecified
+5545,Planning Assistant,General / Cross-functional,Junior / Entry
+5547,Training Assistant,General / Cross-functional,Junior / Entry
+5549,Commercial Driver,Operations & Supply Chain,Unspecified
+5561,Security Operations Center Analyst,Operations & Supply Chain,Mid
+5563,Java Lead Engineer,General / Cross-functional,Manager
+5570,Technical Designer,Design & Creative,Mid
+5574,Electric Motor Repair Supervisor,General / Cross-functional,Manager
+5577,Staff Developer,Software & Engineering,Senior
+5582,Dairy Specialist,General / Cross-functional,Mid
+5583,News Specialist,"Media, Sports & Entertainment",Mid
+5584,Route Specialist,General / Cross-functional,Mid
+5586,Talent Specialist,General / Cross-functional,Mid
+5590,Forensic Manager,General / Cross-functional,Manager
+5591,HVAC Manager,Manufacturing & Skilled Trades,Manager
+5594,Ticket Manager,General / Cross-functional,Manager
+5600,High Worker,General / Cross-functional,Unspecified
+5620,Lead Assembler,Manufacturing & Skilled Trades,Manager
+5622,Insurance Instructor,Education & Training,Unspecified
+5623,Rehabilitation Supervisor,General / Cross-functional,Manager
+5639,Physical Director,General / Cross-functional,Director
+5648,Glass Mechanic,Manufacturing & Skilled Trades,Unspecified
+5649,Client Solutions Specialist,General / Cross-functional,Mid
+5650,Customer Solutions Specialist,General / Cross-functional,Mid
+5651,Group Insurance Specialist,General / Cross-functional,Mid
+5657,Loan Clerk,Administration & Office Support,Unspecified
+5658,Development Lead,General / Cross-functional,Manager
+5659,Aircraft Engine Mechanic Supervisor,Manufacturing & Skilled Trades,Manager
+5671,Loan Assistant,General / Cross-functional,Junior / Entry
+5673,Video Engineer,Other,Mid
+5674,Equipment Lead,General / Cross-functional,Manager
+5684,Client Application Support Specialist,Customer Success & Support,Mid
+5702,Library Specialist,General / Cross-functional,Mid
+5703,Mortgage Specialist,General / Cross-functional,Mid
+5705,Roller Mechanic,Manufacturing & Skilled Trades,Unspecified
+5706,SAP Specialist,General / Cross-functional,Mid
+5709,Traffic Director,General / Cross-functional,Director
+5710,Warehouse Director,Operations & Supply Chain,Director
+5717,Flight Radio Operator,Manufacturing & Skilled Trades,Unspecified
+5721,Quality Nurse,Healthcare & Medical,Unspecified
+5722,Senior Manufacturing Test Engineer,Software & Engineering,Senior
+5723,Legal Clerk,Legal,Unspecified
+5726,District Supervisor,General / Cross-functional,Manager
+5728,Order Analyst,General / Cross-functional,Mid
+5733,Monitor Technician,Manufacturing & Skilled Trades,Unspecified
+5735,Solar Sales Specialist,Sales & Business Development,Mid
+5741,Air Quality Instrument Specialist,General / Cross-functional,Mid
+5742,Oil Program Compliance Specialist,Finance & Accounting,Mid
+5743,Building Coordinator,Administration & Office Support,Unspecified
+5744,Clerical Manager,General / Cross-functional,Manager
+5745,Coding Manager,General / Cross-functional,Manager
+5748,Gas Attendant,Energy & Utilities,Unspecified
+5750,Search Manager,General / Cross-functional,Manager
+5758,Senior Mechanical Project Engineer,Engineering (Non-Software),Senior
+5759,Can Operator,Manufacturing & Skilled Trades,Unspecified
+5760,Labor Operator,Manufacturing & Skilled Trades,Unspecified
+5768,Auto Parts Clerk,Administration & Office Support,Unspecified
+5769,Processor Inspector,General / Cross-functional,Unspecified
+5770,Education Program Associate,Education & Training,Junior / Entry
+5779,Design Agent,General / Cross-functional,Unspecified
+5782,Paint Specialist,General / Cross-functional,Mid
+5791,Electrical Power Station Technician,Manufacturing & Skilled Trades,Unspecified
+5792,Global Marketing Operations Manager,Marketing & Growth,Manager
+5796,Power Plant Assistant,Energy & Utilities,Junior / Entry
+5798,Can Technician,Manufacturing & Skilled Trades,Unspecified
+5807,Group Worker,General / Cross-functional,Unspecified
+5816,Diesel Engineer,Other,Mid
+5818,Systems Lead,General / Cross-functional,Manager
+5820,Tire Builder Operator,Manufacturing & Skilled Trades,Unspecified
+5823,Quality Control Representative,General / Cross-functional,Unspecified
+5824,Therapy Coordinator,Healthcare & Medical,Unspecified
+5827,Fur Operator,Manufacturing & Skilled Trades,Unspecified
+5829,Manufacturing Mechanic,Manufacturing & Skilled Trades,Unspecified
+5830,Clinician,Healthcare & Medical,Unspecified
+5834,Planning Director,General / Cross-functional,Director
+5835,Product Safety Technical Assistant,General / Cross-functional,Junior / Entry
+5836,Therapy Director,Healthcare & Medical,Director
+5841,Die Developer,Software & Engineering,Mid
+5855,Outreach Manager,General / Cross-functional,Manager
+5857,Respiratory Manager,Healthcare & Medical,Manager
+5858,Teller Manager,General / Cross-functional,Manager
+5859,Welfare Manager,General / Cross-functional,Manager
+5860,Career Specialist,General / Cross-functional,Mid
+5861,Nursing Consultant,Healthcare & Medical,Mid
+5862,Captain Assistant,General / Cross-functional,Junior / Entry
+5864,Property Analyst,General / Cross-functional,Mid
+5865,Station Inspector,General / Cross-functional,Unspecified
+5868,Home Agent,General / Cross-functional,Unspecified
+5877,Group Chief Operator,Manufacturing & Skilled Trades,C-Level
+5887,Business Intelligence Engineer,Data & AI,Mid
+5890,Media Center Assistant,General / Cross-functional,Junior / Entry
+5892,Boiler,Other,Unspecified
+5897,Child Life Specialist,General / Cross-functional,Mid
+5898,Life Insurance Specialist,General / Cross-functional,Mid
+5899,Client Consultant,General / Cross-functional,Mid
+5901,Technical Support Associate,IT & Infrastructure,Junior / Entry
+5903,Recovery Operator,Manufacturing & Skilled Trades,Unspecified
+5905,Pilot Teacher,Education & Training,Unspecified
+5906,Mold Inspector,Manufacturing & Skilled Trades,Unspecified
+5907,Paper Inspector,General / Cross-functional,Unspecified
+5910,Loan Coordinator,Administration & Office Support,Unspecified
+5911,Medicine Assistant,General / Cross-functional,Junior / Entry
+5915,Intern Architect,Design & Creative,Junior / Entry
+5916,Wirer,Other,Unspecified
+5926,Department Administrator,General / Cross-functional,Unspecified
+5941,Color Specialist,General / Cross-functional,Mid
+5943,Shipping Specialist,Operations & Supply Chain,Mid
+5944,Billing Supervisor,Finance & Accounting,Manager
+5945,Compensation Supervisor,Human Resources & Recruiting,Manager
+5946,Labor Supervisor,General / Cross-functional,Manager
+5949,Network Operations Center Engineer,Operations & Supply Chain,Mid
+5950,Public Health Teacher,Education & Training,Unspecified
+5951,Public Safety Teacher,Education & Training,Unspecified
+5953,Senior Network Security Engineer,Cybersecurity,Senior
+5954,Senior Network Systems Engineer,Other,Senior
+5956,Water Safety Teacher,Education & Training,Unspecified
+5960,Learning Engineer,Other,Mid
+5961,Meter Engineer,Other,Mid
+5962,Telephone Engineer,Other,Mid
+5963,Electrician Assistant,Manufacturing & Skilled Trades,Junior / Entry
+5964,Legal Coordinator,Legal,Unspecified
+5965,Printer Assistant,General / Cross-functional,Junior / Entry
+5966,Contract Technician,Manufacturing & Skilled Trades,Unspecified
+5969,Senior Business Process Analyst,General / Cross-functional,Senior
+5991,Chemistry Manager,Science & Research,Manager
+5994,Dining Manager,General / Cross-functional,Manager
+5995,Feed Manager,General / Cross-functional,Manager
+5997,Landscape Manager,Agriculture & Environment,Manager
+6012,Resource Analyst,General / Cross-functional,Mid
+6023,Tire Center Supervisor,General / Cross-functional,Manager
+6039,Mounter,Other,Unspecified
+6040,Storage Specialist,General / Cross-functional,Mid
+6054,Press Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+6055,Press Worker Helper,Manufacturing & Skilled Trades,Junior / Entry
+6057,Wood Shop Teacher,Education & Training,Unspecified
+6058,Accountant Clerk,Finance & Accounting,Unspecified
+6060,Desk Clerk,Administration & Office Support,Unspecified
+6064,Line Helper,Manufacturing & Skilled Trades,Junior / Entry
+6066,Die Mechanic,Manufacturing & Skilled Trades,Unspecified
+6067,Acid Operator,Manufacturing & Skilled Trades,Unspecified
+6098,Account Maintenance Representative,Manufacturing & Skilled Trades,Unspecified
+6110,Intelligence Group Supervisor,General / Cross-functional,Manager
+6111,Nuclear Medicine Supervisor,Energy & Utilities,Manager
+6120,Clinical Data Associate,Healthcare & Medical,Junior / Entry
+6121,Data Management Associate,General / Cross-functional,Junior / Entry
+6125,Dean,Education & Training,Director
+6126,Intelligence Clerk,Administration & Office Support,Unspecified
+6129,Store Clerk,Administration & Office Support,Unspecified
+6130,Shift Engineer,Other,Mid
+6134,Store Assistant,General / Cross-functional,Junior / Entry
+6138,Management Lead,General / Cross-functional,Manager
+6139,Signal Supervisor,General / Cross-functional,Manager
+6151,Drilling Manager,Energy & Utilities,Manager
+6154,Living Manager,General / Cross-functional,Manager
+6155,Owner Manager,Executive & General Management,C-Level
+6159,Pharmacy Analyst,Healthcare & Medical,Mid
+6161,Home Office Representative,General / Cross-functional,Unspecified
+6162,Tree Specialist,General / Cross-functional,Mid
+6163,Home Designer,Design & Creative,Mid
+6166,Food Tester,Manufacturing & Skilled Trades,Unspecified
+6172,Quality Control Associate,General / Cross-functional,Junior / Entry
+6174,Therapy Teacher,Healthcare & Medical,Unspecified
+6176,Professional Nurse,Healthcare & Medical,Unspecified
+6189,Associate Media Director,General / Cross-functional,Director
+6194,Professional Architect,Design & Creative,Unspecified
+6196,Social Media Director,Marketing & Growth,Director
+6197,Internship Coordinator,Administration & Office Support,Junior / Entry
+6201,Maintainer,Other,Unspecified
+6203,Material Clerk,Administration & Office Support,Unspecified
+6206,Energy Assistant,Energy & Utilities,Junior / Entry
+6207,Material Assistant,General / Cross-functional,Junior / Entry
+6208,Burner Operator,Manufacturing & Skilled Trades,Unspecified
+6211,Medical Staff Coordinator,Healthcare & Medical,Senior
+6212,Planning Management IT Specialist,IT & Infrastructure,Mid
+6220,Compensation Consulting Manager,Human Resources & Recruiting,Manager
+6247,Customer Service Representative Teacher,Education & Training,Unspecified
+6248,Entry Analyst,General / Cross-functional,Mid
+6259,Lead Setter,Manufacturing & Skilled Trades,Manager
+6263,Furnace Mechanic,Manufacturing & Skilled Trades,Unspecified
+6264,Electric Motor Analyst,General / Cross-functional,Mid
+6265,Information Systems Security Analyst,Cybersecurity,Mid
+6266,Senior Information Security Analyst,Cybersecurity,Senior
+6267,Casting Supervisor,"Media, Sports & Entertainment",Manager
+6269,Paint Supervisor,General / Cross-functional,Manager
+6272,Police Clerk,"Public Sector, Defense & Safety",Unspecified
+6277,Pilot Plant Research Technician,Science & Research,Unspecified
+6278,Residential Assistant,General / Cross-functional,Junior / Entry
+6282,Burner Technician,Manufacturing & Skilled Trades,Unspecified
+6284,Facility Specialist,General / Cross-functional,Mid
+6289,Shipping Technician,Operations & Supply Chain,Unspecified
+6291,Equipment Cleaner,Manufacturing & Skilled Trades,Unspecified
+6293,Machine Cleaner,Manufacturing & Skilled Trades,Unspecified
+6294,Press Cleaner,Manufacturing & Skilled Trades,Unspecified
+6296,Service Cleaner,Manufacturing & Skilled Trades,Unspecified
+6297,Steel Analyst,General / Cross-functional,Mid
+6298,Student Worker,General / Cross-functional,Junior / Entry
+6299,Yard Worker,General / Cross-functional,Unspecified
+6314,Air Traffic Control Operator,Manufacturing & Skilled Trades,Unspecified
+6315,Installer Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+6316,Maintenance Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+6318,Sales Apprentice,Sales & Business Development,Junior / Entry
+6319,Warehouse Consultant,Operations & Supply Chain,Mid
+6331,Brake Engineer,Other,Mid
+6332,Game Engineer,Other,Mid
+6333,Rehabilitation Engineer,Other,Mid
+6334,Assessment Manager,General / Cross-functional,Manager
+6336,CNC Manager,Manufacturing & Skilled Trades,Manager
+6338,Pathology Manager,General / Cross-functional,Manager
+6341,Child Care Development Specialist,General / Cross-functional,Mid
+6342,Floor Mechanic,Manufacturing & Skilled Trades,Unspecified
+6348,Breaker,Agriculture & Environment,Unspecified
+6371,Hospice Case Manager,Healthcare & Medical,Manager
+6377,Loss Prevention Manager,"Hospitality, Food & Travel",Manager
+6398,Care Tech,Manufacturing & Skilled Trades,Unspecified
+6399,Clinical Tech,Healthcare & Medical,Unspecified
+6400,Engineering Tech,Manufacturing & Skilled Trades,Mid
+6401,Equipment Tech,Manufacturing & Skilled Trades,Unspecified
+6402,Field Tech,Manufacturing & Skilled Trades,Unspecified
+6403,Health Tech,Manufacturing & Skilled Trades,Unspecified
+6404,Machine Tech,Manufacturing & Skilled Trades,Unspecified
+6405,Maintenance Tech,Manufacturing & Skilled Trades,Unspecified
+6406,Management Tech,Manufacturing & Skilled Trades,Unspecified
+6407,Medical Tech,Healthcare & Medical,Unspecified
+6408,Nurse Tech,Healthcare & Medical,Unspecified
+6409,Operations Tech,Operations & Supply Chain,Unspecified
+6413,Plant Tech,Manufacturing & Skilled Trades,Unspecified
+6414,Production Tech,Manufacturing & Skilled Trades,Unspecified
+6415,Research Tech,Science & Research,Unspecified
+6416,Service Tech,Manufacturing & Skilled Trades,Unspecified
+6417,Services Tech,Manufacturing & Skilled Trades,Unspecified
+6421,Acid Supervisor,General / Cross-functional,Manager
+6422,Restaurant Supervisor,"Hospitality, Food & Travel",Manager
+6423,Building Consultant,General / Cross-functional,Mid
+6424,Family Consultant,General / Cross-functional,Mid
+6428,Maintenance Mechanic Helper,Manufacturing & Skilled Trades,Junior / Entry
+6430,Project Management Professor,Education & Training,Unspecified
+6433,Yard Loader Operator,Manufacturing & Skilled Trades,Unspecified
+6434,Yard Motor Operator,Manufacturing & Skilled Trades,Unspecified
+6438,Meat Clerk,Administration & Office Support,Unspecified
+6440,Safety Administrator,General / Cross-functional,Unspecified
+6441,Hydraulic Specialist,General / Cross-functional,Mid
+6442,Integration Specialist,General / Cross-functional,Mid
+6446,Desk Director,General / Cross-functional,Director
+6450,Music Assistant,General / Cross-functional,Junior / Entry
+6451,Physician Practice Market Manager,Healthcare & Medical,Manager
+6452,Steam Fitter Supervisor,Manufacturing & Skilled Trades,Manager
+6453,Steam Station Supervisor,General / Cross-functional,Manager
+6454,Wood Boat Builder Supervisor,Manufacturing & Skilled Trades,Manager
+6456,District Engineer,Other,Mid
+6457,Television Engineer,"Media, Sports & Entertainment",Mid
+6465,Security Tech,Manufacturing & Skilled Trades,Unspecified
+6476,Dental Coordinator,Healthcare & Medical,Unspecified
+6479,Auto Body Worker,General / Cross-functional,Unspecified
+6481,Electronics Worker,General / Cross-functional,Unspecified
+6482,Computer Systems Design Analyst,General / Cross-functional,Mid
+6483,Computer Systems Security Analyst,Cybersecurity,Mid
+6484,Dental Director,Healthcare & Medical,Director
+6485,Intelligence Director,General / Cross-functional,Director
+6486,Pharmacy Clerk,Healthcare & Medical,Unspecified
+6488,Store Director,General / Cross-functional,Director
+6490,Nursing Officer,Healthcare & Medical,Unspecified
+6504,Drafter Assistant,Design & Creative,Junior / Entry
+6508,Shipping Supervisor,Operations & Supply Chain,Manager
+6509,Traffic Inspector,General / Cross-functional,Unspecified
+6514,Center Director Lead Teacher,Education & Training,Director
+6518,Player,Other,Unspecified
+6519,Special Delivery Clerk,Administration & Office Support,Unspecified
+6521,Copy Manager,Marketing & Growth,Manager
+6522,Customs Manager,Operations & Supply Chain,Manager
+6523,Imaging Manager,General / Cross-functional,Manager
+6524,Refrigeration Manager,General / Cross-functional,Manager
+6527,Account Service Associate,General / Cross-functional,Junior / Entry
+6528,Account Services Associate,General / Cross-functional,Junior / Entry
+6529,Account Support Associate,General / Cross-functional,Junior / Entry
+6530,Gear Technician,Manufacturing & Skilled Trades,Unspecified
+6531,Programmer Analyst Consultant,Software & Engineering,Mid
+6533,Structural Technician,Manufacturing & Skilled Trades,Unspecified
+6535,Delivery Driver Assistant,Operations & Supply Chain,Junior / Entry
+6536,Material Coordinator,Administration & Office Support,Unspecified
+6541,Senior Safety Management Consultant,General / Cross-functional,Senior
+6542,Farm Instructor,Education & Training,Unspecified
+6543,Analytics Specialist,General / Cross-functional,Mid
+6544,International Specialist,General / Cross-functional,Mid
+6547,Division Engineer,Other,Mid
+6549,Corporate Physical Security Supervisor,General / Cross-functional,Manager
+6552,Energy Director,Energy & Utilities,Director
+6559,Mixer Helper,Manufacturing & Skilled Trades,Junior / Entry
+6561,Court Assistant,Legal,Junior / Entry
+6562,Belt Worker,General / Cross-functional,Unspecified
+6567,Pattern Worker,General / Cross-functional,Unspecified
+6570,HR Generalist,Human Resources & Recruiting,Unspecified
+6571,Tube Inspector,General / Cross-functional,Unspecified
+6572,Automotive Parts Clerk,Administration & Office Support,Unspecified
+6574,Charge Operator,Manufacturing & Skilled Trades,Unspecified
+6576,Food Service Driver,Operations & Supply Chain,Unspecified
+6590,Home Care Associate,General / Cross-functional,Junior / Entry
+6591,Laboratory Associate,Science & Research,Junior / Entry
+6592,Certified Medical Technician Assistant,Healthcare & Medical,Junior / Entry
+6593,Residential Coordinator,Administration & Office Support,Unspecified
+6595,Bar Supervisor,General / Cross-functional,Manager
+6596,City Supervisor,"Public Sector, Defense & Safety",Manager
+6597,Community Representative,General / Cross-functional,Unspecified
+6598,Head Setter,Manufacturing & Skilled Trades,Unspecified
+6600,Residential Director,General / Cross-functional,Director
+6603,Consulting Solution Manager,General / Cross-functional,Manager
+6613,Principal Clerk,Education & Training,Director
+6631,Mail Carrier Technician,Administration & Office Support,Unspecified
+6637,Core Worker,General / Cross-functional,Unspecified
+6639,Insulation Technician,Manufacturing & Skilled Trades,Unspecified
+6642,Cutter Apprentice Hand,Manufacturing & Skilled Trades,Junior / Entry
+6649,Benefits Specialist,Human Resources & Recruiting,Mid
+6650,Call Specialist,General / Cross-functional,Mid
+6651,Collection Specialist,General / Cross-functional,Mid
+6652,Event Specialist,"Hospitality, Food & Travel",Mid
+6653,Facilities Specialist,Construction & Real Estate,Mid
+6654,Healthcare Specialist,General / Cross-functional,Mid
+6656,Payroll Specialist,Finance & Accounting,Mid
+6657,Performance Specialist,General / Cross-functional,Mid
+6659,Building Repair Maintenance Supervisor,Construction & Real Estate,Manager
+6660,Real Estate Office Supervisor,Construction & Real Estate,Manager
+6661,Real Estate Sales Supervisor,Sales & Business Development,Manager
+6663,Attacher,Other,Unspecified
+6665,Affairs,Other,Unspecified
+6667,Mold Yard Supervisor,Manufacturing & Skilled Trades,Manager
+6672,Roll Inspector,General / Cross-functional,Unspecified
+6675,Utility Clerk,Energy & Utilities,Unspecified
+6684,Master Automotive Glass Technician,Manufacturing & Skilled Trades,Unspecified
+6685,Master Fire Control Technician,Manufacturing & Skilled Trades,Unspecified
+6687,Metal Cleaner,Manufacturing & Skilled Trades,Unspecified
+6688,Admissions Manager,Education & Training,Manager
+6689,Graphic Manager,Design & Creative,Manager
+6695,Driver Sales,Sales & Business Development,Unspecified
+6700,Music Coordinator,Administration & Office Support,Unspecified
+6704,Transportation Worker,Operations & Supply Chain,Unspecified
+6707,Sports Analyst,"Media, Sports & Entertainment",Mid
+6715,Water Control Station Engineer,Other,Mid
+6721,Continuous Improvement Manager,General / Cross-functional,Manager
+6739,Railroad Engineer,Other,Mid
+6742,Boiler Repair Supervisor,General / Cross-functional,Manager
+6748,Integration Technician,Manufacturing & Skilled Trades,Unspecified
+6751,Recreation Technician,Manufacturing & Skilled Trades,Unspecified
+6752,Regulatory Technician,Manufacturing & Skilled Trades,Unspecified
+6757,Data Power Consultant,General / Cross-functional,Mid
+6761,Cash Specialist,General / Cross-functional,Mid
+6762,Crop Specialist,Agriculture & Environment,Mid
+6763,Mill Hand,Manufacturing & Skilled Trades,Unspecified
+6764,Nutrition Specialist,General / Cross-functional,Mid
+6766,Applications Coordinator,Administration & Office Support,Unspecified
+6767,General Road Production Manager,Operations & Supply Chain,Manager
+6770,Pharmacy Coordinator,Healthcare & Medical,Unspecified
+6771,Road Production General Manager,Executive & General Management,VP / Head
+6773,Loan Inspector,General / Cross-functional,Unspecified
+6774,Java Consultant,General / Cross-functional,Mid
+6776,Boat Officer,General / Cross-functional,Unspecified
+6778,Pharmacy Director,Healthcare & Medical,Director
+6784,Family Law Specialist,General / Cross-functional,Mid
+6785,Insurance Law Specialist,General / Cross-functional,Mid
+6787,Occupational Medicine Specialist,General / Cross-functional,Mid
+6790,Parts Representative,General / Cross-functional,Unspecified
+6796,Retail Agent,General / Cross-functional,Unspecified
+6803,Unloader,Manufacturing & Skilled Trades,Unspecified
+6804,Claims Assistant,Finance & Accounting,Junior / Entry
+6805,Printing Assistant,General / Cross-functional,Junior / Entry
+6811,Facility Supervisor,General / Cross-functional,Manager
+6814,Mail Delivery Supervisor,Administration & Office Support,Manager
+6815,Patrol Supervisor,General / Cross-functional,Manager
+6816,Medical Front Desk Specialist,Healthcare & Medical,Mid
+6824,Analysis Engineer,Other,Mid
+6833,Food Production Associate,General / Cross-functional,Junior / Entry
+6834,Food Service Associate,"Hospitality, Food & Travel",Junior / Entry
+6835,Talent Engineer,Other,Mid
+6836,Concrete Inspector,General / Cross-functional,Unspecified
+6837,Partner,Executive & General Management,Unspecified
+6840,Administrative Support Clerk,Administration & Office Support,Unspecified
+6841,Shift,Other,Unspecified
+6846,Asst,Other,Unspecified
+6868,Department Helper,Manufacturing & Skilled Trades,Junior / Entry
+6884,Automotive Parts Coordinator,Administration & Office Support,Unspecified
+6885,Fire Control Mechanic,Manufacturing & Skilled Trades,Unspecified
+6887,Watch Technician,Manufacturing & Skilled Trades,Unspecified
+6888,Oracle Analyst,General / Cross-functional,Mid
+6889,Solutions Analyst,General / Cross-functional,Mid
+6890,Biology Manager,General / Cross-functional,Manager
+6891,Housekeeper Manager,"Hospitality, Food & Travel",Manager
+6893,Night Manager,General / Cross-functional,Manager
+6894,Plan Manager,General / Cross-functional,Manager
+6897,Station Mechanic,Manufacturing & Skilled Trades,Unspecified
+6901,Cashier Clerk,Sales & Business Development,Unspecified
+6906,Cashier Assistant,Sales & Business Development,Junior / Entry
+6909,Health Information Management Director,Healthcare & Medical,Director
+6910,Management Information Systems Director,General / Cross-functional,Director
+6912,Solution Specialist,General / Cross-functional,Mid
+6924,Client Support Analyst,General / Cross-functional,Mid
+6925,Pattern Grader Supervisor,General / Cross-functional,Manager
+6930,Patient Case Coordinator,Healthcare & Medical,Unspecified
+6938,Breaker Operator,Manufacturing & Skilled Trades,Unspecified
+6940,Facilities Operator,Manufacturing & Skilled Trades,Unspecified
+6943,Parts Driver,Operations & Supply Chain,Unspecified
+6944,Control Room Helper,Manufacturing & Skilled Trades,Junior / Entry
+6946,Mold Mechanic,Manufacturing & Skilled Trades,Unspecified
+6949,Client Application Support Engineer,Other,Mid
+6951,Concrete Pipe Plant Supervisor,General / Cross-functional,Manager
+6953,Hotel Engineer,"Hospitality, Food & Travel",Mid
+6954,Recovery Engineer,Other,Mid
+6955,Signal Engineer,Other,Mid
+6958,Printing,Other,Unspecified
+6959,Recreation Supervisor,General / Cross-functional,Manager
+6960,Treatment Supervisor,General / Cross-functional,Manager
+6962,Clinical Lab Clerk,Healthcare & Medical,Unspecified
+6967,Assembly Associate,General / Cross-functional,Junior / Entry
+6968,Digital Associate,General / Cross-functional,Junior / Entry
+6971,Emergency Management Program Specialist,General / Cross-functional,Mid
+6977,Customer Service Driver,Customer Success & Support,Unspecified
+6983,Plate Inspector,General / Cross-functional,Unspecified
+6985,Traffic Officer,General / Cross-functional,Unspecified
+6986,Communications Representative,Marketing & Growth,Unspecified
+6992,Production Lead,General / Cross-functional,Manager
+6994,Product Architect,Design & Creative,Unspecified
+7001,Aircraft Maintenance Director,Manufacturing & Skilled Trades,Director
+7002,Data Processing Consultant,General / Cross-functional,Mid
+7003,Shoe Worker,General / Cross-functional,Unspecified
+7007,Learning Solutions Specialist,General / Cross-functional,Mid
+7009,Patient Accounts Specialist,Healthcare & Medical,Mid
+7011,Cell Support Operator,Manufacturing & Skilled Trades,Unspecified
+7014,Recruiter Coordinator,Human Resources & Recruiting,Unspecified
+7017,Clinical Research Management Associate,Healthcare & Medical,Junior / Entry
+7018,Senior Clinical Research Associate,Healthcare & Medical,Senior
+7019,Benefits Technician,Human Resources & Recruiting,Unspecified
+7027,Healthcare Technician,Manufacturing & Skilled Trades,Unspecified
+7032,Track Repair Supervisor,General / Cross-functional,Manager
+7033,Community Associate,General / Cross-functional,Junior / Entry
+7039,Gas Station Clerk,Energy & Utilities,Unspecified
+7040,Offbearer,Other,Unspecified
+7041,Front Desk Worker,Customer Success & Support,Unspecified
+7046,Assurance Analyst,General / Cross-functional,Mid
+7048,Creative Specialist,General / Cross-functional,Mid
+7051,Review Specialist,General / Cross-functional,Mid
+7052,Sports Clerk,"Media, Sports & Entertainment",Unspecified
+7053,Engineering Project Designer,Design & Creative,Mid
+7054,Oil Field Equipment Mechanic Supervisor,Energy & Utilities,Manager
+7055,Financial Agent,Finance & Accounting,Unspecified
+7056,Environmental Associate,Agriculture & Environment,Junior / Entry
+7061,Resource Teacher,Education & Training,Unspecified
+7069,School Cleaner,Manufacturing & Skilled Trades,Unspecified
+7075,Regional Coordinator,Administration & Office Support,Unspecified
+7084,Sewing Supervisor,General / Cross-functional,Manager
+7085,Student Financial Aid Manager,Finance & Accounting,Manager
+7086,Watch Supervisor,General / Cross-functional,Manager
+7087,Financial Services Education Consultant,Finance & Accounting,Mid
+7088,Cattle Manager,General / Cross-functional,Manager
+7092,Pharmacist Manager,Healthcare & Medical,Manager
+7108,School Transportation Supervisor,Operations & Supply Chain,Manager
+7114,Yard,Other,Unspecified
+7115,Family Resource Management Specialist,General / Cross-functional,Mid
+7116,Water Resource Engineering Specialist,General / Cross-functional,Mid
+7117,Team Driver,Operations & Supply Chain,Unspecified
+7118,Computer Systems Information Director,General / Cross-functional,Director
+7119,Supply Clerk,Administration & Office Support,Unspecified
+7120,Delivery Stock Clerk,Administration & Office Support,Unspecified
+7121,Retail Stock Clerk,Administration & Office Support,Unspecified
+7128,Product Support Representative,Customer Success & Support,Unspecified
+7139,Fuel Technician,Manufacturing & Skilled Trades,Unspecified
+7140,Nutrition Technician,Manufacturing & Skilled Trades,Unspecified
+7144,Art Coordinator,Administration & Office Support,Unspecified
+7146,Utility Sales and Service Manager,Sales & Business Development,Manager
+7148,Water Attendant,Other,Unspecified
+7167,Plastic Surgery Manager,General / Cross-functional,Manager
+7168,Retail Account Representative,General / Cross-functional,Unspecified
+7176,Corporate Representative,General / Cross-functional,Unspecified
+7181,Database Software Technician,Software & Engineering,Unspecified
+7191,Rider,Other,Unspecified
+7193,Nursing Unit Clerk,Healthcare & Medical,Unspecified
+7195,Academic Specialist,Education & Training,Mid
+7201,Clinical Administrative Coordinator,Healthcare & Medical,Unspecified
+7202,Entry Level Account Manager,Sales & Business Development,Manager
+7203,Entry Level Assistant Manager,General / Cross-functional,Manager
+7207,Radiology Specialist,Healthcare & Medical,Mid
+7208,Receiving Specialist,Operations & Supply Chain,Mid
+7210,Telephone Worker,General / Cross-functional,Unspecified
+7225,Store Consultant,General / Cross-functional,Mid
+7229,Spec,Other,Unspecified
+7231,Administrative Medical Director,Healthcare & Medical,Director
+7233,Laboratory Administrative Director,Science & Research,Director
+7238,Facilities Supervisor,Construction & Real Estate,Manager
+7239,Payroll Supervisor,Finance & Accounting,Manager
+7240,Blocker,Other,Unspecified
+7245,Health Safety Instructor,Education & Training,Unspecified
+7247,Quality Tech,Manufacturing & Skilled Trades,Unspecified
+7251,Air Tester,Manufacturing & Skilled Trades,Unspecified
+7255,Pharmacy Customer Care Specialist,Healthcare & Medical,Mid
+7256,Pharmacy Retail Support Specialist,Healthcare & Medical,Mid
+7258,Metal Sheet Roller Operator,Manufacturing & Skilled Trades,Unspecified
+7259,Customer Care Associate,General / Cross-functional,Junior / Entry
+7260,Customer Operations Associate,Operations & Supply Chain,Junior / Entry
+7261,Customer Service Associate,Customer Success & Support,Junior / Entry
+7262,Customer Support Associate,Customer Success & Support,Junior / Entry
+7263,Metal Room Dental Technician,Healthcare & Medical,Unspecified
+7268,Senior Security Architect,Cybersecurity,Senior
+7279,Car Cleaning Supervisor,General / Cross-functional,Manager
+7283,Clinical Aide,Healthcare & Medical,Junior / Entry
+7285,Engineering Aide,Healthcare & Medical,Mid
+7286,Field Aide,Healthcare & Medical,Junior / Entry
+7287,Health Aide,Healthcare & Medical,Junior / Entry
+7288,Inspector Aide,Healthcare & Medical,Junior / Entry
+7289,Maintenance Aide,Manufacturing & Skilled Trades,Junior / Entry
+7292,Mold Making Supervisor,Manufacturing & Skilled Trades,Manager
+7293,Net Making Supervisor,General / Cross-functional,Manager
+7294,Nurse Aide,Healthcare & Medical,Junior / Entry
+7295,Production Aide,Healthcare & Medical,Junior / Entry
+7296,Program Aide,Healthcare & Medical,Junior / Entry
+7299,Screen Making Supervisor,General / Cross-functional,Manager
+7300,Service Aide,Healthcare & Medical,Junior / Entry
+7301,Tank Cleaning Supervisor,General / Cross-functional,Manager
+7302,Teacher Aide,Education & Training,Junior / Entry
+7315,Corporate Driver,Operations & Supply Chain,Unspecified
+7317,Plant Floor Automation Manager,General / Cross-functional,Manager
+7318,Utility Division Project Manager,Product,Manager
+7321,Internal Control Specialist,General / Cross-functional,Mid
+7322,Internal Medicine Specialist,General / Cross-functional,Mid
+7328,Content Engineer,Other,Mid
+7330,Flight Coordinator,Administration & Office Support,Unspecified
+7331,Gate Manager,General / Cross-functional,Manager
+7334,Rehab Manager,General / Cross-functional,Manager
+7336,University Manager,General / Cross-functional,Manager
+7337,Vault Manager,General / Cross-functional,Manager
+7342,Bilingual Case Manager,General / Cross-functional,Manager
+7353,Life Sciences Manager,General / Cross-functional,Manager
+7365,Workers Compensation Manager,Human Resources & Recruiting,Manager
+7366,Medical Lab Director,Healthcare & Medical,Director
+7368,Flight Director,General / Cross-functional,Director
+7369,Digital Computer Systems Analyst,General / Cross-functional,Mid
+7371,Inserter,Other,Unspecified
+7374,Rubber Roller Grinder Operator,Manufacturing & Skilled Trades,Unspecified
+7375,Certified Emergency Vehicle Technician,Manufacturing & Skilled Trades,Unspecified
+7377,Crusher Operator,Manufacturing & Skilled Trades,Unspecified
+7378,Distributor Operator,Manufacturing & Skilled Trades,Unspecified
+7379,Elevator Operator,Manufacturing & Skilled Trades,Unspecified
+7380,Laundry Operator,Manufacturing & Skilled Trades,Unspecified
+7382,Crop Supervisor,Agriculture & Environment,Manager
+7383,Forest Supervisor,General / Cross-functional,Manager
+7386,Electronic Field Service Engineer,Other,Mid
+7388,Computer Installer,Manufacturing & Skilled Trades,Unspecified
+7389,Deputy Clerk,Administration & Office Support,Unspecified
+7392,Assurance Assistant,General / Cross-functional,Junior / Entry
+7393,Line Cleaner,Manufacturing & Skilled Trades,Unspecified
+7394,Property Inspector,General / Cross-functional,Unspecified
+7395,Occupational Therapy Supervisor,Healthcare & Medical,Manager
+7396,Shoe Repair Supervisor,General / Cross-functional,Manager
+7398,Surgical Coordinator,Healthcare & Medical,Unspecified
+7399,Project Lead,General / Cross-functional,Manager
+7400,Bag Worker,General / Cross-functional,Unspecified
+7404,Back Filler Operator,Manufacturing & Skilled Trades,Unspecified
+7405,Back Shoe Operator,Manufacturing & Skilled Trades,Unspecified
+7406,Belt Back Operator,Manufacturing & Skilled Trades,Unspecified
+7414,Associate Financial Representative,Finance & Accounting,Junior / Entry
+7419,Construction Representative,Construction & Real Estate,Unspecified
+7420,Patient Representative,Healthcare & Medical,Unspecified
+7421,Sports Director,"Media, Sports & Entertainment",Director
+7428,Boat Mechanic,Manufacturing & Skilled Trades,Unspecified
+7439,Elevator Technician,Manufacturing & Skilled Trades,Unspecified
+7440,Laundry Technician,Manufacturing & Skilled Trades,Unspecified
+7441,Fire Department Marine Engineer,Engineering (Non-Software),Mid
+7443,Marine Equipment Research Engineer,Science & Research,Mid
+7444,Marine Equipment Sales Engineer,Sales & Business Development,Mid
+7446,Radio Officer,"Media, Sports & Entertainment",Unspecified
+7447,Security Systems Sales Representative,Sales & Business Development,Unspecified
+7449,Storage Engineer,IT & Infrastructure,Mid
+7463,Advertising Analyst,Marketing & Growth,Mid
+7464,Training Developer,Software & Engineering,Mid
+7475,Vocational Case Manager,General / Cross-functional,Manager
+7477,Administration Specialist,General / Cross-functional,Mid
+7478,Employment Specialist,General / Cross-functional,Mid
+7481,Surgery Specialist,General / Cross-functional,Mid
+7482,Conveyor Operator,Manufacturing & Skilled Trades,Unspecified
+7483,Credit Control Assistant,Finance & Accounting,Junior / Entry
+7484,Forming Operator,Manufacturing & Skilled Trades,Unspecified
+7485,Receiving Operator,Operations & Supply Chain,Unspecified
+7489,Tower Supervisor,General / Cross-functional,Manager
+7490,Veneer Supervisor,General / Cross-functional,Manager
+7506,Process Architect,Design & Creative,Unspecified
+7507,Design Tech,Manufacturing & Skilled Trades,Unspecified
+7508,Goods,Other,Unspecified
+7509,Deputy,Other,Unspecified
+7513,Railroad Emergency Services Manager,General / Cross-functional,Manager
+7516,Office Aide,Healthcare & Medical,Junior / Entry
+7517,Architectural Manager,Design & Creative,Manager
+7520,Clinic Manager,Healthcare & Medical,Manager
+7521,Clinical Nursing Coordinator,Healthcare & Medical,Unspecified
+7523,Load Manager,General / Cross-functional,Manager
+7527,Report Manager,General / Cross-functional,Manager
+7531,Coder,Other,Unspecified
+7532,Construction Driver,Operations & Supply Chain,Unspecified
+7535,Nursing Home Director,Healthcare & Medical,Director
+7538,Buyer Assistant,Sales & Business Development,Junior / Entry
+7543,Resident Engineer,Other,Mid
+7546,Home Energy Consultant Supervisor,Energy & Utilities,Manager
+7553,Health Center Associate,General / Cross-functional,Junior / Entry
+7557,Product Operations Associate,Product,Junior / Entry
+7558,Product Safety Associate,General / Cross-functional,Junior / Entry
+7559,Radiology Technician,Healthcare & Medical,Unspecified
+7562,Group Director,General / Cross-functional,Director
+7570,Line Tender,Manufacturing & Skilled Trades,Unspecified
+7584,Tank Driver,Operations & Supply Chain,Unspecified
+7588,Web Press Operator Assistant,Manufacturing & Skilled Trades,Junior / Entry
+7589,Controller Mechanic,Finance & Accounting,Unspecified
+7591,Case Management Social Worker,Healthcare & Medical,Unspecified
+7594,Corporate Associate,General / Cross-functional,Junior / Entry
+7601,Clinical Laboratory Medical Director,Healthcare & Medical,Director
+7613,Communications Attendant,Marketing & Growth,Unspecified
+7627,Freight Clerk,Operations & Supply Chain,Unspecified
+7628,Hospital Clerk,Healthcare & Medical,Unspecified
+7642,Medical Insurance Claims Specialist,Finance & Accounting,Mid
+7651,Brush Operator,Manufacturing & Skilled Trades,Unspecified
+7652,Crusher Supervisor,Manufacturing & Skilled Trades,Manager
+7657,Sales Service Route Manager,Sales & Business Development,Manager
+7663,Scientific Specialist,General / Cross-functional,Mid
+7664,Transfer Specialist,General / Cross-functional,Mid
+7668,Media Associate,General / Cross-functional,Junior / Entry
+7669,Bus Analyst,General / Cross-functional,Mid
+7675,Meat Inspector,General / Cross-functional,Unspecified
+7678,Driver Utility Worker,Operations & Supply Chain,Unspecified
+7680,General Utility Worker,Energy & Utilities,Unspecified
+7689,Patternmaker,Other,Unspecified
+7694,Model Making Supervisor,General / Cross-functional,Manager
+7695,Outside Machinist Supervisor,Manufacturing & Skilled Trades,Manager
+7697,Admin,Other,Unspecified
+7699,Manufacturing Associate,General / Cross-functional,Junior / Entry
+7702,Artist Representative,Design & Creative,Unspecified
+7703,Industrial Nurse,Healthcare & Medical,Unspecified
+7704,Pharmacy Order Entry Technician,Healthcare & Medical,Unspecified
+7705,Principal Consultant,Education & Training,Director
+7716,Tube Former Operator,Manufacturing & Skilled Trades,Unspecified
+7721,Set Up Mechanic,Manufacturing & Skilled Trades,Unspecified
+7722,Net Coordinator,Administration & Office Support,Unspecified
+7723,Faculty,Other,Unspecified
+7724,Home Maker,Manufacturing & Skilled Trades,Unspecified
+7726,Warehouse Stock Clerk,Operations & Supply Chain,Unspecified
+7727,Producer Assistant,Design & Creative,Junior / Entry
+7728,Software Lead,Software & Engineering,Manager
+7729,Trimmer Hand,Manufacturing & Skilled Trades,Unspecified
+7732,Deputy Director,General / Cross-functional,Director
+7736,Traffic Monitor Specialist,General / Cross-functional,Mid
+7739,Flight Teacher,Education & Training,Unspecified
+7740,Sales Operations Lead,Sales & Business Development,Manager
+7741,Mill Helper,Manufacturing & Skilled Trades,Junior / Entry
+7743,Processing Associate,General / Cross-functional,Junior / Entry
+7744,Retail Helper,Manufacturing & Skilled Trades,Junior / Entry
+7745,Blower,Other,Unspecified
+7750,BI Manager,General / Cross-functional,Manager
+7751,Business Center Attendant,Other,Unspecified
+7754,Loading Manager,General / Cross-functional,Manager
+7755,Reporting Manager,General / Cross-functional,Manager
+7756,State Manager,General / Cross-functional,Manager
+7757,Transit Manager,IT & Infrastructure,Manager
+7758,Power Builder Developer,Software & Engineering,Mid
+7761,Automatic Wheel Line Operator,Manufacturing & Skilled Trades,Unspecified
+7765,General Utility Machine Operator,Manufacturing & Skilled Trades,Unspecified
+7770,Utility Systems Repairer Operator,Manufacturing & Skilled Trades,Unspecified
+7771,Candy Supervisor,General / Cross-functional,Manager
+7772,Instructional Supervisor,General / Cross-functional,Manager
+7774,Molding Supervisor,General / Cross-functional,Manager
+7776,Radiology Supervisor,Healthcare & Medical,Manager
+7777,Receiving Supervisor,Operations & Supply Chain,Manager
+7778,Roll Mechanic,Manufacturing & Skilled Trades,Unspecified
+7789,Lead Technical Architect,Design & Creative,Manager
+7797,Human Relations Teacher,Education & Training,Unspecified
+7801,Pump Servicer Supervisor,General / Cross-functional,Manager
+7808,Plate Developer,Software & Engineering,Mid
+7809,Adult Specialist,General / Cross-functional,Mid
+7811,Behavioral Specialist,General / Cross-functional,Mid
+7827,Photo Lab Manager,General / Cross-functional,Manager
+7834,Revenue Specialist,General / Cross-functional,Mid
+7838,Attendant Sales,Sales & Business Development,Unspecified
+7839,Yard Clerk,Administration & Office Support,Unspecified
+7841,Feeder Worker Power Unit Operator,Manufacturing & Skilled Trades,Unspecified
+7847,Recreation Engineer,Other,Mid
+7849,Yard Assistant,General / Cross-functional,Junior / Entry
+7854,Certified Nurse,Healthcare & Medical,Unspecified
+7857,Liner Worker,General / Cross-functional,Unspecified
+7858,Sports Teacher,Education & Training,Unspecified
+7860,Desk Officer,General / Cross-functional,Unspecified
+7861,Adjuster and Inspector,General / Cross-functional,Unspecified
+7862,Core Analyst,General / Cross-functional,Mid
+7864,Car Mechanic Helper,Manufacturing & Skilled Trades,Junior / Entry
+7865,Car Repairer Helper,Manufacturing & Skilled Trades,Junior / Entry
+7866,Car Worker Helper,Manufacturing & Skilled Trades,Junior / Entry
+7868,Financial Services Associate,Finance & Accounting,Junior / Entry
+7869,Body Mechanic,Manufacturing & Skilled Trades,Unspecified
+7873,Insurance Billing Specialist,Finance & Accounting,Mid
+7874,Labor Delivery Specialist,General / Cross-functional,Mid
+7881,Floor Representative,General / Cross-functional,Unspecified
+7883,Fitness Technician,"Media, Sports & Entertainment",Unspecified
+7884,Inventory Technician,Operations & Supply Chain,Unspecified
+7885,Sand Technician,Manufacturing & Skilled Trades,Unspecified
+7886,Surgery Technician,Manufacturing & Skilled Trades,Unspecified
+7887,Core Java Engineer,Other,Mid
+7891,Solar Energy Installation Manager,Energy & Utilities,Manager
+7894,Information Technology Data Analyst,Data & AI,Mid
+7895,Information Technology Security Analyst,Cybersecurity,Mid
+7898,Splitter,Other,Unspecified
+7899,Steel Inspector,General / Cross-functional,Unspecified
+7905,Dental Officer,Healthcare & Medical,Unspecified
+7909,Supply Teacher,Education & Training,Unspecified
+7915,Java Developer Analyst,Software & Engineering,Mid
+7920,Master Mechanic,Manufacturing & Skilled Trades,Unspecified
+7921,Delivery Representative,General / Cross-functional,Unspecified
+7922,Maintenance Planning Clerk,Administration & Office Support,Unspecified
+7924,Financial Planning Assistant,Finance & Accounting,Junior / Entry
+7927,Training Program Assistant,General / Cross-functional,Junior / Entry
+7934,Transportation Analyst,Operations & Supply Chain,Mid
+7935,Monitor Worker,General / Cross-functional,Unspecified
+7936,Art Consultant,General / Cross-functional,Mid
+7939,Front End Loader Operator,Software & Engineering,Unspecified
+7943,Lead Java Software Engineer,Software & Engineering,Manager
+7944,Senior Java Software Engineer,Software & Engineering,Senior
+7945,Bilingual Operator,Manufacturing & Skilled Trades,Unspecified
+7946,Counselor Aide,Healthcare & Medical,Junior / Entry
+7949,Co-Founder,Executive & General Management,C-Level
+7951,Consulting Engineer,Other,Mid
+7952,Watch Engineer,Other,Mid
+7953,Audit Specialist,IT & Infrastructure,Mid
+7955,Title Specialist,General / Cross-functional,Mid
+7956,Wellness Specialist,General / Cross-functional,Mid
+7961,Route Sales Specialist,Sales & Business Development,Mid
+7972,Cutting Inspector,General / Cross-functional,Unspecified
+7976,Wheel Inspector,General / Cross-functional,Unspecified
+7978,Hospital Coordinator,Healthcare & Medical,Unspecified
+7979,Tutor Coordinator,Education & Training,Unspecified
+7982,Group Teacher,Education & Training,Unspecified
+7984,Assistant Restaurant General Manager,"Hospitality, Food & Travel",VP / Head
+7985,Hospital Director,Healthcare & Medical,Director
+7989,Dock Manager,General / Cross-functional,Manager
+7994,Brake Repair Supervisor,General / Cross-functional,Manager
+7996,Division Order Technician,Manufacturing & Skilled Trades,Unspecified
+8004,Educational Technician,Education & Training,Unspecified
+8005,Jewelry Technician,Manufacturing & Skilled Trades,Unspecified
+8006,Social Media Marketing Analyst,Marketing & Growth,Mid
+8007,Clinical Laboratory Service Teacher,Healthcare & Medical,Unspecified
+8009,Records Analyst,Administration & Office Support,Mid
+8016,Patient Attendant,Healthcare & Medical,Unspecified
+8018,Network Associate,General / Cross-functional,Junior / Entry
+8020,Radio Mechanic,"Media, Sports & Entertainment",Unspecified
+8021,Can Worker,General / Cross-functional,Unspecified
+8022,Contact Worker,General / Cross-functional,Unspecified
+8023,Maintenance Repairer,Manufacturing & Skilled Trades,Unspecified
+8024,Railroad Worker,General / Cross-functional,Unspecified
+8025,Sample Worker,General / Cross-functional,Unspecified
+8032,Community Health Education Coordinator,Education & Training,Unspecified
+8033,Community Health Program Coordinator,Administration & Office Support,Unspecified
+8034,Community Service Officer Coordinator,Administration & Office Support,Unspecified
+8035,Loan Officer Assistant,General / Cross-functional,Junior / Entry
+8036,School Community Relations Coordinator,Administration & Office Support,Unspecified
+8040,Records Management Engineer,Administration & Office Support,Mid
+8046,Global Coordinator,Administration & Office Support,Unspecified
+8049,Computer Architect,Design & Creative,Unspecified
+8050,Equipment Service Lead,General / Cross-functional,Manager
+8055,Chemical Equipment Sales Engineer,Sales & Business Development,Mid
+8058,Pattern Clerk,Administration & Office Support,Unspecified
+8065,Mortgage Loan Specialist,General / Cross-functional,Mid
+8069,Producer Director,Design & Creative,Director
+8072,Breaker Engineer,Agriculture & Environment,Mid
+8077,Train Engineer,Other,Mid
+8078,Coating Supervisor,General / Cross-functional,Manager
+8079,Employment Supervisor,General / Cross-functional,Manager
+8080,Fitness Supervisor,"Media, Sports & Entertainment",Manager
+8081,Merchandise Supervisor,General / Cross-functional,Manager
+8082,Packing Supervisor,General / Cross-functional,Manager
+8083,Rigger Supervisor,Manufacturing & Skilled Trades,Manager
+8084,Business Process Associate,General / Cross-functional,Junior / Entry
+8085,Lens Assistant,General / Cross-functional,Junior / Entry
+8088,General Agent,General / Cross-functional,Unspecified
+8089,Traffic Engineering Director,General / Cross-functional,Director
+8091,Press Cutter,Manufacturing & Skilled Trades,Unspecified
+8092,Quality Management Nurse,Healthcare & Medical,Unspecified
+8095,Assessor,Other,Unspecified
+8097,Digital Content Marketing Manager,Marketing & Growth,Manager
+8117,Collections Specialist,Finance & Accounting,Mid
+8120,Photo Specialist,General / Cross-functional,Mid
+8137,Program Lead,General / Cross-functional,Manager
+8138,Title Search Manager,General / Cross-functional,Manager
+8140,Accounting Coordinator,Finance & Accounting,Unspecified
+8147,Front Office Director,General / Cross-functional,Director
+8148,Lead Supply Worker,General / Cross-functional,Manager
+8154,Real Estate Director,Construction & Real Estate,Director
+8158,Well Testing Operator,Manufacturing & Skilled Trades,Unspecified
+8159,Yard Coordinator,Administration & Office Support,Unspecified
+8160,Industrial Gas Servicer Supervisor,Energy & Utilities,Manager
+8164,Security Lead,General / Cross-functional,Manager
+8167,Automatic Washer Mechanic,Manufacturing & Skilled Trades,Unspecified
+8168,Surgical Consultant,Healthcare & Medical,Mid
+8169,Airplane Technician,Manufacturing & Skilled Trades,Unspecified
+8170,Behavioral Technician,Manufacturing & Skilled Trades,Unspecified
+8172,Range Technician,Manufacturing & Skilled Trades,Unspecified
+8173,Server Assistant,"Hospitality, Food & Travel",Junior / Entry
+8174,IT Instructor,Education & Training,Unspecified
+8175,Grinder Tender,Manufacturing & Skilled Trades,Unspecified
+8177,IT Associate,General / Cross-functional,Junior / Entry
+8180,Clinical Quality Assurance Specialist,Healthcare & Medical,Mid
+8181,Net Application Support Specialist,Customer Success & Support,Mid
+8182,Research Quality Assurance Specialist,Science & Research,Mid
+8183,Senior Quality Assurance Specialist,General / Cross-functional,Senior
+8186,Nursing Home Social Worker,Healthcare & Medical,Unspecified
+8187,Salesperson Driver,Sales & Business Development,Unspecified
+8191,Database Analyst,General / Cross-functional,Mid
+8192,Forest Engineer,Other,Mid
+8201,Art Therapy Certified Supervisor,Healthcare & Medical,Manager
+8206,Process Helper,Manufacturing & Skilled Trades,Junior / Entry
+8210,Miller Supervisor,General / Cross-functional,Manager
+8211,Paralegal Supervisor,Legal,Manager
+8213,Appeals Manager,General / Cross-functional,Manager
+8217,Litigation Manager,Legal,Manager
+8218,Managing Manager,General / Cross-functional,Manager
+8221,Scale Manager,General / Cross-functional,Manager
+8225,Medical Sales,Healthcare & Medical,Unspecified
+8231,Special Agent,General / Cross-functional,Unspecified
+8232,Business Systems Lead,General / Cross-functional,Manager
+8234,Mobile Health Vehicle Operator,Manufacturing & Skilled Trades,Unspecified
+8236,Physical Therapy Coordinator,Healthcare & Medical,Unspecified
+8240,Lift Operator,Manufacturing & Skilled Trades,Unspecified
+8241,Transportation Clerk,Operations & Supply Chain,Unspecified
+8243,Applicator,Other,Unspecified
+8255,Transportation Assistant,Operations & Supply Chain,Junior / Entry
+8256,Signal Worker,General / Cross-functional,Unspecified
+8258,Estate Planning Director,General / Cross-functional,Director
+8260,Physical Therapy Director,Healthcare & Medical,Director
+8263,Remover,Other,Unspecified
+8264,Access Specialist,General / Cross-functional,Mid
+8265,Claim Specialist,General / Cross-functional,Mid
+8267,HVAC Specialist,Manufacturing & Skilled Trades,Mid
+8268,QA Specialist,General / Cross-functional,Mid
+8269,Transport Specialist,General / Cross-functional,Mid
+8270,Administrative Representative,Administration & Office Support,Unspecified
+8271,Farm Agent,Agriculture & Environment,Unspecified
+8275,Floor Associate,General / Cross-functional,Junior / Entry
+8284,Fire Equipment Repairer Inspector,Manufacturing & Skilled Trades,Unspecified
+8288,Natural Science Manager,General / Cross-functional,Manager
+8289,Natural Sciences Manager,General / Cross-functional,Manager
+8292,Respiratory Therapy Manager,Healthcare & Medical,Manager
+8299,Data Processing Mechanic,Manufacturing & Skilled Trades,Unspecified
+8301,Special Tester,Manufacturing & Skilled Trades,Unspecified
+8310,Commercial Tire Service Technician,Manufacturing & Skilled Trades,Unspecified
+8311,Resident,Other,Unspecified
+8314,Nuclear Plant Equipment Operator,Manufacturing & Skilled Trades,Unspecified
+8315,Oracle Consultant,General / Cross-functional,Mid
+8321,Delivery Associate,General / Cross-functional,Junior / Entry
+8322,Distribution Clerk,Operations & Supply Chain,Unspecified
+8324,Safety Tech,Manufacturing & Skilled Trades,Unspecified
+8325,Video Clerk,Administration & Office Support,Unspecified
+8327,Solution Engineer,Other,Mid
+8328,SQL Engineer,Other,Mid
+8338,Client Support Consultant,General / Cross-functional,Mid
+8339,Architect Intern,Design & Creative,Junior / Entry
+8341,Business Intern,General / Cross-functional,Junior / Entry
+8343,Consultant Intern,General / Cross-functional,Mid
+8344,Design Intern,General / Cross-functional,Junior / Entry
+8345,Development Intern,General / Cross-functional,Junior / Entry
+8346,Education Intern,Education & Training,Junior / Entry
+8347,Engineer Intern,General / Cross-functional,Mid
+8348,Engineering Intern,General / Cross-functional,Mid
+8351,Management Intern,General / Cross-functional,Junior / Entry
+8352,Manager Intern,General / Cross-functional,Manager
+8353,Marketing Intern,Marketing & Growth,Junior / Entry
+8354,Medical Intern,Healthcare & Medical,Junior / Entry
+8355,Nurse Intern,Healthcare & Medical,Junior / Entry
+8357,Operations Intern,Operations & Supply Chain,Junior / Entry
+8358,Physician Aide,Healthcare & Medical,Junior / Entry
+8359,Production Intern,General / Cross-functional,Junior / Entry
+8361,Project Intern,General / Cross-functional,Junior / Entry
+8362,Quality Intern,General / Cross-functional,Junior / Entry
+8364,Recovery Unit Operator,Manufacturing & Skilled Trades,Unspecified
+8365,Research Intern,Science & Research,Junior / Entry
+8366,RN Intern,General / Cross-functional,Junior / Entry
+8367,Sales Intern,Sales & Business Development,Junior / Entry
+8368,Security Intern,General / Cross-functional,Junior / Entry
+8369,Software Intern,Software & Engineering,Junior / Entry
+8370,Tech Intern,Manufacturing & Skilled Trades,Junior / Entry
+8371,Technical Intern,General / Cross-functional,Junior / Entry
+8375,Commercial Loan Coordinator,Administration & Office Support,Unspecified
+8377,Furnace Attendant,Other,Unspecified
+8378,Human Resources Analyst,Human Resources & Recruiting,Mid
+8384,Custodian Supervisor,General / Cross-functional,Manager
+8385,Laboratory Tester,Science & Research,Unspecified
+8391,Care Information Associate,General / Cross-functional,Junior / Entry
+8392,Information Security Associate,Cybersecurity,Junior / Entry
+8393,Fruit Coordinator,Administration & Office Support,Unspecified
+8394,Learning Analyst,General / Cross-functional,Mid
+8397,Kitchen Operator,Manufacturing & Skilled Trades,Unspecified
+8398,Maintainer Operator,Manufacturing & Skilled Trades,Unspecified
+8407,Food Aide,Healthcare & Medical,Junior / Entry
+8408,Tile Inspector,General / Cross-functional,Unspecified
+8409,Tire Inspector,General / Cross-functional,Unspecified
+8420,Motor Vehicle Clerk,Administration & Office Support,Unspecified
+8423,Physical Testing Supervisor,General / Cross-functional,Manager
+8428,Spring Assembler Supervisor,Manufacturing & Skilled Trades,Manager
+8430,Spring Up Supervisor,General / Cross-functional,Manager
+8432,Yard Labor Supervisor,General / Cross-functional,Manager
+8437,Consultant RN,General / Cross-functional,Mid
+8438,Data Processing Control Clerk,Administration & Office Support,Unspecified
+8439,Manager RN,General / Cross-functional,Manager
+8440,Electrician Station Assistant,Manufacturing & Skilled Trades,Junior / Entry
+8450,Clerical Specialist,General / Cross-functional,Mid
+8451,Coding Specialist,General / Cross-functional,Mid
+8452,Fabrication Specialist,General / Cross-functional,Mid
+8453,Informatics Specialist,General / Cross-functional,Mid
+8454,Lead Tank Mechanic,Manufacturing & Skilled Trades,Manager
+8455,Search Specialist,General / Cross-functional,Mid
+8458,Carpenter Assistant,Manufacturing & Skilled Trades,Junior / Entry
+8459,Chemist Assistant,Science & Research,Junior / Entry
+8460,Automobile Body Worker,General / Cross-functional,Unspecified
+8462,Residential Care Facility Manager,General / Cross-functional,Manager
+8463,Wind Energy Project Manager,Product,Manager
+8464,Wind Farm Operations Manager,Operations & Supply Chain,Manager
+8468,Airline Manager,General / Cross-functional,Manager
+8469,Cafeteria Manager,General / Cross-functional,Manager
+8488,Enforcement Manager,General / Cross-functional,Manager
+8489,ETL Manager,Data & AI,Manager
+8491,Floor Attendant,Other,Unspecified
+8493,Inspection Manager,General / Cross-functional,Manager
+8495,Medical Office Assistant Instructor,Healthcare & Medical,Junior / Entry
+8499,Relief Manager,General / Cross-functional,Manager
+8501,Slot Manager,General / Cross-functional,Manager
+8503,Study Manager,General / Cross-functional,Manager
+8505,Wireless Manager,General / Cross-functional,Manager
+8509,Clinical Counselor,Healthcare & Medical,Unspecified
+8510,Control Room Tender,Manufacturing & Skilled Trades,Unspecified
+8511,Education Counselor,Healthcare & Medical,Unspecified
+8513,Fitter Hand,Manufacturing & Skilled Trades,Unspecified
+8514,Head Counselor,Healthcare & Medical,Unspecified
+8515,Health Counselor,Healthcare & Medical,Unspecified
+8517,Program Counselor,Healthcare & Medical,Unspecified
+8518,Sales Counselor,Healthcare & Medical,Unspecified
+8519,School Counselor,Healthcare & Medical,Unspecified
+8520,Service Counselor,Healthcare & Medical,Unspecified
+8521,Teacher Counselor,Healthcare & Medical,Unspecified
+8524,Enterprise Engineer,Other,Mid
+8526,Review Engineer,Other,Mid
+8529,Practice,Other,Unspecified
+8531,Bank Worker,General / Cross-functional,Unspecified
+8532,Restaurant Worker,"Hospitality, Food & Travel",Unspecified
+8533,Dental Mechanic,Healthcare & Medical,Unspecified
+8538,Testing,Other,Unspecified
+8539,Electrical Helper,Manufacturing & Skilled Trades,Junior / Entry
+8540,Human Resource Analyst,General / Cross-functional,Mid
+8541,Production Repairer,Manufacturing & Skilled Trades,Unspecified
+8543,Security System Sales Consultant,Sales & Business Development,Mid
+8546,Back End Engineer,Software & Engineering,Mid
+8558,Shoe Clerk,Administration & Office Support,Unspecified
+8559,Elementary Supervisor,General / Cross-functional,Manager
+8560,Gang Supervisor,General / Cross-functional,Manager
+8563,Title Supervisor,General / Cross-functional,Manager
+8574,IT Application Support Analyst,General / Cross-functional,Mid
+8577,Senior IT Security Analyst,Cybersecurity,Senior
+8580,Building Construction Teacher,Education & Training,Unspecified
+8581,Real Estate Teacher,Education & Training,Unspecified
+8590,Quality Assurance Lab Technician,Science & Research,Unspecified
+8594,Accounting Teacher,Finance & Accounting,Unspecified
+8595,Advertising Teacher,Education & Training,Unspecified
+8598,Blower Operator,Manufacturing & Skilled Trades,Unspecified
+8599,Tractor Operator,Manufacturing & Skilled Trades,Unspecified
+8603,Barrel Inspector,General / Cross-functional,Unspecified
+8604,Site Coordinator,Administration & Office Support,Unspecified
+8609,Acid Recovery Operator,Manufacturing & Skilled Trades,Unspecified
+8618,Account Executive Sales Representative,Sales & Business Development,Unspecified
+8621,Site Director,General / Cross-functional,Director
+8622,Transportation Director,Operations & Supply Chain,Director
+8624,Work Station Support Specialist,Customer Success & Support,Mid
+8625,Banking Specialist,Finance & Accounting,Mid
+8626,College Specialist,General / Cross-functional,Mid
+8627,Cost Specialist,General / Cross-functional,Mid
+8628,Extension Specialist,General / Cross-functional,Mid
+8629,Outreach Specialist,General / Cross-functional,Mid
+8630,Welfare Specialist,General / Cross-functional,Mid
+8633,Molding Engineer,Other,Mid
+8634,Survey Engineer,Other,Mid
+8637,Retail Store Clerk,Administration & Office Support,Unspecified
+8639,Pump House Engineer,Other,Mid
+8644,Machinist Mechanic,Manufacturing & Skilled Trades,Unspecified
+8647,Retail Store Assistant,General / Cross-functional,Junior / Entry
+8650,Test Administrator,General / Cross-functional,Unspecified
+8651,Shop Hand,Manufacturing & Skilled Trades,Unspecified
+8652,Claim Technician,Manufacturing & Skilled Trades,Unspecified
+8653,Forensic Technician,Manufacturing & Skilled Trades,Unspecified
+8657,Tractor Technician,"Media, Sports & Entertainment",Unspecified
+8659,Bender,Other,Unspecified
+8662,Life Consultant,General / Cross-functional,Mid
+8663,Set Off Press Operator,Manufacturing & Skilled Trades,Unspecified
+8665,Technical Lead,Software & Engineering,Manager
+8666,Information Systems Security Developer,Software & Engineering,Mid
+8667,Pipe Installer,Manufacturing & Skilled Trades,Unspecified
+8691,Truck Driver Helper,Operations & Supply Chain,Junior / Entry
+8713,Setter Machine,Manufacturing & Skilled Trades,Unspecified
+8717,Video Coordinator,Administration & Office Support,Unspecified
+8718,Crew Attendant,Other,Unspecified
+8720,Assembly Hand,Manufacturing & Skilled Trades,Unspecified
+8721,Stock Driver,Operations & Supply Chain,Unspecified
+8723,Digital Associate Media Director,General / Cross-functional,Director
+8724,Test Case Developer,Software & Engineering,Mid
+8725,Trimmer Helper,Manufacturing & Skilled Trades,Junior / Entry
+8726,Kitchen Supervisor,"Hospitality, Food & Travel",Manager
+8727,Principal Developer,Software & Engineering,Director
+8729,Practice Director,General / Cross-functional,Director
+8730,Workers,Other,Unspecified
+8732,Human Resources Clerk,Human Resources & Recruiting,Unspecified
+8733,Master Sheet Clerk,Administration & Office Support,Unspecified
+8736,Administrative Associate,Administration & Office Support,Junior / Entry
+8749,Medical Staff Services Coordinator,Healthcare & Medical,Senior
+8750,Compliance Representative,Finance & Accounting,Unspecified
+8752,Consulting Services Project Manager,Product,Manager
+8754,Heavy Equipment Rental Manager,General / Cross-functional,Manager
+8755,Heavy Equipment Sales Manager,Sales & Business Development,Manager
+8756,Heavy Equipment Service Manager,General / Cross-functional,Manager
+8758,Telephone Clerk,Administration & Office Support,Unspecified
+8759,Line Lead,General / Cross-functional,Manager
+8763,Filter Worker,General / Cross-functional,Unspecified
+8766,Plumbing Manager,General / Cross-functional,Manager
+8767,Produce Manager,General / Cross-functional,Manager
+8770,Electric Freight Car Operator,Operations & Supply Chain,Unspecified
+8774,Physician Office Nurse,Healthcare & Medical,Unspecified
+8777,Locomotive Operator,Manufacturing & Skilled Trades,Unspecified
+8778,Shaper Operator,Manufacturing & Skilled Trades,Unspecified
+8783,Fish Inspector,General / Cross-functional,Unspecified
+8785,Information and Data Architect Analyst,Data & AI,Mid
+8787,Die Casting Supervisor,"Media, Sports & Entertainment",Manager
+8796,Office Lead,General / Cross-functional,Manager
+8797,Charge Entry Specialist,General / Cross-functional,Mid
+8798,Charge Master Specialist,General / Cross-functional,Mid
+8802,Consumer Loan Specialist,General / Cross-functional,Mid
+8805,Facility Practice Specialist,General / Cross-functional,Mid
+8810,Market Director,General / Cross-functional,Director
+8811,Cardiac Specialist,General / Cross-functional,Mid
+8812,Channel Specialist,Sales & Business Development,Mid
+8813,Chemistry Specialist,Science & Research,Mid
+8814,HR Specialist,Human Resources & Recruiting,Mid
+8820,Lab Instructor,Education & Training,Unspecified
+8824,Coding Technician,Manufacturing & Skilled Trades,Unspecified
+8825,Fabrication Technician,Manufacturing & Skilled Trades,Unspecified
+8826,Lab Associate,General / Cross-functional,Junior / Entry
+8827,Vacuum Technician,Manufacturing & Skilled Trades,Unspecified
+8829,Kiln Head House Operator,Manufacturing & Skilled Trades,Unspecified
+8830,Safety Aide,Healthcare & Medical,Junior / Entry
+8832,Logistics Clerk,Operations & Supply Chain,Unspecified
+8833,Materials Clerk,Operations & Supply Chain,Unspecified
+8834,Travel Clerk,"Hospitality, Food & Travel",Unspecified
+8835,Data Warehouse Consultant,Operations & Supply Chain,Mid
+8839,Research and Development Tester,Science & Research,Unspecified
+8844,Coal Feeder Operator,Manufacturing & Skilled Trades,Unspecified
+8846,Engine Installer,Manufacturing & Skilled Trades,Unspecified
+8851,Principal Java Software Engineer,Software & Engineering,Director
+8853,Sealer,Manufacturing & Skilled Trades,Unspecified
+8854,Senior Principal Process Engineer,Education & Training,Director
+8855,Senior Principal Software Engineer,Software & Engineering,Director
+8858,Logistics Assistant,Operations & Supply Chain,Junior / Entry
+8859,Materials Assistant,Operations & Supply Chain,Junior / Entry
+8862,Travel Assistant,"Hospitality, Food & Travel",Junior / Entry
+8863,Video Game Engineer,Other,Mid
+8871,Child and Family Services Specialist,General / Cross-functional,Mid
+8874,Automobile Body Repair Supervisor,General / Cross-functional,Manager
+8878,Structural Worker,General / Cross-functional,Unspecified
+8879,Tree Worker,General / Cross-functional,Unspecified
+8880,Web Architect,Design & Creative,Unspecified
+8881,Area Loss Prevention Manager,"Hospitality, Food & Travel",Manager
+8883,Call Center Operations Manager,Customer Success & Support,Manager
+8885,Digital Strategist Senior Manager,General / Cross-functional,Manager
+8886,District Loss Prevention Manager,"Hospitality, Food & Travel",Manager
+8887,Garment Supervisor,General / Cross-functional,Manager
+8890,Logistics Loss Prevention Manager,Operations & Supply Chain,Manager
+8891,Loss Prevention Operations Manager,Operations & Supply Chain,Manager
+8893,Regional Loss Prevention Manager,"Hospitality, Food & Travel",Manager
+8894,Store Loss Prevention Manager,"Hospitality, Food & Travel",Manager
+8896,Database Coordinator,Administration & Office Support,Unspecified
+8899,Business Services Tech,Manufacturing & Skilled Trades,Unspecified
+8900,Clinical Research Tech,Healthcare & Medical,Unspecified
+8901,Clinical Support Tech,Healthcare & Medical,Unspecified
+8902,Equipment Maintenance Tech,Manufacturing & Skilled Trades,Unspecified
+8903,Field Service Tech,Manufacturing & Skilled Trades,Unspecified
+8904,Medical Research Tech,Healthcare & Medical,Unspecified
+8905,Senior Engineering Tech,Manufacturing & Skilled Trades,Senior
+8906,Support Service Tech,Manufacturing & Skilled Trades,Unspecified
+8907,Support Services Tech,Manufacturing & Skilled Trades,Unspecified
+8908,Environmental Science Program Director,Agriculture & Environment,Director
+8914,Front Desk Coordinator,Customer Success & Support,Unspecified
+8915,Credit Representative,Finance & Accounting,Unspecified
+8916,Parts Administrator,General / Cross-functional,Unspecified
+8917,Accounting Consultant,Finance & Accounting,Mid
+8919,Electric Accounting Machine Operator,Finance & Accounting,Unspecified
+8922,Cyber Operator,Manufacturing & Skilled Trades,Unspecified
+8923,Maintenance Helper Utility Engineer,Energy & Utilities,Mid
+8924,Meat Stock Clerk,Administration & Office Support,Unspecified
+8927,Unloader Operator,Manufacturing & Skilled Trades,Unspecified
+8930,Data Lead,General / Cross-functional,Manager
+8932,Inside Sales Specialist,Sales & Business Development,Mid
+8940,Coating Engineer,Other,Mid
+8942,Risk Developer,Software & Engineering,Mid
+8945,Radio Repair Teacher,Education & Training,Unspecified
+8946,Receptionist Clerk,Customer Success & Support,Unspecified
+8949,Crusher,Manufacturing & Skilled Trades,Unspecified
+8950,Miner Assistant,General / Cross-functional,Junior / Entry
+8951,Test Architect,Design & Creative,Unspecified
+8963,Industrial Technology Education Teacher,Education & Training,Unspecified
+8966,Special Technical Operations Officer,Operations & Supply Chain,Unspecified
+8970,Dental Patient Coordinator,Healthcare & Medical,Unspecified
+8971,Food Counselor,Healthcare & Medical,Unspecified
+8973,Quality Lead,General / Cross-functional,Manager
+8974,Asset Specialist,General / Cross-functional,Mid
+8978,Leasing Specialist,Construction & Real Estate,Mid
+8979,Living Specialist,General / Cross-functional,Mid
+8980,Oncology Specialist,Healthcare & Medical,Mid
+8981,Electronics Utility Worker,Energy & Utilities,Unspecified
+8984,Stock Associate,General / Cross-functional,Junior / Entry
+8986,Associate Store Director,General / Cross-functional,Director
+8989,Pharmacy Stock Clerk,Healthcare & Medical,Unspecified
+8991,Parking Technician,Manufacturing & Skilled Trades,Unspecified
+8994,Agricultural Crop Farm Manager,Agriculture & Environment,Manager
+8997,Forest Fire Prevention Manager,"Hospitality, Food & Travel",Manager
+9000,Account Advisor,General / Cross-functional,Unspecified
+9001,Analytical Manager,General / Cross-functional,Manager
+9003,Campus Manager,General / Cross-functional,Manager
+9004,Clinical Advisor,Healthcare & Medical,Unspecified
+9005,Continuity Manager,General / Cross-functional,Manager
+9006,Developer Advisor,Software & Engineering,Mid
+9007,Development Advisor,General / Cross-functional,Unspecified
+9008,Executive Advisor,General / Cross-functional,Unspecified
+9009,Extrusion Manager,General / Cross-functional,Manager
+9010,Field Advisor,General / Cross-functional,Unspecified
+9011,General Helper,Manufacturing & Skilled Trades,Junior / Entry
+9013,Home Advisor,General / Cross-functional,Unspecified
+9014,Instrumentation Manager,General / Cross-functional,Manager
+9015,Lead Advisor,General / Cross-functional,Manager
+9016,Maintenance Advisor,Manufacturing & Skilled Trades,Unspecified
+9018,Medical Advisor,Healthcare & Medical,Unspecified
+9020,Nurse Advisor,Healthcare & Medical,Unspecified
+9022,Operations Advisor,Operations & Supply Chain,Unspecified
+9023,Professional Advisor,General / Cross-functional,Unspecified
+9028,Senior Advisor,General / Cross-functional,Senior
+9031,Substation Manager,Energy & Utilities,Manager
+9032,Teacher Advisor,Education & Training,Unspecified
+9033,Technical Advisor,General / Cross-functional,Unspecified
+9034,Vending Manager,General / Cross-functional,Manager
+9036,Block Inspector,General / Cross-functional,Unspecified
+9037,Chair Inspector,General / Cross-functional,Unspecified
+9039,Color Making Supervisor,General / Cross-functional,Manager
+9042,Lead Burner Supervisor,General / Cross-functional,Manager
+9045,Shipping Track Supervisor,Operations & Supply Chain,Manager
+9049,Nuclear Officer,Energy & Utilities,Unspecified
+9050,Special Education Associate,Education & Training,Junior / Entry
+9052,Animal Hospital Office Supervisor,Healthcare & Medical,Manager
+9053,Automation Analyst,General / Cross-functional,Mid
+9054,Protection Analyst,General / Cross-functional,Mid
+9058,Clerical Supervisor,General / Cross-functional,Manager
+9068,Document Imaging Manager,General / Cross-functional,Manager
+9083,Speech Therapist Technician,Healthcare & Medical,Unspecified
+9092,Nursing Associate,Healthcare & Medical,Junior / Entry
+9098,Medical Laboratory Technical Officer,Healthcare & Medical,Unspecified
+9111,House Nurse,Healthcare & Medical,Unspecified
+9128,Physician Advisor,Healthcare & Medical,Unspecified
+9129,Front End Software Engineer,Software & Engineering,Mid

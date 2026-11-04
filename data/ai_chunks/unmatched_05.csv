@@ -1,0 +1,2501 @@
+rank,title,family,seniority
+28727,Industry Segment Specialist,General / Cross-functional,Mid
+28730,Loan Servicing Specialist,General / Cross-functional,Mid
+28731,Mortgage Servicing Specialist,General / Cross-functional,Mid
+28735,Retail Zone Specialist,General / Cross-functional,Mid
+28739,CAD Administrator,Design & Creative,Unspecified
+28740,Cloud Administrator,General / Cross-functional,Unspecified
+28741,Coil Builder,Manufacturing & Skilled Trades,Unspecified
+28742,CRM Administrator,General / Cross-functional,Unspecified
+28743,Rehab Tech,Manufacturing & Skilled Trades,Unspecified
+28744,Staffing Administrator,Human Resources & Recruiting,Unspecified
+28748,Oil Distributor Tender,Energy & Utilities,Unspecified
+28749,Orthopedic Nurse,Healthcare & Medical,Unspecified
+28750,Range Examiner,Education & Training,Unspecified
+28751,Saw Feeder,Manufacturing & Skilled Trades,Unspecified
+28752,Vocational Examiner,Education & Training,Unspecified
+28753,Appliance Repairer,Manufacturing & Skilled Trades,Unspecified
+28755,Coffee Bar Attendant,Other,Unspecified
+28761,Ski Lift Attendant,Other,Unspecified
+28762,Fabrication Lead,General / Cross-functional,Manager
+28763,Search Lead,General / Cross-functional,Manager
+28764,Policy Checker,Operations & Supply Chain,Unspecified
+28765,Assessment Counselor,Healthcare & Medical,Unspecified
+28767,Special Weapons Unit Officer,General / Cross-functional,Unspecified
+28768,Staff Nuclear Weapons Officer,Energy & Utilities,Senior
+28769,Weapons Electrical Engineering Officer,Engineering (Non-Software),Mid
+28770,Bag Washer,Manufacturing & Skilled Trades,Unspecified
+28771,Film Washer,"Media, Sports & Entertainment",Unspecified
+28772,Bottom Hoop Driver,Operations & Supply Chain,Unspecified
+28773,Double Bottom Driver,Operations & Supply Chain,Unspecified
+28774,Grain Grader,Other,Unspecified
+28775,Recovery RN,Other,Unspecified
+28776,Road Grader,Other,Unspecified
+28777,Set Key Driver,Operations & Supply Chain,Unspecified
+28781,Chip Loft Worker,General / Cross-functional,Unspecified
+28782,Cinder Crew Worker,General / Cross-functional,Unspecified
+28783,Cinder Pit Worker,General / Cross-functional,Unspecified
+28787,Grey Roll Worker,General / Cross-functional,Unspecified
+28788,Head Loft Worker,General / Cross-functional,Unspecified
+28794,Car Unloader Helper,Manufacturing & Skilled Trades,Junior / Entry
+28795,Oven Heater Helper,Manufacturing & Skilled Trades,Junior / Entry
+28798,Costume Rental Clerk,Administration & Office Support,Unspecified
+28800,Gift Shop Clerk,Administration & Office Support,Unspecified
+28803,Per Diem Clerk,Administration & Office Support,Unspecified
+28806,Card Painter,Manufacturing & Skilled Trades,Unspecified
+28809,Central Supply Aide,Healthcare & Medical,Junior / Entry
+28811,Chief Engineer Research,Science & Research,C-Level
+28812,Derrick Hand,Manufacturing & Skilled Trades,Unspecified
+28813,Director Clinical Research,Healthcare & Medical,Director
+28814,Director of Research,Science & Research,VP / Head
+28815,Garage Hand,Manufacturing & Skilled Trades,Unspecified
+28816,Manager Clinical Research,Healthcare & Medical,Manager
+28817,Manager Operations Research,Science & Research,Manager
+28818,Planer Hand,Manufacturing & Skilled Trades,Unspecified
+28819,RN Clinical Research,Healthcare & Medical,Unspecified
+28820,Supervisor of Research,Science & Research,Manager
+28821,Administration Professional,General / Cross-functional,Unspecified
+28822,Fitness Professional,"Media, Sports & Entertainment",Unspecified
+28823,Dispatcher Maintenance,Operations & Supply Chain,Unspecified
+28827,Can Line Examiner,Education & Training,Unspecified
+28828,Cloth Printing Back Tender,Manufacturing & Skilled Trades,Unspecified
+28829,Cloth Washer Back Tender,Manufacturing & Skilled Trades,Unspecified
+28830,Customer Expert,Other,Unspecified
+28835,Motor Expert,Other,Unspecified
+28837,Operations Expert,Operations & Supply Chain,Unspecified
+28842,Sales Expert,Sales & Business Development,Unspecified
+28845,Technical Expert,Other,Unspecified
+28846,Traffic Expert,Other,Unspecified
+28848,Casting Sorter,"Media, Sports & Entertainment",Unspecified
+28850,Fish Farm Laborer,Agriculture & Environment,Unspecified
+28854,Director Emergency Services,Other,Director
+28855,Plate Finisher,Manufacturing & Skilled Trades,Unspecified
+28856,Pharmacist Apprentice,Healthcare & Medical,Junior / Entry
+28857,Roofer Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+28860,Vault Maker,Manufacturing & Skilled Trades,Unspecified
+28862,Automatic Typewriter Inspector,General / Cross-functional,Unspecified
+28863,Brush Holder Inspector,General / Cross-functional,Unspecified
+28866,Wine Bottle Inspector,General / Cross-functional,Unspecified
+28867,Blueprint Developer,Software & Engineering,Mid
+28870,Negative Developer,Software & Engineering,Mid
+28871,Portal Developer,Software & Engineering,Mid
+28872,Rail Loader,Manufacturing & Skilled Trades,Unspecified
+28873,Structural Steel Worker Helper,Manufacturing & Skilled Trades,Junior / Entry
+28875,Strategic Planner,Operations & Supply Chain,Unspecified
+28876,Tub Attendant,Other,Unspecified
+28877,Bonding Agent,General / Cross-functional,Unspecified
+28879,Graphic Design Professor,Education & Training,Unspecified
+28880,Quality Control,Other,Unspecified
+28882,Gas Meter Repairer,Energy & Utilities,Unspecified
+28883,Telephone Station Repairer,Manufacturing & Skilled Trades,Unspecified
+28884,Assurance Auditor,Finance & Accounting,Unspecified
+28886,Business Insight and Analytics Manager,General / Cross-functional,Manager
+28888,Financial Services Internship,Finance & Accounting,Junior / Entry
+28889,Health Information Internship,Healthcare & Medical,Junior / Entry
+28890,Information Technology Internship,Other,Junior / Entry
+28893,Product Management Internship,Other,Junior / Entry
+28894,Public Health Internship,"Public Sector, Defense & Safety",Junior / Entry
+28895,Real Estate Internship,Construction & Real Estate,Junior / Entry
+28896,Research Program Internship,Science & Research,Junior / Entry
+28897,Technical Support Internship,IT & Infrastructure,Junior / Entry
+28899,Emergency Preparedness Manager,General / Cross-functional,Manager
+28908,Producer Arborist Manager,Design & Creative,Manager
+28913,Skating Rink Manager,General / Cross-functional,Manager
+28914,Telephonic Case Manager,General / Cross-functional,Manager
+28920,Block Captain,Other,Unspecified
+28921,Proof Load Mechanic,Manufacturing & Skilled Trades,Unspecified
+28926,Labor Trainer,Other,Unspecified
+28927,Spring Fitter,Manufacturing & Skilled Trades,Unspecified
+28929,Medical Device Sales Consultant,Healthcare & Medical,Mid
+28930,Bag Grader,Other,Unspecified
+28931,Brand Leader,Design & Creative,Unspecified
+28932,Gang Leader,General / Cross-functional,Unspecified
+28934,Acid Purification Equipment Operator,Manufacturing & Skilled Trades,Unspecified
+28935,Armored Cable Machine Operator,Manufacturing & Skilled Trades,Unspecified
+28937,Bullet Charging Machine Operator,Manufacturing & Skilled Trades,Unspecified
+28938,Category Consultant,General / Cross-functional,Mid
+28942,Cognos Consultant,General / Cross-functional,Mid
+28943,Dog Food Shredder Operator,Manufacturing & Skilled Trades,Unspecified
+28944,Dope Dry House Operator,Manufacturing & Skilled Trades,Unspecified
+28945,Earth Moving Machine Operator,Manufacturing & Skilled Trades,Unspecified
+28948,Furnace Charging Machine Operator,Manufacturing & Skilled Trades,Unspecified
+28949,Garden Consultant,General / Cross-functional,Mid
+28950,Glue Size Machine Operator,Manufacturing & Skilled Trades,Unspecified
+28951,Lacquer Pin Press Operator,Manufacturing & Skilled Trades,Unspecified
+28953,Literacy Consultant,General / Cross-functional,Mid
+28954,Long Distance Billing Operator,Finance & Accounting,Unspecified
+28956,Moving Consultant,General / Cross-functional,Mid
+28957,Steam Clothes Press Operator,Manufacturing & Skilled Trades,Unspecified
+28958,Table Top Tile Setter,Manufacturing & Skilled Trades,Unspecified
+28962,Transformation Consultant,General / Cross-functional,Mid
+28964,Wallpaper Consultant,General / Cross-functional,Mid
+28970,Corporate Strategy Intern,General / Cross-functional,Junior / Entry
+28972,Ship Rigger Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+28974,Experimental Flight Test Mechanic,Manufacturing & Skilled Trades,Unspecified
+28975,Life Care Planner,Operations & Supply Chain,Unspecified
+28977,Spanish Professor,Education & Training,Unspecified
+28978,Cardiac Technologist,Healthcare & Medical,Unspecified
+28980,Cloth Packer,Operations & Supply Chain,Unspecified
+28981,Elevator Repairer,Manufacturing & Skilled Trades,Unspecified
+28982,Hat Body Sorter,Manufacturing & Skilled Trades,Unspecified
+28985,Rotary Furnace Tender,Manufacturing & Skilled Trades,Unspecified
+28987,Federal Java Developer,Software & Engineering,Mid
+28990,Peoplesoft CRM Developer,Software & Engineering,Mid
+28991,Peoplesoft Financial Developer,Software & Engineering,Mid
+28992,Peoplesoft HR Developer,Software & Engineering,Mid
+28995,Relay Tester,Manufacturing & Skilled Trades,Unspecified
+28997,Receiving Checker,Operations & Supply Chain,Unspecified
+28998,Behavioral Health Tech,Manufacturing & Skilled Trades,Unspecified
+28999,Behavioral Services Tech,Manufacturing & Skilled Trades,Unspecified
+29000,New Accounts Representative,General / Cross-functional,Unspecified
+29004,Pharmaceutical Specialty Representative,General / Cross-functional,Unspecified
+29005,Recreation Superintendent,Construction & Real Estate,Director
+29006,Spinner Tender,Manufacturing & Skilled Trades,Unspecified
+29008,Shoe Handler,Manufacturing & Skilled Trades,Unspecified
+29009,Speech and Hearing Clinic Director,Healthcare & Medical,Director
+29012,Educational Therapist,Healthcare & Medical,Unspecified
+29013,Instrumentation Designer,Design & Creative,Mid
+29016,Orthopedic Designer,Healthcare & Medical,Mid
+29017,Site Controller,Finance & Accounting,Unspecified
+29018,Substation Designer,Design & Creative,Mid
+29019,Top Distribution Executive,Operations & Supply Chain,Unspecified
+29021,Warehouse Order Puller,Operations & Supply Chain,Unspecified
+29022,Machinery Cleaner,Manufacturing & Skilled Trades,Unspecified
+29023,Paint Roller Assembler,Manufacturing & Skilled Trades,Unspecified
+29024,Aircraft Servicer,Other,Unspecified
+29025,Auto Servicer,Other,Unspecified
+29026,Car Servicer,Other,Unspecified
+29027,Customer Servicer,Customer Success & Support,Unspecified
+29028,Field Servicer,Other,Unspecified
+29029,Industrial Servicer,Other,Unspecified
+29030,Line Servicer,Other,Unspecified
+29031,Repair Servicer,Other,Unspecified
+29032,Chemist Internship,Science & Research,Junior / Entry
+29033,Claims Collector,Finance & Accounting,Unspecified
+29034,Coating Mixer,Manufacturing & Skilled Trades,Unspecified
+29035,Dye Mixer,Manufacturing & Skilled Trades,Unspecified
+29036,Internal Sales,Sales & Business Development,Junior / Entry
+29037,Plate Roller,Other,Unspecified
+29038,Sand Mixer,Manufacturing & Skilled Trades,Unspecified
+29039,Air Conditioning Installer,Manufacturing & Skilled Trades,Unspecified
+29040,Dye House Vat Worker,General / Cross-functional,Unspecified
+29043,Police Communications Dispatcher,Marketing & Growth,Unspecified
+29044,Police Radio Dispatcher,Operations & Supply Chain,Unspecified
+29049,Employee Relations Advisor,Human Resources & Recruiting,Unspecified
+29050,Search Optimization Analyst,General / Cross-functional,Mid
+29051,Cab Worker,General / Cross-functional,Unspecified
+29052,Cardroom Worker,General / Cross-functional,Unspecified
+29053,Chrome Worker,General / Cross-functional,Unspecified
+29054,Compound Worker,General / Cross-functional,Unspecified
+29055,Convention Worker,General / Cross-functional,Unspecified
+29057,Event Executive,"Hospitality, Food & Travel",Unspecified
+29058,Explosives Worker,General / Cross-functional,Unspecified
+29059,Landing Worker,General / Cross-functional,Unspecified
+29060,Lube Worker,General / Cross-functional,Unspecified
+29061,Offal Worker,General / Cross-functional,Unspecified
+29062,Pier Worker,General / Cross-functional,Unspecified
+29063,Playground Worker,General / Cross-functional,Unspecified
+29064,Plugger Worker,General / Cross-functional,Unspecified
+29066,Silo Worker,General / Cross-functional,Unspecified
+29067,Skid Worker,General / Cross-functional,Unspecified
+29068,Stucco Worker,General / Cross-functional,Unspecified
+29069,Division Chief,General / Cross-functional,C-Level
+29070,Furnace Packer,Operations & Supply Chain,Unspecified
+29071,Hot Water Heater Installer,Manufacturing & Skilled Trades,Unspecified
+29072,Psychologist Chief,Healthcare & Medical,C-Level
+29073,Solar Water Heater Installer,Energy & Utilities,Unspecified
+29075,Correspondence Representative,General / Cross-functional,Unspecified
+29076,Drywall Installer,Manufacturing & Skilled Trades,Unspecified
+29077,Harness Installer,Manufacturing & Skilled Trades,Unspecified
+29078,Phone Representative,General / Cross-functional,Unspecified
+29079,Air Brake Man,Manufacturing & Skilled Trades,Unspecified
+29080,Leather Polisher,Manufacturing & Skilled Trades,Unspecified
+29083,Child Care Group Leader,General / Cross-functional,Unspecified
+29084,Electronic Assembler Group Leader,Manufacturing & Skilled Trades,Unspecified
+29086,Frame Feeder,Manufacturing & Skilled Trades,Unspecified
+29087,Guide Winder,Other,Unspecified
+29088,Lawn and Garden Technician,Manufacturing & Skilled Trades,Unspecified
+29089,Master Certified Rv Technician,Manufacturing & Skilled Trades,Unspecified
+29090,Mobile Service Rv Technician,Manufacturing & Skilled Trades,Unspecified
+29091,Police Crime Scene Technician,"Public Sector, Defense & Safety",Unspecified
+29092,Weigher and Mixer,Manufacturing & Skilled Trades,Unspecified
+29094,Cafeteria Helper,Manufacturing & Skilled Trades,Junior / Entry
+29095,Dining Room Helper,Manufacturing & Skilled Trades,Junior / Entry
+29096,Feed Mixer Helper,Manufacturing & Skilled Trades,Junior / Entry
+29097,Hatchery Helper,Manufacturing & Skilled Trades,Junior / Entry
+29098,Press Set Up Person,Manufacturing & Skilled Trades,Unspecified
+29099,Upholsterer Helper,Manufacturing & Skilled Trades,Junior / Entry
+29101,Chemical Educator,Other,Unspecified
+29102,Clinical Educator,Healthcare & Medical,Unspecified
+29104,Development Educator,Other,Unspecified
+29106,Family Educator,Other,Unspecified
+29107,Health Educator,Other,Unspecified
+29108,Medical Educator,Healthcare & Medical,Unspecified
+29110,Nurse Educator,Healthcare & Medical,Unspecified
+29111,Nursing Educator,Healthcare & Medical,Unspecified
+29112,Patient Educator,Healthcare & Medical,Unspecified
+29113,Software Educator,Software & Engineering,Unspecified
+29115,Staff Educator,General / Cross-functional,Senior
+29116,Unit Educator,Other,Unspecified
+29117,Contact Person,Other,Unspecified
+29118,Biodiesel Plant Operations Engineer,Operations & Supply Chain,Mid
+29119,Pattern Painter,Manufacturing & Skilled Trades,Unspecified
+29122,Water Pumping Station Engineer,Other,Mid
+29123,Learning and Development Intern,Human Resources & Recruiting,Junior / Entry
+29125,Board Certified Music Therapist,Healthcare & Medical,Unspecified
+29126,Box Packer,Operations & Supply Chain,Unspecified
+29127,Composition Instructor,Education & Training,Unspecified
+29128,Family Practice Physician,Healthcare & Medical,Unspecified
+29129,Land Lease Information Clerk,Construction & Real Estate,Unspecified
+29131,Valve Setter,Manufacturing & Skilled Trades,Unspecified
+29132,Block Layer,Other,Unspecified
+29133,Actuary Clerk,Finance & Accounting,Unspecified
+29134,Agency Sales Development Associate,Sales & Business Development,Junior / Entry
+29135,Formula Clerk,Administration & Office Support,Unspecified
+29136,Microfilm Clerk,Administration & Office Support,Unspecified
+29138,Principal Hardware Architect,Education & Training,Director
+29139,Return Clerk,Administration & Office Support,Unspecified
+29140,Stockroom Clerk,Administration & Office Support,Unspecified
+29141,Stores Clerk,Administration & Office Support,Unspecified
+29143,Dispatch Associate,General / Cross-functional,Junior / Entry
+29145,Summer Associate,General / Cross-functional,Junior / Entry
+29147,Cafeteria Counter Attendant,Operations & Supply Chain,Unspecified
+29148,Cafeteria Table Attendant,Other,Unspecified
+29149,Dog Day Care Attendant,Other,Unspecified
+29150,Slot Floor Attendant,Other,Unspecified
+29151,Sports Book Board Attendant,"Media, Sports & Entertainment",Unspecified
+29152,Supervising Law Enforcement Analyst,General / Cross-functional,Mid
+29154,Grants Assistant,General / Cross-functional,Junior / Entry
+29155,Investigative Assistant,General / Cross-functional,Junior / Entry
+29158,Mri Assistant,Healthcare & Medical,Junior / Entry
+29159,Nurses Assistant,Healthcare & Medical,Junior / Entry
+29160,Podiatric Assistant,Healthcare & Medical,Junior / Entry
+29161,Reference Assistant,General / Cross-functional,Junior / Entry
+29162,Stores Assistant,General / Cross-functional,Junior / Entry
+29163,Librarian Head,Education & Training,Unspecified
+29164,Compensation Adjuster,Human Resources & Recruiting,Unspecified
+29165,Pharmacist Aide,Healthcare & Medical,Junior / Entry
+29166,Psychiatric Aide,Healthcare & Medical,Junior / Entry
+29167,Hospice Physician,Healthcare & Medical,Unspecified
+29168,Bench Hand Machine,Manufacturing & Skilled Trades,Unspecified
+29169,Edge Grinder Machine,Manufacturing & Skilled Trades,Unspecified
+29170,Tile Picker,Operations & Supply Chain,Unspecified
+29172,Continuous Improvement Intern,General / Cross-functional,Junior / Entry
+29173,Creative Services Intern,General / Cross-functional,Junior / Entry
+29174,Customer Experience Intern,Customer Success & Support,Junior / Entry
+29175,Etcher Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+29176,Shoe Puller,Other,Unspecified
+29177,Well Puller,Other,Unspecified
+29178,Cardiology Nurse,Healthcare & Medical,Unspecified
+29179,Transition Nurse,Healthcare & Medical,Unspecified
+29180,Ammunition Officer,General / Cross-functional,Unspecified
+29181,Automation Machine Builder,Manufacturing & Skilled Trades,Unspecified
+29182,Booking Officer,General / Cross-functional,Unspecified
+29183,Classification Officer,General / Cross-functional,Unspecified
+29185,Custodial Officer,General / Cross-functional,Unspecified
+29186,Fisheries Officer,Agriculture & Environment,Unspecified
+29187,Patient Care,Healthcare & Medical,Unspecified
+29188,Restoration Officer,General / Cross-functional,Unspecified
+29189,Batch Maker,Manufacturing & Skilled Trades,Unspecified
+29191,Client Insights Consultant,General / Cross-functional,Mid
+29192,Coat Maker,Manufacturing & Skilled Trades,Unspecified
+29193,Desktop Administrator,General / Cross-functional,Unspecified
+29194,Display Maker,Manufacturing & Skilled Trades,Unspecified
+29196,Fleet Administrator,Operations & Supply Chain,Unspecified
+29198,Natural Gas Treating Unit Operator,Manufacturing & Skilled Trades,Unspecified
+29199,SAP Treasury Consultant,Finance & Accounting,Mid
+29202,Shell Molding Roller Blast Operator,Manufacturing & Skilled Trades,Unspecified
+29204,Civil Engineering Professional,Engineering (Non-Software),Mid
+29208,Hand Shoe Cutter,Manufacturing & Skilled Trades,Unspecified
+29213,Acid Polymerization Operator,Manufacturing & Skilled Trades,Unspecified
+29214,Acoustic Sensor Operator,Manufacturing & Skilled Trades,Unspecified
+29220,Bale Breaker Operator,Manufacturing & Skilled Trades,Unspecified
+29236,Desizing Pad Operator,Manufacturing & Skilled Trades,Unspecified
+29237,Diesel Scoop Operator,Manufacturing & Skilled Trades,Unspecified
+29239,Dope Weigh Operator,Manufacturing & Skilled Trades,Unspecified
+29243,Electric Scoop Operator,Manufacturing & Skilled Trades,Unspecified
+29251,Keno Terminal Operator,Manufacturing & Skilled Trades,Unspecified
+29259,Non Acoustic Operator,Manufacturing & Skilled Trades,Unspecified
+29267,Ring Barker Operator,Manufacturing & Skilled Trades,Unspecified
+29273,Skimmer Scoop Operator,Manufacturing & Skilled Trades,Unspecified
+29276,Sludge Filtration Operator,Manufacturing & Skilled Trades,Unspecified
+29280,Synthetic Resin Operator,Manufacturing & Skilled Trades,Unspecified
+29282,Trench Shovel Operator,Manufacturing & Skilled Trades,Unspecified
+29284,Vending Route Driver,Operations & Supply Chain,Unspecified
+29288,CRM Architect,Design & Creative,Unspecified
+29290,UX Architect,Design & Creative,Unspecified
+29291,Contract Loader,Manufacturing & Skilled Trades,Unspecified
+29292,Log Loader,Manufacturing & Skilled Trades,Unspecified
+29296,Shot Polisher and Inspector,General / Cross-functional,Unspecified
+29297,Graduate Student Instructor,Education & Training,Junior / Entry
+29298,Mobile Home Lot Utility Worker,Energy & Utilities,Unspecified
+29299,Sample Processor,Other,Unspecified
+29300,Aeronautical Inspector,General / Cross-functional,Unspecified
+29301,Alteration Inspector,General / Cross-functional,Unspecified
+29303,Certified Legal Investigator,Legal,Unspecified
+29304,Chassis Inspector,General / Cross-functional,Unspecified
+29305,Child Support Investigator,General / Cross-functional,Unspecified
+29306,Emissions Inspector,General / Cross-functional,Unspecified
+29307,Field Traffic Investigator,General / Cross-functional,Unspecified
+29308,Flour Inspector,General / Cross-functional,Unspecified
+29309,Grey Inspector,General / Cross-functional,Unspecified
+29311,Medical Legal Investigator,Healthcare & Medical,Unspecified
+29312,Smoke Inspector,General / Cross-functional,Unspecified
+29313,Towel Inspector,General / Cross-functional,Unspecified
+29314,Wallpaper Inspector,General / Cross-functional,Unspecified
+29316,Wheat Inspector,General / Cross-functional,Unspecified
+29317,Business Intelligence ETL Developer,Software & Engineering,Mid
+29318,Data Analyst ETL Developer,Software & Engineering,Mid
+29319,Operating Room Tech,Manufacturing & Skilled Trades,Unspecified
+29320,Behavioral Therapist,Healthcare & Medical,Unspecified
+29324,Goods Layer,Other,Unspecified
+29330,Shuttle Hand,Manufacturing & Skilled Trades,Unspecified
+29331,Stage Driver,Operations & Supply Chain,Unspecified
+29332,Tanker Driver,Operations & Supply Chain,Unspecified
+29334,Chain Carrier,Other,Unspecified
+29335,Associate Attorney,Legal,Junior / Entry
+29336,Business Attorney,Legal,Unspecified
+29337,Claims Attorney,Finance & Accounting,Unspecified
+29338,Commercial Attorney,Legal,Unspecified
+29339,Compliance Attorney,Finance & Accounting,Unspecified
+29341,Energy Attorney,Legal,Unspecified
+29342,Environmental Attorney,Legal,Unspecified
+29343,Estate Attorney,Legal,Unspecified
+29344,Insurance Attorney,Legal,Unspecified
+29345,Research Attorney,Science & Research,Unspecified
+29346,Senior Attorney,Legal,Senior
+29347,Sports Attorney,Legal,Unspecified
+29348,Staff Attorney,Legal,Senior
+29349,Tax Attorney,Finance & Accounting,Unspecified
+29351,Director Pharmacy Services,Healthcare & Medical,Director
+29352,Picker Feeder,Operations & Supply Chain,Unspecified
+29353,Warehouse Order Filler,Operations & Supply Chain,Unspecified
+29354,SAP Trainer,Other,Unspecified
+29355,Signal Fitter,Manufacturing & Skilled Trades,Unspecified
+29356,Hospital Cook,Healthcare & Medical,Unspecified
+29357,Hospital Recruiter,Human Resources & Recruiting,Unspecified
+29361,Creative Writing Teacher,Education & Training,Unspecified
+29364,Medical Aides Teacher,Healthcare & Medical,Unspecified
+29365,Nutrition Aides Teacher,Education & Training,Unspecified
+29367,Psychiatric Aides Teacher,Education & Training,Unspecified
+29369,Surgical Aides Teacher,Healthcare & Medical,Unspecified
+29375,Coroner Forensic Technician,Manufacturing & Skilled Trades,Unspecified
+29381,Pot Tender,Manufacturing & Skilled Trades,Unspecified
+29384,Quality Assurance Group Leader,General / Cross-functional,Unspecified
+29398,Middle School French Teacher,Education & Training,Unspecified
+29402,Histology Teacher,Education & Training,Unspecified
+29403,Hygiene Teacher,Education & Training,Unspecified
+29404,Intermediate Teacher,Education & Training,Unspecified
+29405,Keyboard Teacher,Education & Training,Unspecified
+29407,Psychiatry Teacher,Education & Training,Unspecified
+29409,Composite Mechanic,Manufacturing & Skilled Trades,Unspecified
+29412,Veneer Trimmer,Manufacturing & Skilled Trades,Unspecified
+29413,Computer Help Desk Representative,IT & Infrastructure,Unspecified
+29415,Graphic Art Sales Representative,Design & Creative,Unspecified
+29416,High School Admissions Representative,Education & Training,Unspecified
+29417,Still Cleaner,Manufacturing & Skilled Trades,Unspecified
+29418,Strip Cleaner,Manufacturing & Skilled Trades,Unspecified
+29419,Nut Process Helper,Manufacturing & Skilled Trades,Junior / Entry
+29420,Binder Cutter,Manufacturing & Skilled Trades,Unspecified
+29421,Chief Port Director,General / Cross-functional,C-Level
+29422,Client Success Director,Customer Success & Support,Director
+29426,Customs Port Director,Operations & Supply Chain,Director
+29432,Outdoor Studies Director,General / Cross-functional,Director
+29435,Religious Activities Director,General / Cross-functional,Director
+29438,Tape Cutter,Manufacturing & Skilled Trades,Unspecified
+29441,Contact Center Professional,Customer Success & Support,Unspecified
+29442,Distribution Systems Superintendent,Operations & Supply Chain,Director
+29443,Admissions Counselor,Healthcare & Medical,Unspecified
+29444,Back Winder,Other,Unspecified
+29446,Academic Coach,Education & Training,Unspecified
+29447,Instructional Coach,Education & Training,Unspecified
+29448,Surgeon Chief,Healthcare & Medical,C-Level
+29449,Bath Design Sales Consultant,Sales & Business Development,Mid
+29452,Cable Layer,Other,Unspecified
+29453,Adjunct Art History Instructor,Education & Training,Unspecified
+29454,Airport Skilled Maintenance Supervisor,Construction & Real Estate,Manager
+29457,Command and Control Specialist,General / Cross-functional,Mid
+29458,Hospice Superintendent,Healthcare & Medical,Director
+29459,Ship Superintendent,Construction & Real Estate,Director
+29461,Appraisal Specialist,General / Cross-functional,Mid
+29462,Carburetor Specialist,General / Cross-functional,Mid
+29463,Dispute Specialist,General / Cross-functional,Mid
+29464,Endocrinology Specialist,Healthcare & Medical,Mid
+29465,Excel Specialist,General / Cross-functional,Mid
+29466,Food and Beverage Associate,General / Cross-functional,Junior / Entry
+29468,Landscaping Specialist,Agriculture & Environment,Mid
+29469,Lubricating Specialist,General / Cross-functional,Mid
+29470,Metrology Specialist,General / Cross-functional,Mid
+29471,Mgmt Specialist,General / Cross-functional,Mid
+29472,Migration Specialist,General / Cross-functional,Mid
+29473,Obgyn Specialist,General / Cross-functional,Mid
+29475,PR Specialist,General / Cross-functional,Mid
+29476,Protein Specialist,General / Cross-functional,Mid
+29477,Replenishment Specialist,General / Cross-functional,Mid
+29478,Transfer Man,Manufacturing & Skilled Trades,Unspecified
+29479,Um Specialist,General / Cross-functional,Mid
+29480,Vaccine Specialist,Healthcare & Medical,Mid
+29481,Window Repairer,Manufacturing & Skilled Trades,Unspecified
+29482,Biology Intern,General / Cross-functional,Junior / Entry
+29483,Final Inspector and Tester,Manufacturing & Skilled Trades,Unspecified
+29484,Occupational Health Physician,Healthcare & Medical,Unspecified
+29485,Occupational Medicine Physician,Healthcare & Medical,Unspecified
+29486,Psychology Intern,General / Cross-functional,Junior / Entry
+29487,Factory Assembler,Manufacturing & Skilled Trades,Unspecified
+29488,First Officer and Flight Instructor,Education & Training,Unspecified
+29489,Airplane Mechanic Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+29490,Bath Tester,Manufacturing & Skilled Trades,Unspecified
+29494,Global Recruiter,Human Resources & Recruiting,Unspecified
+29495,Knitting Tester,Manufacturing & Skilled Trades,Unspecified
+29498,Pole Tester,Manufacturing & Skilled Trades,Unspecified
+29499,Poultry Grader,Other,Unspecified
+29500,Wood Patternmaker Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+29502,Contract Programmer,Software & Engineering,Unspecified
+29503,Dentist Attendant,Healthcare & Medical,Unspecified
+29504,Fountain Attendant,Other,Unspecified
+29505,Powerhouse Attendant,Other,Unspecified
+29506,Signal Person,Other,Unspecified
+29507,Case Packer,Operations & Supply Chain,Unspecified
+29508,Inventory Checker,Operations & Supply Chain,Unspecified
+29509,Lumber Checker,Operations & Supply Chain,Unspecified
+29510,Packing Checker,Operations & Supply Chain,Unspecified
+29514,Golf Course Mechanic,Manufacturing & Skilled Trades,Unspecified
+29515,Hammer Setter,Manufacturing & Skilled Trades,Unspecified
+29518,Jet Ski Mechanic,Manufacturing & Skilled Trades,Unspecified
+29519,Jewel Setter,Manufacturing & Skilled Trades,Unspecified
+29520,Nuclear Powerplant Mechanic,Energy & Utilities,Unspecified
+29521,Shear Setter,Manufacturing & Skilled Trades,Unspecified
+29522,Fish Farmer,Other,Unspecified
+29523,Grain Handler,Manufacturing & Skilled Trades,Unspecified
+29525,Sewing Machine Repairer Helper,Manufacturing & Skilled Trades,Junior / Entry
+29530,Splicer Helper,Manufacturing & Skilled Trades,Junior / Entry
+29531,Sprinkler Helper,Manufacturing & Skilled Trades,Junior / Entry
+29532,Treater Helper,Manufacturing & Skilled Trades,Junior / Entry
+29533,Wood Treating Inspector,General / Cross-functional,Unspecified
+29534,Belt Polisher,Manufacturing & Skilled Trades,Unspecified
+29536,Top Polisher,Manufacturing & Skilled Trades,Unspecified
+29537,Screen Printing Machine Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+29538,Activities Aide,Healthcare & Medical,Junior / Entry
+29539,Mental Health Tech,Manufacturing & Skilled Trades,Unspecified
+29540,Photographic Aide,Design & Creative,Junior / Entry
+29541,Rehab Aide,Healthcare & Medical,Junior / Entry
+29542,Restaurant Shift Leader,"Hospitality, Food & Travel",Unspecified
+29543,Strategic Marketing Leader,Marketing & Growth,Unspecified
+29544,Global Regulatory Lead,General / Cross-functional,Manager
+29545,Inside Sales Lead,Sales & Business Development,Manager
+29546,Bilingual Teacher Aide,Education & Training,Junior / Entry
+29549,Garment Examiner,Education & Training,Unspecified
+29550,Guest Service Aide,"Hospitality, Food & Travel",Junior / Entry
+29551,Mason Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+29552,Plumber Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+29557,Weight and Test Bar Clerk,Administration & Office Support,Unspecified
+29559,Director of Engineering,Other,VP / Head
+29562,Telegraph Installer,Manufacturing & Skilled Trades,Unspecified
+29563,Business Analysis Professional,General / Cross-functional,Unspecified
+29566,Hospice Admitting Clerk,Healthcare & Medical,Unspecified
+29567,Hospital Admitting Clerk,Healthcare & Medical,Unspecified
+29570,Outpatient Admitting Clerk,Healthcare & Medical,Unspecified
+29571,Patient Admitting Clerk,Healthcare & Medical,Unspecified
+29573,Telephone Appointment Clerk,Administration & Office Support,Unspecified
+29574,Body Service Team Member,Other,Unspecified
+29579,Starch Treating Assistant,General / Cross-functional,Junior / Entry
+29580,Accounting Auditor,Finance & Accounting,Unspecified
+29581,Accounting Recruiter,Finance & Accounting,Unspecified
+29582,Certified Performance Technologist,Healthcare & Medical,Unspecified
+29583,Human Performance Technologist,Healthcare & Medical,Unspecified
+29584,Student Recruiter,Human Resources & Recruiting,Junior / Entry
+29585,Sheet Finisher,Manufacturing & Skilled Trades,Unspecified
+29586,Acid Loader,Manufacturing & Skilled Trades,Unspecified
+29587,Cement Cutter,Manufacturing & Skilled Trades,Unspecified
+29588,Contract Processor,Other,Unspecified
+29589,Mortgage Processor,Other,Unspecified
+29590,Certified Orthotist Practice Manager,General / Cross-functional,Manager
+29591,Kosher Dietary Service Manager,General / Cross-functional,Manager
+29592,Off Track Betting Manager,General / Cross-functional,Manager
+29593,Online Affiliate Marketing Manager,Marketing & Growth,Manager
+29595,Section 8 Property Manager,Construction & Real Estate,Manager
+29597,Life Educator,Other,Unspecified
+29598,Abattoir Manager,General / Cross-functional,Manager
+29600,Artist's Manager,Design & Creative,Manager
+29601,Baccarat Manager,General / Cross-functional,Manager
+29602,Completion Manager,General / Cross-functional,Manager
+29603,Completions Manager,General / Cross-functional,Manager
+29604,Condominium Manager,General / Cross-functional,Manager
+29605,Copyright Manager,General / Cross-functional,Manager
+29606,Costing Manager,General / Cross-functional,Manager
+29608,Evs Manager,General / Cross-functional,Manager
+29609,Geochemical Manager,General / Cross-functional,Manager
+29610,Hims Manager,General / Cross-functional,Manager
+29611,Leave Manager,General / Cross-functional,Manager
+29613,Mall Manager,General / Cross-functional,Manager
+29614,Mis Manager,General / Cross-functional,Manager
+29615,Nc Manager,General / Cross-functional,Manager
+29616,Perianesthesia Manager,Healthcare & Medical,Manager
+29618,Supplemental Manager,General / Cross-functional,Manager
+29619,Trucking Manager,General / Cross-functional,Manager
+29620,Tutoring Manager,Education & Training,Manager
+29622,Aircraft Machinist,Manufacturing & Skilled Trades,Unspecified
+29627,Field Machinist,Manufacturing & Skilled Trades,Unspecified
+29628,Fitter Machinist,Manufacturing & Skilled Trades,Unspecified
+29629,General Machinist,Manufacturing & Skilled Trades,Unspecified
+29630,Head Machinist,Manufacturing & Skilled Trades,Unspecified
+29632,Laboratory Machinist,Science & Research,Unspecified
+29635,Manager Assembly,General / Cross-functional,Manager
+29636,Marine Machinist,Manufacturing & Skilled Trades,Unspecified
+29637,Master Machinist,Manufacturing & Skilled Trades,Unspecified
+29638,Medical Assembly,Healthcare & Medical,Unspecified
+29639,Metal Machinist,Manufacturing & Skilled Trades,Unspecified
+29640,Mill Machinist,Manufacturing & Skilled Trades,Unspecified
+29641,Plant Machinist,Manufacturing & Skilled Trades,Unspecified
+29643,Radio Machinist,Manufacturing & Skilled Trades,Unspecified
+29645,Tool Machinist,Manufacturing & Skilled Trades,Unspecified
+29647,Admissions Advisor,Education & Training,Unspecified
+29649,Art Librarian,Education & Training,Unspecified
+29651,Business Librarian,Education & Training,Unspecified
+29652,Chemical Librarian,Education & Training,Unspecified
+29653,Corporate Librarian,Education & Training,Unspecified
+29654,Data Librarian,Education & Training,Unspecified
+29655,Digital Librarian,Education & Training,Unspecified
+29656,Engineering Librarian,Education & Training,Mid
+29657,Head Librarian,Education & Training,Unspecified
+29658,Legal Librarian,Education & Training,Unspecified
+29659,Media Librarian,Education & Training,Unspecified
+29660,Medical Librarian,Healthcare & Medical,Unspecified
+29662,Principal Librarian,Education & Training,Director
+29663,Research Librarian,Science & Research,Unspecified
+29665,Senior Librarian,Education & Training,Senior
+29668,Systems Librarian,Education & Training,Unspecified
+29669,Internet Marketing Intern,Marketing & Growth,Junior / Entry
+29670,Net Developer Programmer,Software & Engineering,Mid
+29671,Senior Net Programmer,Software & Engineering,Senior
+29672,Flow Nurse,Healthcare & Medical,Unspecified
+29673,Health and Fitness Professor,Education & Training,Unspecified
+29674,Tire Servicer,Other,Unspecified
+29676,Furniture Mover Driver,Operations & Supply Chain,Unspecified
+29677,Special Events Driver,Operations & Supply Chain,Unspecified
+29678,Welder Gas Automatic,Manufacturing & Skilled Trades,Unspecified
+29679,Director of Product Management,Other,VP / Head
+29680,General Utility Maintenance Repairer,Energy & Utilities,Unspecified
+29681,Facility Planner,Operations & Supply Chain,Unspecified
+29682,Commercial Baker Helper,"Hospitality, Food & Travel",Junior / Entry
+29683,Diamond Driller Helper,Manufacturing & Skilled Trades,Junior / Entry
+29685,Transportation Museum Helper,Operations & Supply Chain,Junior / Entry
+29686,A P Supervisor,General / Cross-functional,Manager
+29687,Bookkeeping Clerks Supervisor,Administration & Office Support,Manager
+29688,Complaint Evaluation Officer,Finance & Accounting,Unspecified
+29689,Compressed Yeast Supervisor,Manufacturing & Skilled Trades,Manager
+29691,Gate Tender,Manufacturing & Skilled Trades,Unspecified
+29693,Heat Treat Supervisor,General / Cross-functional,Manager
+29698,Refueling Ramp Supervisor,General / Cross-functional,Manager
+29700,Shear Tender,Manufacturing & Skilled Trades,Unspecified
+29701,Slate Splitting Supervisor,General / Cross-functional,Manager
+29702,Still Tender,Manufacturing & Skilled Trades,Unspecified
+29703,Track Inspecting Supervisor,General / Cross-functional,Manager
+29704,Typing Pool Supervisor,General / Cross-functional,Manager
+29706,Bill of Materials Clerk,Operations & Supply Chain,Unspecified
+29707,Desktop Architect,Design & Creative,Unspecified
+29708,Federal District Law Clerk,Legal,Unspecified
+29709,Hadoop Developer,Software & Engineering,Mid
+29710,Implementation Architect,Design & Creative,Unspecified
+29711,Javascript Developer,Software & Engineering,Mid
+29712,Maintenance of Way Clerk,Administration & Office Support,Unspecified
+29715,R Developer,Software & Engineering,Mid
+29716,Utility Bill Collection Clerk,Energy & Utilities,Unspecified
+29717,Authorization Coordinator,Administration & Office Support,Unspecified
+29718,Back Shoe Cutter,Manufacturing & Skilled Trades,Unspecified
+29719,Discharge Coordinator,Administration & Office Support,Unspecified
+29720,Email Administrator,General / Cross-functional,Unspecified
+29721,GIS Administrator,General / Cross-functional,Unspecified
+29722,Hand Outside Cutter,Manufacturing & Skilled Trades,Unspecified
+29723,Hedis Coordinator,Administration & Office Support,Unspecified
+29724,Hris Coordinator,Human Resources & Recruiting,Unspecified
+29725,Human Resource Internship,Other,Junior / Entry
+29726,Humanities Coordinator,Administration & Office Support,Unspecified
+29729,Weatherization Coordinator,Administration & Office Support,Unspecified
+29732,Public Aid Eligibility Assistant,General / Cross-functional,Junior / Entry
+29733,Recruitment and Outreach Assistant,General / Cross-functional,Junior / Entry
+29735,Spray Drier Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+29736,Treasury Representative,Finance & Accounting,Unspecified
+29737,Belt Sewer,Manufacturing & Skilled Trades,Unspecified
+29738,Interactive Media Marketing Director,Marketing & Growth,Director
+29741,Biofuels Plant Construction Worker,Construction & Real Estate,Unspecified
+29743,Spring Former Machine,Manufacturing & Skilled Trades,Unspecified
+29744,Wafer Polishing Lead Worker,General / Cross-functional,Manager
+29745,Dramatic Director,General / Cross-functional,Director
+29746,Grants Director,General / Cross-functional,Director
+29747,Nurses Director,Healthcare & Medical,Director
+29748,Parole Director,General / Cross-functional,Director
+29749,Privacy Director,General / Cross-functional,Director
+29750,Shelter Director,General / Cross-functional,Director
+29751,Weatherization Director,General / Cross-functional,Director
+29754,Marketing Analytics Lead,Marketing & Growth,Manager
+29755,Data Base Design Analyst,General / Cross-functional,Mid
+29756,Life Cycle Assessment Analyst,General / Cross-functional,Mid
+29760,Cattle Alley Worker,General / Cross-functional,Unspecified
+29761,Organic Lab Worker,General / Cross-functional,Unspecified
+29763,Poultry Dressing Worker,General / Cross-functional,Unspecified
+29766,Turn Down Worker,General / Cross-functional,Unspecified
+29768,Director of Operations Support,Operations & Supply Chain,VP / Head
+29769,Director of Sales Support,Sales & Business Development,VP / Head
+29771,Bpm Analyst,General / Cross-functional,Mid
+29772,Combustion Analyst,General / Cross-functional,Mid
+29773,Copy and Print Associate,Marketing & Growth,Junior / Entry
+29774,Ecommerce Analyst,General / Cross-functional,Mid
+29775,EDI Analyst,General / Cross-functional,Mid
+29776,Food and Beverage Attendant,Other,Unspecified
+29777,Geographic Analyst,Design & Creative,Mid
+29779,Him Analyst,General / Cross-functional,Mid
+29780,Knowledge Analyst,General / Cross-functional,Mid
+29782,Procedure Analyst,General / Cross-functional,Mid
+29783,Wage Analyst,General / Cross-functional,Mid
+29784,Willow Analyst,General / Cross-functional,Mid
+29785,Wood Heel Fitter Machine,Manufacturing & Skilled Trades,Unspecified
+29786,Automatic Coin Machine Mechanic,Manufacturing & Skilled Trades,Unspecified
+29787,Heavy Duty Diesel Mechanic,Manufacturing & Skilled Trades,Unspecified
+29788,Heavy Duty Truck Mechanic,Manufacturing & Skilled Trades,Unspecified
+29789,Weapons System Instrument Mechanic,Manufacturing & Skilled Trades,Unspecified
+29790,Bioinformatics Associate,Science & Research,Junior / Entry
+29791,Hospital Educator,Healthcare & Medical,Unspecified
+29794,Roving Hand,Manufacturing & Skilled Trades,Unspecified
+29795,Marine Steam Fitter,Manufacturing & Skilled Trades,Unspecified
+29796,Steam Pipe Fitter,Manufacturing & Skilled Trades,Unspecified
+29797,Pharmacist Intern,Healthcare & Medical,Junior / Entry
+29798,Procurement Intern,Sales & Business Development,Junior / Entry
+29799,Psychiatric Registered Nurse,Healthcare & Medical,Unspecified
+29800,Psychiatric Security Nurse,Healthcare & Medical,Unspecified
+29801,Behavioral Health Aide,Healthcare & Medical,Junior / Entry
+29802,HVAC Service Tech,Manufacturing & Skilled Trades,Unspecified
+29806,Door Captain,Other,Unspecified
+29812,Infrastructure Security Architect,IT & Infrastructure,Unspecified
+29814,Internal Combustion Engineer,Other,Mid
+29817,Lead Infrastructure Architect,IT & Infrastructure,Manager
+29819,Market Investigator,General / Cross-functional,Unspecified
+29821,Pre Sales Architect,Design & Creative,Unspecified
+29824,Senior Infrastructure Architect,IT & Infrastructure,Senior
+29830,Aligner,Other,Unspecified
+29831,Can Washer,Manufacturing & Skilled Trades,Unspecified
+29836,Rail Washer,Manufacturing & Skilled Trades,Unspecified
+29838,Sample Washer,Manufacturing & Skilled Trades,Unspecified
+29839,Threader,Manufacturing & Skilled Trades,Unspecified
+29840,Dry Cleaning Machine Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+29841,Assistant Foreman,Manufacturing & Skilled Trades,Manager
+29842,Collections Professional,Finance & Accounting,Unspecified
+29843,Concrete Foreman,Manufacturing & Skilled Trades,Manager
+29845,Crew Foreman,Manufacturing & Skilled Trades,Manager
+29846,Electrical Foreman,Manufacturing & Skilled Trades,Manager
+29847,Field Foreman,Manufacturing & Skilled Trades,Manager
+29848,Funeral Professional,General / Cross-functional,Unspecified
+29850,Hotel Guest Service Agent,"Hospitality, Food & Travel",Unspecified
+29851,Maintenance Foreman,Manufacturing & Skilled Trades,Manager
+29852,Mechanic Foreman,Manufacturing & Skilled Trades,Manager
+29853,Painter Foreman,Manufacturing & Skilled Trades,Manager
+29854,Pipe Foreman,Manufacturing & Skilled Trades,Manager
+29856,Senior Foreman,Manufacturing & Skilled Trades,Manager
+29857,Shop Foreman,Manufacturing & Skilled Trades,Manager
+29859,Warehouse Foreman,Operations & Supply Chain,Manager
+29860,Bed Setter,Manufacturing & Skilled Trades,Unspecified
+29861,Collar Setter,Manufacturing & Skilled Trades,Unspecified
+29862,Freight Car Loader,Operations & Supply Chain,Unspecified
+29863,Grade Setter,Manufacturing & Skilled Trades,Unspecified
+29864,Trim Setter,Manufacturing & Skilled Trades,Unspecified
+29865,Junior Programmer,Software & Engineering,Junior / Entry
+29866,Molding Cutter,Manufacturing & Skilled Trades,Unspecified
+29867,Rotary Cutter,Manufacturing & Skilled Trades,Unspecified
+29868,Supervisor Assembly Department,Other,Manager
+29873,Staff Home Therapy RN,Healthcare & Medical,Senior
+29874,Stone Layer,Other,Unspecified
+29876,All Source Analyst,General / Cross-functional,Mid
+29879,Institutional Commodity Analyst,General / Cross-functional,Mid
+29883,Private Equity Analyst,Finance & Accounting,Mid
+29886,Motor Equipment Captain,Other,Unspecified
+29888,Hospital Secretary,Healthcare & Medical,Unspecified
+29889,Imaging Technologist,Healthcare & Medical,Unspecified
+29890,Employment Coach,Education & Training,Unspecified
+29891,Fitness Coach,Education & Training,Unspecified
+29895,Tar and Ammonia Pump Operator,Manufacturing & Skilled Trades,Unspecified
+29896,Doffer,Other,Unspecified
+29897,Healthcare Administration Intern,General / Cross-functional,Junior / Entry
+29898,Millwright,Manufacturing & Skilled Trades,Unspecified
+29900,Custom Stock Maker,Manufacturing & Skilled Trades,Unspecified
+29902,Healthcare Network Pricing Consultant,General / Cross-functional,Mid
+29903,Window Covering Sales Consultant,Sales & Business Development,Mid
+29904,Franchise Consultant,General / Cross-functional,Mid
+29905,Air Reduction Equipment Operator,Manufacturing & Skilled Trades,Unspecified
+29907,Button Facing Machine Operator,Manufacturing & Skilled Trades,Unspecified
+29908,Electronic Console Display Operator,Manufacturing & Skilled Trades,Unspecified
+29911,Fruit Harvester Machine Operator,Manufacturing & Skilled Trades,Unspecified
+29912,Joiner Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+29915,Petroleum Refining Equipment Operator,Manufacturing & Skilled Trades,Unspecified
+29917,Round Corner Cutter Operator,Manufacturing & Skilled Trades,Unspecified
+29918,Service Station Console Operator,Manufacturing & Skilled Trades,Unspecified
+29919,Shingle Shearing Machine Operator,Manufacturing & Skilled Trades,Unspecified
+29920,Straw Hat Machine Operator,Manufacturing & Skilled Trades,Unspecified
+29921,Straw Hat Washer Operator,Manufacturing & Skilled Trades,Unspecified
+29924,Sweatband Decorating Machine Operator,Manufacturing & Skilled Trades,Unspecified
+29925,V Block Saw Operator,Manufacturing & Skilled Trades,Unspecified
+29926,Accounts Payable Representative,Finance & Accounting,Unspecified
+29927,Accounts Receivable Representative,Finance & Accounting,Unspecified
+29928,Acid Adjuster,Other,Unspecified
+29930,Event Decorator and Designer,Design & Creative,Mid
+29932,French Professor,Education & Training,Unspecified
+29933,GIS Professor,Education & Training,Unspecified
+29937,Volunteer Patient Representative,Healthcare & Medical,Unspecified
+29938,911 Operator,Manufacturing & Skilled Trades,Unspecified
+29939,Alum Operator,Manufacturing & Skilled Trades,Unspecified
+29940,Apron Operator,Manufacturing & Skilled Trades,Unspecified
+29941,Basin Operator,Manufacturing & Skilled Trades,Unspecified
+29942,Batcher Operator,Manufacturing & Skilled Trades,Unspecified
+29944,Cager Operator,Manufacturing & Skilled Trades,Unspecified
+29945,Cat Driver,Operations & Supply Chain,Unspecified
+29946,Caterpillar Operator,Manufacturing & Skilled Trades,Unspecified
+29947,Chiller Operator,Manufacturing & Skilled Trades,Unspecified
+29948,Combiner Operator,Manufacturing & Skilled Trades,Unspecified
+29949,Creel Operator,Manufacturing & Skilled Trades,Unspecified
+29950,Dictaphone Operator,Manufacturing & Skilled Trades,Unspecified
+29951,Dolly Operator,Manufacturing & Skilled Trades,Unspecified
+29952,Doubler Operator,Manufacturing & Skilled Trades,Unspecified
+29953,Drone Operator,Manufacturing & Skilled Trades,Unspecified
+29956,Flotation Operator,Manufacturing & Skilled Trades,Unspecified
+29958,Grapple Operator,Manufacturing & Skilled Trades,Unspecified
+29960,Jukebox Operator,Manufacturing & Skilled Trades,Unspecified
+29961,Linter Operator,Manufacturing & Skilled Trades,Unspecified
+29962,Looper Operator,Manufacturing & Skilled Trades,Unspecified
+29963,Melting Operator,Manufacturing & Skilled Trades,Unspecified
+29966,Mva Operator,Manufacturing & Skilled Trades,Unspecified
+29967,Nitrate Operator,Manufacturing & Skilled Trades,Unspecified
+29968,Nylon Operator,Manufacturing & Skilled Trades,Unspecified
+29969,Panelboard Operator,Manufacturing & Skilled Trades,Unspecified
+29970,Piercer Operator,Manufacturing & Skilled Trades,Unspecified
+29971,Reeler Operator,Manufacturing & Skilled Trades,Unspecified
+29972,Reeling Operator,Manufacturing & Skilled Trades,Unspecified
+29973,Retread Operator,Manufacturing & Skilled Trades,Unspecified
+29975,Threshing Operator,Manufacturing & Skilled Trades,Unspecified
+29976,Tow Driver,Operations & Supply Chain,Unspecified
+29977,Wagon Driver,Operations & Supply Chain,Unspecified
+29979,Bulldozer Engineer,Other,Mid
+29980,Citrix Engineer,Other,Mid
+29981,Cobol Engineer,Other,Mid
+29982,EHS Engineer,"Public Sector, Defense & Safety",Mid
+29983,Fermentation Engineer,Other,Mid
+29985,Meteorological Engineer,Science & Research,Mid
+29986,Naval Designer,Design & Creative,Mid
+29987,Photogrammetric Engineer,Other,Mid
+29989,Powertrain Engineer,Other,Mid
+29990,Projection Engineer,Other,Mid
+29991,Propulsion Engineer,Other,Mid
+29993,Yield Engineer,Other,Mid
+29994,Nursery Helper,Healthcare & Medical,Junior / Entry
+29995,Raiser Helper,Manufacturing & Skilled Trades,Junior / Entry
+29996,Riveter Helper,Manufacturing & Skilled Trades,Junior / Entry
+29997,Tailor Helper,Manufacturing & Skilled Trades,Junior / Entry
+29998,Cheese Tester,Manufacturing & Skilled Trades,Unspecified
+29999,Equipment Installation Professional,General / Cross-functional,Unspecified
+30001,Dye Range Tender,Manufacturing & Skilled Trades,Unspecified
+30002,Head Wood Grinder,Manufacturing & Skilled Trades,Unspecified
+30004,Loss Prevention Lead,"Hospitality, Food & Travel",Manager
+30005,Piece Maker,Manufacturing & Skilled Trades,Unspecified
+30006,Plug Maker,Manufacturing & Skilled Trades,Unspecified
+30008,Tie Maker,Manufacturing & Skilled Trades,Unspecified
+30010,Charge RN,Other,Unspecified
+30011,Track Repair Laborer,Manufacturing & Skilled Trades,Unspecified
+30013,Dry Kiln Loader,Manufacturing & Skilled Trades,Unspecified
+30014,Funeral Service Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+30016,Oil Well Service Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+30018,Candy Cooker Helper,Manufacturing & Skilled Trades,Junior / Entry
+30019,Commercial Credit Head,Finance & Accounting,Unspecified
+30020,Kiln Firer Helper,Manufacturing & Skilled Trades,Junior / Entry
+30021,Lead Caster Helper,Manufacturing & Skilled Trades,Manager
+30022,Refrigeration Mechanic Helper,Manufacturing & Skilled Trades,Junior / Entry
+30023,Sample Grader,Other,Unspecified
+30024,Section Hand Helper,Manufacturing & Skilled Trades,Junior / Entry
+30025,Police OR Patrol Park Officer,"Public Sector, Defense & Safety",Unspecified
+30026,Coal Loader,Manufacturing & Skilled Trades,Unspecified
+30027,Print Washer,Manufacturing & Skilled Trades,Unspecified
+30032,Generator Assembler,Manufacturing & Skilled Trades,Unspecified
+30033,Meter Shop Superintendent,Construction & Real Estate,Director
+30035,Yarn Sorter,Manufacturing & Skilled Trades,Unspecified
+30036,VP Marketing,Marketing & Growth,VP / Head
+30037,Air Launch Weapons Technician,Manufacturing & Skilled Trades,Unspecified
+30039,Automated Equipment Engineer Technician,Manufacturing & Skilled Trades,Mid
+30040,Certified Master Safe Technician,Manufacturing & Skilled Trades,Unspecified
+30041,Hot Roller,Other,Unspecified
+30042,In Tube Conversion Technician,Manufacturing & Skilled Trades,Unspecified
+30043,Injection Mold Tooling Technician,Manufacturing & Skilled Trades,Unspecified
+30044,Location and Measurement Technician,Manufacturing & Skilled Trades,Unspecified
+30047,Camp Tender,Manufacturing & Skilled Trades,Unspecified
+30048,Diver Tender,Manufacturing & Skilled Trades,Unspecified
+30049,Dresser Tender,Manufacturing & Skilled Trades,Unspecified
+30050,Mason Tender,Manufacturing & Skilled Trades,Unspecified
+30051,Appraisal Technician,Manufacturing & Skilled Trades,Unspecified
+30053,Cartography Technician,Manufacturing & Skilled Trades,Unspecified
+30054,Chiller Technician,Manufacturing & Skilled Trades,Unspecified
+30055,Cryptographic Technician,Design & Creative,Unspecified
+30056,Csr Technician,Manufacturing & Skilled Trades,Senior
+30057,Cytogenetic Technician,Manufacturing & Skilled Trades,Unspecified
+30058,Dictaphone Technician,Manufacturing & Skilled Trades,Unspecified
+30059,Ekg Technician,Healthcare & Medical,Unspecified
+30060,Electrophysiology Technician,Manufacturing & Skilled Trades,Unspecified
+30061,Electroplating Technician,Manufacturing & Skilled Trades,Unspecified
+30062,Fill Technician,Manufacturing & Skilled Trades,Unspecified
+30063,Fingerprint Technician,Manufacturing & Skilled Trades,Unspecified
+30066,Medic Technician,Manufacturing & Skilled Trades,Unspecified
+30068,Milieu Technician,Manufacturing & Skilled Trades,Unspecified
+30069,Monogram Technician,Manufacturing & Skilled Trades,Unspecified
+30070,Neurodiagnostic Technician,Healthcare & Medical,Unspecified
+30071,Operating Room Aide,Healthcare & Medical,Junior / Entry
+30072,Quick Technician,Manufacturing & Skilled Trades,Unspecified
+30073,Retread Technician,Manufacturing & Skilled Trades,Unspecified
+30074,Ruling Technician,Manufacturing & Skilled Trades,Unspecified
+30075,Sonar Technician,Manufacturing & Skilled Trades,Unspecified
+30076,Surfacing Technician,Manufacturing & Skilled Trades,Unspecified
+30077,Tattoo Technician,Manufacturing & Skilled Trades,Unspecified
+30079,Activity Therapy Teacher,Healthcare & Medical,Unspecified
+30084,Foundation Stage Teacher,Education & Training,Unspecified
+30089,Manual Training Teacher,Education & Training,Unspecified
+30091,Project Manager Process Development,Product,Manager
+30094,Reading Intervention Teacher,Education & Training,Unspecified
+30096,Electric Clock Mechanic,Manufacturing & Skilled Trades,Unspecified
+30097,Fountain Vending Mechanic,Manufacturing & Skilled Trades,Unspecified
+30098,Link Trainer Mechanic,Manufacturing & Skilled Trades,Unspecified
+30099,Metal Roofing Mechanic,Manufacturing & Skilled Trades,Unspecified
+30100,Missile Pad Mechanic,Manufacturing & Skilled Trades,Unspecified
+30101,Pet Counselor,Healthcare & Medical,Unspecified
+30102,Time Clock Mechanic,Manufacturing & Skilled Trades,Unspecified
+30103,Video Games Mechanic,Manufacturing & Skilled Trades,Unspecified
+30104,Window Trimmer,Manufacturing & Skilled Trades,Unspecified
+30114,IT Help Desk Associate,IT & Infrastructure,Junior / Entry
+30115,Track Welder,Manufacturing & Skilled Trades,Unspecified
+30116,Academic Physician,Healthcare & Medical,Unspecified
+30117,Gasoline Attendant,Other,Unspecified
+30119,Radiology Physician,Healthcare & Medical,Unspecified
+30120,Staff Electronic Warfare Officer,General / Cross-functional,Senior
+30121,Staff Mine Warfare Officer,General / Cross-functional,Senior
+30123,Brush Cutter,Manufacturing & Skilled Trades,Unspecified
+30124,Coil Cutter,Manufacturing & Skilled Trades,Unspecified
+30125,Window Cutter,Manufacturing & Skilled Trades,Unspecified
+30126,Ambulance Officer,General / Cross-functional,Unspecified
+30128,Internal Revenue Service Agent,General / Cross-functional,Junior / Entry
+30129,Investigation Officer,General / Cross-functional,Unspecified
+30130,Gun Examiner,Education & Training,Unspecified
+30131,HVAC Sheet Metal Installer,Manufacturing & Skilled Trades,Unspecified
+30132,Marble Cleaner,Manufacturing & Skilled Trades,Unspecified
+30133,Coat Ironer Hand,Manufacturing & Skilled Trades,Unspecified
+30134,Laundry Superintendent,Construction & Real Estate,Director
+30135,Claim Professional,General / Cross-functional,Unspecified
+30136,Drapery Installer,Manufacturing & Skilled Trades,Unspecified
+30137,Air and Water Filler,Manufacturing & Skilled Trades,Unspecified
+30138,E Commerce Web Developer,Software & Engineering,Mid
+30139,Bag Filler,Manufacturing & Skilled Trades,Unspecified
+30140,Cardiac Rehab Nurse,Healthcare & Medical,Unspecified
+30142,Cosmetic Account Coordinator,Customer Success & Support,Unspecified
+30143,Infection Control Coordinator,Administration & Office Support,Unspecified
+30144,Infection Prevention Coordinator,"Hospitality, Food & Travel",Unspecified
+30145,Neonatal ICU Coordinator,Administration & Office Support,Unspecified
+30146,Patient Appointment Coordinator,Healthcare & Medical,Unspecified
+30147,Purchasing Intern,Sales & Business Development,Junior / Entry
+30149,University Intern,General / Cross-functional,Junior / Entry
+30150,Adjunct Spanish Instructor,Education & Training,Unspecified
+30153,Airport Shuttle Driver,Operations & Supply Chain,Unspecified
+30154,Anesthesiologist,Healthcare & Medical,Unspecified
+30159,Assistant Professor Nurse Education,Healthcare & Medical,Junior / Entry
+30164,Cardiovascular Invasive Specialist,Healthcare & Medical,Mid
+30165,Cash Posting Specialist,General / Cross-functional,Mid
+30166,Claim Benefit Specialist,IT & Infrastructure,Mid
+30168,Correctional Casework Specialist,General / Cross-functional,Mid
+30170,Day Habilitation Specialist,General / Cross-functional,Mid
+30171,Director of Clinical Education,Healthcare & Medical,VP / Head
+30172,Director of Health Education,Education & Training,VP / Head
+30181,Learning Disabilities Specialist,General / Cross-functional,Mid
+30184,Ocean Lifeguard Specialist,General / Cross-functional,Mid
+30185,Order Fulfillment Specialist,Operations & Supply Chain,Mid
+30187,Physician Credentialing Specialist,Healthcare & Medical,Mid
+30188,Pre Certification Specialist,General / Cross-functional,Mid
+30194,Chief Executive OR Managing Director,Executive & General Management,C-Level
+30195,Range Scientist,Science & Research,Unspecified
+30196,Gas Appliance Servicer Helper,Energy & Utilities,Junior / Entry
+30198,Early Childhood Associate,General / Cross-functional,Junior / Entry
+30199,Educational Fundraising Director,Education & Training,Director
+30201,Molecular Biology Director,General / Cross-functional,Director
+30202,Ophthalmic Nurse,Healthcare & Medical,Unspecified
+30204,Traveling Nurse,Healthcare & Medical,Unspecified
+30206,Automatic Presser,Manufacturing & Skilled Trades,Unspecified
+30207,Body Presser,Manufacturing & Skilled Trades,Unspecified
+30208,Cloth Presser,Manufacturing & Skilled Trades,Unspecified
+30209,Die Presser,Manufacturing & Skilled Trades,Unspecified
+30210,Glass Presser,Manufacturing & Skilled Trades,Unspecified
+30212,Hand Presser,Manufacturing & Skilled Trades,Unspecified
+30213,Lead Presser,Manufacturing & Skilled Trades,Manager
+30215,Machine Presser,Manufacturing & Skilled Trades,Unspecified
+30216,Mold Presser,Manufacturing & Skilled Trades,Unspecified
+30217,Tile Presser,Manufacturing & Skilled Trades,Unspecified
+30218,Wheel Presser,Manufacturing & Skilled Trades,Unspecified
+30219,Commercial Green Building Architect,Design & Creative,Unspecified
+30220,Dry Food Products Mixer,Manufacturing & Skilled Trades,Unspecified
+30221,Fur Grader,Other,Unspecified
+30222,C Unix Developer,Software & Engineering,Mid
+30223,Fish Rod Maker,Manufacturing & Skilled Trades,Unspecified
+30224,Microsoft Architect,Design & Creative,Unspecified
+30225,Platform Architect,Design & Creative,Unspecified
+30227,Validation Architect,Design & Creative,Unspecified
+30229,Windows Phone Developer,Software & Engineering,Mid
+30230,Aircraft Ordnance Systems Mechanic,Manufacturing & Skilled Trades,Unspecified
+30231,Box Sealing Inspector,General / Cross-functional,Unspecified
+30232,Dish Cloth Inspector,General / Cross-functional,Unspecified
+30234,Ordnance Truck Installation Mechanic,Manufacturing & Skilled Trades,Unspecified
+30235,Overhead Crane Inspector,Manufacturing & Skilled Trades,Unspecified
+30237,Roller Bearing Inspector,General / Cross-functional,Unspecified
+30238,Tunnel Heading Inspector,General / Cross-functional,Unspecified
+30239,Log Washer,Manufacturing & Skilled Trades,Unspecified
+30241,Shipping Processor,Operations & Supply Chain,Unspecified
+30242,Siding Mechanic,Manufacturing & Skilled Trades,Unspecified
+30243,Stove Mechanic,Manufacturing & Skilled Trades,Unspecified
+30244,Director Group Sales,Sales & Business Development,Director
+30245,Harness and Bag Inspector,General / Cross-functional,Unspecified
+30246,Lamp Tester and Inspector,General / Cross-functional,Unspecified
+30247,Plate Slitter and Inspector,General / Cross-functional,Unspecified
+30248,Rubber Stamp Die Inspector,General / Cross-functional,Unspecified
+30249,Brim Setter,Manufacturing & Skilled Trades,Unspecified
+30251,Training and Development Project Leader,General / Cross-functional,Unspecified
+30252,Casket Inspector,General / Cross-functional,Unspecified
+30253,Disc Inspector,General / Cross-functional,Unspecified
+30254,Firearms Inspector,General / Cross-functional,Unspecified
+30255,Hull Inspector,General / Cross-functional,Unspecified
+30256,Metallurgical Inspector,General / Cross-functional,Unspecified
+30258,Tooling Inspector,General / Cross-functional,Unspecified
+30259,Hydraulic Chair Assembler,Manufacturing & Skilled Trades,Unspecified
+30261,Pipe OR Steam Fitter Furnace Installer,Manufacturing & Skilled Trades,Unspecified
+30263,Policy Writer,Other,Unspecified
+30264,Refrigeration Lead,General / Cross-functional,Manager
+30265,Title Checker,Operations & Supply Chain,Unspecified
+30266,Tractor Mechanic Apprentice,"Media, Sports & Entertainment",Junior / Entry
+30268,Criminal Justice Professor,Education & Training,Unspecified
+30269,Automobile Spring Repairer,Manufacturing & Skilled Trades,Unspecified
+30270,Hand Spring Repairer,Manufacturing & Skilled Trades,Unspecified
+30271,Internal Medicine Physician,Healthcare & Medical,Junior / Entry
+30273,Railroad Brake Repairer,Manufacturing & Skilled Trades,Unspecified
+30274,Form Builder,Manufacturing & Skilled Trades,Unspecified
+30276,Licensing and Registration Director,General / Cross-functional,Director
+30277,Flight Operations Dispatch Clerk,Operations & Supply Chain,Unspecified
+30278,Motor Vehicle License Clerk,Administration & Office Support,Unspecified
+30279,Order Make Up Clerk,Administration & Office Support,Unspecified
+30280,Paint Mixer Machine,Manufacturing & Skilled Trades,Unspecified
+30281,Feller Hand,Manufacturing & Skilled Trades,Unspecified
+30282,Foundry Hand,Manufacturing & Skilled Trades,Unspecified
+30283,Rig Hand,Energy & Utilities,Unspecified
+30284,Scraper Hand,Manufacturing & Skilled Trades,Unspecified
+30286,Adjustment Clerk,Administration & Office Support,Unspecified
+30287,Assignment Clerk,Administration & Office Support,Unspecified
+30288,Bingo Clerk,Administration & Office Support,Unspecified
+30290,Commodities Clerk,Administration & Office Support,Unspecified
+30291,Faculty I on Call Medical Assistant,Healthcare & Medical,Junior / Entry
+30292,Him Clerk,Administration & Office Support,Unspecified
+30293,Mailroom Clerk,Administration & Office Support,Unspecified
+30294,Marking Clerk,Administration & Office Support,Unspecified
+30295,Measuring Clerk,Administration & Office Support,Unspecified
+30296,Municipal Clerk,Administration & Office Support,Unspecified
+30298,Statement Clerk,Administration & Office Support,Unspecified
+30299,Table Filler,Manufacturing & Skilled Trades,Unspecified
+30300,Teletype Clerk,Administration & Office Support,Unspecified
+30301,VP Client Services,Other,VP / Head
+30302,Blacksmith Assistant,General / Cross-functional,Junior / Entry
+30304,Branch Retail Executive,Other,Unspecified
+30305,Card Runner,"Hospitality, Food & Travel",Unspecified
+30306,Enrichment Assistant,General / Cross-functional,Junior / Entry
+30307,Him Assistant,General / Cross-functional,Junior / Entry
+30308,Mailroom Assistant,General / Cross-functional,Junior / Entry
+30309,Nutritional Assistant,General / Cross-functional,Junior / Entry
+30310,Perioperative Assistant,General / Cross-functional,Junior / Entry
+30311,Stonecutter Assistant,General / Cross-functional,Junior / Entry
+30312,Lumber Trimmer,Manufacturing & Skilled Trades,Unspecified
+30313,Mental Health Aide,Healthcare & Medical,Junior / Entry
+30315,Facilities Planner,Operations & Supply Chain,Unspecified
+30317,Ship Laborer,Manufacturing & Skilled Trades,Unspecified
+30318,Steel Finisher,Manufacturing & Skilled Trades,Unspecified
+30319,Train Planner,Operations & Supply Chain,Unspecified
+30321,Cover Assembler,Manufacturing & Skilled Trades,Unspecified
+30322,Sugar Mixer,Manufacturing & Skilled Trades,Unspecified
+30323,Turbine Assembler,Manufacturing & Skilled Trades,Unspecified
+30324,Wool Mixer,Manufacturing & Skilled Trades,Unspecified
+30325,Iron Cutter,Manufacturing & Skilled Trades,Unspecified
+30326,Lumber Cutter,Manufacturing & Skilled Trades,Unspecified
+30327,Oil Burner Servicer and Installer,Energy & Utilities,Unspecified
+30328,Sand Cutter,Manufacturing & Skilled Trades,Unspecified
+30329,HR Leader,Human Resources & Recruiting,Unspecified
+30332,RN Security,Other,Unspecified
+30334,Mine Superintendent,Construction & Real Estate,Director
+30335,Railroad Dispatcher,Operations & Supply Chain,Unspecified
+30336,Site Auditor,Finance & Accounting,Unspecified
+30337,Survey Superintendent,Construction & Real Estate,Director
+30338,Carton Maker,Manufacturing & Skilled Trades,Unspecified
+30340,Fence Maker,Manufacturing & Skilled Trades,Unspecified
+30343,Nurse Office,Healthcare & Medical,Unspecified
+30344,Plaster Maker,Manufacturing & Skilled Trades,Unspecified
+30345,RN Office,Other,Unspecified
+30346,Shank Maker,Manufacturing & Skilled Trades,Unspecified
+30347,Ski Maker,Manufacturing & Skilled Trades,Unspecified
+30348,Corporate Tutor,Education & Training,Unspecified
+30350,Professional Tutor,Education & Training,Unspecified
+30351,Science Tutor,Education & Training,Unspecified
+30352,Teacher Tutor,Education & Training,Unspecified
+30354,Printing Roller Handler,Manufacturing & Skilled Trades,Unspecified
+30358,Log Grader,Other,Unspecified
+30360,Hide Examiner,Education & Training,Unspecified
+30361,Continuous Miner Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+30362,Fruit OR Nut Crops Farm Manager,Agriculture & Environment,Manager
+30363,Die Casting Machine Setter,"Media, Sports & Entertainment",Unspecified
+30364,Field Crop Farming Supervisor,Agriculture & Environment,Manager
+30366,Right of Way Supervisor,General / Cross-functional,Manager
+30367,Tunnel Form Placing Supervisor,General / Cross-functional,Manager
+30368,Counter Roller,Operations & Supply Chain,Unspecified
+30369,Derrick Helper,Manufacturing & Skilled Trades,Junior / Entry
+30370,Filer Helper,Manufacturing & Skilled Trades,Junior / Entry
+30371,Garage Helper,Manufacturing & Skilled Trades,Junior / Entry
+30372,Mover Helper,Manufacturing & Skilled Trades,Junior / Entry
+30373,Terrazzo Helper,Manufacturing & Skilled Trades,Junior / Entry
+30374,Yard Foreman,Manufacturing & Skilled Trades,Manager
+30375,Yard Pilot,Other,Unspecified
+30376,Boatbuilder Supervisor,General / Cross-functional,Manager
+30377,Braille Teacher,Education & Training,Unspecified
+30379,Cartography Supervisor,General / Cross-functional,Manager
+30380,Chiropractic Teacher,Education & Training,Unspecified
+30381,Content Strategy Lead,General / Cross-functional,Manager
+30382,Cottage Supervisor,General / Cross-functional,Manager
+30383,Cytotechnologist Supervisor,Healthcare & Medical,Manager
+30384,Defense Travel Administrator,"Hospitality, Food & Travel",Unspecified
+30385,Dirt Supervisor,General / Cross-functional,Manager
+30386,Dormitory Supervisor,General / Cross-functional,Manager
+30388,Election Supervisor,General / Cross-functional,Manager
+30389,Examination Supervisor,General / Cross-functional,Manager
+30390,Extraction Supervisor,General / Cross-functional,Manager
+30391,Gardening Supervisor,General / Cross-functional,Manager
+30392,Geology Teacher,Education & Training,Unspecified
+30393,Greenskeeper Supervisor,General / Cross-functional,Manager
+30394,Gym Supervisor,General / Cross-functional,Manager
+30395,Horticulture Teacher,Education & Training,Unspecified
+30396,Humanities Teacher,Education & Training,Unspecified
+30397,Landscaping Supervisor,Agriculture & Environment,Manager
+30398,Liquefaction Supervisor,General / Cross-functional,Manager
+30400,Lubrication Supervisor,General / Cross-functional,Manager
+30401,Marketing Strategy Lead,Marketing & Growth,Manager
+30402,Melting Supervisor,General / Cross-functional,Manager
+30403,Nitroglycerin Supervisor,General / Cross-functional,Manager
+30404,Pbx Teacher,Education & Training,Unspecified
+30405,Phlebotomy Instructor,Education & Training,Unspecified
+30407,Retread Supervisor,General / Cross-functional,Manager
+30408,Storeroom Supervisor,General / Cross-functional,Manager
+30409,Subassembly Supervisor,General / Cross-functional,Manager
+30410,Toddler Teacher,Education & Training,Unspecified
+30411,Typesetting Supervisor,General / Cross-functional,Manager
+30412,Vision Teacher,Education & Training,Unspecified
+30413,Wrecking Supervisor,General / Cross-functional,Manager
+30415,Airplane Charter Clerk,Administration & Office Support,Unspecified
+30419,Money Market Clerk,Administration & Office Support,Unspecified
+30421,Natural Foods Clerk,Administration & Office Support,Unspecified
+30423,Passenger Booking Clerk,Administration & Office Support,Unspecified
+30424,Program Schedule Clerk,Administration & Office Support,Unspecified
+30425,Template Storage Clerk,Administration & Office Support,Unspecified
+30426,Activities Counselor,Healthcare & Medical,Unspecified
+30427,Charge Loader,Manufacturing & Skilled Trades,Unspecified
+30428,Commercial Green Building Designer,Design & Creative,Mid
+30429,Green Building Materials Designer,Design & Creative,Mid
+30430,Industrial Green Systems Designer,Design & Creative,Mid
+30431,Residential Green Building Designer,Design & Creative,Mid
+30432,Territory Account Representative,Sales & Business Development,Unspecified
+30435,Traffic Workforce Representative,General / Cross-functional,Unspecified
+30437,Underwriting Account Representative,General / Cross-functional,Unspecified
+30440,University Counselor,Healthcare & Medical,Unspecified
+30442,Customer Care Voice Consultant,General / Cross-functional,Mid
+30443,Treasury Associate,Finance & Accounting,Junior / Entry
+30445,Email Designer,Design & Creative,Mid
+30447,Hat Parts Cutter Machine,Manufacturing & Skilled Trades,Unspecified
+30449,Speech Correction Assistant,General / Cross-functional,Junior / Entry
+30450,System Administration Advisor,General / Cross-functional,Unspecified
+30451,Color Artist,Design & Creative,Unspecified
+30452,Digital Watch Assembler,Manufacturing & Skilled Trades,Unspecified
+30454,Faculty Research Physician,Healthcare & Medical,Unspecified
+30456,Merchandise Executive,Other,Unspecified
+30457,Microbiology Professor,Education & Training,Unspecified
+30458,Rehabilitation Medicine Physician,Healthcare & Medical,Unspecified
+30461,Voice Professor,Education & Training,Unspecified
+30462,Watch Band Assembler,Manufacturing & Skilled Trades,Unspecified
+30464,Field Crop Harvest Worker,Agriculture & Environment,Unspecified
+30465,Plate Take Out Worker,General / Cross-functional,Unspecified
+30466,Anode Worker,General / Cross-functional,Unspecified
+30467,Armature Tester,Manufacturing & Skilled Trades,Unspecified
+30468,Branch Controller,Finance & Accounting,Unspecified
+30469,Cellophane Worker,General / Cross-functional,Unspecified
+30470,Concession Worker,General / Cross-functional,Unspecified
+30472,Ditch Worker,General / Cross-functional,Unspecified
+30473,Habilitation Worker,General / Cross-functional,Unspecified
+30474,Liquor Tester,Manufacturing & Skilled Trades,Unspecified
+30475,Mat Tester,Manufacturing & Skilled Trades,Unspecified
+30476,Millinery Worker,General / Cross-functional,Unspecified
+30478,Neighborhood Worker,General / Cross-functional,Unspecified
+30479,Nozzle Worker,General / Cross-functional,Unspecified
+30480,Orchard Worker,General / Cross-functional,Unspecified
+30481,Pantry Worker,General / Cross-functional,Unspecified
+30482,Pneumatic Tester,Manufacturing & Skilled Trades,Unspecified
+30483,Settlement Worker,General / Cross-functional,Unspecified
+30484,Sort Worker,General / Cross-functional,Unspecified
+30485,Suction Worker,General / Cross-functional,Unspecified
+30486,Tip Tester,Manufacturing & Skilled Trades,Unspecified
+30489,Auto Garage Attendant,Other,Unspecified
+30490,Instructional Writer,Other,Unspecified
+30491,Public Space Attendant,Other,Unspecified
+30492,Storage Garage Attendant,Other,Unspecified
+30493,Brim Ironer Hand,Manufacturing & Skilled Trades,Unspecified
+30495,Marble Polisher Hand,Manufacturing & Skilled Trades,Unspecified
+30496,Labor and Delivery Registered Nurse,Healthcare & Medical,Unspecified
+30500,Drier Operator Head,Manufacturing & Skilled Trades,Unspecified
+30502,Architectural Intern,Design & Creative,Junior / Entry
+30503,Clinic Charge Nurse,Healthcare & Medical,Unspecified
+30505,Photo Checker,Operations & Supply Chain,Unspecified
+30507,High School Sports Coach,Education & Training,Unspecified
+30509,Film Painter,"Media, Sports & Entertainment",Unspecified
+30510,Steel Roller,Other,Unspecified
+30511,Cut Off Man,Manufacturing & Skilled Trades,Unspecified
+30512,Locomotive Mechanic Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+30513,Soil Technologist,Healthcare & Medical,Unspecified
+30514,Wood Fence Installer,Manufacturing & Skilled Trades,Unspecified
+30515,Concrete Form Setter,Manufacturing & Skilled Trades,Unspecified
+30516,Risk Management Internship,Other,Junior / Entry
+30517,State Farm Agent,Agriculture & Environment,Unspecified
+30519,Ict Help Desk Officer,IT & Infrastructure,Unspecified
+30520,Vice Squad Police Officer,"Public Sector, Defense & Safety",Unspecified
+30522,Administration Physician,Healthcare & Medical,Unspecified
+30524,Front Desk Team Member,Customer Success & Support,Unspecified
+30525,Plastic Printer,Other,Unspecified
+30526,Hat Presser,Manufacturing & Skilled Trades,Unspecified
+30527,Senior UI UX Developer,Software & Engineering,Senior
+30528,UI UX Web Developer,Software & Engineering,Mid
+30529,Jewelry Cutter,Manufacturing & Skilled Trades,Unspecified
+30530,Certified Personal Finance Counselor,Finance & Accounting,Unspecified
+30531,Cognos Developer,Software & Engineering,Mid
+30532,Ruby Developer,Software & Engineering,Mid
+30533,Guard Captain,"Public Sector, Defense & Safety",Unspecified
+30534,Knife Setter,Manufacturing & Skilled Trades,Unspecified
+30535,Personal Secretary,Administration & Office Support,Unspecified
+30536,Printing Machinist,Manufacturing & Skilled Trades,Unspecified
+30537,Clinical Social Work Therapist,Healthcare & Medical,Unspecified
+30538,Director Home Health,Healthcare & Medical,Director
+30539,Hospice RN,Healthcare & Medical,Unspecified
+30540,RN Home Health,Healthcare & Medical,Unspecified
+30541,Apparel Machinery Instructor,Education & Training,Unspecified
+30542,Class C Truck Driver,Operations & Supply Chain,Unspecified
+30545,Ice Cream Truck Driver,Operations & Supply Chain,Unspecified
+30546,Local Company Truck Driver,Operations & Supply Chain,Unspecified
+30547,Local Delivery Truck Driver,Operations & Supply Chain,Unspecified
+30549,Spring Winder,Other,Unspecified
+30551,Vice President Client Services,Executive & General Management,C-Level
+30552,Wood Block Artist,Design & Creative,Unspecified
+30554,Cart Driver,Operations & Supply Chain,Unspecified
+30555,Flatbed Driver,Operations & Supply Chain,Unspecified
+30557,Molding Machine Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+30560,River Driver,Operations & Supply Chain,Unspecified
+30561,Rotary Drill Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+30563,Websphere Commerce Consultant,General / Cross-functional,Mid
+30573,Packaging Assembler,Manufacturing & Skilled Trades,Unspecified
+30574,Account Receivable Associate,General / Cross-functional,Junior / Entry
+30575,Accounts Payable Associate,Finance & Accounting,Junior / Entry
+30576,Accounts Receivable Associate,Finance & Accounting,Junior / Entry
+30577,Ad Operations Associate,Operations & Supply Chain,Junior / Entry
+30594,CDL Bulk Driver,Operations & Supply Chain,Unspecified
+30595,CDL Company Driver,Operations & Supply Chain,Unspecified
+30599,Change Management Lead,General / Cross-functional,Manager
+30600,Cherry Picker Operator,Operations & Supply Chain,Unspecified
+30604,Continuous Improvement Lead,General / Cross-functional,Manager
+30605,Corn Sheller Operator,Manufacturing & Skilled Trades,Unspecified
+30608,Cracking Still Operator,Manufacturing & Skilled Trades,Unspecified
+30609,Cracking Unit Operator,Manufacturing & Skilled Trades,Unspecified
+30612,Crude Unit Operator,Manufacturing & Skilled Trades,Unspecified
+30615,Desktop Support Associate,IT & Infrastructure,Junior / Entry
+30620,Donor Relations Associate,General / Cross-functional,Junior / Entry
+30639,Form Tamper Operator,Manufacturing & Skilled Trades,Unspecified
+30642,Graduate Teaching Associate,General / Cross-functional,Junior / Entry
+30650,Knot Tying Operator,Manufacturing & Skilled Trades,Unspecified
+30655,Lunch Wagon Operator,Manufacturing & Skilled Trades,Unspecified
+30656,Merchandise Flow Associate,General / Cross-functional,Junior / Entry
+30662,Narrow Gauge Operator,Manufacturing & Skilled Trades,Unspecified
+30663,Non CDL Driver,Operations & Supply Chain,Unspecified
+30664,Nut Dehydrator Operator,Manufacturing & Skilled Trades,Unspecified
+30665,Outboard Motorboat Operator,Manufacturing & Skilled Trades,Unspecified
+30671,Reverse Unit Operator,Manufacturing & Skilled Trades,Unspecified
+30672,Route CDL Driver,Operations & Supply Chain,Unspecified
+30679,Snow Plow Operator,Manufacturing & Skilled Trades,Unspecified
+30689,Sub Arc Operator,Manufacturing & Skilled Trades,Unspecified
+30694,Team CDL Driver,Operations & Supply Chain,Unspecified
+30695,Telegraphic Typewriter Operator,Design & Creative,Unspecified
+30697,Uniform Cap Operator,Manufacturing & Skilled Trades,Unspecified
+30700,Warp Knit Operator,Manufacturing & Skilled Trades,Unspecified
+30703,Winch Derrick Operator,Manufacturing & Skilled Trades,Unspecified
+30705,Wrapper Stemmer Operator,Manufacturing & Skilled Trades,Unspecified
+30707,Accounting Tutor,Finance & Accounting,Unspecified
+30709,Top Frame Fitter,Manufacturing & Skilled Trades,Unspecified
+30711,Wheel Roller,Other,Unspecified
+30712,Wrapper Layer,Manufacturing & Skilled Trades,Unspecified
+30713,Carpet Installer Helper,Manufacturing & Skilled Trades,Junior / Entry
+30714,Carpet Layer Helper,Manufacturing & Skilled Trades,Junior / Entry
+30715,Charger Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+30716,Edger Machine Helper,Manufacturing & Skilled Trades,Junior / Entry
+30717,Wash Driller Helper,Manufacturing & Skilled Trades,Junior / Entry
+30718,Wellness Coach,Education & Training,Unspecified
+30720,Machine Molder,Manufacturing & Skilled Trades,Unspecified
+30722,Wood Molder,Manufacturing & Skilled Trades,Unspecified
+30724,Circuit Breaker Assembler,Manufacturing & Skilled Trades,Unspecified
+30726,Internal Communications Writer,Marketing & Growth,Junior / Entry
+30727,Watch Train Assembler,Manufacturing & Skilled Trades,Unspecified
+30729,Audit Practice Intern,Finance & Accounting,Junior / Entry
+30730,Brand Marketing Intern,Design & Creative,Junior / Entry
+30731,Partner Marketing Intern,Marketing & Growth,Junior / Entry
+30732,Avionics Installer,Manufacturing & Skilled Trades,Unspecified
+30733,Cushion Installer,Manufacturing & Skilled Trades,Unspecified
+30734,Dialysis Nurse,Healthcare & Medical,Unspecified
+30735,Group Burner Machine,Manufacturing & Skilled Trades,Unspecified
+30736,Outreach Professional,General / Cross-functional,Unspecified
+30738,Switchboard Installer,Administration & Office Support,Unspecified
+30740,Adult School Counselor,Healthcare & Medical,Unspecified
+30741,Behavioral Health Counselor,Healthcare & Medical,Unspecified
+30742,Silk Examiner,Education & Training,Unspecified
+30743,Textile Examiner,Education & Training,Unspecified
+30744,Vocational Rehabilitation Counselor,Healthcare & Medical,Unspecified
+30745,Content Editor,Design & Creative,Unspecified
+30746,Gasoline Pump Mechanic,Manufacturing & Skilled Trades,Unspecified
+30751,Counter Stitcher,Manufacturing & Skilled Trades,Unspecified
+30753,Insulator Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+30754,Machine Stitcher,Manufacturing & Skilled Trades,Unspecified
+30755,Roller Stitcher,Manufacturing & Skilled Trades,Unspecified
+30756,Wire Stitcher,Manufacturing & Skilled Trades,Unspecified
+30757,Can Handler,Manufacturing & Skilled Trades,Unspecified
+30761,Timber Repairer,Manufacturing & Skilled Trades,Unspecified
+30762,Belt Picker,Operations & Supply Chain,Unspecified
+30764,Automatic Car Wash Attendant,Other,Unspecified
+30765,Hospital Librarian,Healthcare & Medical,Unspecified
+30767,Slide Attendant,Other,Unspecified
+30768,Stack Attendant,Other,Unspecified
+30770,Lease Administrator,General / Cross-functional,Unspecified
+30771,Recruiting Administrator,Human Resources & Recruiting,Unspecified
+30772,Sharepoint Administrator,General / Cross-functional,Unspecified
+30773,Director Life Sales,Sales & Business Development,Director
+30774,Life Insurance Sales,Sales & Business Development,Unspecified
+30776,Audiovisual Lead Technician,Design & Creative,Manager
+30777,Bone Density Technician,Manufacturing & Skilled Trades,Unspecified
+30781,Fiber Optic Technician,Manufacturing & Skilled Trades,Unspecified
+30791,Wireless Cellular Technician,Manufacturing & Skilled Trades,Unspecified
+30794,Cap Maker,Manufacturing & Skilled Trades,Unspecified
+30796,Container Maker,Manufacturing & Skilled Trades,Unspecified
+30797,Glue Maker,Manufacturing & Skilled Trades,Unspecified
+30799,Label Maker,Manufacturing & Skilled Trades,Unspecified
+30800,Military Aircraft Designer,Design & Creative,Mid
+30802,Sample Book Maker,Manufacturing & Skilled Trades,Unspecified
+30805,Switch Maker,Manufacturing & Skilled Trades,Unspecified
+30811,Crime Scene Analyst,General / Cross-functional,Mid
+30813,Fire Behavior Analyst,General / Cross-functional,Mid
+30814,Horse Racing Analyst,General / Cross-functional,Mid
+30818,Bottom Man,Manufacturing & Skilled Trades,Unspecified
+30819,Time Checker,Operations & Supply Chain,Unspecified
+30820,Camp Counselor,Healthcare & Medical,Unspecified
+30821,Manager School,General / Cross-functional,Manager
+30822,Nurse School,Healthcare & Medical,Unspecified
+30823,RN School,Other,Unspecified
+30825,Internal Investigator,General / Cross-functional,Junior / Entry
+30826,Print Binding and Finishing Worker,General / Cross-functional,Unspecified
+30827,Salvager,Manufacturing & Skilled Trades,Unspecified
+30828,Classifier,Other,Unspecified
+30829,Glass Cut Off Tender,Manufacturing & Skilled Trades,Unspecified
+30832,Baby Formula Worker,General / Cross-functional,Unspecified
+30833,Bending Shed Worker,General / Cross-functional,Unspecified
+30835,Dry Chain Puller,Other,Unspecified
+30839,Human Resources Team Member,Human Resources & Recruiting,Unspecified
+30840,Make Ready Worker,General / Cross-functional,Unspecified
+30842,Pattern Repair Person,Other,Unspecified
+30843,Red Cross Worker,General / Cross-functional,Unspecified
+30845,Reinforcing Steel Worker,General / Cross-functional,Unspecified
+30847,Shearing Shed Worker,General / Cross-functional,Unspecified
+30850,Tail Board Worker,General / Cross-functional,Unspecified
+30851,Venetian Blind Worker,General / Cross-functional,Unspecified
+30852,Vessel Slag Worker,General / Cross-functional,Unspecified
+30854,Garment Parts Cutter Hand,Manufacturing & Skilled Trades,Unspecified
+30855,Division Controller,Finance & Accounting,Unspecified
+30856,Aeronautical Products Sales Engineer,Sales & Business Development,Mid
+30857,Board Finisher,Manufacturing & Skilled Trades,Unspecified
+30858,Data Processing Systems Project Planner,Operations & Supply Chain,Unspecified
+30859,Drapery Hand,Manufacturing & Skilled Trades,Unspecified
+30860,Hogshead Hand,Manufacturing & Skilled Trades,Unspecified
+30862,Ice Cutter,Manufacturing & Skilled Trades,Unspecified
+30864,J2ee Java Developer,Software & Engineering,Mid
+30865,Lamp Stack Developer,Software & Engineering,Mid
+30868,Oracle ERP Developer,Software & Engineering,Mid
+30869,Oven Builder,Manufacturing & Skilled Trades,Unspecified
+30870,Record Cutter,Manufacturing & Skilled Trades,Unspecified
+30871,Sas BI Developer,Software & Engineering,Mid
+30872,Sas ETL Developer,Software & Engineering,Mid
+30873,Sas SQL Developer,Software & Engineering,Mid
+30877,Visual Basic Developer,Software & Engineering,Mid
+30880,Farm Crops Teacher,Education & Training,Unspecified
+30885,Tech Ed Teacher,Education & Training,Unspecified
+30886,Account Liaison,General / Cross-functional,Unspecified
+30887,Administrative Liaison,Administration & Office Support,Unspecified
+30888,Client Liaison,General / Cross-functional,Unspecified
+30889,Clinical Liaison,Healthcare & Medical,Unspecified
+30890,Community Liaison,General / Cross-functional,Unspecified
+30891,Court Liaison,Legal,Unspecified
+30892,Customer Liaison,General / Cross-functional,Unspecified
+30893,Education Liaison,Education & Training,Unspecified
+30894,Management Liaison,General / Cross-functional,Unspecified
+30895,Marketing Liaison,Marketing & Growth,Unspecified
+30896,Material Liaison,General / Cross-functional,Unspecified
+30897,Medical Liaison,Healthcare & Medical,Unspecified
+30898,Network Liaison,General / Cross-functional,Unspecified
+30899,Nurse Liaison,Healthcare & Medical,Unspecified
+30900,Operations Liaison,Operations & Supply Chain,Unspecified
+30901,Patient Liaison,Healthcare & Medical,Unspecified
+30902,Physician Liaison,Healthcare & Medical,Unspecified
+30903,Police Liaison,"Public Sector, Defense & Safety",Unspecified
+30904,Quality Liaison,General / Cross-functional,Unspecified
+30905,Regional Liaison,General / Cross-functional,Unspecified
+30906,Relations Liaison,General / Cross-functional,Unspecified
+30907,RN Liaison,General / Cross-functional,Unspecified
+30908,Science Liaison,General / Cross-functional,Unspecified
+30909,Tool Liaison,General / Cross-functional,Unspecified
+30910,Brokerage Coordinator,Sales & Business Development,Unspecified
+30911,Clearance Coordinator,Administration & Office Support,Unspecified
+30912,EDI Coordinator,Administration & Office Support,Unspecified
+30913,Grant Coordinator,Administration & Office Support,Unspecified
+30914,Heart Coordinator,Administration & Office Support,Unspecified
+30915,Mailroom Coordinator,Administration & Office Support,Unspecified
+30916,Meeting Coordinator,Administration & Office Support,Unspecified
+30917,Optical Lens Manufacturing Tech,Manufacturing & Skilled Trades,Unspecified
+30918,Pain Coordinator,Administration & Office Support,Unspecified
+30919,Tissue Coordinator,Administration & Office Support,Unspecified
+30920,Transcription Coordinator,Administration & Office Support,Unspecified
+30921,Acute Care Certified Nursing Assistant,Healthcare & Medical,Junior / Entry
+30922,Cigar Bander Hand,Manufacturing & Skilled Trades,Unspecified
+30923,Edge Bander Hand,Manufacturing & Skilled Trades,Unspecified
+30924,Loading Dock Hand,Manufacturing & Skilled Trades,Unspecified
+30925,Plug Shaper Hand,Manufacturing & Skilled Trades,Unspecified
+30926,Recreation Programmer,Software & Engineering,Unspecified
+30927,Tie in Hand,Manufacturing & Skilled Trades,Unspecified
+30928,Agent Producer,Design & Creative,Unspecified
+30929,Assistant Producer,Design & Creative,Junior / Entry
+30930,Assisted Living Executive Director,Executive & General Management,VP / Head
+30931,Assisted Living Home Director,General / Cross-functional,Director
+30932,Assisted Living Nursing Director,Healthcare & Medical,Director
+30933,Associate Producer,Design & Creative,Junior / Entry
+30934,Commercial Producer,Design & Creative,Unspecified
+30935,Construction Producer,Design & Creative,Unspecified
+30936,Digital Producer,Design & Creative,Unspecified
+30937,Editor Producer,Design & Creative,Unspecified
+30939,Field Producer,Design & Creative,Unspecified
+30941,Insurance Producer,Design & Creative,Unspecified
+30942,Lead Producer,Design & Creative,Manager
+30943,Line Producer,Design & Creative,Unspecified
+30944,Marketing Producer,Design & Creative,Unspecified
+30945,Media Producer,Design & Creative,Unspecified
+30947,Oil Producer,Design & Creative,Unspecified
+30949,Sales Producer,Design & Creative,Unspecified
+30950,Senior Producer,Design & Creative,Senior
+30951,Technical Producer,Design & Creative,Unspecified
+30952,Web Producer,Design & Creative,Unspecified
+30953,Writer Producer,Design & Creative,Unspecified
+30954,District Commercial Superintendent,Construction & Real Estate,Director
+30956,Roaster Helper,Manufacturing & Skilled Trades,Junior / Entry
+30957,Complex Director,General / Cross-functional,Director
+30958,Drama Director,General / Cross-functional,Director
+30959,Enrichment Director,General / Cross-functional,Director
+30960,Him Director,General / Cross-functional,Director
+30961,Investigations Director,General / Cross-functional,Director
+30962,Pet Technologist,Healthcare & Medical,Unspecified
+30964,Fuel Cell Assembler,Manufacturing & Skilled Trades,Unspecified
+30965,Glove Cleaner,Manufacturing & Skilled Trades,Unspecified
+30966,Occupational Health RN,"Public Sector, Defense & Safety",Unspecified
+30969,City Editor,Design & Creative,Unspecified
+30970,Medical Hospital Sales,Healthcare & Medical,Unspecified
+30971,Sample Puller,Other,Unspecified
+30972,SAP BI Architect,Design & Creative,Unspecified
+30973,Saw Grinder,Manufacturing & Skilled Trades,Unspecified
+30974,Senior BI Architect,Design & Creative,Senior
+30975,Spring Internship,Other,Junior / Entry
+30976,Structural Metal Fabricator Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+30977,Structural Steel Worker Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+30978,Lawn and Tree Service Spray Supervisor,General / Cross-functional,Manager
+30979,Stitcher Feeder,Manufacturing & Skilled Trades,Unspecified
+30980,Consumer Relations Complaint Clerk,Administration & Office Support,Unspecified
+30982,Measurement Department Chief Clerk,Administration & Office Support,C-Level
+30983,Meat and Seafood Clerk,Administration & Office Support,Unspecified
+30984,Mechanical Assembly,Other,Unspecified
+30985,Operation Agent,General / Cross-functional,Unspecified
+30987,Real Estate Loan Processor,Construction & Real Estate,Unspecified
+30988,Ball Sorter,Manufacturing & Skilled Trades,Unspecified
+30989,Binder Sorter,Manufacturing & Skilled Trades,Unspecified
+30990,Industrial Engineering,Manufacturing & Skilled Trades,Mid
+30991,Veneer Sorter,Manufacturing & Skilled Trades,Unspecified
+30996,Electron Gun Inspector,General / Cross-functional,Unspecified
+30998,Take Down Inspector,General / Cross-functional,Unspecified
+30999,Senior Environmental Practice Leader,Agriculture & Environment,Senior
+31000,Sports Management Internship,"Media, Sports & Entertainment",Junior / Entry
+31001,Sports Marketing Internship,Marketing & Growth,Junior / Entry
+31002,Board Certified Family Physician,Healthcare & Medical,Unspecified
+31003,Lead Generation Representative,General / Cross-functional,Manager
+31005,Private Client Advisor,General / Cross-functional,Unspecified
+31006,Freelance Designer,Design & Creative,Mid
+31007,Audio Video Tech,Design & Creative,Unspecified
+31008,Audio Visual Tech,Design & Creative,Unspecified
+31009,Automotive Lot Attendant,Other,Unspecified
+31011,Car Lot Attendant,Other,Unspecified
+31012,Client Server Programmer,Software & Engineering,Unspecified
+31013,Electric Bath Attendant,Other,Unspecified
+31014,Elementary School Counselor,Healthcare & Medical,Unspecified
+31015,Flow Floor Attendant,Other,Unspecified
+31016,General Lot Attendant,Other,Unspecified
+31018,Public Bath Attendant,Other,Unspecified
+31021,Water and Sewer Systems Superintendent,Construction & Real Estate,Director
+31022,Fitter Up,Manufacturing & Skilled Trades,Unspecified
+31023,Forensic Scientist,Science & Research,Unspecified
+31026,Middle School Combination Teacher,Education & Training,Unspecified
+31029,Switch Box Installer,Manufacturing & Skilled Trades,Unspecified
+31030,Wireless Internet Installer,Manufacturing & Skilled Trades,Junior / Entry
+31033,Cancer Registry Coordinator,Administration & Office Support,Unspecified
+31034,Crystal Machining Coordinator,Administration & Office Support,Unspecified
+31035,Group Reservations Coordinator,Administration & Office Support,Unspecified
+31038,Medical Referral Coordinator,Healthcare & Medical,Unspecified
+31039,Television Schedule Coordinator,"Media, Sports & Entertainment",Unspecified
+31040,Automatic Profile Sander Operator,Manufacturing & Skilled Trades,Unspecified
+31041,Automatic Profile Shaper Operator,Manufacturing & Skilled Trades,Unspecified
+31043,Back Sewer,Manufacturing & Skilled Trades,Unspecified
+31044,Batch Mixing Truck Driver,Operations & Supply Chain,Unspecified
+31045,Block Bolter Mule Operator,Manufacturing & Skilled Trades,Unspecified
+31046,Bunch Breaker Machine Operator,Manufacturing & Skilled Trades,Unspecified
+31047,Cisco Consultant,General / Cross-functional,Mid
+31048,Class 1 Owner Operator,Manufacturing & Skilled Trades,C-Level
+31049,Cocoa Butter Filter Operator,Manufacturing & Skilled Trades,Unspecified
+31051,Cocoa Powder Mixer Operator,Manufacturing & Skilled Trades,Unspecified
+31052,Commercial Front Load Driver,Operations & Supply Chain,Unspecified
+31054,Derrick Boat Lever Operator,Manufacturing & Skilled Trades,Unspecified
+31060,Fruit Thinner Machine Operator,Manufacturing & Skilled Trades,Unspecified
+31061,Glass Pulverizer Equipment Operator,Manufacturing & Skilled Trades,Unspecified
+31063,Landfill Gas Collection Operator,Manufacturing & Skilled Trades,Unspecified
+31064,Lap Cutter Truer Operator,Manufacturing & Skilled Trades,Unspecified
+31067,Lock and Dam Operator,Manufacturing & Skilled Trades,Unspecified
+31068,Loss Prevention Leader,"Hospitality, Food & Travel",Unspecified
+31069,Metal Pickling Equipment Operator,Manufacturing & Skilled Trades,Unspecified
+31070,Precision Honing Machine Operator,Manufacturing & Skilled Trades,Unspecified
+31072,Profile Saw Setup Operator,Manufacturing & Skilled Trades,Unspecified
+31073,Public Address System Operator,Manufacturing & Skilled Trades,Unspecified
+31074,Reinforcing Steel Machine Operator,Manufacturing & Skilled Trades,Unspecified
+31076,Six Color Press Operator,Manufacturing & Skilled Trades,Unspecified
+31077,Six Pack Loader Operator,Manufacturing & Skilled Trades,Unspecified
+31078,Stand Up Forklift Operator,Operations & Supply Chain,Unspecified
+31081,Venetian Blind Machine Operator,Manufacturing & Skilled Trades,Unspecified
+31082,Zigzag Tunnel Elastic Operator,Manufacturing & Skilled Trades,Unspecified
+31083,Coal Washer,Manufacturing & Skilled Trades,Unspecified
+31084,Filter Washer,Manufacturing & Skilled Trades,Unspecified
+31088,Hospitalist,Healthcare & Medical,Unspecified
+31089,Beam Builder Helper,Manufacturing & Skilled Trades,Junior / Entry
+31090,Industrial Roofer Helper,Manufacturing & Skilled Trades,Junior / Entry
+31091,Residential Roofer Helper,Manufacturing & Skilled Trades,Junior / Entry
+31092,Veneer Clipper Helper,Manufacturing & Skilled Trades,Junior / Entry
+31093,Fence Setter,Manufacturing & Skilled Trades,Unspecified
+31095,Veterinary Surgery Technologist,Healthcare & Medical,Unspecified
+31098,Hospitalist Medical Director,Healthcare & Medical,Director
+31101,Laundry Laborer,Manufacturing & Skilled Trades,Unspecified
+31103,Proof Tester,Manufacturing & Skilled Trades,Unspecified
+31104,Program Coordinator Executive Education,Education & Training,Unspecified
+31106,Aircraft Shipping Checker,Operations & Supply Chain,Unspecified
+31107,Junior Linux Systems Administrator,IT & Infrastructure,Junior / Entry
+31109,Senior Linux Systems Administrator,IT & Infrastructure,Senior
+31111,Senior Mainframe Programmer Analyst,Software & Engineering,Senior
+31112,Employee Operations Examiner,Operations & Supply Chain,Unspecified
+31113,Land Law Examiner,Construction & Real Estate,Unspecified
+31115,Camp Advisor,General / Cross-functional,Unspecified
+31116,Industry Analyst,General / Cross-functional,Mid
+31117,Legislative Analyst,General / Cross-functional,Mid
+31118,Liability Analyst,General / Cross-functional,Mid
+31119,PMO Analyst,Product,Mid
+31121,QC Analyst,General / Cross-functional,Mid
+31127,Assistant Drafter,Design & Creative,Junior / Entry
+31128,Associate Drafter,Design & Creative,Junior / Entry
+31129,Branch Lending Officer,General / Cross-functional,Unspecified
+31130,Building Drafter,Design & Creative,Unspecified
+31131,Chief Drafter,Design & Creative,C-Level
+31133,Commercial Drafter,Design & Creative,Unspecified
+31134,Computer Drafter,Design & Creative,Unspecified
+31138,Director Global Sales,Sales & Business Development,Director
+31142,Home Lending Officer,General / Cross-functional,Unspecified
+31146,Postal Delivery Officer,General / Cross-functional,Unspecified
+31147,Postal Sorting Officer,General / Cross-functional,Unspecified
+31148,Senior Drafter,Design & Creative,Senior
+31150,Experimental Box Tester,Manufacturing & Skilled Trades,Unspecified
+31152,Public Relations Sales Marketing,Marketing & Growth,Unspecified
+31153,Division Traffic Superintendent,Construction & Real Estate,Director
+31154,Planning Division Superintendent,Construction & Real Estate,Director
+31157,Adviser Sales,Sales & Business Development,Unspecified
+31162,Identification Officer,General / Cross-functional,Unspecified
+31163,Lockstitch Back Maker,Manufacturing & Skilled Trades,Unspecified
+31164,Lockstitch Front Maker,Manufacturing & Skilled Trades,Unspecified
+31165,Lockstitch Lining Maker,Manufacturing & Skilled Trades,Unspecified
+31167,Ship Loader,Manufacturing & Skilled Trades,Unspecified
+31169,Analysis Internship,Other,Junior / Entry
+31170,Fur Puller,Other,Unspecified
+31171,Heel Finisher,Manufacturing & Skilled Trades,Unspecified
+31172,Log Handler,Manufacturing & Skilled Trades,Unspecified
+31173,News Internship,"Media, Sports & Entertainment",Junior / Entry
+31176,Vegetable Trimmer,Manufacturing & Skilled Trades,Unspecified
+31179,Consulting Networking Engineer,Other,Mid
+31180,Crown and Bridge Dental Lab Technician,Healthcare & Medical,Unspecified
+31184,Induction Coordination Engineer,Other,Mid
+31185,Linux DEVOPS Engineer,Software & Engineering,Mid
+31188,Pattern Carrier,Other,Unspecified
+31192,RF Microwave Engineer,Other,Mid
+31196,Sprinkler Irrigation Equipment Mechanic,Agriculture & Environment,Unspecified
+31197,Through Freight Engineer,Operations & Supply Chain,Mid
+31198,Top Carrier,Other,Unspecified
+31200,Windows Vmware Engineer,Other,Mid
+31201,Ambulance Mechanic,Manufacturing & Skilled Trades,Unspecified
+31202,Automotive Exhaust Emissions Technician,Manufacturing & Skilled Trades,Unspecified
+31203,Chassis Mechanic,Manufacturing & Skilled Trades,Unspecified
+31204,Classroom Instructor,Education & Training,Unspecified
+31205,Exhaust Emissions Automotive Technician,Manufacturing & Skilled Trades,Unspecified
+31206,Health Care Sanitary Technician,Manufacturing & Skilled Trades,Unspecified
+31207,Lead Based Paint Technician,Manufacturing & Skilled Trades,Manager
+31210,Racing Mechanic,Manufacturing & Skilled Trades,Unspecified
+31211,Rv Mechanic,Manufacturing & Skilled Trades,Unspecified
+31214,Weed Science Research Technician,Science & Research,Unspecified
+31215,Panel Cutter,Manufacturing & Skilled Trades,Unspecified
+31217,Vegetable Cutter,Manufacturing & Skilled Trades,Unspecified
+31218,Bit and Shank Department Supervisor,General / Cross-functional,Manager
+31219,Ice Cream Shop Associate,General / Cross-functional,Junior / Entry
+31220,University Services Program Associate,General / Cross-functional,Junior / Entry
+31225,Coating Machine Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+31230,Actuarial Associate,General / Cross-functional,Junior / Entry
+31231,Anesthesia Associate,Healthcare & Medical,Junior / Entry
+31233,Asbestos Removal Supervisor,General / Cross-functional,Manager
+31234,Cafe Associate,General / Cross-functional,Junior / Entry
+31236,Day Habilitation Supervisor,General / Cross-functional,Manager
+31237,Die Engraving Supervisor,General / Cross-functional,Manager
+31240,Diversified Crops Supervisor,General / Cross-functional,Manager
+31244,Fence Manufacture Supervisor,General / Cross-functional,Manager
+31245,Instant Powder Supervisor,General / Cross-functional,Manager
+31247,Lineman Apprentice,Energy & Utilities,Junior / Entry
+31249,Microsoft Office Instructor,Education & Training,Unspecified
+31250,Orange Picking Supervisor,General / Cross-functional,Manager
+31251,Pharmaceutical Compounding Supervisor,General / Cross-functional,Manager
+31252,Phlebotomist Associate,Healthcare & Medical,Junior / Entry
+31253,Pipe Manufacture Supervisor,General / Cross-functional,Manager
+31254,Quantitative Associate,General / Cross-functional,Junior / Entry
+31255,Snow Removal Supervisor,General / Cross-functional,Manager
+31261,Trash Collector Supervisor,General / Cross-functional,Manager
+31263,Upholsterer Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+31264,Director Case Management,Other,Director
+31265,Manager Case Management,Other,Manager
+31266,Nurse Case Management,Healthcare & Medical,Unspecified
+31267,RN Case Management,Other,Unspecified
+31268,Anatomic Pathology Manager,General / Cross-functional,Manager
+31270,Billiard Parlor Manager,General / Cross-functional,Manager
+31271,Cocktail Lounge Manager,General / Cross-functional,Manager
+31287,Sugar Plantation Manager,General / Cross-functional,Manager
+31288,Urban Renewal Manager,General / Cross-functional,Manager
+31289,Value Stream Manager,General / Cross-functional,Manager
+31290,Water/Wastewater Project Manager,Product,Manager
+31291,Wild Life Manager,General / Cross-functional,Manager
+31294,Clinical Trial Associate,Healthcare & Medical,Junior / Entry
+31296,Trial Management Associate,General / Cross-functional,Junior / Entry
+31297,Bag Sewer,Manufacturing & Skilled Trades,Unspecified
+31298,Brick Sorter,Manufacturing & Skilled Trades,Unspecified
+31299,Commissary Representative,General / Cross-functional,Unspecified
+31300,Laundry Sorter,Manufacturing & Skilled Trades,Unspecified
+31302,Air Drier,Other,Unspecified
+31303,Cloth Drier,Other,Unspecified
+31304,Site Foreman,Manufacturing & Skilled Trades,Manager
+31305,Coal Grader,Other,Unspecified
+31306,Meat Service Team Member,Other,Unspecified
+31307,Respiratory Therapy Aide,Healthcare & Medical,Junior / Entry
+31308,Welfare Service Aide,Healthcare & Medical,Junior / Entry
+31309,Housing Counselor,Healthcare & Medical,Unspecified
+31310,Watch Adjuster,Other,Unspecified
+31311,Checker Cashier,Sales & Business Development,Unspecified
+31312,Clerk Cashier,Sales & Business Development,Unspecified
+31313,Credit Cashier,Finance & Accounting,Unspecified
+31314,Field Cashier,Sales & Business Development,Unspecified
+31315,Floor Cashier,Sales & Business Development,Unspecified
+31316,Food Cashier,Sales & Business Development,Unspecified
+31318,Inside Sales Professional,Sales & Business Development,Unspecified
+31319,Lead Cashier,Sales & Business Development,Manager
+31320,Legal Cashier,Legal,Unspecified
+31321,Office Cashier,Sales & Business Development,Unspecified
+31322,Pharmacy Cashier,Healthcare & Medical,Unspecified
+31323,Retail Cashier,Sales & Business Development,Unspecified
+31324,Service Cashier,Sales & Business Development,Unspecified
+31327,Can Filler,Manufacturing & Skilled Trades,Unspecified
+31329,Rail Filler,Manufacturing & Skilled Trades,Unspecified
+31330,Clay Mixer,Manufacturing & Skilled Trades,Unspecified
+31331,Feed Mixer,Manufacturing & Skilled Trades,Unspecified
+31332,Dough Maker,Manufacturing & Skilled Trades,Unspecified
+31333,Hoop Maker,Manufacturing & Skilled Trades,Unspecified
+31334,Hose Maker,Manufacturing & Skilled Trades,Unspecified
+31336,Head Filter Press Tender,Manufacturing & Skilled Trades,Unspecified
+31337,Brusher Tender,Manufacturing & Skilled Trades,Unspecified
+31339,Plaster Tender,Manufacturing & Skilled Trades,Unspecified
+31341,Primary Therapist,Healthcare & Medical,Unspecified
+31342,Scientific Writer,Other,Unspecified
+31343,Tile Finisher,Manufacturing & Skilled Trades,Unspecified
+31344,Tire Finisher,Manufacturing & Skilled Trades,Unspecified
+31345,Funeral Planning Counselor,Healthcare & Medical,Unspecified
+31346,Mental Health Counselor,Healthcare & Medical,Unspecified
+31348,Oil Burner Repairer,Energy & Utilities,Unspecified
+31349,Informatics Scientist,Science & Research,Unspecified
+31350,Core Carrier,Other,Unspecified
+31351,Livestock Laborer,Agriculture & Environment,Unspecified
+31352,Mine Laborer,Manufacturing & Skilled Trades,Unspecified
+31353,Foster Care Case Manager,General / Cross-functional,Manager
+31354,Game Breeding Farm Manager,Agriculture & Environment,Manager
+31355,Garbage Pick Up Worker,General / Cross-functional,Unspecified
+31358,PHP Architect,Design & Creative,Unspecified
+31359,Recording Studio Setup Worker,General / Cross-functional,Unspecified
+31360,Rocket Test Fire Worker,General / Cross-functional,Unspecified
+31361,Sharepoint Architect,Design & Creative,Unspecified
+31362,Six Sigma Project Manager,Product,Manager
+31363,Sous Chef Kitchen Manager,"Hospitality, Food & Travel",Manager
+31364,Motion and Time Study Teacher,Education & Training,Unspecified
+31365,Music Education Adjunct Professor,Education & Training,Unspecified
+31368,Auto Seat Cover Installer,Manufacturing & Skilled Trades,Unspecified
+31369,Automobile Seat Cover Installer,Manufacturing & Skilled Trades,Unspecified
+31370,Button Maker and Installer,Manufacturing & Skilled Trades,Unspecified
+31371,Medical Radiation Tech,Healthcare & Medical,Unspecified
+31375,Investment Professional,Finance & Accounting,Unspecified
+31376,Leasing Professional,Construction & Real Estate,Unspecified
+31377,Rug Hooker Hand,Manufacturing & Skilled Trades,Unspecified
+31378,Shank Cementer Hand,Manufacturing & Skilled Trades,Unspecified
+31379,Aerial Installer,Manufacturing & Skilled Trades,Unspecified
+31380,Clinical Manager Home Care,Healthcare & Medical,Manager
+31381,Mirror Installer,Manufacturing & Skilled Trades,Unspecified
+31382,Rug Repairer,Manufacturing & Skilled Trades,Unspecified
+31383,Site Head,General / Cross-functional,Unspecified
+31384,Vacuum Repairer,Manufacturing & Skilled Trades,Unspecified
+31385,Yard Pipe Grader,Other,Unspecified
+31386,Electromechanical Inspector,General / Cross-functional,Unspecified
+31387,Gravel Inspector,General / Cross-functional,Unspecified
+31388,Hardware Assembler,Manufacturing & Skilled Trades,Unspecified
+31389,Pbx Inspector,General / Cross-functional,Unspecified
+31390,Quarter Inspector,General / Cross-functional,Unspecified
+31391,Sanitary Inspector,General / Cross-functional,Unspecified
+31392,Stencil Inspector,General / Cross-functional,Unspecified
+31393,Weed Inspector,General / Cross-functional,Unspecified
+31395,Plastic Roller,Other,Unspecified
+31396,Powder Loader,Manufacturing & Skilled Trades,Unspecified
+31397,Truck Car and Bus Cleaner,Manufacturing & Skilled Trades,Unspecified
+31398,Review RN,Other,Unspecified
+31399,Call Person,Other,Unspecified
+31400,Kettle Cleaner,Manufacturing & Skilled Trades,Unspecified
+31401,Splitter Machine,Manufacturing & Skilled Trades,Unspecified
+31402,Switch Cleaner,Manufacturing & Skilled Trades,Unspecified
+31403,Outside Salesperson,Sales & Business Development,Unspecified
+31404,Public Health,"Public Sector, Defense & Safety",Unspecified
+31405,Customs Examiner,Operations & Supply Chain,Unspecified
+31406,Deli Bakery Clerk,"Hospitality, Food & Travel",Unspecified
+31407,Fixed Capital Clerk,Administration & Office Support,Unspecified
+31408,Lining Layer,Other,Unspecified
+31409,Lining Sewer,Manufacturing & Skilled Trades,Unspecified
+31410,Military Pay Clerk,"Public Sector, Defense & Safety",Unspecified
+31411,Safety Deposit Clerk,Administration & Office Support,Unspecified
+31414,Commercial Management Accountant,Finance & Accounting,Unspecified
+31415,Corporate Staff Accountant,Finance & Accounting,Senior
+31417,Peoplesoft Administrator,General / Cross-functional,Unspecified
+31418,Real Estate Accountant,Finance & Accounting,Unspecified
+31419,Roll Forming Machine Set Up Mechanic,Manufacturing & Skilled Trades,Unspecified
+31420,Senior Corporate Accountant,Finance & Accounting,Senior
+31422,Senior Project Accountant,Finance & Accounting,Senior
+31423,Senior Staff Accountant,Finance & Accounting,Senior
+31424,Brick Unloader Tender,Manufacturing & Skilled Trades,Unspecified
+31425,Core Oven Tender,Manufacturing & Skilled Trades,Unspecified
+31426,Floor Molder,Manufacturing & Skilled Trades,Unspecified
+31431,Air Export Agent,Operations & Supply Chain,Unspecified
+31433,Glass Etcher Helper,Manufacturing & Skilled Trades,Junior / Entry
+31434,Hand Etcher Helper,Manufacturing & Skilled Trades,Junior / Entry
+31435,Lay Out Helper,Manufacturing & Skilled Trades,Junior / Entry
+31436,Shear Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+31437,Still Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+31438,Still Worker Helper,Manufacturing & Skilled Trades,Junior / Entry
+31439,Warp Knitter Helper,Manufacturing & Skilled Trades,Junior / Entry
+31440,Geothermal Powerplant Mechanic,Energy & Utilities,Unspecified
+31441,Household Appliance Mechanic,Manufacturing & Skilled Trades,Unspecified
+31442,Household Refrigeration Mechanic,Manufacturing & Skilled Trades,Unspecified
+31444,Timber Trimmer,Manufacturing & Skilled Trades,Unspecified
+31446,Channel Man,Sales & Business Development,Unspecified
+31447,Generator Man,Manufacturing & Skilled Trades,Unspecified
+31448,Buffing Line Set Up Worker,General / Cross-functional,Unspecified
+31450,Mule Driver,Operations & Supply Chain,Unspecified
+31451,Seasonal Driver,Operations & Supply Chain,Unspecified
+31453,Print Controller,Finance & Accounting,Unspecified
+31454,Timber Cutter,Manufacturing & Skilled Trades,Unspecified
+31456,Dietitian Helper,Healthcare & Medical,Junior / Entry
+31457,Plasterer Helper,Manufacturing & Skilled Trades,Junior / Entry
+31458,Slitter Helper,Manufacturing & Skilled Trades,Junior / Entry
+31460,Associate Buyer,Sales & Business Development,Junior / Entry
+31461,Automotive Buyer,Sales & Business Development,Unspecified
+31462,Corporate Buyer,Sales & Business Development,Unspecified
+31463,Law Secretary,Administration & Office Support,Unspecified
+31465,Pharmacy Buyer,Healthcare & Medical,Unspecified
+31466,Plant Buyer,Sales & Business Development,Unspecified
+31467,Project Buyer,Sales & Business Development,Unspecified
+31468,Retail Buyer,Sales & Business Development,Unspecified
+31470,Stock Buyer,Sales & Business Development,Unspecified
+31471,Supervisor Cigar Making Hand,Manufacturing & Skilled Trades,Manager
+31472,Technical Buyer,Sales & Business Development,Unspecified
+31473,Dredge Pipe Installer,Manufacturing & Skilled Trades,Unspecified
+31476,Pipe Organ Installer,Manufacturing & Skilled Trades,Unspecified
+31477,Plumbing Assembler Installer,Manufacturing & Skilled Trades,Unspecified
+31478,Packager Hand,Manufacturing & Skilled Trades,Unspecified
+31479,Stapler Hand,Manufacturing & Skilled Trades,Unspecified
+31480,Sticker Hand,Manufacturing & Skilled Trades,Unspecified
+31481,Trucker Hand,Manufacturing & Skilled Trades,Unspecified
+31482,Twister Hand,Manufacturing & Skilled Trades,Unspecified
+31483,Food Court Team Member,Legal,Unspecified
+31484,Meat Cutting Block Repairer,Manufacturing & Skilled Trades,Unspecified
+31488,Custom Decorating Consultant,General / Cross-functional,Mid
+31489,Egg Setter,Manufacturing & Skilled Trades,Unspecified
+31490,Field Crops Harvest Machine Operator,Manufacturing & Skilled Trades,Unspecified
+31493,Pipe Fitter Maintenance,Manufacturing & Skilled Trades,Unspecified
+31494,SAP Portal Consultant,General / Cross-functional,Mid
+31495,Air Traffic Control Equipment Repairer,Manufacturing & Skilled Trades,Unspecified
+31500,Property Management Accountant,Finance & Accounting,Unspecified
+31501,Property Staff Accountant,Finance & Accounting,Senior
+31503,Senior Property Accountant,Finance & Accounting,Senior
+31504,Cafe Attendant,Other,Unspecified
+31505,Cart Attendant,Other,Unspecified
+31509,Cafeteria Aide,Healthcare & Medical,Junior / Entry
+31511,District Captain,Other,Unspecified
+31512,Edge Polisher,Manufacturing & Skilled Trades,Unspecified
+31515,Tennis Court Attendant,Legal,Unspecified
+31516,Communications and Signals Supervisor,Marketing & Growth,Manager
+31517,Concrete Stone Fabricating Supervisor,General / Cross-functional,Manager
+31518,Lunchroom Food Service Supervisor,"Hospitality, Food & Travel",Manager
+31519,Mineral Wool Insulation Supervisor,General / Cross-functional,Manager
+31520,Non Destructive Testing Supervisor,General / Cross-functional,Manager
+31521,Tea and Spice Supervisor,General / Cross-functional,Manager
+31522,Benefits Processor,Human Resources & Recruiting,Unspecified
+31523,District Extension Service Agent,General / Cross-functional,Unspecified
+31524,Payroll Processor,Finance & Accounting,Unspecified
+31525,Carpenter Foreman,Manufacturing & Skilled Trades,Manager
+31526,Clinical Data Research,Healthcare & Medical,Unspecified
+31527,Federal Agent,"Public Sector, Defense & Safety",Unspecified
+31529,Barrel Finisher,Manufacturing & Skilled Trades,Unspecified
+31534,Sign Artist,Design & Creative,Unspecified
+31536,Direct Marketing Intern,Marketing & Growth,Junior / Entry
+31537,Traffic OR System Dispatcher,Operations & Supply Chain,Unspecified
+31538,City Dispatcher,Operations & Supply Chain,Unspecified
+31539,Battery Loader,Manufacturing & Skilled Trades,Unspecified
+31540,Analytical Tech,Manufacturing & Skilled Trades,Unspecified
+31541,Instrumentation Tech,Manufacturing & Skilled Trades,Unspecified
+31542,Orthopedic Tech,Healthcare & Medical,Unspecified
+31543,Cash Person,Other,Unspecified
+31544,Education Faculty Member,Education & Training,Unspecified
+31545,Engineering Faculty Member,Other,Mid
+31546,Radiation Therapist,Healthcare & Medical,Unspecified
+31547,Respiratory Scientist,Healthcare & Medical,Unspecified
+31548,Science Faculty Member,Other,Unspecified
+31549,Engine Repairer Service,Manufacturing & Skilled Trades,Unspecified
+31550,Radiology RN,Healthcare & Medical,Unspecified
+31551,Wound Care Center Consultant,General / Cross-functional,Mid
+31552,Heavy Equipment Operator Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+31555,Electron Beam Photo Mask Technician,Manufacturing & Skilled Trades,Unspecified
+31557,Quantitative Analyst Developer,Software & Engineering,Mid
+31558,Seal Delivery Vehicle Team Technician,Manufacturing & Skilled Trades,Unspecified
+31559,Relationship Counselor,Healthcare & Medical,Unspecified
+31560,Splicer Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+31569,Patient Care Secretary,Healthcare & Medical,Unspecified
+31570,Photography Professor,Education & Training,Unspecified
+31572,Shift Supervisor RN,General / Cross-functional,Manager
+31576,Senior Microsoft Net Developer,Software & Engineering,Senior
+31577,Elementary Summer School Teacher,Education & Training,Unspecified
+31578,Hotel Controller,Finance & Accounting,Unspecified
+31579,Agile Developer,Software & Engineering,Mid
+31580,Code and Test Clerk,Administration & Office Support,Unspecified
+31581,Conversion Developer,Software & Engineering,Mid
+31583,Electronic Integrated Systems Mechanic,Manufacturing & Skilled Trades,Unspecified
+31584,Emergency Department,Other,Unspecified
+31585,Enrichment Teacher,Education & Training,Unspecified
+31586,Flying Teacher,Education & Training,Unspecified
+31587,Genetics Teacher,Education & Training,Unspecified
+31588,Guitar Teacher,Education & Training,Unspecified
+31589,Immunology Teacher,Healthcare & Medical,Unspecified
+31592,Simulation Developer,Software & Engineering,Mid
+31593,Statistics Teacher,Education & Training,Unspecified
+31594,Substitute Teacher,Education & Training,Unspecified
+31595,Violin Teacher,Education & Training,Unspecified
+31596,X Ray Equipment Mechanic,Healthcare & Medical,Unspecified
+31597,Air Defense Artillery Officer,General / Cross-functional,Unspecified
+31599,Courtesy Clerk,Legal,Unspecified
+31600,Gin Clerk,Administration & Office Support,Unspecified
+31601,Keno Clerk,Administration & Office Support,Unspecified
+31602,Mailing Clerk,Administration & Office Support,Unspecified
+31603,Medical Imaging Tech,Healthcare & Medical,Unspecified
+31604,Mutuel Clerk,Administration & Office Support,Unspecified
+31606,Rating Clerk,Administration & Office Support,Unspecified
+31607,Rivet Tester,Manufacturing & Skilled Trades,Unspecified
+31608,Tariff Clerk,Administration & Office Support,Unspecified
+31609,Transformer Tester,Manufacturing & Skilled Trades,Unspecified
+31610,Tubing Tester,Manufacturing & Skilled Trades,Unspecified
+31611,Director Special Education,Education & Training,Director
+31612,Golf Club Assembler,Manufacturing & Skilled Trades,Unspecified
+31614,Rubber Grinder,Manufacturing & Skilled Trades,Unspecified
+31616,Supervisor Special Education,Education & Training,Manager
+31617,Needle Leader,General / Cross-functional,Unspecified
+31618,Visitor Services Information Assistant,General / Cross-functional,Junior / Entry
+31619,Bankruptcy Assistant,General / Cross-functional,Junior / Entry
+31620,Bookkeeping Assistant,General / Cross-functional,Junior / Entry
+31622,Janitorial Assistant,General / Cross-functional,Junior / Entry
+31623,Legislative Assistant,General / Cross-functional,Junior / Entry
+31624,Orthotic Assistant,General / Cross-functional,Junior / Entry
+31625,Paperhanger Assistant,General / Cross-functional,Junior / Entry
+31626,Prosthetic Assistant,General / Cross-functional,Junior / Entry
+31627,Architectural Technologist,Healthcare & Medical,Unspecified
+31628,Bender Machine,Manufacturing & Skilled Trades,Unspecified
+31629,Documentation Lead,General / Cross-functional,Manager
+31630,E Mail System Administrator,IT & Infrastructure,Unspecified
+31632,Senior Windows Systems Administrator,IT & Infrastructure,Senior
+31633,Street Light Cleaner,Manufacturing & Skilled Trades,Unspecified
+31635,Call Center Professional,Customer Success & Support,Unspecified
+31636,Checker and Packer,Operations & Supply Chain,Unspecified
+31637,Crop Adjuster,Agriculture & Environment,Unspecified
+31638,Yarn Washer,Manufacturing & Skilled Trades,Unspecified
+31639,Bottle Assembler,Manufacturing & Skilled Trades,Unspecified
+31640,Insulation Board Back Tender,Manufacturing & Skilled Trades,Unspecified
+31641,Insulation Power Unit Tender,Manufacturing & Skilled Trades,Unspecified
+31644,Guest Services Lead,"Hospitality, Food & Travel",Manager
+31645,Talent Acquisition Lead,Human Resources & Recruiting,Manager
+31646,Drawing Tender,Manufacturing & Skilled Trades,Unspecified
+31648,Hog Tender,Manufacturing & Skilled Trades,Unspecified
+31651,Mixing Picker Tender,Operations & Supply Chain,Unspecified
+31652,Net Finisher,Manufacturing & Skilled Trades,Unspecified
+31653,Opener Tender,Manufacturing & Skilled Trades,Unspecified
+31656,Motorcycle Maker,Manufacturing & Skilled Trades,Unspecified
+31660,Internal Recruiter,Human Resources & Recruiting,Junior / Entry
+31661,Internal Salesperson,Sales & Business Development,Junior / Entry
+31662,Scrap Cutter,Manufacturing & Skilled Trades,Unspecified
+31664,Printing Roller Polisher,Manufacturing & Skilled Trades,Unspecified
+31665,Accreditation Specialist,Finance & Accounting,Mid
+31666,Autism Specialist,General / Cross-functional,Mid
+31667,Branding Specialist,Design & Creative,Mid
+31668,Cam Specialist,General / Cross-functional,Mid
+31669,Catalog Specialist,General / Cross-functional,Mid
+31670,Counterintelligence Specialist,General / Cross-functional,Mid
+31671,Demo Specialist,General / Cross-functional,Mid
+31672,Destination Specialist,General / Cross-functional,Mid
+31673,Eap Specialist,General / Cross-functional,Mid
+31674,Emission Specialist,General / Cross-functional,Mid
+31675,EMR Specialist,General / Cross-functional,Mid
+31676,Epoxy Specialist,General / Cross-functional,Mid
+31677,Exhibition Specialist,General / Cross-functional,Mid
+31678,Geoscience Specialist,General / Cross-functional,Mid
+31679,Holistic Specialist,General / Cross-functional,Mid
+31680,HSE Specialist,General / Cross-functional,Mid
+31681,Intranet Specialist,General / Cross-functional,Mid
+31682,Labeling Specialist,General / Cross-functional,Mid
+31683,Magneto Specialist,General / Cross-functional,Mid
+31684,Payer Specialist,General / Cross-functional,Mid
+31685,Piercing Specialist,General / Cross-functional,Mid
+31686,Pst Specialist,General / Cross-functional,Mid
+31687,Renewal Specialist,General / Cross-functional,Mid
+31688,Running Specialist,General / Cross-functional,Mid
+31689,Sterilization Specialist,General / Cross-functional,Mid
+31690,Torpedo Specialist,General / Cross-functional,Mid
+31692,Customer Experience Leader,Customer Success & Support,Unspecified
+31693,Buyer Liaison,Sales & Business Development,Unspecified
+31696,Furniture Servicer,Other,Unspecified
+31699,Family Practitioner,Other,Unspecified
+31701,RN Practitioner,Other,Unspecified
+31702,Cloth Opener Hand,Manufacturing & Skilled Trades,Unspecified
+31703,Drawing in Hand,Manufacturing & Skilled Trades,Unspecified
+31705,Barrel Roller,Other,Unspecified
+31706,Cash Processor,Other,Unspecified
+31707,Curriculum Advisory Teacher,Education & Training,Unspecified
+31708,Farm Machinery Set Up Mechanic,Agriculture & Environment,Unspecified
+31711,Inside Sales,Sales & Business Development,Unspecified
+31712,Group President,Executive & General Management,C-Level
+31713,Presser Automatic,Manufacturing & Skilled Trades,Unspecified
+31715,CDL a Driver,Operations & Supply Chain,Unspecified
+31717,Recycling Collections Driver,Finance & Accounting,Unspecified
+31721,Drill Runner,"Hospitality, Food & Travel",Unspecified
+31722,Cement Mason Helper,Manufacturing & Skilled Trades,Junior / Entry
+31723,Director of Therapy Services,Healthcare & Medical,VP / Head
+31724,Hydraulic Plumber Helper,Manufacturing & Skilled Trades,Junior / Entry
+31725,Lockstitch Lining Setter,Manufacturing & Skilled Trades,Unspecified
+31727,Refinery Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+31728,Trim Setter Helper,Manufacturing & Skilled Trades,Junior / Entry
+31729,Cutter Wet Machine,Manufacturing & Skilled Trades,Unspecified
+31730,Finished Carpet Inspector,General / Cross-functional,Unspecified
+31731,Finished Garment Inspector,General / Cross-functional,Unspecified
+31735,Mainspring Strip Inspector,General / Cross-functional,Unspecified
+31737,Photo Mask Inspector,General / Cross-functional,Unspecified
+31738,Wet Cleaner Machine,Manufacturing & Skilled Trades,Unspecified
+31739,Wet Washer Machine,Manufacturing & Skilled Trades,Unspecified
+31740,Bobbin Cleaner,Manufacturing & Skilled Trades,Unspecified
+31741,Diamond Setter Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+31742,Grounds Cleaner,Manufacturing & Skilled Trades,Unspecified
+31746,Service Order Dispatcher Chief,Operations & Supply Chain,C-Level
+31749,Command Center Analyst,General / Cross-functional,Mid
+31750,Consumer Insight Analyst,General / Cross-functional,Mid
+31754,Door Frame Assembler Machine,Manufacturing & Skilled Trades,Unspecified
+31757,Audio Visual Aide,Design & Creative,Junior / Entry
+31758,Brick Loader,Manufacturing & Skilled Trades,Unspecified
+31759,Cement Loader,Manufacturing & Skilled Trades,Unspecified
+31761,Airline Operations Agent,Operations & Supply Chain,Unspecified
+31768,SQL Programmer,Software & Engineering,Unspecified
+31769,College Coach,Education & Training,Unspecified
+31770,Grain Farmer,Other,Unspecified
+31771,Hat Finisher,Manufacturing & Skilled Trades,Unspecified
+31772,Operating Room Technologist,Healthcare & Medical,Unspecified
+31773,Active Directory Specialist,General / Cross-functional,Director
+31774,Armor Reconnaissance Specialist,General / Cross-functional,Mid
+31778,Debt Collection Specialist,General / Cross-functional,Mid
+31781,National Coverage Specialist,General / Cross-functional,Mid
+31782,Poultry Farm Laborer,Agriculture & Environment,Unspecified
+31785,Teacher Selection Specialist,Education & Training,Mid
+31786,Urban Redevelopment Specialist,General / Cross-functional,Mid
+31787,Caseworker,Other,Unspecified
+31788,Colorer,Other,Unspecified
+31789,Combat Systems Officer,General / Cross-functional,Unspecified
+31790,Direct Care Counselor,Healthcare & Medical,Unspecified
+31792,Police Department Secretary,"Public Sector, Defense & Safety",Unspecified
+31794,Skimmer,Other,Unspecified
+31795,Tobacco Grader,Other,Unspecified
+31798,Machine Operator Picker,Operations & Supply Chain,Unspecified
+31800,Camp Dining Room Attendant,Other,Unspecified
+31801,Enrollment Nurse,Healthcare & Medical,Unspecified
+31802,ICU Nurse,Healthcare & Medical,Unspecified
+31803,Supervising Nurse,Healthcare & Medical,Unspecified
+31804,Wound Nurse,Healthcare & Medical,Unspecified
+31805,Director Medical,Healthcare & Medical,Director
+31807,Manager Medical,Healthcare & Medical,Manager
+31809,Strategic Client Executive,Other,Unspecified
+31811,Big Data Software Engineer,Software & Engineering,Mid
+31812,Inspector Air Carrier,Other,Unspecified
+31813,Lead Simulation Modeling Engineer,Other,Manager
+31814,Special Delivery Carrier,Other,Unspecified
+31816,Hospital Liaison,Healthcare & Medical,Unspecified
+31817,ASIC Engineer,Other,Mid
+31818,Commercial Energy Auditor,Finance & Accounting,Unspecified
+31820,Computer Systems Auditor,Finance & Accounting,Unspecified
+31821,Data Processing Auditor,Finance & Accounting,Unspecified
+31823,Estimating Engineer,Other,Mid
+31824,Field Tax Auditor,Finance & Accounting,Unspecified
+31826,Firewall Engineer,Other,Mid
+31828,Home Energy Auditor,Finance & Accounting,Unspecified
+31832,Leather Stitcher,Manufacturing & Skilled Trades,Unspecified
+31833,Lubricating Engineer,Other,Mid
+31838,Residential Energy Auditor,Finance & Accounting,Unspecified
+31840,Special Tax Auditor,Finance & Accounting,Unspecified
+31841,Supervising Architect,Design & Creative,Unspecified
+31842,Topographical Engineer,Design & Creative,Mid
+31843,Watershed Engineer,Other,Mid
+31844,Meat Grinder,Manufacturing & Skilled Trades,Unspecified
+31846,Family and Consumer Science Professor,Education & Training,Unspecified
+31849,Home Health Occupational Therapist,Healthcare & Medical,Unspecified
+31850,Review Trainer,Other,Unspecified
+31851,Tape Deck Installer,Manufacturing & Skilled Trades,Unspecified
+31852,Aircraft Electrician,Manufacturing & Skilled Trades,Unspecified
+31853,Appliance Adjuster,Other,Unspecified
+31854,Apprentice Electrician,Manufacturing & Skilled Trades,Junior / Entry
+31857,Chief Electrician,Manufacturing & Skilled Trades,C-Level
+31859,Construction Electrician,Manufacturing & Skilled Trades,Unspecified
+31860,Control Electrician,Manufacturing & Skilled Trades,Unspecified
+31861,Fashion Design Professor,Education & Training,Unspecified
+31863,Lead Electrician,Manufacturing & Skilled Trades,Manager
+31865,Manufacturing Electrician,Manufacturing & Skilled Trades,Unspecified
+31867,Master Electrician,Manufacturing & Skilled Trades,Unspecified
+31869,Office Electrician,Manufacturing & Skilled Trades,Unspecified
+31872,Radio Electrician,Manufacturing & Skilled Trades,Unspecified
+31873,Research Electrician,Science & Research,Unspecified
+31875,Culinary Instructor,Education & Training,Unspecified
+31876,Greenhouse Instructor,Education & Training,Unspecified
+31880,Generator Repairer,Manufacturing & Skilled Trades,Unspecified
+31883,Reclaimer,Other,Unspecified
+31886,Commission Associate,General / Cross-functional,Junior / Entry
+31889,SEO Associate,Marketing & Growth,Junior / Entry
+31890,Law Tutor,Education & Training,Unspecified
+31891,Block Feeder,Manufacturing & Skilled Trades,Unspecified
+31892,Kiln Feeder,Manufacturing & Skilled Trades,Unspecified
+31893,Coal Handler,Manufacturing & Skilled Trades,Unspecified
+31894,Lumber Sorter,Manufacturing & Skilled Trades,Unspecified
+31895,Adult Daycare Coordinator,Education & Training,Unspecified
+31897,Director of Business Systems,Other,VP / Head
+31899,Distance Learning Coordinator,Administration & Office Support,Unspecified
+31900,Family Literacy Coordinator,Administration & Office Support,Unspecified
+31901,Housekeeping Aide,"Hospitality, Food & Travel",Junior / Entry
+31903,Residence Life Coordinator,Administration & Office Support,Unspecified
+31904,Wedding Day Coordinator,Administration & Office Support,Unspecified
+31905,Electrical Sign Wirer Helper,Manufacturing & Skilled Trades,Junior / Entry
+31908,Waxer,Other,Unspecified
+31909,Cooking Casing and Drying Supervisor,General / Cross-functional,Manager
+31911,Butcher Helper,Manufacturing & Skilled Trades,Junior / Entry
+31912,Cabinet Installer,Manufacturing & Skilled Trades,Unspecified
+31913,Chaser Helper,Manufacturing & Skilled Trades,Junior / Entry
+31914,Foundry Helper,Manufacturing & Skilled Trades,Junior / Entry
+31915,Melter Helper,Manufacturing & Skilled Trades,Junior / Entry
+31916,Steam Finisher,Manufacturing & Skilled Trades,Unspecified
+31917,Stretcher Helper,Manufacturing & Skilled Trades,Junior / Entry
+31923,Medical Anthropology Director,Healthcare & Medical,Director
+31924,Meter Maintenance Person,Manufacturing & Skilled Trades,Unspecified
+31925,Residence Hall Director,General / Cross-functional,Director
+31926,Residence Life Director,General / Cross-functional,Director
+31929,Cementer Machine,Manufacturing & Skilled Trades,Unspecified
+31931,Punch Box Tender,Manufacturing & Skilled Trades,Unspecified
+31933,Rug Cutter,Manufacturing & Skilled Trades,Unspecified
+31935,Admitting Representative,General / Cross-functional,Unspecified
+31938,Business Development Recruiter,Human Resources & Recruiting,Unspecified
+31939,Corporate Technical Recruiter,Human Resources & Recruiting,Unspecified
+31940,Health Care Recruiter,Human Resources & Recruiting,Unspecified
+31942,IT Corporate Recruiter,Human Resources & Recruiting,Unspecified
+31944,Media Senior Recruiter,Human Resources & Recruiting,Senior
+31945,Real Estate Recruiter,Human Resources & Recruiting,Unspecified
+31946,Sales Team Recruiter,Human Resources & Recruiting,Unspecified
+31947,Senior Corporate Recruiter,Human Resources & Recruiting,Senior
+31948,Senior IT Recruiter,Human Resources & Recruiting,Senior
+31949,Senior Technical Recruiter,Human Resources & Recruiting,Senior
+31950,Acid Filler,Manufacturing & Skilled Trades,Unspecified
+31951,Deckhand,Other,Unspecified
+31952,Drill Foreman,Manufacturing & Skilled Trades,Manager
+31953,Lathe Machinist,Manufacturing & Skilled Trades,Unspecified
+31954,Contact Center Team Lead,Customer Success & Support,Manager
+31955,Valve Assembler,Manufacturing & Skilled Trades,Unspecified
+31956,Clinic Lead,Healthcare & Medical,Manager
+31959,Ash Pit Worker,General / Cross-functional,Unspecified
+31960,Black Ash Worker,General / Cross-functional,Unspecified
+31961,Boom Stick Worker,General / Cross-functional,Unspecified
+31964,Flying Squad Worker,General / Cross-functional,Unspecified
+31965,Hot Stick Worker,General / Cross-functional,Unspecified
+31966,Log Pond Worker,General / Cross-functional,Unspecified
+31969,Soaker Soda Worker,General / Cross-functional,Unspecified
+31971,Bottom Liquor Attendant,Other,Unspecified
+31972,Fast Food Attendant,Other,Unspecified
+31975,Plan Examiner,Education & Training,Unspecified
+31976,Cardiology Tech,Healthcare & Medical,Unspecified
+31977,Change Person,Other,Unspecified
+31978,Conveyor Loader,Manufacturing & Skilled Trades,Unspecified
+31980,Tailor Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+31981,Tapper Hand,Manufacturing & Skilled Trades,Unspecified
+31982,Third Hand,Manufacturing & Skilled Trades,Unspecified
+31983,Web Content Executive,Other,Unspecified
+31984,District Recruiter,Human Resources & Recruiting,Unspecified
+31986,Grain Picker,Operations & Supply Chain,Unspecified
+31987,Hot Die Picker,Operations & Supply Chain,Unspecified
+31988,Band Sewer,Manufacturing & Skilled Trades,Unspecified
+31990,Senior Tax Accountant,Finance & Accounting,Senior
+31991,Tax Staff Accountant,Finance & Accounting,Senior
+31993,Engineer of System Development,Other,Mid
+31996,Cotton Washer,Manufacturing & Skilled Trades,Unspecified
+31998,Sand Caster Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+31999,Ship Washer,Manufacturing & Skilled Trades,Unspecified
+32000,Window Unit Air Conditioning Mechanic,Manufacturing & Skilled Trades,Unspecified
+32001,Pump Runner,"Hospitality, Food & Travel",Unspecified
+32002,Receptionist Secretary,Customer Success & Support,Unspecified
+32003,Beater Tender,Manufacturing & Skilled Trades,Unspecified
+32005,Enrollment Eligibility Representative,General / Cross-functional,Unspecified
+32007,Golf Cart Mechanic,Manufacturing & Skilled Trades,Unspecified
+32008,Hose Tender,Manufacturing & Skilled Trades,Unspecified
+32009,Neon Sign Mechanic,Manufacturing & Skilled Trades,Unspecified
+32010,Patient Registration Representative,Healthcare & Medical,Unspecified
+32011,Reel Tender,Manufacturing & Skilled Trades,Unspecified
+32012,Sprinkler Tender,Manufacturing & Skilled Trades,Unspecified
+32013,Bicycle Designer,Design & Creative,Mid
+32017,Silver Designer,Design & Creative,Mid
+32018,Art Museum Aide,Healthcare & Medical,Junior / Entry
+32019,Pathology Laboratory Aide,Science & Research,Junior / Entry
+32021,Child Welfare Counselor,Healthcare & Medical,Unspecified
+32022,Elevator Adjuster,Other,Unspecified
+32023,Hydraulic Auto Jack Mechanic,Manufacturing & Skilled Trades,Unspecified
+32024,Molding Fitter,Manufacturing & Skilled Trades,Unspecified
+32025,Optical Model Maker and Tester,Manufacturing & Skilled Trades,Unspecified
+32026,Cardiac Care Unit Nurse,Healthcare & Medical,Unspecified
+32027,Critical Care Nurse,Healthcare & Medical,Unspecified
+32028,General Duty Nurse,Healthcare & Medical,Unspecified
+32029,Keeper Head,General / Cross-functional,Unspecified
+32030,Private Duty Nurse,Healthcare & Medical,Unspecified
+32031,Relief Charge Nurse,Healthcare & Medical,Unspecified
+32032,Special Duty Nurse,Healthcare & Medical,Unspecified
+32033,Agriculture Intern,Agriculture & Environment,Junior / Entry
+32034,Fashion Intern,General / Cross-functional,Junior / Entry
+32035,Chimney Mechanic,Manufacturing & Skilled Trades,Unspecified
+32036,Dragline Mechanic,Manufacturing & Skilled Trades,Unspecified
+32037,Radiator Mechanic,Manufacturing & Skilled Trades,Unspecified
+32039,Saddle Mechanic,Manufacturing & Skilled Trades,Unspecified
+32040,Tooling Mechanic,Manufacturing & Skilled Trades,Unspecified
+32041,Boat Joiner Helper,Manufacturing & Skilled Trades,Junior / Entry
+32043,Flat Knitter Helper,Manufacturing & Skilled Trades,Junior / Entry
+32045,Marble Installation Helper,Manufacturing & Skilled Trades,Junior / Entry
+32046,Marble Mechanic Helper,Manufacturing & Skilled Trades,Junior / Entry
+32047,Marble Setter Helper,Manufacturing & Skilled Trades,Junior / Entry
+32048,Retail Furniture Sales,Sales & Business Development,Unspecified
+32050,Benzene Worker,General / Cross-functional,Unspecified
+32052,Broke Worker,General / Cross-functional,Unspecified
+32053,Chamber Worker,General / Cross-functional,Unspecified
+32055,Galley Worker,General / Cross-functional,Unspecified
+32056,Gathering Worker,General / Cross-functional,Unspecified
+32057,Layup Worker,General / Cross-functional,Unspecified
+32058,Linotype Worker,General / Cross-functional,Unspecified
+32059,Mortar Worker,General / Cross-functional,Unspecified
+32060,Mosaic Worker,General / Cross-functional,Unspecified
+32061,Orchid Worker,General / Cross-functional,Unspecified
+32062,Parks Worker,General / Cross-functional,Unspecified
+32063,Pulley Worker,General / Cross-functional,Unspecified
+32064,Remelt Worker,General / Cross-functional,Unspecified
+32065,Speeder Worker,General / Cross-functional,Unspecified
+32066,Tension Worker,General / Cross-functional,Unspecified
+32067,Basket Maker,Manufacturing & Skilled Trades,Unspecified
+32069,Bobbin Cleaner Hand,Manufacturing & Skilled Trades,Unspecified
+32070,Dough Molder Hand,Manufacturing & Skilled Trades,Unspecified
+32072,Supervisor Delivery Department,Other,Manager
+32073,Agricultural Pilot,Agriculture & Environment,Unspecified
+32074,Asphalt Mixer,Manufacturing & Skilled Trades,Unspecified
+32075,Disability Insurance Hearing Officer,General / Cross-functional,Unspecified
+32076,Finish Mixer,Manufacturing & Skilled Trades,Unspecified
+32077,Cigarette and Filter Chief Inspector,General / Cross-functional,C-Level
+32078,Contracting Officer,General / Cross-functional,Unspecified
+32079,Giving Officer,General / Cross-functional,Unspecified
+32081,Jewelry Sorter,Manufacturing & Skilled Trades,Unspecified
+32083,Multi Site Leasing Consultant,Construction & Real Estate,Mid
+32086,Privacy Officer,General / Cross-functional,Unspecified
+32087,Signals Officer,General / Cross-functional,Unspecified
+32088,Practical Nurse Clinical Coordinator,Healthcare & Medical,Unspecified
+32089,Staffing and Scheduling Coordinator,Human Resources & Recruiting,Unspecified
+32090,Computing Consultant,General / Cross-functional,Mid
+32091,EDI Consultant,General / Cross-functional,Mid
+32092,Excellence Consultant,General / Cross-functional,Mid
+32093,Investigations Consultant,General / Cross-functional,Mid
+32094,Middleware Consultant,General / Cross-functional,Mid
+32095,Pension Consultant,General / Cross-functional,Mid
+32096,Telesales Consultant,Sales & Business Development,Mid
+32097,Aquatics Coordinator,Administration & Office Support,Unspecified
+32100,Black Ash Burner Operator,Manufacturing & Skilled Trades,Unspecified
+32101,Cane Flume Chute Operator,Manufacturing & Skilled Trades,Unspecified
+32102,Commercial Trailer Truck Driver,Operations & Supply Chain,Unspecified
+32103,Cruise Coordinator,"Hospitality, Food & Travel",Unspecified
+32104,Director of Radio Services,"Media, Sports & Entertainment",VP / Head
+32107,Ear Pull Machine Operator,Manufacturing & Skilled Trades,Unspecified
+32108,Ems Coordinator,Administration & Office Support,Unspecified
+32109,Finger Grip Machine Operator,Manufacturing & Skilled Trades,Unspecified
+32110,Flame Brazing Machine Operator,Manufacturing & Skilled Trades,Unspecified
+32111,Fork Lift Truck Operator,Manufacturing & Skilled Trades,Unspecified
+32112,Four Roll Calender Operator,Manufacturing & Skilled Trades,Unspecified
+32113,Four Slide Machine Operator,Manufacturing & Skilled Trades,Unspecified
+32114,Head Cd Reactor Operator,Manufacturing & Skilled Trades,Unspecified
+32116,High Speed Printer Operator,Manufacturing & Skilled Trades,Unspecified
+32117,Lactation Coordinator,Administration & Office Support,Unspecified
+32119,Lead Sewage Plant Operator,Manufacturing & Skilled Trades,Manager
+32123,Pony Cylinder Press Operator,Manufacturing & Skilled Trades,Unspecified
+32125,Pull Over Machine Operator,Manufacturing & Skilled Trades,Unspecified
+32127,Rim Fire Charger Operator,Manufacturing & Skilled Trades,Unspecified
+32130,Scan Coordinator,Administration & Office Support,Unspecified
+32134,Snuff Packing Machine Operator,Manufacturing & Skilled Trades,Unspecified
+32135,Swing Frame Grinder Operator,Manufacturing & Skilled Trades,Unspecified
+32136,Swing Type Lathe Operator,Manufacturing & Skilled Trades,Unspecified
+32137,Telegraph and Teletype Operator,Manufacturing & Skilled Trades,Unspecified
+32139,Tractor Trailer Truck Driver,Operations & Supply Chain,Unspecified
+32140,Trailer Tank Truck Driver,Operations & Supply Chain,Unspecified
+32147,Composition Professor,Education & Training,Unspecified
+32148,Swimming Professor,Education & Training,Unspecified
+32149,Track Machine Operator Repairer,Manufacturing & Skilled Trades,Unspecified
+32151,Blanker Operator,Manufacturing & Skilled Trades,Unspecified
+32152,Boxer Operator,Manufacturing & Skilled Trades,Unspecified
+32155,Canteen Operator,Manufacturing & Skilled Trades,Unspecified
+32157,Cmm Operator,Manufacturing & Skilled Trades,Unspecified
+32158,Coagulating Operator,Manufacturing & Skilled Trades,Unspecified
+32159,Collator Operator,Manufacturing & Skilled Trades,Unspecified
+32160,Desulfurizer Operator,Manufacturing & Skilled Trades,Unspecified
+32161,Disintegrator Operator,Manufacturing & Skilled Trades,Unspecified
+32162,Electrolysis Operator,Manufacturing & Skilled Trades,Unspecified
+32163,Ethanol Operator,Manufacturing & Skilled Trades,Unspecified
+32165,Expeller Operator,Manufacturing & Skilled Trades,Unspecified
+32166,Extract Operator,Manufacturing & Skilled Trades,Unspecified
+32167,Flanging Operator,Manufacturing & Skilled Trades,Unspecified
+32168,Insert Operator,Manufacturing & Skilled Trades,Unspecified
+32169,Jigger Operator,Manufacturing & Skilled Trades,Unspecified
+32170,Jogger Operator,Manufacturing & Skilled Trades,Unspecified
+32171,Joy Operator,Manufacturing & Skilled Trades,Unspecified
+32172,Lacing Operator,Manufacturing & Skilled Trades,Unspecified
+32173,Mac Operator,Manufacturing & Skilled Trades,Unspecified
+32174,Mucker Operator,Manufacturing & Skilled Trades,Unspecified
+32175,Naphthalene Operator,Manufacturing & Skilled Trades,Unspecified
+32176,Nickel Operator,Manufacturing & Skilled Trades,Unspecified
+32178,Otr Driver,Operations & Supply Chain,Unspecified
+32179,Pelletizer Operator,Manufacturing & Skilled Trades,Unspecified
+32181,Pyrometer Operator,Manufacturing & Skilled Trades,Unspecified
+32182,Rectifier Operator,Manufacturing & Skilled Trades,Unspecified
+32183,Regenerator Operator,Manufacturing & Skilled Trades,Unspecified
+32184,Screed Operator,Manufacturing & Skilled Trades,Unspecified
+32185,Shield Operator,Manufacturing & Skilled Trades,Unspecified
+32186,Stabilizer Operator,Manufacturing & Skilled Trades,Unspecified
+32187,Swager Operator,Manufacturing & Skilled Trades,Unspecified
+32188,Tandem Operator,Manufacturing & Skilled Trades,Unspecified
+32189,Tavern Operator,Manufacturing & Skilled Trades,Unspecified
+32190,Towboat Operator,Manufacturing & Skilled Trades,Unspecified
+32191,Turntable Operator,Manufacturing & Skilled Trades,Unspecified
+32192,Vulcanizer Operator,Manufacturing & Skilled Trades,Unspecified
+32193,Camera Repairer,"Media, Sports & Entertainment",Unspecified
+32195,Card Feeder,Manufacturing & Skilled Trades,Unspecified
+32197,Founder and Chief Technical Officer,Executive & General Management,C-Level
+32198,Informatics Physician,Healthcare & Medical,Unspecified
+32199,Risk Consulting Treasury Director,Finance & Accounting,Director
+32200,Sander and Polisher,Manufacturing & Skilled Trades,Unspecified
+32201,Aquatics Director,General / Cross-functional,Director
+32202,Bureau Director,General / Cross-functional,Director
+32204,Cruise Director,"Hospitality, Food & Travel",Director
+32205,Ems Director,General / Cross-functional,Director
+32206,Legislative Director,General / Cross-functional,Director
+32207,Playground Director,General / Cross-functional,Director
+32208,Sales Representative Gas Service,Sales & Business Development,Unspecified
+32209,Bell Attendant,Other,Unspecified
+32210,Blind Cleaner,Manufacturing & Skilled Trades,Unspecified
+32211,Dump Attendant,Other,Unspecified
+32212,Last Cleaner,Manufacturing & Skilled Trades,Unspecified
+32213,Wafer Cleaner,Manufacturing & Skilled Trades,Unspecified
+32216,Equipment Operation Instructor,Education & Training,Unspecified
+32217,House Painting Instructor,Education & Training,Unspecified
+32218,Independent Living Instructor,Education & Training,Unspecified
+32220,Body Work Auto Trimmer,Manufacturing & Skilled Trades,Unspecified
+32221,Chair Finisher,Manufacturing & Skilled Trades,Unspecified
+32222,Functional Mental Disability Teacher,Education & Training,Unspecified
+32223,Fur Polisher,Manufacturing & Skilled Trades,Unspecified
+32224,Steel Grinder,Manufacturing & Skilled Trades,Unspecified
+32226,Telephone Collector,Other,Unspecified
+32227,Remote Advisor,General / Cross-functional,Unspecified
+32228,Precision Lens Grinder Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+32231,Spring Layer,Other,Unspecified
+32232,Cotton Grader,Other,Unspecified
+32233,Table Runner,"Hospitality, Food & Travel",Unspecified
+32235,Telephone Operator Chief,Manufacturing & Skilled Trades,C-Level
+32238,Law Librarian,Education & Training,Unspecified
+32242,Cancer Program Consultant,General / Cross-functional,Mid
+32244,Fruit Buyer,Sales & Business Development,Unspecified
+32246,Group Segment Consultant,General / Cross-functional,Mid
+32249,Microsoft Dynamics Consultant,General / Cross-functional,Mid
+32250,Oil Well Gun Perforator Operator,Manufacturing & Skilled Trades,Unspecified
+32253,Scale and Skip Car Operator,Manufacturing & Skilled Trades,Unspecified
+32254,Solid Tire Tuber Machine Operator,Manufacturing & Skilled Trades,Unspecified
+32255,Speech Correction Consultant,General / Cross-functional,Mid
+32257,Straight Tooth Gear Generator Operator,Manufacturing & Skilled Trades,Unspecified
+32258,Top Stitcher,Manufacturing & Skilled Trades,Unspecified
+32259,Appeals and Generalist Clerk,Administration & Office Support,Unspecified
+32260,Ear Mold Laboratory Technician,Science & Research,Unspecified
+32261,Flat Sorting Machine Clerk,Administration & Office Support,Unspecified
+32265,Nuclear Fuel Enrichment Technician,Energy & Utilities,Unspecified
+32267,Postal Service Window Clerk,Administration & Office Support,Unspecified
+32268,Public Health Sanitarian Technician,"Public Sector, Defense & Safety",Unspecified
+32272,Submarine Cable Equipment Technician,Manufacturing & Skilled Trades,Unspecified
+32273,Tree Puller,Other,Unspecified
+32274,Work Order Sorting Clerk,Administration & Office Support,Unspecified
+32276,Aerial Tram Operator,Manufacturing & Skilled Trades,Unspecified
+32281,Bin Tripper Operator,Manufacturing & Skilled Trades,Unspecified
+32284,Broke Beater Operator,Manufacturing & Skilled Trades,Unspecified
+32286,Burglar Alarm Operator,Manufacturing & Skilled Trades,Unspecified
+32288,Chain Mortiser Operator,Manufacturing & Skilled Trades,Unspecified
+32291,Cloth Mercerizer Operator,Manufacturing & Skilled Trades,Unspecified
+32296,Dehydrogenation Converter Operator,Manufacturing & Skilled Trades,Unspecified
+32299,Dumper Bailer Operator,Manufacturing & Skilled Trades,Unspecified
+32310,Gate Mortiser Operator,Manufacturing & Skilled Trades,Unspecified
+32314,Hi Lift Operator,Manufacturing & Skilled Trades,Unspecified
+32315,Hi Ranger Operator,Manufacturing & Skilled Trades,Unspecified
+32324,Liquid Chlorine Operator,Manufacturing & Skilled Trades,Unspecified
+32328,Monorail Charger Operator,Manufacturing & Skilled Trades,Unspecified
+32330,Monotype Keyboard Operator,Manufacturing & Skilled Trades,Unspecified
+32333,Open Tenter Operator,Manufacturing & Skilled Trades,Unspecified
+32342,Play Back Operator,Manufacturing & Skilled Trades,Unspecified
+32345,Pulley Mortiser Operator,Manufacturing & Skilled Trades,Unspecified
+32347,Pulling Unit Operator,Manufacturing & Skilled Trades,Unspecified
+32360,Tenter Frame Operator,Manufacturing & Skilled Trades,Unspecified
+32365,Top Precipitator Operator,Manufacturing & Skilled Trades,Unspecified
+32369,Yarn Mercerizer Operator,Manufacturing & Skilled Trades,Unspecified
+32370,Armorer Technician,Manufacturing & Skilled Trades,Unspecified
+32374,Cmm Technician,Manufacturing & Skilled Trades,Unspecified
+32375,Eeg Technician,Manufacturing & Skilled Trades,Unspecified
+32376,Emission Technician,Manufacturing & Skilled Trades,Unspecified
+32377,Ergonomics Technician,Manufacturing & Skilled Trades,Unspecified
+32378,Fingernail Technician,Manufacturing & Skilled Trades,Unspecified
+32379,Formulation Technician,Manufacturing & Skilled Trades,Unspecified
+32381,Gi Technician,Manufacturing & Skilled Trades,Unspecified
+32382,Iv Technician,Manufacturing & Skilled Trades,Unspecified
+32383,Mammography Technician,Manufacturing & Skilled Trades,Unspecified
+32384,Morgue Technician,Manufacturing & Skilled Trades,Unspecified
+32387,Pick Up Driver,Operations & Supply Chain,Unspecified
+32388,PLC Technician,Manufacturing & Skilled Trades,Unspecified
+32391,Shampoo Technician,Manufacturing & Skilled Trades,Unspecified
+32394,Sterilization Technician,Manufacturing & Skilled Trades,Unspecified
+32395,Voip Technician,IT & Infrastructure,Unspecified
+32396,Windshield Technician,Manufacturing & Skilled Trades,Unspecified
+32397,Zoning Technician,Manufacturing & Skilled Trades,Unspecified
+32398,Ticket Writer,Other,Unspecified
+32399,Android Platform Developer,Software & Engineering,Mid
+32401,Ball Mill Mixer,Manufacturing & Skilled Trades,Unspecified
+32403,J2ee Android Developer,Software & Engineering,Mid
+32404,Java Android Developer,Software & Engineering,Mid
+32405,Java Websphere Developer,Software & Engineering,Mid
+32406,Lead Android Developer,Software & Engineering,Manager
+32407,Principal Android Developer,Software & Engineering,Director
+32408,Sales Force Developer,Software & Engineering,Mid
+32410,Shift Foreman,Manufacturing & Skilled Trades,Manager
+32411,Warehouse Pricing and Inventory Clerk,Operations & Supply Chain,Unspecified
+32412,Websphere Commerce Developer,Software & Engineering,Mid
+32413,Lock Setter,Manufacturing & Skilled Trades,Unspecified
+32416,Customer Experience Professional,Customer Success & Support,Unspecified
+32417,Hospital Ward Clerk,Healthcare & Medical,Unspecified
+32419,Safe Deposit Clerk,Administration & Office Support,Unspecified
+32420,Solid State Tester,Manufacturing & Skilled Trades,Unspecified
+32421,Tool Crib Clerk,Administration & Office Support,Unspecified
+32426,Paving Stone Installer,Manufacturing & Skilled Trades,Unspecified
+32428,Rotary Adjuster,Other,Unspecified
+32429,Wheel Grinder,Manufacturing & Skilled Trades,Unspecified
+32430,Balance Assembler,Manufacturing & Skilled Trades,Unspecified
+32431,Compressor Assembler,Manufacturing & Skilled Trades,Unspecified
+32433,Pad Assembler,Manufacturing & Skilled Trades,Unspecified
+32435,Shear Assembler,Manufacturing & Skilled Trades,Unspecified
+32438,Cashier and Salesperson,Sales & Business Development,Unspecified
+32443,Bag Machine Adjuster,Manufacturing & Skilled Trades,Unspecified
+32444,Cattle Examiner,Education & Training,Unspecified
+32445,Folder Machine Adjuster,Manufacturing & Skilled Trades,Unspecified
+32446,Blind Aide,Healthcare & Medical,Junior / Entry
+32447,Campus Aide,Healthcare & Medical,Junior / Entry
+32449,Reading Aide,Healthcare & Medical,Junior / Entry
+32450,Leather Finisher,Manufacturing & Skilled Trades,Unspecified
+32452,Retail Wireless Sales Representative,Sales & Business Development,Unspecified
+32453,Wind Farm Electrical Systems Designer,Design & Creative,Mid
+32454,BI Lead,General / Cross-functional,Manager
+32455,Engagement Lead,General / Cross-functional,Manager
+32456,Reporting Lead,General / Cross-functional,Manager
+32457,Acid Painter,Manufacturing & Skilled Trades,Unspecified
+32458,City Controller,Finance & Accounting,Unspecified
+32459,Filter Filler,Manufacturing & Skilled Trades,Unspecified
+32460,Track and Field Coach,Education & Training,Unspecified
+32462,Living Coach,Education & Training,Unspecified
+32463,Outside Collector,Other,Unspecified
+32464,Fiber Technologist,Healthcare & Medical,Unspecified
+32465,Tour Counselor,Healthcare & Medical,Unspecified
+32466,Primary Health Care Nurse,Healthcare & Medical,Unspecified
+32468,Outside Residential Sales Professional,Sales & Business Development,Unspecified
+32469,Securities and Real Estate Director,Construction & Real Estate,Director
+32470,Ground Source Heat Pump Technician,Manufacturing & Skilled Trades,Unspecified
+32471,Plastic Tile Layer,Other,Unspecified
+32472,R and D Lab Technician,Science & Research,Unspecified
+32473,Intake Nurse,Healthcare & Medical,Unspecified
+32475,Arcade Game Technician,Manufacturing & Skilled Trades,Unspecified
+32477,Binder Stripper Machine,Manufacturing & Skilled Trades,Unspecified
+32485,News Gathering Technician,"Media, Sports & Entertainment",Unspecified
+32489,Telegraph Repeater Technician,Manufacturing & Skilled Trades,Unspecified
+32490,Veneer Repairer Machine,Manufacturing & Skilled Trades,Unspecified
+32491,Fur Sewer,Manufacturing & Skilled Trades,Unspecified
+32492,Filling Machine Set Up Mechanic,Manufacturing & Skilled Trades,Unspecified
+32494,Yarn Winder,Other,Unspecified
+32496,Tape Editor,Design & Creative,Unspecified
+32497,Factory Superintendent,Construction & Real Estate,Director
+32498,Mechanic Senior,Manufacturing & Skilled Trades,Senior
+32499,Chief Dog License Inspector,General / Cross-functional,C-Level
+32500,Glass OR Mirror Inspector,General / Cross-functional,Unspecified
+32501,Bindery Helper,Manufacturing & Skilled Trades,Junior / Entry
+32502,Greaser Helper,Manufacturing & Skilled Trades,Junior / Entry
+32503,Van Helper,Manufacturing & Skilled Trades,Junior / Entry
+32504,Clearing Inspector,General / Cross-functional,Unspecified
+32505,Clutch Inspector,General / Cross-functional,Unspecified
+32506,Demand Inspector,General / Cross-functional,Unspecified
+32507,Grid Inspector,General / Cross-functional,Unspecified
+32508,Matrix Inspector,General / Cross-functional,Unspecified
+32509,Sanitarian Inspector,General / Cross-functional,Unspecified
+32510,Weld Inspector,General / Cross-functional,Unspecified
+32511,Forest Pathology Associate Professor,Education & Training,Junior / Entry
+32512,Medical Billing and Coding Instructor,Finance & Accounting,Unspecified
+32513,Poultry Farmer,Other,Unspecified
+32514,Respiratory Physician,Healthcare & Medical,Unspecified
+32515,Auto Parts Counter Person,Operations & Supply Chain,Unspecified
+32516,Automotive Parts Counter Person,Operations & Supply Chain,Unspecified
+32517,Parts Counter Sales Person,Sales & Business Development,Unspecified
+32519,Contact Acid Plant Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+32520,Internet Programmer,Software & Engineering,Junior / Entry
+32521,As400 Analyst,General / Cross-functional,Mid
+32522,Capacity Analyst,"Public Sector, Defense & Safety",Mid
+32523,Credentialing Analyst,General / Cross-functional,Mid
+32524,Decision Analyst,General / Cross-functional,Mid
+32525,Fusion Analyst,General / Cross-functional,Mid
+32526,Health and Human Performance Professor,Education & Training,Unspecified
+32527,Is Analyst,General / Cross-functional,Mid
+32528,Lan Analyst,General / Cross-functional,Mid
+32529,Loading Dock Helper,Manufacturing & Skilled Trades,Junior / Entry
+32530,Lumber Loader,Manufacturing & Skilled Trades,Unspecified
+32531,Outcomes Analyst,General / Cross-functional,Mid
+32532,Pc Analyst,General / Cross-functional,Mid
+32533,Purchase Analyst,General / Cross-functional,Mid
+32534,Standards Analyst,General / Cross-functional,Mid
+32535,Story Analyst,General / Cross-functional,Mid
+32536,Tableau Analyst,General / Cross-functional,Mid
+32537,Tie Knitter Helper,Manufacturing & Skilled Trades,Junior / Entry
+32538,Model Set Artist,Design & Creative,Unspecified
+32539,Book Trimmer,Manufacturing & Skilled Trades,Unspecified
+32540,Hide Trimmer,Manufacturing & Skilled Trades,Unspecified
+32541,Bone Tender,Manufacturing & Skilled Trades,Unspecified
+32542,Lock Tender,Manufacturing & Skilled Trades,Unspecified
+32543,Brand Planner,Design & Creative,Unspecified
+32544,Yarn Handler,Manufacturing & Skilled Trades,Unspecified
+32545,Graduate Intern,General / Cross-functional,Junior / Entry
+32546,Skin Therapist,Healthcare & Medical,Unspecified
+32547,Book Cutter,Manufacturing & Skilled Trades,Unspecified
+32548,Director of Medical Staff Services,Healthcare & Medical,VP / Head
+32549,Second Cutter,Manufacturing & Skilled Trades,Unspecified
+32550,Waste Picker,Operations & Supply Chain,Unspecified
+32555,Cyber Reverse Engineer,Other,Mid
+32557,Leather Roller,Other,Unspecified
+32559,Narrow Gauge Engineer,Other,Mid
+32566,Academic Services Professional,Education & Training,Unspecified
+32567,Global President,Executive & General Management,C-Level
+32568,Billing Auditor,Finance & Accounting,Unspecified
+32569,Improvement Auditor,Finance & Accounting,Unspecified
+32570,Railroad Auditor,Finance & Accounting,Unspecified
+32571,Railroad Cook,"Hospitality, Food & Travel",Unspecified
+32572,Unix Administrator,General / Cross-functional,Unspecified
+32574,Asphalt Distributor Tender,Manufacturing & Skilled Trades,Unspecified
+32575,Asphalt Heater Tender,Manufacturing & Skilled Trades,Unspecified
+32578,Mixing Pan Tender,Manufacturing & Skilled Trades,Unspecified
+32579,Vacuum Pan Tender,Manufacturing & Skilled Trades,Unspecified
+32580,Employment Trainer,Other,Unspecified
+32583,Marine Fuel Dock Attendant,Other,Unspecified
+32584,Fitting Room Inspector,General / Cross-functional,Unspecified
+32585,Geothermal Installer,Energy & Utilities,Unspecified
+32586,Intelligence Operations,Operations & Supply Chain,Unspecified
+32587,Live Ammunition Inspector,General / Cross-functional,Unspecified
+32590,Edge Runner,"Hospitality, Food & Travel",Unspecified
+32593,Cotton Dispatcher,Operations & Supply Chain,Unspecified
+32600,Metal Window Frame Maker,Manufacturing & Skilled Trades,Unspecified
+32603,Assistant Store Manager Sales,Sales & Business Development,Manager
+32604,Pole Maker,Manufacturing & Skilled Trades,Unspecified
+32607,Graphic Pre Press Trades Worker,Design & Creative,Unspecified
+32608,Ice Bag Assembler,Manufacturing & Skilled Trades,Unspecified
+32609,Record Changer Assembler,Manufacturing & Skilled Trades,Unspecified
+32611,2nd Grade Teacher,Education & Training,Unspecified
+32615,Animal Husbandry Teacher,Education & Training,Unspecified
+32617,Boat Master,Other,Unspecified
+32618,Child Care,Other,Unspecified
+32619,Dairy Husbandry Teacher,Education & Training,Unspecified
+32621,Infant Lead Teacher,Education & Training,Manager
+32622,Infant Room Teacher,Education & Training,Unspecified
+32623,Poultry Husbandry Teacher,Education & Training,Unspecified
+32624,Skilled Trades Teacher,Education & Training,Unspecified
+32627,Urban Planning Teacher,Education & Training,Unspecified
+32629,Web Master,Other,Unspecified
+32630,Clerk General,Administration & Office Support,Unspecified
+32631,Director General,General / Cross-functional,Director
+32632,Inspector General,General / Cross-functional,Unspecified
+32633,Laborer General,Manufacturing & Skilled Trades,Unspecified
+32635,Repairer General,Manufacturing & Skilled Trades,Unspecified
+32636,Superintendent General,Construction & Real Estate,Director
+32637,Supervisor General,General / Cross-functional,Manager
+32638,Core Feeder,Manufacturing & Skilled Trades,Unspecified
+32639,Body Line Finisher,Manufacturing & Skilled Trades,Unspecified
+32641,HR Operations Advisor,Human Resources & Recruiting,Unspecified
+32642,Labor Delivery RN,Other,Unspecified
+32643,Wall Man,Manufacturing & Skilled Trades,Unspecified
+32644,Channel Executive,Sales & Business Development,Unspecified
+32645,Draw Hand,Manufacturing & Skilled Trades,Unspecified
+32646,Kennel Hand,Manufacturing & Skilled Trades,Unspecified
+32647,Skiver Hand,Manufacturing & Skilled Trades,Unspecified
+32650,Canal Equipment Maintenance Supervisor,Construction & Real Estate,Manager
+32651,Coal and Ash Supervisor,General / Cross-functional,Manager
+32652,Fish Bait Processing Supervisor,General / Cross-functional,Manager
+32653,Hotel Staff Member,"Hospitality, Food & Travel",Senior
+32654,Mixing and Dispensing Supervisor,General / Cross-functional,Manager
+32655,Senior PHP Software Developer,Software & Engineering,Senior

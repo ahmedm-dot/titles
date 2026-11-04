@@ -1,0 +1,2501 @@
+rank,title,family,seniority
+46568,Scientific Publications Editor,Design & Creative,Unspecified
+46570,Visual Effects Editor,Design & Creative,Unspecified
+46572,Conference Producer,Design & Creative,Unspecified
+46573,Director Information,General / Cross-functional,Director
+46574,Dock Boss,Other,Unspecified
+46575,Fibreglass Lay Up Worker,General / Cross-functional,Unspecified
+46576,Independent Producer,Design & Creative,Unspecified
+46577,Interactive Producer,Design & Creative,Unspecified
+46579,Odd Jobs Day Worker,General / Cross-functional,Unspecified
+46580,Resident Care Aid,Other,Unspecified
+46581,Surface Boss,Other,Unspecified
+46583,Wrapper Counter,Manufacturing & Skilled Trades,Unspecified
+46584,Adz Worker,General / Cross-functional,Unspecified
+46585,Alcoholism Worker,General / Cross-functional,Unspecified
+46586,Balcony Worker,General / Cross-functional,Unspecified
+46587,Bunker Worker,General / Cross-functional,Unspecified
+46588,Caisson Worker,General / Cross-functional,Unspecified
+46589,Carnival Worker,General / Cross-functional,Unspecified
+46591,Charhouse Worker,General / Cross-functional,Unspecified
+46592,Connection Worker,General / Cross-functional,Unspecified
+46593,Creamery Worker,General / Cross-functional,Unspecified
+46594,Dyehouse Worker,General / Cross-functional,Unspecified
+46595,Ecclesiastical Worker,General / Cross-functional,Unspecified
+46596,Fellmongery Worker,General / Cross-functional,Unspecified
+46597,Firestop/Containment Worker,General / Cross-functional,Unspecified
+46598,Glueline Worker,Energy & Utilities,Unspecified
+46599,Grizzly Worker,General / Cross-functional,Unspecified
+46600,Hothouse Worker,General / Cross-functional,Unspecified
+46601,Housekeeper/Custodian/Laundry Worker,"Hospitality, Food & Travel",Unspecified
+46602,Knockup Worker,General / Cross-functional,Unspecified
+46603,Limehouse Worker,General / Cross-functional,Unspecified
+46604,Marquetry Worker,General / Cross-functional,Unspecified
+46605,Passementerie Worker,General / Cross-functional,Unspecified
+46606,Piggery Worker,General / Cross-functional,Unspecified
+46607,Plier Worker,General / Cross-functional,Unspecified
+46608,Rattan Worker,General / Cross-functional,Unspecified
+46609,Reforestation Worker,General / Cross-functional,Unspecified
+46610,Scruff Worker,General / Cross-functional,Unspecified
+46611,Shine Worker,General / Cross-functional,Unspecified
+46612,Sill Worker,General / Cross-functional,Unspecified
+46613,Spoilage Worker,General / Cross-functional,Unspecified
+46614,Squadron Worker,General / Cross-functional,Unspecified
+46615,Tanyard Worker,General / Cross-functional,Unspecified
+46616,Tradeshow Worker,General / Cross-functional,Unspecified
+46617,Waterside Worker,General / Cross-functional,Unspecified
+46618,Asphalt Tile Floor Layer,Other,Unspecified
+46619,CMO,Other,C-Level
+46620,Coffee Grower,Other,Unspecified
+46621,Combiner,Other,Unspecified
+46623,Flanger,Other,Unspecified
+46624,Pasteurizer,Other,Unspecified
+46626,Sail Finisher Hand,Manufacturing & Skilled Trades,Unspecified
+46627,Scratcher,Other,Unspecified
+46628,Wrapper Stemmer Hand,Manufacturing & Skilled Trades,Unspecified
+46629,Camp Guard,"Public Sector, Defense & Safety",Unspecified
+46630,Criminal Psychologist,Healthcare & Medical,Unspecified
+46631,Government Guard,"Public Sector, Defense & Safety",Unspecified
+46633,Director of Media,Other,VP / Head
+46637,Drive Man,Manufacturing & Skilled Trades,Unspecified
+46638,Face Man,Manufacturing & Skilled Trades,Unspecified
+46639,Slurry Man,Manufacturing & Skilled Trades,Unspecified
+46640,Supervisor Concrete Block Plant,Other,Manager
+46641,Target Man,Manufacturing & Skilled Trades,Unspecified
+46642,Cognos,Other,Unspecified
+46643,Diesel Mechanic Farm,Agriculture & Environment,Unspecified
+46644,Dial Painter,Manufacturing & Skilled Trades,Unspecified
+46645,Immigration Attorney,Legal,Unspecified
+46646,Manager Enterprise Content Management,Other,Manager
+46647,Medical Bill Processor,Healthcare & Medical,Unspecified
+46648,Packager Head,General / Cross-functional,Unspecified
+46649,Patent Attorney,Legal,Unspecified
+46651,Kennel Staff Member,General / Cross-functional,Senior
+46652,Laborer Filter Plant,Other,Unspecified
+46654,Fashion Adviser,Other,Unspecified
+46655,Actuarial Internship,Other,Junior / Entry
+46657,Hyperbaric Technologist,Healthcare & Medical,Unspecified
+46658,Orthopaedic Technologist,Healthcare & Medical,Unspecified
+46659,Radiological Technologist,Healthcare & Medical,Unspecified
+46660,Warp Hanger,Other,Unspecified
+46661,Carbon Plant Grinder,Manufacturing & Skilled Trades,Unspecified
+46662,Rate Marker,Other,Unspecified
+46663,Doll Eye Setter,Manufacturing & Skilled Trades,Unspecified
+46664,Reinforcing Bar Setter,Manufacturing & Skilled Trades,Unspecified
+46665,Vice President of Software Engineering,Software & Engineering,C-Level
+46667,Athlete Marketing Agent,Marketing & Growth,Unspecified
+46670,Inspector Watch Assembly,Other,Unspecified
+46671,Instructor Watch Assembly,Education & Training,Unspecified
+46672,Supervisor Sewing Room,Other,Manager
+46673,Supervisor Wet Room,Other,Manager
+46674,Casket Trimmer,Manufacturing & Skilled Trades,Unspecified
+46675,Crown Presser,Manufacturing & Skilled Trades,Unspecified
+46676,Finish Molder,Manufacturing & Skilled Trades,Unspecified
+46677,Saddle Cutter,Manufacturing & Skilled Trades,Unspecified
+46678,String Cutter,Manufacturing & Skilled Trades,Unspecified
+46679,Umbrella Cutter,Manufacturing & Skilled Trades,Unspecified
+46687,Manager Printing,General / Cross-functional,Manager
+46688,Color Stripper,Other,Unspecified
+46689,Hose Turner,Manufacturing & Skilled Trades,Unspecified
+46690,Tool and Die Repair,Manufacturing & Skilled Trades,Unspecified
+46691,Water Pollution Scientist,Science & Research,Unspecified
+46693,Ballpoint Pen Assembly Machine Operator,Manufacturing & Skilled Trades,Unspecified
+46696,Cattle Dipper,Manufacturing & Skilled Trades,Unspecified
+46697,Chief Transfer and Pumphouse Operator,Manufacturing & Skilled Trades,C-Level
+46699,Crop Setting Out Machine Operator,Manufacturing & Skilled Trades,Unspecified
+46700,Data Governance Consultant,Data & AI,Mid
+46705,High Density Talc Coater Operator,Manufacturing & Skilled Trades,Unspecified
+46706,Horse Doctor,Healthcare & Medical,Unspecified
+46707,Jd Edwards Consultant,General / Cross-functional,Mid
+46710,Oracle Adf Consultant,General / Cross-functional,Mid
+46711,Oracle Ebs Consultant,General / Cross-functional,Mid
+46712,Oracle Hrms Consultant,General / Cross-functional,Mid
+46714,Post Hole Digging Machine Operator,Manufacturing & Skilled Trades,Unspecified
+46715,Rounding and Backing Machine Operator,Manufacturing & Skilled Trades,Unspecified
+46717,Self Propelled Mining Machine Operator,Manufacturing & Skilled Trades,Unspecified
+46719,Single Pass Soil Stabilizer Operator,Manufacturing & Skilled Trades,Unspecified
+46724,Christian Ministries Professor,Education & Training,Unspecified
+46725,Forest Ecology Professor,Science & Research,Unspecified
+46727,Practical Ministries Professor,Education & Training,Unspecified
+46728,Wildlife Ecology Professor,Science & Research,Unspecified
+46729,Acetaldehyde Converter Operator,Manufacturing & Skilled Trades,Unspecified
+46731,Adjusto Writer Operator,Manufacturing & Skilled Trades,Unspecified
+46732,Aggregate Conveyor Operator,Manufacturing & Skilled Trades,Unspecified
+46733,Alfalfa Dehydrator Operator,Manufacturing & Skilled Trades,Unspecified
+46735,Aqua Ammonia Operator,Manufacturing & Skilled Trades,Unspecified
+46737,Badger Distiller Operator,Manufacturing & Skilled Trades,Unspecified
+46741,BI Tri Operator,Manufacturing & Skilled Trades,Unspecified
+46747,Bloom Conveyor Operator,Manufacturing & Skilled Trades,Unspecified
+46754,Buckshot Swage Operator,Manufacturing & Skilled Trades,Unspecified
+46762,Buy Boat Operator,Manufacturing & Skilled Trades,Unspecified
+46767,Carbon Dioxide Operator,Manufacturing & Skilled Trades,Unspecified
+46771,Centrex Radio Operator,Manufacturing & Skilled Trades,Unspecified
+46777,Chlorobutadiene Scrubber Operator,Manufacturing & Skilled Trades,Unspecified
+46779,Chopped Strand Operator,Manufacturing & Skilled Trades,Unspecified
+46787,Coffee Maker Servicer,Manufacturing & Skilled Trades,Unspecified
+46802,Cryolite Recovery Operator,Manufacturing & Skilled Trades,Unspecified
+46804,De Ionizer Operator,Manufacturing & Skilled Trades,Unspecified
+46813,Dimethylaniline Sulfator Operator,Manufacturing & Skilled Trades,Unspecified
+46820,DO All Operator,Manufacturing & Skilled Trades,Unspecified
+46824,Dumb Waiter Operator,Manufacturing & Skilled Trades,Unspecified
+46827,Electro Winning Operator,Manufacturing & Skilled Trades,Unspecified
+46830,Electron Microprobe Operator,Manufacturing & Skilled Trades,Unspecified
+46832,Enhanced Environmental Operator,Manufacturing & Skilled Trades,Unspecified
+46835,Excellence Leader,General / Cross-functional,Unspecified
+46847,Formation Fracturing Operator,Manufacturing & Skilled Trades,Unspecified
+46848,Fractionating Still Operator,Manufacturing & Skilled Trades,Unspecified
+46858,Greenstone Polisher Operator,Manufacturing & Skilled Trades,Unspecified
+46876,Inward Toll Operator,Manufacturing & Skilled Trades,Unspecified
+46877,Iron Launder Operator,Manufacturing & Skilled Trades,Unspecified
+46879,Jack Tamp Operator,Manufacturing & Skilled Trades,Unspecified
+46886,Kerrick Kleaner Operator,Manufacturing & Skilled Trades,Unspecified
+46889,Kieselguhr Regenerator Operator,Human Resources & Recruiting,Unspecified
+46902,Longitudinal Float Operator,Manufacturing & Skilled Trades,Unspecified
+46904,Longwall Headgate Operator,Manufacturing & Skilled Trades,Unspecified
+46907,Marsh Buggy Operator,Manufacturing & Skilled Trades,Unspecified
+46909,Micromatic Hone Operator,Manufacturing & Skilled Trades,Unspecified
+46912,Molybdenum Steamer Operator,Manufacturing & Skilled Trades,Unspecified
+46946,Rate Quoting Operator,Manufacturing & Skilled Trades,Unspecified
+46952,Refined Syrup Operator,Manufacturing & Skilled Trades,Unspecified
+46970,Save All Operator,Manufacturing & Skilled Trades,Unspecified
+46975,Sdv Pilot/Navigator/DDS Operator,Manufacturing & Skilled Trades,Unspecified
+46980,Shot Peen Operator,Manufacturing & Skilled Trades,Unspecified
+46981,Shot Peening Operator,Manufacturing & Skilled Trades,Unspecified
+46984,Single Pointed Operator,Manufacturing & Skilled Trades,Unspecified
+46985,Slab Depiler Operator,Manufacturing & Skilled Trades,Unspecified
+46988,Sodium Chlorite Operator,Manufacturing & Skilled Trades,Unspecified
+46989,Sodium Methylate Operator,Manufacturing & Skilled Trades,Unspecified
+46997,Stile Ripsaw Operator,Manufacturing & Skilled Trades,Unspecified
+46998,Strong Nitric Operator,Manufacturing & Skilled Trades,Unspecified
+47022,Walnut Dehydrator Operator,Manufacturing & Skilled Trades,Unspecified
+47027,Well Reactivator Operator,Manufacturing & Skilled Trades,Unspecified
+47028,Whey Department Operator,Manufacturing & Skilled Trades,Unspecified
+47036,Carry All Driver,Operations & Supply Chain,Unspecified
+47037,Chuck Wagon Driver,Operations & Supply Chain,Unspecified
+47038,Dust Collector,Other,Unspecified
+47041,Jukebox Route Driver,Operations & Supply Chain,Unspecified
+47043,Residential Recycle Driver,Operations & Supply Chain,Unspecified
+47044,Slot Machine Floor Person,Other,Unspecified
+47045,Straddle Bug Driver,Operations & Supply Chain,Unspecified
+47047,Admissions Clinician,Healthcare & Medical,Unspecified
+47049,Clerk Television Production,"Media, Sports & Entertainment",Unspecified
+47050,Exhibit Artist,Design & Creative,Unspecified
+47051,Floral Artist,Design & Creative,Unspecified
+47052,Heating Element Repairer,Manufacturing & Skilled Trades,Unspecified
+47053,Porcelain Enamel Repairer,Manufacturing & Skilled Trades,Unspecified
+47054,Recording Artist,Design & Creative,Unspecified
+47055,Batter Mixer Helper,Manufacturing & Skilled Trades,Junior / Entry
+47056,Caramel Cutter Helper,Manufacturing & Skilled Trades,Junior / Entry
+47057,Chrome Plater Helper,Manufacturing & Skilled Trades,Junior / Entry
+47058,Dispatcher Street Department,Operations & Supply Chain,Unspecified
+47059,Mailing Machine Helper,Manufacturing & Skilled Trades,Junior / Entry
+47060,Metal Hanging Helper,Manufacturing & Skilled Trades,Junior / Entry
+47061,Monument Setter Helper,Manufacturing & Skilled Trades,Junior / Entry
+47062,Pier Hand Helper,Manufacturing & Skilled Trades,Junior / Entry
+47063,Pole Shaver Helper,Manufacturing & Skilled Trades,Junior / Entry
+47064,Streetcar Repairer Helper,Manufacturing & Skilled Trades,Junior / Entry
+47065,Trench Digger Helper,Manufacturing & Skilled Trades,Junior / Entry
+47066,Auto Porter,"Hospitality, Food & Travel",Unspecified
+47067,Automotive Porter,"Hospitality, Food & Travel",Unspecified
+47068,Bar Porter,"Hospitality, Food & Travel",Unspecified
+47069,Car Porter,"Hospitality, Food & Travel",Unspecified
+47070,Cleaning Porter,"Hospitality, Food & Travel",Unspecified
+47071,Engagement Mgr,Other,Unspecified
+47072,Food Porter,"Hospitality, Food & Travel",Unspecified
+47073,Head Porter,"Hospitality, Food & Travel",Unspecified
+47075,Maintenance Porter,Manufacturing & Skilled Trades,Unspecified
+47076,Sales Porter,Sales & Business Development,Unspecified
+47077,Service Porter,"Hospitality, Food & Travel",Unspecified
+47078,Utility Porter,Energy & Utilities,Unspecified
+47079,Air Transportation Provider,Operations & Supply Chain,Unspecified
+47081,Butter Fat Tester,Manufacturing & Skilled Trades,Unspecified
+47082,Cans Vacuum Tester,Manufacturing & Skilled Trades,Unspecified
+47088,Olive Brine Tester,Manufacturing & Skilled Trades,Unspecified
+47092,Coffee Weigher,Manufacturing & Skilled Trades,Unspecified
+47093,Glove Former,Other,Unspecified
+47095,Stone Layout Marker,Other,Unspecified
+47097,Fiberglass Boat Finisher,Manufacturing & Skilled Trades,Unspecified
+47098,Hot Strip Finisher,Manufacturing & Skilled Trades,Unspecified
+47101,Hydroelectric Station Chief,Energy & Utilities,C-Level
+47102,Mud Grinder,Manufacturing & Skilled Trades,Unspecified
+47103,Organ Grinder,Manufacturing & Skilled Trades,Unspecified
+47105,Area Relief Pilot,Other,Unspecified
+47106,CAD Drafter,Design & Creative,Unspecified
+47108,Clinical Informatics Strategist,Healthcare & Medical,Unspecified
+47113,Adjustment Examiner,Education & Training,Unspecified
+47114,Pension Examiner,Education & Training,Unspecified
+47115,Director Corporate Compliance,Finance & Accounting,Director
+47117,Embossing Press Operator Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+47118,Hard Tile Setter Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+47122,Vice President Compliance,Finance & Accounting,C-Level
+47123,Drywall Finisher,Manufacturing & Skilled Trades,Unspecified
+47124,Handle Finisher,Manufacturing & Skilled Trades,Unspecified
+47125,Lace Finisher,Manufacturing & Skilled Trades,Unspecified
+47126,Brick Offbearer,Other,Unspecified
+47127,Chain Offbearer,Other,Unspecified
+47128,Chicken Buyer,Sales & Business Development,Unspecified
+47129,Molder Offbearer,Manufacturing & Skilled Trades,Unspecified
+47130,Press Offbearer,Manufacturing & Skilled Trades,Unspecified
+47131,Saw Offbearer,Other,Unspecified
+47132,Tip Printer,Other,Unspecified
+47133,Tip Stitcher,Manufacturing & Skilled Trades,Unspecified
+47135,Ceramic Chemist,Science & Research,Unspecified
+47137,Instrumentation Chemist,Science & Research,Unspecified
+47138,Mold Forms Builder,Manufacturing & Skilled Trades,Unspecified
+47139,Orthopedic Surgeon,Healthcare & Medical,Unspecified
+47140,Force Dispatcher,Operations & Supply Chain,Unspecified
+47141,Hoist Cylinder Loader,Manufacturing & Skilled Trades,Unspecified
+47142,Roll Over Loader,Manufacturing & Skilled Trades,Unspecified
+47143,Red Hat Linux Administrator,General / Cross-functional,Unspecified
+47144,Supervisor Metal Furniture Assembly,Other,Manager
+47146,Casing Tier,Other,Unspecified
+47147,Dental Surgery Doctor,Healthcare & Medical,Unspecified
+47148,Golf Ball Molder,Manufacturing & Skilled Trades,Unspecified
+47149,Housekeeping and Laundry Team Leader,"Hospitality, Food & Travel",Manager
+47150,Beverage Host,"Hospitality, Food & Travel",Unspecified
+47151,Interior Wirer,Other,Unspecified
+47153,Reel Blade Bender Furnace Tender,Manufacturing & Skilled Trades,Unspecified
+47154,Air Traffic Controller Center,Finance & Accounting,Unspecified
+47156,Auxiliary Equipment Tender,Manufacturing & Skilled Trades,Unspecified
+47157,Condenser Tube Tender,Manufacturing & Skilled Trades,Unspecified
+47158,Hydrogen Cell Tender,Energy & Utilities,Unspecified
+47160,Slurry Control Tender,Manufacturing & Skilled Trades,Unspecified
+47162,Starch Mangle Tender,Manufacturing & Skilled Trades,Unspecified
+47164,Water Mangle Tender,Manufacturing & Skilled Trades,Unspecified
+47168,Biometric Fingerprinting Technician,Manufacturing & Skilled Trades,Unspecified
+47170,Biosolids Management Technician,Manufacturing & Skilled Trades,Unspecified
+47172,Coal Gasification Technician,Manufacturing & Skilled Trades,Unspecified
+47174,Downstream Biomanufacturing Technician,Manufacturing & Skilled Trades,Unspecified
+47177,Filter Changing Technician,Manufacturing & Skilled Trades,Unspecified
+47178,Fuel Retrofitting Technician,Manufacturing & Skilled Trades,Unspecified
+47181,Laser/Electro Optics Technician,Manufacturing & Skilled Trades,Unspecified
+47182,Limited Radiology Technician,Healthcare & Medical,Unspecified
+47183,Missile Tracking Technician,Manufacturing & Skilled Trades,Unspecified
+47192,Chief Airport Guide,Other,C-Level
+47193,Formula Checker,Operations & Supply Chain,Unspecified
+47194,Return Checker,Operations & Supply Chain,Unspecified
+47195,Armature Coil Winder,Other,Unspecified
+47197,Diesel Engine I Pipe Fitter,Manufacturing & Skilled Trades,Unspecified
+47198,History Department Chair,Other,Unspecified
+47199,Repair Armature Winder,Other,Unspecified
+47200,Top and Seat Cover Fitter,Manufacturing & Skilled Trades,Unspecified
+47201,Kettle Operator Head,Manufacturing & Skilled Trades,Unspecified
+47202,Welder Apprentice Gas,Manufacturing & Skilled Trades,Junior / Entry
+47203,Welder Fitter Gas,Manufacturing & Skilled Trades,Unspecified
+47204,Asphalt Coater,Other,Unspecified
+47205,Detective Sergeant,Other,Unspecified
+47206,Supervisor Film Processing,"Media, Sports & Entertainment",Manager
+47207,Gauge Controller,Finance & Accounting,Unspecified
+47208,Psychiatry Physician,Healthcare & Medical,Unspecified
+47209,Pulmonary Physician,Healthcare & Medical,Unspecified
+47210,Mental Health Nurse Practitioner,Healthcare & Medical,Unspecified
+47212,Linen Supply Load Builder,Manufacturing & Skilled Trades,Unspecified
+47214,Income Tax Investigator,Finance & Accounting,Unspecified
+47215,Forest Practices Field Coordinator,Administration & Office Support,Unspecified
+47216,Grievance and Appeals Coordinator,Administration & Office Support,Unspecified
+47218,Police Academy Program Coordinator,"Public Sector, Defense & Safety",Unspecified
+47219,Skill Training Program Coordinator,Administration & Office Support,Unspecified
+47220,Supervisor Meter Shop,Other,Manager
+47221,Cartridge Loader,Manufacturing & Skilled Trades,Unspecified
+47222,Caustic Loader,Manufacturing & Skilled Trades,Unspecified
+47223,Chute Loader,Manufacturing & Skilled Trades,Unspecified
+47224,Electrician Yard,Manufacturing & Skilled Trades,Unspecified
+47225,Laborer Yard,Manufacturing & Skilled Trades,Unspecified
+47226,Perforator Loader,Manufacturing & Skilled Trades,Unspecified
+47227,Skip Loader,Manufacturing & Skilled Trades,Unspecified
+47228,Student Success Coach,Education & Training,Junior / Entry
+47229,Supervisor Yard,General / Cross-functional,Manager
+47230,Athletic Monitor,Other,Unspecified
+47231,Cattle Trader,Finance & Accounting,Unspecified
+47232,Horse Trader,Finance & Accounting,Unspecified
+47233,Portfolio Strategist,General / Cross-functional,Unspecified
+47234,Milk Powder Grinder,Manufacturing & Skilled Trades,Unspecified
+47236,Christian Science Nurse,Healthcare & Medical,Unspecified
+47237,Chronic Care Nurse,Healthcare & Medical,Unspecified
+47238,Cold Strip Roller,Other,Unspecified
+47239,Hemodialysis Charge Nurse,Healthcare & Medical,Unspecified
+47241,Candle Molder Machine,Manufacturing & Skilled Trades,Unspecified
+47242,Granite Polisher Machine,Manufacturing & Skilled Trades,Unspecified
+47243,Mainspring Barrel Assembly Cleaner,Manufacturing & Skilled Trades,Unspecified
+47244,Piano Case and Bench Assembler,Manufacturing & Skilled Trades,Unspecified
+47245,Sheltered Workshop Executive Director,Executive & General Management,VP / Head
+47246,State Historical Society Director,General / Cross-functional,Director
+47247,Campus Receptionist,Customer Success & Support,Unspecified
+47250,Corn Grower,Other,Unspecified
+47251,Java J2ee Technical Lead,Software & Engineering,Manager
+47252,Remote Operations Producer,Design & Creative,Unspecified
+47254,Alcohol Law Enforcement Agent,General / Cross-functional,Unspecified
+47255,Lace Roller,Other,Unspecified
+47257,Cop,Other,Unspecified
+47258,Ibm Bpm Architect,Design & Creative,Unspecified
+47259,Internist,Other,Junior / Entry
+47260,PMO Lead,Product,Manager
+47262,Supervisor Dry Cell Assembly,Other,Manager
+47263,Needle Molder,Manufacturing & Skilled Trades,Unspecified
+47264,Graduate Assistant Athletic Trainer,Other,Junior / Entry
+47265,Space Studies Faculty Member,Other,Unspecified
+47266,Operational Trainer,Other,Unspecified
+47267,Stove Fitter,Manufacturing & Skilled Trades,Unspecified
+47268,Template Fitter,Manufacturing & Skilled Trades,Unspecified
+47269,Bottoming Room Inspector,General / Cross-functional,Unspecified
+47270,Certified Coatings Inspector,General / Cross-functional,Unspecified
+47272,Coiled Coil Inspector,General / Cross-functional,Unspecified
+47273,Coin Box Collector,Other,Unspecified
+47274,Coin Machine Collector,Manufacturing & Skilled Trades,Unspecified
+47275,Fibrous Wallboard Inspector,General / Cross-functional,Unspecified
+47279,Preassembler and Inspector,Manufacturing & Skilled Trades,Unspecified
+47280,Resolution Rep,Other,Unspecified
+47281,Rooming House Inspector,General / Cross-functional,Unspecified
+47282,Steel Rule Inspector,General / Cross-functional,Unspecified
+47283,Ton Cylinder Inspector,General / Cross-functional,Unspecified
+47284,Travel Accommodation Inspector,"Hospitality, Food & Travel",Unspecified
+47285,Council Member,Other,Unspecified
+47286,Dial Polisher,Manufacturing & Skilled Trades,Unspecified
+47287,Hide Dyer,Manufacturing & Skilled Trades,Unspecified
+47288,Special Procedure Tech,Manufacturing & Skilled Trades,Unspecified
+47290,Image Scientist,Science & Research,Unspecified
+47291,Agricultural Economist,Agriculture & Environment,Unspecified
+47292,Brake Rider,Other,Unspecified
+47293,Building Economist,Other,Unspecified
+47295,Car Rider,Other,Unspecified
+47296,Chemical Economist,Other,Unspecified
+47297,Circuit Rider,Other,Unspecified
+47298,Construction Economist,Construction & Real Estate,Unspecified
+47300,Environmental Economist,Agriculture & Environment,Unspecified
+47302,Forensic Economist,Other,Unspecified
+47303,Forest Economist,Other,Unspecified
+47304,Gang Rider,Other,Unspecified
+47305,Health Economist,Other,Unspecified
+47306,Home Economist,Other,Unspecified
+47307,Industrial Economist,Other,Unspecified
+47308,Labor Economist,Other,Unspecified
+47310,Land Economist,Construction & Real Estate,Unspecified
+47311,Lead Rider,General / Cross-functional,Manager
+47312,Line Rider,Other,Unspecified
+47313,Log Rider,Other,Unspecified
+47314,Mail Rider,Administration & Office Support,Unspecified
+47315,Project Economist,Other,Unspecified
+47316,Property Economist,Other,Unspecified
+47317,Range Rider,Other,Unspecified
+47318,Regional Economist,Other,Unspecified
+47319,Resource Economist,Other,Unspecified
+47320,Route Rider,Other,Unspecified
+47321,Senior Economist,Other,Senior
+47322,Set Rider,Other,Unspecified
+47324,Tax Economist,Finance & Accounting,Unspecified
+47325,Test Rider,Other,Unspecified
+47326,Timber Rider,Other,Unspecified
+47327,Track Rider,Other,Unspecified
+47328,Blasting Miner,Other,Unspecified
+47329,Cream Dipper,Manufacturing & Skilled Trades,Unspecified
+47331,Edger Liner,Other,Unspecified
+47332,Package Liner,Other,Unspecified
+47333,Picture Engraver,Other,Unspecified
+47334,Psychology Clinician,Healthcare & Medical,Unspecified
+47335,Baseball Inspector and Repairer,Manufacturing & Skilled Trades,Unspecified
+47336,General Manager Land Department,Construction & Real Estate,VP / Head
+47339,Buffing Wheel Former Machine,Manufacturing & Skilled Trades,Unspecified
+47340,Circular Knife Cutter Machine,Manufacturing & Skilled Trades,Unspecified
+47341,Collision Repairer,Manufacturing & Skilled Trades,Unspecified
+47343,Evaporator Repairer,Manufacturing & Skilled Trades,Unspecified
+47344,Hosiery Repairer,Manufacturing & Skilled Trades,Unspecified
+47345,Manual Winder,Other,Unspecified
+47346,Pbx Repairer,Manufacturing & Skilled Trades,Unspecified
+47348,Tipple Repairer,Manufacturing & Skilled Trades,Unspecified
+47349,Roofing Foreman,Manufacturing & Skilled Trades,Manager
+47350,Category Planner,Operations & Supply Chain,Unspecified
+47351,Skilled Laborer,Manufacturing & Skilled Trades,Unspecified
+47354,Wind Turbine Erector,Energy & Utilities,Unspecified
+47355,Access Spec,Other,Unspecified
+47356,Application Spec,Other,Unspecified
+47357,Audit Spec,Finance & Accounting,Unspecified
+47358,Billing Spec,Finance & Accounting,Unspecified
+47359,Coding Spec,Other,Unspecified
+47360,Communication Spec,Other,Unspecified
+47361,Compliance Spec,Finance & Accounting,Unspecified
+47362,Development Spec,Other,Unspecified
+47363,Distribution Spec,Operations & Supply Chain,Unspecified
+47364,Education Spec,Education & Training,Unspecified
+47365,Field Spec,Other,Unspecified
+47366,Improvement Spec,Other,Unspecified
+47367,Informatics Spec,Other,Unspecified
+47368,Interior Decorator,Other,Unspecified
+47369,Office Spec,Other,Unspecified
+47370,Processing Spec,Other,Unspecified
+47371,Research Spec,Science & Research,Unspecified
+47372,Safety Spec,Other,Unspecified
+47373,Solution Spec,Other,Unspecified
+47374,Systems Spec,Other,Unspecified
+47375,Technical Spec,Other,Unspecified
+47376,Shear Operator Automatic,Manufacturing & Skilled Trades,Unspecified
+47377,Supervising Librarian,Education & Training,Unspecified
+47378,Supervising Producer,Design & Creative,Unspecified
+47379,Water Regulator and Valve Repairer,Manufacturing & Skilled Trades,Unspecified
+47380,Director of Estate,Other,VP / Head
+47381,Architectural Coating Finisher,Design & Creative,Unspecified
+47382,Automatic Blocker,Other,Unspecified
+47383,Car Blocker,Other,Unspecified
+47384,Environmental Studies Department Chair,Agriculture & Environment,Unspecified
+47385,General Studies Program Chair,Other,Unspecified
+47386,Hand Blocker,Manufacturing & Skilled Trades,Unspecified
+47387,Hat Blocker,Other,Unspecified
+47388,Hydraulic Blocker,Other,Unspecified
+47389,Lens Blocker,Other,Unspecified
+47390,Social Studies Department Chair,Other,Unspecified
+47391,Steam Blocker,Other,Unspecified
+47392,Wheel Blocker,Other,Unspecified
+47393,Canvas Marker,Other,Unspecified
+47394,Relationship Mgr,Other,Unspecified
+47395,Roving Marker,Other,Unspecified
+47396,Last Turner,Manufacturing & Skilled Trades,Unspecified
+47397,Pick and Shovel Man,Manufacturing & Skilled Trades,Unspecified
+47398,Secondary Set Up Man,Manufacturing & Skilled Trades,Unspecified
+47399,Armed Custom Protection Officer,General / Cross-functional,Unspecified
+47400,Aviation Tactical Readiness Officer,General / Cross-functional,Unspecified
+47401,Belt Glass Sander,Manufacturing & Skilled Trades,Unspecified
+47403,Civil Preparedness Training Officer,General / Cross-functional,Unspecified
+47404,Commissioned Defence Force Officer,General / Cross-functional,Unspecified
+47405,Glass Belt Sander,Manufacturing & Skilled Trades,Unspecified
+47406,Motorized Squad Commanding Officer,General / Cross-functional,Unspecified
+47407,Surveillance Dual Rate Officer,General / Cross-functional,Unspecified
+47409,Cavalry Officer,General / Cross-functional,Unspecified
+47410,Deportation Officer,General / Cross-functional,Unspecified
+47411,Disbursing Officer,General / Cross-functional,Unspecified
+47414,Landcare Officer,General / Cross-functional,Unspecified
+47416,Peace Officer,General / Cross-functional,Unspecified
+47417,Protocol Officer,General / Cross-functional,Unspecified
+47418,Quarantine Officer,General / Cross-functional,Unspecified
+47419,Cosmetic Sales,Sales & Business Development,Unspecified
+47420,Insulation Cutter and Former,Other,Unspecified
+47421,Slot Machine Key Person,Other,Unspecified
+47422,Cake Former,Other,Unspecified
+47423,Echo Tech,Manufacturing & Skilled Trades,Unspecified
+47424,Optometric Tech,Manufacturing & Skilled Trades,Unspecified
+47425,Ortho Tech,Manufacturing & Skilled Trades,Unspecified
+47426,Photogrammetric Tech,Manufacturing & Skilled Trades,Unspecified
+47427,Scanning Tech,Manufacturing & Skilled Trades,Unspecified
+47429,Freezer Person,Other,Unspecified
+47430,Javascript Programmer,Software & Engineering,Unspecified
+47431,Python Programmer,Software & Engineering,Unspecified
+47432,R Programmer,Software & Engineering,Unspecified
+47435,Evening OR Night Nurse Supervisor,Healthcare & Medical,Manager
+47437,Rubber Stamps and Dies Supervisor,General / Cross-functional,Manager
+47438,Midwife Practitioner,Healthcare & Medical,Unspecified
+47440,Airline Managerial Supervisor,General / Cross-functional,Manager
+47443,Dewatering Filtering Supervisor,General / Cross-functional,Manager
+47446,Forest Botany Instructor,Education & Training,Unspecified
+47447,Hull Outfit Supervisor,General / Cross-functional,Manager
+47449,Meter Readers Supervisor,Energy & Utilities,Manager
+47451,Particle Board Supervisor,General / Cross-functional,Manager
+47452,Plant Operator/Shift Supervisor,Manufacturing & Skilled Trades,Manager
+47456,Snow Removing Supervisor,General / Cross-functional,Manager
+47457,Soaking Pits Supervisor,General / Cross-functional,Manager
+47458,Supercharge Repair Supervisor,General / Cross-functional,Manager
+47462,Bone Grinder,Manufacturing & Skilled Trades,Unspecified
+47464,Drop Count Associate,General / Cross-functional,Junior / Entry
+47465,Insurance Follow Up Representative,General / Cross-functional,Unspecified
+47467,Prepared Foods Associate,General / Cross-functional,Junior / Entry
+47469,Workday Senior Associate,General / Cross-functional,Senior
+47470,Apprenticeship Representative,General / Cross-functional,Junior / Entry
+47471,Artist's Representative,Design & Creative,Unspecified
+47474,Manufacturer's Representative,General / Cross-functional,Unspecified
+47475,Manufacturers Representative,General / Cross-functional,Unspecified
+47476,Marker Delivery,Other,Unspecified
+47477,Renewals Representative,Customer Success & Support,Unspecified
+47480,Almond Sorter,Manufacturing & Skilled Trades,Unspecified
+47481,Combination Presser,Manufacturing & Skilled Trades,Unspecified
+47482,Manager Trade Marketing,Marketing & Growth,Manager
+47483,Portfolio Management Marketing,Marketing & Growth,Unspecified
+47484,Sack Sorter,Manufacturing & Skilled Trades,Unspecified
+47485,Towel Sorter,Manufacturing & Skilled Trades,Unspecified
+47486,Butter Grader,Other,Unspecified
+47487,Director of Technology,Other,VP / Head
+47488,Aids Counselor,Healthcare & Medical,Unspecified
+47489,Christian Counselor,Healthcare & Medical,Unspecified
+47490,Psychotherapist Counselor,Healthcare & Medical,Unspecified
+47492,Manager Lab,General / Cross-functional,Manager
+47493,RN Lab,Other,Unspecified
+47494,Extrusion Die Template Maker,Manufacturing & Skilled Trades,Unspecified
+47495,Leather Cartridge Belt Maker,Manufacturing & Skilled Trades,Unspecified
+47496,Middle School Baseball Coach,Education & Training,Unspecified
+47499,Abstract Maker,Manufacturing & Skilled Trades,Unspecified
+47502,Cereal Maker,Manufacturing & Skilled Trades,Unspecified
+47503,Cheese Sprayer,Manufacturing & Skilled Trades,Unspecified
+47504,Chip Bin Conveyor Tender,Manufacturing & Skilled Trades,Unspecified
+47506,Dramatic Coach,Education & Training,Unspecified
+47507,Drywall Sprayer,Manufacturing & Skilled Trades,Unspecified
+47508,Filter Press Pumper,Manufacturing & Skilled Trades,Unspecified
+47510,Flag Maker,Manufacturing & Skilled Trades,Unspecified
+47511,Flask Maker,Manufacturing & Skilled Trades,Unspecified
+47512,Flavor Maker,Manufacturing & Skilled Trades,Unspecified
+47513,Gas Well Pumper,Energy & Utilities,Unspecified
+47514,Ink Maker,Manufacturing & Skilled Trades,Unspecified
+47515,Mortar Maker,Manufacturing & Skilled Trades,Unspecified
+47516,Necktie Maker,Manufacturing & Skilled Trades,Unspecified
+47517,Oil Field Pumper,Energy & Utilities,Unspecified
+47518,Oil Well Pumper,Energy & Utilities,Unspecified
+47519,Rand Maker,Manufacturing & Skilled Trades,Unspecified
+47520,Skate Maker,Manufacturing & Skilled Trades,Unspecified
+47521,Swatch Maker,Manufacturing & Skilled Trades,Unspecified
+47522,Volleyball Coach,Education & Training,Unspecified
+47523,Waste Oil Pumper,Agriculture & Environment,Unspecified
+47524,Well Head Pumper,General / Cross-functional,Unspecified
+47525,Stone Belt Sander,Manufacturing & Skilled Trades,Unspecified
+47527,Brass Finisher,Manufacturing & Skilled Trades,Unspecified
+47528,Crystal Finisher,Manufacturing & Skilled Trades,Unspecified
+47529,Drama Therapist,Healthcare & Medical,Unspecified
+47530,Editorial Writer,Design & Creative,Unspecified
+47531,Foundry Finisher,Manufacturing & Skilled Trades,Unspecified
+47533,Tag Writer,Other,Unspecified
+47534,Tip Finisher,Manufacturing & Skilled Trades,Unspecified
+47535,Finished Cloth Checker,Operations & Supply Chain,Unspecified
+47536,Package Wrapper,Manufacturing & Skilled Trades,Unspecified
+47537,Soil Surveyor,Engineering (Non-Software),Unspecified
+47538,Advertising Inserter,Marketing & Growth,Unspecified
+47539,Core Inserter,Other,Unspecified
+47540,Design Inserter,Other,Unspecified
+47541,Glass Inserter,Other,Unspecified
+47542,Lens Inserter,Other,Unspecified
+47543,Liner Inserter,Other,Unspecified
+47544,Lining Inserter,Other,Unspecified
+47545,Mail Inserter,Administration & Office Support,Unspecified
+47546,Paper Inserter,Other,Unspecified
+47547,Wire Inserter,Other,Unspecified
+47548,Heat Treater Head,General / Cross-functional,Unspecified
+47549,Inspector Precision Assembly,Other,Unspecified
+47550,Adult Caregiver,Healthcare & Medical,Unspecified
+47551,Animal Caregiver,Healthcare & Medical,Unspecified
+47552,Binding Printer,Other,Unspecified
+47554,Certified Caregiver,Healthcare & Medical,Unspecified
+47556,Dock Guard,"Public Sector, Defense & Safety",Unspecified
+47557,Experimental Psychologist,Healthcare & Medical,Unspecified
+47558,Lead Caregiver,Healthcare & Medical,Manager
+47559,Lease Buyer,Sales & Business Development,Unspecified
+47560,Personal Caregiver,Healthcare & Medical,Unspecified
+47561,Pocket Stitcher,Manufacturing & Skilled Trades,Unspecified
+47562,Resident Caregiver,Healthcare & Medical,Unspecified
+47563,Residential Caregiver,Healthcare & Medical,Unspecified
+47564,Senior Caregiver,Healthcare & Medical,Senior
+47566,Special Procedures Technologist,Healthcare & Medical,Unspecified
+47567,Clam Bed Laborer,Manufacturing & Skilled Trades,Unspecified
+47568,Shellfish Processing Laborer,Manufacturing & Skilled Trades,Unspecified
+47569,Smoking Tobacco Packing Machine Hand,Manufacturing & Skilled Trades,Unspecified
+47571,Supervisor Adult Education,Education & Training,Manager
+47572,Syrup Machine Laborer,Manufacturing & Skilled Trades,Unspecified
+47574,Vat House Laborer,Manufacturing & Skilled Trades,Unspecified
+47575,Satellite TV Technician Installer,Manufacturing & Skilled Trades,Unspecified
+47576,Cafeteria Monitor,Other,Unspecified
+47577,Resolution Expert,Other,Unspecified
+47578,Seafood Farmer,Other,Unspecified
+47579,Superintendent Board Mill,Manufacturing & Skilled Trades,Director
+47580,Culinary Internship,Other,Junior / Entry
+47581,Gum Puller,Other,Unspecified
+47582,Gutter Installer,Manufacturing & Skilled Trades,Unspecified
+47583,Shield Installer,Manufacturing & Skilled Trades,Unspecified
+47584,Slab Puller,Other,Unspecified
+47585,Tack Puller,Other,Unspecified
+47586,Telesales Professional,Sales & Business Development,Unspecified
+47587,Windshield Installer,Manufacturing & Skilled Trades,Unspecified
+47588,Director Child Development Center,Other,Director
+47590,Flat Folder,Manufacturing & Skilled Trades,Unspecified
+47591,Long Filler Cigar Roller Machine,Manufacturing & Skilled Trades,Unspecified
+47592,Raw Stock Machine Loader,Manufacturing & Skilled Trades,Unspecified
+47593,Paramedic RN,Healthcare & Medical,Unspecified
+47594,Corner Block Cutter,Manufacturing & Skilled Trades,Unspecified
+47595,Cross Tie Cutter,Manufacturing & Skilled Trades,Unspecified
+47596,Double Corner Cutter,Manufacturing & Skilled Trades,Unspecified
+47597,Eyeglass Lens Cutter,Manufacturing & Skilled Trades,Unspecified
+47598,Hand Thermal Cutter,Manufacturing & Skilled Trades,Unspecified
+47599,Shingle Bolt Cutter,Manufacturing & Skilled Trades,Unspecified
+47600,Single Corner Cutter,Manufacturing & Skilled Trades,Unspecified
+47602,Oyster Grower,Other,Unspecified
+47603,Plumbing Contractor,"Media, Sports & Entertainment",Unspecified
+47604,Pot Liner,Other,Unspecified
+47605,Psychiatric Clinician,Healthcare & Medical,Unspecified
+47606,Vessel Liner,Other,Unspecified
+47607,Section Maintainer,Other,Unspecified
+47608,Sprayer Auto Parts,Other,Unspecified
+47609,Supervisor Poultry Processing,Other,Manager
+47610,Flame Cutting Machine Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+47611,Wet Sander,Manufacturing & Skilled Trades,Unspecified
+47612,Export Packer,Operations & Supply Chain,Unspecified
+47613,Selector Packer,Operations & Supply Chain,Unspecified
+47614,Clothes Drier Assembler,Manufacturing & Skilled Trades,Unspecified
+47615,Director Internal Communications,Marketing & Growth,Director
+47616,Fixed Wing Aircraft Flight Mechanic,Manufacturing & Skilled Trades,Unspecified
+47617,Gold Miner,Other,Unspecified
+47618,Main Line Assembler,Manufacturing & Skilled Trades,Unspecified
+47619,Molded Frames Assembler,Manufacturing & Skilled Trades,Unspecified
+47620,Lease Purchase Truck Driver,Operations & Supply Chain,Unspecified
+47622,Trash Collector Truck Driver,Operations & Supply Chain,Unspecified
+47625,Bellman Driver,Operations & Supply Chain,Unspecified
+47626,Bookmobile Driver,Operations & Supply Chain,Unspecified
+47627,Goat Driver,Operations & Supply Chain,Unspecified
+47628,Hardwood Floor Installation Helper,Manufacturing & Skilled Trades,Junior / Entry
+47630,Limb Driver,Operations & Supply Chain,Unspecified
+47631,Nascar Driver,Operations & Supply Chain,Unspecified
+47632,Reduction Furnace Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+47633,Spiral Tube Winder Helper,Manufacturing & Skilled Trades,Junior / Entry
+47634,Spiral Winding Machine Helper,Manufacturing & Skilled Trades,Junior / Entry
+47636,Stake Driver,Operations & Supply Chain,Unspecified
+47637,Ups Driver,Operations & Supply Chain,Unspecified
+47638,Blaster Helper,Manufacturing & Skilled Trades,Junior / Entry
+47639,Brickmason Helper,Manufacturing & Skilled Trades,Junior / Entry
+47640,Doubler Helper,Manufacturing & Skilled Trades,Junior / Entry
+47641,Hostler Helper,Manufacturing & Skilled Trades,Junior / Entry
+47642,Pasteurizer Helper,Manufacturing & Skilled Trades,Junior / Entry
+47643,Stable Helper,Manufacturing & Skilled Trades,Junior / Entry
+47645,Cabin Furnishings Installer,Manufacturing & Skilled Trades,Unspecified
+47646,Diesel Retrofit Installer,Manufacturing & Skilled Trades,Unspecified
+47648,Shower Screen Installer,Manufacturing & Skilled Trades,Unspecified
+47649,Solar Pv Installer,Energy & Utilities,Unspecified
+47650,Telegraph Repeater Installer,Manufacturing & Skilled Trades,Unspecified
+47652,Park Interpreter,Other,Unspecified
+47653,Senior Financial,Finance & Accounting,Senior
+47654,Merchandise Flow Team Member,Other,Unspecified
+47656,Monitoring and Evaluation Advisor,Finance & Accounting,Unspecified
+47657,Political Science Faculty Member,Other,Unspecified
+47658,Preschool Adviser,Education & Training,Unspecified
+47659,Jig and Fixture Builder Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+47661,Helper Marble Finisher,Manufacturing & Skilled Trades,Junior / Entry
+47662,Brass Roller,Other,Unspecified
+47663,Dispensing Optician Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+47664,Granite Sandblaster Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+47665,Lithographic Retoucher Apprentice,Design & Creative,Junior / Entry
+47666,Mat Roller,Other,Unspecified
+47667,Cyber Incident Handler,Manufacturing & Skilled Trades,Unspecified
+47668,Men's Garment Fitter,Manufacturing & Skilled Trades,Unspecified
+47669,Security Incident Handler,Manufacturing & Skilled Trades,Unspecified
+47670,Jig and Fixture Builder,Manufacturing & Skilled Trades,Unspecified
+47671,Fabric Awning Repairer,Manufacturing & Skilled Trades,Unspecified
+47672,Finished Metal Repairer,Manufacturing & Skilled Trades,Unspecified
+47673,Machine Operator Farmworker,Manufacturing & Skilled Trades,Unspecified
+47675,Tobacco Stripper,Other,Unspecified
+47677,Curb Builder,Manufacturing & Skilled Trades,Unspecified
+47680,Truss Builder,Manufacturing & Skilled Trades,Unspecified
+47681,Warp Tier,Other,Unspecified
+47682,Coffee Blender,Manufacturing & Skilled Trades,Unspecified
+47683,Portfolio Mgr,Other,Unspecified
+47685,Hat Finishing Materials Preparer,Operations & Supply Chain,Unspecified
+47686,Manager Music,General / Cross-functional,Manager
+47688,Comfort Station Attendant,Other,Unspecified
+47689,Crew Mess Attendant,Other,Unspecified
+47691,Hat Binder,Manufacturing & Skilled Trades,Unspecified
+47692,Ice Rink Attendant,Other,Unspecified
+47694,Label Drier,Other,Unspecified
+47696,Nurse Staff Industrial,Healthcare & Medical,Senior
+47697,Assurance Services Manager Health Care,Other,Manager
+47698,Household Cook,"Hospitality, Food & Travel",Unspecified
+47699,Night Custodian,Other,Unspecified
+47700,Belt Knife Feeder,Manufacturing & Skilled Trades,Unspecified
+47701,Boring Machine Feeder,Manufacturing & Skilled Trades,Unspecified
+47702,Cd Mixer,Manufacturing & Skilled Trades,Unspecified
+47703,Glaze Mixer,Manufacturing & Skilled Trades,Unspecified
+47705,Prison Classification Counselor,Healthcare & Medical,Unspecified
+47706,Tire Builder Heavy Service,Other,Unspecified
+47707,Director of Financial Planning,Finance & Accounting,VP / Head
+47708,Director Traffic and Planning,Other,Director
+47709,Manager of Financial Planning,Finance & Accounting,Manager
+47710,Produce Weigher,Manufacturing & Skilled Trades,Unspecified
+47711,Program Manager Environmental Planning,Product,Manager
+47712,Basket Turner,Manufacturing & Skilled Trades,Unspecified
+47713,Casino Porter,"Hospitality, Food & Travel",Unspecified
+47714,Day Porter,"Hospitality, Food & Travel",Unspecified
+47715,Supervisor Elementary Education,Education & Training,Manager
+47716,Supervisor Game Farm,Agriculture & Environment,Manager
+47717,Chief Deputy,General / Cross-functional,C-Level
+47718,College Dean,Education & Training,Director
+47719,Court Deputy,Legal,Unspecified
+47720,Director of Child Welfare Services,Other,VP / Head
+47721,Aerospace Medicine Physician,Healthcare & Medical,Unspecified
+47722,Final Coat Sprayer,Manufacturing & Skilled Trades,Unspecified
+47723,Compositor Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+47724,Jeweler Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+47725,Metalsmith Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+47726,Stonemason Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+47727,Interventional Radiology RN,Healthcare & Medical,Unspecified
+47728,Director Retail Brand Development,Design & Creative,Director
+47729,Head of Partner Development,Executive & General Management,VP / Head
+47733,Bowling OR Skating Front Desk Clerk,Customer Success & Support,Unspecified
+47734,Certified Coder,Other,Unspecified
+47736,Commercial Drone Software Developer,Software & Engineering,Mid
+47737,Corrective Therapy Aide Teacher,Healthcare & Medical,Junior / Entry
+47738,Diamond Sizer and Grader,Other,Unspecified
+47739,Drum Sander,Manufacturing & Skilled Trades,Unspecified
+47740,Hospital Coder,Healthcare & Medical,Unspecified
+47741,Information Coder,Other,Unspecified
+47742,Inhalation Therapy Aides Teacher,Healthcare & Medical,Unspecified
+47743,Insurance Coder,Other,Unspecified
+47744,Pest Control Pilot,Other,Unspecified
+47745,Physician Coder,Healthcare & Medical,Unspecified
+47746,Pool Player,Other,Unspecified
+47747,School Age Lead Teacher,Education & Training,Manager
+47748,School Age Program Teacher,Education & Training,Unspecified
+47749,SQL Ssrs Ssis Developer,Software & Engineering,Mid
+47750,Surgical Coder,Healthcare & Medical,Unspecified
+47753,Kitchen Food Server,"Hospitality, Food & Travel",Unspecified
+47754,Magazine Filler,Manufacturing & Skilled Trades,Unspecified
+47755,Mattress Filler,Manufacturing & Skilled Trades,Unspecified
+47756,Appian Developer,Software & Engineering,Mid
+47757,Bobj Developer,Software & Engineering,Mid
+47758,Bods Developer,Software & Engineering,Mid
+47759,Clarity Developer,Software & Engineering,Mid
+47760,Cq Developer,Software & Engineering,Mid
+47761,Dashboard Developer,Software & Engineering,Mid
+47762,Datapower Developer,Software & Engineering,Mid
+47763,Delphi Developer,Software & Engineering,Mid
+47764,Django Developer,Software & Engineering,Mid
+47765,Framework Developer,Software & Engineering,Mid
+47766,Hl7 Developer,Software & Engineering,Mid
+47767,Jboss Developer,Software & Engineering,Mid
+47768,Jira Developer,Software & Engineering,Mid
+47769,Machinery Rigger,Manufacturing & Skilled Trades,Unspecified
+47770,Netezza Developer,Software & Engineering,Mid
+47771,Netsuite Developer,Software & Engineering,Mid
+47772,Openstack Developer,Software & Engineering,Mid
+47773,Remedy Developer,Software & Engineering,Mid
+47774,Sybase Developer,Software & Engineering,Mid
+47775,Talend Developer,Software & Engineering,Mid
+47776,Visualization Developer,Software & Engineering,Mid
+47777,Weblogic Developer,Software & Engineering,Mid
+47778,Workflow Developer,Software & Engineering,Mid
+47780,Specialty Molder,Manufacturing & Skilled Trades,Unspecified
+47781,Terrazzo Grinder,Manufacturing & Skilled Trades,Unspecified
+47782,Verification Rep,Other,Unspecified
+47783,Dip Tube Assembler Machine,Manufacturing & Skilled Trades,Unspecified
+47784,Sweeper Brush Maker Machine,Manufacturing & Skilled Trades,Unspecified
+47785,Agricultural Researcher,Science & Research,Unspecified
+47789,Internet Researcher,Science & Research,Junior / Entry
+47790,Law Researcher,Science & Research,Unspecified
+47791,Legal Researcher,Science & Research,Unspecified
+47794,Medical Researcher,Healthcare & Medical,Unspecified
+47795,Music Researcher,Science & Research,Unspecified
+47796,Nurse Researcher,Healthcare & Medical,Unspecified
+47797,Security Researcher,Science & Research,Unspecified
+47798,Survey Researcher,Science & Research,Unspecified
+47799,Laborer Drying Department,Other,Unspecified
+47800,Primary School Teacher Librarian,Education & Training,Unspecified
+47801,Booster Assembler,Manufacturing & Skilled Trades,Unspecified
+47802,Campus Recruiting Internship,Human Resources & Recruiting,Junior / Entry
+47803,Commutator Assembler,Manufacturing & Skilled Trades,Unspecified
+47807,Field Map Editor,Design & Creative,Unspecified
+47808,Make Up Editor,Design & Creative,Unspecified
+47810,Propellant Assembler,Manufacturing & Skilled Trades,Unspecified
+47811,Silverware Assembler,Manufacturing & Skilled Trades,Unspecified
+47812,Agile Test Lead,General / Cross-functional,Manager
+47813,Big Data Lead,General / Cross-functional,Manager
+47814,Circulation Librarian,Education & Training,Unspecified
+47815,Organic Search Lead,General / Cross-functional,Manager
+47816,Tool Crib Lead,General / Cross-functional,Manager
+47817,Tool OR Die Drawing Checker,Operations & Supply Chain,Unspecified
+47818,Underground Foreman,Manufacturing & Skilled Trades,Manager
+47819,Boot Trimmer,Manufacturing & Skilled Trades,Unspecified
+47820,Profile Trimmer,Manufacturing & Skilled Trades,Unspecified
+47821,Quarter Trimmer,Manufacturing & Skilled Trades,Unspecified
+47822,Tail Trimmer,Manufacturing & Skilled Trades,Unspecified
+47823,Target Trimmer,Manufacturing & Skilled Trades,Unspecified
+47824,Tongue Trimmer,Manufacturing & Skilled Trades,Unspecified
+47825,Under Trimmer,Manufacturing & Skilled Trades,Unspecified
+47826,River Captain,Other,Unspecified
+47827,Lay Out Drafter,Design & Creative,Unspecified
+47828,Utility Worker Roller Shop,Energy & Utilities,Unspecified
+47829,Director Global Intelligence,Other,Director
+47830,Dress Cutter,Manufacturing & Skilled Trades,Unspecified
+47831,Filament Cutter,Manufacturing & Skilled Trades,Unspecified
+47832,Link Trainer Maintenance Man,Manufacturing & Skilled Trades,Unspecified
+47833,Shake Cutter,Manufacturing & Skilled Trades,Unspecified
+47834,Stencil Cutter,Manufacturing & Skilled Trades,Unspecified
+47835,Under Cutter,Manufacturing & Skilled Trades,Unspecified
+47836,Vinyl Cutter,Manufacturing & Skilled Trades,Unspecified
+47837,Weed Cutter,Manufacturing & Skilled Trades,Unspecified
+47838,Bait Man,Manufacturing & Skilled Trades,Unspecified
+47839,Coin Dealer,Other,Unspecified
+47840,Mesh Man,Manufacturing & Skilled Trades,Unspecified
+47841,Park Maintainer,Other,Unspecified
+47842,Relief Driller,Manufacturing & Skilled Trades,Unspecified
+47843,Roof Fixer,Other,Unspecified
+47845,Merchandise Complaint Adjuster,Other,Unspecified
+47846,Wood Heel Back Liner,Other,Unspecified
+47847,Area Director of Home Health Sales,Healthcare & Medical,VP / Head
+47848,Grades 1 Through 6 Teacher,Education & Training,Unspecified
+47849,Grades 6 Through 8 Teacher,Education & Training,Unspecified
+47850,Warp Changer,Other,Unspecified
+47851,Air Brake Rigger,Manufacturing & Skilled Trades,Unspecified
+47852,Care Team Coordinator Scheduler,Operations & Supply Chain,Unspecified
+47853,Director Automotive,General / Cross-functional,Director
+47854,Manager Automotive,General / Cross-functional,Manager
+47855,Superintendent Automotive,Construction & Real Estate,Director
+47856,Blood Donor Recruiter,Human Resources & Recruiting,Unspecified
+47858,Sewing Machines Salesperson,Sales & Business Development,Unspecified
+47859,Chemical Cell Changer,Other,Unspecified
+47861,Liner Roll Changer,Other,Unspecified
+47862,Supervisor Poultry Farm,Agriculture & Environment,Manager
+47863,Beater Boss,Other,Unspecified
+47864,Director Physical Therapy,Healthcare & Medical,Director
+47865,Mud Boss,Other,Unspecified
+47866,Side Boss,Other,Unspecified
+47868,Teacher Home Therapy,Healthcare & Medical,Unspecified
+47869,Dry Sand Molder,Manufacturing & Skilled Trades,Unspecified
+47871,Director of Construction,Construction & Real Estate,VP / Head
+47873,Superintendent Car Construction,Construction & Real Estate,Director
+47874,Blue Leather Setter,Manufacturing & Skilled Trades,Unspecified
+47876,Crime Scene Examiner,Education & Training,Unspecified
+47877,Garment Alteration Examiner,Education & Training,Unspecified
+47878,Grey Goods Examiner,Education & Training,Unspecified
+47879,Rim Roller Setter,Manufacturing & Skilled Trades,Unspecified
+47881,Portable Sawyer,Other,Unspecified
+47882,Bread Slicer Machine,Manufacturing & Skilled Trades,Unspecified
+47883,Cell Tuber Machine,Manufacturing & Skilled Trades,Unspecified
+47884,Commercial OR Institutional Cleaner,Manufacturing & Skilled Trades,Unspecified
+47885,Home Restoration Service Cleaner,Manufacturing & Skilled Trades,Unspecified
+47886,Rough Rounder Machine,Manufacturing & Skilled Trades,Unspecified
+47887,Straight Cutter Machine,Manufacturing & Skilled Trades,Unspecified
+47888,Bladder Cleaner,Manufacturing & Skilled Trades,Unspecified
+47889,Ceiling Cleaner,Manufacturing & Skilled Trades,Unspecified
+47890,Flask Cleaner,Manufacturing & Skilled Trades,Unspecified
+47891,Flue Cleaner,Manufacturing & Skilled Trades,Unspecified
+47892,Gut Cleaner,Manufacturing & Skilled Trades,Unspecified
+47893,Strainer Cleaner,Manufacturing & Skilled Trades,Unspecified
+47896,Host/Hostess Head,"Hospitality, Food & Travel",Unspecified
+47898,Shirt Presser,Manufacturing & Skilled Trades,Unspecified
+47899,Buggy Loader,Manufacturing & Skilled Trades,Unspecified
+47900,Client Onboarding Analyst,General / Cross-functional,Mid
+47902,Epic Beacon Analyst,General / Cross-functional,Mid
+47903,Epic Cupid Analyst,General / Cross-functional,Mid
+47904,Fertilizer Loader,Manufacturing & Skilled Trades,Unspecified
+47905,Malt Loader,Manufacturing & Skilled Trades,Unspecified
+47908,Assistant Women's Tennis Coach,Education & Training,Junior / Entry
+47909,Cigarette Packer,Operations & Supply Chain,Unspecified
+47910,Contracting Executive,Other,Unspecified
+47911,Egg Packer,Operations & Supply Chain,Unspecified
+47912,Assistant Director of Nursing,Healthcare & Medical,VP / Head
+47914,Associate Director of Nursing,Healthcare & Medical,VP / Head
+47915,Director Community Health Nursing,Healthcare & Medical,Director
+47916,Director School of Nursing,Healthcare & Medical,Director
+47917,Executive Director of Nursing,Healthcare & Medical,VP / Head
+47918,Supervisor Public Health Nursing,Healthcare & Medical,Manager
+47919,Vice President of Nursing,Healthcare & Medical,C-Level
+47920,Biology Department Chair,Other,Unspecified
+47921,Motorcycle Fabricator,Manufacturing & Skilled Trades,Unspecified
+47922,Psychology Department Chair,Other,Unspecified
+47923,Wafer Fabricator,Manufacturing & Skilled Trades,Unspecified
+47925,Aoc Director Combat Plans Officer,General / Cross-functional,Director
+47926,District Manager Primary Care Sales,Sales & Business Development,Manager
+47927,Doctor of Medicine,Healthcare & Medical,Unspecified
+47928,Dowel Pin Man,Manufacturing & Skilled Trades,Unspecified
+47929,Mainspring Winder,Other,Unspecified
+47930,Quill Winder,Other,Unspecified
+47931,Rigging Up Man,Manufacturing & Skilled Trades,Unspecified
+47934,Antisubmarine Weapons Officer,General / Cross-functional,Unspecified
+47935,Armoured Corps Officer,General / Cross-functional,Unspecified
+47936,Associate Biological Sales,Sales & Business Development,Junior / Entry
+47937,Derrick Boat Runner,"Hospitality, Food & Travel",Unspecified
+47940,Hazard Mitigation Officer,General / Cross-functional,Unspecified
+47941,Staff Antisubmarine Officer,General / Cross-functional,Senior
+47942,Workplace Rehabilitation Officer,General / Cross-functional,Unspecified
+47947,Engineering Patternmaker,Other,Mid
+47949,Sample Patternmaker,Other,Unspecified
+47950,Shoe Patternmaker,Other,Unspecified
+47951,Surface Plate Finisher,Manufacturing & Skilled Trades,Unspecified
+47952,Wood Patternmaker,Other,Unspecified
+47954,Bridge Toll Collector,Other,Unspecified
+47955,Elementary Reading Tutor,Education & Training,Unspecified
+47957,Vending Machine Collector,Manufacturing & Skilled Trades,Unspecified
+47958,Criminal Judge,Legal,Unspecified
+47959,Foreign Food Specialty Cook,"Hospitality, Food & Travel",Unspecified
+47960,Band Straightener,Other,Unspecified
+47961,Barrel Straightener,Other,Unspecified
+47962,Body Straightener,Other,Unspecified
+47963,Building Admin,Other,Unspecified
+47964,Contract Admin,Other,Unspecified
+47965,Database Admin,Other,Unspecified
+47966,Deputy Sheriff Court Services,Legal,Unspecified
+47967,Drum Straightener,Other,Unspecified
+47968,Executive Admin,Other,Unspecified
+47969,Finance Admin,Finance & Accounting,Unspecified
+47970,Fish Straightener,Other,Unspecified
+47971,Frame Straightener,Other,Unspecified
+47972,Gear Straightener,Other,Unspecified
+47973,Hand Straightener,Manufacturing & Skilled Trades,Unspecified
+47974,House Admin,Other,Unspecified
+47975,IT Admin,Other,Unspecified
+47976,Linux Admin,Other,Unspecified
+47977,Lumber Straightener,Other,Unspecified
+47978,Marketing Admin,Marketing & Growth,Unspecified
+47979,Network Admin,Other,Unspecified
+47980,Nursing Admin,Healthcare & Medical,Unspecified
+47981,Office Admin,Other,Unspecified
+47982,Outpatient Receptionist,Healthcare & Medical,Unspecified
+47983,Pipe Straightener,Other,Unspecified
+47984,Plate Straightener,Other,Unspecified
+47985,Program Admin,Other,Unspecified
+47986,Project Admin,Other,Unspecified
+47987,Rod Straightener,Other,Unspecified
+47988,Saw Straightener,Other,Unspecified
+47989,System Admin,Other,Unspecified
+47990,Systems Admin,Other,Unspecified
+47991,Tool Straightener,Other,Unspecified
+47992,Windows Admin,Other,Unspecified
+47993,Wire Straightener,Other,Unspecified
+47994,Flatwork Washer,Manufacturing & Skilled Trades,Unspecified
+47995,Neck Fitter,Manufacturing & Skilled Trades,Unspecified
+47997,Power Equipment Mechanics Instructor,Education & Training,Unspecified
+47999,Cash Teller,Other,Unspecified
+48000,Collection Teller,Other,Unspecified
+48001,Commercial Teller,Other,Unspecified
+48002,General Teller,Other,Unspecified
+48003,Head Teller,General / Cross-functional,Unspecified
+48004,Lead Teller,General / Cross-functional,Manager
+48005,Loan Teller,Other,Unspecified
+48006,Mail Teller,Administration & Office Support,Unspecified
+48007,Receiving Teller,Operations & Supply Chain,Unspecified
+48008,Senior Teller,Other,Senior
+48009,Straight Line Press Setter,Manufacturing & Skilled Trades,Unspecified
+48010,Tube Teller,Other,Unspecified
+48011,Utility Teller,Energy & Utilities,Unspecified
+48013,Agriscience Instructor,Education & Training,Unspecified
+48014,Archery Instructor,Education & Training,Unspecified
+48015,Citizenship Instructor,Education & Training,Unspecified
+48016,Division Toll Wire Chief,General / Cross-functional,C-Level
+48017,Esol Instructor,Education & Training,Unspecified
+48018,Karate Instructor,Education & Training,Unspecified
+48019,Metalworking Instructor,Education & Training,Unspecified
+48020,Sailing Instructor,Education & Training,Unspecified
+48021,Spin Instructor,Education & Training,Unspecified
+48022,Yoga Instructor,Education & Training,Unspecified
+48023,Broach Setter,Manufacturing & Skilled Trades,Unspecified
+48025,Comb Setter,Manufacturing & Skilled Trades,Unspecified
+48026,Grab Setter,Manufacturing & Skilled Trades,Unspecified
+48027,Monotype Setter,Manufacturing & Skilled Trades,Unspecified
+48028,Partition Setter,Manufacturing & Skilled Trades,Unspecified
+48029,Public Safety Police,"Public Sector, Defense & Safety",Unspecified
+48030,Secretary of Police,"Public Sector, Defense & Safety",Unspecified
+48031,Associate Faculty,General / Cross-functional,Junior / Entry
+48032,Clinical Faculty,Healthcare & Medical,Unspecified
+48033,Engineering Faculty,Other,Mid
+48035,Nursing Faculty,Healthcare & Medical,Unspecified
+48036,Reconditioning Associate,General / Cross-functional,Junior / Entry
+48037,RN Faculty,Other,Unspecified
+48038,Slip Cover Sewer,Manufacturing & Skilled Trades,Unspecified
+48039,Welt Sole Layer,Other,Unspecified
+48040,Cotton Stripper,Other,Unspecified
+48041,Rag Collector,Other,Unspecified
+48042,Trolley Collector,Other,Unspecified
+48043,College OR University Faculty Member,Other,Unspecified
+48044,Referral and Information Aide,Healthcare & Medical,Junior / Entry
+48045,Slate Handler,Manufacturing & Skilled Trades,Unspecified
+48046,Museum Service Scheduler,Operations & Supply Chain,Unspecified
+48047,Property Assessment Monitor,Other,Unspecified
+48049,Chiropractic Physician,Healthcare & Medical,Unspecified
+48050,Meteorological Aide,Science & Research,Junior / Entry
+48051,Optometric Aide,Healthcare & Medical,Junior / Entry
+48053,Carton Counter Feeder,Manufacturing & Skilled Trades,Unspecified
+48054,Bobbin Drier,Other,Unspecified
+48055,Crop Grain OR Livestock Farmer,Agriculture & Environment,Unspecified
+48056,Oyster Preparer,Other,Unspecified
+48057,Tennis Desk Team Member,Other,Unspecified
+48058,Air Twister Winder,Other,Unspecified
+48059,Head Miller,General / Cross-functional,Unspecified
+48060,Laboratory Miller,Science & Research,Unspecified
+48061,Repair Miller,Other,Unspecified
+48062,Sand Miller,Other,Unspecified
+48063,Seed Cone Picker,Operations & Supply Chain,Unspecified
+48065,Transformer Coil Winder,Other,Unspecified
+48066,Wood Miller,Other,Unspecified
+48067,Clinical Trials Systems Administrator,IT & Infrastructure,Unspecified
+48068,Long Term Care Administrator,General / Cross-functional,Unspecified
+48069,Vice President Digital Strategist,Executive & General Management,C-Level
+48070,Acid Blower,Other,Unspecified
+48071,Boiler Blower,Other,Unspecified
+48072,Carrier Blower,Other,Unspecified
+48073,Core Blower,Other,Unspecified
+48074,Fur Blower,Other,Unspecified
+48076,Insulation Blower,Other,Unspecified
+48077,Link Wire Fabric Machine Tender,Manufacturing & Skilled Trades,Unspecified
+48078,Loom Blower,Other,Unspecified
+48079,Mold Blower,Manufacturing & Skilled Trades,Unspecified
+48081,Tube Blower,Other,Unspecified
+48082,Well Blower,Other,Unspecified
+48083,Zoning Administrator,General / Cross-functional,Unspecified
+48087,Cooling Pan Tender,Manufacturing & Skilled Trades,Unspecified
+48088,Forestry Aid,Agriculture & Environment,Unspecified
+48089,Help Aid,Other,Unspecified
+48092,Meal Grinder Tender,Manufacturing & Skilled Trades,Unspecified
+48094,Pin Attacher,Other,Unspecified
+48095,Ribbon Lapper Tender,Manufacturing & Skilled Trades,Unspecified
+48100,Pig Farmer,Other,Unspecified
+48102,Product Transfer Pumper,Other,Unspecified
+48103,Account Manager Forest Service,Sales & Business Development,Manager
+48104,Bingo Checker,Operations & Supply Chain,Unspecified
+48105,Cane Weigher,Manufacturing & Skilled Trades,Unspecified
+48106,Construction Craft Laborer,Construction & Real Estate,Unspecified
+48107,Extrusion Former,Other,Unspecified
+48108,Jewelry Bench Molder,Manufacturing & Skilled Trades,Unspecified
+48109,Substation Electrician,Manufacturing & Skilled Trades,Unspecified
+48110,Hogshead Roller,Other,Unspecified
+48111,Stem Roller,Other,Unspecified
+48113,Machine Setter Sheet Metal,Manufacturing & Skilled Trades,Unspecified
+48115,Cytogenetics Technologist,Healthcare & Medical,Unspecified
+48116,Cytology Technologist,Healthcare & Medical,Unspecified
+48117,Ground Crew Lines Person,Other,Unspecified
+48118,Rating Examiner,Education & Training,Unspecified
+48119,Circus Laborer,Manufacturing & Skilled Trades,Unspecified
+48120,Equipment Operator Wage Hand,Manufacturing & Skilled Trades,Unspecified
+48121,Hard Metals Engraver Hand,Manufacturing & Skilled Trades,Unspecified
+48122,Shipyard Laborer,Manufacturing & Skilled Trades,Unspecified
+48123,Soft Metals Engraver Hand,Manufacturing & Skilled Trades,Unspecified
+48124,User Interface Artist,Design & Creative,Unspecified
+48125,Collator Hand,Manufacturing & Skilled Trades,Unspecified
+48126,Desulfurizer Hand,Manufacturing & Skilled Trades,Unspecified
+48127,Husbandry Person,Other,Unspecified
+48128,Prizer Hand,Manufacturing & Skilled Trades,Unspecified
+48129,Seasoner Hand,Manufacturing & Skilled Trades,Unspecified
+48131,Shape Hand,Manufacturing & Skilled Trades,Unspecified
+48132,Advertising Material Distributor,Marketing & Growth,Unspecified
+48133,Customer Sales Distributor,Sales & Business Development,Unspecified
+48134,Peanut Grader,Other,Unspecified
+48135,Pig Iron Loader,Manufacturing & Skilled Trades,Unspecified
+48136,Veneer Sander,Manufacturing & Skilled Trades,Unspecified
+48137,Asphalt Paving Foreman,Manufacturing & Skilled Trades,Manager
+48138,Paving Crew Foreman,Manufacturing & Skilled Trades,Manager
+48139,Vice President of Talent Management,Human Resources & Recruiting,C-Level
+48140,Fisher Line,Agriculture & Environment,Unspecified
+48141,Active Directory Administrator,General / Cross-functional,Director
+48143,Historic Site Administrator,General / Cross-functional,Unspecified
+48147,Mason Liner,Manufacturing & Skilled Trades,Unspecified
+48148,Metal Reclamation Kettle Tender,Manufacturing & Skilled Trades,Unspecified
+48150,Trim Carpenter,Manufacturing & Skilled Trades,Unspecified
+48151,Type Soldering Machine Tender,Manufacturing & Skilled Trades,Unspecified
+48152,Beader Tender,Manufacturing & Skilled Trades,Unspecified
+48153,Comb Tender,Manufacturing & Skilled Trades,Unspecified
+48154,Electric Organ Assembler and Checker,Manufacturing & Skilled Trades,Unspecified
+48155,Gill Tender,Manufacturing & Skilled Trades,Unspecified
+48156,Muffler Tender,Manufacturing & Skilled Trades,Unspecified
+48157,Pulper Tender,Manufacturing & Skilled Trades,Unspecified
+48158,Quiller Tender,Manufacturing & Skilled Trades,Unspecified
+48159,Slubber Tender,Manufacturing & Skilled Trades,Unspecified
+48160,Speeder Tender,Manufacturing & Skilled Trades,Unspecified
+48161,Strainer Tender,Manufacturing & Skilled Trades,Unspecified
+48162,Journeyman Patternmaker,Manufacturing & Skilled Trades,Unspecified
+48163,Wire Spring Relay Adjuster,Other,Unspecified
+48164,Import Customs Clearing Agent,Operations & Supply Chain,Unspecified
+48165,Rib Puller,Other,Unspecified
+48166,Contractor General Engineering,"Media, Sports & Entertainment",Mid
+48167,Fitting Room Checker,Operations & Supply Chain,Unspecified
+48168,Carton Folder,Manufacturing & Skilled Trades,Unspecified
+48169,Counterintelligence Agent,General / Cross-functional,Unspecified
+48170,Depot Agent,General / Cross-functional,Unspecified
+48171,Installment Agent,General / Cross-functional,Unspecified
+48172,Interlocking and Signal Mechanic,Manufacturing & Skilled Trades,Unspecified
+48174,Subscription Agent,General / Cross-functional,Unspecified
+48175,Manager Transportation Planning,Operations & Supply Chain,Manager
+48176,A&p Mechanic,Manufacturing & Skilled Trades,Unspecified
+48177,Duralumin Mechanic,Manufacturing & Skilled Trades,Unspecified
+48178,Gyro Mechanic,Manufacturing & Skilled Trades,Unspecified
+48179,Hydramatic Mechanic,Manufacturing & Skilled Trades,Unspecified
+48180,Jeep Mechanic,Manufacturing & Skilled Trades,Unspecified
+48181,Lawnmower Mechanic,Manufacturing & Skilled Trades,Unspecified
+48182,Sider Mechanic,Manufacturing & Skilled Trades,Unspecified
+48183,Speedometer Mechanic,Manufacturing & Skilled Trades,Unspecified
+48184,Supercharger Mechanic,Manufacturing & Skilled Trades,Unspecified
+48185,Windmill Mechanic,Manufacturing & Skilled Trades,Unspecified
+48186,Bobbin Fixer,Other,Unspecified
+48187,Construction Carpenters Helper,Manufacturing & Skilled Trades,Junior / Entry
+48188,Corrugator Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+48190,Digester Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+48191,Medical Apparatus Model Maker,Healthcare & Medical,Unspecified
+48192,Motorboat Mechanic Helper,Manufacturing & Skilled Trades,Junior / Entry
+48193,Organ Fixer,Other,Unspecified
+48194,Pan Devulcanizer Helper,Manufacturing & Skilled Trades,Junior / Entry
+48195,Printer Slotter Helper,Manufacturing & Skilled Trades,Junior / Entry
+48196,Prospecting Driller,Manufacturing & Skilled Trades,Unspecified
+48197,Slotter Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+48198,Wallpaper Embosser Helper,Manufacturing & Skilled Trades,Junior / Entry
+48199,Field Crop Farmworker,Agriculture & Environment,Unspecified
+48200,Aging Box Hand,Manufacturing & Skilled Trades,Unspecified
+48201,Aging Room Hand,Manufacturing & Skilled Trades,Unspecified
+48202,Carton Making Machinist,Manufacturing & Skilled Trades,Unspecified
+48203,Pocket Marker,Other,Unspecified
+48204,Clipper and Turner,Manufacturing & Skilled Trades,Unspecified
+48205,RN Internal Medicine,Other,Junior / Entry
+48208,Computational Scientist,Science & Research,Unspecified
+48209,Oncology Admin,Healthcare & Medical,Unspecified
+48210,Sleep Scientist,Science & Research,Unspecified
+48211,Apple Sorter,Manufacturing & Skilled Trades,Unspecified
+48212,Band Splitter,Other,Unspecified
+48213,Chain Splitter,Other,Unspecified
+48214,Hand Splitter,Manufacturing & Skilled Trades,Unspecified
+48215,Heel Splitter,Other,Unspecified
+48216,Hide Splitter,Other,Unspecified
+48217,Hull Sorter,Manufacturing & Skilled Trades,Unspecified
+48218,Leather Splitter,Other,Unspecified
+48219,Machine Splitter,Manufacturing & Skilled Trades,Unspecified
+48220,Post Splitter,Other,Unspecified
+48221,Rail Splitter,Other,Unspecified
+48222,Sole Splitter,Other,Unspecified
+48224,HR Shared Services Consultant,Human Resources & Recruiting,Mid
+48225,Stacker Straightener,Manufacturing & Skilled Trades,Unspecified
+48226,Cook Boat,"Hospitality, Food & Travel",Unspecified
+48227,Latin American Studies Professor,Education & Training,Unspecified
+48228,Analytical Strategist,General / Cross-functional,Unspecified
+48229,Campus Monitor,Other,Unspecified
+48230,Accounts Payable Accountant,Finance & Accounting,Unspecified
+48231,Accounts Receivable Accountant,Finance & Accounting,Unspecified
+48232,Arabic Professor,Education & Training,Unspecified
+48233,Archeology Professor,Education & Training,Unspecified
+48234,Bacteriology Professor,Education & Training,Unspecified
+48235,Biophysics Professor,Education & Training,Unspecified
+48237,Horticulture Superintendent,Construction & Real Estate,Director
+48239,Jig and Fixture Repairer,Manufacturing & Skilled Trades,Unspecified
+48240,Kinesiology Professor,Education & Training,Unspecified
+48241,Meteorology Professor,Science & Research,Unspecified
+48242,Nurses Superintendent,Healthcare & Medical,Director
+48243,Silviculture Professor,Education & Training,Unspecified
+48244,Tool and Fixture Repairer,Manufacturing & Skilled Trades,Unspecified
+48246,Cardiovascular Surgeon,Healthcare & Medical,Unspecified
+48248,Denture Processor,Other,Unspecified
+48249,Escrow Processor,Other,Unspecified
+48250,Founder and President,Executive & General Management,C-Level
+48251,Ophthalmic Surgeon,Healthcare & Medical,Unspecified
+48252,Fork Repairer,Manufacturing & Skilled Trades,Unspecified
+48253,Guitar Repairer,Manufacturing & Skilled Trades,Unspecified
+48254,Matrix Repairer,Manufacturing & Skilled Trades,Unspecified
+48255,Shaft Repairer,Manufacturing & Skilled Trades,Unspecified
+48257,Clam Picker,Operations & Supply Chain,Unspecified
+48258,Tow Picker,Operations & Supply Chain,Unspecified
+48259,Coil Binder,Manufacturing & Skilled Trades,Unspecified
+48260,Fur Blowing Machine Attendant,Manufacturing & Skilled Trades,Unspecified
+48261,Sleeping Car Service Attendant,Other,Unspecified
+48262,Tools and Parts Attendant,Other,Unspecified
+48263,Bellows Tester,Manufacturing & Skilled Trades,Unspecified
+48264,Cafe Cook,"Hospitality, Food & Travel",Unspecified
+48265,Craft Recruiter,Human Resources & Recruiting,Unspecified
+48266,Flooring Salesperson,Sales & Business Development,Unspecified
+48267,Globe Tester,Manufacturing & Skilled Trades,Unspecified
+48268,Stator Tester,Manufacturing & Skilled Trades,Unspecified
+48269,Twist Tester,Manufacturing & Skilled Trades,Unspecified
+48270,Vault Custodian,Other,Unspecified
+48271,Woolen Tester,Manufacturing & Skilled Trades,Unspecified
+48272,Birth Attendant,Other,Unspecified
+48273,Crematory Attendant,Other,Unspecified
+48274,Dispensary Attendant,Other,Unspecified
+48275,Evs Attendant,Other,Unspecified
+48276,Humidifier Attendant,Other,Unspecified
+48277,Venue Attendant,Other,Unspecified
+48279,Entry Level Paralegal,Legal,Junior / Entry
+48280,Estate Planning Paralegal,Legal,Unspecified
+48281,Family Law Paralegal,Legal,Unspecified
+48282,Fbi Field Agent,General / Cross-functional,Unspecified
+48283,Fbi Special Agent,General / Cross-functional,Unspecified
+48285,Fruit Express Agent,Manufacturing & Skilled Trades,Unspecified
+48286,Manager Respiratory Care,Healthcare & Medical,Manager
+48288,Real Estate Paralegal,Legal,Unspecified
+48289,Technical Sourcing Recruiter,Human Resources & Recruiting,Unspecified
+48292,Workers Compensation Paralegal,Human Resources & Recruiting,Unspecified
+48293,Clerical Support,Other,Unspecified
+48294,Supervisor Packing Room,Other,Manager
+48295,Circular Knife Machine Cutter,Manufacturing & Skilled Trades,Unspecified
+48296,Cylinder Dyer,Manufacturing & Skilled Trades,Unspecified
+48298,Mixer Operator Hot Metal,Manufacturing & Skilled Trades,Unspecified
+48299,Air Brush Decorator,Other,Unspecified
+48301,Top Tile Decorator,Other,Unspecified
+48302,Paving Contractor,"Media, Sports & Entertainment",Unspecified
+48303,Business Administration Program Chair,Other,Unspecified
+48304,Cat Scan Tech,Manufacturing & Skilled Trades,Unspecified
+48305,Ct Scan Tech,Manufacturing & Skilled Trades,Unspecified
+48306,Diesel Lube Tech,Manufacturing & Skilled Trades,Unspecified
+48307,Director of Front Office,Other,VP / Head
+48310,Sas Clinical Programmer,Software & Engineering,Unspecified
+48311,Sas Statistical Programmer,Software & Engineering,Unspecified
+48312,Senior Sas Programmer,Software & Engineering,Senior
+48313,Supervisor Real Estate Office,Construction & Real Estate,Manager
+48314,Visual Basic Programmer,Software & Engineering,Unspecified
+48315,Administrative Law Judge,Legal,Unspecified
+48317,Corrugator,Other,Unspecified
+48320,Promotion Producer,Design & Creative,Unspecified
+48321,Stage Producer,Design & Creative,Unspecified
+48322,Scrap Breaker,Agriculture & Environment,Unspecified
+48323,Substance Abuse RN,Other,Unspecified
+48324,Tape Control Skin OR Spar Mill Operator,Manufacturing & Skilled Trades,Unspecified
+48325,Primary Care Nurse Practitioner,Healthcare & Medical,Unspecified
+48327,Diamond Die Driller,Manufacturing & Skilled Trades,Unspecified
+48328,Electric Organ Inspector and Repairer,Manufacturing & Skilled Trades,Unspecified
+48330,Chief Librarian Branch OR Department,Education & Training,C-Level
+48331,Endoscopy RN,Other,Unspecified
+48332,Procedures RN,Other,Unspecified
+48336,Cash Register Repairer,Manufacturing & Skilled Trades,Unspecified
+48338,Angular JS Developer,Software & Engineering,Mid
+48339,Atg Java Developer,Software & Engineering,Mid
+48340,Brokerage Purchase and Sale Clerk,Sales & Business Development,Unspecified
+48341,Coupon and Bond Collection Clerk,Administration & Office Support,Unspecified
+48342,Diagnostics Sales Developer,Software & Engineering,Mid
+48343,Excel Vba Developer,Software & Engineering,Mid
+48345,Jd Edwards Developer,Software & Engineering,Mid
+48346,Lead Atg Developer,Software & Engineering,Manager
+48347,Lens and Frames Prescription Clerk,Administration & Office Support,Unspecified
+48348,Linux Kernel Developer,Software & Engineering,Mid
+48350,Oracle Adf Developer,Software & Engineering,Mid
+48351,Oracle Ebs Developer,Software & Engineering,Mid
+48352,Oracle Hrms Developer,Software & Engineering,Mid
+48353,Peoplesoft Hrms Developer,Software & Engineering,Mid
+48354,PHP Magento Developer,Software & Engineering,Mid
+48355,Plating Foreman,Manufacturing & Skilled Trades,Manager
+48356,Servicenow Administrator Developer,Software & Engineering,Mid
+48357,Vb Net Developer,Software & Engineering,Mid
+48358,Diver Pumper,Other,Unspecified
+48359,Golf Club Head Inspector and Adjuster,Other,Unspecified
+48360,Leaf Blender,Manufacturing & Skilled Trades,Unspecified
+48361,Real Time Trader,Finance & Accounting,Unspecified
+48362,Supervisor Beam Department,Other,Manager
+48364,All Purpose Clerk,Administration & Office Support,Unspecified
+48365,Amortization Schedule Clerk,Administration & Office Support,Unspecified
+48367,Automatic Log Cut Off Sawyer,Other,Unspecified
+48368,Banquet Server,"Hospitality, Food & Travel",Unspecified
+48369,Birth Certificate Clerk,Administration & Office Support,Unspecified
+48370,Chief Wheelage Clerk,Administration & Office Support,C-Level
+48371,Coupon Manifest Clerk,Administration & Office Support,Unspecified
+48372,Coupon Redemption Clerk,Administration & Office Support,Unspecified
+48377,High Tension Tester,Manufacturing & Skilled Trades,Unspecified
+48378,Incoming Freight Clerk,Operations & Supply Chain,Unspecified
+48379,Iron Pellet Tester,Manufacturing & Skilled Trades,Unspecified
+48380,Outpatient Interviewing Clerk,Healthcare & Medical,Unspecified
+48381,Passenger Interline Clerk,Administration & Office Support,Unspecified
+48382,Revolving Inventory Clerk,Operations & Supply Chain,Unspecified
+48383,Roll Tension Tester,Manufacturing & Skilled Trades,Unspecified
+48384,Sawmill Tally Clerk,Administration & Office Support,Unspecified
+48385,Semiconductor Wafers Tester,Manufacturing & Skilled Trades,Unspecified
+48386,Stamp Redemption Clerk,Administration & Office Support,Unspecified
+48388,Warp Tension Tester,Manufacturing & Skilled Trades,Unspecified
+48389,Wharf Tally Clerk,Administration & Office Support,Unspecified
+48390,Will Call Clerk,Administration & Office Support,Unspecified
+48391,B2B Sales Professional,Sales & Business Development,Unspecified
+48392,Skilled Nursing Professional,Healthcare & Medical,Unspecified
+48393,Heading Matcher and Assembler,Manufacturing & Skilled Trades,Unspecified
+48394,Insulation and Flooring Assembler,Manufacturing & Skilled Trades,Unspecified
+48395,Director Public,General / Cross-functional,Director
+48396,Manager Public,General / Cross-functional,Manager
+48397,Behavioral Modification Assistant,General / Cross-functional,Junior / Entry
+48399,Ct Mri Technologist,Healthcare & Medical,Unspecified
+48400,Diversional Therapist's Assistant,Healthcare & Medical,Junior / Entry
+48404,Pizza Hut Assistant,General / Cross-functional,Junior / Entry
+48405,Porcelain Buildup Assistant,General / Cross-functional,Junior / Entry
+48406,Res Habilitation Assistant,General / Cross-functional,Junior / Entry
+48408,Vector Control Assistant,General / Cross-functional,Junior / Entry
+48409,Telephone Order Clerk Room Service,Administration & Office Support,Unspecified
+48411,Oil Rag Washer,Energy & Utilities,Unspecified
+48412,Oral Surgery Physician,Healthcare & Medical,Unspecified
+48413,Solutions Executive Security,Other,Unspecified
+48415,Joint Finisher,Manufacturing & Skilled Trades,Unspecified
+48416,Waiter/Waitress Room Service,"Hospitality, Food & Travel",Unspecified
+48417,Bone Drier,Other,Unspecified
+48418,Manager Electronic,General / Cross-functional,Manager
+48419,Hub Lead,General / Cross-functional,Manager
+48421,Tableau Lead,General / Cross-functional,Manager
+48422,Bin Filler,Manufacturing & Skilled Trades,Unspecified
+48423,Caramel Candy Maker,Manufacturing & Skilled Trades,Unspecified
+48424,Frozen Pie Maker,Manufacturing & Skilled Trades,Unspecified
+48425,Pickle Solution Maker,Manufacturing & Skilled Trades,Unspecified
+48427,Cable Engineer Outside Plant,Other,Mid
+48428,Excellence Coach,Education & Training,Unspecified
+48430,Parent Coach,Education & Training,Unspecified
+48432,Soccer Coach,Education & Training,Unspecified
+48433,Cold Food Packer,Operations & Supply Chain,Unspecified
+48434,Bell Captain,Other,Unspecified
+48435,Port Captain,Other,Unspecified
+48436,Slab Polisher,Manufacturing & Skilled Trades,Unspecified
+48437,Retail Sales Merchandiser Development,Sales & Business Development,Unspecified
+48438,Industrial Garage Servicer,Other,Unspecified
+48439,Neurosurgical Nurse,Healthcare & Medical,Unspecified
+48440,Ob/Gyn Nurse,Healthcare & Medical,Unspecified
+48441,Observation Nurse,Healthcare & Medical,Unspecified
+48442,Ostomy Nurse,Healthcare & Medical,Unspecified
+48443,Sane Nurse,Healthcare & Medical,Unspecified
+48445,Black Top Roller,Other,Unspecified
+48447,Sr. Payroll Processor,Finance & Accounting,Unspecified
+48448,Inside Phone Sales,Sales & Business Development,Unspecified
+48449,SVP Digital Sales,Sales & Business Development,VP / Head
+48450,Commodity Buyer,Sales & Business Development,Unspecified
+48451,Cone Former,Other,Unspecified
+48452,Datastage Architect,Design & Creative,Unspecified
+48453,Feather Stitcher,Manufacturing & Skilled Trades,Unspecified
+48454,Filenet Architect,Design & Creative,Unspecified
+48455,Splunk Architect,Design & Creative,Unspecified
+48456,Teradata Architect,Data & AI,Unspecified
+48457,Usability Architect,Design & Creative,Unspecified
+48458,Virtualization Architect,IT & Infrastructure,Unspecified
+48461,Cocoa Bean Roaster Helper,Manufacturing & Skilled Trades,Junior / Entry
+48462,Doughnut Machine Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+48463,Laborer Dairy Farm,Agriculture & Environment,Unspecified
+48464,Metal Fabricating Shop Helper,Manufacturing & Skilled Trades,Junior / Entry
+48465,Reinforcing Iron Worker Helper,Manufacturing & Skilled Trades,Junior / Entry
+48466,Slat Basket Maker Helper,Manufacturing & Skilled Trades,Junior / Entry
+48467,Slurry Control Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+48468,Housing Quality Standard Inspector,General / Cross-functional,Unspecified
+48469,Machined Parts Quality Inspector,Manufacturing & Skilled Trades,Unspecified
+48470,Rock Splitter,Other,Unspecified
+48471,Building Maintenance Custodian,Manufacturing & Skilled Trades,Unspecified
+48472,Head School Custodian,Other,Unspecified
+48473,Industrial Plant Custodian,Other,Unspecified
+48474,Intelligence Senior Sergeant,Other,Senior
+48475,Medical Records Custodian,Healthcare & Medical,Unspecified
+48476,Motor Equipment Sergeant,Other,Unspecified
+48477,Patrol Police Sergeant,"Public Sector, Defense & Safety",Unspecified
+48478,Press Box Custodian,Manufacturing & Skilled Trades,Unspecified
+48481,Heavy Lift Rigger,Manufacturing & Skilled Trades,Unspecified
+48482,RN Employee Health,Other,Unspecified
+48483,Geospatial Imagery Intelligence Analyst,"Public Sector, Defense & Safety",Mid
+48484,Drafter Construction,Design & Creative,Unspecified
+48485,Allocation Analyst,General / Cross-functional,Mid
+48486,AML Analyst,General / Cross-functional,Mid
+48487,Cause Analyst,General / Cross-functional,Mid
+48488,Cerner Analyst,General / Cross-functional,Mid
+48489,Conflicts Analyst,General / Cross-functional,Mid
+48490,Demographic Analyst,Design & Creative,Mid
+48491,Exploitation Analyst,General / Cross-functional,Mid
+48492,Geoint Analyst,General / Cross-functional,Mid
+48493,Harmonic Analyst,General / Cross-functional,Mid
+48494,Intrusion Analyst,General / Cross-functional,Mid
+48495,Malware Analyst,General / Cross-functional,Mid
+48496,Outcome Analyst,General / Cross-functional,Mid
+48497,Pace Analyst,General / Cross-functional,Mid
+48498,Preprint Analyst,General / Cross-functional,Mid
+48500,Sox Analyst,General / Cross-functional,Mid
+48501,Spectrographic Analyst,Design & Creative,Mid
+48502,Surtass Analyst,General / Cross-functional,Mid
+48503,Waiver Analyst,General / Cross-functional,Mid
+48504,Assistant Basketball Coach,Education & Training,Junior / Entry
+48505,College Basketball Coach,Education & Training,Unspecified
+48506,Health Sciences Department Chair,Other,Unspecified
+48507,Men's Basketball Coach,Education & Training,Unspecified
+48508,Molding Sander,Manufacturing & Skilled Trades,Unspecified
+48509,Social Sciences Department Chair,Other,Unspecified
+48510,Women's Basketball Coach,Education & Training,Unspecified
+48511,City Assessor,"Public Sector, Defense & Safety",Unspecified
+48512,County Assessor,"Public Sector, Defense & Safety",Unspecified
+48513,Deputy Assessor,Other,Unspecified
+48514,Field Assessor,Other,Unspecified
+48515,Internet Assessor,Other,Junior / Entry
+48516,Label Folder,Manufacturing & Skilled Trades,Unspecified
+48517,Nurse Assessor,Healthcare & Medical,Unspecified
+48518,Pin Inserter,Other,Unspecified
+48519,Relief Master,Other,Unspecified
+48521,Security Assessor,Other,Unspecified
+48522,Separator Inserter,Other,Unspecified
+48523,Sole Assessor,Other,Unspecified
+48524,Tax Assessor,Finance & Accounting,Unspecified
+48525,Handle Turner,Manufacturing & Skilled Trades,Unspecified
+48528,Fleet Maintenance Foreman,Operations & Supply Chain,Manager
+48529,Adventure Therapist,Finance & Accounting,Unspecified
+48530,Care Transitions Nurse,Healthcare & Medical,Unspecified
+48531,SVP Marketing,Marketing & Growth,VP / Head
+48532,Telephone Advice Nurse,Healthcare & Medical,Unspecified
+48533,Editing Intern,General / Cross-functional,Junior / Entry
+48534,Journalism Intern,General / Cross-functional,Junior / Entry
+48535,Almond Paste Mixer,Manufacturing & Skilled Trades,Unspecified
+48536,Director Internal Control,Other,Director
+48537,Label Printing Machinist,Manufacturing & Skilled Trades,Unspecified
+48538,Table Assembler Metal,Manufacturing & Skilled Trades,Unspecified
+48539,Camera Prototyping Engineer,"Media, Sports & Entertainment",Mid
+48540,Camera Tuning Engineer,"Media, Sports & Entertainment",Mid
+48542,Dub Room Engineer,Other,Mid
+48543,Electrician Aircraft,Manufacturing & Skilled Trades,Unspecified
+48546,Managing Cognitive Engineer,Other,Mid
+48547,Rack Carrier,Other,Unspecified
+48548,Shingle Carrier,Other,Unspecified
+48549,Active Directory Architect,Design & Creative,Director
+48551,Double Needle Stitcher,Manufacturing & Skilled Trades,Unspecified
+48552,Gold Leaf Printer,Other,Unspecified
+48553,Linen Keeper,Other,Unspecified
+48554,Maintenance Supervisor Mechanical,Construction & Real Estate,Manager
+48558,Housekeeper Caregiver,Healthcare & Medical,Unspecified
+48560,Director Building,General / Cross-functional,Director
+48562,RN Building,Other,Unspecified
+48564,Informatica,Other,Unspecified
+48565,Machine Carton Marker,Other,Unspecified
+48566,Spreader Operator Automatic,Manufacturing & Skilled Trades,Unspecified
+48567,Beef Grinder,Manufacturing & Skilled Trades,Unspecified
+48568,Carpentry Professional,General / Cross-functional,Unspecified
+48569,Sports Media,"Media, Sports & Entertainment",Unspecified
+48570,Welder Plastic,Manufacturing & Skilled Trades,Unspecified
+48572,Paver Layer,Other,Unspecified
+48573,Associate Director Financial Aid,Finance & Accounting,Director
+48574,Director of Financial Aid,Finance & Accounting,VP / Head
+48575,Director of Student Aid,Other,VP / Head
+48579,Space Scheduler,Operations & Supply Chain,Unspecified
+48580,State Farm Agent Team Member,Agriculture & Environment,Unspecified
+48582,Filler Shredder Machine,Manufacturing & Skilled Trades,Unspecified
+48583,Helper Animal Laboratory,Science & Research,Junior / Entry
+48584,Sack Sewer Machine,Manufacturing & Skilled Trades,Unspecified
+48585,Spool Winder,Other,Unspecified
+48586,Cane Packer,Operations & Supply Chain,Unspecified
+48587,Explosive Expert,Other,Unspecified
+48588,Horticultural Farmer,Agriculture & Environment,Unspecified
+48589,Farm Machinery Erector,Agriculture & Environment,Unspecified
+48590,Golf Club Head Former,General / Cross-functional,Unspecified
+48591,Roustabout Crew Leader,General / Cross-functional,Unspecified
+48592,Shipping and Receiving Weigher,Operations & Supply Chain,Unspecified
+48593,Beef Cattle Farmer,Other,Unspecified
+48594,Clinical Trial Educator,Healthcare & Medical,Unspecified
+48595,Traveling Repair Accountant,Finance & Accounting,Unspecified
+48596,Civil Rights Representative,General / Cross-functional,Unspecified
+48603,Supervisor Green End Department,Other,Manager
+48604,Exhibition Designer,Design & Creative,Mid
+48605,Exterior Designer,Design & Creative,Mid
+48606,Furrier Designer,Design & Creative,Mid
+48608,Peer Financial Counselor,Finance & Accounting,Unspecified
+48609,School Adjustment Counselor,Healthcare & Medical,Unspecified
+48611,Casing Material Weigher,Manufacturing & Skilled Trades,Unspecified
+48612,Cigar Wrapper Tender Automatic,Manufacturing & Skilled Trades,Unspecified
+48613,Brim Molder,Manufacturing & Skilled Trades,Unspecified
+48615,Hostess Cashier,Sales & Business Development,Unspecified
+48616,Stitch Marker,Other,Unspecified
+48617,Grey Roll Man,Manufacturing & Skilled Trades,Unspecified
+48618,Director of Food and Nutrition Services,Other,VP / Head
+48619,Cycle Liaison,General / Cross-functional,Unspecified
+48620,Documentation Spec,Other,Unspecified
+48621,Rehab Spec,Other,Unspecified
+48622,Reimbursement Liaison,General / Cross-functional,Unspecified
+48623,School Psychological Examiner,Education & Training,Unspecified
+48624,Brine Room Laborer,Manufacturing & Skilled Trades,Unspecified
+48625,Porcelain Enamel Laborer,Manufacturing & Skilled Trades,Unspecified
+48626,Dining Car Server,"Hospitality, Food & Travel",Unspecified
+48627,Dining Room Server,"Hospitality, Food & Travel",Unspecified
+48628,Sports Book Server,"Hospitality, Food & Travel",Unspecified
+48629,Assigner,Other,Unspecified
+48630,Assistant Golf Course Superintendent,Construction & Real Estate,Director
+48632,Cafeteria Server,"Hospitality, Food & Travel",Unspecified
+48633,Cns,Other,Unspecified
+48634,Counterperson,Other,Unspecified
+48635,Creeler,Other,Unspecified
+48637,Customizer,Other,Unspecified
+48638,Dosimetrist,Other,Unspecified
+48639,Dot Etcher Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+48640,Eradicator,Other,Unspecified
+48642,Flagman,Other,Unspecified
+48643,Forklift Wheel Loader,Operations & Supply Chain,Unspecified
+48644,Fueler,Other,Unspecified
+48645,Funder,Other,Unspecified
+48648,Houseperson,Other,Unspecified
+48651,Informaticist,Other,Unspecified
+48652,Leverman,Other,Unspecified
+48655,Nozzleman,Other,Unspecified
+48657,Preparator,Other,Unspecified
+48658,Recoverer,Other,Unspecified
+48659,Routeman,Other,Unspecified
+48661,Shrinker,Other,Unspecified
+48662,Swamper,Other,Unspecified
+48663,Switcher,Other,Unspecified
+48664,Tallier,Operations & Supply Chain,Unspecified
+48666,Tooler,Other,Unspecified
+48671,Knife Blade Polisher,Manufacturing & Skilled Trades,Unspecified
+48672,Brush Sander,Manufacturing & Skilled Trades,Unspecified
+48673,Chemical Operations and Training,Operations & Supply Chain,Unspecified
+48674,Tap Builder,Manufacturing & Skilled Trades,Unspecified
+48675,Geophysical Drafter,Design & Creative,Unspecified
+48676,Grey Washer,Manufacturing & Skilled Trades,Unspecified
+48677,Steam Tunnel Feeder,Manufacturing & Skilled Trades,Unspecified
+48678,Wheat Washer,Manufacturing & Skilled Trades,Unspecified
+48679,Behavioral Sciences Department Chair,Other,Unspecified
+48680,Director of Occupational Health,"Public Sector, Defense & Safety",VP / Head
+48681,Induction Heating Equipment Setter,Manufacturing & Skilled Trades,Unspecified
+48682,Medical Director Occupational Health,Healthcare & Medical,Director
+48683,Primer Charging Tool Setter,Manufacturing & Skilled Trades,Unspecified
+48684,Wire Weaving Loom Setter,Manufacturing & Skilled Trades,Unspecified
+48686,Aluminum Can Collector,Other,Unspecified
+48687,Barrel Plater,Manufacturing & Skilled Trades,Unspecified
+48688,Brand Advocate,Design & Creative,Unspecified
+48689,Buildings Painter,Manufacturing & Skilled Trades,Unspecified
+48690,Care Advocate,Other,Unspecified
+48691,Case Advocate,Other,Unspecified
+48692,Chemical Applicator,Other,Unspecified
+48693,Child Advocate,Other,Unspecified
+48694,Client Advocate,Other,Unspecified
+48696,Consumer Advocate,Other,Unspecified
+48697,Court Advocate,Legal,Unspecified
+48698,Custom Applicator,Other,Unspecified
+48699,Customer Advocate,Other,Unspecified
+48700,Developer Advocate,Software & Engineering,Mid
+48701,Drum Plater,Manufacturing & Skilled Trades,Unspecified
+48703,Family Advocate,Other,Unspecified
+48704,Financial Advocate,Finance & Accounting,Unspecified
+48706,Insulation Applicator,Other,Unspecified
+48707,Membership Secretary,Administration & Office Support,Unspecified
+48709,Nurse Advocate,Healthcare & Medical,Unspecified
+48710,Patient Advocate,Healthcare & Medical,Unspecified
+48711,Program Advocate,Other,Unspecified
+48712,Recovery Advocate,Other,Unspecified
+48713,Senior Advocate,Other,Senior
+48714,Silk Blocker,Other,Unspecified
+48715,Spray Applicator,Other,Unspecified
+48716,Tile Applicator,Other,Unspecified
+48718,Behavioral Health Clinician,Healthcare & Medical,Unspecified
+48719,Emergency Department Clinician,Healthcare & Medical,Unspecified
+48720,Emergency Room Clinician,Healthcare & Medical,Unspecified
+48721,Home Health Clinician,Healthcare & Medical,Unspecified
+48722,Home Therapy Clinician,Healthcare & Medical,Unspecified
+48723,Mental Health Clinician,Healthcare & Medical,Unspecified
+48724,Home Furnishings Sales Representative,Sales & Business Development,Unspecified
+48725,Mortician Supplies Sales Representative,Sales & Business Development,Unspecified
+48726,Acid Remover,Other,Unspecified
+48727,Bank Note Designer,Design & Creative,Mid
+48728,Correctional Lieutenant,Other,Unspecified
+48729,Cover Remover,Other,Unspecified
+48730,Desk Lieutenant,Other,Unspecified
+48731,Diesel Retrofit Designer,Design & Creative,Mid
+48732,Finish Remover,Other,Unspecified
+48734,Guard Lieutenant,"Public Sector, Defense & Safety",Unspecified
+48735,Hanger Off,Other,Unspecified
+48737,Kiln Remover,Other,Unspecified
+48738,Needle Straightener,Other,Unspecified
+48739,Officer Lieutenant,General / Cross-functional,Unspecified
+48740,Operations Lieutenant,Operations & Supply Chain,Unspecified
+48741,Parts Remover,Other,Unspecified
+48744,Traffic Lieutenant,Other,Unspecified
+48745,Batter Mixer,Manufacturing & Skilled Trades,Unspecified
+48746,Compound Mixer,Manufacturing & Skilled Trades,Unspecified
+48747,Resin Mixer,Manufacturing & Skilled Trades,Unspecified
+48748,Caddy,Other,Unspecified
+48750,Csr,Other,Senior
+48751,Lighter,Other,Unspecified
+48752,Manager Primary Care,Other,Manager
+48753,Piercer,Other,Unspecified
+48754,RN Primary Care,Other,Unspecified
+48755,Sheet Rock Hanger,Other,Unspecified
+48756,Table Cover Folder,Manufacturing & Skilled Trades,Unspecified
+48757,Wet Silk Hanger,Other,Unspecified
+48759,Breast Trimmer,Manufacturing & Skilled Trades,Unspecified
+48760,Grid Trimmer,Manufacturing & Skilled Trades,Unspecified
+48763,Pony Trimmer,Manufacturing & Skilled Trades,Unspecified
+48764,Space Operations,Operations & Supply Chain,Unspecified
+48765,Trouble Shooting Mechanic,Manufacturing & Skilled Trades,Unspecified
+48766,Tune Up Mechanic,Manufacturing & Skilled Trades,Unspecified
+48768,Bit Welder,Manufacturing & Skilled Trades,Unspecified
+48770,Director of Catering Sales,Sales & Business Development,VP / Head
+48771,Solutions Executive Cloud Sales,Sales & Business Development,Unspecified
+48774,Air Bag Stripper,Other,Unspecified
+48776,Knife Changer,Other,Unspecified
+48777,Printing Film Stripper,"Media, Sports & Entertainment",Unspecified
+48778,Radiator Fitter,Manufacturing & Skilled Trades,Unspecified
+48780,Bias Cutter,Manufacturing & Skilled Trades,Unspecified
+48781,Clearance Cutter,Manufacturing & Skilled Trades,Unspecified
+48782,Cord Cutter,Manufacturing & Skilled Trades,Unspecified
+48783,Greens Cutter,Manufacturing & Skilled Trades,Unspecified
+48784,Lip Cutter,Manufacturing & Skilled Trades,Unspecified
+48785,Mesh Cutter,Manufacturing & Skilled Trades,Unspecified
+48786,Newspaper Inserter,Other,Unspecified
+48787,English Division Chair,Other,Unspecified
+48788,Inspector Sheet Metal Parts,Manufacturing & Skilled Trades,Unspecified
+48790,Bookkeeper Receptionist,Finance & Accounting,Unspecified
+48791,Take Down Sorter,Manufacturing & Skilled Trades,Unspecified
+48792,Analyst Market Intelligence,Other,Mid
+48793,Binder and Wrapper Packer,Operations & Supply Chain,Unspecified
+48794,Director Market Intelligence,Other,Director
+48796,Erosion Control Coordinator,Administration & Office Support,Unspecified
+48797,Group Fitness Assistant Department Head,"Media, Sports & Entertainment",Junior / Entry
+48800,Administrative Resident,Administration & Office Support,Unspecified
+48801,Dental Resident,Healthcare & Medical,Unspecified
+48802,Head Resident,General / Cross-functional,Unspecified
+48803,Intermodal Owner Operator Truck Driver,Operations & Supply Chain,C-Level
+48804,Local Company Intermodal Truck Driver,Operations & Supply Chain,Unspecified
+48805,Medical Resident,Healthcare & Medical,Unspecified
+48806,Nursing Resident,Healthcare & Medical,Unspecified
+48807,Pharmacy Resident,Healthcare & Medical,Unspecified
+48808,Regional Company Hazmat Tanker Driver,Operations & Supply Chain,Unspecified
+48809,Surgical Resident,Healthcare & Medical,Unspecified
+48810,Forklift Picker,Operations & Supply Chain,Unspecified
+48811,Belly Dump Driver,Operations & Supply Chain,Unspecified
+48813,Milk Pickup Driver,Operations & Supply Chain,Unspecified
+48817,Cardiac Cath Lab Radiology Technologist,Healthcare & Medical,Unspecified
+48819,Pet Caregiver,Healthcare & Medical,Unspecified
+48820,Pre Coder,Other,Unspecified
+48821,Associate Embalmer/Funeral Director,General / Cross-functional,Director
+48822,Boarder Machine,Manufacturing & Skilled Trades,Unspecified
+48824,Merit System Director,General / Cross-functional,Director
+48826,Hop Weigher,Manufacturing & Skilled Trades,Unspecified
+48827,Toe Former,Other,Unspecified
+48828,Inspector Floor,General / Cross-functional,Unspecified
+48829,Manager Floor,General / Cross-functional,Manager
+48830,Molder Floor,Manufacturing & Skilled Trades,Unspecified
+48831,Abrasive Grader,Other,Unspecified
+48832,Advisory Internship,Other,Junior / Entry
+48833,Chute Puller,Other,Unspecified
+48834,Oil Well Cable Tool Driller,Energy & Utilities,Unspecified
+48835,Mechanic Industrial Truck,Other,Unspecified
+48837,Commission Auditor,Finance & Accounting,Unspecified
+48838,Dredge Master,Other,Unspecified
+48839,Gum Cook,"Hospitality, Food & Travel",Unspecified
+48841,Ranch Cook,"Hospitality, Food & Travel",Unspecified
+48842,Regional Geodetic Advisor,General / Cross-functional,Unspecified
+48843,Reservoir Engineering Advisor,General / Cross-functional,Mid
+48844,Seasonal Recruiter,Human Resources & Recruiting,Unspecified
+48845,Association Executive,Other,Unspecified
+48846,Test Engineer Nuclear Equipment,Software & Engineering,Mid
+48847,Automatic Trimming Sewer,Manufacturing & Skilled Trades,Unspecified
+48849,Counter Pocket Sewer,Manufacturing & Skilled Trades,Unspecified
+48851,Lamp Shade Sewer,Manufacturing & Skilled Trades,Unspecified
+48852,Shirt Finisher,Manufacturing & Skilled Trades,Unspecified
+48853,Jacquard Card Cutter,Manufacturing & Skilled Trades,Unspecified
+48854,Tuber Machine Cutter,Manufacturing & Skilled Trades,Unspecified
+48855,Dish Up Person,Other,Unspecified
+48858,Landing Man,Manufacturing & Skilled Trades,Unspecified
+48859,Lube Man,Manufacturing & Skilled Trades,Unspecified
+48860,Plugger Man,Manufacturing & Skilled Trades,Unspecified
+48861,Printing Grey Cloth Tender,Manufacturing & Skilled Trades,Unspecified
+48862,Silo Man,Manufacturing & Skilled Trades,Unspecified
+48863,Skid Man,Manufacturing & Skilled Trades,Unspecified
+48864,Track Laminating Machine Tender,Manufacturing & Skilled Trades,Unspecified
+48865,Superintendent Water and Sewer Systems,Construction & Real Estate,Director
+48866,Cement Rubber,Other,Unspecified
+48867,Rehab Aid,Other,Unspecified
+48868,Call Box Wirer,Other,Unspecified
+48869,Custom Miller,Other,Unspecified
+48871,Ekg Tech,Healthcare & Medical,Unspecified
+48872,Electric Sign Wirer,Other,Unspecified
+48873,Electrical Sign Wirer,Other,Unspecified
+48874,Electrophysiology Tech,Manufacturing & Skilled Trades,Unspecified
+48875,Hotel Dining Room Cashier,Sales & Business Development,Unspecified
+48876,Industrial Equipment Wirer,Other,Unspecified
+48877,Neurodiagnostic Tech,Healthcare & Medical,Unspecified
+48878,RN Operating Room,Other,Unspecified
+48879,Tele Tech,Manufacturing & Skilled Trades,Unspecified
+48880,Child Protective Investigator,General / Cross-functional,Unspecified
+48882,Head Men's Golf Coach,Education & Training,Unspecified
+48884,Supervisor Sewer System,Manufacturing & Skilled Trades,Manager
+48885,Fighter Pilot,Other,Unspecified
+48886,Oil Spot Washer,Energy & Utilities,Unspecified
+48887,Overhead Foreman,Manufacturing & Skilled Trades,Manager
+48888,River Pilot,Other,Unspecified
+48889,Armor Reconnaissance Vehicle Driver,Operations & Supply Chain,Unspecified
+48890,Hi Low Truck Driver,Operations & Supply Chain,Unspecified
+48891,Per Diem RN,Other,Unspecified
+48892,Refrigerated National Truck Driver,Operations & Supply Chain,Unspecified
+48893,Utility Supervisor Boat and Plant,Energy & Utilities,Manager
+48895,Drywall Finisher Foreman,Manufacturing & Skilled Trades,Manager
+48896,Drywall Finishing Foreman,Manufacturing & Skilled Trades,Manager
+48898,Septic Tank Setter,Manufacturing & Skilled Trades,Unspecified
+48899,Dividend Deposit Entry Clerk,Administration & Office Support,Unspecified
+48900,Dividend Deposit Voucher Clerk,Administration & Office Support,Unspecified
+48901,Formal Wear Rental Clerk,Administration & Office Support,Unspecified
+48903,Manager Labor Relations,Other,Manager
+48905,Printed Circuit Photographer,Design & Creative,Unspecified
+48906,Talking Books Library Clerk,Administration & Office Support,Unspecified
+48907,Allocations Clerk,Administration & Office Support,Unspecified
+48908,Bonus Clerk,Administration & Office Support,Unspecified
+48910,Bordereau Clerk,"Public Sector, Defense & Safety",Unspecified
+48911,Cod Clerk,Administration & Office Support,Unspecified
+48912,Degree Clerk,Administration & Office Support,Unspecified
+48913,Departure Clerk,Administration & Office Support,Unspecified
+48914,Diagram Clerk,Administration & Office Support,Unspecified
+48915,Disbursement Clerk,Administration & Office Support,Unspecified
+48916,Discount Clerk,Administration & Office Support,Unspecified
+48917,Distributing Clerk,Administration & Office Support,Unspecified
+48918,Endorsement Clerk,Administration & Office Support,Unspecified
+48920,Judge's Clerk,Legal,Unspecified
+48921,Kardex Clerk,Administration & Office Support,Unspecified
+48922,Layaway Clerk,Administration & Office Support,Unspecified
+48923,Mileage Clerk,Administration & Office Support,Unspecified
+48924,Osd Clerk,Administration & Office Support,Unspecified
+48925,Otc Clerk,Administration & Office Support,Unspecified
+48926,Piggyback Clerk,Administration & Office Support,Unspecified
+48927,Prorate Clerk,Administration & Office Support,Unspecified
+48928,Proration Clerk,Administration & Office Support,Unspecified
+48929,Quote Clerk,Administration & Office Support,Unspecified
+48930,Reconcilement Clerk,Administration & Office Support,Unspecified
+48931,Reconciling Clerk,Administration & Office Support,Unspecified
+48932,Reconsignment Clerk,Administration & Office Support,Unspecified
+48933,Reinstatement Clerk,Administration & Office Support,Unspecified
+48934,Reordering Clerk,Administration & Office Support,Unspecified
+48935,Reshipping Clerk,Operations & Supply Chain,Unspecified
+48936,Revising Clerk,Administration & Office Support,Unspecified
+48937,Revival Clerk,Administration & Office Support,Unspecified
+48938,Roster Clerk,Administration & Office Support,Unspecified
+48939,Safekeeping Clerk,Administration & Office Support,Unspecified
+48940,Scrip Clerk,Administration & Office Support,Unspecified
+48941,Storehouse Clerk,Administration & Office Support,Unspecified
+48942,Suggestion Clerk,Administration & Office Support,Unspecified
+48943,Termination Clerk,Administration & Office Support,Unspecified
+48944,Wanigan Clerk,Administration & Office Support,Unspecified
+48945,Waybill Clerk,Administration & Office Support,Unspecified
+48946,Window/Distribution Clerk,Operations & Supply Chain,Unspecified
+48947,Continuous Conveyor Screen Drier,Other,Unspecified
+48948,Malt Specifications Control Assistant,General / Cross-functional,Junior / Entry
+48949,Automotive Wholesale Parts Advisor,General / Cross-functional,Unspecified
+48950,Anesthesiologists' Assistant,Healthcare & Medical,Junior / Entry
+48951,Anesthetic Assistant,General / Cross-functional,Junior / Entry
+48958,Community Organization Aide,Healthcare & Medical,Junior / Entry
+48960,Cotton Classer Aide,Healthcare & Medical,Junior / Entry
+48961,Educational/Development Assistant,Education & Training,Junior / Entry
+48962,Endodontic Assistant,General / Cross-functional,Junior / Entry
+48964,Gynecological Assistant,Healthcare & Medical,Junior / Entry
+48967,Nut and Bolt Assembler,Manufacturing & Skilled Trades,Unspecified
+48969,Periodontal Assistant,General / Cross-functional,Junior / Entry
+48971,Railways Assistant,General / Cross-functional,Junior / Entry
+48975,Upper Stitcher,Manufacturing & Skilled Trades,Unspecified
+48977,Asbestos Wire Finisher,Manufacturing & Skilled Trades,Unspecified
+48978,Cemetery Laborer,Manufacturing & Skilled Trades,Unspecified
+48979,Director of Sports Medicine,"Media, Sports & Entertainment",VP / Head
+48980,Discharge Planner,Operations & Supply Chain,Unspecified
+48981,Distillery Laborer,Manufacturing & Skilled Trades,Unspecified
+48982,Organ Pipe Finisher,Manufacturing & Skilled Trades,Unspecified
+48983,Solid Tire Finisher,Manufacturing & Skilled Trades,Unspecified
+48984,Stores Laborer,Manufacturing & Skilled Trades,Unspecified
+48985,Attending Physician,Healthcare & Medical,Unspecified
+48986,ER Physician,Healthcare & Medical,Unspecified
+48987,Genetics Physician,Healthcare & Medical,Unspecified
+48988,Gyn Physician,Healthcare & Medical,Unspecified
+48989,Urologist Physician,Healthcare & Medical,Unspecified
+48990,Capacitor Assembler,Manufacturing & Skilled Trades,Unspecified
+48991,Display Decorator,Other,Unspecified
+48992,Dock Pumper,Other,Unspecified
+48993,Fuse Assembler,Manufacturing & Skilled Trades,Unspecified
+48994,Lamination Assembler,Manufacturing & Skilled Trades,Unspecified
+48995,Movement Assembler,Manufacturing & Skilled Trades,Unspecified
+48996,Pallet Assembler,Manufacturing & Skilled Trades,Unspecified
+48998,Saddle and Harness Maker,Manufacturing & Skilled Trades,Unspecified
+48999,Director of Physical Security,Other,VP / Head
+49000,Engineering Supplies Sales,Sales & Business Development,Mid
+49001,Admissions Dean,Education & Training,Director
+49002,Plater Production,Manufacturing & Skilled Trades,Unspecified
+49003,Arm Maker,Manufacturing & Skilled Trades,Unspecified
+49004,Bandage Maker,Manufacturing & Skilled Trades,Unspecified
+49005,Biscuit Maker,Manufacturing & Skilled Trades,Unspecified
+49006,Butt Maker,Manufacturing & Skilled Trades,Unspecified
+49007,Canoe Maker,Manufacturing & Skilled Trades,Unspecified
+49008,Capsule Maker,Manufacturing & Skilled Trades,Unspecified
+49009,Cathode Maker,Manufacturing & Skilled Trades,Unspecified
+49010,Cleat Maker,Manufacturing & Skilled Trades,Unspecified
+49011,Cork Grinder,Manufacturing & Skilled Trades,Unspecified
+49012,Crystal Grinder,Manufacturing & Skilled Trades,Unspecified
+49013,Decal Maker,Manufacturing & Skilled Trades,Unspecified
+49015,Flare Maker,Manufacturing & Skilled Trades,Unspecified
+49016,Frit Maker,Manufacturing & Skilled Trades,Unspecified
+49017,Gore Maker,Manufacturing & Skilled Trades,Unspecified
+49018,Gusset Maker,Manufacturing & Skilled Trades,Unspecified
+49019,Handkerchief Maker,Manufacturing & Skilled Trades,C-Level
+49020,Icing Maker,Manufacturing & Skilled Trades,Unspecified
+49021,Jelly Maker,Manufacturing & Skilled Trades,Unspecified
+49022,Lot Boss,Other,Unspecified
+49023,Match Maker,Manufacturing & Skilled Trades,Unspecified
+49024,Monogram Maker,Manufacturing & Skilled Trades,Unspecified
+49025,Outpatient Scheduler,Healthcare & Medical,Unspecified
+49026,Pencil Maker,Manufacturing & Skilled Trades,Unspecified
+49027,Sagger Maker,Manufacturing & Skilled Trades,Unspecified
+49028,Sieve Maker,Manufacturing & Skilled Trades,Unspecified
+49029,Sketch Maker,Manufacturing & Skilled Trades,Unspecified
+49030,Squad Boss,Other,Unspecified
+49032,Shot Packer,Operations & Supply Chain,Unspecified
+49033,Bus and Sys Integration Senior Manager,General / Cross-functional,Manager
+49034,Clinical Trial Head,Healthcare & Medical,Unspecified
+49035,Data Entry Email Processor,Administration & Office Support,Unspecified
+49036,Manager Net,General / Cross-functional,Manager
+49037,Senior Trial Attorney,Legal,Senior
+49038,Solar Photovoltaic Crew Lead,Energy & Utilities,Manager
+49039,Payment Processor,Other,Unspecified
+49040,Supervisor Industrial Arts Education,Education & Training,Manager
+49041,General Practice,Other,Unspecified
+49044,Cap Coverer,Other,Unspecified
+49045,Hog Trader,Finance & Accounting,Unspecified
+49046,Director of Cloud Services,Other,VP / Head
+49047,Barge Captain,Other,Unspecified
+49049,Valve Inserter,Other,Unspecified
+49050,Developmental Behavioral Physician,Healthcare & Medical,Unspecified
+49051,Pediatric Intensive Physician,Healthcare & Medical,Unspecified
+49052,Drop Wirer,Other,Unspecified
+49053,Manager Testing,General / Cross-functional,Manager
+49054,Railroad Police,"Public Sector, Defense & Safety",Unspecified
+49055,RN Testing,Other,Unspecified
+49056,Show Host,"Hospitality, Food & Travel",Unspecified
+49057,Supervisor Testing,General / Cross-functional,Manager
+49058,Clothes Drier Repairer,Manufacturing & Skilled Trades,Unspecified
+49059,Rigging Loft Repairer,Manufacturing & Skilled Trades,Unspecified
+49060,Slide Fastener Repairer,Manufacturing & Skilled Trades,Unspecified
+49062,Towel Cabinet Repairer,Manufacturing & Skilled Trades,Unspecified
+49064,Coal OR Ore Controller,Finance & Accounting,Unspecified
+49065,Hay Sorter,Manufacturing & Skilled Trades,Unspecified
+49066,Level Vial Inspector and Tester,Manufacturing & Skilled Trades,Unspecified
+49067,Cartridge Filler,Manufacturing & Skilled Trades,Unspecified
+49068,Staffing Mgr,Human Resources & Recruiting,Unspecified
+49069,Storage and Backup Administrator,General / Cross-functional,Unspecified
+49070,Transition Mgr,Other,Unspecified
+49071,Head Char Filter Tank Tender,Manufacturing & Skilled Trades,Unspecified
+49072,Press and Blow Machine Tender,Manufacturing & Skilled Trades,Unspecified
+49073,Drywall Contractor,"Media, Sports & Entertainment",Unspecified
+49074,Upholstery Estimator,Engineering (Non-Software),Unspecified
+49075,Bakery Chef,"Hospitality, Food & Travel",Unspecified
+49076,Banquet Chef,"Hospitality, Food & Travel",Unspecified
+49077,Carton Liner,Other,Unspecified
+49078,Economics Department Chair,Other,Unspecified
+49079,Annealing Furnace Tender,Manufacturing & Skilled Trades,Unspecified
+49080,Ball Warper Tender,Manufacturing & Skilled Trades,Unspecified
+49081,Breaker Off,Agriculture & Environment,Unspecified
+49082,Carding Utility Tender,Energy & Utilities,Unspecified
+49083,Chip Silo Tender,Manufacturing & Skilled Trades,Unspecified
+49084,Polymerization Oven Tender,Manufacturing & Skilled Trades,Unspecified
+49086,Sliver Lap Tender,Manufacturing & Skilled Trades,Unspecified
+49088,Weigh Box Tender,Manufacturing & Skilled Trades,Unspecified
+49089,Chemical Dependency Therapist,Healthcare & Medical,Unspecified
+49091,Vascular Surgeon,Healthcare & Medical,Unspecified
+49092,Protection Chief Industrial Plant,Other,C-Level
+49093,Dish Carrier,Other,Unspecified
+49094,Kindergarten Tutor,Education & Training,Unspecified
+49096,Writing Tutor,Education & Training,Unspecified
+49098,Coloring Checker,Operations & Supply Chain,Unspecified
+49100,Typing Checker,Operations & Supply Chain,Unspecified
+49101,Chopper Feeder,Manufacturing & Skilled Trades,Unspecified
+49102,Carpet Loom Fixer,Other,Unspecified
+49103,Gold Leaf Roller,Other,Unspecified
+49105,Cash Van Salesperson,Sales & Business Development,Unspecified
+49106,Radiologic Technologist Chief,Healthcare & Medical,C-Level
+49107,Expansion Envelope Maker Hand,Manufacturing & Skilled Trades,Unspecified
+49108,Boat Engines Installer,Manufacturing & Skilled Trades,Unspecified
+49110,Chemical Dependency Professional,General / Cross-functional,Unspecified
+49114,Outbound Sales Professional,Sales & Business Development,Unspecified
+49115,Shirt Marker,Other,Unspecified
+49116,Jet Blade Polisher,Manufacturing & Skilled Trades,Unspecified
+49118,Seismograph Chief,General / Cross-functional,C-Level
+49121,Patent Drafter,Legal,Unspecified
+49122,Canal Superintendent,Construction & Real Estate,Director
+49123,Casino Beverage Server,"Hospitality, Food & Travel",Unspecified
+49124,Director of Nuclear Medicine,Energy & Utilities,VP / Head
+49125,Food Beverage Server,"Hospitality, Food & Travel",Unspecified
+49126,Batch Unloader,Manufacturing & Skilled Trades,Unspecified
+49127,Criminal Researcher,Science & Research,Unspecified
+49128,Trim Attacher,Other,Unspecified
+49129,Trim Mounter,Other,Unspecified
+49132,Discharge RN,Other,Unspecified
+49133,Telemetry RN,Other,Unspecified
+49134,Allied Health Instructor,Education & Training,Unspecified
+49137,Fine Craft Artist,Design & Creative,Unspecified
+49139,Sat Act Instructor,Education & Training,Unspecified
+49141,Taxi Servicer,Other,Unspecified
+49142,Ore Miner,Other,Unspecified
+49143,Placer Miner,Other,Unspecified
+49144,Tunnel Miner,Other,Unspecified
+49145,Blind Hanger,Other,Unspecified
+49146,Lock Master,Other,Unspecified
+49147,Metal Trim Erector,Manufacturing & Skilled Trades,Unspecified
+49149,Guidance Adviser,Other,Unspecified
+49151,Lay Out Former,Other,Unspecified
+49155,Diabetes Educator,Other,Unspecified
+49156,Efficiency Expert,Other,Unspecified
+49157,Fuel Injection Servicer,Other,Unspecified
+49158,Religious Educator,Other,Unspecified
+49159,Rice Farmer,Other,Unspecified
+49163,Clay Caster,Manufacturing & Skilled Trades,Unspecified
+49164,Coordinator Integrated Marketing,Marketing & Growth,Unspecified
+49165,Die Caster,Manufacturing & Skilled Trades,Unspecified
+49166,Iron Caster,Manufacturing & Skilled Trades,Unspecified
+49167,Lead Caster,Manufacturing & Skilled Trades,Manager
+49169,Plastics Plater,Manufacturing & Skilled Trades,Unspecified
+49170,Professional Caster,Manufacturing & Skilled Trades,Unspecified
+49171,Quill Layer,Other,Unspecified
+49172,Sand Caster,Manufacturing & Skilled Trades,Unspecified
+49173,Vacuum Caster,Manufacturing & Skilled Trades,Unspecified
+49174,Academic Affairs Dean,Education & Training,Director
+49175,Business School Dean,Education & Training,Director
+49177,Library Services Dean,Education & Training,Director
+49178,Student Affairs Dean,Education & Training,Director
+49179,Student Development Dean,Education & Training,Director
+49180,Student Life Dean,Education & Training,Director
+49181,Student Services Dean,Education & Training,Director
+49182,Supervisor Winding Department,Other,Manager
+49183,CEO and President,Executive & General Management,C-Level
+49184,Cheese Weigher,Manufacturing & Skilled Trades,Unspecified
+49185,Clamp Jig Assembler,Manufacturing & Skilled Trades,Unspecified
+49189,Traveling Electrician,Manufacturing & Skilled Trades,Unspecified
+49190,Venetian Blind Assembler,Manufacturing & Skilled Trades,Unspecified
+49191,Bar Steward,"Hospitality, Food & Travel",Unspecified
+49192,Beverage Steward,"Hospitality, Food & Travel",Unspecified
+49193,Bus Steward,"Hospitality, Food & Travel",Unspecified
+49194,Club Steward,"Hospitality, Food & Travel",Unspecified
+49196,Executive Steward,"Hospitality, Food & Travel",Unspecified
+49197,Flight Steward,"Hospitality, Food & Travel",Unspecified
+49199,Marine Steward,"Hospitality, Food & Travel",Unspecified
+49200,Mathematical Scientist,Science & Research,Unspecified
+49201,Philosophy Faculty Member,Other,Unspecified
+49202,Pit Steward,"Hospitality, Food & Travel",Unspecified
+49203,Process Steward,"Hospitality, Food & Travel",Unspecified
+49204,Product Steward,"Hospitality, Food & Travel",Unspecified
+49205,QC Scientist,Science & Research,Unspecified
+49206,Second Steward,"Hospitality, Food & Travel",Unspecified
+49208,Shop Steward,"Hospitality, Food & Travel",Unspecified
+49209,Wire Steward,"Hospitality, Food & Travel",Unspecified
+49210,Box Bender,Other,Unspecified
+49211,Button Breaker,Agriculture & Environment,Unspecified
+49212,Frame Bender,Other,Unspecified
+49213,Glass Bender,Other,Unspecified
+49214,Hand Bender,Manufacturing & Skilled Trades,Unspecified
+49215,Iron Bender,Other,Unspecified
+49216,Machine Bender,Manufacturing & Skilled Trades,Unspecified
+49217,Pipe Bender,Other,Unspecified
+49218,Plans Examiner,Education & Training,Unspecified
+49219,Rail Bender,Other,Unspecified
+49220,Rock Breaker,Agriculture & Environment,Unspecified
+49221,Rules Examiner,Education & Training,Unspecified
+49222,Spring Bender,Other,Unspecified
+49223,Tube Bender,Other,Unspecified
+49224,Unemployment Examiner,Education & Training,Unspecified
+49226,Representative Phlebotomy Services,Other,Unspecified
+49227,Aerial Sprayer,Manufacturing & Skilled Trades,Unspecified
+49228,Billet Sawyer,Other,Unspecified
+49229,Feather Sawyer,Other,Unspecified
+49231,Ammunition Storage Superintendent,Construction & Real Estate,Director
+49232,Brickmason Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+49233,Rag Sorter and Cutter,Manufacturing & Skilled Trades,Unspecified
+49234,Brick Chimney Builder,Manufacturing & Skilled Trades,Unspecified
+49239,Grant Writer,Other,Unspecified
+49240,Procedure Writer,Other,Unspecified
+49241,Armament Repairer,Manufacturing & Skilled Trades,Unspecified
+49242,Commutator Repairer,Manufacturing & Skilled Trades,Unspecified
+49243,Magazine Grinder Loader,Manufacturing & Skilled Trades,Unspecified
+49244,Streetcar Repairer,Manufacturing & Skilled Trades,Unspecified
+49245,Supervisor Boiler Repair,Other,Manager
+49246,Car Seat Coverer,Other,Unspecified
+49247,Carton Wrapper,Manufacturing & Skilled Trades,Unspecified
+49248,Glove Wrapper,Manufacturing & Skilled Trades,Unspecified
+49250,Accountant Tax,Finance & Accounting,Unspecified
+49252,Drafter Mechanical,Design & Creative,Unspecified
+49254,Manager Tax,Finance & Accounting,Manager
+49255,Plaster Molder,Manufacturing & Skilled Trades,Unspecified
+49256,Ski Molder,Manufacturing & Skilled Trades,Unspecified
+49257,Securities Dealer,Other,Unspecified
+49258,Shuttle Fixer,Other,Unspecified
+49263,Geodetic Surveyor Technologist,Healthcare & Medical,Unspecified
+49266,Special Procedure Technologist,Healthcare & Medical,Unspecified
+49267,VP Clinical,Healthcare & Medical,VP / Head
+49268,VP Construction,Construction & Real Estate,VP / Head
+49269,VP Product,Other,VP / Head
+49270,Bond Runner,"Hospitality, Food & Travel",Unspecified
+49271,Cuff Runner,"Hospitality, Food & Travel",Unspecified
+49272,Finished Goods Planner,Operations & Supply Chain,Unspecified
+49273,Mill Hand Plate Mill,Manufacturing & Skilled Trades,Unspecified
+49274,Starch Factory Laborer,"Media, Sports & Entertainment",Unspecified
+49275,Stenographer Secretary,Administration & Office Support,Unspecified
+49277,Central Office Maintainer,Other,Unspecified
+49279,Industrial Workers,Other,Unspecified
+49281,Tank Systems Maintainer,Other,Unspecified
+49282,Automotive Parts Interpreter,Other,Unspecified
+49285,Guest Service Host,"Hospitality, Food & Travel",Unspecified
+49286,On Air Host,"Hospitality, Food & Travel",Unspecified
+49287,Scrap Metal Burner,Other,Unspecified
+49289,Time Signal Wirer,Other,Unspecified
+49290,Tow Truck Dispatcher,Operations & Supply Chain,Unspecified
+49291,Jewel Inserter,Other,Unspecified
+49295,Welding Rod Coater,Other,Unspecified
+49296,Display Screen Fabricator,Manufacturing & Skilled Trades,Unspecified
+49298,Cabinet Finisher,Manufacturing & Skilled Trades,Unspecified
+49299,Gasoline Finisher,Manufacturing & Skilled Trades,Unspecified
+49300,Director Physical,General / Cross-functional,Director
+49301,Instructor Physical,Education & Training,Unspecified
+49302,Lease Broker,Sales & Business Development,Unspecified
+49303,Manager Physical,General / Cross-functional,Manager
+49304,Plug Wirer,Other,Unspecified
+49306,Grades 7 and 8 Teacher,Education & Training,Unspecified
+49307,4th Grade Teacher,Education & Training,Unspecified
+49308,7th Grade Teacher,Education & Training,Unspecified
+49309,8th Grade Teacher,Education & Training,Unspecified
+49310,Emotional Disabilities Teacher,Education & Training,Unspecified
+49312,Extended Day Teacher,Education & Training,Unspecified
+49313,Fifth Grade Teacher,Education & Training,Unspecified
+49314,Gericare Aide Teacher,Education & Training,Junior / Entry
+49315,Health Occupations Teacher,Education & Training,Unspecified
+49316,Magnetic Resonance Imaging Coordinator,Administration & Office Support,Unspecified
+49317,Mental Measurements Teacher,Education & Training,Unspecified
+49318,Mentally Impaired Teacher,Education & Training,Unspecified
+49319,Multi Share Program Coordinator,Administration & Office Support,Unspecified
+49320,Physically Impaired Teacher,Education & Training,Unspecified
+49321,Plant Taxonomy Teacher,Education & Training,Unspecified
+49322,Food and Beverage Cashier,Sales & Business Development,Unspecified
+49323,Header Boss,Other,Unspecified
+49324,Plasterer Maintenance,Manufacturing & Skilled Trades,Unspecified
+49325,Pricing Strategist,General / Cross-functional,Unspecified
+49326,Aco Coordinator,Administration & Office Support,Unspecified
+49327,Asbestos Coverer,Other,Unspecified
+49328,Borough Coordinator,Administration & Office Support,Unspecified
+49329,Cis Coordinator,Administration & Office Support,Unspecified
+49330,Contestant Coordinator,Administration & Office Support,Unspecified
+49331,Esthetician/Spa Coordinator,Administration & Office Support,Unspecified
+49332,Fieldwork Coordinator,Administration & Office Support,Unspecified
+49333,Gsa Coordinator,Administration & Office Support,Unspecified
+49334,Intermission Coordinator,Administration & Office Support,Unspecified
+49335,Iso Coordinator,Administration & Office Support,Unspecified
+49336,Leaf Coverer,Other,Unspecified
+49337,Lookback Coordinator,Administration & Office Support,Unspecified
+49338,Mechanical Design Engineer Products,Engineering (Non-Software),Mid
+49339,Mixer Dry Food Products,Other,Unspecified
+49341,Offensive Coordinator,Administration & Office Support,Unspecified
+49342,Ppap Coordinator,Administration & Office Support,Unspecified
+49343,Ur Coordinator,Administration & Office Support,Unspecified
+49344,Bias Machine Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+49345,Brazing Machine Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+49346,Impregnator and Drier Helper,Manufacturing & Skilled Trades,Junior / Entry
+49347,Seismic Prospecting Observer Helper,"Hospitality, Food & Travel",Junior / Entry
+49348,Associate Entertainment Editor,Design & Creative,Junior / Entry
+49349,Bus Driver School,Operations & Supply Chain,Unspecified
+49350,Assayer Helper,Manufacturing & Skilled Trades,Junior / Entry
+49351,Bottler Helper,Manufacturing & Skilled Trades,Junior / Entry
+49352,Brewer Helper,Manufacturing & Skilled Trades,Junior / Entry
+49353,Buttermaker Helper,Manufacturing & Skilled Trades,Junior / Entry
+49355,Edge Stainer Machine,Manufacturing & Skilled Trades,Unspecified
+49356,Electroplater Helper,Manufacturing & Skilled Trades,Junior / Entry
+49358,Ginner Helper,Manufacturing & Skilled Trades,Junior / Entry
+49359,Impregnating Helper,Manufacturing & Skilled Trades,Junior / Entry
+49360,Lithographer Helper,Manufacturing & Skilled Trades,Junior / Entry
+49361,Magnetic Resonance Imaging Director,General / Cross-functional,Director
+49362,Medical Assisting Program Director,Healthcare & Medical,Director
+49363,Memory Care Program Director,General / Cross-functional,Director
+49364,Puddler Helper,Manufacturing & Skilled Trades,Junior / Entry
+49365,Pupil Personnel Services Director,General / Cross-functional,Director
+49366,Shipwright Helper,Manufacturing & Skilled Trades,Junior / Entry
+49367,Tack Picker,Operations & Supply Chain,Unspecified
+49368,3D Technologist,Healthcare & Medical,Unspecified
+49369,Echo Technologist,Healthcare & Medical,Unspecified
+49370,Fibre Technologist,Healthcare & Medical,Unspecified
+49371,Hybrid Technologist,Healthcare & Medical,Unspecified
+49372,Optometric Technologist,Healthcare & Medical,Unspecified
+49373,Case Preparer and Liner,Other,Unspecified
+49374,Choreography Director,General / Cross-functional,Director
+49376,Debate Director,General / Cross-functional,Director
+49377,Fitness/Wellness Director,"Media, Sports & Entertainment",Director
+49378,Intramural Director,General / Cross-functional,Director
+49379,Negotiations Director,General / Cross-functional,Director
+49380,Observatory Director,General / Cross-functional,Director
+49381,Pageant Director,General / Cross-functional,Director
+49384,Supervisor/Port Director,General / Cross-functional,Director
+49385,Waterfront Director,General / Cross-functional,Director
+49386,Apron Cleaner,Manufacturing & Skilled Trades,Unspecified
+49387,Basin Cleaner,Manufacturing & Skilled Trades,Unspecified
+49388,Creel Cleaner,Manufacturing & Skilled Trades,Unspecified
+49389,Signs Cleaner,Manufacturing & Skilled Trades,Unspecified
+49390,Stable Cleaner,Manufacturing & Skilled Trades,Unspecified
+49392,Lap Grinder,Manufacturing & Skilled Trades,Unspecified
+49393,Photo Finish Photographer,Design & Creative,Unspecified
+49394,Cone Machine Feeder,Manufacturing & Skilled Trades,Unspecified
+49395,Director of Outpatient Services,Healthcare & Medical,VP / Head
+49396,Director of Volunteer Services,Other,VP / Head
+49397,Baggage Porter Head,"Hospitality, Food & Travel",Unspecified
+49398,4 H Youth Development Specialist,General / Cross-functional,Mid
+49399,Older Adult Social Work Specialist,General / Cross-functional,Mid
+49400,Scrum Coach,Education & Training,Unspecified
+49401,X Ray Control Equipment Repairer,Healthcare & Medical,Unspecified
+49402,Turn Down Man,Manufacturing & Skilled Trades,Unspecified
+49403,Music Industry Intern,General / Cross-functional,Junior / Entry
+49404,Rotary Surface Grinder,Manufacturing & Skilled Trades,Unspecified
+49406,Automat Car Attendant,Other,Unspecified
+49407,Flux Tube Attendant,Other,Unspecified
+49409,Mini Bar Attendant,Other,Unspecified
+49413,Salad Counter Attendant,Operations & Supply Chain,Unspecified
+49415,Tavern Car Attendant,Other,Unspecified
+49416,Skilled Nursing Facility Counselor,Healthcare & Medical,Unspecified
+49418,Child Care Attendant School,Other,Unspecified
+49419,Chip Unloader,Manufacturing & Skilled Trades,Unspecified
+49420,Pipe Fitter Marine,Manufacturing & Skilled Trades,Unspecified
+49421,Animal Pathologist,Other,Unspecified
+49422,Associate Pathologist,General / Cross-functional,Junior / Entry
+49423,Auditor Tax,Finance & Accounting,Unspecified
+49424,Chemical Pathologist,Other,Unspecified
+49426,Curtain Stitcher,Manufacturing & Skilled Trades,Unspecified
+49427,Dial Printer,Other,Unspecified
+49428,Footwear Sales Leader,Sales & Business Development,Unspecified
+49429,Forensic Pathologist,Other,Unspecified
+49430,Forest Pathologist,Other,Unspecified
+49432,Litigation Paralegal,Legal,Unspecified
+49433,Medical Pathologist,Healthcare & Medical,Unspecified
+49434,Pediatric Pathologist,Healthcare & Medical,Unspecified
+49435,Photoengraving Printer,Other,Unspecified
+49437,Poultry Pathologist,Other,Unspecified
+49438,Prep Cook,"Hospitality, Food & Travel",Unspecified
+49440,Surgical Pathologist,Healthcare & Medical,Unspecified
+49442,Weatherization Crew Leader,General / Cross-functional,Unspecified
+49443,Detective Lieutenant,Other,Unspecified
+49444,Home Theater Expert,"Media, Sports & Entertainment",Unspecified
+49445,Life Skills Educator,Other,Unspecified
+49446,Senior Fund Accountant,Finance & Accounting,Senior
+49447,Open Hearth Furnace Operator Helper,Manufacturing & Skilled Trades,Junior / Entry
+49448,Patch Washer,Manufacturing & Skilled Trades,Unspecified
+49449,Event Staff,"Hospitality, Food & Travel",Senior
+49450,Identification Printing Machine Setter,Manufacturing & Skilled Trades,Unspecified
+49453,Casing Splitter,Other,Unspecified
+49454,Dehydrogenation Converter Helper,Energy & Utilities,Junior / Entry
+49455,Flake Miller Helper,Manufacturing & Skilled Trades,Junior / Entry
+49456,Flexographic Press Helper,Design & Creative,Junior / Entry
+49457,Ingredient Scaler Helper,Manufacturing & Skilled Trades,Junior / Entry
+49458,Press Smith Helper,Manufacturing & Skilled Trades,Junior / Entry
+49459,Bag Sealer,Manufacturing & Skilled Trades,Unspecified
+49460,Block Sealer,Manufacturing & Skilled Trades,Unspecified
+49461,Can Sealer,Manufacturing & Skilled Trades,Unspecified
+49462,Car Sealer,Manufacturing & Skilled Trades,Unspecified
+49463,Case Sealer,Manufacturing & Skilled Trades,Unspecified
+49464,Crystal Grower,Other,Unspecified
+49465,Drum Sealer,Manufacturing & Skilled Trades,Unspecified
+49466,Paper Sealer,Manufacturing & Skilled Trades,Unspecified
+49467,Safety Sealer,Manufacturing & Skilled Trades,Unspecified
+49468,Ornament Setter,Manufacturing & Skilled Trades,Unspecified
+49469,Tombstone Setter,Manufacturing & Skilled Trades,Unspecified
+49470,Assurance Manager Insurance,General / Cross-functional,Manager
+49475,Legal Instruments Examiner,Legal,Unspecified
+49476,Roofer Applicator,Manufacturing & Skilled Trades,Unspecified
+49477,Elementary Math Tutor,Education & Training,Unspecified
+49478,Gluing Machine Adjuster,Manufacturing & Skilled Trades,Unspecified
+49479,Transfer Car Operator Drier,Manufacturing & Skilled Trades,Unspecified
+49480,Restorative Aide,Healthcare & Medical,Junior / Entry
+49481,Harness Preparer,Other,Unspecified
+49482,Hat and Cap Sewer,Manufacturing & Skilled Trades,Unspecified
+49483,House Registry RN,Other,Unspecified
+49484,Infection Control RN,Other,Unspecified
+49485,Test Skein Winder,Other,Unspecified
+49486,Typewriter Ribbon Winder,Other,Unspecified
+49487,Eye Surgeon,Healthcare & Medical,Unspecified
+49489,Ms Access Database Developer,Software & Engineering,Mid
+49490,Ms SQL Server Developer,Software & Engineering,Mid
+49491,Patent Chemist,Science & Research,Unspecified
+49492,Sales Representative Aircraft,Sales & Business Development,Unspecified
+49493,SAP Bw BI Developer,Software & Engineering,Mid
+49494,Territory Manager General Sales,Sales & Business Development,Manager
+49496,Burial Vault Maker,Manufacturing & Skilled Trades,Unspecified
+49500,Orthodontic Band Maker,Manufacturing & Skilled Trades,Unspecified
+49502,Shake Loader,Manufacturing & Skilled Trades,Unspecified
+49503,Tanning Solution Maker,Manufacturing & Skilled Trades,Unspecified
+49504,Last Dipper,Manufacturing & Skilled Trades,Unspecified
+49505,Portable Track Crew Chief,General / Cross-functional,C-Level
+49506,Thread Pulling Machine Attendant,Manufacturing & Skilled Trades,Unspecified
+49507,Agronomy Internship,Science & Research,Junior / Entry
+49508,Inclusion Internship,Other,Junior / Entry
+49509,Loop Puller,Other,Unspecified
+49511,Dance Master,Other,Unspecified
+49512,Felt Hanger,Other,Unspecified
+49513,Correctional Supervising Cook,"Hospitality, Food & Travel",Unspecified
+49514,Tar Kettle Runner,"Hospitality, Food & Travel",Unspecified
+49516,Clay Miller,Other,Unspecified
+49517,Electrical Accessories I Assembler,Manufacturing & Skilled Trades,Unspecified
+49518,Electrical Accessories Ii Assembler,Manufacturing & Skilled Trades,Mid
+49519,Feed Miller,Other,Unspecified
+49520,Second Miller,Other,Unspecified
+49521,Belt Loop Cutter,Manufacturing & Skilled Trades,Unspecified
+49523,Workers Compensation Defense Attorney,Human Resources & Recruiting,Unspecified
+49524,Zinc Plate Cutter,Manufacturing & Skilled Trades,Unspecified
+49525,Substation Operator Automatic,Manufacturing & Skilled Trades,Unspecified
+49526,Aerial Planting and Cultivation Manager,General / Cross-functional,Manager
+49527,Concert OR Lecture Hall Manager,General / Cross-functional,Manager
+49528,Data Science and Iot Manager,General / Cross-functional,Manager
+49529,Einstein Bros Bagels Assistant Manager,General / Cross-functional,Manager
+49533,Land Leases and Rentals Manager,Construction & Real Estate,Manager
+49534,Registered Nurse Hh Case Manager,Healthcare & Medical,Manager
+49535,Shared Services and Outsourcing Manager,General / Cross-functional,Manager
+49536,Ten Pin Bowling Centre Manager,General / Cross-functional,Manager
+49537,Cake Wrapper,Manufacturing & Skilled Trades,Unspecified
+49538,Dress Fitter,Manufacturing & Skilled Trades,Unspecified
+49539,Cellophaner,Other,Unspecified
+49540,Cook Station,"Hospitality, Food & Travel",Unspecified
+49542,Pulper,Other,Unspecified
+49543,Printed Circuit Board Drafter,Design & Creative,Unspecified
+49544,Shell Molder,Manufacturing & Skilled Trades,Unspecified
+49545,Lawn Sprinkler Servicer,Other,Unspecified
+49546,Casing in Line Feeder,Manufacturing & Skilled Trades,Unspecified
+49547,Map Drafter,Design & Creative,Unspecified
+49549,First Crusher,Manufacturing & Skilled Trades,Unspecified
+49550,Glass Crusher,Manufacturing & Skilled Trades,Unspecified
+49551,Parachute Marker,Other,Unspecified
+49552,Tow Feeder,Manufacturing & Skilled Trades,Unspecified
+49553,Upper Marker,Other,Unspecified
+49555,Printed Circuit Board Panels Developer,Software & Engineering,Mid
+49556,Senior Oracle Pl SQL Developer,Software & Engineering,Senior
+49557,Back Seam Stitcher,Manufacturing & Skilled Trades,Unspecified
+49558,Box Toe Stitcher,Manufacturing & Skilled Trades,Unspecified
+49559,Automotive Warranty Administrator,General / Cross-functional,Unspecified
+49560,Cement Mason Maintenance,Manufacturing & Skilled Trades,Unspecified
+49561,SAP Basis Administrator,General / Cross-functional,Unspecified
+49562,Engraver Wood,Other,Unspecified
+49564,Manager Air,General / Cross-functional,Manager
+49565,Patient Registration Rep,Healthcare & Medical,Unspecified
+49566,Per Diem Physical Therapist,Healthcare & Medical,Unspecified
+49567,Stained Glass Window Designer,Design & Creative,Mid
+49568,Basin Tender,Manufacturing & Skilled Trades,Unspecified
+49569,Chiller Tender,Manufacturing & Skilled Trades,Unspecified
+49570,Chuck Tender,Manufacturing & Skilled Trades,Unspecified
+49571,Flaker Tender,Manufacturing & Skilled Trades,Unspecified
+49572,Flotation Tender,Manufacturing & Skilled Trades,Unspecified
+49573,Granulator Tender,Manufacturing & Skilled Trades,Unspecified
+49574,Linter Tender,Manufacturing & Skilled Trades,Unspecified
+49575,Roving OR Yarn Color Checker,Operations & Supply Chain,Unspecified
+49576,Scratcher Tender,Manufacturing & Skilled Trades,Unspecified
+49577,Spout Tender,Manufacturing & Skilled Trades,Unspecified
+49578,Watershed Tender,Manufacturing & Skilled Trades,Unspecified
+49582,Bowling Ball Finisher,Manufacturing & Skilled Trades,Unspecified
+49584,Concierge Receptionist,Customer Success & Support,Unspecified
+49585,Felt Strip Finisher,Manufacturing & Skilled Trades,Unspecified
+49586,Nurses' Association Counselor,Healthcare & Medical,Unspecified
+49588,Veterans Rehabilitation Counselor,Healthcare & Medical,Unspecified
+49589,Coffee Host,"Hospitality, Food & Travel",Unspecified
+49591,Spa Host,"Hospitality, Food & Travel",Unspecified
+49592,Steward/Stewardess Room,Other,Unspecified
+49593,French Weaver,Manufacturing & Skilled Trades,Unspecified
+49594,Lace Weaver,Manufacturing & Skilled Trades,Unspecified
+49595,Opinion Polls Survey Worker,General / Cross-functional,Unspecified
+49597,Railway Traction Line Worker,Energy & Utilities,Unspecified
+49598,Citrix Lead,General / Cross-functional,Manager
+49599,Supervisor Electric,General / Cross-functional,Manager
+49600,Almond Blancher Hand,Manufacturing & Skilled Trades,Unspecified
+49601,Bedspread Cutter Hand,Manufacturing & Skilled Trades,Unspecified
+49602,Boiling House Hand,Manufacturing & Skilled Trades,Unspecified
+49603,Kiss Setter Hand,Manufacturing & Skilled Trades,Unspecified
+49605,Physics Department Chair,Other,Unspecified
+49606,Broadband Installer,Manufacturing & Skilled Trades,Unspecified
+49607,Gripper Installer,Manufacturing & Skilled Trades,Unspecified
+49608,Permastone Installer,Manufacturing & Skilled Trades,Unspecified
+49609,Ticker Installer,Manufacturing & Skilled Trades,Unspecified
+49610,Chief of Hospital Medicine,Healthcare & Medical,C-Level
+49611,Ferry Captain,Other,Unspecified
+49612,Stove Polisher,Manufacturing & Skilled Trades,Unspecified
+49613,Tooth Polisher,Manufacturing & Skilled Trades,Unspecified
+49614,Contact Lens Edge Buffer,Manufacturing & Skilled Trades,Unspecified
+49615,Optical Effects Layout Person,Other,Unspecified
+49616,Director Life Insurance,Other,Director
+49617,Insole Buffer,Manufacturing & Skilled Trades,Unspecified
+49618,Insole Coverer,Other,Unspecified
+49619,Manager Life Insurance,Other,Manager
+49620,Work Ticket Distributor,Other,Unspecified
+49621,Catering Server,"Hospitality, Food & Travel",Unspecified
+49622,Public Relations Player,Marketing & Growth,Unspecified
+49623,Bulk Sealer,Manufacturing & Skilled Trades,Unspecified
+49624,Bone Char Puller,Other,Unspecified
+49626,Cheese Packer,Operations & Supply Chain,Unspecified
+49628,Bail Bond Agent,General / Cross-functional,Unspecified
+49629,Bail Bonding Agent,General / Cross-functional,Unspecified
+49630,Housekeeper Child Care,"Hospitality, Food & Travel",Unspecified
+49632,Lockstitch Front Edge Tape Sewer,Manufacturing & Skilled Trades,Unspecified
+49633,Manager Art,General / Cross-functional,Manager
+49634,Offal Trimmer,Manufacturing & Skilled Trades,Unspecified
+49636,Composition Tile Layer,Other,Unspecified
+49638,Pickle Cutter,Manufacturing & Skilled Trades,Unspecified
+49639,Scallop Cutter,Manufacturing & Skilled Trades,Unspecified
+49640,Sliver Cutter,Manufacturing & Skilled Trades,Unspecified
+49641,Staple Cutter,Manufacturing & Skilled Trades,Unspecified
+49642,Facilities Flight Check Pilot,Construction & Real Estate,Unspecified
+49643,Outsole Scheduler,Operations & Supply Chain,Unspecified
+49644,Ramp Boss,Other,Unspecified
+49645,Sack Filler,Manufacturing & Skilled Trades,Unspecified
+49646,School Cafeteria Head Cook,"Hospitality, Food & Travel",Unspecified
+49647,University Dean,Education & Training,Director
+49648,Sample Display Preparer,Other,Unspecified
+49649,Correctional Officer Sergeant,General / Cross-functional,Unspecified
+49650,Natural Sciences Department Chair,Other,Unspecified
+49651,Second Watch Sergeant,Other,Unspecified
+49652,Sheriff Sergeant,Other,Unspecified
+49653,Health Sciences Dean,Education & Training,Director
+49654,Supervising Broker,Sales & Business Development,Unspecified
+49655,Electric Golf Cart Repairer,Manufacturing & Skilled Trades,Unspecified
+49656,Gas Golf Cart Repairer,Energy & Utilities,Unspecified
+49657,Machine Slat Basket Maker,Manufacturing & Skilled Trades,Unspecified
+49658,Party Plan Sales Unit Sales Leader,Sales & Business Development,Unspecified
+49659,Slat Basket Top Maker,Manufacturing & Skilled Trades,Unspecified
+49663,Beauty Culturist Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+49666,Boarding Kennel OR Cattery Operator,Manufacturing & Skilled Trades,Unspecified
+49668,Databases Computer Consultant,General / Cross-functional,Mid
+49669,Databases Software Consultant,Software & Engineering,Mid
+49671,Felt Hat Mellowing Machine Operator,Manufacturing & Skilled Trades,Unspecified
+49672,Fender Mechanic Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+49674,Golf Tournament Consultant,General / Cross-functional,Mid
+49677,Name Plate Stamping Machine Operator,Manufacturing & Skilled Trades,Unspecified
+49683,Peoplesoft Hcm Consultant,General / Cross-functional,Mid
+49684,Plate Grainer Apprentice,Manufacturing & Skilled Trades,Junior / Entry
+49685,Pockets and Pieces Necktie Operator,Manufacturing & Skilled Trades,Unspecified
+49686,Sec Reporting Consultant,General / Cross-functional,Mid
+49687,Sephora Operations Consultant,Operations & Supply Chain,Mid
+49688,Sephora Product Consultant,General / Cross-functional,Mid
+49689,Teletype OR Varitype Keyboard Operator,Manufacturing & Skilled Trades,Unspecified
+49691,Exercise Physiology Professor,Education & Training,Unspecified
+49697,Fiscal Accountant,Finance & Accounting,Unspecified
+49698,Sheep Farmer,Other,Unspecified
+49699,Anode Builder,Manufacturing & Skilled Trades,Unspecified
+49700,Coil Connector Repairer,Manufacturing & Skilled Trades,Unspecified
+49701,Crate Builder,Manufacturing & Skilled Trades,Unspecified
+49703,Lamination Builder,Manufacturing & Skilled Trades,Unspecified
+49704,Tab Builder,Manufacturing & Skilled Trades,Unspecified
+49705,Cheese Blender,Manufacturing & Skilled Trades,Unspecified
+49706,Field Artillery Fire Control Man,Manufacturing & Skilled Trades,Unspecified
+49707,Trial Mgr,Other,Unspecified
+49708,Cloth Shrinking Tester,Manufacturing & Skilled Trades,Unspecified
+49709,Mercury Cracking Tester,Manufacturing & Skilled Trades,Unspecified
+49710,Semiconductor Packages Tester,Manufacturing & Skilled Trades,Unspecified
+49711,General Manager Road Production,Executive & General Management,VP / Head
+49712,Director Digital,General / Cross-functional,Director
+49713,Manager Digital,General / Cross-functional,Manager
+49714,Microfilm Processor,Other,Unspecified
+49715,Research & Insights Executive,Science & Research,Unspecified
+49716,Research and Insights Executive,Science & Research,Unspecified
+49719,Senior Climate Advisor,General / Cross-functional,Senior
+49723,Greens Laborer,Manufacturing & Skilled Trades,Unspecified
+49724,Meeting Planner,Operations & Supply Chain,Unspecified
+49725,Photoengraving Finisher,Manufacturing & Skilled Trades,Unspecified
+49726,Bakery Decorator,"Hospitality, Food & Travel",Unspecified
+49727,Highway Maintainer,Other,Unspecified
+49729,Lard Mixer,Manufacturing & Skilled Trades,Unspecified
+49730,Prototype Sewer,Manufacturing & Skilled Trades,Unspecified
+49731,Solvent Mixer,Manufacturing & Skilled Trades,Unspecified
+49732,Director Global Market Research,Science & Research,Director
+49733,Director of Market Research,Science & Research,VP / Head
+49734,Cold Meat Chef,"Hospitality, Food & Travel",Unspecified
+49735,EMT Dispatcher,Healthcare & Medical,Unspecified
+49736,Interior Systems Carpenter,Manufacturing & Skilled Trades,Unspecified
+49737,Supervisor Sign Shop,Other,Manager
+49738,Geography Faculty Member,Other,Unspecified
+49739,Sociology Faculty Member,Other,Unspecified
+49742,Commercial Real Estate Underwriter,Finance & Accounting,Unspecified
+49744,Surveying OR Spatial Science Technician,Manufacturing & Skilled Trades,Unspecified
+49745,Drapery Estimator,Engineering (Non-Software),Unspecified
+49746,Independent Contractor,"Media, Sports & Entertainment",Unspecified
+49747,Painting Contractor,"Media, Sports & Entertainment",Unspecified
+49748,Church Secretary,Administration & Office Support,Unspecified
+49749,Deaf and Hard of Hearing Teacher,Education & Training,Unspecified
+49750,Director of Emergency Nursing,Healthcare & Medical,VP / Head
+49752,Low Vision Therapist,Healthcare & Medical,Unspecified
+49753,School Based Therapist,Healthcare & Medical,Unspecified
+49755,Chief Librarian Extension Department,Education & Training,C-Level
+49759,Lower School Spanish Teacher,Education & Training,Unspecified
+49761,Sed Middle School Teacher,Education & Training,Unspecified
+49764,Asbestos Surveyor,Engineering (Non-Software),Unspecified
+49765,Dredge Pumper,Other,Unspecified
+49766,Hose Wrapper,Manufacturing & Skilled Trades,Unspecified
+49767,Produce Wrapper,Manufacturing & Skilled Trades,Unspecified
+49768,Abe Teacher,Education & Training,Unspecified
+49769,Algology Teacher,Education & Training,Unspecified
+49770,Americanization Teacher,Education & Training,Unspecified
+49771,Apiculture Teacher,Education & Training,Unspecified
+49772,Autistic Teacher,Education & Training,Unspecified
+49773,Biometry Teacher,Education & Training,Unspecified
+49774,Bowling Ball Marker,Other,Unspecified
+49775,Cda Teacher,Education & Training,Unspecified
+49776,Cello Teacher,Education & Training,Unspecified
+49777,Cigar Binder,Manufacturing & Skilled Trades,Unspecified
+49778,Cryptoanalysis Teacher,Education & Training,Unspecified
+49779,Cryptography Teacher,Education & Training,Unspecified
+49780,Crystallography Teacher,Education & Training,Unspecified
+49781,Cte Teacher,Education & Training,Unspecified
+49782,Dressmaking Teacher,Education & Training,Unspecified
+49783,Drums Teacher,Education & Training,Unspecified
+49784,Dyslexia Teacher,Education & Training,Unspecified
+49785,Ec Teacher,Education & Training,Unspecified
+49786,El Teacher,Education & Training,Unspecified
+49787,Ela Teacher,Education & Training,Unspecified
+49788,Elocution Teacher,Education & Training,Unspecified
+49789,Ese Teacher,Education & Training,Unspecified
+49790,Etiology Teacher,Education & Training,Unspecified
+49791,Facs Teacher,Education & Training,Unspecified
+49792,Farm Implement Engine Mechanic,Agriculture & Environment,Unspecified
+49793,Fmd Teacher,Education & Training,Unspecified
+49794,Forming Machine Upkeep Mechanic,Manufacturing & Skilled Trades,Unspecified
+49795,Geochemistry Teacher,Science & Research,Unspecified
+49796,Geodesy Teacher,Education & Training,Unspecified
+49797,Geomorphology Teacher,Education & Training,Unspecified
+49798,Geopolitics Teacher,Education & Training,Unspecified
+49799,Gymnasium Teacher,Education & Training,Unspecified
+49801,Headstart Teacher,Education & Training,Unspecified
+49802,Helminthology Teacher,Education & Training,Unspecified
+49803,Herpetology Teacher,Education & Training,Unspecified
+49804,Homebound Teacher,Education & Training,Unspecified
+49805,Horticulture/Floriculture Teacher,Education & Training,Unspecified
+49806,Hydrography Teacher,Education & Training,Unspecified
+49807,Hydrometeorology Teacher,Science & Research,Unspecified
+49808,Ichthyology Teacher,Education & Training,Unspecified
+49809,Kinder Teacher,Education & Training,Unspecified
+49810,Lbd Teacher,Education & Training,Unspecified
+49811,Ld Teacher,Education & Training,Unspecified
+49812,Limnology Teacher,Education & Training,Unspecified
+49813,Mammalogy Teacher,Education & Training,Unspecified
+49814,Metallography Teacher,Education & Training,Unspecified
+49815,Metaphysics Teacher,Education & Training,Unspecified
+49816,Mh Teacher,Education & Training,Unspecified
+49817,Mmi Teacher,Education & Training,Unspecified
+49818,Momd Teacher,Education & Training,Unspecified
+49819,Morphology Teacher,Education & Training,Unspecified
+49820,Mr Teacher,Education & Training,Unspecified
+49821,Mycology Teacher,Education & Training,Unspecified
+49822,Nematology Teacher,Education & Training,Unspecified
+49823,Nsh Teacher,Education & Training,Unspecified
+49824,Oceanology Teacher,Education & Training,Unspecified
+49825,Opticianry Teacher,Education & Training,Unspecified
+49826,Orderlies Teacher,Education & Training,Unspecified
+49827,Ornithology Teacher,Education & Training,Unspecified
+49828,Osteology Teacher,Education & Training,Unspecified
+49829,Paleontology Teacher,Education & Training,Unspecified
+49830,Parasitology Teacher,Education & Training,Unspecified
+49831,Petrography Teacher,Education & Training,Unspecified
+49832,Petrology Teacher,Education & Training,Unspecified
+49833,Pharmacognosy Teacher,Education & Training,Unspecified
+49834,Phytopathology Teacher,Education & Training,Unspecified
+49835,Pomology Teacher,Education & Training,Unspecified
+49836,Ppa Teacher,Education & Training,Unspecified
+49837,Prekindergarten Teacher,Education & Training,Unspecified
+49838,Protozoology Teacher,Science & Research,Unspecified
+49839,Roentgenology Teacher,Education & Training,Unspecified
+49840,Sdc Teacher,Education & Training,Unspecified
+49841,Sebd Teacher,Education & Training,Unspecified
+49842,Sericulture Teacher,Education & Training,Unspecified
+49843,Sped Teacher,Education & Training,Unspecified
+49844,Stewardesses Teacher,Education & Training,Unspecified
+49845,Stratigraphy Teacher,Education & Training,Unspecified
+49846,Strings Teacher,Education & Training,Unspecified
+49847,Swahili Teacher,Education & Training,Unspecified
+49848,Tailoring Teacher,Education & Training,Unspecified
+49849,Tmh Teacher,Education & Training,Unspecified
+49850,Tmr Teacher,Education & Training,Unspecified
+49851,Ve Teacher,Education & Training,Unspecified
+49852,Virology Teacher,Education & Training,Unspecified
+49853,Viticulture Teacher,Education & Training,Unspecified
+49854,Vpk Teacher,Education & Training,Unspecified
+49855,Watchmaking Teacher,Education & Training,Unspecified
+49856,Woodwinds Teacher,Education & Training,Unspecified
+49857,Proof Coin Collector,Other,Unspecified
+49860,Cleaner and Dyer,Manufacturing & Skilled Trades,Unspecified
+49862,Dough Molder,Manufacturing & Skilled Trades,Unspecified
+49863,Inspector Production Plastic Parts,Other,Unspecified
+49864,Rotary Drum Dyer,Manufacturing & Skilled Trades,Unspecified
+49866,Consumer Electronics Merchandiser,Sales & Business Development,Unspecified
+49867,Deicer Element Winder Machine,Manufacturing & Skilled Trades,Unspecified
+49869,Direct Service Provider,Other,Unspecified
+49870,Hat Band Attacher,Other,Unspecified
+49876,Rug Frame Mounter,Other,Unspecified
+49877,Wood Heel Attacher,Other,Unspecified
+49878,Director Medical Affairs,Healthcare & Medical,Director
+49879,Investigator Internal Affairs,Other,Junior / Entry
+49880,Manager Environmental Affairs,Agriculture & Environment,Manager
+49881,Manager Medical Affairs,Healthcare & Medical,Manager
+49882,Sales Agent Marine Insurance,Sales & Business Development,Unspecified
+49883,VP Legal Affairs,Legal,VP / Head
+49884,Ammunition Assembly Laborer,Manufacturing & Skilled Trades,Unspecified
+49885,Aquatic Life Laborer,Manufacturing & Skilled Trades,Unspecified
+49886,Environmental Restoration Planner,Operations & Supply Chain,Unspecified
+49887,Open Hearth Laborer,Manufacturing & Skilled Trades,Unspecified
+49888,Public Works Laborer,Manufacturing & Skilled Trades,Unspecified
+49889,Beer Coil Cleaner,Manufacturing & Skilled Trades,Unspecified
+49890,Burrer Machine,Manufacturing & Skilled Trades,Unspecified
+49891,Deburrer Machine,Manufacturing & Skilled Trades,Unspecified
+49892,Grainer Machine,Manufacturing & Skilled Trades,Unspecified
+49893,International Broadcast Music Librarian,Education & Training,Junior / Entry
+49894,Pouncer Machine,Manufacturing & Skilled Trades,Unspecified
+49896,Stemmer Machine,Manufacturing & Skilled Trades,Unspecified
+49898,Gastroenterology Physician,Healthcare & Medical,Unspecified
+49900,Urology Physician,Healthcare & Medical,Unspecified
+49901,Institution Librarian,Education & Training,Unspecified
+49903,Call OR Contact Centre Coach,Education & Training,Unspecified
+49904,Broomcorn Sorter,Manufacturing & Skilled Trades,Unspecified
+49905,Asphalt Patcher,Other,Unspecified
+49906,Bag Patcher,Other,Unspecified
+49907,Bottle Blower,Other,Unspecified
+49908,Can Patcher,Other,Unspecified
+49909,Casing Blower,Other,Unspecified
+49910,Cement Patcher,Other,Unspecified
+49911,Cigar Patcher,Other,Unspecified
+49912,Cold Patcher,Other,Unspecified
+49913,Cross Country Coach,Education & Training,Unspecified
+49914,Door Patcher,Other,Unspecified
+49915,Finish Patcher,Other,Unspecified
+49916,Hand Patcher,Manufacturing & Skilled Trades,Unspecified
+49917,Hot Patcher,Other,Unspecified
+49918,Leather Patcher,Other,Unspecified
+49919,Piece Dyer,Manufacturing & Skilled Trades,Unspecified
+49920,Road Patcher,Other,Unspecified
+49921,Stock Patcher,Other,Unspecified
+49922,Veneer Patcher,Other,Unspecified
+49923,Dining Room Host,"Hospitality, Food & Travel",Unspecified
