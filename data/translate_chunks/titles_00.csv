@@ -1,0 +1,2001 @@
+rank,title
+1,Teacher
+2,Manager
+3,Operator
+10,Supervisor
+12,Specialist
+14,Technician
+19,Engineer
+28,Delivery Manager
+31,Director
+32,Worker
+37,Assistant
+39,Analyst
+40,Clerk
+43,Coordinator
+47,Service Designer
+48,Inspector
+50,Consultant
+52,Administrative Coordinator
+55,Officer
+58,Channel Manager
+59,Developer
+60,Mechanic
+70,Analytics Engineer
+78,Associate
+79,Design Lead
+82,Helper
+86,Representative
+89,Instructor
+95,Attendant
+100,Carbon Analyst
+106,Cloud Engineer
+108,Platform Engineer
+112,Agent
+113,Sales
+115,Administrator
+119,Designer
+122,Partnerships Manager
+124,BI Developer
+132,Freelance Consultant
+133,Brand Designer
+136,Setter
+139,Tech
+142,Assistant Manager
+145,Services
+147,Operator Technician
+150,Engineer Specialist
+151,Incident Response Analyst
+155,Engineer Technician
+156,Motion Designer
+158,Clerk Manager
+159,Intern
+161,Counselor
+162,DEVOPS Engineer
+164,Advisor
+169,Operator Engineer
+171,Technologist
+172,Chief
+175,Assistant Operator
+177,Assistant Technician
+181,Renewals Manager
+185,Professional
+188,Executive
+189,Sales Specialist
+190,Assistant Engineer
+193,Marketing
+194,Clerk Specialist
+198,Leader
+199,Clerk Operator
+200,Examiner
+201,Therapist
+202,Pharmacovigilance Specialist
+207,Clerk Supervisor
+208,Associate Manager
+211,Teacher Specialist
+212,Inspector Technician
+214,Driver Manager
+215,Development
+222,Checker
+223,Coach
+227,Laborer
+228,Scientist
+232,Management
+233,Head
+234,Engineer Assistant
+235,Machine Assistant
+236,Technician Assistant
+240,Care
+241,Employer Branding Specialist
+242,Operations
+245,Assistant Director
+255,Assistant Analyst
+257,Associate Technician
+259,Clerk Analyst
+263,Loader
+264,Onboarding Specialist
+266,Maintenance
+272,Marketplace Manager
+274,RN Manager
+282,Member
+290,Associate Engineer
+292,Planner
+293,Nurse Technician
+296,Health
+299,Nurse Supervisor
+305,Plant
+308,Prompt Engineer
+309,Washer
+310,Content Strategist
+313,Helper Coordinator
+314,Applied Scientist
+322,Driver Engineer
+326,Trainer
+329,Sales Teacher
+337,Adjuster
+342,Helper Teacher
+345,Sales Inspector
+353,Processor
+355,Control Specialist
+356,Person
+357,Developer Analyst
+369,Room
+371,Department
+373,Consultant Teacher
+384,Winder
+387,Installer Technician
+403,Hand Worker
+404,Support
+407,Lead Operator
+409,Plant Specialist
+416,Lead Technician
+424,Filler
+425,Education
+427,Localization Specialist
+433,Control
+435,Tender Coordinator
+438,Tester Operator
+442,Inspector and Clerk
+449,Equipment
+466,Business Supervisor
+469,Executive Manager
+473,Marketing Engineer
+479,Handler
+480,Clinical Specialist
+481,Chief Operator
+482,Counselor Manager
+484,Puller
+488,Grc Analyst
+489,Lead Engineer
+490,Production
+492,Identity and Access Management Engineer
+493,Associate Director
+494,Management Technician
+497,Systems
+513,Automatic
+517,Press Supervisor
+520,Manager Machine
+535,Associate Teacher
+536,Devsecops Engineer
+537,Kubernetes Engineer
+538,LLM Engineer
+539,MLOPS Engineer
+547,Layer
+552,Polisher
+570,Telemedicine Coordinator
+573,Field Specialist
+575,Research
+580,Internship
+586,Roller
+594,Project Specialist
+613,Investigator
+620,Management Engineer
+624,Nurse Coordinator
+628,Engineering
+629,OR Manager
+632,Last Mile Operations Manager
+666,Cleaner Operator
+671,Pilot
+673,Agile Coach
+688,Apprentice Technician
+736,Care Analyst
+737,Assistant Clinical Nurse Manager
+741,Program Technician
+743,Health Analyst
+744,Car Supervisor
+775,Program Supervisor
+787,Education Technician
+789,Fire Manager
+791,Metal
+792,Hand Developer
+817,School Supervisor
+829,Medical Director
+836,Education Supervisor
+839,Line
+855,Health Coordinator
+871,Press Hand Supervisor
+875,Account Specialist
+886,Home Specialist
+887,Truck Supervisor
+890,Crypto Analyst
+893,ESG Analyst
+894,KYC Analyst
+902,Control Director
+904,Cook Manager
+907,Equipment Analyst
+908,Operations Clerk
+924,Program Engineer
+925,Department Specialist
+926,Collector
+928,Business Analyst Project Manager
+942,Printer
+943,Health Teacher
+945,Plant Clerk
+953,Director Machine
+954,Clinical Field Specialist
+956,Field Sales Specialist
+959,Support Analyst
+960,Account Technician
+968,Expert
+969,Parts Manager
+970,Business Assistant
+975,Medical Consultant
+976,Counselor Supervisor
+977,Development Assistant
+994,Design Supervisor
+997,Servicer
+999,Field Worker
+1022,Support Clerk
+1029,Management Analyst
+1030,Lead Teacher
+1031,Engine Manager
+1063,Customer Specialist
+1078,Equipment Coordinator
+1083,Clinical Analyst
+1086,Office Engineer
+1091,Assembly
+1094,Mechanical Manager
+1103,Finisher Operator
+1104,Chief Clerk
+1116,Science Manager
+1117,Foreman
+1120,Support Director
+1122,Lead Consultant
+1125,Retail Specialist
+1127,Maintenance Analyst
+1137,Senior Associate
+1138,Service Associate
+1139,Teacher Associate
+1143,RN Teacher
+1147,Operations Consultant
+1148,Lead Inspector
+1156,Head Worker
+1164,Security
+1174,Office
+1185,Feeder Operator
+1197,Account Engineer
+1201,Product Technician
+1202,Maintenance Clerk
+1203,Maintenance Assistant
+1210,Machine Helper
+1211,Operator Helper
+1213,Builder Operator
+1214,Plant Health Care Technician
+1215,Insurance Specialist
+1218,Clinical Coordinator
+1221,Senior Technical Program Manager
+1230,Laborer Operator
+1242,Production Analyst
+1243,School
+1245,Case Manager
+1248,Liaison
+1255,Professional Engineer
+1256,Aircraft Manager
+1265,Marketing Developer
+1269,Health Care Analyst
+1278,Maintenance Director
+1279,Clinical Data Management Manager
+1280,Senior Clinical Data Manager
+1286,Drier
+1303,Helper Driver
+1304,Mechanic Driver
+1306,Sales Driver
+1314,Production Clerk
+1331,Lab Manager
+1332,Project Analyst
+1333,Tool Specialist
+1356,Field Clerk
+1357,Commercial Technician
+1359,Field Assistant
+1366,Center
+1368,Practitioner
+1377,Information Operator
+1380,Associate Medical Director
+1391,Operations Developer
+1396,Research Clerk
+1407,Clinical Consultant
+1419,UX Researcher
+1423,Trimmer Operator
+1440,Lead Mechanic
+1441,Quality Worker
+1451,Field Coordinator
+1458,Field Director
+1474,No-Code Developer
+1487,Clinical Account Specialist
+1488,Sales Account Specialist
+1493,Cleaner Assistant
+1494,Farm Specialist
+1502,Tool Supervisor
+1513,Anti-Money Laundering Analyst
+1522,Pilot Manager
+1525,General Operator
+1527,Software Clerk
+1528,Farm
+1532,Master
+1548,Mechanic Helper
+1549,Engineering Clerk
+1551,Plant Mechanic
+1553,General Technician
+1555,Program Analyst
+1566,Design
+1570,Financial Engineer
+1584,Family Manager
+1587,Sprayer
+1589,Development Mechanic
+1605,Marker
+1610,Therapy Manager
+1612,Fire Supervisor
+1622,Senior Safety Support Manager
+1625,Business Development Assistant
+1633,Repair Specialist
+1635,Loader Operator
+1640,Systems Mechanic
+1645,Program Clerk
+1646,Engineering Director
+1648,Program Assistant
+1649,Tool
+1650,Shop
+1652,Loader Technician
+1653,Security Assistant
+1669,Commercial Engineer
+1670,Management Developer
+1673,Auto Parts Manager
+1678,Relations
+1694,Technical Analyst
+1695,Java Manager
+1696,Parts Specialist
+1701,Data Center Project Manager
+1713,Mill
+1720,Repair Operator
+1723,Customer Account Specialist
+1731,Customer Sales Specialist
+1734,Room Inspector
+1748,Line Analyst
+1749,Shop Technician
+1754,School Clerk
+1764,Field Inspector
+1791,Project Consultant
+1795,Electrician Manager
+1801,Sales Attendant
+1808,Chair
+1813,Cook Supervisor
+1815,Communications
+1834,Keeper
+1837,Marketing Representative
+1844,Repair Supervisor
+1845,Water Supervisor
+1864,Project Inspector
+1865,Quality
+1866,Retail Account Specialist
+1869,Retail Sales Specialist
+1873,Parts Technician
+1878,Dental Manager
+1882,Processing
+1890,Medical Instructor
+1892,Medical Associate
+1896,Production Officer
+1901,Emergency Manager
+1904,Material Manager
+1905,Sheet Manager
+1919,Processing Specialist
+1922,General Engineer
+1923,Police Manager
+1926,Product Owner
+1929,Retail Worker
+1934,Chief Medical Director
+1935,Design Analyst
+1937,Care Associate
+1938,Data Assistant
+1943,Construction Specialist
+1953,Sorter Operator
+1956,Medical Attendant
+1969,Quality Assistant
+1973,Health Associate
+1981,Safety
+1990,Media Operator
+1993,Pipe Supervisor
+1999,Machine Operator Helper
+2001,Line Director
+2005,Laboratory Engineer
+2006,Manufacturing Operator
+2008,Communications Supervisor
+2012,Insurance Account Specialist
+2014,Insurance Sales Specialist
+2015,Lead Driver
+2018,Media Technician
+2026,Office Director
+2027,RN Clinical Coordinator
+2037,Head Inspector
+2040,Entry Manager
+2041,Operations Representative
+2050,Scientist Engineer
+2054,Information Support Project Manager
+2058,Project Officer
+2060,Production Support Analyst
+2062,Loader Engineer
+2071,Lead Case Manager
+2075,RN Case Manager
+2077,Steel Manager
+2078,Program Consultant
+2082,Design Assistant
+2095,Recruiter Manager
+2101,Metal Inspector
+2102,Consultant Nurse
+2103,Supervisor Nurse
+2106,Executive Director
+2114,Media Supervisor
+2124,Electric Operator
+2125,Floor Specialist
+2126,Associate Field Service Engineer
+2128,Senior Field Service Engineer
+2137,Delivery Specialist
+2143,Printing Manager
+2145,Technical Sales Support Specialist
+2146,Cutter Hand
+2158,Project Developer
+2166,Die Technician
+2178,Cashier Manager
+2179,Case Specialist
+2186,Department Clerk
+2187,Field Mechanic
+2188,Department Assistant
+2190,Design Coordinator
+2193,Operations Associate
+2198,Equipment Driver
+2200,Project Management Analyst
+2206,Filler Operator
+2217,Account Coordinator
+2218,Parts
+2220,Food Clerk
+2221,Account Director
+2223,Plastic Manager
+2225,Surgical Manager
+2234,Research Mechanic
+2235,Support Representative
+2238,Home Coordinator
+2246,Safety Analyst
+2251,Technical Consultant
+2252,Floor Technician
+2256,Mobile Manager
+2257,Plant Associate
+2260,Tire Manager
+2262,Insurance
+2267,Motor Operator
+2273,Tool Worker
+2274,Administrative Specialist
+2275,Delivery Technician
+2291,Case Operator
+2292,Field Operations Farm Manager
+2297,Oracle Manager
+2298,Solutions Manager
+2306,Business Associate
+2325,Equipment Associate
+2326,Clinical Operations Consultant
+2335,Case Technician
+2336,Driver Helper
+2339,Solar Manager
+2354,Technical Inspector
+2355,Unit Operator
+2357,Senior Sales Operations Analyst
+2360,Plant Attendant
+2379,Net Manager
+2381,Data Consultant
+2382,Unit Technician
+2383,Delivery Supervisor
+2396,Senior Design Engineering Specialist
+2399,Executive Consultant
+2401,Safety Assistant
+2404,House
+2425,Customer Assistant
+2428,Case Supervisor
+2431,Support Associate
+2436,General Worker
+2438,Life Manager
+2440,Office Machine Service Supervisor
+2442,Administrative Technician
+2453,Client Specialist
+2456,Process
+2457,Fabricator
+2460,Staff Engineer
+2462,Unit Supervisor
+2485,Head Mechanic
+2494,Digital Marketing Program Manager
+2495,Digital Marketing Project Manager
+2499,Computer Analyst Supervisor
+2501,Mold Operator
+2507,Health Program Analyst
+2509,Program Management Analyst
+2510,Program Project Analyst
+2556,Service Worker Helper
+2562,Erector
+2565,Cutter Helper
+2566,Account Consultant
+2572,Gas Analyst
+2578,Maintenance Representative
+2585,Management Associate
+2594,OR Assistant
+2601,Physical Therapy Manager
+2613,Former
+2616,Station Supervisor
+2618,Retail
+2630,Repair
+2637,Crane Manager
+2658,Compliance Technician
+2660,Clinical Instructor
+2662,Clinical Associate
+2663,Weigher
+2674,Program Support Clerk
+2675,Advisor Consultant
+2680,Financial Assistant
+2690,Lead Installer
+2691,Repairer Helper
+2698,Special Education Supervisor
+2704,Web Worker
+2712,Product Coordinator
+2716,Building Specialist
+2717,Family Specialist
+2725,Executive Officer
+2727,Retail Coordinator
+2729,Home Health Clinical Supervisor
+2732,Retail Director
+2733,Assistant Auto Center Manager
+2734,Auto Care Center Manager
+2736,Boat Operator
+2737,Core Manager
+2738,Server Manager
+2739,Track Manager
+2746,Test Worker
+2761,Safety Teacher
+2769,Technical Support Analyst
+2773,Planning Specialist
+2775,Delivery Engineer
+2777,Door Manager
+2778,Maintenance Instructor
+2783,OR Director
+2787,Maintenance Associate
+2800,Metal Control Coordinator
+2814,Process Assistant
+2815,Technical Customer Support Specialist
+2817,Body Specialist
+2831,Traffic Operator
+2833,Contractor
+2836,Monitor
+2841,Child Specialist
+2846,Loan Specialist
+2863,Tool Analyst
+2876,Tube Operator
+2882,Traffic Technician
+2883,Warehouse Technician
+2894,Cell Manager
+2895,Cleaning Manager
+2922,Line Mechanic
+2923,Pilot Supervisor
+2928,Air Director
+2950,Folder
+2962,Car Repair Supervisor
+2969,Truck Repair Supervisor
+2975,Customer Consultant
+2980,Training Technician
+2981,Information Assistant
+2982,Retail Customer Service Specialist
+3020,Glass Worker
+3062,Tool Clerk
+3063,Adviser
+3065,Investigator Operator
+3067,Lab Engineer
+3069,Network Operations Project Manager
+3070,Network Services Project Manager
+3071,Tool and Die Manager
+3072,Master Technician
+3081,Production Associate
+3085,Commercial Coordinator
+3095,Radio Operator
+3096,Concrete Technician
+3098,Account Developer
+3116,Computer Clerk
+3121,Data Control Assistant
+3122,Grain Manager
+3124,Materials Manager
+3128,Computer Assistant
+3139,Patient Account Specialist
+3153,Center Consultant
+3154,Center Line Cutter Operator
+3155,Product Consultant
+3156,Security Control Center Operator
+3157,Security Operations Center Operator
+3163,Quality Control Assistant
+3171,Field Instructor
+3173,Retail Consultant
+3176,Field Associate
+3184,Loan Supervisor
+3189,Store Specialist
+3194,Pipe Fitter Supervisor
+3214,Production Support Developer
+3216,Research Manufacturing Operator
+3219,Insurance Customer Service Specialist
+3221,Emergency Specialist
+3228,Assembler Tester
+3229,Machine Tester
+3230,Service Tester
+3236,Blender
+3246,Research Instructor
+3247,Vehicle Operator
+3250,Tool Coordinator
+3258,Fire Assistant
+3271,Automotive General Sales Manager
+3272,Wrapper
+3275,Police Specialist
+3276,Residential Specialist
+3278,Field Attendant
+3282,Business Agent
+3283,Carrier Operator
+3284,Marketing Agent
+3285,Operations Agent
+3308,Field Nurse Case Manager
+3309,RN Field Case Manager
+3310,Special Education Case Manager
+3313,Circuit Manager
+3314,Clinical Program Consultant
+3316,Golf Manager
+3317,Rehabilitation Manager
+3318,Financial Consultant
+3323,Project Associate
+3341,Grower
+3343,Frame Operator
+3358,Installer Helper
+3368,Meat Specialist
+3369,Music Specialist
+3370,Analyst Sales
+3372,Bench Manager
+3375,Welding Manager
+3376,Medicine
+3378,Farm Assistant
+3379,Air Support Operations Operator
+3403,Laboratory Clerk
+3404,Social Director
+3406,Assistant Administrator
+3407,Business Administrator
+3408,Development Administrator
+3412,Marketing Administrator
+3414,Nurse Administrator
+3419,Web Analyst
+3427,Picker Operator
+3436,Cloth Worker
+3449,Automation Manager
+3464,Court Specialist
+3465,Entry Specialist
+3471,Furnace Worker
+3474,Fire Coordinator
+3480,Certified Health Education Specialist
+3481,Health Services Information Specialist
+3504,School Plant Consultant
+3505,Box Worker
+3509,Case Manager Specialist
+3510,Band Manager
+3516,Accountant Supervisor
+3519,Security Representative
+3521,Warehouse Engineer
+3522,Tank Builder Supervisor
+3525,Floor Worker
+3541,Science
+3546,Preparer
+3548,Director and Professor
+3549,Engineering Associate
+3551,Utility Specialist
+3552,Boss
+3553,Gas Line Installer Supervisor
+3563,Engraver
+3564,Planning
+3565,Wood
+3566,Human Services Case Manager
+3574,Billing Manager
+3575,Compensation Manager
+3577,Improvement Manager
+3580,Testing Manager
+3584,Associate Account Director
+3585,Field Account Director
+3589,Automotive Worker
+3595,Industrial Gas Production Operator
+3596,Care Support Representative
+3597,Operations Support Representative
+3603,Laboratory Coordinator
+3607,Web Assistant
+3608,Fixer
+3609,Press Hand
+3612,Parts Analyst
+3614,Laboratory Director
+3615,Liner
+3617,Scheduler
+3618,Training Engineer
+3622,Technical Support Consultant
+3625,Shop Clerk
+3636,Machinist Supervisor
+3638,Residential Supervisor
+3640,Tax Technician
+3641,Art Specialist
+3646,Chef Manager
+3648,Dairy Manager
+3649,Print Manager
+3656,Aircraft Worker
+3659,Nursing
+3661,Repair Clerk
+3662,Test Clerk
+3670,Body Engineer
+3672,Chief Nurse
+3678,Case Loader Operator
+3693,Business Services Associate
+3694,Cloth Grader Supervisor
+3697,Certified Control Systems Technician
+3698,Health Information Systems Technician
+3702,Strategist
+3703,Business Architect
+3704,Chief Architect
+3707,Development Architect
+3709,Lead Architect
+3711,Log Manager
+3713,Operations Architect
+3715,Sales Architect
+3716,SAP Manager
+3717,Senior Architect
+3718,Service Architect
+3719,Signal Manager
+3720,Support Architect
+3722,Environmental Assistant
+3723,Equipment Service Associate
+3724,Equipment Services Associate
+3725,Meat Supervisor
+3729,Utility Operator
+3733,Training
+3736,Management Architect
+3739,Corporate Operations Compliance Manager
+3749,Operations Plant Attendant
+3750,Unit
+3752,Program Instructor
+3756,Program Associate
+3759,Utility Technician
+3761,Security Associate
+3763,Sports Specialist
+3772,Oil Analyst
+3774,Technology Analyst
+3777,Car Attendant
+3799,Web Coordinator
+3801,Counter Supervisor
+3802,Court Supervisor
+3803,Parts Clerk
+3812,Designer Architect
+3816,Tire Specialist
+3831,Shop Director
+3836,Auditor Supervisor
+3838,Business Support Associate
+3841,Claims Technician
+3851,Test Director
+3852,Program Attendant
+3853,Oracle Specialist
+3854,Solutions Specialist
+3856,Clinical Research Nurse Coordinator
+3857,Lead Clinical Research Coordinator
+3876,Staff Analyst
+3877,Client Account Specialist
+3879,Client Delivery Specialist
+3885,Cutting Supervisor
+3887,Assistant Designer
+3888,Associate Designer
+3889,Developer Designer
+3890,Lead Designer
+3891,Machine Designer
+3892,Marketing Designer
+3893,Sales Designer
+3898,Financial Developer
+3924,Communications Clerk
+3925,Environmental Director
+3926,Processing Analyst
+3929,Team Assistant
+3955,Line Driver
+3957,Stock Worker
+3962,Education Associate
+3969,Physical Therapist Center Manager
+3972,Painter Assistant
+3973,Assurance Specialist
+3989,Construction Analyst
+4001,Hanger
+4007,Chief Business Development Officer
+4009,City Manager
+4010,Storage Manager
+4017,Plastic Technician
+4031,Parts Coordinator
+4051,Cutter Operator Helper
+4062,Cashier Supervisor
+4066,Industrial Relations Worker
+4078,Customer Account Coordinator
+4085,Farm Consultant
+4087,Tire Technician
+4089,Solutions Operator
+4090,Process Developer
+4091,Media Clerk
+4092,Delivery
+4093,Intelligence Engineer
+4095,Structural Manager
+4097,Application Assistant
+4098,Media Assistant
+4103,Life Specialist
+4104,Business Management Associate
+4105,Care Management Associate
+4106,Technical Associate
+4107,Production Administrator
+4109,Rubber
+4112,Shop Teacher
+4114,Manufacturing Assistant
+4116,Staff Assistant
+4123,Production Hand
+4134,Processing Clerk
+4138,Processing Assistant
+4140,Surgical Supervisor
+4141,Special Inspector
+4142,Communications Director
+4144,Charge Manager
+4148,Insulation Manager
+4149,Process Safety Management Engineer
+4170,Clinical Support Associate
+4171,Intelligence
+4173,Production Tester
+4180,Field Administrator
+4186,Technology Coordinator
+4188,Construction Assistant
+4189,Laboratory Inspector
+4191,Welder Assistant
+4196,Press Helper
+4198,Field Hand
+4210,Industrial Machine System Technician
+4218,Integration Manager
+4219,Optical Manager
+4225,Account Representative
+4236,Yard Specialist
+4238,Field Agent
+4245,Process Mechanic
+4253,Information Developer
+4256,Application Coordinator
+4257,Executive Associate
+4259,Quality Associate
+4262,Web Consultant
+4264,Media Director
+4266,Delivery Analyst
+4278,Pilot Boat Operator
+4286,Software Installer
+4288,Senior Technical Support Analyst
+4300,Consulting Manager
+4302,Traffic Worker
+4321,Motor Analyst
+4328,Entry Engineer
+4332,Project Administrator
+4334,Test Consultant
+4343,Front Worker
+4344,Tube Worker
+4345,Senior Information Security Engineer
+4348,Hospital Technician
+4370,Principal Engineer
+4392,Physical Therapist Technician
+4394,Burner
+4404,Hospice Manager
+4406,Payroll Manager
+4409,Ship Manager
+4410,Construction Coordinator
+4411,Patient Coordinator
+4412,Furnace Clerk
+4417,Construction Director
+4418,IT Assistant
+4422,Physician Representative
+4426,Maintenance Helper
+4431,Yard Operator
+4437,Utility Engineer
+4450,Research Nurse
+4461,Professional Driver
+4462,Floor Clerk
+4463,Body Worker
+4470,Regional Engineer
+4472,Bridge Manager
+4477,Nutrition Manager
+4497,Delivery Clerk
+4498,Dispatcher Clerk
+4501,Occupational Therapy Manager
+4503,Account Associate
+4504,Parts Consultant
+4505,Delivery Assistant
+4515,Public Relations Account Supervisor
+4516,Scrum Master
+4518,Printing Engineer
+4520,Site Specialist
+4525,Administrative Analyst
+4532,Customer Support Consultant
+4533,Network Director
+4535,Wood Inspector
+4548,Community Health Nurse Supervisor
+4553,Mixer Attendant
+4563,Solution Manager
+4564,SQL Manager
+4565,Veterinary Manager
+4567,Case Assistant
+4569,Engineering Administrator
+4570,Manufacturing Teacher
+4574,Auto Glass Worker
+4575,Distribution Specialist
+4576,Practice Specialist
+4580,Mail Technician
+4581,Underwriter
+4583,Packer Inspector
+4584,Physical Medicine Specialist
+4585,Belt Operator
+4586,Lab Analyst
+4590,Crew Clerk
+4594,Coach Mechanic
+4597,Advertising Supervisor
+4600,Emergency Medical Service Manager
+4610,Water Resources Project Manager
+4611,Yard Supervisor
+4615,IT Coordinator
+4616,Project Designer
+4630,Unit Clerk
+4631,Engineering Agent
+4633,Order Processing Specialist
+4634,Sales Order Specialist
+4636,Mechanical Technical Service Specialist
+4637,Unit Assistant
+4638,Cleaning Specialist
+4640,Pattern Technician
+4645,Sales Consultant Residential Manager
+4647,Change Manager
+4654,Review Manager
+4659,Coverer
+4660,Construction Teacher
+4662,Liaison Engineer
+4663,Physical Therapy Supervisor
+4664,Plant Tender
+4690,Floor Director
+4691,Industrial Engineering Director
+4693,Room Service Associate
+4694,Water Resource Project Manager
+4695,Patient Financial Services Specialist
+4700,Research Test Engine Operator
+4701,Safety Representative
+4702,Stripper
+4703,Door Operator
+4705,Center Lead Consultant
+4707,Data Center Consultant
+4708,Delivery Coordinator
+4710,Medicine Worker
+4715,Product Support Consultant
+4719,Office Manager Executive Assistant
+4722,Production Helper
+4724,Meat
+4725,Delivery Director
+4730,Administrative Clerk
+4737,Meat Processing Center Manager
+4738,Electrical Engineering Director
+4739,Academic Manager
+4741,Instructional Manager
+4743,Molding Manager
+4745,Radiology Manager
+4746,Receiving Manager
+4748,Apprentice Architect
+4754,Tier
+4756,Door Technician
+4759,Order Worker
+4761,Transportation Technician
+4766,Auto Inspector
+4767,Glass Inspector
+4784,Oracle Engineer
+4788,Client Analyst
+4789,Case Coordinator
+4799,Oil Inspector
+4800,Roller Inspector
+4801,Staff Consultant
+4802,Plant Attendant OR Assistant Operator
+4804,Program Administrator
+4805,Lab Clerk
+4815,Inspector and Tester
+4817,Head Nurse
+4836,Provider
+4839,Crew Director
+4841,Accounts Specialist
+4842,Learning Specialist
+4845,Cell Operator
+4863,Track Supervisor
+4864,Compliance
+4865,Fire Control Assistant
+4872,Engineering Designer
+4873,Automatic Developer
+4874,House Officer
+4875,Business Development Agent
+4881,Farm Mechanic
+4910,Cutter Machine
+4912,Financial Operations Consultant
+4919,Property Worker
+4920,Store Worker
+4922,Database Operator
+4926,Senior Clinical Data Coordinator
+4928,Transportation Supervisor
+4937,Clinical Data Management Director
+4938,Stock Clerk
+4941,Product Representative
+4945,Project Management IT Specialist
+4948,Coating Manager
+4955,Mill Representative
+4956,Retail Representative
+4957,Surgery Manager
+4959,Database Technician
+4961,Line Installer
+4965,Nursing Clerk
+4972,Entry Level Manager
+4983,Wrapper Operator
+4987,Administrative Director
+4990,Estate
+4999,Safety Instructor
+5000,Police Worker
+5007,Safety Associate
+5036,Program Architect
+5042,Feeder Driver
+5043,Security Nurse
+5050,Customer Associate
+5059,Wire Inspector
+5067,Business Services Sales Representative
+5069,Cleaning Supervisor
+5079,Licensed Psychologist Manager
+5082,Compliance Clerk
+5083,Counter
+5084,Internal Specialist
+5085,Lab Coordinator
+5086,Motor Teacher
+5087,Hot Worker
+5088,Assistant Front End Manager
+5090,Compliance Assistant
+5092,Bilingual Manager
+5094,Jewelry Manager
+5095,Pumper
+5096,Scientific Manager
+5098,Lab Director
+5099,Setter Helper
+5100,Tank Inspector
+5101,Freight Engineer
+5103,Order Entry Specialist
+5104,Parts Counter Specialist
+5112,Public Health Analyst
+5144,Music Worker
+5146,Artist Consultant
+5147,Traffic Analyst
+5149,Grain Operator
+5150,Outside Operator
+5151,Financial Representative
+5153,Brake Specialist
+5154,Branch Specialist
+5177,Registered Nurse Supervisor
+5182,Model
+5183,Safety Attendant
+5187,Aircraft Electrical Systems Specialist
+5190,High Risk Case Manager
+5191,Laborer Driver
+5192,Adult Manager
+5194,Custodian Manager
+5195,Die Inspector
+5196,Document Manager
+5197,Logistics Technician
+5199,Model Technician
+5200,Range Manager
+5203,Senior Engineering Associate
+5206,Technical Administrator
+5214,Credit Assistant
+5215,Shop Mechanic
+5224,Yard Engineer
+5225,Prevention Specialist
+5227,Television Specialist
+5240,Court Worker
+5241,Nursing Coordinator
+5242,Assembly Mechanic
+5244,Water Mechanic
+5248,Nursing Director
+5259,Feeder Associate
+5261,Marketing Lead
+5262,Medical Lead
+5263,Sales Lead
+5264,Cloth Inspector
+5266,Pump Technician
+5270,Tool and Die Supervisor
+5271,Training Analyst
+5276,Meter Supervisor
+5280,Boiler Engineer
+5281,Cable Engineer
+5282,Delivery Consultant
+5292,Steel Worker
+5297,Client Director
+5301,Field Technical Support Consultant
+5302,Changer
+5303,Maintenance Shop Clerk
+5305,Therapy
+5307,Industrial Safety and Health Technician
+5328,Claims Account Specialist
+5331,Front End Specialist
+5333,Lift Manager
+5335,Operating Manager
+5336,Partner Manager
+5339,Title Manager
+5363,Talent Solutions Manager
+5366,Apprentice Plant Attendant
+5369,Delivery Crew Worker
+5370,Fire Crew Worker
+5372,Trader
+5374,Commercial Field Inspector
+5381,Box Inspector
+5385,Public Relations Assistant
+5387,Utility Worker
+5388,Water Quality Assistant
+5389,Wheel Worker
+5390,Associate Chief Nurse
+5391,Crane Engineer
+5393,Logistics Supervisor
+5394,Materials Supervisor
+5397,Inspector Repairer
+5399,Case Consultant
+5401,Counter Intelligence Technician
+5403,Order Entry Technician
+5407,Loan Analyst
+5408,Operations Research Group Manager
+5409,Office Agent
+5410,Police
+5414,Line Tester
+5415,Traffic Clerk
+5416,Warehouse Clerk
+5417,Floor Inspector
+5418,Finance Specialist
+5419,Traffic Assistant
+5420,Warehouse Assistant
+5422,Operations Lead
+5442,Senior Business Architect
+5447,Oil Developer
+5448,Plant Operator Helper
+5449,Concrete Analyst
+5461,Account Installer
+5464,Game Technician
+5465,Golf Technician
+5466,Rehabilitation Technician
+5472,Flight Control Specialist
+5476,Mill Attendant
+5477,Retail Attendant
+5481,Family Assistant
+5482,Fishing Manager
+5485,Photo Manager
+5486,Player Manager
+5487,Distributor
+5490,Security Control Room Officer
+5491,Erector Operator
+5492,Television Operator
+5493,Weigher Operator
+5495,Credit Coordinator
+5496,Hand Cutter
+5497,Machine Cutter
+5498,End Worker
+5499,Financial Associate
+5500,Credit Director
+5501,Human Services Care Specialist
+5502,Human Services Program Specialist
+5503,Tester Operator Helper
+5504,Tank Officer
+5505,Billing Specialist
+5506,Compensation Specialist
+5507,Improvement Specialist
+5508,Labor Specialist
+5512,Server Engineer
+5519,Sports Medicine Specialist
+5527,Technology Support Analyst
+5529,Bench Technician
+5530,Television Technician
+5532,Assistant Food Service Director
+5539,Board Worker
+5540,Runner Worker
+5545,Planning Assistant
+5547,Training Assistant
+5549,Commercial Driver
+5570,Technical Designer
+5574,Electric Motor Repair Supervisor
+5577,Staff Developer
+5582,Dairy Specialist
+5583,News Specialist
+5584,Route Specialist
+5586,Talent Specialist
+5590,Forensic Manager
+5591,HVAC Manager
+5594,Ticket Manager
+5600,High Worker
+5620,Lead Assembler
+5622,Insurance Instructor
+5623,Rehabilitation Supervisor
+5639,Physical Director
+5648,Glass Mechanic
+5649,Client Solutions Specialist
+5650,Customer Solutions Specialist
+5651,Group Insurance Specialist
+5657,Loan Clerk
+5658,Development Lead
+5659,Aircraft Engine Mechanic Supervisor
+5671,Loan Assistant
+5673,Video Engineer
+5674,Equipment Lead
+5705,Roller Mechanic
+5709,Traffic Director
+5710,Warehouse Director
+5717,Flight Radio Operator
+5721,Quality Nurse
+5722,Senior Manufacturing Test Engineer
+5726,District Supervisor
+5728,Order Analyst
+5733,Monitor Technician
+5741,Air Quality Instrument Specialist
+5742,Oil Program Compliance Specialist
+5743,Building Coordinator
+5744,Clerical Manager
+5745,Coding Manager
+5748,Gas Attendant
+5750,Search Manager
+5758,Senior Mechanical Project Engineer
+5759,Can Operator
+5760,Labor Operator
+5768,Auto Parts Clerk
+5769,Processor Inspector
+5770,Education Program Associate
+5779,Design Agent
+5782,Paint Specialist
+5791,Electrical Power Station Technician
+5792,Global Marketing Operations Manager
+5796,Power Plant Assistant
+5798,Can Technician
+5807,Group Worker
+5816,Diesel Engineer
+5818,Systems Lead
+5820,Tire Builder Operator
+5823,Quality Control Representative
+5824,Therapy Coordinator
+5827,Fur Operator
+5829,Manufacturing Mechanic
+5830,Clinician
+5834,Planning Director
+5835,Product Safety Technical Assistant
+5836,Therapy Director
+5841,Die Developer
+5855,Outreach Manager
+5857,Respiratory Manager
+5858,Teller Manager
+5859,Welfare Manager
+5861,Nursing Consultant
+5862,Captain Assistant
+5864,Property Analyst
+5865,Station Inspector
+5868,Home Agent
+5877,Group Chief Operator
+5887,Business Intelligence Engineer
+5890,Media Center Assistant
+5892,Boiler
+5897,Child Life Specialist
+5898,Life Insurance Specialist
+5899,Client Consultant
+5901,Technical Support Associate
+5903,Recovery Operator
+5905,Pilot Teacher
+5906,Mold Inspector
+5907,Paper Inspector
+5910,Loan Coordinator
+5911,Medicine Assistant
+5915,Intern Architect
+5916,Wirer
+5926,Department Administrator
+5941,Color Specialist
+5943,Shipping Specialist
+5944,Billing Supervisor
+5945,Compensation Supervisor
+5946,Labor Supervisor
+5949,Network Operations Center Engineer
+5950,Public Health Teacher
+5951,Public Safety Teacher
+5953,Senior Network Security Engineer
+5954,Senior Network Systems Engineer
+5956,Water Safety Teacher
+5960,Learning Engineer
+5961,Meter Engineer
+5962,Telephone Engineer
+5963,Electrician Assistant
+5964,Legal Coordinator
+5965,Printer Assistant
+5966,Contract Technician
+5991,Chemistry Manager
+5994,Dining Manager
+5995,Feed Manager
+5997,Landscape Manager
+6012,Resource Analyst
+6023,Tire Center Supervisor
+6039,Mounter
+6040,Storage Specialist
+6054,Press Operator Helper
+6055,Press Worker Helper
+6057,Wood Shop Teacher
+6058,Accountant Clerk
+6064,Line Helper
+6066,Die Mechanic
+6067,Acid Operator
+6098,Account Maintenance Representative
+6110,Intelligence Group Supervisor
+6111,Nuclear Medicine Supervisor
+6120,Clinical Data Associate
+6121,Data Management Associate
+6126,Intelligence Clerk
+6130,Shift Engineer
+6138,Management Lead
+6139,Signal Supervisor
+6151,Drilling Manager
+6154,Living Manager
+6155,Owner Manager
+6159,Pharmacy Analyst
+6161,Home Office Representative
+6162,Tree Specialist
+6166,Food Tester
+6172,Quality Control Associate
+6174,Therapy Teacher
+6189,Associate Media Director
+6196,Social Media Director
+6197,Internship Coordinator
+6201,Maintainer
+6203,Material Clerk
+6206,Energy Assistant
+6207,Material Assistant
+6208,Burner Operator
+6211,Medical Staff Coordinator
+6212,Planning Management IT Specialist
+6220,Compensation Consulting Manager
+6247,Customer Service Representative Teacher
+6248,Entry Analyst
+6259,Lead Setter
+6263,Furnace Mechanic
+6264,Electric Motor Analyst
+6267,Casting Supervisor
+6269,Paint Supervisor
+6272,Police Clerk
+6277,Pilot Plant Research Technician
+6278,Residential Assistant
+6282,Burner Technician
+6284,Facility Specialist
+6289,Shipping Technician
+6291,Equipment Cleaner
+6293,Machine Cleaner
+6294,Press Cleaner
+6296,Service Cleaner
+6297,Steel Analyst
+6298,Student Worker
+6299,Yard Worker
+6315,Installer Apprentice
+6316,Maintenance Apprentice
+6318,Sales Apprentice
+6319,Warehouse Consultant
+6331,Brake Engineer
+6333,Rehabilitation Engineer
+6334,Assessment Manager
+6336,CNC Manager
+6338,Pathology Manager
+6341,Child Care Development Specialist
+6342,Floor Mechanic
+6348,Breaker
+6371,Hospice Case Manager
+6377,Loss Prevention Manager
+6398,Care Tech
+6399,Clinical Tech
+6400,Engineering Tech
+6401,Equipment Tech
+6402,Field Tech
+6403,Health Tech
+6404,Machine Tech
+6405,Maintenance Tech
+6406,Management Tech
+6407,Medical Tech
+6408,Nurse Tech
+6409,Operations Tech
+6413,Plant Tech
+6414,Production Tech
+6415,Research Tech
+6416,Service Tech
+6417,Services Tech
+6421,Acid Supervisor
+6422,Restaurant Supervisor
+6423,Building Consultant
+6424,Family Consultant
+6428,Maintenance Mechanic Helper
+6430,Project Management Professor
+6433,Yard Loader Operator
+6434,Yard Motor Operator
+6438,Meat Clerk
+6440,Safety Administrator
+6441,Hydraulic Specialist
+6442,Integration Specialist
+6446,Desk Director
+6450,Music Assistant
+6451,Physician Practice Market Manager
+6452,Steam Fitter Supervisor
+6453,Steam Station Supervisor
+6454,Wood Boat Builder Supervisor
+6456,District Engineer
+6457,Television Engineer
+6465,Security Tech
+6476,Dental Coordinator
+6479,Auto Body Worker
+6481,Electronics Worker
+6484,Dental Director
+6485,Intelligence Director
+6486,Pharmacy Clerk
+6488,Store Director
+6490,Nursing Officer
+6504,Drafter Assistant
+6508,Shipping Supervisor
+6509,Traffic Inspector
+6514,Center Director Lead Teacher
+6518,Player
+6519,Special Delivery Clerk
+6521,Copy Manager
+6522,Customs Manager
+6523,Imaging Manager
+6524,Refrigeration Manager
+6527,Account Service Associate
+6528,Account Services Associate
+6529,Account Support Associate
+6530,Gear Technician
+6533,Structural Technician
+6535,Delivery Driver Assistant
+6536,Material Coordinator
+6541,Senior Safety Management Consultant
+6542,Farm Instructor
+6544,International Specialist
+6547,Division Engineer
+6549,Corporate Physical Security Supervisor
+6552,Energy Director
+6559,Mixer Helper
+6561,Court Assistant
+6562,Belt Worker
+6567,Pattern Worker
+6571,Tube Inspector
+6572,Automotive Parts Clerk
+6574,Charge Operator
+6576,Food Service Driver
+6591,Laboratory Associate
+6593,Residential Coordinator
+6595,Bar Supervisor
+6596,City Supervisor
+6597,Community Representative
+6598,Head Setter
+6600,Residential Director
+6603,Consulting Solution Manager
+6613,Principal Clerk
+6637,Core Worker
+6642,Cutter Apprentice Hand
+6649,Benefits Specialist
+6651,Collection Specialist
+6653,Facilities Specialist
+6654,Healthcare Specialist
+6656,Payroll Specialist
+6657,Performance Specialist
+6659,Building Repair Maintenance Supervisor
+6660,Real Estate Office Supervisor
+6661,Real Estate Sales Supervisor
+6663,Attacher
+6665,Affairs
+6667,Mold Yard Supervisor
+6672,Roll Inspector
+6675,Utility Clerk
+6684,Master Automotive Glass Technician
+6685,Master Fire Control Technician
+6687,Metal Cleaner
+6688,Admissions Manager
+6689,Graphic Manager
+6695,Driver Sales
+6700,Music Coordinator
+6704,Transportation Worker
+6707,Sports Analyst
+6715,Water Control Station Engineer
+6721,Continuous Improvement Manager
+6739,Railroad Engineer
+6742,Boiler Repair Supervisor
+6748,Integration Technician
+6751,Recreation Technician
+6752,Regulatory Technician
+6757,Data Power Consultant
+6761,Cash Specialist
+6763,Mill Hand
+6766,Applications Coordinator
+6767,General Road Production Manager
+6770,Pharmacy Coordinator
+6771,Road Production General Manager
+6773,Loan Inspector
+6776,Boat Officer
+6778,Pharmacy Director
+6790,Parts Representative
+6796,Retail Agent
+6803,Unloader
+6804,Claims Assistant
+6805,Printing Assistant
+6811,Facility Supervisor
+6814,Mail Delivery Supervisor
+6815,Patrol Supervisor
+6824,Analysis Engineer
+6833,Food Production Associate
+6834,Food Service Associate
+6835,Talent Engineer
+6836,Concrete Inspector
+6837,Partner
+6840,Administrative Support Clerk
+6841,Shift
+6846,Asst
+6868,Department Helper
+6884,Automotive Parts Coordinator
+6885,Fire Control Mechanic
+6888,Oracle Analyst
+6889,Solutions Analyst
+6890,Biology Manager
+6891,Housekeeper Manager
+6893,Night Manager
+6894,Plan Manager
+6897,Station Mechanic
+6909,Health Information Management Director
+6910,Management Information Systems Director
+6912,Solution Specialist
+6924,Client Support Analyst
+6925,Pattern Grader Supervisor
+6930,Patient Case Coordinator
+6938,Breaker Operator
+6940,Facilities Operator
+6943,Parts Driver
+6944,Control Room Helper
+6946,Mold Mechanic
+6949,Client Application Support Engineer
+6951,Concrete Pipe Plant Supervisor
+6953,Hotel Engineer
+6954,Recovery Engineer
+6955,Signal Engineer
+6958,Printing
+6959,Recreation Supervisor
+6960,Treatment Supervisor
+6962,Clinical Lab Clerk
+6967,Assembly Associate
+6968,Digital Associate
+6971,Emergency Management Program Specialist
+6977,Customer Service Driver
+6983,Plate Inspector
+6985,Traffic Officer
+6986,Communications Representative
+6992,Production Lead
+6994,Product Architect
+7001,Aircraft Maintenance Director
+7003,Shoe Worker
+7007,Learning Solutions Specialist
+7009,Patient Accounts Specialist
+7011,Cell Support Operator
+7014,Recruiter Coordinator
+7017,Clinical Research Management Associate
+7018,Senior Clinical Research Associate
+7019,Benefits Technician
+7027,Healthcare Technician
+7032,Track Repair Supervisor
+7033,Community Associate
+7039,Gas Station Clerk
+7040,Offbearer
+7046,Assurance Analyst
+7048,Creative Specialist
+7051,Review Specialist
+7052,Sports Clerk
+7053,Engineering Project Designer
+7054,Oil Field Equipment Mechanic Supervisor
+7055,Financial Agent
+7056,Environmental Associate
+7061,Resource Teacher
+7069,School Cleaner
+7075,Regional Coordinator
+7084,Sewing Supervisor
+7085,Student Financial Aid Manager
+7086,Watch Supervisor
+7087,Financial Services Education Consultant
+7088,Cattle Manager
+7108,School Transportation Supervisor
+7114,Yard
+7115,Family Resource Management Specialist
+7116,Water Resource Engineering Specialist
+7117,Team Driver
+7118,Computer Systems Information Director
+7119,Supply Clerk
+7120,Delivery Stock Clerk
+7121,Retail Stock Clerk
+7128,Product Support Representative
+7139,Fuel Technician
+7140,Nutrition Technician
+7144,Art Coordinator
+7146,Utility Sales and Service Manager
+7148,Water Attendant
+7167,Plastic Surgery Manager
+7168,Retail Account Representative
+7176,Corporate Representative
+7181,Database Software Technician
+7191,Rider
+7193,Nursing Unit Clerk
+7195,Academic Specialist
+7201,Clinical Administrative Coordinator
+7202,Entry Level Account Manager
+7203,Entry Level Assistant Manager
+7208,Receiving Specialist
+7210,Telephone Worker
+7225,Store Consultant
+7229,Spec
+7231,Administrative Medical Director
+7233,Laboratory Administrative Director
+7238,Facilities Supervisor
+7239,Payroll Supervisor
+7240,Blocker
+7245,Health Safety Instructor
+7247,Quality Tech
+7251,Air Tester
+7255,Pharmacy Customer Care Specialist
+7256,Pharmacy Retail Support Specialist
+7258,Metal Sheet Roller Operator
+7259,Customer Care Associate
+7260,Customer Operations Associate
+7261,Customer Service Associate
+7262,Customer Support Associate
+7279,Car Cleaning Supervisor
+7285,Engineering Aide
+7286,Field Aide
+7288,Inspector Aide
+7289,Maintenance Aide
+7292,Mold Making Supervisor
+7293,Net Making Supervisor
+7295,Production Aide
+7296,Program Aide
+7299,Screen Making Supervisor
+7300,Service Aide
+7301,Tank Cleaning Supervisor
+7315,Corporate Driver
+7317,Plant Floor Automation Manager
+7318,Utility Division Project Manager
+7321,Internal Control Specialist
+7328,Content Engineer
+7330,Flight Coordinator
+7331,Gate Manager
+7334,Rehab Manager
+7336,University Manager
+7337,Vault Manager
+7342,Bilingual Case Manager
+7353,Life Sciences Manager
+7365,Workers Compensation Manager
+7366,Medical Lab Director
+7368,Flight Director
+7371,Inserter
+7374,Rubber Roller Grinder Operator
+7375,Certified Emergency Vehicle Technician
+7377,Crusher Operator
+7378,Distributor Operator
+7379,Elevator Operator
+7380,Laundry Operator
+7382,Crop Supervisor
+7383,Forest Supervisor
+7386,Electronic Field Service Engineer
+7388,Computer Installer
+7389,Deputy Clerk
+7392,Assurance Assistant
+7393,Line Cleaner
+7394,Property Inspector
+7395,Occupational Therapy Supervisor
+7396,Shoe Repair Supervisor
+7398,Surgical Coordinator
+7399,Project Lead
+7400,Bag Worker
+7404,Back Filler Operator
+7405,Back Shoe Operator
+7406,Belt Back Operator
+7414,Associate Financial Representative
+7419,Construction Representative
+7420,Patient Representative
+7421,Sports Director
+7439,Elevator Technician
+7440,Laundry Technician
+7441,Fire Department Marine Engineer
+7443,Marine Equipment Research Engineer
+7444,Marine Equipment Sales Engineer
+7446,Radio Officer
+7447,Security Systems Sales Representative
+7449,Storage Engineer
+7463,Advertising Analyst
+7464,Training Developer
+7475,Vocational Case Manager
+7477,Administration Specialist
+7482,Conveyor Operator
+7483,Credit Control Assistant
+7484,Forming Operator
+7485,Receiving Operator
+7489,Tower Supervisor
+7490,Veneer Supervisor
+7506,Process Architect
+7507,Design Tech
+7508,Goods
+7509,Deputy
+7513,Railroad Emergency Services Manager
+7516,Office Aide
+7517,Architectural Manager
+7520,Clinic Manager
+7521,Clinical Nursing Coordinator
+7523,Load Manager
+7527,Report Manager
+7531,Coder
+7532,Construction Driver
+7535,Nursing Home Director
+7543,Resident Engineer
+7546,Home Energy Consultant Supervisor
+7553,Health Center Associate
+7557,Product Operations Associate
+7558,Product Safety Associate
+7562,Group Director
+7570,Line Tender
+7584,Tank Driver
+7588,Web Press Operator Assistant
+7589,Controller Mechanic
+7594,Corporate Associate
+7601,Clinical Laboratory Medical Director
+7613,Communications Attendant
+7627,Freight Clerk
+7628,Hospital Clerk
+7651,Brush Operator
+7652,Crusher Supervisor
+7657,Sales Service Route Manager
+7663,Scientific Specialist
+7664,Transfer Specialist
+7668,Media Associate
+7675,Meat Inspector
+7678,Driver Utility Worker
+7680,General Utility Worker
+7689,Patternmaker
+7694,Model Making Supervisor
+7695,Outside Machinist Supervisor
+7697,Admin
+7699,Manufacturing Associate
+7704,Pharmacy Order Entry Technician
+7705,Principal Consultant
+7716,Tube Former Operator
+7721,Set Up Mechanic
+7722,Net Coordinator
+7723,Faculty
+7724,Home Maker
+7726,Warehouse Stock Clerk
+7727,Producer Assistant
+7729,Trimmer Hand
+7732,Deputy Director
+7736,Traffic Monitor Specialist
+7740,Sales Operations Lead
+7741,Mill Helper
+7743,Processing Associate
+7744,Retail Helper
+7745,Blower
+7750,BI Manager
+7751,Business Center Attendant
+7754,Loading Manager
+7755,Reporting Manager
+7756,State Manager
+7757,Transit Manager
+7761,Automatic Wheel Line Operator
+7765,General Utility Machine Operator
+7770,Utility Systems Repairer Operator
+7771,Candy Supervisor
+7772,Instructional Supervisor
+7774,Molding Supervisor
+7776,Radiology Supervisor
+7777,Receiving Supervisor
+7778,Roll Mechanic
+7789,Lead Technical Architect
+7797,Human Relations Teacher
+7801,Pump Servicer Supervisor
+7808,Plate Developer
+7809,Adult Specialist
+7811,Behavioral Specialist
+7827,Photo Lab Manager
+7834,Revenue Specialist
+7838,Attendant Sales
+7839,Yard Clerk
+7841,Feeder Worker Power Unit Operator
+7847,Recreation Engineer
+7849,Yard Assistant
+7857,Liner Worker
+7858,Sports Teacher
+7860,Desk Officer
+7861,Adjuster and Inspector
+7862,Core Analyst
+7864,Car Mechanic Helper
+7865,Car Repairer Helper
+7866,Car Worker Helper
+7868,Financial Services Associate
+7869,Body Mechanic
+7873,Insurance Billing Specialist
+7874,Labor Delivery Specialist
+7881,Floor Representative
+7883,Fitness Technician
+7884,Inventory Technician
+7885,Sand Technician
+7891,Solar Energy Installation Manager
+7898,Splitter
+7899,Steel Inspector
+7909,Supply Teacher
+7920,Master Mechanic
+7921,Delivery Representative
+7922,Maintenance Planning Clerk
+7924,Financial Planning Assistant
+7927,Training Program Assistant
+7934,Transportation Analyst
+7935,Monitor Worker
+7936,Art Consultant
+7939,Front End Loader Operator
+7945,Bilingual Operator
+7946,Counselor Aide
+7949,Co-Founder
+7951,Consulting Engineer
+7952,Watch Engineer
+7953,Audit Specialist
+7955,Title Specialist
+7956,Wellness Specialist
+7961,Route Sales Specialist
+7972,Cutting Inspector
+7976,Wheel Inspector
+7978,Hospital Coordinator
+7979,Tutor Coordinator
+7982,Group Teacher
+7984,Assistant Restaurant General Manager
+7985,Hospital Director
+7989,Dock Manager
+7994,Brake Repair Supervisor
+7996,Division Order Technician
+8004,Educational Technician
+8006,Social Media Marketing Analyst
+8007,Clinical Laboratory Service Teacher
+8009,Records Analyst
+8016,Patient Attendant
+8018,Network Associate
+8020,Radio Mechanic
+8021,Can Worker
+8022,Contact Worker
+8023,Maintenance Repairer
+8024,Railroad Worker
+8025,Sample Worker
+8032,Community Health Education Coordinator
+8033,Community Health Program Coordinator
+8034,Community Service Officer Coordinator
+8035,Loan Officer Assistant
+8036,School Community Relations Coordinator
+8040,Records Management Engineer
+8046,Global Coordinator
+8050,Equipment Service Lead
+8055,Chemical Equipment Sales Engineer
+8058,Pattern Clerk
+8069,Producer Director
+8072,Breaker Engineer
+8078,Coating Supervisor
+8079,Employment Supervisor
+8080,Fitness Supervisor
+8081,Merchandise Supervisor
+8082,Packing Supervisor
+8083,Rigger Supervisor
+8084,Business Process Associate
+8085,Lens Assistant
+8088,General Agent
+8089,Traffic Engineering Director
+8091,Press Cutter
+8092,Quality Management Nurse
+8095,Assessor
+8097,Digital Content Marketing Manager
+8117,Collections Specialist
+8120,Photo Specialist
+8137,Program Lead
+8138,Title Search Manager
+8140,Accounting Coordinator
+8147,Front Office Director
+8148,Lead Supply Worker
+8154,Real Estate Director
+8158,Well Testing Operator
+8159,Yard Coordinator
+8160,Industrial Gas Servicer Supervisor
+8164,Security Lead
+8167,Automatic Washer Mechanic
+8170,Behavioral Technician
+8172,Range Technician
+8175,Grinder Tender
+8177,IT Associate
+8180,Clinical Quality Assurance Specialist
+8182,Research Quality Assurance Specialist
+8183,Senior Quality Assurance Specialist
+8187,Salesperson Driver
+8192,Forest Engineer
+8201,Art Therapy Certified Supervisor
+8206,Process Helper
+8210,Miller Supervisor
+8211,Paralegal Supervisor
+8213,Appeals Manager
+8217,Litigation Manager
+8218,Managing Manager
+8221,Scale Manager
+8225,Medical Sales
+8231,Special Agent
+8232,Business Systems Lead
+8234,Mobile Health Vehicle Operator
+8236,Physical Therapy Coordinator
+8240,Lift Operator
+8241,Transportation Clerk
+8243,Applicator
+8255,Transportation Assistant
+8256,Signal Worker
+8258,Estate Planning Director
+8260,Physical Therapy Director
+8263,Remover
+8264,Access Specialist
+8268,QA Specialist
+8269,Transport Specialist
+8270,Administrative Representative
+8271,Farm Agent
+8275,Floor Associate
+8284,Fire Equipment Repairer Inspector
+8288,Natural Science Manager
+8289,Natural Sciences Manager
+8292,Respiratory Therapy Manager
+8299,Data Processing Mechanic
+8301,Special Tester
+8311,Resident
+8321,Delivery Associate
+8322,Distribution Clerk
+8324,Safety Tech
+8325,Video Clerk
+8338,Client Support Consultant
+8339,Architect Intern
+8341,Business Intern
+8343,Consultant Intern
+8344,Design Intern
+8345,Development Intern
+8346,Education Intern
+8347,Engineer Intern
+8348,Engineering Intern
+8351,Management Intern
+8352,Manager Intern
+8353,Marketing Intern
+8354,Medical Intern
+8355,Nurse Intern
+8357,Operations Intern
+8358,Physician Aide
+8359,Production Intern
+8361,Project Intern
+8362,Quality Intern
+8364,Recovery Unit Operator
+8365,Research Intern
+8366,RN Intern
+8367,Sales Intern
+8368,Security Intern
+8369,Software Intern
+8370,Tech Intern
+8371,Technical Intern
+8375,Commercial Loan Coordinator
+8377,Furnace Attendant
+8384,Custodian Supervisor
+8385,Laboratory Tester
+8391,Care Information Associate
+8393,Fruit Coordinator
+8394,Learning Analyst
+8397,Kitchen Operator
+8398,Maintainer Operator
+8407,Food Aide
+8408,Tile Inspector
+8409,Tire Inspector
+8420,Motor Vehicle Clerk
+8423,Physical Testing Supervisor
+8428,Spring Assembler Supervisor
+8430,Spring Up Supervisor
+8432,Yard Labor Supervisor
+8438,Data Processing Control Clerk
+8439,Manager RN
+8440,Electrician Station Assistant
+8450,Clerical Specialist
+8452,Fabrication Specialist
+8453,Informatics Specialist
+8454,Lead Tank Mechanic
+8455,Search Specialist
+8458,Carpenter Assistant
+8459,Chemist Assistant
+8460,Automobile Body Worker

@@ -1,0 +1,2001 @@
+rank,title
+8462,Residential Care Facility Manager
+8463,Wind Energy Project Manager
+8464,Wind Farm Operations Manager
+8468,Airline Manager
+8469,Cafeteria Manager
+8488,Enforcement Manager
+8489,ETL Manager
+8491,Floor Attendant
+8493,Inspection Manager
+8495,Medical Office Assistant Instructor
+8499,Relief Manager
+8501,Slot Manager
+8503,Study Manager
+8505,Wireless Manager
+8509,Clinical Counselor
+8510,Control Room Tender
+8513,Fitter Hand
+8514,Head Counselor
+8515,Health Counselor
+8517,Program Counselor
+8518,Sales Counselor
+8520,Service Counselor
+8521,Teacher Counselor
+8524,Enterprise Engineer
+8526,Review Engineer
+8529,Practice
+8531,Bank Worker
+8532,Restaurant Worker
+8533,Dental Mechanic
+8538,Testing
+8539,Electrical Helper
+8541,Production Repairer
+8543,Security System Sales Consultant
+8559,Elementary Supervisor
+8560,Gang Supervisor
+8563,Title Supervisor
+8574,IT Application Support Analyst
+8580,Building Construction Teacher
+8581,Real Estate Teacher
+8590,Quality Assurance Lab Technician
+8594,Accounting Teacher
+8595,Advertising Teacher
+8598,Blower Operator
+8599,Tractor Operator
+8603,Barrel Inspector
+8604,Site Coordinator
+8609,Acid Recovery Operator
+8618,Account Executive Sales Representative
+8621,Site Director
+8622,Transportation Director
+8625,Banking Specialist
+8626,College Specialist
+8627,Cost Specialist
+8628,Extension Specialist
+8629,Outreach Specialist
+8630,Welfare Specialist
+8633,Molding Engineer
+8634,Survey Engineer
+8639,Pump House Engineer
+8644,Machinist Mechanic
+8650,Test Administrator
+8651,Shop Hand
+8652,Claim Technician
+8653,Forensic Technician
+8657,Tractor Technician
+8659,Bender
+8662,Life Consultant
+8663,Set Off Press Operator
+8665,Technical Lead
+8667,Pipe Installer
+8691,Truck Driver Helper
+8713,Setter Machine
+8717,Video Coordinator
+8718,Crew Attendant
+8720,Assembly Hand
+8721,Stock Driver
+8723,Digital Associate Media Director
+8725,Trimmer Helper
+8726,Kitchen Supervisor
+8729,Practice Director
+8730,Workers
+8733,Master Sheet Clerk
+8736,Administrative Associate
+8749,Medical Staff Services Coordinator
+8750,Compliance Representative
+8752,Consulting Services Project Manager
+8754,Heavy Equipment Rental Manager
+8755,Heavy Equipment Sales Manager
+8756,Heavy Equipment Service Manager
+8758,Telephone Clerk
+8759,Line Lead
+8763,Filter Worker
+8766,Plumbing Manager
+8767,Produce Manager
+8770,Electric Freight Car Operator
+8778,Shaper Operator
+8783,Fish Inspector
+8787,Die Casting Supervisor
+8796,Office Lead
+8797,Charge Entry Specialist
+8798,Charge Master Specialist
+8802,Consumer Loan Specialist
+8805,Facility Practice Specialist
+8810,Market Director
+8811,Cardiac Specialist
+8812,Channel Specialist
+8820,Lab Instructor
+8824,Coding Technician
+8825,Fabrication Technician
+8826,Lab Associate
+8827,Vacuum Technician
+8829,Kiln Head House Operator
+8830,Safety Aide
+8832,Logistics Clerk
+8833,Materials Clerk
+8834,Travel Clerk
+8839,Research and Development Tester
+8844,Coal Feeder Operator
+8846,Engine Installer
+8853,Sealer
+8854,Senior Principal Process Engineer
+8858,Logistics Assistant
+8859,Materials Assistant
+8862,Travel Assistant
+8871,Child and Family Services Specialist
+8874,Automobile Body Repair Supervisor
+8878,Structural Worker
+8881,Area Loss Prevention Manager
+8883,Call Center Operations Manager
+8885,Digital Strategist Senior Manager
+8886,District Loss Prevention Manager
+8887,Garment Supervisor
+8890,Logistics Loss Prevention Manager
+8891,Loss Prevention Operations Manager
+8893,Regional Loss Prevention Manager
+8894,Store Loss Prevention Manager
+8896,Database Coordinator
+8899,Business Services Tech
+8900,Clinical Research Tech
+8901,Clinical Support Tech
+8902,Equipment Maintenance Tech
+8903,Field Service Tech
+8904,Medical Research Tech
+8905,Senior Engineering Tech
+8906,Support Service Tech
+8907,Support Services Tech
+8908,Environmental Science Program Director
+8914,Front Desk Coordinator
+8915,Credit Representative
+8916,Parts Administrator
+8919,Electric Accounting Machine Operator
+8922,Cyber Operator
+8923,Maintenance Helper Utility Engineer
+8924,Meat Stock Clerk
+8927,Unloader Operator
+8930,Data Lead
+8932,Inside Sales Specialist
+8940,Coating Engineer
+8942,Risk Developer
+8945,Radio Repair Teacher
+8949,Crusher
+8950,Miner Assistant
+8951,Test Architect
+8963,Industrial Technology Education Teacher
+8966,Special Technical Operations Officer
+8970,Dental Patient Coordinator
+8971,Food Counselor
+8973,Quality Lead
+8974,Asset Specialist
+8978,Leasing Specialist
+8979,Living Specialist
+8981,Electronics Utility Worker
+8984,Stock Associate
+8986,Associate Store Director
+8989,Pharmacy Stock Clerk
+8991,Parking Technician
+8997,Forest Fire Prevention Manager
+9000,Account Advisor
+9001,Analytical Manager
+9003,Campus Manager
+9004,Clinical Advisor
+9005,Continuity Manager
+9006,Developer Advisor
+9007,Development Advisor
+9008,Executive Advisor
+9009,Extrusion Manager
+9010,Field Advisor
+9011,General Helper
+9013,Home Advisor
+9014,Instrumentation Manager
+9015,Lead Advisor
+9016,Maintenance Advisor
+9018,Medical Advisor
+9020,Nurse Advisor
+9022,Operations Advisor
+9023,Professional Advisor
+9028,Senior Advisor
+9031,Substation Manager
+9032,Teacher Advisor
+9033,Technical Advisor
+9034,Vending Manager
+9036,Block Inspector
+9037,Chair Inspector
+9039,Color Making Supervisor
+9042,Lead Burner Supervisor
+9045,Shipping Track Supervisor
+9049,Nuclear Officer
+9050,Special Education Associate
+9052,Animal Hospital Office Supervisor
+9053,Automation Analyst
+9054,Protection Analyst
+9058,Clerical Supervisor
+9068,Document Imaging Manager
+9098,Medical Laboratory Technical Officer
+9128,Physician Advisor
+9131,Station Attendant
+9133,Learning Coordinator
+9136,Transfer Engineer
+9144,Utility Mechanic
+9146,Public Health Representative
+9149,Air Control Electronics Operator
+9155,Mail Handler Equipment Operator
+9157,Mold Yard Crane Operator
+9159,Radio Control Crane Operator
+9164,Inserter Operator
+9165,Mixing Operator
+9167,Second Operator
+9168,Splitter Operator
+9169,Yard Inspector
+9170,Boat Driver
+9171,Client Associate
+9172,Gas Maker
+9174,Concrete Block Plant Supervisor
+9185,Coal Yard Supervisor
+9190,Filter Press Supervisor
+9191,Tank Storage Supervisor
+9198,Principal Administrative Clerk
+9200,Rehabilitation Clerk
+9202,Traffic Representative
+9205,Branch Assistant
+9208,Compliance Associate
+9210,Line Assembler
+9211,Assessment Specialist
+9213,Beverage Specialist
+9222,Pathology Specialist
+9228,Cardiac Technician
+9232,Materials Coordinator
+9233,Mixing Technician
+9235,Environmental Marketing Representative
+9236,Environmental Designer
+9238,Assurance Officer
+9239,Fruit Loader Machine Operator
+9240,Fruit Picker Machine Operator
+9244,Technology Administrator
+9247,Boiler Inspector
+9248,Building Performance Specialist
+9250,Cable Inspector
+9254,Communications Agent
+9266,Internal Controls Specialist
+9272,Performance Improvement Specialist
+9273,Performance Solutions Specialist
+9274,Plant Controls Specialist
+9275,Project Controls Specialist
+9276,Regional Facilities Specialist
+9277,Retail Performance Specialist
+9281,Materials Director
+9282,Travel Director
+9283,Car and Yard Supervisor
+9285,General Car Yard Supervisor
+9286,Pipe Tester
+9287,Safety Intern
+9288,Yard General Car Supervisor
+9290,Farm Helper
+9292,Banking Supervisor
+9293,Extension Supervisor
+9294,Parking Supervisor
+9295,Preparation Supervisor
+9297,Teller Supervisor
+9298,Welfare Supervisor
+9300,Wheel Press Clerk
+9310,Assembly Line Driver
+9318,Patcher
+9321,Roller Hand
+9326,Lecturer
+9331,Seed Cleaning Manager
+9335,Product Safety Administrator
+9338,Compensation Analyst
+9339,Improvement Analyst
+9340,Laboratory Helper
+9342,Feeder Tender
+9343,Gear Repair Supervisor
+9348,Head Screen Worker
+9349,Medical Office Professional Instructor
+9353,Bus Inspector
+9360,Stacker
+9362,Corporate Administrator
+9364,Oil Agent
+9365,Agency Operator
+9368,Contact Center Engineer
+9369,Cover Operator
+9370,Owner Operator
+9372,Primary Operator
+9377,Studio Operator
+9381,CAD Manager
+9382,Cardiology Manager
+9384,Epic Manager
+9387,Irrigation Manager
+9390,Transition Manager
+9391,UX Manager
+9399,Area Intelligence Technician
+9409,Cash Control Specialist
+9411,Cash Processing Specialist
+9412,Clinical Studies Specialist
+9413,Dairy Nutrition Specialist
+9418,Washer Hand
+9419,Clinical Pharmacy Coordinator
+9421,Pharmacy Clinical Coordinator
+9427,Oil Tester
+9432,Pharmacy Account Director
+9444,Automation Clerk
+9445,Camera Technician
+9447,Oncology Technician
+9451,Parts Designer
+9453,Finish Specialist
+9455,Imaging Specialist
+9457,Refrigeration Specialist
+9458,Talent Analyst
+9460,Fruit Inspector
+9463,Printing Plate Clerk
+9467,Loader Helper
+9468,Safety Counselor
+9473,Call Worker
+9474,Drum Worker
+9478,Spray Worker
+9481,Channel Supervisor
+9482,Correctional Supervisor
+9483,County Supervisor
+9485,Landscape Supervisor
+9486,Mixing Supervisor
+9487,Pit Supervisor
+9488,Brand Engineer
+9489,Operating Engineer
+9497,Medical Secretary Teacher
+9500,Development Technologist
+9502,Marketing Technologist
+9504,Office Technologist
+9536,Mender
+9538,Core Inspector
+9540,Fitter Helper
+9545,Practice Consultant
+9552,Civil Clerk
+9554,Coder Operator
+9555,Finance Clerk
+9556,Machine Shop Instructor
+9558,Sealer Operator
+9559,Stacker Operator
+9562,Pattern Chain Maker Supervisor
+9563,Contract Analyst
+9564,Furnace Installer
+9567,Recovery Analyst
+9572,Air Breaker Operator
+9574,Branch Coordinator
+9589,Rehabilitation Coordinator
+9598,Division
+9599,Branch Director
+9601,Rehabilitation Director
+9612,Mold Yarn Supervisor
+9618,Bridge Worker
+9619,Construction Administrator
+9621,Nutrition Worker
+9622,Powder Worker
+9634,Medical Records Field Technician
+9637,Heater
+9638,Assessment Technician
+9645,Pool Technician
+9661,Market Consultant
+9669,Seed Specialist
+9671,Cotton Program Technician
+9688,Community Support Associate
+9689,Automotive Internet Sales Manager
+9690,Camera Supervisor
+9691,Controller Instructor
+9693,Living Supervisor
+9695,Plater Supervisor
+9697,Street Supervisor
+9699,Apparel Manager
+9700,Biomedical Manager
+9702,Desktop Manager
+9704,Exercise Manager
+9707,Implementation Manager
+9709,Mechanic Chief
+9712,Plant Chief
+9713,Rate Manager
+9714,Receivable Manager
+9715,Teaching Manager
+9716,Volunteer Manager
+9720,Sample Clerk
+9727,Prevention Coordinator
+9728,Surgeon Assistant
+9729,Dealer Analyst
+9735,Account Review Specialist
+9739,Clinical Review Specialist
+9741,Continuous Improvement Specialist
+9750,District Director
+9751,Environmental Services Associate
+9752,Finance
+9761,Resource Center Teacher
+9762,Resource Program Teacher
+9775,Shop Helper
+9778,Gas Tender
+9792,Sign Builder Supervisor
+9797,Wet End Supervisor
+9799,Building Associate
+9800,Furniture Inspector
+9816,Database Consultant
+9817,Diesel Truck Crane Operator
+9818,Oil Well Service Operator
+9819,Appliance Worker
+9820,Ball Worker
+9823,Caster Operator
+9824,Cooker Operator
+9826,Pan Operator
+9830,Wire Tester
+9832,Design Assembler
+9834,Motor Installer
+9835,Stock OR Delivery Clerk
+9837,Dairy Clerk
+9838,News Clerk
+9840,Route Clerk
+9844,Mobile Unit Assistant
+9850,Fuel Storage Technician
+9853,News Assistant
+9854,Talent Assistant
+9855,Field Marketing Lead
+9858,Junior Analyst
+9859,Strategic Analyst
+9860,Division Director
+9863,Database Administration Project Manager
+9868,Forensic Engineer
+9873,Tank Tester
+9887,Copy Technician
+9888,Imaging Technician
+9889,Plastics Technician
+9891,Cementer
+9892,Carpenter Inspector
+9893,Cell Inspector
+9914,Store Receiving Specialist
+9917,Metal Furniture Assembly Supervisor
+9921,CNC Supervisor
+9923,Pathology Supervisor
+9948,Digital Media Representative
+9952,Planning Associate
+9953,Training Associate
+9965,Loss Prevention Supervisor
+9966,Recreation Facilities Supervisor
+9967,Traffic Attendant
+9974,Health and Safety Instructor
+9976,Parts Room Associate
+9978,Mail Officer
+9979,Industrial Cleaner
+9983,Financial Intern
+9987,Contract Clerk
+9990,Log Clerk
+9991,Mortgage Clerk
+9993,Contract Assistant
+9995,Mortgage Assistant
+9996,Recovery Assistant
+10007,Content Analyst
+10014,Drier Attendant
+10016,Front Attendant
+10026,Diesel Inspector
+10027,Dry Cell Assembly Supervisor
+10029,Health Education Aide
+10030,Plant Control Aide
+10035,Back Shoe Worker
+10048,Commissioner
+10049,Observer
+10050,Product Advisor
+10051,Automotive Service Management Teacher
+10054,Cloth Hand
+10067,Rehab Therapy Manager
+10072,Die Tester
+10074,Talent Acquisition Operations Manager
+10075,Talent Acquisition Program Manager
+10076,Talent Acquisition Project Manager
+10078,Email Manager
+10079,GIS Manager
+10082,Sanitation Manager
+10085,Trial Manager
+10087,Underwriting Manager
+10088,Utilization Manager
+10089,Validation Manager
+10090,Workforce Manager
+10093,Retail Advisor
+10094,Fabrication Engineer
+10095,Factory Engineer
+10098,Search Engineer
+10110,Cement Crusher Operator
+10112,Coal Crusher Operator
+10113,Continuous Crusher Operator
+10117,Crusher Loader Operator
+10121,Front Elevator Operator
+10123,Grain Elevator Operator
+10131,Furnace Hand
+10135,Rehabilitation Teacher
+10136,Billing Coordinator
+10137,Compensation Coordinator
+10138,Improvement Coordinator
+10140,Sample Coordinator
+10144,Quality Assurance Clerk
+10148,Seed Technician
+10149,Casting Assistant
+10151,Compensation Director
+10152,Improvement Director
+10153,Property Field Inspector
+10155,Quality Assurance Assistant
+10156,Rail Director
+10157,Testing Director
+10158,Conveyor Worker
+10160,Receiving Worker
+10161,Survey Worker
+10163,Occupational Health Nurse Supervisor
+10164,Oil Well Services Supervisor
+10168,Marketing Project Lead
+10170,Legal Instructor
+10174,Copy Supervisor
+10175,Detective Supervisor
+10177,Plastics Supervisor
+10178,Refrigeration Supervisor
+10179,Road Consultant
+10180,Section Supervisor
+10183,Financial Services Sales Representative
+10185,Patient Account Representative
+10186,Patient Care Representative
+10187,Patient Financial Representative
+10191,Patient Support Representative
+10194,VP Account Director
+10197,Winder Hand
+10206,Psychiatric Specialist
+10207,Vessel Specialist
+10208,Cloth Tester
+10209,Financial Counselor
+10214,Meat Cutting Teacher
+10215,Desk Representative
+10222,Floor Hand
+10227,Welding Teacher
+10229,Automatic Pilot Mechanic
+10235,Behavioral Health Case Manager
+10239,Meter Inspector
+10250,Sales Administration Specialist
+10251,Supply Chain Director
+10254,Cement Conveyor Operator
+10257,Coal Conveyor Operator
+10259,Conveyor Belt Operator
+10261,Conveyor Weigher Operator
+10293,Lathe Mechanic
+10295,Restaurant Assistant
+10306,Business Process Architect
+10307,Casing Operator
+10308,Charger Operator
+10309,Edger Operator
+10311,Spinner Operator
+10312,Terminal Operator
+10314,Carrier Driver
+10315,Information Technology Associate
+10316,Shaper
+10319,Cyber Engineer
+10321,Maintenance Chief
+10325,Structural Analyst
+10338,Nursing Information Systems Coordinator
+10339,Nursing Staff Development Coordinator
+10347,Water Plant Maintenance Mechanic
+10348,Charger
+10349,Safety Lead
+10350,Community Health Nursing Director
+10351,Customer Solutions Coordinator
+10375,Food Assembler
+10383,Client Solutions Director
+10384,Group Account Director
+10388,Coach Cleaner
+10390,Block Mechanic
+10392,Chair Mechanic
+10394,Edger Technician
+10395,Grain Inspector
+10396,Kiln Mechanic
+10398,Psychology Technician
+10403,Gas Meter Repair Supervisor
+10404,Meter Repair Shop Supervisor
+10406,Insurance Counselor
+10407,Admissions Supervisor
+10408,Cargo Supervisor
+10410,Contract Coordinator
+10413,Hot Roll Inspector
+10416,Recovery Coordinator
+10417,Service Delivery Management Consultant
+10418,Chief Digital Media Officer
+10421,Lead Retail Sales Associate
+10423,Box Lining Machine Operator
+10424,General Assembler Installer
+10425,Internal Consultant
+10426,Air Brake Worker
+10427,Painter Helper
+10430,Die Designer
+10432,Shipping Clerk
+10435,SAP Director
+10437,Station Installer
+10438,Content Assistant
+10439,Photographer Assistant
+10440,Shipping Assistant
+10444,Activities Specialist
+10446,Grocery Specialist
+10451,Rehab Specialist
+10453,Vendor Specialist
+10454,Certified Wellness Program Manager
+10455,Commercial Intern
+10461,Internal Audit Senior Manager
+10463,Air Brush Operator
+10470,Configuration Manager
+10472,Dietary Manager
+10483,Microbiology Manager
+10486,Placement Manager
+10488,Ramp Manager
+10491,Workers Compensation Specialist
+10492,Digital Media Associate
+10493,Media Relations Associate
+10496,Roller Helper
+10497,Tool Tender
+10500,Health and Social Care Teacher
+10501,Computer Aide
+10507,Roller Shop Utility Worker
+10509,Bag Inspector
+10510,Dye Worker
+10511,Film Inspector
+10513,Folder Inspector
+10514,Inventory Worker
+10516,Merchandise Worker
+10517,Power Electronics Research Engineer
+10518,Sand Worker
+10526,Finance Teacher
+10529,Model and Pattern Supervisor
+10530,Travel Information Center Supervisor
+10531,Manufacturing Management Associate
+10535,Auto Former Machine Operator
+10536,Nuclear Waste Process Operator
+10537,Rehabilitation Consultant
+10541,Installation Coordinator
+10545,Visual Coordinator
+10552,Layout Operator
+10553,Pot Operator
+10561,City Clerk
+10562,Mechanical Maintenance Instructor
+10567,Mill Operator Helper
+10569,Trainee
+10586,Boiler Mechanic
+10587,Cable Mechanic
+10588,Delivery Architect
+10591,Electrical Intern
+10593,Regulatory Analyst
+10603,Roll Forming Supervisor
+10616,Lumber Carrier Operator
+10621,Residential Driver
+10626,Table Inspector
+10627,Film Processing Shift Supervisor
+10630,Layout Technician
+10632,Procurement Technician
+10634,Valve Technician
+10635,Application Helper
+10653,Housekeeper Supervisor
+10656,Mental Health Case Manager
+10657,Mental Health Program Manager
+10658,Night Supervisor
+10667,Dry Goods Clerk
+10669,Material Yard Clerk
+10673,Carrier Associate
+10675,Hand Mixer
+10676,Head Mixer
+10677,Metal Mixer
+10695,Entry Level Machine Operator
+10700,Cloth Printing Utility Worker
+10710,Heater Worker
+10711,Transfer Worker
+10713,Manufacturing Helper
+10715,Patient Service Associate
+10716,Patient Support Associate
+10720,Home Health Billing Specialist
+10722,Pediatric Sports Medicine Specialist
+10724,Senior Medical Billing Specialist
+10727,Clinic Specialist
+10728,Crane Mechanic
+10729,Display Specialist
+10731,Exchange Specialist
+10732,Report Specialist
+10738,Plastic Surgery Technician
+10741,Product Lead
+10743,Speech Assistant
+10745,Camera Engineer
+10749,Street Engineer
+10756,Registered Associate
+10758,Card Processing Clerk
+10764,Rehabilitation Inspector
+10765,Sales and in Home Delivery Specialist
+10772,Residential Life Director
+10778,Consulting Analyst
+10780,Protection Consultant
+10781,Public Health Training Assistant
+10783,Training and Development Assistant
+10785,On Car Supervisor
+10788,Gate Operator
+10790,Local Operator
+10792,Still Operator
+10793,Telecommunications Operator
+10797,Front End Wheel Loader Operator
+10804,Green Chain Operator
+10817,Pattern Mechanic
+10819,Associate Consulting Engineer
+10825,Principal Consulting Engineer
+10826,Content Coordinator
+10834,Cloth Cutting Inspector
+10836,Apartment Manager
+10838,Bindery Manager
+10842,Disability Manager
+10843,Economic Manager
+10845,Geophysical Manager
+10848,Incident Manager
+10850,Painting Manager
+10853,Recruiting Manager
+10855,Sharepoint Manager
+10857,Vascular Manager
+10868,Bank Sales and Service Manager
+10869,Construction Helper
+10870,Hospital Medicine Director
+10871,Hospital Pharmacy Director
+10872,Interviewer
+10873,Welder Helper
+10874,Mail Handler Assistant
+10882,Facility Assistant
+10890,Bench Inspector
+10893,Poultry Inspector
+10894,Television Inspector
+10896,Fire Tender
+10898,Compressor Technician
+10899,Fiberglass Technician
+10900,Gate Technician
+10901,Photographic Technician
+10902,Rehab Technician
+10904,Market Developer
+10908,Care Professional
+10911,Field Professional
+10916,Marketing Professional
+10918,Office Professional
+10919,Operations Professional
+10920,Program Professional
+10921,Records Management Analyst
+10922,Research Professional
+10923,Sales Professional
+10925,Technical Professional
+10930,Finance Consultant
+10931,Patient Safety Attendant
+10932,Shop Tech
+10933,Track Mechanic
+10934,Molder Helper
+10945,Railroad Yard Worker
+10947,Benefits Analyst
+10948,Collection Analyst
+10950,Healthcare Analyst
+10962,Radiation Engineer
+10965,Boat and Plant Utility Supervisor
+10966,Desk Attendant
+10967,Aircraft Designer
+10968,Global Account Director
+10971,Oil Field Equipment Mechanic
+10977,Digital Tech
+10985,Machinist Instructor
+10988,Repair Tech
+10989,Residential Instructor
+10995,BI Specialist
+10996,Coating Mixer Supervisor
+10998,Engagement Specialist
+11006,Transit Specialist
+11007,Transmission Specialist
+11011,Tank Farm Attendant
+11012,General Operations Agent
+11013,Operations General Agent
+11014,Gas Maker Helper
+11016,City Director
+11023,Logistics Officer
+11027,Motor Vehicle Compliance Analyst
+11028,Welding Equipment Repairer Supervisor
+11029,Lab Tester
+11030,Recreation Clerk
+11035,Cloth Printing Inspector
+11058,Integration Assistant
+11061,Regulatory Assistant
+11062,Unit Support Representative
+11063,Charge
+11064,Real Estate Marketing Coordinator
+11065,Real Estate Services Coordinator
+11066,Transportation Mechanic
+11068,Search Engine Marketing Manager
+11071,Laboratory Aide
+11075,Compensation Consultant
+11076,Contact Lens Lathe Operator
+11078,Family Service Center Director
+11084,Testing Consultant
+11085,Batch Operator
+11087,Coat Operator
+11088,Exchange Operator
+11090,Gang Worker
+11092,Trim Operator
+11093,Vegetable Worker
+11095,Fur Floor Worker
+11102,Document Management Technician
+11106,Vocational Rehabilitation Technician
+11108,Nursing Administrator
+11109,Cash Analyst
+11110,Demonstrator
+11111,Registrar
+11114,Puncher
+11119,Material Attendant
+11130,Customer Records Division Supervisor
+11131,Resident Director
+11133,Documentation Supervisor
+11134,Furniture Mechanic
+11135,Gate Supervisor
+11136,Grocery Supervisor
+11137,Jewel Supervisor
+11138,Logging Supervisor
+11141,Photographic Supervisor
+11142,Purchasing Supervisor
+11145,Filling Technician
+11146,Military Technician
+11147,Nuclear Plant Construction Worker
+11149,Trim Technician
+11150,Utility Driver
+11154,Meat Sales and Storage Manager
+11157,Clipper
+11183,Lab Nurse
+11191,Asphalt Engineer
+11193,Imaging Engineer
+11197,Air Lift Operator
+11198,Associate Director of Sales
+11200,Chair Lift Operator
+11204,High Lift Operator
+11210,Tier Lift Operator
+11211,Analysis Consultant
+11212,Dairy Consultant
+11219,Log Chain Worker
+11221,Community Health Planning Director
+11224,Food Mixer
+11227,Edger
+11228,General Intern
+11229,Access Control Specialist
+11233,Patient Access Specialist
+11235,Applications Instructor
+11239,Compliance Administrator
+11242,Regional Driver
+11243,Tax Associate
+11244,Banking Management Consulting Manager
+11245,Nurse Outreach Case Manager
+11247,Avionics Manager
+11248,Concierge Manager
+11249,Conservation Worker
+11250,Eligibility Manager
+11251,Enrollment Manager
+11255,ICU Manager
+11256,Immigration Manager
+11257,Integrity Manager
+11262,Registration Manager
+11264,Switchboard Manager
+11268,Relationship Specialist
+11271,SQL Analyst
+11274,Charge Coordinator
+11275,Estimator and Drafter Supervisor
+11278,Can Inspector
+11286,Railroad Inspector
+11290,Solutions Delivery Consultant
+11292,Spring Inspector
+11293,Technical Solutions Consultant
+11295,Farm Management Professor
+11296,Furnace Helper
+11297,Separator
+11305,Special Distribution Clerk
+11308,Distribution Center Assistant
+11312,Strategy
+11315,Business Development Intern
+11316,Business Management Intern
+11317,Business Services Intern
+11319,Design Engineering Intern
+11320,Library Consultant
+11321,Marketing Operations Intern
+11324,Oil Recovery Unit Operator
+11325,Program Management Intern
+11326,Project Management Intern
+11327,Research Program Intern
+11328,Sales Management Intern
+11335,Facilities Clerk
+11338,Train Clerk
+11341,Transmission Operator
+11344,Family Medicine Physician Assistant
+11345,Process Lead
+11346,Airplane Pilot Supervisor
+11349,Benefits Assistant
+11352,Facilities Assistant
+11358,Vocational Rehabilitation Supervisor
+11359,Winder Helper
+11362,Information Security Systems Instructor
+11366,Branch Officer
+11376,Engineering Executive
+11378,Nurse Executive
+11379,Office Executive
+11380,Operations Executive
+11381,Project Executive
+11382,Research Executive
+11389,Automotive Tire Testing Supervisor
+11392,Food Service Order Clerk
+11393,Railroad Car Cleaning Supervisor
+11394,Railroad Car Repair Supervisor
+11395,Railroad Track Repair Supervisor
+11396,Floor Helper
+11397,Care Director RN
+11399,Clinic Supervisor
+11400,Dairy Inspector
+11402,Plumber Supervisor
+11403,Pressure Supervisor
+11404,Print Inspector
+11405,Route Inspector
+11406,Selector
+11408,Case Management Associate
+11409,Forestry Engineer
+11412,Shovel Engineer
+11413,Area Coordinator
+11414,Compliance Tester
+11415,General Counselor
+11417,Principal Associate
+11419,Regulatory Coordinator
+11420,Treatment Coordinator
+11431,Heat Plant Specialist
+11440,Tank Truck Engine Mechanic
+11441,Transmission Technician
+11443,Change Analyst
+11444,Enterprise Analyst
+11446,Review Analyst
+11447,Area Director
+11448,Integration Director
+11449,Recreation Director
+11450,Assembly Cleaner
+11452,Form Worker
+11454,Scrap Worker
+11455,Ticket Worker
+11457,Assistant Casino Shift Manager
+11459,Channel Marketing Program Manager
+11464,Inside Channel Account Manager
+11479,Aircraft Maintenance Instructor
+11481,Delivery Helper
+11491,Cut in Worker
+11496,Machine Tool Technician Instructor
+11503,Mold Designer
+11504,Polisher Hand
+11505,Communications Tech
+11507,Client Architect
+11508,Surgery
+11514,Outside Plant Field Engineer
+11516,Safety Professional
+11517,Labor Gang Supervisor
+11522,Research Dairy Farm Supervisor
+11527,Appeals Specialist
+11530,Log Inspector
+11532,Portfolio Specialist
+11533,Signal Inspector
+11534,Trade Specialist
+11542,Entry Level Installation Technician
+11548,Counter Attendant
+11550,Customer Professional
+11553,Foreman OR Supervisor and Operator
+11554,Compliance Nurse
+11556,Diesel Tractor Operator
+11560,Fur Blower Operator
+11573,Utility Tractor Operator
+11576,Therapy Site Coordinator
+11577,Analytics Director
+11579,Mine Analyst
+11580,Personnel Analyst
+11581,Survey Analyst
+11582,Community Aide
+11583,Bank Consultant
+11585,Contact Acid Plant Operator
+11589,Cut Out Machine Operator
+11590,Cut Out Press Operator
+11595,Meter Mechanic
+11598,Alarm Operator
+11602,Knife Operator
+11603,Pusher Operator
+11606,Site Medical Director
+11616,Cost Control Specialist
+11626,Speech Teacher
+11629,Leader Assembler
+11638,Lockstitch
+11641,Environmental Aide
+11643,Bottom Worker
+11646,Soil Engineer
+11647,Vacuum Worker
+11650,Dental Front Office Assistant
+11665,Development Technical Lead
+11667,Real Estate Appraiser Supervisor
+11671,Technical Project Lead
+11673,Water Tender
+11676,Broadcast Supervisor
+11679,Gas Well Drilling Manager
+11682,Loading Supervisor
+11683,Marble Supervisor
+11684,Market Asset Protection Manager
+11685,Oil Well Drilling Manager
+11688,Transmission Supervisor
+11690,Wood Setter
+11691,Base Manager
+11692,Cage Manager
+11694,Circulation Manager
+11697,Dispatch Manager
+11698,Evaluation Manager
+11699,Fountain Manager
+11702,Intake Manager
+11704,Reimbursement Manager
+11705,Visual Inspector
+11718,Roller Maker
+11721,Experimental Technician
+11722,Fiber Technician
+11729,Fishing Tool Supervisor
+11730,Information Lead
+11741,Computer Technologist
+11742,Traffic Administrator
+11743,Warehouse Administrator
+11744,Benefits Coordinator
+11745,Collection Coordinator
+11748,Hospice Coordinator
+11750,Payroll Coordinator
+11753,Emergency Medicine Physician Assistant
+11754,Emergency Room Physician Assistant
+11758,Color Consultant
+11761,Benefits Director
+11764,Hospice Director
+11765,Payroll Director
+11766,Train Director
+11767,Parts Cleaner
+11773,Environmental Control Administrator
+11783,Embedded Case Manager
+11790,Auto Body Repair Teacher
+11792,Freight Traffic Consultant
+11793,Head Up Operator Helper
+11805,Rod Tape Operator
+11817,Hat Body Inspector
+11818,Radio Installer
+11820,Solar Installation Crew Supervisor
+11826,Laundry Clerk
+11827,Restaurant Inspector
+11828,Music Box Mechanic
+11829,Public Health Professor
+11831,Consumer Electronic Retail Specialist
+11832,Creative Assistant
+11834,Medical Charge Entry Specialist
+11836,Power Plant Installer
+11837,Review Assistant
+11838,Wind Farm Support Specialist
+11840,Manufacturing Tech
+11842,Agriculture Specialist
+11852,Study Specialist
+11853,Traffic Agent
+11854,Weapons Specialist
+11862,Pump Mechanic
+11863,Shift Mechanic
+11864,Account Leader
+11865,Business Leader
+11866,Clinical Leader
+11867,Customer Leader
+11868,Design Leader
+11869,Engineering Leader
+11870,Line Leader
+11871,Maintenance Leader
+11872,Medical Leader
+11873,Nurse Leader
+11874,Operations Leader
+11875,Press Leader
+11878,Research Leader
+11879,Retail Leader
+11880,Safety Leader
+11881,Sales Leader
+11882,School Leader
+11884,Extension Worker
+11887,Oven Worker
+11888,Parking Worker
+11896,Retail Merchandiser Technician
+11901,Materials Management Clerk
+11902,Contact Officer
+11905,Coal Trimmer Machine Operator
+11906,Nutrition Coordinator
+11908,Storage Consultant
+11910,Nuclear Waste Management Engineer
+11911,Processing Tech
+11914,Brusher Operator
+11915,Dumper Operator
+11918,Glove Operator
+11919,Hooker Operator
+11921,Scale Operator
+11922,Spreader Operator
+11923,Taper Operator
+11926,Procurement Engineer
+11928,Processor Helper
+11934,Nutrition Director
+11935,Pipe Cleaner
+11945,Loss Prevention and Safety Manager
+11950,Occupational Health Coordinator
+11951,Recreation Teacher
+11952,Tacker
+11953,Glass Cut Off Supervisor
+11954,Inventory Analyst
+11955,Sand Analyst
+11956,Occupational Therapy Director
+11957,Training Administrator
+11958,Dock Supervisor
+11959,Grinding Supervisor
+11962,Finishing Inspector
+11963,Shipping Inspector
+11965,Lining Mechanic
+11969,Diver
+11981,Data Technical Lead
+11984,In Processing Instructor
+11986,Bakery Technician
+11988,Insulator Technician
+11992,Radiology Clerk
+11994,Scale Technician
+11995,Ski Technician
+11997,Trailer Technician
+11998,Tube Tester
+12000,Pipe Setter
+12002,Digital Intern
+12004,Academic Assistant
+12005,Instructional Assistant
+12008,Roll Hand
+12009,Board Attendant
+12010,Construction Tech
+12016,Entry Level Project Engineer
+12019,Auto Cleaner
+12020,Glass Cleaner
+12024,Quality Control Lead
+12030,Drilling Field Specialist
+12032,Oncology Account Specialist
+12033,Oncology Rep Specialist
+12034,Solution Coordinator
+12035,Car Examiner
+12036,Driver Examiner
+12037,Field Examiner
+12039,Gas Examiner
+12042,Nurse Examiner
+12043,Operations Examiner
+12045,RN Examiner
+12046,School Examiner
+12047,Senior Examiner
+12052,Casino Worker
+12053,Channel Worker
+12054,Clay Worker
+12055,Clinical Therapist
+12058,Hand Therapist
+12060,Hide Worker
+12061,Line Therapist
+12062,Program Therapist
+12063,Second Worker
+12066,Journeyman
+12074,Assistant Chief Nursing Officer
+12075,Solution Director
+12077,Tower Director
+12078,Roller Cleaner
+12082,General Maintenance Helper
+12089,Sewing Teacher
+12090,Software Development Advisor
+12100,Branch Mechanic
+12101,Firer
+12103,Environmental Intern
+12106,Nuclear Medicine Officer
+12108,Coal Inspector
+12109,Glass Setter
+12110,Station Helper
+12111,Division Order Analyst
+12118,Rug Cleaning Supervisor
+12120,Information Security Risk Analyst
+12123,Emergency Medical Service Coordinator
+12124,Emergency Medical Services Coordinator
+12125,Human Resources Operations Coordinator
+12126,Human Resources Project Coordinator
+12128,Complaint Manager
+12129,DBA Manager
+12130,Engine Cleaner
+12131,Functional Manager
+12133,Mission Manager
+12136,Resolution Manager
+12140,Unix Manager
+12143,Roll Tester
+12144,Family Nurse
+12145,Freight Representative
+12146,Management Nurse RN
+12147,Nuclear Instructor
+12150,Campaign Specialist
+12153,Produce Specialist
+12157,Surveillance Specialist
+12159,Emergency Management System Director
+12160,Emergency Medicine Medical Director
+12161,Energy Systems Laboratory Director
+12165,Water Resources Program Director
+12167,Balance Engineer
+12169,Compressor Engineer
+12172,Photographic Engineer
+12173,Purchasing Engineer
+12174,Radiology
+12177,Physician Executive
+12178,Roller Setter
+12180,Learning Center Coordinator
+12182,Patient Accounts Coordinator
+12185,Window Clerk
+12194,Line Builder
+12195,Machine Builder
+12197,Professional Builder
+12198,Project Builder
+12199,Utility Accounts Director
+12203,Cafeteria Operator
+12214,Hog Operator
+12215,Jig Operator
+12217,Label Operator
+12224,Passenger Elevator Operator
+12229,Relief Operator
+12231,Second Floor Operator
+12232,Surgical Attendant
+12235,Wireless Operator
+12236,School Boat Driver
+12237,Client Relations Associate
+12238,Client Service Associate
+12239,Client Services Associate
+12240,Client Support Associate
+12241,Engine Setter
+12242,Area Field Worker
+12246,Bench Mechanic
+12247,Change Coordinator
+12249,Review Coordinator
+12250,Sampler
+12253,Mechanical Apprentice
+12255,Financial Professional
+12256,Community Health Program Representative
+12257,Bakery Supervisor
+12258,Banquet Supervisor
+12262,Fence Supervisor
+12263,Managing Supervisor
+12267,Solution Design and Analysis Manager
+12268,Spa Supervisor
+12269,Change Director
+12274,Gear Inspector
+12277,Senior Physician
+12279,Tree Inspector
+12287,Radiation Control Specialist
+12290,Cardiac Monitor Technician
+12294,County Program Technician
+12303,Slot Technician
+12304,Switch Technician
+12306,Rock Worker
+12307,Silk Worker
+12313,Taker
+12316,Glass Cutter Hand
+12320,Boiler House Inspector
+12321,Event Set Up Specialist
+12322,Field Property Loss Specialist
+12324,Outside Event Sales Specialist
+12327,Senior Loss Control Specialist
+12328,Senior Project Controls Specialist
+12333,Document Analyst
+12334,Revenue Analyst
+12337,Cigar Making Supervisor
+12344,Scrap Preparation Supervisor
+12347,Yarn Preparation Supervisor
+12348,Dry Cleaning Teacher
+12349,Front Office Representative
+12352,Employment Clerk
+12353,Hydraulic Oil Tool Operator
+12355,Inside Barrel Lathe Operator
+12357,Inventory Clerk
+12358,Merchandise Clerk
+12360,Packing Clerk
+12361,Regulatory Consultant
+12364,Accounting Representative
+12366,Automation Mechanic
+12368,Assurance Associate
+12369,Employment Assistant
+12371,Inventory Assistant
+12374,Customer Marketing Intern
+12375,Customer Operations Intern
+12377,Front End Mechanic
+12379,Mobile Home Park Manager
+12382,Seed District Sales Manager
+12385,Concrete Tester
+12394,Executive Compensation Analyst
+12395,Global Compensation Analyst
+12397,Laboratory Mechanic Helper
+12399,Physician Compensation Analyst
+12404,Television Production Clerk
+12406,Print Developer
+12407,Digital Advisor
+12412,Instructional Coordinator
+12413,Personnel Coordinator
+12414,Receiving Coordinator
+12415,Survey Coordinator
+12416,Molder Apprentice
+12417,Bridge Teacher
+12418,Nutrition Teacher
+12420,Insulation Inspector
+12421,Patrol Inspector
+12423,Button Breaker Operator
+12440,Nut Sorter Operator
+12446,Rock Crusher Operator
+12457,Academic Director
+12458,Club Director
+12461,Radiology Director
+12463,Survey Director
+12486,Architectural Engineer
+12487,Exchange Engineer
+12489,Owner
+12493,Regulatory and Compliance Technician
+12494,Insurance Professional
+12495,Child Nurse
+12496,Radio Tester
+12511,Design Technology Professor
+12512,Environmental Technology Professor
+12514,Office Technology Professor
+12515,Acute Specialist
+12516,Deck Specialist
+12518,Multimedia Specialist
+12519,Orthopedic Specialist
+12520,Reading Specialist
+12521,Cooker
+12523,Oil Field Tester
+12529,Insulation Board Coater Operator
+12531,Pharmacy Technician Program Director
+12534,Computer Assembler
+12551,Audit Analyst
+12552,Beater Operator
+12553,Brand Analyst
+12555,Hose Operator
+12556,Key Operator
+12557,Reel Operator
+12558,Splicer Operator
+12560,Yard Driver
+12563,Copy Center Specialist
+12574,Paper Pattern Inspector
+12580,Quality RN
+12581,Residential Installer
+12582,Transfer Clerk
+12583,Communications Intern
+12584,Program OR Project Administrator
+12587,Call Circuit Worker
+12593,Laboratory Animal Facility Supervisor
+12594,Research Animal Facility Supervisor
+12596,Educational Assistant
+12598,Cafeteria Supervisor
+12602,Clay Preparation Supervisor
+12604,Clothing Supervisor
+12609,Drawing Supervisor
+12610,Fashion Supervisor
+12615,Inspection Supervisor
+12619,Salvage Supervisor
+12621,Slot Supervisor
+12624,Floor Tech
+12625,Railroad Operating Engineer
+12626,Chain Saw Mechanic
+12631,Medical Affairs Director
+12633,Wire Setter
+12634,Body Designer
+12635,Loom Inspector
+12637,Yarn Inspector
+12646,Fish and Game Club Manager
+12647,Assistant Superintendent
+12648,Equipment Superintendent
+12649,Field Superintendent
+12652,Medical Superintendent
+12656,Project Superintendent
+12657,Sales Superintendent
+12658,School Superintendent
+12659,Service Superintendent
+12662,Retail Client Solutions Analyst
+12663,Surveillance Technician
+12665,Service Station Equipment Mechanic
+12666,Booth Manager
+12667,Delivery Tech
+12668,Detail Manager
+12669,ERP Manager
+12670,Graphics Manager
+12673,Phlebotomy Manager
+12675,Shellfish Manager
+12676,Sr. Manager
+12677,Supplier Manager
+12679,Verification Manager
+12680,Railroad Mechanic
+12681,Molder Setter
+12682,Tank Setter
+12684,Gas Fitter Helper
+12686,Clinical Practice Consultant
+12689,Physician Practice Consultant
+12701,Cold Work Operator
+12705,Lumber Stacker Operator
+12712,Technology Intern
+12715,Group Contract Analyst
+12723,Visual Developer
+12725,Benefits Consultant
+12729,Business Technology Architect
+12730,Chair Post Machine Operator
+12731,Clinical Rehabilitation Coordinator
+12734,Freight Associate
+12738,Hospice Consultant
+12740,Payroll Consultant
+12741,Performance Consultant
+12742,Rehabilitation Case Coordinator
+12762,Manufacturing Technology Professor
+12766,Construction Project Administrator
+12767,Engagement Engineer
+12770,Statistical Engineer
+12772,Collections Analyst
+12774,Public Relations Senior Associate
+12776,Document Clerk
+12777,Product Development Intern
+12778,Product Management Intern
+12779,Product Marketing Intern
+12781,Blasting
+12782,Die Cleaner
+12783,Vendor
+12784,Licensed Loan Officer Assistant
+12787,Sewing Inspector
+12788,Watch Inspector
+12790,Behavioral Assistant
+12791,Blood Bank Technician
+12795,Diamond Powder Technician
+12802,Screen Printing Inspector
+12803,Well Service Floor Worker
+12811,Copy Worker
+12815,Solutions Market Consultant
+12817,Air Cargo Specialist
+12818,Electric Needle Specialist
+12836,Management Retail Intern
+12838,Merchandise Coordinator
+12840,Corporate Intern
+12842,Automobile Leasing Supervisor
+12864,Income Tax Manager
+12869,Outpatient Case Manager
+12877,Fitness Director
+12881,Merchandise Director
+12882,Paper Sample Clerk
+12883,Railroad Maintenance Clerk
+12888,Room Service Food Service Attendant
+12890,General Assembler
+12892,Contact Lens Assistant
+12898,Business Quality Assurance Analyst
+12900,Frame Hand
+12902,Research Quality Assurance Analyst
+12903,Senior Quality Assurance Analyst
+12910,Cardiology Specialist
+12911,CRM Specialist
+12912,Epic Specialist
+12913,Events Specialist
+12916,Transition Specialist
+12917,UX Specialist
+12918,Media Intern
+12919,Safety Physician
+12923,Carver
+12924,Case Maker
+12927,Dairy Powder Mixer Operator
+12928,Finishing Powder Press Operator
+12929,Forest Fire Equipment Operator
+12932,Machine Shop Helper
+12934,Shop Mechanic Helper
+12935,Store Administrator
+12940,Lock Operator
+12942,Placer
+12943,Substation Operator
+12944,Toll Operator
+12947,Real Estate Instructor
+12950,Accounting Instructor
+12955,Curriculum Supervisor
+12958,Screw Supervisor
+12959,Surveillance Supervisor
+12963,Oil Well Cable Tool Operator
+12964,Oil Well Service Unit Operator
+12966,Precision Printing Worker
+12971,Manufacturing Intern
+12978,Advertising Associate
+12984,Bar Finish Operator
+12995,Facilitator
+13006,Yard Associate
+13007,Counter Installer
+13009,Assembly Inspector Helper
+13010,Test Department Helper
+13011,Cotton Inspector
+13012,Land Inspector
+13013,Store Hand
+13014,Train Inspector
+13015,Signal Mechanic
+13018,Furnace Cleaner
+13019,Access Analyst
+13023,QA Analyst
+13024,Title Clerk
+13025,Transport Analyst
+13031,Food Service Lead
+13035,Route Delivery Clerk
+13038,Energy Administrator
+13039,Nuclear Fuel Processing Technician
+13040,Radiology Teacher
+13041,Title Assistant
+13042,Wellness Assistant
+13043,Analytical Technician
+13044,Communications Advisor
+13045,Data Analysis Assistant
+13049,Lock Technician
+13053,Nursery Technician
+13054,Orthopedic Technician
+13058,Substation Technician
+13061,Mechanical Intern
+13068,Educational Coordinator
+13069,Intelligence Agent
+13070,Licensed Psychologist Director
+13076,Transfer Coordinator
+13077,Color Developer
+13087,Tractor Crane Engineer
+13091,Warehouse Helper
+13093,Educational Director
+13095,Bulk Mail Technician
+13102,Corporate Counselor
+13103,Shipping and Receiving Specialist
+13106,Cylinder Worker
+13108,Furnace Setter
+13109,Park Worker
+13110,Pin Worker
+13111,Wall Worker
+13114,Cold Storage Supervisor
+13119,Solution Consultant
+13120,Speech Pathology Supervisor
+13121,SQL Consultant
+13130,Insurance Plan Specialist
+13138,Technology Training Associate
+13144,Electronic Controls Repairer Supervisor
+13146,Practice Representative
+13147,Steel Post Installer Supervisor
+13148,Shop Lead
+13150,Application Counselor
+13151,Floor Cleaner
+13153,Drier Helper
+13154,Family Helper
+13155,Radio Electronics Officer
+13158,Technology Advisor
+13163,Financial Analyst Intern
+13164,Financial Services Intern
+13167,Science Intern
+13168,Agent Contract Clerk
+13169,Aircraft Log Clerk
+13170,Automobile Contract Clerk
+13175,Mortgage Processing Clerk
+13176,Transportation Driver
+13177,Wheel Installer
+13179,Administrative Tech
+13186,Mortgage Loan Assistant
+13189,Test Lead
+13191,RN Support Services
+13192,Supervisor Home Energy Consultant
+13194,Civil Engineering Director
+13196,Staff Counselor
+13198,Etcher
+13199,Front Office Attendant
+13204,Tube Station Attendant
+13207,Child Support Case Officer
+13209,Senior Commercial Loan Officer
+13210,Sheet Tester
+13215,Kitchen Clerk
+13216,Yard Attendant
+13217,Air Shovel Operator
+13218,Coding Analyst
+13226,Electric Shovel Operator
+13230,Informatics Analyst
+13234,Pin Drafter Operator
+13238,Search Analyst
+13239,Seed Cleaner Operator
+13241,Shovel Loader Operator
+13243,Stripper Shovel Operator
+13246,Cloth Examiner Hand
+13247,Cloth Trimmer Hand
+13248,Motor Vehicle Representative
+13251,Conservation Assistant
+13254,Merchandising Assistant
+13255,Occupational Therapist Rehab Manager
+13260,Actuarial Manager
+13261,Biofuels Manager
+13263,Closing Manager
+13265,Document Coordinator
+13269,Lean Manager
+13270,Lending Manager
+13273,Medication Manager
+13275,Mobility Manager
+13276,Neurology Manager
+13277,Probation Manager
+13278,Quantitative Manager
+13279,Release Manager
+13280,Retirement Manager
+13281,Revenue Coordinator
+13282,Salt Manager
+13283,Satellite Manager
+13284,Script Manager
+13286,Ultrasound Manager
+13287,Vocational Coordinator
+13288,Writing Manager
+13289,Center Medical and Lab Director
+13290,Detailer
+13301,Furnace Tender
+13303,Grader Tender
+13326,Child Development Instructor
+13327,Dumper
+13328,Retail Product Advisor
+13337,Revenue Director
+13340,Vocational Director
+13343,Budget Specialist
+13345,Child Health Associate
+13346,Desktop Specialist
+13347,Donor Specialist
+13349,Flow Specialist
+13350,Implementation Specialist
+13351,Integrated Specialist
+13352,Sustainability Specialist
+13353,Volunteer Specialist
+13355,Change Consultant
+13356,Concrete Crusher Loader Operator
+13359,Credit Front Office Developer
+13362,Crusher Loader Equipment Operator
+13364,Review Consultant
+13365,Tool Designer Apprentice
+13367,Tool Setter Apprentice
+13368,Basket Operator
+13369,Beauty Operator
+13371,Cone Operator
+13373,Environmental Lead
+13374,Matcher Operator
+13377,Relay Operator
+13378,Screener Operator
+13382,Forest Fire Specialist Supervisor
+13383,Fuel System Maintenance Supervisor
+13384,Tool Builder
+13385,Campus Supervisor
+13386,Deck Supervisor
+13387,Extrusion Supervisor
+13388,Instrumentation Supervisor
+13389,Nursery Supervisor
+13390,Substation Supervisor
+13392,Wastewater Supervisor
+13393,Group Billing Coordinator
+13394,Legal Billing Coordinator
+13395,Medical Billing Coordinator
+13399,Rubber Tester
+13400,Paint Stock Clerk
+13402,Box Tender
+13403,Delivery Aide
+13405,Resource Agent
+13415,Global Compensation Director
+13417,Railroad Construction Director
+13418,Boiler Attendant
+13420,Central Supply Worker
+13423,Radio Survey Worker
+13425,Oil Well Services Field Supervisor
+13428,Film Processing Utility Worker
+13432,Lead Section Supervisor
+13434,Planner Intern
+13437,Refrigeration Repair Supervisor
+13440,Casing Worker
+13442,Motor Setter
+13444,Package Worker
+13445,Terminal Worker
+13447,Nursing Surgical Services Director
+13449,Senior Patient Account Representative
+13450,Art Installer
+13453,Pre Billing Specialist
+13455,Financial Health Counselor
+13456,Financial Services Counselor
+13461,Cardiology Technician
+13463,Manufacturing Advisor
+13465,Relay Technician
+13468,Weight Engineer
+13472,Surgery Teacher
+13473,Aircraft Cleaner
+13476,Network Intern
+13483,Access Clerk
+13486,Time Clerk
+13488,Television Repair Teacher
+13489,Adult Family Home Program Manager
+13490,Brand Coordinator
+13492,Computer Builder
+13493,Dyer Assistant
+13494,Title Coordinator
+13495,Transport Assistant
+13496,Wellness Coordinator
+13500,Cyber Analyst
+13501,Outreach Analyst
+13502,Parking Analyst
+13505,Welfare Analyst
+13506,Case Aide
+13511,Instructional Consultant
+13512,Personnel Consultant
+13517,Communications Technologist
+13519,Lens Molding Equipment Operator
+13520,Receiving Distribution Station Operator
+13522,Rotary Veneer Machine Operator
+13523,Shipping and Receiving Operator
+13524,Audit Director
+13525,Brand Director
+13526,Business Office Technology Instructor
+13528,Machine Tool Technology Instructor
+13531,Office Systems Technology Instructor
+13532,Power Equipment Technology Instructor
+13534,Wellness Director
+13542,Trimmer Machine
+13545,Well Service Pump Equipment Operator
+13554,Package Lift Operator
+13567,In Store Representative
+13570,Principal Cyber Engineer
+13573,Pipe Fitter Helper
+13574,Air Box Tester
+13576,Agricultural Labor Camp Manager
+13577,Batch and Furnace Manager
+13578,Foreign Exchange Services Manager
+13581,Roll on Worker
+13583,Glass Technologist
+13584,Mechanic Welder Truck Driver
+13585,Counter Hand
+13587,Life Science Research Assistant
+13591,Transportation Associate
+13592,Center Sales and Service Associate
+13593,Food Mixer Assembler
+13594,Instructional Media Services Technician
+13596,Nuclear Medicine Medical Director
+13597,Pattern Attendant
+13602,Baster
+13607,Outside Sales Inspector
+13617,Unit Aide
+13618,Bilingual Teacher
+13621,Help Desk Supervisor
+13626,IT Intern
+13628,Internal Control Consultant
+13630,Auto Painter Helper
+13631,Glass Cutter Helper
+13632,House Painter Helper
+13636,Shipping Support Clerk
+13637,Warehouse Shipping Clerk
+13638,Beam Worker
+13639,Fabric Worker
+13640,Gas Cutter
+13641,Heating Worker
+13642,Hooker
+13643,Layout Worker
+13655,Blasting Entry Specialist
+13657,Clinical Rehab Specialist
+13662,Facilities Officer
+13666,Regional Telecommunications Specialist
+13671,University Extension Specialist
+13673,Clerical Clerk
+13674,Coding Clerk
+13675,Factory Clerk
+13677,Conservation Coordinator
+13678,Decorator Consultant
+13679,Final Block Press Operator
+13682,Merchandising Coordinator
+13684,Certified Dietary Manager
+13689,Green Building Design Specialist
+13693,Microbiology Lab Manager
+13696,Senior Talent Acquisition Specialist
+13700,Workers Compensation Claims Specialist
+13701,Bonding Supervisor
+13703,Desktop Operator
+13704,Garage Supervisor
+13705,Irrigation Supervisor
+13707,Paving Supervisor
+13708,Roaster Operator
+13710,Shuttle Operator
+13713,Beef Specialist
+13714,Cardiovascular Specialist
+13715,Cheese Specialist
+13717,Coding Assistant
+13718,Email Specialist
+13720,Injection Specialist
+13724,Underwriting Specialist
+13725,Utilization Specialist
+13726,Validation Specialist
+13727,Workforce Specialist
+13729,Plastic Installer
+13730,Social Media Senior Associate
+13731,Charge Master Analyst
+13734,Distribution Associate
+13735,Furniture Associate
+13736,Records Associate
+13741,Merchandising Director
+13745,Livestock Inspector
+13747,Receiving Inspector
+13751,Hot Iron Worker
+13752,Lumber Yard Worker
+13756,Paper Bag Inspector
+13770,Salvage Engineer
+13772,Switch Engineer
+13773,Unit Tender
+13781,Utility Hand
+13782,Engine House Helper
+13783,Engine Room Helper
+13786,Steel Die Press Set Up Operator
+13787,Grain Broker and Market Operator
+13791,Assembly Machine Set Up Mechanic
+13792,Automatic Line Set Up Mechanic
+13793,Design Chief
+13799,Communications Lead
+13818,Budget Technician
+13819,Desktop Technician
+13820,Donor Technician
+13821,Fleet Technician
+13822,Implementation Technician
+13824,Lot Technician
+13832,City Distribution Clerk
+13833,Deputy City Clerk
+13834,Die Storage Clerk
+13835,Fur Storage Clerk
+13836,Pattern Storage Clerk
+13837,Steel Tester
+13844,Utility Agent
+13845,Guard Driver
+13846,Administrative Aide
+13847,Insurance Executive
+13849,Washer Engineer Helper
+13852,Transportation Attendant
+13854,Housing Assistant Property Manager
+13855,Boiler House Mechanic
+13856,Boiler Shop Mechanic
+13858,Aerospace Manager
+13859,Bond Manager
+13860,Commissary Manager
+13861,Culinary Manager
+13862,Diabetes Manager
+13863,Efficiency Manager
+13864,Framing Manager
+13865,Geological Manager
+13866,Gift Manager
+13867,Greenhouse Manager
+13868,Harvest Manager
+13869,Intervention Manager
+13871,Ranch Manager
+13873,Manufacturing Technologist
+13874,Staff Technologist
+13880,Central Office Operator Supervisor
+13881,Central Office Repairer Supervisor
+13882,Central Supply Technician Supervisor
+13885,Shipping and Receiving Supervisor
+13889,Employment Consultant
+13892,Surgery Consultant
+13893,Dye House Wheel Operator
+13894,Metal Wire Coating Operator
+13907,Project Coordinator RN
+13915,Car Wash Supervisor
+13917,Newspaper Distributor Supervisor
+13919,Package Center Supervisor
+13920,Restaurant Kitchen and Service Manager
+13921,RN Document Improvement Specialist
+13924,Tool Repairer
+13926,Analytics Developer
+13927,Labor Relations Teacher
+13931,Host Coordinator
+13932,Technology Lead
+13933,Transport Coordinator
+13934,Airport Clerk
+13936,Drug Clerk
+13937,Extension Clerk
+13938,Nurse Practitioner Physician Assistant
+13942,Coil Inspector
+13943,Decorator Inspector
+13945,Outreach Assistant
+13946,Parking Assistant
+13948,Access Director
+13949,Mechanical Technologist
+13951,Blasting Worker
+13952,Grocery Worker
+13953,Logging Worker
+13954,Vault Worker
+13955,Warp Worker
+13959,Patient Care Technician Instructor
+13960,Senior Information Security Architect
+13963,Diesel Instructor
+13965,Green Chain Worker
+13966,Green End Worker
+13969,Asset Analyst
+13971,Deliverer
+13972,Treater
+13980,Shoe Associate
+13981,Strategic Account Director
+13983,Bed Control Specialist
+13989,Facility Mechanic
+13991,Insulation Mechanic
+13999,Opener
+14000,Sizer
+14001,Product Safety Lead
+14012,Owner Consulting Engineer
+14013,Owner Professional Engineer
+14017,Street Roller Engineer
+14022,Principal Architect
+14023,Registered Client Associate
+14025,Mold Cleaner
+14026,Paper Cleaner
+14028,Electrician Helper
+14029,Printer Helper
+14030,Credit Card Control Clerk
+14034,Farm Mechanic Apprentice
+14035,Printing Agent
+14036,Retail Sales Lead
+14038,Clerk Checker
+14041,Field Checker
+14042,Food Checker
+14043,Insurance Checker
+14044,Metal Checker
+14046,Production Checker
+14047,Program Checker
+14049,Security Checker
+14050,Tool Checker
+14051,Brusher
+14056,Consulting Group Analyst
+14061,Test Examiner
+14062,Hearing Aid Assembly Supervisor
+14074,Continuous Still Operator
+14105,Calender Supervisor
+14109,Milling Supervisor
+14110,Pastry Supervisor
+14111,Rate Supervisor
+14113,Roaster Supervisor
+14116,Teaching Supervisor
+14120,Acquisition Consultant
+14121,Drier Transfer Car Operator
+14122,Educational Consultant
+14125,Cell Attendant
+14126,Cleaning Attendant
+14131,Header Operator
+14134,Parts Counter Representative
+14135,Shaker Operator
+14136,Slip Operator
+14138,Traveling Operator
+14139,Application Lead
+14143,Store Operations Associate
+14144,Store Stock Associate
+14145,Store Warehouse Associate
+14147,Beater Engineer
+14148,Dredge Engineer
+14150,Graduate Engineer
+14151,Mold Setter
+14152,Mud Engineer
+14155,Artillery Specialist
+14158,Licensing Specialist
+14159,Math Specialist
+14161,Placement Specialist
+14162,Promotions Specialist
+14177,Disability Case Manager
+14190,Sound Effects Manager
+14194,Coating Inspector
+14195,Lumber Inspector
+14197,Water Resources Technical Officer
+14198,Clerical Coordinator
+14199,Coding Coordinator
+14200,Informatics Coordinator
+14201,Search Coordinator
+14202,Area Mechanic
+14203,Business Mail Entry Clerk
+14205,Loom Mechanic
+14211,HR Clerk
+14212,Maintenance Construction Helper
+14213,Pit Clerk
+14214,Welder Fitter Helper
+14217,Coding Director
+14218,Manufacturing Lead
+14219,Search Director
+14220,Talent Acquisition Relationship Manager
+14227,Television Tube Inspector
+14228,Equipment Man
+14257,Material Control Associate
+14258,Station Tender
+14259,Accountant Helper
+14262,Business Support Professional
+14263,Cardiovascular Technician
+14264,Clinical Services Professional
+14271,Roving Technician
+14272,Sales Service Professional
+14273,Sanitation Technician
+14274,Technical Support Professional
+14275,Underwriting Technician
+14277,Validation Technician
+14278,Assessment Analyst
+14281,Drill Instructor
+14283,Financial Coach
+14286,Process Coach
+14287,Project Coach
+14288,Sales Coach
+14289,Tank Builder Helper
+14290,Tank Setter Helper
+14293,Mechanical Lead
+14294,Processing Lead
+14295,Spring Floor Service Worker
