@@ -1,0 +1,1851 @@
+rank,title_es,title_pt,title_fr,title_ar
+27460,Especialista en Protección de Aguas de Origen,Especialista em Proteção de Águas de Origem,Spécialiste en protection des eaux de source,أخصائي حماية مياه المصدر
+27462,Despachador de cables,Despachante de cabos,Répartiteur de câbles,مرسل الكابلات
+27463,Fabricante de tambores,Construtor de tambores,Monteur de tambours,بانٍ للبراميل
+27466,Especialista en admisiones,Especialista em admissões,Spécialiste des admissions,أخصائي قبول
+27467,Especialista auxiliar,Especialista auxiliar,Spécialiste auxiliaire,أخصائي مساعد
+27471,Especialista en comisiones,Especialista em comissões,Spécialiste des commissions,أخصائي عمولات
+27472,Especialista en cobertura,Especialista em cobertura,Spécialiste de la couverture,أخصائي تغطية
+27475,Especialista en pruebas,Especialista em evidências,Spécialiste des preuves,أخصائي أدلة
+27478,Especialista en información,Especialista em informação,Spécialiste de l'information,أخصائي معلومات
+27479,Especialista en ingredientes,Especialista em ingredientes,Spécialiste des ingrédients,أخصائي مكونات
+27480,Especialista en notas,Especialista em notas,Spécialiste des notes,أخصائي ملاحظات
+27481,Especialista en polímeros,Especialista em polímeros,Spécialiste des polymères,أخصائي بوليمرات
+27483,Especialista en reurbanización,Especialista em requalificação urbana,Spécialiste du réaménagement,أخصائي إعادة التطوير
+27484,Especialista en trituración,Especialista em trituração,Spécialiste du déchiquetage,أخصائي تمزيق
+27486,Especialista en estrellas,Especialista em estrelas,Spécialiste des étoiles,أخصائي نجوم
+27487,Becario universitario,Estagiário universitário,Stagiaire universitaire,متدرب جامعي
+27488,Oficial de economato,Oficial de intendência,Officier d'intendance,ضابط تموين
+27490,Responsable de donaciones,Responsável por donativos,Responsable des dons,مسؤول التبرعات
+27492,Alimentador de máquinas de montaje,Alimentador de máquinas de montagem,Alimentateur de machines d'assemblage,مغذي آلات التجميع
+27494,Seleccionador de tela,Selecionador de tecido,Trieur de tissu,منتقي أقمشة
+27495,Seleccionador de relleno,Selecionador de enchimento,Trieur de charges,منتقي حشو
+27496,Recolector manual,Colhedor manual,Cueilleur manuel,منتقٍ يدوي
+27500,Seleccionador de rollos,Selecionador de rolos,Trieur de rouleaux,منتقي لفائف
+27501,Seleccionador de rodillos,Selecionador de rolos,Trieur de rouleaux,منتقي بكرات
+27504,Encargado de campamento de autocaravanas,Encarregado de parque de campismo,Préposé de camping-car,مشرف مخيم السيارات
+27508,Superintendente de hotel,Superintendente de hotel,Surveillant d'hôtel,مشرف فندق
+27511,Jefe de producción,Chefe de produção,Chef de production,رئيس الإنتاج
+27513,Examinador de pruebas de conducción,Examinador de testes de condução,Examinateur de conduite,ممتحن اختبار القيادة
+27514,Asistente de unidad de donantes de sangre,Assistente de unidade de dadores de sangue,Assistant de l'unité de don du sang,مساعد وحدة التبرع بالدم
+27515,Auxiliar y repartidor,Auxiliar e distribuidor,Employé-convoyeur,موظف ناقل
+27516,Transportista de tela,Transportador de tecido,Convoyeur de tissu,ناقل أقمشة
+27517,Ingeniero de reducción de costes,Engenheiro de redução de custos,Ingénieur en réduction des coûts,مهندس تخفيض التكاليف
+27519,Transportista de vidrio,Transportador de vidro,Convoyeur de verre,ناقل زجاج
+27522,Transportista de moldes,Transportador de moldes,Convoyeur de moules,ناقل قوالب
+27525,Transportista de papel,Transportador de papel,Convoyeur de papier,ناقل ورق
+27532,Transportista de rollos,Transportador de rolos,Convoyeur de rouleaux,ناقل لفائف
+27537,Transportista de pruebas,Transportador de testes,Convoyeur d'essais,ناقل اختبارات
+27538,Transportista de herramientas,Transportador de ferramentas,Convoyeur d'outils,ناقل أدوات
+27540,Transportista de tubos,Transportador de tubos,Convoyeur de tubes,ناقل أنابيب
+27545,Auditor clínico,Auditor clínico,Auditeur clinique,مدقق سريري
+27550,Auditor de campo,Auditor de campo,Auditeur de terrain,مدقق ميداني
+27555,Auditor de préstamos,Auditor de empréstimos,Auditeur de prêts,مدقق قروض
+27556,Auditor médico,Auditor médico,Auditeur médical,مدقق طبي
+27557,Auditor de enfermería,Auditor de enfermagem,Auditeur infirmier,مدقق تمريض
+27558,Auditor de oficina,Auditor de escritório,Auditeur de bureau,مدقق مكتبي
+27559,Auditor de calidad,Auditor de qualidade,Auditeur qualité,مدقق جودة
+27560,Auditor de seguridad,Auditor de segurança,Auditeur sécurité,مدقق أمن
+27572,Montador de bobinas,Montador de bobinas,Monteur de bobines,مجمّع ملفات
+27574,Mezclador de suelo,Misturador de solo,Malaxeur de terre,خلاط أرضي
+27575,Mezclador de pulverización,Misturador de pulverização,Mélangeur de pulvérisation,خلاط رش
+27577,Instalador de persianas,Instalador de estores,Installateur de stores,مركّب ستائر
+27586,Inspector de duelas de barril,Inspetor de aduelas de barril,Inspecteur de douves de tonneau,مفتش ألواح البراميل
+27587,Inspector de ruedas de pulido,Inspetor de rodas de polimento,Inspecteur de meules de polissage,مفتش عجلات الصقل
+27590,Inspector de fundas de cojines,Inspetor de capas de almofadas,Inspecteur de housses de coussins,مفتش أغطية الوسائد
+27591,Inspector de rollos completos,Inspetor de rolos completos,Inspecteur de rouleaux pleins,مفتش اللفائف الكاملة
+27592,Cargador de grano,Carregador de grãos,Chargeur de grains,محمل الحبوب
+27593,Inspector de espiral I,Inspetor de espiral de relógio I,Inspecteur de spiral I,مفتش الزنبرك الحلزوني I
+27594,Inspector de espiral II,Inspetor de espiral de relógio II,Inspecteur de spiral II,مفتش الزنبرك الحلزوني II
+27599,Manipulador de bloques,Manipulador de blocos,Manutentionnaire de blocs,مناول كتل
+27600,Verificador de telares,Verificador de teares,Contrôleur de métiers à tisser,فاحص أنوال
+27602,Asociado de informes a clientes,Associado de relatórios a clientes,Chargé de reporting clients,موظف إعداد تقارير العملاء
+27606,Probador de pasteles,Testador de bolos,Testeur de gâteaux,فاحص الكعك
+27607,Probador de cigarrillos,Testador de cigarros,Testeur de cigarettes,فاحص السجائر
+27608,Probador de huevos,Testador de ovos,Testeur d'œufs,فاحص البيض
+27610,Profesor de evaluación y tratamiento de salud,Professor de avaliação e tratamento de saúde,Enseignant en évaluation et traitement de la santé,معلم تقييم العلاج الصحي
+27611,Preparador de equipos de serigrafía,Preparador de equipamento de serigrafia,Régleur d'équipements de sérigraphie,ضابط إعداد معدات الطباعة بالشاشة
+27612,Recortador de acabados,Aparador de acabamentos,Ébarbeur de finition,مشذّب تشطيب
+27618,Clasificador de piedra,Classificador de pedra,Trieur de pierres,مصنّف أحجار
+27620,Coordinador de asistencia,Coordenador de assistência,Coordinateur d'assistance,منسق المساعدة
+27621,Director de sistemas empresariales,Diretor de sistemas empresariais,Directeur des systèmes d'entreprise,مدير أنظمة الأعمال
+27622,Coordinador de alfabetización,Coordenador de literacia,Coordinateur d'alphabétisation,منسق محو الأمية
+27626,Coordinador de traumatología,Coordenador de trauma,Coordinateur traumatologie,منسق الصدمات
+27628,Ayudante de instalador eléctrico residencial,Ajudante de eletricista residencial,Aide électricien résidentiel,مساعد كهربائي منازل
+27632,Ayudante de conductor de ruta comercial,Ajudante de motorista de rota comercial,Aide chauffeur de tournée commerciale,مساعد سائق جولات المبيعات
+27638,Supervisor de estación de bombeo de gas,Supervisor de estação de bombagem de gás,Superviseur de station de pompage de gaz,مشرف محطة ضخ الغاز
+27639,Prácticas hospitalarias,Estágio hospitalar,Stage hospitalier,تدريب في المستشفى
+27640,Extractor de torno,Extrator de torno,Tireur de tour,ساحب المخرطة
+27649,Supervisor de tratamiento y bombeo,Supervisor de tratamento e bombagem,Superviseur de traitement et de pompage,مشرف المعالجة والضخ
+27650,Asistente del director,Assistente do diretor,Assistant du directeur,مساعد المدير
+27653,Acabador de embarcaciones,Acabador de embarcações,Finisseur de bateaux,مُنهي تشطيب القوارب
+27654,Inspector de línea,Inspetor de linha,Inspecteur de ligne,مفتش خط
+27655,Líder instructivo,Líder pedagógico,Responsable pédagogique,قائد تعليمي
+27656,Gerente de línea,Gerente de linha,Responsable de ligne,مدير خط
+27658,Vendedor-conductor de camión,Vendedor-motorista de camião,Vendeur-chauffeur de camion,بائع سائق شاحنة
+27659,Director de bioestadística,Diretor de bioestatística,Directeur de biostatistique,مدير الإحصاء الحيوي
+27660,Director de categoría,Diretor de categoria,Directeur de catégorie,مدير الفئة
+27663,Director de purificación,Diretor de purificação,Directeur de purification,مدير التنقية
+27665,Director de residencia,Diretor de residência,Directeur de résidence,مدير السكن
+27667,Director de traumatología,Diretor de trauma,Directeur de traumatologie,مدير الصدمات
+27668,Limpiador de diamantes,Limpador de diamantes,Nettoyeur de diamants,منظف الماس
+27670,Jefe de turno minorista,Chefe de turno no retalho,Chef d'équipe de vente au détail,قائد وردية بيع بالتجزئة
+27674,Redactor de contratos,Redator de contratos,Rédacteur de contrats,كاتب عقود
+27675,Reclutador clínico,Recrutador clínico,Recruteur clinique,مسؤول توظيف سريري
+27700,Limpiador de algodón de desecho,Limpador de algodão residual,Nettoyeur de coton de déchet,منظف القطن المهدور
+27702,Técnico de mantenimiento de simuladores Link,Técnico de manutenção de simuladores Link,Agent de maintenance de simulateurs Link,عامل صيانة جهاز Link Trainer
+27703,Trabajador de servicios de actividades terapéuticas,Trabalhador de serviços de atividades terapêuticas,Agent des services d'activités thérapeutiques,عامل خدمات الأنشطة العلاجية
+27704,Auxiliar de servicio de vehículos de títulos,Auxiliar de serviço de veículos de título,Préposé au service des véhicules titrés,مساعد خدمة مركبات الملكية
+27705,Trabajador de cenizas,Trabalhador de cinzas,Ouvrier des cendres,عامل الرماد
+27706,Trabajador de abejas (apicultor),Trabalhador de abelhas (apicultor),Ouvrier apicole,عامل نحل
+34526,Ayudante de traslado de casas,Ajudante de mudança de casas,Aide déménageur de maisons,مساعد نقل المنازل
+34527,Ayudante de unión de metales,Ajudante de ligação de metais,Aide au collage de métaux,مساعد ربط المعادن
+34528,Ayudante de probador de relés,Ajudante de testador de relés,Aide testeur de relais,مساعد فاحص المرحلات
+34529,Ayudante de colada de acero,Ajudante de vazamento de aço,Aide coulée d'acier,مساعد صب الفولاذ
+34530,Ayudante de acabado de terrazo,Ajudante de acabamento de terrazo,Aide finisseur de terrazzo,مساعد تشطيب التيرازو
+34531,Ayudante de colocador de terrazo,Ajudante de aplicador de terrazo,Aide poseur de terrazzo,مساعد مركّب التيرازو
+34532,Ayudante de mecánico de terrazo,Ajudante de mecânico de terrazo,Aide mécanicien de terrazzo,مساعد ميكانيكي التيرازو
+34533,Ayudante de pulidor de terrazo,Ajudante de polidor de terrazo,Aide polisseur de terrazzo,مساعد مصقل التيرازو
+34534,Ayudante de operario de terrazo,Ajudante de operário de terrazo,Aide ouvrier en terrazzo,مساعد عامل التيرازو
+34539,Supervisor de flores artificiales,Supervisor de flores artificiais,Superviseur de fleurs artificielles,مشرف الزهور الاصطناعية
+34542,Supervisor de extremos de remolacha,Supervisor de extremidades de beterraba,Superviseur de l'extrémité betterave,مشرف نهايات البنجر
+34544,Supervisor de encogimiento de tela,Supervisor de encolhimento de tecido,Superviseur de rétrécissement des tissus,مشرف تقليص الأقمشة
+34545,Supervisor de estación de servicios,Supervisor de posto de conforto,Superviseur de station de confort,مشرف محطة الراحة
+34547,Supervisor de fusión en cubilote,Supervisor de fusão em cubilô,Superviseur de fusion au cubilot,مشرف الصهر في الفرن القبوي
+34549,Supervisor de levadura seca,Supervisor de levedura seca,Superviseur de levure sèche,مشرف الخميرة المجففة
+34550,Supervisor de tarifa dual,Supervisor de taxa dupla,Superviseur à double tarif,مشرف الأسعار المزدوجة
+34551,Supervisor de plateado manual,Supervisor de prateamento manual,Superviseur d'argentage manuel,مشرف الفضية اليدوية
+34558,Supervisor de azúcar glas,Supervisor de açúcar em pó,Superviseur de sucre en poudre,مشرف السكر البودرة
+34562,Supervisor de colocación de escollera,Supervisor de colocação de enrocamento,Superviseur de mise en place d'enrochement,مشرف وضع الحجارة المرصوفة
+34563,Supervisor de clasificación de rosas,Supervisor de classificação de rosas,Superviseur de calibrage des roses,مشرف تصنيف الورود
+34567,Supervisor de trabajos en costa,Supervisor de obras costeiras,Superviseur des travaux côtiers,مشرف أعمال الشاطئ
+34575,Supervisor de cobertura batida,Supervisor de cobertura batida,Superviseur de garniture fouettée,مشرف الكريمة المخفوقة
+34576,Auxiliar de reservas de banco de sangre,Auxiliar de marcações do banco de sangue,Employé de réservation de banque du sang,موظف حجز بنك الدم
+34579,Auxiliar de existencias de bodega,Auxiliar de stock de adega,Employé de stock de cave à vin,موظف مخزون قبو النبيذ
+34582,Auxiliar de resúmenes,Auxiliar de resumos,Employé aux abrégés,موظف الملخصات
+34583,Auxiliar de asesoría,Auxiliar de aconselhamento,Employé conseil,موظف استشارات
+34586,Dependiente de charcutería,Empregado de charcutaria,Employé de charcuterie,موظف محل المأكولات الجاهزة
+34587,Auxiliar de edición,Auxiliar de edição,Employé à la rédaction,موظف تحرير
+34588,Auxiliar de envíos urgentes,Auxiliar de envios expressos,Employé d'envois express,موظف الشحن السريع
+34596,Auxiliar de muestrarios,Auxiliar de amostras de tecido,Employé d'échantillons textiles,موظف عينات الأقمشة
+34597,Auxiliar de almacén de herramientas,Auxiliar de ferramentaria,Employé de magasin d'outillage,موظف مستودع الأدوات
+34598,Auxiliar de rendimiento,Auxiliar de rendimento,Employé de rendement,موظف الإنتاجية
+34599,Asociado de servicios al visitante,Associado de serviços ao visitante,Chargé d'accueil des visiteurs,موظف خدمات الزوار
+34600,Asistente de congeladora de helados,Assistente de congeladores de gelados,Assistant de sorbetière,مساعد مجمّدة الآيس كريم
+34601,Clasificador de diamantes,Classificador de diamantes,Trieur de diamants,فارز الماس
+34604,Verificador de emisiones,Verificador de emissões,Contrôleur de diffusion,فاحص البث
+34605,Verificador de carga,Verificador de carregamento,Contrôleur de chargement,فاحص التحميل
+34608,Asistente de ortodoncia,Assistente de ortodontia,Assistant orthodontiste,مساعد تقويم الأسنان
+34611,Limpiador de cucharones,Limpador de conchas de vazamento,Nettoyeur de poche de coulée,منظف المغارف
+34614,Montador de fontanería,Montador de canalização,Monteur de plomberie,مجمّع السباكة
+34615,Montador de bobinas,Montador de bobinas,Monteur de bobines,مجمّع البكرات
+34623,Probador final de inducidos,Testador final de induzidos,Testeur final d'induits,فاحص الأدوار النهائي
+34625,Trabajador de trazado de hélices,Trabalhador de traçado de hélices,Opérateur de traçage d'hélices,عامل تخطيط المراوح
+34635,Fabricante de remaches,Fabricante de rebites,Fabricant de rivets,صانع المسامير
+34636,Fabricante de transformadores,Fabricante de transformadores,Fabricant de transformateurs,صانع المحولات
+34637,Especialista en operaciones aerotransportadas y lanzamiento aéreo,Especialista em operações aerotransportadas e lançamento aéreo,Spécialiste aéroporté et largage aérien,أخصائي الإنزال الجوي والتسليم الجوي
+34642,Ejecutivo de cuentas junior,Executivo de contas júnior,Chargé de compte junior,مدير حسابات مبتدئ
+34643,Máquina enfriadora de hielo,Máquina de fabrico de gelo,Machine à glace,آلة صنع الثلج
+34644,Ayudante de almacén de revistas,Ajudante de depósito de revistas,Aide au magasin,مساعد المستودع
+34645,Educador de desarrollo personal,Educador de desenvolvimento pessoal,Éducateur en développement personnel,مربي التنمية الشخصية
+34647,Ayudante de escariador,Ajudante de alargador,Aide alésoir,مساعد المِقشطة
+34648,Formador de proveedores clínicos,Formador de prestadores clínicos,Formateur de prestataires cliniques,مدرب مقدمي الخدمات السريرية
+34650,Acabador de bordes,Acabador de bordas,Finisseur de bords,مُنهي الحواف
+34651,Marcador de forros,Marcador de forros,Traceur de doublures,مُعلِّم البطانات
+34654,Ajustador de cajones,Ajustador de gavetas,Ajusteur de tiroirs,مركّب الأدراج
+34658,Recaudador municipal,Cobrador municipal,Percepteur municipal,محصل المدينة
+34659,Transportista de carbón,Transportador de carvão,Convoyeur de charbon,ناقل الفحم
+34660,Cosedor de muestras,Costureiro de amostras,Piqueur d'échantillons,خياط العينات
+34664,Lavador de lana,Lavador de lã,Laveur de laine,غاسل الصوف
+34665,Operario de traviesas,Homem de travessas,Poseur de traverses,عامل الروابط
+34666,Agente de economía doméstica de distrito,Agente de economia doméstica distrital,Agent de économie familiale de district,وكيل الاقتصاد المنزلي بالمنطقة
+34667,Educador en tabaquismo,Educador em tabagismo,Éducateur en matière de tabac,مربي التبغ
+34668,Instalador de toldos,Instalador de toldos,Installateur de stores banne,مركّب المظلات
+34671,Prácticas en joyería,Estágio em joalharia,Stage en joaillerie,تدريب في المجوهرات
+34674,Preparador de bolsillos,Preparador de bolsos,Régleur de poches,ضابط إعداد الجيوب
+34675,Preparador de vástagos,Preparador de hastes,Régleur de tiges,ضابط إعداد السيقان
+34677,Agente de economato,Agente de intendência,Agent d'intendance,وكيل التموين
+34678,Cortador de compuertas,Cortador de comportas,Coupeur de portes de coulée,قاطع البوابات
+34679,Cortador de almohadillas,Cortador de almofadas,Coupeur de tampons,قاطع الوسادات
+34680,Cortador de tiras,Cortador de tiras,Coupeur de bandes,قاطع الشرائط
+34691,Rellenador de arena,Enchedor de areia,Remplisseur de sable,معبئ الرمل
+34692,Supervisor de montaje de motores,Supervisor de montagem de motores,Superviseur de montage de moteurs,مشرف تجميع المحركات
+34693,Secador de pescado,Secador de peixe,Sécheur de poisson,مجفف الأسماك
+34695,Peón de sección,Trabalhador de secção,Manœuvre de section,عامل قسم
+34729,Manipulador de hielo,Manipulador de gelo,Manutentionnaire de glace,مناول الثلج
+34735,Operador de máquina de rectificado de bolas,Operador de máquina de retificação de esferas,Opérateur de machine de rectification de billes,مشغل آلة تسوية الكرات
+34736,Operador de máquina de duplicado en braille,Operador de máquina de duplicação em braille,Opérateur de machine de duplication braille,مشغل آلة نسخ برايل
+34737,Operador de máquina de punzonado de alas de sombrero,Operador de máquina de picotagem de abas,Opérateur de machine à piquer les bords de chapeaux,مشغل آلة تثقيب حواف القبعات
+34738,Operador de prensa de paquetes de condensadores,Operador de prensa de pacotes de condensadores,Opérateur de presse à blocs de condensateurs,مشغل مكبس حزم المكثفات
+34746,Operador de máquina de moldeado de sombreros,Operador de máquina de formatação de chapéus,Opérateur de machine de formage de chapeaux,مشغل آلة تشكيل القبعات
+34748,Operador de acabado de alta densidad,Operador de acabamento de alta densidade,Opérateur de finition haute densité,مشغل تشطيب الكثافة العالية
+34749,Operador de prensa de alta densidad,Operador de prensa de alta densidade,Opérateur de presse haute densité,مشغل مكبس الكثافة العالية
+34751,Operador de máquina de atado de madera,Operador de máquina de amarração de madeira,Opérateur de machine de liage de bois,مشغل آلة ربط الأخشاب
+34752,Operador de compositora de cinta magnética,Operador de compositor de fita magnética,Opérateur de composition sur bande magnétique,مشغل تنضيد الشريط المغناطيسي
+34753,Operador de arrastre de fundición,Operador de arrasto de fusão,Opérateur de traînée de fusion,مشغل سحب الصهر
+34755,Operador de máquina peladora de nueces,Operador de máquina descascadora de frutos secos,Opérateur de machine à décortiquer les noix,مشغل آلة تقشير المكسرات
+34763,Operador de vagón detector de carriles,Operador de carruagem detetora de carris,Opérateur de wagon détecteur de rails,مشغل عربة كشف السكك الحديدية
+34764,Operador de cebado de fuego periférico,Operador de iniciação de fogo periférico,Opérateur d'amorçage à percussion annulaire,مشغل تهيئة الإشعال الحلقي
+34770,Operador de extractor de proceso de disolventes,Operador de extrator de processo de solventes,Opérateur d'extracteur à solvant,مشغل مستخلص عملية المذيبات
+34772,Operador de máquina de enrasado,Operador de máquina de rasagem,Opérateur de machine à racler,مشغل آلة الكشط
+34774,Operador de máquina de desenmoldeado,Operador de máquina de desmoldagem,Opérateur de machine de démoulage,مشغل آلة إزالة القوالب
+34775,Operador de secador de tambor de succión,Operador de secador de tambor de sucção,Opérateur de sécheur à tambour à succion,مشغل مجفف الأسطوانة الشافطة
+34776,Operador de prensa de gemas sintéticas,Operador de prensa de gemas sintéticas,Opérateur de presse à pierres synthétiques,مشغل مكبس الأحجار الكريمة الصناعية
+34777,Operador de prensa de tarjetas perforadas,Operador de prensa de cartões perfurados,Opérateur de presse à cartes perforées,مشغل مكبس البطاقات المثقبة
+34784,Operador de formado de corona húmeda,Operador de formatação de coroa úmida,Opérateur de formage de couronne humide,مشغل تشكيل التاج الرطب
+34786,Operador de acelerador,Operador de acelerador,Opérateur d'accélérateur,مشغل المسرّع
+34788,Operador de Beck,Operador de Beck,Opérateur Beck,مشغل بيك
+34790,Operador de clorador,Operador de clorador,Opérateur de chloration,مشغل جهاز الكلورة
+34794,Operador de crematorio,Operador de crematório,Opérateur de crématorium,مشغل المحرقة
+34795,Operador de cristalizador,Operador de cristalizador,Opérateur de cristallisoir,مشغل المبلورة
+34796,Operador de desengrasador,Operador de desengordurante,Opérateur de dégraisseur,مشغل جهاز إزالة الشحوم
+34797,Operador de deposición,Operador de deposição,Opérateur de dépôt,مشغل الترسيب
+34798,Operador de digitalizador,Operador de digitalizador,Opérateur de numériseur,مشغل المحوّل الرقمي
+34800,Operador de zanjadora,Operador de valetadeira,Opérateur de trancheuse,مشغل آلة الحفر
+34801,Operador de dopaje,Operador de dopagem,Opérateur de dopage,مشغل التطعيم
+34802,Operador de Duck,Operador de Duck,Opérateur Duck,مشغل داك
+34803,Operador de electrocardiógrafo,Operador de eletrocardiógrafo,Opérateur d'électrocardiographe,مشغل جهاز تخطيط القلب الكهربائي
+34804,Operador de ecualizador,Operador de equalizador,Opérateur d'égaliseur,مشغل المعادل
+34805,Operador de flexografía,Operador de flexografia,Opérateur de flexographie,مشغل الطباعة بالفلكسو
+34806,Operador de flotación,Operador de flutuação,Opérateur de flottation,مشغل التعويم
+34807,Operador de gamma,Operador de gama,Opérateur gamma,مشغل أشعة جاما
+34808,Operador de glicerina,Operador de glicerina,Opérateur de glycérine,مشغل الجلسرين
+34809,Operador de granulado,Operador de granulação,Opérateur de grainage,مشغل التحبيب
+34811,Operador de picadora,Operador de picadora,Opérateur de hachoir,مشغل آلة التقطيع
+34812,Operador de semillero,Operador de viveiro,Opérateur de couche chaude,مشغل المشتل الدافئ
+34813,Operador de descascarilladora,Operador de descascadora,Opérateur d'écosseuse,مشغل آلة تقشير القشور
+34814,Operador de humidificador,Operador de humidificador,Opérateur d'humidificateur,مشغل المرطِّب
+34815,Operador de desgranadora,Operador de descascadora,Opérateur d'égreneuse,مشغل آلة إزالة القشور
+34816,Operador de incubadora,Operador de incubadora,Opérateur d'incubateur,مشغل الحاضنة
+34817,Operador de bloqueadora,Operador de bloqueador,Opérateur de brouilleur,مشغل جهاز التشويش
+34818,Operador de colector,Operador de coletor,Opérateur de collecteur,مشغل المشعب
+34819,Operador de remachado de cabeza,Operador de cabeça de prego,Opérateur de tête de clou,مشغل رأس المسمار
+34820,Operador de paletizadora,Operador de paletizadora,Opérateur de palettiseur,مشغل آلة التوضيب على منصات
+34821,Operador de fotocopiadora,Operador de fotocopiadora,Opérateur de photocopie,مشغل آلة النسخ الضوئي
+34822,Operador de fotostática,Operador de fotostática,Opérateur de photostat,مشغل آلة التصوير الفوتوستاتي
+34823,Operador de poli,Operador de poli,Opérateur poly,مشغل البولي
+34825,Operador de reserva,Operador de reserva,Opérateur de réserve,مشغل الاحتياطي
+34826,Operador de retrabajo,Operador de retrabalho,Opérateur de retouche,مشغل إعادة العمل
+34827,Operador de desgarradora,Operador de rasgadora,Opérateur de déchiqueteuse,مشغل آلة التمزيق
+34829,Operador de saturador,Operador de saturador,Opérateur de saturateur,مشغل المُشبِّع
+34830,Operador de SCADA,Operador de SCADA,Opérateur SCADA,مشغل SCADA
+34831,Operador de biseladora,Operador de biseladora,Opérateur de biseauteuse,مشغل آلة الشطف
+34833,Operador Skoog,Operador Skoog,Opérateur Skoog,مشغل Skoog
+34835,Operador de bobinado,Operador de bobinagem,Opérateur de bobinage,مشغل التبكيب
+34836,Operador de rasqueta,Operador de rodo,Opérateur de raclette,مشغل الممسحة المطاطية
+34837,Operador de tejedora de punto,Operador de máquina de malha,Opérateur de tricoteuse,مشغل آلة الحياكة
+34838,Operador de telescopio,Operador de telescópio,Opérateur de télescope,مشغل التلسكوب
+34840,Operador de tenonadora,Operador de tenonadora,Opérateur de tenonneuse,مشغل آلة التعشيق
+34841,Operador de espesador,Operador de espessador,Opérateur d'épaississeur,مشغل المكثف
+34842,Jefe de transición,Responsável de transição,Responsable de transition,قائد الانتقال
+34843,Operador de turbo,Operador de turbo,Opérateur de turbo,مشغل التوربو
+34844,Operador encubierto,Operador encoberto,Opérateur infiltré,مشغل سري
+34845,Operador de socavadora,Operador de escavadora de base,Opérateur de sous-coupe,مشغل آلة القطع السفلي
+34847,Operador de vinificadora,Operador de vinificação,Opérateur de vinification,مشغل آلة الكرمة
+34848,Operador de lavandería,Operador de lavandaria,Opérateur de lavoir,مشغل غسيل
+34849,Operador de centrifugadora,Operador de centrifugadora,Opérateur d'essoreuse,مشغل جهاز الطرد المركزي
+34850,Operador de cable de sondeo,Operador de cabo de perfilagem,Opérateur de câble de diagraphie,مشغل خط السلك
+34851,Coach de instrucción de primaria,Treinador pedagógico do ensino básico,Coach pédagogique du primaire,مدرب تعليمي للمرحلة الابتدائية
+34856,Colocador de encuadernación,Aplicador de encadernação,Poseur de liants,مركّب الرابط
+34858,Montador de equipos de apoyo en tierra,Montador de equipamento de apoio em terra,Monteur d'équipements de soutien au sol,مجمّع معدات الدعم الأرضي
+34859,Ayudante de fotograbado,Ajudante de fotogravura,Aide photograveur,مساعد الحفر الضوئي
+34860,Cosedor de cinta,Costureiro de fita,Piqueur de ruban,خياط الشريط
+34861,Colocador de chapas,Aplicador de folheados,Poseur de placage,مركّب القشرة الخشبية
+34862,Inspector y probador de bobinados,Inspetor e testador de bobinagens,Inspecteur et testeur de bobinage,مفتش وفاحص اللفّ
+34864,Probador de lejía,Testador de lixívia,Testeur d'agent de blanchiment,فاحص المبيض
+34865,Probador de descongelantes,Testador de descongelantes,Testeur de dégivreurs,فاحص مزيلات الجليد
+34866,Probador manual,Testador manual,Testeur manuel,فاحص يدوي
+34867,Probador de radar,Testador de radar,Testeur radar,فاحص الرادار
+34868,Probador de frigoríficos,Testador de frigoríficos,Testeur de réfrigérateurs,فاحص الثلاجات
+34875,Becario de promociones,Estagiário de promoções,Stagiaire promotions,متدرب في الترويج
+34876,Ejecutivo de relaciones con huéspedes,Executivo de relações com hóspedes,Responsable des relations clients,مدير علاقات الضيوف
+34877,Examinador de arrendamiento de terrenos,Examinador de arrendamento de terrenos,Examinateur de baux fonciers,ممتحن تأجير الأراضي
+34880,Asesor de fideicomisos,Consultor de fundos fiduciários,Conseiller en gestion de patrimoine fiduciaire,مستشار الأمانات
+34883,Asesor de recursos humanos,Consultor de recursos humanos,Conseiller en gestion des ressources humaines,مستشار القوى العاملة
+34884,Productor de contenidos,Produtor de conteúdos,Producteur de contenus,منتج المحتوى
+34886,Rodillero de bordes,Rolador de bordas,Rouleur de bords,دحّاج الحواف
+34888,Responsable de formación y desarrollo,Responsável de formação e desenvolvimento,Responsable de la formation et du développement,رئيس التدريب والتطوير
+34890,Prácticas en finanzas y contabilidad,Estágio em finanças e contabilidade,Stage en finance et comptabilité,تدريب في المالية والمحاسبة
+34891,Clasificador de formas,Classificador de formas,Trieur de formes,مصنّف القوالب
+34892,Colocador de capas,Sobreposicionador de camadas,Superposeur de couches,مُرَكِّب الطبقات
+34893,Clasificador de lana,Classificador de lã,Trieur de laine,مصنّف الصوف
+34899,Cargador de roca,Carregador de rocha,Chargeur de roche,محمل الصخور
+34900,Alimentador de latas,Alimentador de latas,Alimentateur de boîtes,مغذي العلب
+34904,Pintor con brocha,Pintor de pincel,Peintre au pinceau,دهّان بالفرشاة
+34910,Fabricante de chips de maíz,Fabricante de snacks de milho,Fabricant de chips de maïs,صانع رقائق الذرة
+34913,Técnico de aceleradores,Técnico de aceleradores,Technicien en accélérateurs,فني المسرّعات
+34914,Técnico biométrico,Técnico biométrico,Technicien biométrique,فني القياسات الحيوية
+34916,Técnico cefalométrico,Técnico de cefalometria,Technicien en céphalométrie,فني قياس الجمجمة
+34917,Técnico de conversión,Técnico de conversão,Technicien de transformation,فني التحويل
+34918,Técnico de desbarbado,Técnico de desbarbagem,Technicien d'ébavurage,فني إزالة البُرى
+34920,Técnico de electrocardiografía,Técnico de eletrocardiografia,Technicien en électrocardiographie,فني تخطيط القلب الكهربائي
+34923,Técnico de enganches,Técnico de engates,Technicien d'attelage,فني الوصلات
+34924,Técnico en hidrología,Técnico de hidrologia,Technicien en hydrologie,فني علم المياه
+34925,Técnico instalador,Técnico instalador,Technicien d'installation,فني تركيب
+34927,Técnico de isótopos,Técnico de isótopos,Technicien en isotopes,فني النظائر
+34928,Técnico de lidar,Técnico de lidar,Technicien lidar,فني الليدار
+34933,Técnico en nanotecnología,Técnico de nanotecnologia,Technicien en nanotechnologie,فني تقانة النانو
+34936,Técnico de PM,Técnico de PM,Technicien PM,فني PM
+34937,Técnico de polisomnografía,Técnico de polissonografia,Technicien en polysomnographie,فني تخطيط النوم متعدد المعايير
+34938,Técnico de polisomnografía,Técnico de polissonografia,Technicien en polysomnographie,فني تخطيط النوم متعدد المعايير
+34943,Técnico de estacado,Técnico de estaqueamento,Technicien de piquetage,فني التثبيت بالأوتاد
+34944,Técnico de vibraciones,Técnico de vibrações,Technicien en vibrations,فني الاهتزازات
+34945,Mezclador de yeso,Misturador de gesso,Malaxeur de plâtre,خلاط الجص
+34946,Consejero jefe de campamento,Conselheiro-chefe de acampamento,Conseiller en chef de camp,كبير مرشدي المخيم
+34947,Monitor de campamento de día,Monitor de campo de férias diurno,Animateur de centre de loisirs,مرشد مخيم نهاري
+34948,Director de centro escolar,Gestor de escola,Directeur d'établissement scolaire,مدير المدرسة
+34952,Trabajador de plantación de árbol de té,Trabalhador de plantação de árvore do chá,Ouvrier de plantation de tea tree,عامل مزرعة شجرة الشاي
+34959,Extractor de hielo,Extrator de gelo,Tireur de glace,ساحب الثلج
+34960,Lavador de alfombras,Lavador de tapetes,Laveur de tapis,غاسل السجاد
+34961,Cosedor de pelotas de béisbol,Costureiro de bolas de basebol,Piqueur de balles de baseball,عامل خياطة كرات البيسبول
+40174,Corredor comercial senior,Corretor comercial sénior,Courtier d'affaires senior,وسيط أعمال أول
+40175,Operario de limpieza de bobinas,Operador de limpeza de carretéis,Ouvrier nettoyeur de bobines,عامل تنظيف البكرات
+40176,Secador por atomización,Secador por pulverização,Sécheur par pulvérisation,مجفف رذاذي
+40177,Marcador de billetes,Marcador de bilhetes,Marqueur de billets,معلِّم التذاكر
+40181,Oficial al mando de equipos motorizados,Oficial comandante de equipamento motorizado,Officier commandant du matériel motorisé,ضابط قيادة المعدات الآلية
+40184,Oficial al mando de la división de tráfico,Oficial comandante da divisão de trânsito,Officier commandant la division de la circulation,ضابط قيادة قسم المرور
+40186,Gerente de campo,Gerente de campo,Responsable terrain,مدير ميداني
+40191,Coordinador de copias de seguridad y escaneado,Coordenador de cópias de segurança e digitalização,Coordinateur de sauvegarde et de numérisation,منسق النسخ الاحتياطي والمسح الضوئي
+40198,Consultor de alianzas,Consultor de alianças,Consultant en alliances,مستشار التحالفات
+40202,Operador de máquina de flecos de bolas,Operador de máquina de franjas de esferas,Opérateur de machine à franges à boules,مشغل آلة الحواف الكروية
+40204,Operador de máquina recolectora de bayas,Operador de máquina colhedora de bagas,Opérateur de machine de cueillette des baies,مشغل آلة قطف التوت
+40205,Operador de glaseado de pólvora negra,Operador de vidragem de pólvora negra,Opérateur de glaçage de poudre noire,مشغل تلميع البارود الأسود
+40214,Operador de cementación de materiales a granel,Operador de cimentação de materiais a granel,Opérateur de cimentation de matériaux en vrac,مشغل تثبيت المواد السائبة بالإسمنت
+40215,Operador de equipos de descarga de carbón,Operador de equipamento de descarga de carvão,Opérateur d'équipements de déchargement de charbon,مشغل معدات تفريغ الفحم
+40222,Consultor de EAP,Consultor de EAP,Consultant PAE,مستشار برامج مساعدة الموظفين
+40225,Operador de rebordeado de sombreros de fieltro,Operador de rebordeamento de chapéus de feltro,Opérateur de rebordage de chapeaux en feutre,مشغل ثني حواف القبعات اللباد
+40228,Operador de máquina compactadora de encofrados,Operador de máquina de compactação de cofragens,Opérateur de machine de pilonnage de coffrages,مشغل آلة دكّ القوالب
+40231,Operador de máquina de enrollado de aros,Operador de máquina de enrolamento de arcos,Opérateur de machine d'enroulement de cerclages,مشغل آلة لف الأطواق
+40233,Operador de máquina de carga Joy,Operador de máquina de carregamento Joy,Opérateur de chargeuse Joy,مشغل آلة التحميل Joy
+40251,Operador de cortadora de relleno desmenuzado,Operador de cortadora de enchimento desfiado,Opérateur de coupeuse de garniture effilochée,مشغل قاطع الحشو المفتت
+40252,Operador de máquina de plegado simple,Operador de máquina de dobragem simples,Opérateur de machine à pliage simple,مشغل آلة الطي المفرد
+40255,Operador de cortadora de tapones en lonchas,Operador de cortadora de tampões em fatias,Opérateur de coupeuse de tampons en tranches,مشغل قاطع السدادات الشرائحية
+40258,Consultor de especificaciones,Consultor de especificações,Consultant en spécifications,مستشار المواصفات
+40261,Operador de máquina de moldeado de sombreros de paja,Operador de máquina de moldagem de chapéus de palha,Opérateur de machine à plonger les chapeaux de paille,مشغل آلة تشكيل قبعات القش
+40265,Operador de máquina de tubos de banda de rodadura,Operador de máquina de tubos de piso de pneu,Opérateur de machine de tubes de bande de roulement,مشغل آلة أنابيب إطارات المطاط
+40266,Operador de máquina de costura ultrasónica,Operador de máquina de costura ultrassónica,Opérateur de machine de soudure par ultrasons,مشغل آلة اللحام بالموجات فوق الصوتية
+40269,Marcador de recortes,Marcador de recortes,Traceur de découpe,معلِّم القص
+40281,Director ejecutivo de la asociación de enfermeras,Diretor executivo da associação de enfermeiros,Directeur exécutif de l'association des infirmières,المدير التنفيذي لجمعية الممرضين
+40282,Máquina de recubrimiento cerámico,Máquina de revestimento cerâmico,Machine d'enduction céramique,آلة طلاء السيراميك
+40283,Formador y pulidor,Formatador e polidor,Formeur et polisseur,مشكّل ومصقل
+40284,Terapeuta de integración física,Terapeuta de integração física,Praticien en intégration physique,ممارس التكامل الجسدي
+40285,Probador de vajilla,Testador de loiça,Testeur de vaisselle,فاحص الأواني
+40288,Encargado de concesiones,Encarregado de concessões,Préposé aux concessions,مشرف الامتيازات
+40291,Operario de horno de recocido,Operador de forno de recozimento,Préposé au four de recuit,مشرف فرن التلدين
+40303,Bobinador de conos,Bobinador de cones,Bobineur de cônes,لافّ الأسطوانات
+40304,Bobinador de recuperación,Bobinador de recuperação,Bobineur de récupération,لافّ الاسترجاع
+40306,Recolector de semillas,Coletor de sementes,Collecteur de semences,جامع البذور
+40312,Recortador de cremalleras,Aparador de fechos de correr,Ébarbeur de fermetures éclair,مشذّب السحّابات
+40313,Cortador de pico,Cortador de bico,Coupeur de bec,قاطع المنقار
+40315,Colocador de pan de oro,Aplicador de folha de ouro,Poseur d'or en feuille,مركّب الذهب الورقي
+40316,Cortador de espirales,Cortador de espirais de relógio,Coupeur de spiraux,قاطع الزنبركات الحلزونية
+40317,Cortador de juntas,Cortador de juntas,Coupeur de joints,قاطع الوصلات
+40318,Cortador de tartas,Cortador de tartes,Découpeur de tartes,قاطع الفطائر
+40319,Cortador de duelas,Cortador de aduelas,Coupeur de douves,قاطع الألواح
+40320,Cortador de cera,Cortador de cera,Coupeur de cire,قاطع الشمع
+40322,Jefe de despacho I,Chefe despachante I,Chef répartiteur I,رئيس المرسلين I
+40323,Despachador del departamento de vías públicas,Despachante do departamento de vias públicas,Répartiteur du service de voirie,مرسل إدارة الشوارع
+40326,Máquina de fabricación de machos,Máquina de fabrico de machos,Machine de fabrication de noyaux,آلة صنع النوى
+40329,Forrador de pieles,Forrador de peles,Doubleur de fourrures,مبطّن الفراء
+40334,Máquina de desbastado,Máquina de desbaste,Machine à refendre,آلة الشق
+40343,Operador polivalente de máquinas de engranajes,Operador polivalente de máquinas de engrenagens,Opérateur polyvalent de machines à engrenages,مشغل آلات التروس متعددة المهام
+40344,Consultor de información de autobuses,Consultor de informação de autocarros,Consultant en information bus,مستشار معلومات الحافلات
+40352,Operador de máquina de bolsillos y poleas,Operador de máquina de bolsos e roldanas,Opérateur de machine à poches et poulies,مشغل آلة الجيوب والبكرات
+40355,Operador de carrito de sándwiches y bebidas,Operador de carrinho de sanduíches e bebidas,Opérateur de chariot de sandwichs et boissons,مشغل عربة السندويتشات والمشروبات
+40356,Aserrador de chatarra,Serrador de sucata,Scieur de chutes,منشار الخردة
+40359,Operador de máquina de machihembrado,Operador de máquina de juntas macho-fêmea,Opérateur de machine à rainure et languette,مشغل آلة اللسان والأخدود
+40364,Técnico de designación de objetivos de artillería de campaña,Técnico de designação de alvos de artilharia de campanha,Technicien de ciblage d'artillerie de campagne,فني استهداف المدفعية الميدانية
+40384,"Auxiliar de faltantes, sobrantes y daños","Auxiliar de faltas, sobras e danos","Employé des manquants, excédents et avaries",موظف العجز والفائض والتلف
+40397,Empaquetador de muestras,Embalador de amostras,Emballeur d'échantillons,مغلّف العينات
+40402,Auxiliar del equipo de recuento,Auxiliar da equipa de contagem,Employé de l'équipe de comptage,موظف فريق العد
+40406,Auxiliar de almacén de alimentos,Auxiliar de armazém de alimentos,Employé de magasin alimentaire,موظف مستودع المواد الغذائية
+40407,Auxiliar de muestras de pañuelos,Auxiliar de amostras de lenços,Employé d'échantillons de mouchoirs,موظف عينات المناديل
+40413,Auxiliar de sobrestadías en patio,Auxiliar de sobrestadias no pátio,Employé des surestaries de cour,موظف غرامات تأخير الساحة
+40424,Entrenador de saltos,Treinador de saltos,Entraîneur de sauts,مدرب القفز
+40428,Asistente de uso de visitantes,Assistente de utilização de visitantes,Assistant d'accueil des visiteurs,مساعد استخدام الزوار
+40431,Ajustador de planos de planta,Ajustador de plantas,Ajusteur de plans d'étage,معدّل المخططات الطابقية
+40434,Montador de ensartadores de pescado,Montador de fiadeiras de peixe,Monteur de fil à poissons,مجمّع خيوط الأسماك
+40435,Montador de manillares,Montador de guiadores,Monteur de guidons,مجمّع مقابض التوجيه
+40436,Montador de tiras de conectores,Montador de tiras de conectores,Monteur de barrettes de jack,مجمّع شرائط المقابس
+40438,Montador de mangos de sierra,Montador de cabos de serra,Monteur de manches de scie,مجمّع مقابض المناشير
+40439,Montador de mangos de pala,Montador de cabos de pá,Monteur de manches de pelle,مجمّع مقابض المجارف
+40440,Montador de sellos de tiempo,Montador de carimbos de hora,Monteur d'horodateurs,مجمّع أختام الوقت
+40447,Preparador de jarabe cocido,Fabricante de xarope cozido,Fabricant de sirop cuit,صانع شراب مطبوخ
+40448,Preparador de jarabe cristalino,Fabricante de xarope cristalino,Fabricant de sirop cristallin,صانع شراب بلوري
+40449,Fabricante de grasa de cabeza,Fabricante de massa lubrificante de cabeça,Fabricant de graisse de tête,صانع شحم الرأس
+40450,Fabricante de mantas aislantes,Fabricante de mantas isolantes,Fabricant de couvertures isolantes,صانع أغطية العزل
+40453,Verificador de diseño de producto,Verificador de design de produto,Contrôleur de conception produit,فاحص تصميم المنتج
+40455,Estratega de soluciones,Estratega de soluções,Stratège solutions,خبير استراتيجيات الحلول
+40456,Pulidor de superficies planas,Polidor de superfícies planas,Polisseur de surfaces plates,مصقل الأسطح المستوية
+40460,Formador y cosedor,Formatador e costureiro,Formeur et piqueur,مشكّل وخيّاط
+40463,Técnico de misiles y verificación de misiles,Técnico de mísseis e verificação de mísseis,Technicien de missiles et de contrôle de missiles,فني الصواريخ وفحص الصواريخ
+40465,Auxiliar de reparto de bandejas,Auxiliar de entrega de bandejas,Aide à la livraison de plateaux,مساعد توصيل الصواني
+40474,Repartidor de ollas,Distribuidor de potes,Convoyeur de creusets,عامل نقل البوتقات
+40486,Vicepresidente de servicio al cliente,Vice-presidente de serviço ao cliente,Vice-président du service client,نائب الرئيس لخدمة العملاء
+40488,Impresora de carbón,Impressor de carbono,Imprimeur au carbone,طابع الكربون
+40495,Impresora de sonido,Impressor de som,Imprimeur de son,طابع الصوت
+40496,Ajustador de trabajadores del textil,Ajustador de operários têxteis,Monteur ouvrier textile,مركّب عامل النسيج
+40497,Ayudante de techador de alquitrán caliente,Ajudante de telhador de alcatrão quente,Aide couvreur au goudron chaud,مساعد عامل تسقيف بالقطران الساخن
+40498,Ajustador de vigas de molino,Ajustador de vigas de moinho,Monteur de poutres de moulin,مركّب عوارض المطحنة
+40505,Ayudante de tamizadora,Ajudante de peneiradora,Aide au blutoir,مساعد المنخل
+40507,Ayudante de evaporador,Ajudante de evaporador,Aide évaporateur,مساعد المبخّر
+40510,Ayudante de revisión general,Ajudante de revisão geral,Aide révisionneur,مساعد الصيانة الشاملة
+40511,Ayudante de desbastado,Ajudante de desbaste,Aide au dégrossissage,مساعد التشكيل الخشن
+40515,Inspector de esferas,Inspetor de mostradores,Inspecteur de cadrans,مفتش الأقراص
+40516,Inspector de drenaje,Inspetor de drenagem,Inspecteur de drainage,مفتش الصرف
+40517,Inspector de bucles,Inspetor de malhas,Inspecteur de boucles,مفتش الحلقات
+40518,Inspector de mecanismos,Inspetor de mecanismos,Inspecteur de mécanismes,مفتش الآليات
+40522,Inspector de costuras,Inspetor de costuras,Inspecteur de coutures,مفتش الدرز
+40523,Inspector de segundas,Inspetor de artigos de segunda,Inspecteur de deuxièmes choix,مفتش الدرجة الثانية
+40524,Inspector de compras (cliente misterioso),Inspetor de compras (cliente mistério),Inspecteur d'achat (client mystère),مفتش التسوق
+40525,Inspector de medias,Inspetor de meias,Inspecteur de bas,مفتش الجوارب
+40526,Inspector de tiempos,Inspetor de temporização,Inspecteur de temporisation,مفتش التوقيت
+40537,Presidente de división empresarial,Presidente da divisão empresarial,Président de division commerciale,رئيس قسم الأعمال
+40540,Director industrial,Diretor industrial,Directeur industriel,مدير صناعي
+40545,Prácticas en agricultura,Estágio em agricultura,Stage en agriculture,تدريب في الزراعة
+40546,Extractor de conos,Extrator de cones,Tireur de cônes,ساحب الأسطوانات
+40547,Analista cefalométrico,Analista cefalométrico,Analyste en céphalométrie,محلل قياس الجمجمة
+40553,Analista IUSS,Analista IUSS,Analyste IUSS,محلل IUSS
+40562,Analista de alertas,Analista de alertas,Analyste d'alertes,محلل التحذيرات
+40565,Fabricante de hornos industriales,Fabricante de fornos industriais,Fabricant de fours industriels,صانع الأفران الصناعية
+40568,Fabricante de piezas de stock,Fabricante de peças de stock,Fabricant de pièces standard,صانع قطع المخزون
+40570,Jefe de operadores de esclusa,Chefe de operadores de eclusa,Chef opérateur d'écluse,رئيس مشغلي القفل المائي
+40571,Operario de secado de materia prima,Operador de secagem de matéria-prima,Opérateur de séchage de matières premières,مشغل تجفيف المواد الخام
+40572,Operario de prensa de vapor para huesos,Operador de prensa a vapor de ossos,Opérateur de presse vapeur à os,مشغل مكبس البخار للعظام
+40575,Cortador de piezas de tapa,Cortador de peças de tampa,Coupeur de pièces de capsule,قاطع أجزاء الأغطية
+40576,Aserrador de alambre de acabado,Serrador de arame de acabamento,Scieur de fil de finition,منشار سلك التشطيب
+40578,Becario de asesoría,Estagiário de consultoria,Stagiaire conseil,متدرب استشاري
+40580,Becario de liderazgo,Estagiário de liderança,Stagiaire en leadership,متدرب القيادة
+40584,Mezclador por pulverización,Misturador por pulverização,Mélangeur par pulvérisation,خلاط رش
+40589,Operario de condensador de autoclave,Operador de condensador de retorta,Préposé au condenseur de cornue,مشرف مكثف المقطّر
+40594,Transportista de botellas,Transportador de garrafas,Convoyeur de bouteilles,ناقل الزجاجات
+40595,Ingeniero de conservera,Engenheiro de conserveira,Ingénieur de conserverie,مهندس مصنع التعليب
+40601,Recolector de paquetes,Coletor de embalagens,Collecteur de colis,جامع الطرود
+40613,Pulverizador de fondos,Pulverizador de fundos,Pulvérisateur de fond,رشاش القاع
+40617,Operario de horno de estirado,Operador de forno de estiragem,Opérateur de four d'étirage,مشغل فرن السحب
+40624,Instalador de armamento,Instalador de armamento,Installateur d'armement,مركّب التسليح
+40632,Inspector de postes de pellets,Inspetor de postes de pellets,Inspecteur de postes de granulés,مفتش مرحلة الحبيبات
+40635,Inspector de pérdidas de rendimiento,Inspetor de perdas de rendimento,Inspecteur des pertes de rendement,مفتش فاقد الإنتاجية
+40638,Montador de revestimientos de depósitos de combustible de avión,Montador de revestimentos de tanques de combustível de avião,Monteur de revêtements de réservoirs de carburant d'avion,مجمّع بطانات خزانات وقود الطائرات
+40640,Verificador de bandejas,Verificador de bandejas,Contrôleur de plateaux,فاحص الصواني
+40641,Verificador de envoltorios,Verificador de embrulhamento,Contrôleur d'emballage,فاحص التغليف
+40645,Estratega creativo,Estratega criativo,Stratège créatif,خبير استراتيجيات إبداعية
+40653,Auxiliar de medios,Auxiliar de meios de comunicação,Assistant médias,مساعد الإعلام
+40655,Auxiliar técnico,Auxiliar técnico,Assistant technique,مساعد فني
+40656,Auxiliar de transporte,Auxiliar de transportes,Assistant transport,مساعد النقل
+40657,Auxiliar de unidad,Auxiliar de unidade,Assistant d'unité,مساعد الوحدة
+40658,Encargado de sala de equipos,Encarregado da sala de equipamento,Gardien de salle d'équipements,أمين غرفة المعدات
+40659,Encargado de equipos marinos,Encarregado de equipamento marítimo,Gardien d'équipements marins,أمين معدات بحرية
+40661,Alimentador de tuercas,Alimentador de porcas,Alimentateur d'écrous,مغذي الصواميل
+40662,Supervisor de cámara de maduración de plátanos,Supervisor de câmara de maturação de bananas,Superviseur de chambre de mûrissement des bananes,مشرف غرفة نضج الموز
+40664,Supervisor de limpiadores de la planta de botellas,Supervisor de limpadores da fábrica de garrafas,Superviseur des nettoyeurs de l'atelier de bouteilles,مشرف عمال تنظيف مصنع الزجاجات
+40665,Supervisor de taller protegido por contrato,Supervisor de oficina protegida contratada,Superviseur d'atelier protégé sous contrat,مشرف ورشة محمية متعاقد عليها
+40666,Supervisor de fabricación de pipas de mazorca,Supervisor de fabrico de cachimbos de sabugo,Superviseur de fabrication de pipes en épis de maïs,مشرف تصنيع غليون كوز الذرة
+40669,Líder lean,Líder lean,Responsable lean,قائد اللين
+40681,Procesador de donantes,Processador de dadores,Gestionnaire de dons,معالج المتبرعين
+40685,Limpiador de aparatos,Limpador de aparelhos,Nettoyeur d'appareils,منظف الأجهزة
+40688,Limpiador de cañas,Limpador de palhetas,Nettoyeur de roseaux,منظف القصب
+40689,Limpiador de sacos,Limpador de sacos,Nettoyeur de sacs,منظف الأكياس
+40690,Limpiador de papel pintado,Limpador de papel de parede,Nettoyeur de papier peint,منظف ورق الجدران
+40691,Limpiador de trigo,Limpador de trigo,Nettoyeur de blé,منظف القمح
+40694,Clasificador de latón,Classificador de latão,Trieur de laiton,فارز النحاس الأصفر
+40695,Clasificador de corcho,Classificador de cortiça,Trieur de liège,فارز الفلين
+40697,Formador de clubes,Formador de clubes,Formateur de clubs,مؤسس الأندية
+40701,Pesador de recepción,Pesador de receção,Peseur à la réception,موزِّن الاستلام
+40704,Diseñador de cerchas,Projetista de asnas,Concepteur de fermes,مصمم الجمالونات
+40706,Examinador de películas cinematográficas,Examinador de filmes cinematográficos,Examinateur de films cinématographiques,ممتحن الأفلام السينمائية
+40708,Vicepresidente de vida estudiantil,Vice-presidente da vida estudantil,Vice-président à la vie étudiante,نائب الرئيس لشؤون الحياة الطلابية
+40709,Vicepresidente de servicios estudiantiles,Vice-presidente de serviços estudantis,Vice-président aux services étudiants,نائب الرئيس لخدمات الطلاب
+40717,Colgador de espaldas,Pendurador de costas,Suspendeur de dos,معلّق الظهر
+40718,Colgador de bolsas,Pendurador de sacos,Suspendeur de sacs,معلّق الحقائب
+40719,Colgador de carrocerías,Pendurador de carroçarias,Suspendeur de carrosseries,معلّق الهياكل
+40720,Colgador de tarjetas,Pendurador de cartões,Suspendeur de cartes,معلّق البطاقات
+40722,Peón de cuadrilla de descarga,Trabalhador de equipa de descarga,Manœuvre d'équipe de largage,عامل فريق الإنزال
+40724,Colgador de metal,Pendurador de metal,Suspendeur de métal,معلّق المعادن
+40726,Colgador de patrones,Pendurador de moldes,Suspendeur de patrons,معلّق الأنماط
+40727,Colgador de placas,Pendurador de placas,Suspendeur de plaques,معلّق الألواح
+40728,Colgador de aves,Pendurador de aves,Suspendeur de volailles,معلّق الدواجن
+40729,Colgador de hojas,Pendurador de folhas,Suspendeur de feuilles,معلّق الصفائح
+40730,Colgador de acero,Pendurador de aço,Suspendeur d'acier,معلّق الفولاذ
+40731,Colgador de existencias,Pendurador de stock,Suspendeur de stock,معلّق المخزون
+40732,Colgador de tabaco,Pendurador de tabaco,Suspendeur de tabac,معلّق التبغ
+40733,Colgador de alambre,Pendurador de arame,Suspendeur de fil,معلّق الأسلاك
+40735,Modelista y troquelador,Modelista e gravador de cunhos,Modéliste et graveur de matrices,مصمم النماذج والقوالب
+40737,Operario de yarder (arrastre de troncos),Operador de yarder (arrasto de toras),Opérateur de débardeuse,مشغل جرار الأخشاب
+40739,Manipulador de bobinas,Manipulador de bobinas,Manutentionnaire de bobines,مناول البكرات
+40740,Manipulador de mangueras,Manipulador de mangueiras,Manutentionnaire de tuyaux,مناول الخراطيم
+40741,Manipulador de armamento,Manipulador de armamento,Manutentionnaire de munitions,مناول الذخائر
+40752,Montador de cabezas de madera de golf,Montador de cabeças de madeira de golfe,Monteur de têtes de bois de golf,مجمّع رؤوس خشب الجولف
+40755,Operario de martillo,Operador de martelo,Opérateur de marteau,مشغل المطرقة
+40756,Operario de alambique,Operador de alambique,Opérateur d'alambic,مشغل المقطّر
+40760,Preparador de pantógrafo,Preparador de pantógrafo,Régleur de pantographe,ضابط إعداد البانتوغراف
+40762,Colocador de espárragos,Aplicador de pinos,Poseur de goujons,مركّب المسامير الملولبة
+40764,Fijador de encuadernación,Fixador de encadernação,Fixateur de reliure,مثبّت الرابط
+40766,Llenador de plantillas,Enchedor de gabaritos,Remplisseur de gabarits,معبئ القوالب
+40777,Diseñador de hornos refractarios,Projetista de fornos refratários,Concepteur de fours réfractaires,مصمم الأفران الحرارية
+40780,Representante de EE. UU.,Representante dos EUA,Représentant américain,ممثل الولايات المتحدة
+40781,Reparador de ruedas y ruedecillas,Reparador de rodas e rodízios,Réparateur de roues et roulettes,مصلح العجلات والبكرات
+40784,Reparador de paracaídas,Reparador de paraquedas,Réparateur de parachutes,مصلح المظلات
+40785,Reparador de husillos,Reparador de fusos,Réparateur de broches,مصلح المغازل
+40787,Reparador subterráneo,Reparador subterrâneo,Réparateur souterrain,مصلح تحت الأرض
+40789,Consejero de clasificación,Conselheiro de classificação,Conseiller d'orientation,مستشار التصنيف
+40790,Recortador de plumas,Aparador de penas,Ébarbeur de plumes,مشذّب الريش
+40791,Recortador de camisas,Aparador de camisas,Ébarbeur de chemises,مشذّب القمصان
+40799,Cortador de palanquilla,Cortador de tarugos,Coupeur de billettes,قاطع البلاطات
+40800,Ajustador de arneses,Ajustador de arreios,Monteur de harnais,مركّب الأحزمة
+40801,Cortador de eslabones,Cortador de elos,Coupeur de maillons,قاطع الحلقات
+40803,Triturador de hielo,Triturador de gelo,Broyeur de glace,طاحن الثلج
+40804,Montador de depósitos metálicos,Montador de tanques metálicos,Monteur de réservoirs métalliques,مركّب الخزانات المعدنية
+40806,Montador de depósitos de madera,Montador de tanques de madeira,Monteur de réservoirs en bois,مركّب الخزانات الخشبية
+40808,Planificador central,Planeador central,Planificateur central,مخطط مركزي
+40809,Monitor de transportadores,Monitor de transportadores,Surveillant de convoyeur,مراقب الناقل
+40811,Monitor de personal,Monitor de pessoal,Surveillant du personnel,مراقب الموظفين
+40812,Planificador de personal,Planeador de pessoal,Planificateur du personnel,مخطط الموظفين
+40821,Coordinador de campo cualitativo,Coordenador de campo qualitativo,Coordinateur de terrain qualitatif,منسق ميداني نوعي
+40824,Seleccionador de tiras,Selecionador de tiras,Trieur de bandes,منتقي الشرائط
+40825,Seleccionador de urdimbre,Selecionador de urdume,Trieur de chaîne,منتقي السدى
+40835,Conductor de enganche,Motorista de engate,Chauffeur de raccordement,سائق التوصيل
+40845,Ayudante de colgador de toldos,Ajudante de montagem de toldos,Aide monteur de stores banne,مساعد معلّق المظلات
+40846,Ayudante de operario de forja,Ajudante de operador de forja,Aide opérateur de forge,مساعد مشغل الحدادة
+40847,Ayudante de camión de basura,Ajudante de camião do lixo,Aide de camion-poubelle,مساعد شاحنة القمامة
+40848,Ayudante de techador de pizarra,Ajudante de telhador de ardósia,Aide couvreur en ardoise,مساعد عامل تسقيف الأردواز
+40849,Ayudante de tratamiento antitermitas,Ajudante de tratamento de térmitas,Aide traitant anti-termites,مساعد معالج النمل الأبيض
+40850,Tecnólogo de cateterismo cardíaco,Tecnólogo de cateterismo cardíaco,Technologue en cathétérisme cardiaque,فني قسطرة القلب
+40853,Formador de bobinas,Formador de bobinas,Formeur de bobines,مشكّل الملفات
+40856,Rectificador y probador de muestras,Retificador e testador de amostras,Meuleur-testeur d'échantillons,فاحص مطحن العينات
+40857,Clasificador de cestas,Classificador de cestos,Trieur de paniers,مصنّف السلال
+40858,Clasificador de finos,Classificador de finos,Trieur de fines,مصنّف الدقائق
+40859,Prácticas de posgrado,Estágio de pós-graduação,Stage de fin d'études,تدريب خريجين
+40864,Extractor lateral,Extrator lateral,Tireur latéral,ساحب جانبي
+40865,Jefe de observadores de servicio,Chefe de observadores de serviço,Chef observateur de service,رئيس مراقبي الخدمة
+40868,Recortador de doble extremo,Aparador de dupla extremidade,Ébarbeur double extrémité,مشذّب الطرفين
+40870,Gerente de laboratorio,Gerente de laboratório,Responsable de laboratoire,مدير المختبر
+40874,Supervisor de laboratorio,Supervisor de laboratório,Superviseur de laboratoire,مشرف المختبر
+40876,Acabador de punzonado,Acabador de punção,Finisseur de poinçonnage,مُنهي التثقيب
+40879,Cortador de carrete de tambor,Cortador de carretel de tambor,Coupeur de bobine à tambour,قاطع بكرة الأسطوانة
+40880,Cortador manual de mangueras,Cortador manual de mangueiras,Coupeur manuel de tuyaux,قاطع الخراطيم اليدوي
+40881,Cortador de mangueras a máquina,Cortador de mangueiras mecânico,Coupeur de tuyaux à machine,قاطع الخراطيم الآلي
+40883,Técnico de E D,Técnico de E D,Technicien E D,فني E D
+40886,Guardia de polvorín,Guarda de paiol,Gardien de poudrière,حارس مخزن البارود
+40892,Hombre de grasa,Homem da lubrificação,Graisseur,عامل التشحيم
+40895,Hombre de detección de manchas,Homem de deteção de manchas,Détacheur,عامل إزالة البقع
+40896,Alimentador de primer desfibrado,Alimentador de primeiro desfibrador,Alimentateur du premier broyeur,مغذي الكسارة الأولى
+40897,Tasador de madera,Avaliador de madeira,Estimateur de bois,مقدّر الأخشاب
+40898,Alimentador de unidad de pulverización,Alimentador de unidade de pulverização,Alimentateur d'unité de pulvérisation,مغذي وحدة الرش
+40899,Alimentador de algodón húmedo,Alimentador de algodão húmido,Alimentateur de coton humide,مغذي القطن الرطب
+40901,Operario de clasificador,Operador de classificador,Opérateur de classificateur,مشغل المصنّف
+40902,Frotador de hormigón,Esfregador de betão,Frotteur de béton,عامل صقل الخرسانة
+40905,Operario de tela gris,Operador de tecido cru,Opérateur de tissu gris,مشغل القماش الخام
+40906,Operario de bucles,Operador de malhas,Opérateur de boucles,مشغل الحلقات
+40907,Operario de corral,Operador de curral,Gardien de parc,مشرف الحظيرة
+40908,Operario de desfibradora,Operador de desfibradora,Opérateur de déchiqueteuse,مشغل آلة التمزيق
+40909,Operario de encerado,Operador de encerador,Opérateur d'encaustiquage,مشغل التلميع بالشمع
+40913,Técnico de obstetricia,Técnico de obstetrícia,Technicien en obstétrique,فني التوليد
+40914,Técnico perinatal,Técnico perinatal,Technicien périnatal,فني الولادة
+40915,Técnico de procedimientos,Técnico de procedimentos,Technicien de procédures,فني الإجراءات
+40916,Técnico de simulación,Técnico de simulação,Technicien de simulation,فني المحاكاة
+40917,Verificador de pavimentación de ladrillos,Verificador de pavimentação de tijolo,Contrôleur de pavage en briques,فاحص رصف الطوب
+40919,Colocador de traviesas,Aplicador de travessas,Poseur de traverses,مركّب الروابط
+40924,Conductor de ferry de coches de alquiler,Motorista de ferry de automóveis de aluguer,Chauffeur de ferry de voitures de location,سائق عبّارة سيارات الأجرة
+40926,Mezclador de baño ácido,Misturador de banho ácido,Mélangeur de bain d'acide,خلاط حمام الحمض
+40929,Ayudante de mecánico de central diésel,Ajudante de mecânico de central diesel,Aide mécanicien de centrale diesel,مساعد ميكانيكي محطة الديزل
+40930,Ayudante de retorcedora de hilo elástico,Ajudante de retorcedeira de fio elástico,Aide retordeur de fil élastique,مساعد فاتل الخيط المطاطي
+40933,Ayudante de mecánico de maquinaria hidroeléctrica,Ajudante de mecânico de maquinaria hidroelétrica,Aide mécanicien d'équipements hydroélectriques,مساعد ميكانيكي الآلات الكهرومائية
+40935,Ayudante de mecánico de central nuclear,Ajudante de mecânico de central nuclear,Aide mécanicien de centrale nucléaire,مساعد ميكانيكي المحطة النووية
+40936,Ayudante de instalador de señales de protección,Ajudante de instalador de sinais de proteção,Aide installateur de systèmes de signalisation de protection,مساعد مركّب إشارات الحماية
+40937,Ayudante de reparador de señales de protección,Ajudante de reparador de sinais de proteção,Aide réparateur de systèmes de signalisation de protection,مساعد مصلح إشارات الحماية
+40939,Ayudante de operador de niveladora de estiramiento,Ajudante de operador de nivelador de estiramento,Aide opérateur de dresseuse à étirage,مساعد مشغل مسوّي الشد
+40940,Ayudante de cableado de cuadros eléctricos,Ajudante de cablagem de quadros elétricos,Aide câbleur de tableaux électriques,مساعد عامل أسلاك لوحات التوزيع
+40950,Auxiliar de envíos a reembolso,Auxiliar de envios com cobrança,Employé des envois contre remboursement,موظف الدفع عند الاستلام
+40953,Auxiliar de garantías,Auxiliar de garantias,Employé des garanties,موظف الضمانات
+40954,Auxiliar de compilación,Auxiliar de compilação,Employé de compilation,موظف التجميع
+40955,Auxiliar de derechos de autor,Auxiliar de direitos de autor,Employé des droits d'auteur,موظف حقوق النشر
+40958,Auxiliar de disposición,Auxiliar de disposição,Employé de disposition,موظف التصرف
+40961,Auxiliar de HIMS,Auxiliar de HIMS,Employé HIMS,موظف HIMS
+40962,Auxiliar de emisiones,Auxiliar de emissões,Employé de distribution,موظف الصرف
+40963,Auxiliar de márgenes,Auxiliar de margens,Employé des marges,موظف الهوامش
+40964,Auxiliar de cotizaciones,Auxiliar de cotações,Employé des devis,موظف عروض الأسعار
+40965,Auxiliar de reembolsos,Auxiliar de reembolsos,Employé des remboursements,موظف المبالغ المستردة
+40966,Auxiliar de reservas,Auxiliar de reservas,Employé des réserves,موظف الاحتياطات
+40967,Auxiliar de devoluciones,Auxiliar de devoluções,Employé des retours,موظف المرتجعات
+40968,Operario de limpieza de sacos,Operador de limpeza de sacos,Ouvrier de nettoyage de sacs,عامل تنظيف الأكياس
+40969,Auxiliar de sesiones,Auxiliar de sessões,Employé des sessions,موظف الجلسات
+40970,Operario enrollador de muelles,Operador enrolador de molas,Ouvrier enrouleur de ressorts,عامل لف الزنبرك
+40971,Secretario municipal,Secretário municipal,Secrétaire de municipalité,كاتب البلدية
+40972,Auxiliar de órdenes judiciales,Auxiliar de mandados,Employé des mandats,موظف أوامر الاعتقال
+40973,Operario de taller de carpintería,Operador de oficina de carpintaria,Ouvrier d'atelier de menuiserie,عامل ورشة النجارة
+40974,Ajustador de operador de compresor,Ajustador de operador de compressor,Régleur d'opérateur de compresseur,معدّل مشغل الضاغط
+40978,Enlace comunitario de cuidados paliativos,Ligação comunitária de cuidados paliativos,Liaison communautaire en soins palliatifs,مسؤول تواصل مجتمعي لرعاية المحتضرين
+40979,Secador rotatorio,Secador rotativo,Sécheur rotatif,مجفف دوار
+40982,Asistente de subastas,Assistente de leilões,Assistant de vente aux enchères,مساعد المزادات
+40998,Fabricante de carritos de golf,Fabricante de carrinhos de golfe,Fabricant de voiturettes de golf,صانع عربات الجولف
+40999,Fabricante de cojinetes de joya,Fabricante de rolamentos de rubi,Fabricant de pivots en rubis,صانع محامل الجواهر
+41004,Rellenador de talón de calzado,Enchedor de calcanhar de calçado,Remplisseur de talon,معبئ كعب الحذاء
+41005,Bobinador abierto,Enroladeira aberta,Bobineur ouvert,لافّ مفتوح
+41009,Fabricante de señuelos,Fabricante de isco artificial,Fabricant de mouches artificielles,صانع الطعوم الصناعية
+41011,Fabricante de maniquíes,Fabricante de manequins,Fabricant de mannequins,صانع الدمى
+41012,Fabricante de masilla,Fabricante de massa de vidraceiro,Fabricant de mastic,صانع المعجون
+41013,Guarnicionero,Seleiro,Sellier,صانع السروج
+41014,Fabricante de esponjas,Fabricante de esponjas,Fabricant d'éponges,صانع الإسفنج
+41015,Fabricante de cintas absorbentes,Fabricante de faixas absorventes,Fabricant de bandeaux absorbants,صانع أشرطة العرق
+41017,Fabricante de empeines,Fabricante de gáspeas,Fabricant de tiges,صانع مقدمات الأحذية
+41022,Máquina de encuadre de postes,Máquina de enquadramento de postes,Machine d'encadrement de poteaux,آلة تأطير الأعمدة
+41023,Máquina de afinado de costuras,Máquina de afinamento de costuras,Machine d'amincissement de coutures,آلة تخفيف الدرز
+41024,Operario de cuello,Operador de colarinho,Opérateur de col,عامل الياقات
+41026,Mecánico de preparación de máquina de montaje de corona,Mecânico de preparação de máquina de montagem de coroa,Mécanicien de réglage de machine d'assemblage de couronne,ميكانيكي إعداد آلة تجميع التاج
+41036,Mecánico de sistemas de megafonía,Mecânico de sistemas de sonorização,Mécanicien de systèmes de sonorisation,ميكانيكي أنظمة مكبرات الصوت
+41037,Mecánico de sistemas de megafonía,Mecânico de sistemas de sonorização,Mécanicien de systèmes de sonorisation,ميكانيكي أنظمة مكبرات الصوت
+41038,Jefe de trenes,Chefe de comboios,Chef de train,مشرف القطارات
+41040,Pesador de tintes,Pesador de corantes,Peseur de colorants,موزِّن الأصباغ
+41043,Preparador de máquinas,Preparador de máquinas,Régleur d'usinage,ضابط إعداد الآلات
+41059,Fabricante de protección contra incendios,Fabricante de proteção contra incêndios,Fabricant de systèmes de protection incendie,صانع أنظمة مكافحة الحريق
+41062,Inteligencia humana,Inteligência humana,Renseignement humain,الاستخبارات البشرية
+41063,Gerente de inteligencia,Gerente de inteligência,Responsable du renseignement,مدير الاستخبارات
+41064,Inteligencia de operaciones,Inteligência de operações,Renseignement opérationnel,استخبارات العمليات
+41066,Clasificador de pruebas,Classificador de provas,Trieur de preuves,فارز الإثباتات
+41069,Clasificador de anillos,Classificador de anéis,Trieur d'anneaux,فارز الحلقات
+41071,Gerente de análisis,Gerente de análise,Responsable d'analyse,مدير التحليل
+41074,Gerente de cuidados,Gerente de cuidados,Responsable de soins,مدير الرعاية
+41075,Gerente de casos,Gerente de casos,Gestionnaire de dossiers,مدير الحالات
+41076,Gerente de centro,Gerente de centro,Responsable de centre,مدير المركز
+41085,Gerente de desarrollo,Gerente de desenvolvimento,Responsable du développement,مدير التطوير
+41092,Rellenador de agujeros,Enchedor de furos,Remplisseur de trous,معبئ الثقوب
+41094,Gerente de mantenimiento,Gerente de manutenção,Responsable de maintenance,مدير الصيانة
+41102,Reportero de rendimiento,Relator de desempenho,Chargé de reporting de performance,مُعِدّ تقارير الأداء
+41103,Gerente de procesamiento,Gerente de processamento,Responsable de traitement,مدير المعالجة
+41107,Gerente de protección,Gerente de proteção,Responsable de protection,مدير الحماية
+41113,Gerente de servicios,Gerente de serviços,Responsable des services,مدير الخدمات
+41114,Jefe de turno,Chefe de turno,Responsable d'équipe,مدير الوردية
+41126,Administrador de empresa,Administrador de empresa,Administrateur de cabinet,مدير المؤسسة
+41133,Operario de transportador de carbón vegetal,Operador de transportador de carvão vegetal,Opérateur de convoyeur de charbon de bois,مشغل ناقل الفحم النباتي
+41135,Operario de tina de cal,Operador de tina de cal,Opérateur de cuve à chaux,مشغل حوض الجير
+41138,Blanqueador,Branqueador,Blanchisseur,عامل التبييض
+41139,Manipulador de azúcar a granel,Manipulador de açúcar a granel,Manutentionnaire de sucre en vrac,مناول السكر السائب
+41142,Instalador y técnico de mantenimiento de equipos dentales,Instalador e técnico de manutenção de equipamento dentário,Installateur et réparateur d'équipements dentaires,مركّب وفني صيانة المعدات السنية
+41143,Transportista de comestibles,Transportador de mercearia,Convoyeur d'épicerie,ناقل البقالة
+41146,Ajustador de conformado,Ajustador de formação,Régleur de formage,مثبّت التشكيل
+41148,Acabador de piscinas,Acabador de piscinas,Finisseur de piscines,مُنهي المسابح
+41150,Verificador de mariscos,Verificador de marisco,Contrôleur de crustacés,فاحص المحار
+41151,Verificador puntual,Verificador pontual,Contrôleur ponctuel,فاحص نقطي
+41155,Trabajador de cuadrilla B and B,Trabalhador de equipa B and B,Ouvrier d'équipe B and B,عامل فريق B and B
+41158,Cargador de fundidora,Carregador de fundidora,Chargeur de fusion,محمل الصهر
+41162,Profesional de pavimentos,Profissional de revestimentos de pisos,Professionnel du revêtement de sol,محترف الأرضيات
+41163,Despachador de oleoductos,Despachante de oleodutos,Répartiteur de pipelines,مرسل خطوط الأنابيب
+41164,Despachador de recepción,Despachante de receção,Répartiteur de réception,مرسل الاستلام
+41165,Despachador de relevos,Despachante de relés,Répartiteur de relais,مرسل المناوبة
+41166,Fabricante e instalador de lonas para embarcaciones,Fabricante e instalador de lonas para embarcações,Fabricant et installateur de bâches de bateau,صانع ومركّب أغطية القوارب
+41170,Marcador de cubiertas,Marcador de capas,Traceur de couvertures,معلِّم الأغطية
+41175,Operario de tablas,Operador de tábuas,Ouvrier de planches,عامل الألواح
+41176,Operario de sala de cardado,Operador de sala de cardagem,Ouvrier de salle de cardage,عامل قسم التمشيط
+41178,"Oficial de inteligencia, director de AOC","Oficial de inteligência, diretor AOC","Officier renseignement, directeur AOC",ضابط الاستخبارات، مدير AOC
+41179,Oficial de inteligencia de operaciones AOC,Oficial de inteligência de operações AOC,Officier de renseignement opérationnel AOC,ضابط استخبارات العمليات AOC
+41180,Ayudante de operario de máquina de pasado de hilos,Ajudante de operador de máquina de passagem de fios,Aide opérateur de machine d'enfilage,مساعد مشغل آلة السحب في الخيوط
+41181,Oficial de inteligencia de área geográfica,Oficial de inteligência de área geográfica,Officier de renseignement de zone géographique,ضابط استخبارات المنطقة الجغرافية
+41182,Ayudante de máquina de minería de frente largo,Ajudante de máquina de mineração de longwall,Aide machine d'exploitation en taille longue,مساعد آلة التعدين بالجدار الطويل
+41186,Gerente de camiones,Gerente de camiões,Responsable de camions,مدير الشاحنات
+41188,Oficial CRA,Oficial CRA,Officier CRA,ضابط CRA
+41192,Oficial de logia,Oficial de loja,Officier de loge,ضابط الجمعية
+41197,Operario de carga,Operador de carregamento,Opérateur de chargement,عامل التحميل
+41202,Electricista de oficina,Eletricista de escritório,Électricien de bureau,كهربائي المكاتب
+41204,Aserrador de vidrio óptico,Serrador de vidro ótico,Scieur de verre optique,منشار الزجاج البصري
+41206,Tasador de mercancías,Avaliador de mercadorias,Expert en marchandises,مقدّر البضائع
+41214,Extractor de huesos,Extrator de ossos,Tireur d'os,ساحب العظام
+41215,Capataz de calidad,Capataz de classificação,Contremaître de classement,مشرف التصنيف
+41216,Extractor de hormas,Extrator de formas,Tireur de forme,ساحب القوالب الخشبية
+41219,Recortador de cuero crudo,Aparador de couro cru,Ébarbeur de peaux brutes,مشذّب الجلود الخام
+41223,Estimador de construcción comercial,Orçamentista de construção comercial,Métreur de construction commerciale,مقدّر إنشاءات تجارية
+41226,Estimador senior de construcción,Orçamentista sénior de construção,Métreur senior en construction,مقدّر إنشاءات أول
+41227,Estimador senior eléctrico,Orçamentista sénior de eletricidade,Métreur senior en électricité,مقدّر كهرباء أول
+41228,Estimador senior mecánico,Orçamentista sénior mecânico,Métreur senior en mécanique,مقدّر ميكانيكا أول
+41237,Cortador manual II,Cortador manual II,Coupeur manuel II,قاطع يدوي II
+41239,Cortador a máquina II,Cortador mecânico II,Coupeur mécanique II,قاطع آلي II
+41241,Cortador de semilla de patata,Cortador de semente de batata,Coupeur de plants de pomme de terre,قاطع بذور البطاطس
+41242,Cortador de patata de siembra,Cortador de batata-semente,Coupeur de pommes de terre de semence,قاطع البطاطس للبذار
+41245,Ajustador de máquina de recorte,Ajustador de máquina de aparar,Régleur de machine à ébarber,معدّل آلة التشذيب
+41246,Montador de rueda cónica,Montador de roda cónica,Monteur de couronne dentée,مجمّع العجلة التاجية
+41247,Montador de varillas de cortinas,Montador de varões de cortinas,Monteur de tringles à rideaux,مجمّع قضبان الستائر
+41248,Montador de anillos de campo,Montador de anéis de campo,Monteur d'anneaux de champ,مجمّع الحلقات الميدانية
+41249,Montador de esterillas de tonel,Montador de esteiras de pipa,Monteur de nattes de barrique,مجمّع حصائر البراميل
+41250,Montador de pantallas de lámpara,Montador de abajures,Monteur d'abat-jour,مجمّع أغطية المصابيح
+41251,Montador de agendas de bolsillo,Montador de agendas de bolso,Monteur d'agendas de poche,مجمّع المفكرات الجيب
+41261,Alimentador de secador de chapas,Alimentador de secador de folheados,Alimentateur de sécheur de placage,مغذي مجفف القشرة الخشبية
+41264,Becario de inclusión,Estagiário de inclusão,Stagiaire inclusion,متدرب الإدماج
+41285,Recortador de cortes de calzado,Aparador de cortes de calçado,Ébarbeur de tiges,مشذّب أعلى الحذاء
+41286,Aserrador de botones,Serrador de botões,Scieur de boutons,منشار الأزرار
+41287,Operario de enrollado de calandria,Operador de enrolamento de calandra,Opérateur d'enroulement de calandre,مشغل لف المكبس الحراري
+41299,Cortador de cortes de calzado,Cortador de cortes de calçado,Coupeur de tiges,قاطع أعلى الحذاء
+41302,Verificador de existencias de confección,Verificador de stock de vestuário,Contrôleur de stock d'habillement,فاحص مخزون الملابس
+41304,Probador de balística,Testador de balística,Testeur de balistique,فاحص المقذوفات
+41317,Repartidor de servicio de comidas de hotel,Distribuidor de serviço de refeições de hotel,Convoyeur de restauration d'hôtel,عامل نقل خدمة الطعام بالفندق
+41323,Secador de arena,Secador de areia,Sécheur de sable,مجفف الرمل
+41330,Asesor de medición digital,Consultor de medição digital,Conseiller en mesure numérique,مستشار القياس الرقمي
+41335,Pulidor de polvo,Polvilhador,Poudreur,مُرشّ المسحوق
+41336,Perfilador,Perfilador,Profileur,مُعِدّ الملامح
+41337,Verificador de medidores,Verificador de medidores,Étalonneur,مُعايِر
+41338,Flejador,Cintador,Cercleur,عامل التطويق
+41340,Volteador de prendas,Virador de peças de vestuário,Retourneur de vêtements,قالب الملابس
+41342,Corredor de tiempo,Corretor de tempo,Courtier en temps d'antenne,وسيط الوقت الإعلاني
+41352,Coordinador de acreditación del personal médico,Coordenador de credenciação do pessoal médico,Coordinateur d'accréditation du personnel médical,منسق اعتماد الكادر الطبي
+41366,Capitán de relevo,Capitão de substituição,Capitaine remplaçant,قائد بديل
+41367,Coordinador de audiencias,Coordenador de audiências,Coordinateur d'audience,منسق الجمهور
+41368,Coordinador de reclamaciones,Coordenador de reclamações,Coordinateur des réclamations,منسق الشكاوى
+41369,Coordinador de guías voluntarios,Coordenador de guias voluntários,Coordinateur de guides bénévoles,منسق المرشدين المتطوعين
+41371,Ayudante eléctrico,Ajudante elétrico,Aide électricien,مساعد كهربائي
+41373,Coordinador de bajas y permisos,Coordenador de ausências,Coordinateur des congés,منسق الإجازات
+41374,Gerente eléctrico,Gerente elétrico,Responsable électrique,مدير الكهرباء
+41375,Coordinador de misioneros,Coordenador de missionários,Coordinateur de missionnaires,منسق المبشرين
+41376,Coordinador de residencia,Coordenador de residência,Coordinateur de résidanat,منسق الإقامة الطبية
+41382,Autorizador,Autorizador,Autorisateur,مُخوِّل
+41384,Copista,Copista,Copiste,ناسخ
+41389,Reacondicionador,Recondicionador,Remetteur à neuf,مُعيد التأهيل
+41392,Descascarador,Descascador,Écaleur,مُقشِّر
+41393,Plateador,Prateador,Argenteur,مُفضِّض
+41394,Subensamblador,Subconjunto montador,Sous-monteur,مجمّع فرعي
+41396,Transferidor,Transferidor,Transféreur,ناقل
+41398,Pintor de bobinas,Pintor de bobinas,Peintre de bobines,دهّان البكرات
+41399,Taladrador de forros de freno,Furador de forros de travão,Perceur de garnitures de frein,مثقب بطانات الفرامل
+41401,Limpiador de alambique de coque,Limpador de destilador de coque,Nettoyeur d'alambic à coke,منظف مقطّر الكوك
+41403,Transportista de relleno,Transportador de enchimento,Convoyeur de remplissage,ناقل الحشو
+41404,Máquina de juntas,Máquina de juntar,Machine à joints,آلة التوصيل
+41406,Ayudante de operador de grúa de embarcaciones,Ajudante de operador de grua de embarcações,Aide opérateur de grue de bateaux,مساعد مشغل رافعة القوارب
+41407,Ayudante de operador de acabado,Ajudante de operador de acabamento,Aide opérateur de finition,مساعد مشغل التجهيز
+41408,Ayudante de yesero de piscinas,Ajudante de estucador de piscinas,Aide plâtrier de piscines,مساعد مُجصّص المسابح
+41410,Director de medios audiovisuales,Diretor de meios audiovisuais,Directeur des moyens audiovisuels,مدير الوسائل السمعية البصرية
+41411,Ayudante de herrero,Ajudante de ferreiro,Aide forgeron,مساعد الحداد
+41412,Ayudante de albañil,Ajudante de pedreiro,Aide maçon,مساعد البنّاء
+41413,Máquina cortadora de lona,Máquina de corte de lona,Machine de coupe de toile,آلة قص القماش الشراعي
+41414,Ayudante de conductos,Ajudante de condutas,Aide poseur de conduits,مساعد القنوات
+41415,Ayudante de floristería,Ajudante de florista,Aide fleuriste,مساعد بائع الزهور
+41416,Ayudante de forjador,Ajudante de forjador,Aide forgeron,مساعد الحداد الصانع
+41417,Ayudante de impregnador,Ajudante de impregnador,Aide imprégnateur,مساعد المشرِّب
+41419,Director del centro de servicios comunitarios,Diretor do centro de serviços comunitários,Directeur du centre de services de quartier,مدير مركز خدمات الأحياء
+41420,Ayudante de deshilachador,Ajudante de desfiadeira,Aide défibreur,مساعد آلة التفكيك
+41421,Ayudante de tubero,Ajudante de canalizador industrial,Aide tuyauteur,مساعد مركّب الأنابيب
+41422,Director senior de laboratorio de citogenética,Diretor sénior de laboratório de citogenética,Directeur senior du laboratoire de cytogénétique,مدير أول مختبر علم الخلايا الوراثي
+41423,Ayudante de laminadora de hojas,Ajudante de laminadora de folhas,Aide à la laminoire de feuilles,مساعد آلة تشكيل الصفائح
+41424,Ayudante de remojador,Ajudante de embebedor,Aide trempeur,مساعد النقع
+41425,Limpiador de lámparas de alumbrado público,Limpador de lâmpadas de iluminação pública,Nettoyeur de lampadaires,منظف مصابيح الإنارة العامة
+41430,Tecnólogo de fiabilidad,Tecnólogo de fiabilidade,Technologue en fiabilité,فني الموثوقية
+41431,Limpiador de callejones,Limpador de becos,Nettoyeur de ruelles,منظف الأزقة
+41434,Limpiador de radiadores,Limpador de radiadores,Nettoyeur de radiateurs,منظف المشعات
+41435,Director de residencia,Diretor de residência,Directeur de résidanat,مدير الإقامة الطبية
+41437,Director de culto,Diretor de culto,Directeur du culte,مدير العبادة
+41439,Rectificador a medida,Retificador por encomenda,Rectifieur sur mesure,طاحن حسب الطلب
+41442,Operario de salida de carrera,Operador de saída de corredor,Sortant de chaîne,عامل الإخراج
+41443,Molinero de azúcar,Moleiro de açúcar,Broyeur de sucre,طاحن السكر
+41444,Rellenador de plantillas,Enchedor de palmilhas,Remplisseur de semelles,معبئ النعال الداخلية
+41450,Experto en explosivos,Especialista em explosivos,Artificier,خبير المتفجرات
+41453,Especialista en acción afirmativa,Especialista em ação afirmativa,Spécialiste de l'action positive,أخصائي الإجراءات الإيجابية
+41456,Especialista en financiación alternativa,Especialista em financiamento alternativo,Spécialiste du financement alternatif,أخصائي التمويل البديل
+41458,Especialista en adjudicación automática,Especialista em adjudicação automática,Spécialiste de l'adjudication automatique,أخصائي المطالبات الآلية
+41462,Especialista en resolución de denegaciones,Especialista em resolução de recusas,Spécialiste de la résolution des refus,أخصائي حل الرفض
+41465,Especialista en control de erosión,Especialista em controlo de erosão,Spécialiste de la lutte contre l'érosion,أخصائي مكافحة التآكل
+41467,Especialista en atención centrada en la familia,Especialista em cuidados centrados na família,Spécialiste de l'approche centrée sur la famille,أخصائي الرعاية المتمحورة حول الأسرة
+41468,Especialista en origen de grano,Especialista em origem de cereais,Spécialiste de l'origine des céréales,أخصائي منشأ الحبوب
+41475,Especialista en empleo para reclusos,Especialista em emprego para reclusos,Spécialiste de l'emploi des détenus,أخصائي توظيف المخالفين
+41476,Especialista en trabajadores mayores,Especialista em trabalhadores mais velhos,Spécialiste des travailleurs seniors,أخصائي العمال كبار السن
+41486,Envolvedor de árboles,Embrulhador de árvores,Emballeur d'arbres,مغلّف الأشجار
+41501,Enfermera,Enfermeira,Infirmière,ممرضة
+41505,Encargado de baño de matriz,Encarregado de banho de matriz,Préposé au bain de matrice,مشرف حمام المصفوفة
+41523,Preparador de cremalleras de cadeneta,Preparador de fechos de cadeia,Régleur de fermetures à chaînette,ضابط إعداد السحّابات ذات الغرزة السلسلية
+41525,Preparador de ruedas de pulido,Preparador de rodas de polimento,Régleur de meules de polissage,ضابط إعداد عجلات الصقل
+41529,Lavador de tamices,Lavador de peneiras,Laveur de tamis,غاسل المنخل الهزاز
+41530,Lavador de levadura,Lavador de levedura,Laveur de levure,غاسل الخميرة
+41531,Ayudante de acabado de forros de freno de amianto,Ajudante de acabamento de forros de travão de amianto,Aide finisseur de garnitures de frein en amiante,مساعد تشطيب بطانات الفرامل الأسبستية
+41538,Ayudante de operador de extrusora,Ajudante de operador de extrusora,Aide opérateur d'extrudeuse,مساعد مشغل الطاردة
+41540,Ayudante de horno de solera abierta,Ajudante de forno de soleira aberta,Aide four à sole ouverte,مساعد الفرن المكشوف
+41541,Ayudante de baldosas refractarias,Ajudante de ladrilhos refratários,Aide carreleur réfractaire,مساعد البلاط الحراري
+41542,Inspector de troqueles de sellos de goma,Inspetor de cunhos de carimbos de borracha,Inspecteur de matrices de tampons en caoutchouc,مفتش قوالب الأختام المطاطية
+41543,Ayudante de operario de muelle,Ajudante de operador de cais,Aide gardien de quai,مساعد عامل الرصيف
+41545,Inspector de ruedas y piñones,Inspetor de rodas e pinhões,Inspecteur de roues et pignons,مفتش العجلات والتروس الصغيرة
+41546,Preparador de volantes,Preparador de volantes,Régleur de volants,ضابط إعداد العجلات الدوارة
+41547,Colocador de parches,Aplicador de remendos,Poseur de pièces,مركّب الرقع
+41551,Contratista de mano de obra agrícola,Empreiteiro de mão de obra agrícola,Entrepreneur de main-d'œuvre agricole,متعاقد عمالة زراعية
+41552,Formador de muelles a mano,Formador de molas manual,Formeur de ressorts à la main,مشكّل الزنبركات اليدوي
+41555,Formador de muelles a máquina,Formador de molas mecânico,Formeur de ressorts à machine,مشكّل الزنبركات الآلي
+41556,Servicio de facturación médica,Serviço de faturação médica,Service de facturation médicale,خدمة الفوترة الطبية
+41558,Prensador de tiras,Prensador de tiras,Presseur de bandes,مكبس الشرائط
+41559,Monitor de investigación clínica,Monitor de investigação clínica,Moniteur de recherche clinique,مراقب البحث السريري
+41563,Lijador de carrocerías,Lixador de carroçarias,Ponceur de carrosseries,صانف الهياكل
+41564,Lijador de vagones,Lixador de carruagens,Ponceur de voitures,صانف العربات
+41567,Lijador de tela,Lixador de tecido,Ponceur de tissu,صانف الأقمشة
+41568,Lijador en seco,Lixador a seco,Ponceur à sec,صانف جاف
+41570,Lijador de vidrio,Lixador de vidro,Ponceur de verre,صانف الزجاج
+41572,Lijador de tacones,Lixador de saltos,Ponceur de talons,صانف الكعوب
+41573,Lijador a máquina,Lixador mecânico,Ponceur mécanique,صانف آلي
+41574,Lijador de metal,Lixador de metal,Ponceur de métal,صانف المعادن
+41575,Lijador de moldes,Lixador de moldes,Ponceur de moules,صانف القوالب
+41576,Lijador al agua,Lixador húmido,Ponceur à l'eau,صانف بالماء
+41578,Quemador de barriles,Queimador de barris,Brûleur de fûts,محرق البراميل
+41580,Ingeniero de personal técnico,Engenheiro de pessoal técnico,Ingénieur du personnel technique,مهندس الطاقم الفني
+41582,Soldador de plomo,Soldador de chumbo,Soudeur au plomb,لاحم الرصاص
+41583,Quemador de moldes,Queimador de moldes,Brûleur de moules,محرق القوالب
+41585,Cortador de acero (oxicorte),Cortador de aço (oxicorte),Découpeur d'acier au chalumeau,قاطع الفولاذ بالحرق
+41587,Clasificador de billetes,Classificador de notas,Trieur de billets,فارز الفواتير
+41588,Clasificador de ropa de cama,Classificador de roupa de cama,Trieur de linge,فارز الكتان
+41589,Ajustador de máquina de carga,Ajustador de máquina de carregamento,Régleur de machine de chargement,معدّل آلة التحميل
+41590,Clasificador de remaches,Classificador de rebites,Trieur de rivets,فارز المسامير
+41599,Montador de exposiciones del centro de ciencias,Montador de exposições do centro de ciências,Concepteur d'expositions de centre de sciences,بنّاء عروض مركز العلوم
+41600,Bobinador de espirales de relojería,Enroladeira de espirais de relógio,Bobineur de spiraux,لافّ الزنبرك الشعري
+41601,Cosedor de gorras,Costureiro de bonés,Piqueur de casquettes,خياط القبعات
+41602,Cosedor de etiquetas,Costureiro de etiquetas,Piqueur d'étiquettes,خياط الملصقات
+41605,Preparador de licor de blanqueo,Preparador de licor de branqueamento,Préparateur de liqueur de blanchiment,صانع محلول التبييض
+41606,Fabricante de traviesas,Fabricante de travessas,Fabricant de traverses,صانع الروابط العرضية
+41625,Cargador de furgonetas,Carregador de carrinhas,Chargeur de camionnettes,محمل الشاحنات الصغيرة
+41629,Encargado de patio de vehículos usados,Encarregado de stand de usados,Préposé de parc de voitures d'occasion,مشرف ساحة السيارات المستعملة
+41631,Encargado de bufé,Encarregado de buffet,Préposé au buffet,مشرف البوفيه
+41633,Encargado de escaleras mecánicas,Encarregado de escadas rolantes,Préposé aux escaliers mécaniques,مشرف السلالم المتحركة
+41634,Extractor de fieltro,Extrator de feltro,Tireur de feutre,ساحب اللباد
+41635,Encargado de duchas,Encarregado de duches,Préposé aux douches,مشرف الدُش
+41636,Encargado de herramental,Encarregado de ferramentaria,Préposé à l'outillage,مشرف مستودع الأدوات
+41639,Volteador de fondos,Virador de fundos,Retourneur de fonds,قالب القاع
+41640,Cortador de almohadillas de fieltro,Cortador de almofadas de feltro,Coupeur de tampons en feutre,قاطع وسادات اللباد
+41641,Cortador de adoquines,Cortador de blocos de pavimento,Coupeur de pavés,قاطع بلاط الرصف
+41642,Montador de toldos,Montador de toldos,Monteur de stores banne,مجمّع المظلات
+41643,Montador de planos (copias heliográficas),Montador de cópias heliográficas,Monteur de plans (héliographies),مجمّع المخططات الزرقاء
+41645,Montador de compuestos,Montador de compósitos,Monteur de composites,مجمّع المواد المركبة
+41646,Montador de cosméticos,Montador de cosméticos,Monteur de cosmétiques,مجمّع مستحضرات التجميل
+41647,Montador de negativos,Montador de negativos,Monteur de négatifs,مجمّع الأفلام السالبة
+41649,Procesador clasificador de planos,Processador classificador de planos,Opérateur de tri de plats,معالج فرز المسطحات
+41653,Responsable de estrategia terapéutica,Responsável de estratégia terapêutica,Responsable de la stratégie thérapeutique,قائد الاستراتيجية العلاجية
+41654,Evaporador,Evaporador,Évaporateur,مبخّر
+41660,Gerente de reurbanización de corredores,Gerente de requalificação de corredores,Responsable du réaménagement de corridor,مدير إعادة تطوير الممرات
+41673,Gerente de ingeniería de microfabricación,Gerente de engenharia de microfabricação,Responsable d'ingénierie de microfabrication,مدير هندسة التصنيع الدقيق
+41675,Gerente de PeopleSoft Taleo,Gerente de PeopleSoft Taleo,Responsable PeopleSoft Taleo,مدير PeopleSoft Taleo
+41686,Alimentador de transportador de latas,Alimentador de transportador de latas,Alimentateur de convoyeur de boîtes,مغذي ناقل العلب
+41687,Operario empujador,Operador empurrador,Opérateur pousseur,عامل الدفع
+41688,Alimentador de cortadora rotativa,Alimentador de cortadora rotativa,Alimentateur de coupeuse rotative,مغذي القاطع الدوار
+41689,Alimentador de secador rotatorio,Alimentador de secador rotativo,Alimentateur de sécheur rotatif,مغذي المجفف الدوار
+41698,Peón de planta de hormigón,Trabalhador de central de betão,Manœuvre de centrale à béton,عامل مصنع خلط الخرسانة
+41699,Contrainteligencia,Contrainteligência,Contre-espionnage,مكافحة التجسس
+41701,Alimentador de botellas,Alimentador de garrafas,Alimentateur de bouteilles,مغذي الزجاجات
+41702,Alimentador de canteadora,Alimentador de aplainadora de bordas,Alimentateur de dresseuse de bords,مغذي آلة حفر الحواف
+41704,Peón de refinería de petróleo,Trabalhador de refinaria de petróleo,Manœuvre de raffinerie de pétrole,عامل مصفاة البترول
+41705,Peón de incubadora avícola,Trabalhador de incubatório avícola,Manœuvre de couvoir avicole,عامل مفقس الدواجن
+41708,Operario de caja de amoníaco,Operador de caixa de amoníaco,Opérateur de caisson d'ammoniac,مشغل صندوق الأمونيا
+41729,Vigilante de torre de incendios,Vigilante de torre de incêndio,Guetteur de tour à feu,حارس برج الحريق
+41732,Verificador de calibres,Verificador de calibradores,Contrôleur de jauges,فاحص المقاييس
+41733,Operario de callejón,Operador de beco,Gardien de ruelle,مشغل الممر
+41734,Operario de cuna,Operador de berço,Gardien de berceau,مشغل المهد
+41737,Superintendente de medición,Superintendente de medição,Superviseur des mesures,مشرف القياس
+41752,Consejero genético pediátrico,Conselheiro genético pediátrico,Conseiller en génétique pédiatrique,مستشار وراثي للأطفال
+41753,Consejero genético senior,Conselheiro genético sénior,Conseiller en génétique senior,مستشار وراثي أول
+41754,Consejero genético de plantilla,Conselheiro genético de quadro,Conseiller en génétique du personnel,مستشار وراثي من الكادر
+41761,Montador de ojales roscados,Montador de olhais roscados,Monteur d'anneaux à vis,مجمّع العيون الملولبة
+41763,Montador de duelas de depósito,Montador de aduelas de tanque,Monteur de douves de cuve,مجمّع ألواح الخزانات
+41765,Montador de modelos de cera,Montador de modelos de cera,Monteur de modèles en cire,مجمّع نماذج الشمع
+41770,Reparador de cambiadores,Reparador de mudadores,Réparateur de changeurs,مصلح المبدّلات
+41774,Trabajador de carretilla,Trabalhador de carrinho de mão,Ouvrier de brouette,عامل العربة اليدوية
+41775,Trabajador de mejor calidad,Trabalhador de melhor qualidade,Ouvrier de première qualité,عامل الجودة الأفضل
+41776,Trabajador de fanega,Trabalhador de alqueire,Ouvrier au boisseau,عامل المكيال
+41777,Trabajador de cabeza de amarre,Trabalhador de cabeço de amarração,Ouvrier de bitte d'amarrage,عامل الخوازيق
+41778,Trabajador de tareas generales,Trabalhador de tarefas gerais,Homme à tout faire,عامل الأعمال المتنوعة
+41779,Trabajador de compensador,Trabalhador de compensador,Ouvrier de compensateur,عامل المعوّض
+41780,Trabajador de tacos,Trabalhador de tacos,Ouvrier de queue,عامل العصي
+41783,Trabajador de Dobie,Trabalhador de Dobie,Ouvrier Dobie,عامل دوبي
+41784,Trabajador de servidumbres,Trabalhador de servidões,Ouvrier de servitude,عامل حقوق الارتفاق
+41785,Trabajador de carenado,Trabalhador de carenagem,Ouvrier de carénage,عامل التغليف الانسيابي
+41788,Trabajador de evangelización,Trabalhador de evangelização,Ouvrier évangéliste,عامل الوعظ الديني
+41790,Trabajador de bodega,Trabalhador de porão,Ouvrier de cale,عامل العنبر
+41792,Trabajador de nevera,Trabalhador de frigorífico,Ouvrier de glacière,عامل الثلاجة
+41793,Trabajador de ideas,Trabalhador de ideias,Ouvrier d'idées,عامل الأفكار
+41795,Trabajador de gato de tornillo,Trabalhador de macaco de parafuso,Ouvrier de vérin à vis,عامل المرفاع اللولبي
+41796,Trabajador de Jordan,Trabalhador de Jordan,Ouvrier Jordan,عامل جوردان
+41797,Trabajador de desmontaje,Trabalhador de desmontagem,Ouvrier de démontage,عامل الفك
+41799,Trabajador de reparaciones,Trabalhador de reparações,Ouvrier de réparation,عامل الإصلاح
+41800,Trabajador de mufla,Trabalhador de mufla,Ouvrier de moufle,عامل الفرن الكاتم
+41801,Trabajador de nitro,Trabalhador de nitro,Ouvrier de nitration,عامل النيتروجين
+41802,Trabajador de pilares,Trabalhador de pilares,Ouvrier de pilier,عامل الأعمدة
+41804,Trabajador de vía de rodillos,Trabalhador de via de rolos,Ouvrier de voie à rouleaux,عامل مسار الدحرجة
+41805,Trabajador de ejes de transmisión,Trabalhador de eixos de transmissão,Ouvrier d'arbres de transmission,عامل أعمدة النقل
+41806,Trabajador de rampa de deslizamiento,Trabalhador de rampa de deslizamento,Ouvrier de glissière de bois,عامل منزلق الأخشاب
+41807,Trabajador de ahumadero,Trabalhador de fumeiro,Ouvrier de fumoir,عامل بيت التدخين
+41808,Trabajador de ardilla,Trabalhador de esquilo,Ouvrier écureuil,عامل السنجاب
+41809,Trabajador de mesa de vapor,Trabalhador de mesa de vapor,Ouvrier de table chauffante,عامل طاولة البخار
+41810,Trabajador de sala de tanques,Trabalhador de sala de tanques,Ouvrier de salle des cuves,عامل غرفة الخزانات
+41812,Trabajador de caña de timón,Trabalhador de cana do leme,Ouvrier de barre franche,عامل الدفة
+41819,Seleccionador de fibra,Selecionador de fibra,Trieur de fibres,منتقي الألياف
+41820,Estimador de madera,Avaliador de madeira,Estimateur de bois d'œuvre,مقدّر الأخشاب
+41826,Sumergidor de ácido,Mergulhador de ácido,Trempeur à l'acide,غامس الحمض
+41828,Pulidor de color,Polidor de cor,Polisseur de couleur,مصقل الألوان
+41829,Sumergidor de color,Mergulhador de cor,Trempeur de couleur,غامس الألوان
+41830,Sumergidor de núcleo,Mergulhador de núcleo,Trempeur de noyau,غامس اللب
+41831,Sumergidor de muebles,Mergulhador de móveis,Trempeur de meubles,غامس الأثاث
+41833,Pulidor de tacones,Polidor de saltos,Polisseur de talons,مصقل الكعوب
+41834,Sumergidor de tacones,Mergulhador de saltos,Trempeur de talons,غامس الكعوب
+41835,Sumergidor en caliente,Mergulhador a quente,Trempeur à chaud,غامس بالحرارة
+41839,Sumergidor de aceite,Mergulhador de óleo,Trempeur d'huile,غامس الزيت
+41840,Sumergidor de pintura,Mergulhador de tinta,Trempeur de peinture,غامس الدهان
+41841,Pulidor de tubos,Polidor de tubos,Polisseur de tuyaux,مصقل الأنابيب
+41842,Pulidor de acero,Polidor de aço,Polisseur d'acier,مصقل الفولاذ
+41843,Técnico de telemetría,Técnico de telemetria,Technicien de télémétrie,فني القياس عن بعد
+41844,Pulidor de neumáticos,Polidor de pneus,Polisseur de pneus,مصقل الإطارات
+41845,Sumergidor de tabaco,Mergulhador de tabaco,Trempeur de tabac,غامس التبغ
+41847,Pulidor de ruedas,Polidor de rodas,Polisseur de roues,مصقل العجلات
+41848,Pulidor de madera,Polidor de madeira,Polisseur de bois,مصقل الخشب
+41849,Sumergidor de envoltorios,Mergulhador de embrulhos,Trempeur d'emballages,غامس الأغلفة
+41860,Comprador de caballos,Comprador de cavalos,Acheteur de chevaux,مشتري الخيول
+41866,Alimentador de máquina de forrado de cajas,Alimentador de máquina de forrar caixas,Alimentateur de machine de doublage de boîtes,مغذي آلة تبطين الصناديق
+41867,Marcador de pelotas de golf,Marcador de bolas de golfe,Marqueur de balles de golf,معلِّم كرات الجولف
+41871,Plegador manual de cajas,Dobrador manual de caixas,Plieur manuel de boîtes,طاوٍ يدوي للصناديق
+41872,Plegador manual de tela,Dobrador manual de tecido,Plieur manuel de tissu,طاوٍ يدوي للأقمشة
+41874,Plegador de patrones de papel,Dobrador de moldes de papel,Plieur de patrons en papier,طاوٍ أنماط الورق
+41877,Recortador de tejas,Aparador de telhas,Ébarbeur de bardeaux,مشذّب القرميد
+41879,Envolvedor de hilo,Embrulhador de fio,Emballeur de fil,مُلفّ الغزل
+41883,Llenador de cestas,Enchedor de cestos,Remplisseur de paniers,معبئ السلال
+41886,Controlador de oleoductos,Controlador de oleodutos,Contrôleur de pipelines,مراقب خطوط الأنابيب
+41887,Cortador de cintas,Cortador de fitas,Coupeur de rubans,قاطع الشرائط
+41889,Cortador de tejas,Cortador de telhas,Coupeur de bardeaux,قاطع القرميد
+41890,Controlador de espacio aéreo,Controlador de espaço aéreo,Contrôleur d'espace aérien,مراقب المجال الجوي
+41892,Capataz de cuadrilla,Chefe de equipa,Chef d'équipe,مشرف الفريق
+41894,Mantenimiento de cableado,Manutenção de cablagem,Maintenance de câblage,صيانة الأسلاك
+41896,Peón de procesos químicos,Trabalhador de processos químicos,Manœuvre de procédés chimiques,عامل المعالجة الكيميائية
+41898,Ajustador de sobres,Ajustador de envelopes,Régleur d'enveloppes,معدّل المظاريف
+41901,Cocinero de cola,Cozedor de cola,Cuiseur de colle,طباخ الغراء
+41906,Supervisor de servicios de puerta de embarque,Supervisor de serviços de porta de embarque,Superviseur des services de porte,مشرف خدمات البوابة
+41910,Máquina encoladora de suelas,Máquina de colagem de solas,Machine de collage de semelles,آلة لصق النعل الخارجي
+41911,Máquina cortadora de suelas,Máquina de corte de solas,Machine de découpe de semelles,آلة قص النعل الخارجي
+41913,Miembro de cuadrilla de troquelado,Membro de equipa de punçoamento,Membre d'équipe de découpe,عضو فريق التثقيب
+41915,Máquina acondicionadora de arena,Máquina de condicionamento de areia,Machine de conditionnement du sable,آلة تكييف الرمل
+41916,Lijadora portátil,Lixadora portátil,Ponceuse portative,صانفة محمولة
+41924,Fabricante de adobe,Fabricante de adobe,Fabricant d'adobe,صانع الطوب اللبن
+41925,Fabricante de globos,Fabricante de balões,Fabricant de ballons,صانع البالونات
+41930,Operador de molino de cinta de trayectoria de contorno,Operador de máquina de fita de trajetória de contorno,Opérateur de fraiseuse à ruban de contour,مشغل آلة شريط المسار الكنتوري
+41935,Fabricante de filamentos,Fabricante de filamentos,Fabricant de filaments,صانع الخيوط
+41936,Preparador de fórmulas,Preparador de fórmulas,Préparateur de formules,صانع التركيبات
+41937,Operador de máquina de refuerzo de cuatro esquinas,Operador de máquina de reforço de quatro cantos,Opérateur de machine à renforts d'angle,مشغل آلة تثبيت الزوايا الأربع
+41940,Reparador de cabezales,Reparador de cabeçotes,Réparateur de têtes,مصلح الرؤوس
+41951,Operador de máquina de bobinado y tubería,Operador de máquina de bobinagem e tubagem,Opérateur de machine de bobinage et tubage,مشغل آلة اللف والتجريد الأنبوبي
+41953,Operador de máquina de rasgado y ranurado,Operador de máquina de rasgar e entalhar,Opérateur de machine de refendage et rainurage,مشغل آلة الشق والتخديد
+41958,Fabricante de tejas de madera,Fabricante de ripas de madeira,Fabricant de bardeaux,صانع ألواح الخشب المشقوقة
+41959,Fabricante de plantillas,Fabricante de estênceis,Fabricant de pochoirs,صانع الاستنسلات
+41976,Operador de hidróxido de amonio,Operador de hidróxido de amónio,Opérateur d'hydroxyde d'ammonium,مشغل هيدروكسيد الأمونيوم
+41979,Operador de sistema de frenado de cubierta,Operador de dispositivo de travagem de convés,Opérateur de dispositif d'arrêt,مشغل جهاز الإيقاف
+41984,Operador de destilador de benzol,Operador de destilador de benzol,Opérateur d'alambic à benzol,مشغل مقطّر البنزول
+41989,Operador de cable de hilos unidos,Operador de cordão colado,Opérateur de toron collé,مشغل الخيوط الملتصقة
+42003,Operador de concentración de catalizador,Operador de concentração de catalisador,Opérateur de concentration de catalyseur,مشغل تركيز المحفّز
+42008,Operador de celdas de cloro,Operador de células de cloro,Opérateur de cellules à chlore,مشغل خلايا الكلور
+42013,Operador de pulverización de carbón,Operador de pulverização de carvão,Opérateur de broyage de charbon,مشغل طحن الفحم
+42016,Operador de transportador Compo,Operador de transportador Compo,Opérateur de convoyeur Compo,مشغل ناقل Compo
+42017,Operador de revisión de componentes,Operador de revisão de componentes,Opérateur de révision de composants,مشغل إصلاح المكونات
+42018,Operador de secado continuo,Operador de secagem contínua,Opérateur de séchage continu,مشغل التجفيف المستمر
+42026,Operador de cloruro cuproso,Operador de cloreto cuproso,Opérateur de chlorure cuivreux,مشغل كلوريد النحاسوز
+42037,Operador de ocho brazos,Operador de oito braços,Opérateur à huit bras,مشغل الذراع الثماني
+42048,Operador de pruebas de formación,Operador de testes de formação,Opérateur d'essais de formation,مشغل اختبار التكوين
+42049,Operador de decantador completo,Operador de decantador completo,Opérateur de décanteur complet,مشغل المرسِّب الكامل
+42056,Operador de boquilla de gunita,Operador de bico de guniteamento,Opérateur de lance à gunite,مشغل فوهة الجنيت
+42065,Operador de espesador de hidrato,Operador de espessador de hidrato,Opérateur d'épaississeur d'hydrate,مشغل مكثف الهيدرات
+42073,Operador de partidora de martillo neumático,Operador de fendedora de martelo pneumático,Opérateur de fendeuse à marteau-piqueur,مشغل شاقّة المطرقة الهوائية
+42082,Operador de mortajadora de persianas,Operador de mortajadora de persianas,Opérateur de mortaiseuse à persiennes,مشغل آلة تعشيق المصاريع
+42112,Operador de escurridora de pinzas,Operador de espremedor de cilindros,Opérateur d'essoreuse à rouleaux,مشغل عاصرة الأسطوانات
+42113,Operador de incisor de postes,Operador de incisor de postes,Opérateur d'incisive de poteaux,مشغل قاطع الأعمدة
+42118,Operador de cultivos puros,Operador de culturas puras,Opérateur de cultures pures,مشغل المزارع النقية
+42119,Operador de recuperación de piridina,Operador de recuperação de piridina,Opérateur de récupération de pyridine,مشغل استعادة البيريدين
+42131,Operador de bote de servicio,Operador de bote de serviço,Opérateur de bateau de service,مشغل قارب الخدمة
+42139,Operador de balanza de sombrografía,Operador de balança de sombrografia,Opérateur de balance à ombrographie,مشغل ميزان الظل الضوئي
+42141,Operador de unión de hojas,Operador de junção de folhas,Opérateur d'assemblage de feuilles,مشغل دمج الصفائح
+42143,Operador de reimpresión de carcasas,Operador de reimpressão de invólucros,Opérateur de réimpression de coques,مشغل إعادة طباعة الهياكل
+42149,Operador de columna de sosa,Operador de coluna de soda,Opérateur de colonne de soude,مشغل عمود الصودا
+42150,Operador de dispositivo de sondeo,Operador de dispositivo de sondagem,Opérateur de dispositif de sondage,مشغل جهاز السبر
+42160,Operador de apoyo subsuperficial,Operador de apoio subsuperficial,Opérateur d'appui subsurface,مشغل الدعم تحت السطحي
+42161,Operador de cloruro de azufre,Operador de cloreto de enxofre,Opérateur de chlorure de soufre,مشغل كلوريد الكبريت
+42163,Operador de máquina de cinta Keller,Operador de máquina de fita Keller,Opérateur de machine à bande Keller,مشغل آلة شريط Keller
+42164,Operador de carda de cardillos,Operador de carda de cardo,Opérateur de machine à chardons,مشغل آلة الزغب بالقرع
+42182,Operador de música por hilo,Operador de música por cabo,Opérateur de musique filaire,مشغل الموسيقى السلكية
+42192,Conductor de P D,Motorista de P D,Chauffeur P D,سائق P D
+42194,Experto en balanzas,Perito em balanças,Expert en balances,خبير الموازين
+42197,Probador de válvulas de aire,Testador de válvulas de ar,Testeur de clapets d'air,فاحص صمامات الهواء
+42199,Probador de núcleos de radiador,Testador de núcleos de radiador,Testeur de noyaux de radiateur,فاحص نواة المشع
+42202,Asesor administrativo,Consultor administrativo,Conseiller administratif,مستشار إداري
+42203,Pulidor de hileras de diamante,Polidor de fieiras de diamante,Polisseur de filières en diamant,مصقل قوالب الماس
+42207,Soporte logístico,Apoio logístico,Soutien logistique,الدعم اللوجستي
+42209,Examinador de formularios,Examinador de formulários,Examinateur de formulaires,ممتحن النماذج
+42211,Peón de central eléctrica,Trabalhador de central elétrica,Manœuvre de centrale électrique,عامل محطة الطاقة
+42213,Peón sindicado,Trabalhador sindicalizado,Manœuvre syndiqué,عامل نقابي
+42215,Mezclador de lejía,Misturador de lixívia,Mélangeur d'agent de blanchiment,خلاط المبيض
+42216,Ayudante de operador de banco de estirado,Ajudante de operador de banco de estiragem,Aide opérateur de banc d'étirage,مساعد مشغل مقعد السحب
+42217,Mezclador de goma,Misturador de goma,Mélangeur de gomme,خلاط الصمغ
+42218,Mezclador de porcelana,Misturador de porcelana,Mélangeur de porcelaine,خلاط البورسلين
+42222,Marcador de hilo,Marcador de fio,Traceur de fil,معلِّم الخيوط
+42223,Montador de placas de joya de tapa,Montador de placas de joia de tampa,Monteur de plaques à pierre de capot,مجمّع ألواح الجواهر للأغطية
+42225,Montador de detonadores eléctricos,Montador de detonadores elétricos,Monteur de détonateurs électriques,مجمّع فتيلات التفجير الكهربائية
+42227,Alimentador de mascotas,Alimentador de animais de estimação,Distributeur d'aliments pour animaux,مغذي الحيوانات الأليفة
+42228,Alimentador de ollas,Alimentador de potes,Alimentateur de creusets,مغذي البوتقات
+42232,Estimador de HVAC,Orçamentista de HVAC,Métreur CVC,مقدّر HVAC
+42237,Revestidor de buques,Revestidor de navios,Doubleur de navires,مبطّن السفن
+42253,Técnico de enfoque de fábrica,Técnico de foco de fábrica,Technicien de mise au point d'usine,فني تركيز المصنع
+42282,Auxiliar de ruta de oficina telegráfica,Auxiliar de rota de estação telegráfica,Assistant de tournée de bureau télégraphique,مساعد مسار مكتب البرق
+42283,Técnico de pruebas de rastro,Técnico de vestígios,Technicien en traces,فني أدلة الأثر
+42290,Extractor de punteras,Extrator de biqueiras,Tireur de bouts,ساحب مقدمات الأحذية
+42299,Profesor de educación cívica,Professor de cidadania,Enseignant en éducation civique,معلم المواطنة
+42309,Profesor de hidrología,Professor de hidrologia,Enseignant en hydrologie,معلم علم المياه
+42315,Profesor de preparación al parto,Professor de preparação para o parto,Enseignant en préparation à la naissance,معلم ما قبل الولادة
+42320,Profesor de SLD,Professor de SLD,Enseignant SLD,معلم SLD
+42321,Profesor de logopedia,Professor de terapia da fala,Enseignant en orthophonie,معلم علاج النطق
+42325,Preparador de verduras,Preparador de legumes,Préparateur de légumes,معدّ الخضروات
+42331,Recolector de chatarra,Recolhedor de sucata,Collecteur de ferraille,جامع الخردة المعدنية
+42340,Cortador de láminas de aluminio,Cortador de chapas de alumínio,Coupeur de tôles d'aluminium,قاطع صفائح الألومنيوم
+42347,Cortador de azúcar blando,Cortador de açúcar mole,Coupeur de sucre mou,قاطع السكر الطري
+42351,Peón de pan de oro,Trabalhador de folha de ouro,Manœuvre de feuille d'or,عامل ورق الذهب
+42353,Instalador de nichos de cementerio,Instalador de jazigos de cemitério,Installateur de caveaux de cimetière,مركّب مدافن المقابر
+42357,Instalador de palas de rotor,Instalador de pás de rotor,Installateur de pales de rotor,مركّب شفرات الدوار
+42368,Coach lean,Treinador lean,Coach lean,مدرب اللين
+42371,Supervisor de educación agrícola,Supervisor de educação agrícola,Superviseur de l'enseignement agricole,مشرف التعليم الزراعي
+42382,Clasificador de hebillas,Classificador de fivelas,Trieur de boucles,فارز الإبزيمات
+42383,Clasificador de camisas,Classificador de camisas,Trieur de chemises,فارز القمصان
+42384,Transportista de corbatas,Transportador de gravatas,Convoyeur de cravates,ناقل ربطات العنق
+42386,Alimentador de máquina de recubrimiento,Alimentador de máquina de revestimento,Alimentateur de machine d'enduction,مغذي آلة الطلاء
+42388,Alimentador de máquina empaquetadora,Alimentador de máquina de embalagem,Alimentateur de machine d'emballage,مغذي آلة التعبئة
+42390,Cargador de autoclave,Carregador de retorta,Chargeur de cornue,محمل المقطّر
+42392,Tasador de madera,Avaliador de madeira,Expert en bois,مقدّر الأخشاب
+42395,Especialista en servicio de cenas familiares,Especialista em serviço de jantares familiares,Spécialiste des repas familiaux,أخصائي خدمة وجبات العشاء العائلية
+42400,Acabador de mesas y escritorios,Acabador de mesas e secretárias,Finisseur de tables et bureaux,مُنهي الطاولات والمكاتب
+42404,Especialista en ASW,Especialista em ASW,Spécialiste ASW,أخصائي ASW
+42405,Especialista en autorizaciones,Especialista em autorizações,Spécialiste des autorisations,أخصائي التفويض
+42406,Operario de pernos,Operador de parafusos,Visseur,عامل البراغي
+42407,Especialista en miras de bombardeo,Especialista em miras de bombardeamento,Spécialiste de viseur de bombardement,أخصائي منظار القصف
+42408,Especialista en BPO,Especialista em BPO,Spécialiste BPO,أخصائي BPO
+42411,Especialista en credenciales,Especialista em credenciais,Spécialiste des accréditations,أخصائي الاعتمادات
+42412,Especialista en registro de plazos,Especialista em registo de prazos,Spécialiste de la gestion des échéances,أخصائي تسجيل المواعيد
+42413,Especialista en duplicación,Especialista em duplicação,Spécialiste de la duplication,أخصائي النسخ
+42415,Especialista en desahucios,Especialista em despejos,Spécialiste des expulsions,أخصائي الإخلاء
+42416,Especialista en embargos,Especialista em penhoras,Spécialiste des saisies,أخصائي الحجز على الأجور
+42420,Especialista en metabolismo,Especialista em metabolismo,Spécialiste du métabolisme,أخصائي الأيض
+42422,Especialista en microchips,Especialista em microchips,Spécialiste des microcircuits,أخصائي الرقائق الدقيقة
+42424,Especialista en NCQA,Especialista em NCQA,Spécialiste NCQA,أخصائي NCQA
+42425,Especialista en nervios,Especialista em nervos,Spécialiste des nerfs,أخصائي الأعصاب
+42426,Especialista en PCMH,Especialista em PCMH,Spécialiste PCMH,أخصائي PCMH
+42427,Especialista en personalización,Especialista em personalização,Spécialiste de la personnalisation,أخصائي التخصيص
+42428,Especialista en QI,Especialista em QI,Spécialiste QI,أخصائي QI
+42429,Especialista en RAC,Especialista em RAC,Spécialiste RAC,أخصائي RAC
+42435,Becario de diversidad,Estagiário de diversidade,Stagiaire diversité,متدرب التنوع
+42446,Jefe del departamento de tecnología electrónica,Chefe do departamento de tecnologia eletrónica,Chef du département de technologie électronique,رئيس قسم تقنية الإلكترونيات
+42451,Torneador de canales,Torneiro de canais,Tourneur de canaux,خراط القنوات
+42455,Mecánico de mesas de billar,Mecânico de mesas de bilhar,Mécanicien de tables de billard,ميكانيكي طاولات البلياردو
+42457,Mecánico de máquinas de bebidas,Mecânico de máquinas de bebidas,Mécanicien de distributeurs de boissons,ميكانيكي آلات المشروبات
+42462,Mecánico de verificación de sistemas,Mecânico de verificação de sistemas,Mécanicien de contrôle des systèmes,ميكانيكي فحص الأنظمة
+42467,Operario de prensa de tacones y suelas de caucho,Operador de prensa de saltos e solas de borracha,Opérateur de presse à talons et semelles en caoutchouc,مشغل مكبس كعوب ونعال المطاط
+42470,Inspector de componentes de munición,Inspetor de componentes de munições,Inspecteur de composants de munitions,مفتش مكونات الذخيرة
+42475,Inspector de cajas de cojinete,Inspetor de caixas de chumaceira,Inspecteur de boîtes d'essieu,مفتش صناديق المحاور
+42477,Inspector de fundas de sofá,Inspetor de capas de sofá,Inspecteur de housses de canapé,مفتش أغطية الأرائك
+42478,Inspector de tapicería,Inspetor de estofos,Inspecteur de revêtements,مفتش الكسوات
+42487,Recubridor de carrocerías,Revestidor de carroçarias,Recouvreur de carrosseries,مغطّي الهياكل
+42489,Recubridor de cables,Revestidor de cabos,Gainer de câbles,مغطّي الكابلات
+42490,Tapador de latas,Tampador de latas,Sertisseur de boîtes,مغطّي العلب
+42491,Recubridor de celdas,Revestidor de células,Recouvreur de cellules,مغطّي الخلايا
+42492,Triturador de arcilla,Triturador de argila,Broyeur d'argile,طاحن الطين
+42493,Forrador de tela,Revestidor de tecido,Recouvreur de tissu,مغطّي الأقمشة
+42494,Molinero de pienso,Moleiro de ração,Broyeur d'aliments,طاحن الأعلاف
+42496,Forrador de marcos,Revestidor de armações,Recouvreur de cadres,مغطّي الإطارات
+42497,Forrador de tacones,Revestidor de saltos,Recouvreur de talons,مغطّي الكعوب
+42498,Forrador de cuero,Revestidor de couro,Recouvreur de cuir,مغطّي الجلود
+42500,Recubridor de rodillos,Revestidor de rolos,Recouvreur de rouleaux,مغطّي الأسطوانات
+42501,Forrador de calzado,Revestidor de calçado,Recouvreur de chaussures,مغطّي الأحذية
+42502,Recubridor de muelles,Revestidor de molas,Recouvreur de ressorts,مغطّي الزنبركات
+42503,Recubridor de tubos,Revestidor de tubos,Recouvreur de tubes,مغطّي الأنابيب
+42505,Sumergidor de caramelos,Mergulhador de rebuçados,Trempeur de bonbons,غامس الحلوى
+42508,Bobinador de jack,Enroladeira de jack,Bobineur de jack,لافّ الجاك
+42509,Bobinador de encaje,Enroladeira de renda,Bobineur de dentelle,لافّ الدانتيل
+42510,Bobinador de mecha,Enroladeira de mecha,Bobineur de mèche,لافّ الفتيل
+42511,Piloto de banquetes,Piloto de banquetes,Pilote de banquets,طيار الولائم
+42518,Tecnólogo de cierres,Tecnólogo de fechos,Technologue en fixations,فني المثبتات
+42519,Topógrafo de vuelo,Topógrafo de voo,Géomètre aérien,مساح الطيران
+42554,Recubridor de barriles,Revestidor de barris,Enducteur de fûts,مطلي البراميل
+42555,Recubridor de color,Revestidor de cor,Enducteur de couleur,مطلي الألوان
+42556,Recubridor de película,Revestidor de película,Enducteur de film,مطلي الأفلام
+42558,Recubridor de plomo,Revestidor de chumbo,Enducteur au plomb,مطلي الرصاص
+42559,Recubridor de cuero,Revestidor de couro,Enducteur de cuir,مطلي الجلود
+42560,Recubridor de lentes,Revestidor de lentes,Enducteur de lentilles,مطلي العدسات
+42564,Recubridor superior,Revestidor superior,Enducteur de dessus,مطلي الأعلى
+42565,Recubridor de tubos,Revestidor de tubos,Enducteur de tubes,مطلي الأنابيب
+42566,Recubridor de alambre,Revestidor de arame,Enducteur de fil,مطلي الأسلاك
+42567,Recubridor de madera,Revestidor de madeira,Enducteur de bois,مطلي الخشب
+42571,Montador de rodillos de fuente,Montador de rolos de fonte,Monteur de rouleaux d'encrier,مجمّع أسطوانات النافورة
+42573,Montador de utillajes de prueba,Montador de dispositivos de teste,Monteur de gabarits d'essai,مجمّع تركيبات الاختبار
+42577,Canteadora automática,Aplainadora de bordas automática,Dresseuse de bords automatique,آلة حفر الحواف الأوتوماتيكية
+42579,Lijadora de torno,Lixadora de torno,Ponceuse de tour,صانفة المخرطة
+42580,Jefe de despacho de carga,Chefe de despacho de carga,Chef répartiteur de charge,رئيس مرسلي الأحمال
+42582,Vicepresidente ejecutivo y director de exploración,Vice-presidente executivo e diretor de exploração,"Vice-président exécutif, directeur de l'exploration",نائب الرئيس التنفيذي ورئيس قسم الاستكشاف
+42589,Llenador de lanzaderas,Enchedor de lançadeiras,Remplisseur de navettes,معبئ المكوك
+42594,Preparador del departamento de fabricación,Preparador do departamento de fabrico,Préparateur du département de fabrication,معدّ قسم التصنيع
+42596,Superintendente de terminal petrolero marítimo,Superintendente de terminal petrolífero marítimo,Superviseur de terminal pétrolier maritime,مشرف محطة النفط البحرية
+42598,Desnudador comercial,Desmoldador comercial,Décapeur commercial,مُزيل الطبقات التجاري
+42599,Desmoldador de marcos,Desmoldador de armações,Décapeur de cadres,مُزيل الإطارات
+42600,Desmoldador manual,Desmoldador manual,Décapeur manuel,مُزيل يدوي
+42601,Desmoldador de máquina,Desmoldador mecânico,Décapeur mécanique,مُزيل آلي
+42602,Desmoldador de moldes,Desmoldador de moldes,Démouleur,مُزيل القوالب
+42603,Desmoldador de papel,Desmoldador de papel,Décapeur de papier,مُزيل الورق
+42604,Desmoldador de tubos,Desmoldador de tubos,Décapeur de tubes,مُزيل الأنابيب
+42605,Desmoldador de proceso,Desmoldador de processo,Décapeur de procédé,مُزيل العمليات
+42606,Alimentador de tiras,Alimentador de tiras,Alimentateur de bandes,مغذي الشرائط
+42607,Desmontador de neumáticos,Desmontador de pneus,Démonteur de pneus,مُزيل الإطارات
+42608,Pelacables,Descarnador de fios,Dénudeur de fil,مُجرّد الأسلاك
+42610,Manipulador de tapicería,Manipulador de estofos,Manutentionnaire de tapisserie,مناول الكسوات
+42612,Ayudante de operador de sondeo con núcleo,Ajudante de operador de sondagem com coroa,Aide opérateur de sondage carotté,مساعد مشغل الحفر الأساسي بالعينة
+42613,Supervisor de cepillado y perchado de tela,Supervisor de escovagem e aveludagem de tecido,Superviseur de brossage et de grattage des tissus,مشرف تفريش وتنعيم الأقمشة
+42614,Jefe de operarios de filtro prensa,Chefe de operadores de filtro-prensa,Chef opérateur de filtre-presse,رئيس مشغلي مكبس الترشيح
+42616,Supervisor de aislamiento de tuberías y calderas,Supervisor de isolamento de tubagens e caldeiras,Superviseur de calorifugeage de tuyauteries et chaudières,مشرف عزل الأنابيب والغلايات
+42618,Supervisor de conductores de ventas y reparto en ruta,Supervisor de motoristas de vendas e entregas em rota,Superviseur des chauffeurs de tournée et livraisons,مشرف سائقي المبيعات والتوصيل على المسار
+42620,Ayudante de clasificador de abrasivos,Ajudante de classificador de abrasivos,Aide trieur d'abrasifs,مساعد مصنّف المواد الكاشطة
+42621,Ayudante de mezclador de abrasivos,Ajudante de misturador de abrasivos,Aide mélangeur d'abrasifs,مساعد خلاط المواد الكاشطة
+42622,Ayudante de instalador de conductos,Ajudante de instalador de condutas,Aide poseur de gaines,مساعد مركّب القنوات
+42623,Ayudante de desfibradora de relleno,Ajudante de desfibradora de enchimento,Aide déchiqueteur de garniture,مساعد آلة تمزيق الحشو
+42624,Ayudante de mezclador de harina,Ajudante de misturador de farinha,Aide mélangeur de farine,مساعد خلاط الدقيق
+42625,Ayudante de mezclador de harina,Ajudante de misturador de farinha,Aide mélangeur de farine,مساعد خلاط الدقيق
+42626,Ayudante de tonelero manual,Ajudante de tanoeiro manual,Aide tonnelier manuel,مساعد الخرّاط اليدوي
+42627,Ayudante de operador de purificación,Ajudante de operador de purificação,Aide opérateur de purification,مساعد مشغل التنقية
+42628,Ayudante de exterminador de termitas,Ajudante de desinfestador de térmitas,Aide exterminateur de termites,مساعد مبيد النمل الأبيض
+42629,Ayudante de sondista de prueba,Ajudante de sondador de teste,Aide foreur d'essai,مساعد حفار الاختبار
+42630,Ayudante de colocador de papel pintado,Ajudante de colocador de papel de parede,Aide colleur de papier peint,مساعد معلّق ورق الجدران
+42631,Ayudante de impresor de papel pintado,Ajudante de impressor de papel de parede,Aide imprimeur de papier peint,مساعد طابع ورق الجدران
+42633,Supervisor de carga aérea,Supervisor de carregamento de carga aérea,Superviseur du chargement de fret aérien,مشرف تحميل الشحن الجوي
+42635,Supervisor de operarios de prensas enfardadoras,Supervisor de operadores de prensas de fardos,Superviseur des opérateurs de presses à balles,مشرف مشغلي مكابس الحزم
+42639,Supervisor de operarios de calderas,Supervisor de operadores de caldeiras,Superviseur des chauffeurs de chaudières,مشرف مشغلي الغلايات
+42641,Supervisor de electrodos de carbono,Supervisor de elétrodos de carbono,Superviseur d'électrodes en carbone,مشرف أقطاب الكربون
+42642,Supervisor de perchado de tela,Supervisor de aveludagem de tecido,Superviseur de grattage des tissus,مشرف تنعيم الأقمشة
+42653,Supervisor de apeo y tronzado,Supervisor de abate e destroçamento,Superviseur d'abattage et de tronçonnage,مشرف قطع الأشجار وتقطيعها
+42654,Supervisor de fijación de fibra,Supervisor de fixação de fibra,Superviseur de fixation des fibres,مشرف تثبيت الألياف
+42656,Supervisor de carga de luces flotantes,Supervisor de carregamento de luzes flutuantes,Superviseur de chargement de feux flottants,مشرف تحميل الأضواء العائمة
+42662,Supervisor de desgarro de encaje,Supervisor de rasgamento de renda,Superviseur du déchirage de dentelle,مشرف تمزيق الدانتيل
+42663,Supervisor de pantallas de lámpara,Supervisor de abajures,Superviseur d'abat-jour,مشرف أغطية المصابيح
+42665,Supervisor de operarios de correo,Supervisor de manipuladores de correio,Superviseur des agents de tri postal,مشرف مناولي البريد
+42669,Supervisor de zona de mezclado,Supervisor da zona de mistura,Superviseur de zone de mélange,مشرف منطقة الخلط
+42675,Supervisor de fertilizantes fosfatados,Supervisor de fertilizantes fosfatados,Superviseur d'engrais phosphatés,مشرف الأسمدة الفوسفاتية
+42677,Supervisor de juntas de tubería,Supervisor de juntas de tubagem,Superviseur de joints de tuyauterie,مشرف وصلات الأنابيب
+42678,Supervisor de esmaltado de porcelana,Supervisor de esmaltagem de porcelana,Superviseur d'émaillage de porcelaine,مشرف تزجيج البورسلين
+42679,Supervisor de exactitud de precios,Supervisor de exatidão de preços,Superviseur de l'exactitude des prix,مشرف دقة الأسعار
+42681,Supervisor de recarga de reactores,Supervisor de reabastecimento de reatores,Superviseur de rechargement de réacteurs,مشرف تزويد المفاعلات بالوقود
+42682,Supervisor de estropajos,Supervisor de esfregões,Superviseur de tampons à récurer,مشرف فوط التنظيف
+42683,Supervisor de foso de encogimiento,Supervisor de fosso de contração,Superviseur de fosse de retrait,مشرف حفرة الانكماش
+42684,Supervisor de chapado con lanzadera,Supervisor de folheamento com lançadeira,Superviseur de placage à navette,مشرف تغشية المكوك
+42687,Supervisor de reparación de sobrealimentadores,Supervisor de reparação de sobrealimentadores,Superviseur de réparation de compresseurs,مشرف إصلاح أجهزة الشحن الفائق
+42693,Auxiliar de control de copias clasificadas,Auxiliar de controlo de cópias classificadas,Employé de contrôle des copies classifiées,موظف مراقبة النسخ السرية
+42694,Auxiliar de existencias de charcutería,Auxiliar de stock de charcutaria,Employé de stock de charcuterie,موظف مخزون المأكولات الجاهزة
+42698,Moldeador de carne,Moldador de carne,Mouleur de viande,مُشكِّل اللحوم
+42699,Auxiliar flexible a tiempo parcial,Auxiliar flexível a tempo parcial,Employé flexible à temps partiel,موظف مرن بدوام جزئي
+42702,Lavador de carne,Lavador de carne,Laveur de viande,غاسل اللحوم
+42708,Planificador de billetes,Planeador de bilhetes,Planificateur de billets,مخطط التذاكر
+42709,Administrador de herramientas,Administrador de ferramentas,Administrateur d'outils,مدير الأدوات
+42717,Operario de tamiz centrífugo,Operador de crivo centrífugo,Opérateur de crible centrifuge,مشغل المنخل الطارد المركزي
+42720,Operario de sala de mezclas,Operador de sala de mistura,Opérateur de salle de mélange,مشغل غرفة الخلط
+42724,Operario de arroz en cáscara,Operador de arroz em casca,Opérateur de riz paddy,مشغل الأرز الخام
+42732,Máquina cortadora de cortinajes,Máquina de corte de cortinados,Machine de coupe de draperies,آلة قص الستائر
+42733,Máquina cortadora de recortes,Máquina de corte de aparas,Machine de coupe de parures,آلة قص التشذيب
+42739,Enlace de documentación,Ligação de documentação,Agent de liaison documentaire,مسؤول تواصل التوثيق
+42741,Enlace de rehabilitación,Ligação de reabilitação,Agent de liaison en réadaptation,مسؤول تواصل إعادة التأهيل
+42744,Ajustador de facturas,Ajustador de faturas,Régleur de factures,معدّل الفواتير
+42745,Limpiador de bizcocho (porcelana),Limpador de biscuit,Nettoyeur de biscuit,منظف البسكويت الخزفي
+42746,Limpiador de condensadores,Limpador de condensadores,Nettoyeur de condenseurs,منظف المكثفات
+42747,Limpiador de caras,Limpador de faces,Nettoyeur de faces,منظف الوجوه
+42751,Limpiador de especias,Limpador de especiarias,Nettoyeur d'épices,منظف التوابل
+42752,Limpiador de pavo,Limpador de peru,Nettoyeur de dinde,منظف الديك الرومي
+42753,Montador de balones de baloncesto,Montador de bolas de basquetebol,Monteur de ballons de basket,مجمّع كرات السلة
+42754,Montador de cartuchos,Montador de cartuchos,Monteur de cartouches,مجمّع الخراطيش
+42755,Montador de planos (ropa plana),Montador de peças planas,Monteur de pièces plates,مجمّع الأجزاء المسطحة
+42760,Montador de marcos de ventana,Montador de caixilhos,Monteur de châssis,مجمّع الإطارات النافذية
+42761,Montador de segmentos,Montador de segmentos,Monteur de segments,مجمّع القطع
+42763,Repartidor de sala de casino,Distribuidor de sala de casino,Employé de salle de casino,عامل صالة الكازينو
+42765,Trabajador de evaporación,Trabalhador de evaporação,Ouvrier d'évaporation,عامل التبخير بالغليان
+42768,Enlace científico-médico,Ligação científico-médica,Délégué scientifique médical,مسؤول التواصل العلمي الطبي
+42770,Trabajador de crematorio de mascotas,Trabalhador de crematório de animais de estimação,Opérateur de crématorium animalier,عامل محرقة الحيوانات الأليفة
+42772,Enlace de traslados regionales,Ligação de transferências regionais,Agent de liaison des mutations régionales,مسؤول تواصل النقل الإقليمي
+42774,Trabajador de desmontaje,Trabalhador de desmontagem,Ouvrier de démontage,عامل الهدم والتفكيك
+42776,Trabajador de polvo de TNT,Trabalhador de pó de TNT,Ouvrier de poudre de TNT,عامل مسحوق TNT
+42778,Trabajador del departamento de viscosa,Trabalhador do departamento de viscose,Ouvrier du département viscose,عامل قسم الفسكوز
+42779,Trabajador de precalentamiento,Trabalhador de pré-aquecimento,Ouvrier de préchauffage,عامل التسخين المسبق
+42782,Operario extractor de clavos de plantillas,Operador extrator de tachas de palmilhas,Ouvrier arracheur de pointes de semelles,عامل نزع مسامير النعال الداخلية
+42783,Máquina de ajuste y afilado de cuchillas,Máquina de regulação e afiação de facas,Machine de réglage et d'affûtage de couteaux,آلة ضبط وشحذ السكاكين
+42784,Operario de desbarbado,Operador de desbarbagem,Ouvrier ébarbeur,عامل إزالة البُرى
+42785,Operario de digestor,Operador de digestor,Ouvrier de digesteur,عامل الهاضم
+42787,Operario de caldera de blanqueo,Operador de caldeira de cozedura,Ouvrier de chaudière à cuisson,عامل قدر التبييض
+42789,Operario de plisado,Operador de plissagem,Ouvrier plisseur,عامل التكسير
+42790,Operario de perfilado,Operador de perfilagem,Ouvrier profileur,عامل التشكيل بالملامح
+42792,Operario de tufting,Operador de tufting,Ouvrier de tuftage,عامل التطريز بالخيوط
+42793,Operario de remolcador,Operador de rebocador,Ouvrier de remorqueur,عامل القاطرة
+42794,Atador de bandas,Atador de bandas,Lieur de bandes,رابط الأشرطة
+42795,Atador de algodón,Atador de algodão,Lieur de coton,رابط القطن
+42796,Atador de plegados,Atador de dobragens,Lieur de pliage,رابط الطيّات
+42797,Atador manual,Atador manual,Lieur manuel,رابط يدوي
+42798,Atador de guías,Atador de guias,Lieur de guide,رابط القيادة
+42799,Hombre de alquiler de salida,Homem de saída de arrendamento,Agent de location sortante,عامل تأجير الخروج
+42800,Atador de muelles,Atador de molas,Lieur de ressorts,رابط الزنبركات
+42801,Atador de acero,Atador de aço,Lieur d'acier,رابط الفولاذ
+42803,Operario de caldero de alquitrán,Operador de tacho de alcatrão,Préposé au pot à goudron,عامل وعاء القطران
+42813,Rodillero de pulpa,Rolador de polpa,Rouleur de pâte,دحّاج اللب
+42814,Transportista de vástago,Transportador de haste,Convoyeur de tige,ناقل الساق
+42815,Despachador telegráfico,Despachante telegráfico,Répartiteur télégraphique,مرسل البرق
+42819,Asesor del condado,Consultor do condado,Conseiller de comté,مستشار المقاطعة
+42825,Educador sanitario en prevención del tabaquismo,Educador de saúde em prevenção do tabagismo,Éducateur sanitaire en prévention du tabac,مربي صحي للوقاية من التبغ
+42827,Fabricante e instalador de toldos,Fabricante e instalador de toldos,Fabricant et installateur de stores banne,صانع ومركّب المظلات
+42828,Preparador de máquina de recorte de cepillos,Preparador de máquina de aparar escovas,Régleur de machine à ébarber les brosses,ضابط إعداد آلة تشذيب الفرش
+42832,Prácticas en arquitectura,Estágio em arquitetura,Stage en architecture,تدريب في الهندسة المعمارية
+42833,Triturador de carbón,Triturador de carvão,Broyeur de charbon,طاحن الكربون
+42834,Extractor de arneses,Extrator de arreios,Tireur de harnais,ساحب الأحزمة
+42835,Extractor de cal,Extrator de cal,Tireur de chaux,ساحب الجير
+42836,Extractor de clavos,Extrator de pregos,Arracheur de clous,ساحب المسامير
+42837,Triturador de frutos secos,Triturador de frutos secos,Broyeur de noix,طاحن المكسرات
+42839,Prácticas en compras y aprovisionamiento,Estágio em aprovisionamento,Stage en approvisionnement,تدريب في التوريد
+42840,Prácticas en suscripción,Estágio em subscrição,Stage en souscription,تدريب في الاكتتاب
+42841,Preparador de trenzadora,Preparador de trançadeira,Régleur de tresseuse,ضابط إعداد آلة الضفر
+42842,Preparador de condensadores,Preparador de condensadores,Régleur de condenseurs,ضابط إعداد المكثفات
+42844,Preparador de objetivos,Preparador de alvos,Régleur de cibles,ضابط إعداد الأهداف
+42849,Cortador a llama,Cortador a chama,Découpeur au chalumeau,قاطع باللهب
+42850,Cortador de pie (suelas),Cortador de palmilha/base,Coupeur de pieds (semelles),قاطع القوائم
+42852,Agente de permisos,Agente de licenças,Agent des permis,وكيل التصاريح
+42855,Cortador de sal,Cortador de sal,Coupeur de sel,قاطع الملح
+42856,Agente de liquidación,Agente de liquidação,Agent de règlement,وكيل التسوية
+42862,Cortador de sellos fiscales,Cortador de selos fiscais,Coupeur de timbres fiscaux,قاطع الطوابع الضريبية
+42863,Cortador de fundas,Cortador de capas soltas,Coupeur de housses,قاطع الأغطية الانزلاقية
+42864,Cortador de pastillas de levadura,Cortador de bolos de levedura,Coupeur de pains de levure,قاطع كتل الخميرة
+42871,Planificador de misiones,Planeador de missões,Planificateur de missions,مخطط المهام
+42872,Fabricante natural,Fabricante natural,Fabricant naturel,صانع المواد الطبيعية
+42874,Preparador de chatarra,Preparador de sucata,Préparateur de ferraille,معدّ الخردة
+42875,Secador de azúcar,Secador de açúcar,Sécheur de sucre,مجفف السكر
+42886,Embalador de madera,Embalador de madeira,Emballeur de bois,معبئ الأخشاب
+42888,Consultor de aprendizaje,Consultor de aprendizagem,Consultant en apprentissage,مستشار التدريب المهني
+42892,Operador de prensa de bloques de carbono,Operador de prensa de blocos de carbono,Opérateur de presse à blocs de carbone,مشغل مكبس كتل الكربون
+42893,Operador de planta de captura de carbono,Operador de instalação de captura de carbono,Opérateur d'usine de séquestration du carbone,مشغل محطة احتجاز الكربون
+42897,Jefe de equipo de distribución,Chefe de equipa de circulação,Chef d'équipe de diffusion,قائد فريق التوزيع
+42905,Operador de tenonadora de doble extremo,Operador de tenonadora de dupla extremidade,Opérateur de tenonneuse double extrémité,مشغل آلة التعشيق المزدوجة
+42906,Operador de máquina de doble extremo,Operador de máquina de dupla extremidade,Opérateur de machine double extrémité,مشغل آلة الطرفين المزدوجة
+42907,Operador de máquina de colocación de clavijas,Operador de máquina de colocação de cavilhas,Opérateur de machine à goujons,مشغل آلة تركيب الأوتاد
+42908,Operador de carrete de tinte,Operador de carretel de tingimento,Opérateur de bobine de teinture,مشغل بكرة الصباغة
+42909,Alimentador de línea de tintura,Alimentador de linha de tingimento,Alimentateur de ligne de teinture,مغذي خط الصباغة
+42911,Operador de sistema de enmascarado electrónico,Operador de sistema de mascaramento eletrónico,Opérateur de système de masquage électronique,مشغل نظام التقنيع الإلكتروني
+42912,Operador de plataforma elevadora,Operador de plataforma elevatória,Opérateur de plateforme élévatrice,مشغل منصة العمل المرتفعة
+42914,Operador de máquina de barras de higo,Operador de máquina de barras de figo,Opérateur de machine à barres de figues,مشغل آلة قضبان التين
+42915,Alimentador de línea de acabado,Alimentador de linha de acabamento,Alimentateur de ligne de finition,مغذي خط التشطيب
+42918,Operador de máquina de extendido de cola,Operador de máquina de espalhamento de cola,Opérateur de machine d'encollage,مشغل آلة نشر الغراء
+42920,Operador de máquina de abocardado de aros,Operador de máquina de alargamento de arcos,Opérateur de machine d'évasement de cerclages,مشغل آلة توسيع الأطواق
+42922,Operador de pulidora de cordel jacquard,Operador de polidora de cordel jacquard,Opérateur de polisseuse de fil Jacquard,مشغل مصقل خيط جاكار
+42927,Consultor de métodos,Consultor de métodos,Consultant en méthodes,مستشار الأساليب
+42928,Operador de laminado moteado,Operador de laminação mosqueada,Opérateur de stratification marbrée,مشغل التطبيق المرقط
+42929,Operador de concentrador de ácido nítrico,Operador de concentrador de ácido nítrico,Opérateur de concentrateur d'acide nitrique,مشغل مركّز حمض النيتريك
+42930,Operador de planta de ácido nítrico,Operador de instalação de ácido nítrico,Opérateur d'usine d'acide nitrique,مشغل مصنع حمض النيتريك
+42931,Operador de desparafinadora,Operador de desparafinadora,Opérateur de déparaffineuse,مشغل آلة إزالة البارافين
+42934,Operador de espesador de lodo rojo,Operador de espessador de lama vermelha,Opérateur d'épaississeur de boue rouge,مشغل مكثف الطين الأحمر
+42935,Operador de guía de enrollado,Operador de guia de enrolamento,Opérateur de guidage d'enroulement,مشغل موجّه اللف
+42937,Operador de máquina de ranurado de seguridad,Operador de máquina de ranhuras de segurança,Opérateur de machine de rainurage de sécurité,مشغل آلة التخديد الأمانية
+42939,Operador de máquina de extremo simple,Operador de máquina de extremidade simples,Opérateur de machine à extrémité simple,مشغل آلة الطرف المفرد
+42940,Operador de máquina de parcheado Skoog,Operador de máquina de remendos Skoog,Opérateur de machine de rapiéçage Skoog,مشغل آلة الترقيع Skoog
+42941,Operador de tanque de hoja de arranque,Operador de tanque de folha de arranque,Opérateur de cuve à feuille de départ,مشغل خزان صفيحة البداية
+42943,Operador de planta de ácido sulfúrico,Operador de instalação de ácido sulfúrico,Opérateur d'usine d'acide sulfurique,مشغل مصنع حمض الكبريتيك
+42947,Operador de máquina de bobinado de cordel,Operador de máquina de bobinagem de cordel,Opérateur de machine d'enroulement de ficelle,مشغل آلة لف الخيط
+42950,Operador de máquina de envío de correo (alas),Operador de máquina de envio postal Wing,Opérateur de machine d'expédition Wing,مشغل آلة إرسال البريد Wing
+42957,Educador de vida familiar,Educador de vida familiar,Éducateur à la vie familiale,مربي الحياة الأسرية
+42959,Recaudador de parquímetros,Cobrador de parquímetros,Collecteur de parcmètres,محصل عدادات الركن
+42962,Operador de Addressograph,Operador de Addressograph,Opérateur d'Addressograph,مشغل Addressograph
+42963,Operador de agitador,Operador de agitador,Opérateur d'agitateur,مشغل المحرك الخلاط
+42964,Operador de Airveyor,Operador de Airveyor,Opérateur d'Airveyor,مشغل Airveyor
+42965,Operador de Alemite,Operador de Alemite,Opérateur d'Alemite,مشغل Alemite
+42967,Operador de Audograph,Operador de Audograph,Opérateur d'Audograph,مشغل Audograph
+42968,Operador de autoclave,Operador de autoclave,Opérateur d'autoclave,مشغل الأوتوكلاف
+42970,Operador de Barratte,Operador de Barratte,Opérateur de baratte,مشغل الخضّاضة
+42972,Operador de Bogger,Operador de Bogger,Opérateur de Bogger,مشغل Bogger
+42973,Operador de Bonderite,Operador de Bonderite,Opérateur de Bonderite,مشغل Bonderite
+42974,Operador de Boomboat,Operador de Boomboat,Opérateur de Boomboat,مشغل Boomboat
+42975,Operador de Boomswing,Operador de Boomswing,Opérateur de Boomswing,مشغل Boomswing
+42977,Operador de Brownell,Operador de Brownell,Opérateur de Brownell,مشغل Brownell
+42978,Operador de teleférico,Operador de teleférico,Opérateur de téléphérique,مشغل التلفريك
+42979,Operador de cardiógrafo,Operador de cardiógrafo,Opérateur de cardiographe,مشغل جهاز تخطيط القلب
+42980,Operador de Cascade,Operador de Cascade,Opérateur Cascade,مشغل Cascade
+42981,Operador de CBX,Operador de CBX,Opérateur CBX,مشغل CBX
+42982,Operador de telesilla,Operador de telecadeira,Opérateur de télésiège,مشغل المقعد المعلّق
+42984,Operador de cronógrafo,Operador de cronógrafo,Opérateur de chronographe,مشغل الكرونوغراف
+42987,Operador de Clicker,Operador de Clicker,Opérateur de Clicker,مشغل Clicker
+42991,Operador de comparador,Operador de comparador,Opérateur de comparateur,مشغل المقارن
+42992,Representante de cumplimiento (concesionario),Representante de conformidade (concessionário),Représentant conformité concessionnaire,مندوب الامتثال للوكيل
+42993,Operador de Compotype,Operador de Compotype,Opérateur de Compotype,مشغل Compotype
+42994,Operador de Comptometer,Operador de Comptometer,Opérateur de Comptometer,مشغل Comptometer
+42995,Operador de Compugraph,Operador de Compugraph,Opérateur de Compugraph,مشغل Compugraph
+42997,Operador de Crook,Operador de Crook,Opérateur de Crook,مشغل Crook
+42998,Operador de CTC,Operador de CTC,Opérateur CTC,مشغل CTC
+42999,Operador de CW,Operador de CW,Opérateur CW,مشغل CW
+43000,Operador de ranuradora,Operador de fresadora de rasgos,Opérateur de toupie à rainurer,مشغل آلة التخديد
+43002,Operador de Decker,Operador de Decker,Opérateur de Decker,مشغل Decker
+43003,Operador de deflector,Operador de defletor,Opérateur de déflecteur,مشغل الموجّه
+43004,Operador de desramadora,Operador de desramadora,Opérateur d'ébrancheuse,مشغل آلة إزالة الأغصان
+43005,Operador de desapiladora de palés,Operador de desmontagem de paletes,Opérateur de dépalettiseur,مشغل آلة فك المنصات
+43006,Operador de desulfuración,Operador de dessulfuração,Opérateur de désulfuration,مشغل إزالة الكبريت
+43007,Operador de desulfurador,Operador de dessulfurador,Opérateur de désulfurateur,مشغل مزيل الكبريت
+43008,Operador de Dethistler,Operador de Dethistler,Opérateur de Dethistler,مشغل Dethistler
+43009,Operador de deshidratadora,Operador de desidratador,Opérateur de déshydrateur,مشغل مزيل الماء
+43010,Operador de Dexigraph,Operador de Dexigraph,Opérateur de Dexigraph,مشغل Dexigraph
+43011,Operador de difusor,Operador de difusor,Opérateur de diffuseur,مشغل الناشر
+43012,Operador de digestión,Operador de digestão,Opérateur de digestion,مشغل الهضم
+43013,Operador de tanque de platos,Operador de tanque de loiça,Opérateur de bac à vaisselle,مشغل خزان الأطباق
+43014,Operador de Dixonac,Operador de Dixonac,Opérateur Dixonac,مشغل Dixonac
+43015,Operador de Dorr,Operador de Dorr,Opérateur de Dorr,مشغل Dorr
+43016,Operador de dosificadora,Operador de doseador,Opérateur de doseur,مشغل جهاز الجرعات
+43017,Operador de sierra de arrastre,Operador de serra de arrasto,Opérateur de scie à traction,مشغل منشار السحب
+43018,Operador de martinete,Operador de martelo de queda,Opérateur de marteau-pilon,مشغل المطرقة الساقطة
+43019,Operador de Drosophere,Operador de Drosophere,Opérateur de Drosophere,مشغل Drosophere
+43021,Operador de montaplatos,Operador de monta-cargas,Opérateur de monte-plats,مشغل المصعد الصغير
+43022,Operador de Dupligraph,Operador de Dupligraph,Opérateur de Dupligraph,مشغل Dupligraph
+43023,Operador de Dustless,Operador de Dustless,Opérateur de Dustless,مشغل Dustless
+43024,Operador de Ediphone,Operador de Ediphone,Opérateur d'Ediphone,مشغل Ediphone
+43026,Operador de electrificador,Operador de eletrificador,Opérateur d'électrificateur,مشغل المكهرِب
+43027,Operador de Electrolog,Operador de Electrolog,Opérateur d'Electrolog,مشغل Electrolog
+43028,Operador de emulsificación,Operador de emulsificação,Opérateur d'émulsification,مشغل الاستحلاب
+43029,Operador de Euclid,Operador de Euclid,Opérateur Euclid,مشغل Euclid
+43032,Operador de filtración,Operador de filtração,Opérateur de filtration,مشغل الترشيح
+43035,Operador de Flexboard,Operador de Flexboard,Opérateur de Flexboard,مشغل Flexboard
+43036,Operador de floculador,Operador de floculador,Opérateur de floculateur,مشغل المُخثِّر
+43038,Operador de Forder,Operador de Forder,Opérateur de Forder,مشغل Forder
+43039,Operador de Gamewell,Operador de Gamewell,Opérateur de Gamewell,مشغل Gamewell
+43040,Operador de Gradall,Operador de Gradall,Opérateur de Gradall,مشغل Gradall
+43041,Operador de granulado,Operador de granulação,Opérateur de granulation,مشغل التحبيب الحبيبي
+43042,Operador de Graphotype,Operador de Graphotype,Opérateur de Graphotype,مشغل Graphotype
+43044,Operador de cable tensor,Operador de cabo de tirantagem,Opérateur de câble de haubanage,مشغل حبل الشد
+43045,Operador de semitono,Operador de meios-tons,Opérateur de similigravure,مشغل نصف التدرج اللوني
+43046,Operador de homogeneizador,Operador de homogeneizador,Opérateur d'homogénéisateur,مشغل المجانس
+43048,Operador de Hydropress,Operador de Hydropress,Opérateur de Hydropress,مشغل Hydropress
+43049,Operador de Hydrotel,Operador de Hydrotel,Opérateur de Hydrotel,مشغل Hydrotel
+43050,Operador de hidrotratamiento,Operador de hidrotratamento,Opérateur d'hydrotraitement,مشغل المعالجة الهيدروجينية
+43051,Operador de impregnación,Operador de impregnação,Opérateur d'imprégnation,مشغل التشريب
+43052,Operador de inyección de tinta,Operador de jato de tinta,Opérateur jet d'encre,مشغل الطباعة النفاثة للحبر
+43053,Operador de Instantizer,Operador de Instantizer,Opérateur d'Instantizer,مشغل Instantizer
+43054,Operador de Intertype,Operador de Intertype,Opérateur d'Intertype,مشغل Intertype
+43055,Operador de emisión,Operador de emissão,Opérateur de délivrance,مشغل الإصدار
+43056,Operador de sierra de calar,Operador de serra de recorte,Opérateur de scie sauteuse,مشغل المنشار المتعرج
+43057,Operador de Jitterbug,Operador de Jitterbug,Opérateur de Jitterbug,مشغل Jitterbug
+43058,Operador de Jumbo,Operador de Jumbo,Opérateur de Jumbo,مشغل Jumbo
+43059,Operador de Justowriter,Operador de Justowriter,Opérateur de Justowriter,مشغل Justowriter
+43060,Operador de ranuradora de chavetas,Operador de rasgadora de chavetas,Opérateur de rainureuse à clavettes,مشغل آلة تخديد الخوابير
+43061,Operador de Kohinoor,Operador de Kohinoor,Opérateur de Kohinoor,مشغل Kohinoor
+43062,Operador de KST,Operador de KST,Opérateur KST,مشغل KST
+43063,Operador de escalera,Operador de escada,Opérateur d'échelle,مشغل السلم
+43064,Operador de litoduplicador,Operador de litoduplicador,Opérateur de lithoduplicateur,مشغل آلة الطباعة الحجرية المزدوجة
+43066,Operador de Lowerator,Operador de Lowerator,Opérateur de Lowerator,مشغل Lowerator
+43067,Operador de macerador,Operador de macerador,Opérateur de macérateur,مشغل جهاز النقع
+43068,Operador de Magnaflux,Operador de Magnaflux,Opérateur de Magnaflux,مشغل Magnaflux
+43069,Operador de magnetómetro,Operador de magnetómetro,Opérateur de magnétomètre,مشغل المقياس المغناطيسي
+43070,Operador de centro de correo,Operador de centro de correio,Opérateur de centre postal,مشغل مركز البريد
+43072,Operador de Medart,Operador de Medart,Opérateur de Medart,مشغل Medart
+43073,Operador de melangeur,Operador de melangeur,Opérateur de mélangeur,مشغل الخلاط الدوار
+43074,Operador de microrrectificadora,Operador de microrretificadora,Opérateur de microrectifieuse,مشغل المطحنة الدقيقة
+43076,Operador de mimeógrafo,Operador de mimeógrafo,Opérateur de duplicateur à stencil,مشغل آلة الاستنساخ
+43077,Operador de Mingle,Operador de Mingle,Opérateur de Mingle,مشغل Mingle
+43078,Operador de Mingler,Operador de Mingler,Opérateur de Mingler,مشغل Mingler
+43080,Operador de Mogul,Operador de Mogul,Opérateur de Mogul,مشغل Mogul
+43082,Operador de mulching,Operador de mulching,Opérateur de mulcheuse,مشغل آلة الترب
+43083,Operador de Multicraft,Operador de Multicraft,Opérateur de Multicraft,مشغل Multicraft
+43084,Operador de plegadora múltiple,Operador de dobradeira múltipla,Opérateur de plieuse multiple,مشغل آلة الطي المتعدد
+43085,Operador de Multigraph,Operador de Multigraph,Opérateur de Multigraph,مشغل Multigraph
+43086,Operador de Multilith,Operador de Multilith,Opérateur de Multilith,مشغل Multilith
+43087,Operador de multiplexor,Operador de multiplexador,Opérateur de multiplexeur,مشغل المضاعِف
+43088,Operador multihabilidades,Operador multifuncional,Opérateur polyvalent,مشغل متعدد المهارات
+43089,Operador de Naumkeag,Operador de Naumkeag,Opérateur de Naumkeag,مشغل Naumkeag
+43090,Operador de NCR,Operador de NCR,Opérateur NCR,مشغل NCR
+43091,Operador de cizalla de mordaza,Operador de cortadora de mordedura,Opérateur de nibbler,مشغل قاطع القضم
+43092,Operador de nitrógeno,Operador de azoto,Opérateur d'azote,مشغل النيتروجين
+43093,Operador de Orbitread,Operador de Orbitread,Opérateur d'Orbitread,مشغل Orbitread
+43094,Operador de Oxygraph,Operador de Oxygraph,Opérateur d'Oxygraph,مشغل Oxygraph
+43095,Operador de paletizadora,Operador de paletizadora,Opérateur de palettiseur,مشغل آلة التوضيب على منصات
+43097,Operador de percolador,Operador de percolador,Opérateur de percolateur,مشغل جهاز التقطير بالتنقيط
+43098,Operador de Photolith,Operador de Photolith,Opérateur de Photolith,مشغل Photolith
+43099,Operador de Photoradio,Operador de Photoradio,Opérateur de Photoradio,مشغل Photoradio
+43101,Operador de planímetro,Operador de planímetro,Opérateur de planimètre,مشغل جهاز قياس المساحة
+43102,Operador de planógrafo,Operador de planógrafo,Opérateur de planographe,مشغل الطباعة المسطحة
+43105,Operador de Plycor,Operador de Plycor,Opérateur de Plycor,مشغل Plycor
+43106,Operador de agrupación,Operador de agrupamento,Opérateur de mise en commun,مشغل التجميع
+43107,Operador de Portainer,Operador de Portainer,Opérateur de Portainer,مشغل Portainer
+43108,Operador de preselector,Operador de pré-regulador,Opérateur de préréglage,مشغل جهاز الضبط المسبق
+43109,Operador de sonda,Operador de sonda,Opérateur de sonde,مشغل المسبار
+43110,Operador de pupitre,Operador de pulpito,Opérateur de pupitre,مشغل لوحة التحكم
+43111,Operador de cuantómetro,Operador de quantómetro,Opérateur de quantomètre,مشغل جهاز القياس الكمي
+43113,Operador de rebajadora,Operador de rebaixadora,Opérateur de feuillurage,مشغل آلة التخديد الجانبي
+43117,Operador de Recordak,Operador de Recordak,Opérateur de Recordak,مشغل Recordak
+43118,Operador de refusión,Operador de refluxo,Opérateur de refusion,مشغل إعادة التدفق
+43119,Operador de regeneración,Operador de regeneração,Opérateur de régénération,مشغل التجديد
+43120,Operador de redimensionadora,Operador de redimensionador,Opérateur de redimensionneuse,مشغل آلة تغيير الحجم
+43121,Operador de retoque,Operador de retoque,Opérateur de retouche,مشغل التنقيح
+43122,Operador de cribadora,Operador de crivo,Opérateur de tamiseuse,مشغل المنخل
+43124,Operador de cizalla de corte longitudinal,Operador de tesoura de corte longitudinal,Opérateur de cisaille à refendre,مشغل المقص الطولي
+43125,Operador de Robotype,Operador de Robotype,Opérateur de Robotype,مشغل Robotype
+43127,Operador de escarificadora,Operador de escarificador,Opérateur de scarificateur,مشغل آلة التخديش
+43128,Operador de proyector,Operador de projetor,Opérateur de projecteur,مشغل الكشاف
+43129,Operador de sismómetro,Operador de sismómetro,Opérateur de sismomètre,مشغل مقياس الزلازل
+43130,Operador de semáforo,Operador de semáforo,Opérateur de sémaphore,مشغل الإشارة الضوئية
+43133,Operador de sifón,Operador de sifão,Opérateur de siphon,مشغل السيفون
+43134,Operador de Skeet,Operador de Skeet,Opérateur de Skeet,مشغل Skeet
+43135,Operador de esquife,Operador de bote,Opérateur de skiff,مشغل القارب الصغير
+43136,Operador de slackline,Operador de slackline,Opérateur de slackline,مشغل الحبل المرن
+43137,Operador de sonoscopio,Operador de sonoscópio,Opérateur de sonoscope,مشغل جهاز الفحص الصوتي
+43138,Operador de Soyfreeze,Operador de Soyfreeze,Opérateur de Soyfreeze,مشغل Soyfreeze
+43139,Operador de llave inglesa,Operador de chave inglesa,Opérateur de clé à molette,مشغل المفتاح الإنجليزي
+43140,Operador de espectrógrafo,Operador de espectrógrafo,Opérateur de spectrographe,مشغل مطياف
+43141,Operador de Spindraw,Operador de Spindraw,Opérateur de Spindraw,مشغل Spindraw
+43143,Operador de exprimidora,Operador de espremedor,Opérateur de presse-fruits,مشغل العاصرة
+43144,Operador de Steelscope,Operador de Steelscope,Opérateur de Steelscope,مشغل Steelscope
+43147,Operador de Stroboroma,Operador de Stroboroma,Opérateur de Stroboroma,مشغل Stroboroma
+43148,Operador de estroboscopio,Operador de estroboscópio,Opérateur de stroboscope,مشغل المصباح الومضي
+43149,Operador de sulfonador,Operador de sulfonador,Opérateur de sulfonateur,مشغل جهاز السلفنة
+43150,Operador de TC,Operador de TC,Opérateur TC,مشغل TC
+43152,Operador de Teletray,Operador de Teletray,Opérateur de Teletray,مشغل Teletray
+43153,Operador de télex,Operador de telex,Opérateur de télex,مشغل التلكس
+43154,Operador de termógrafo,Operador de termógrafo,Opérateur de thermographe,مشغل جهاز تسجيل الحرارة
+43155,Operador de Thermoscrew,Operador de Thermoscrew,Opérateur de Thermoscrew,مشغل Thermoscrew
+43156,Operador de termopulverización,Operador de termopulverização,Opérateur de thermopulvérisation,مشغل الرش الحراري
+43157,Operador de Thiokol,Operador de Thiokol,Opérateur de Thiokol,مشغل Thiokol
+43158,Operador de amarre,Operador de amarração,Opérateur d'arrimage,مشغل الربط
+43159,Operador de Trackmobile,Operador de Trackmobile,Opérateur de Trackmobile,مشغل Trackmobile
+43160,Responsable de transformación,Responsável de transformação,Responsable de transformation,قائد التحول
+43162,Operador de Travograph,Operador de Travograph,Opérateur de Travograph,مشغل Travograph
+43163,Operador de tractor de remolque,Operador de rebocador,Opérateur de tracteur de remorquage,مشغل الجرار القاطر
+43165,Operador de Twitchell,Operador de Twitchell,Opérateur de Twitchell,مشغل Twitchell
+43166,Operador de TWX,Operador de TWX,Opérateur TWX,مشغل TWX
+43167,Operador de Unionmelt,Operador de Unionmelt,Opérateur de Unionmelt,مشغل Unionmelt
+43168,Operador de Unisaw,Operador de Unisaw,Opérateur de Unisaw,مشغل Unisaw
+43169,Operador de Unishear,Operador de Unishear,Opérateur de Unishear,مشغل Unishear
+43170,Operador de voltímetro,Operador de voltímetro,Opérateur de voltmètre,مشغل الفولتميتر
+43171,Operador de vórtice,Operador de vórtice,Opérateur de vortex,مشغل الدوامة
+43172,Operador de Ways,Operador de Ways,Opérateur de Ways,مشغل Ways
+43173,Operador de báscula,Operador de ponte de pesagem,Opérateur de pont-bascule,مشغل الميزان الجسري
+43174,Operador de Wheelabrator,Operador de Wheelabrator,Opérateur de Wheelabrator,مشغل Wheelabrator
+43175,Operador de Whirley,Operador de Whirley,Opérateur de Whirley,مشغل Whirley
+43178,Operador de célula de trabajo,Operador de célula de trabalho,Opérateur de cellule de travail,مشغل خلية العمل
+43179,Operador de ZMT,Operador de ZMT,Opérateur ZMT,مشغل ZMT
+43180,Ayudante de operario de alto horno,Ajudante de operador de alto-forno,Aide gardien de haut-fourneau,مساعد مشرف فرن الصهر
+43181,Golpeador de tapones,Batedor de bujões,Chasseur de bondes,دافع السدادات
+43182,Conductor de tractor oruga,Condutor de trator de lagartas,Conducteur de chenillard,سائق جرار الزحافات
+43183,Ayudante de operario de filtro de carbón,Ajudante de operador de filtro de carvão,Aide opérateur de filtre à charbon,مساعد مشغل مرشح الفحم
+43184,Conductor de plataforma (dolly),Condutor de dolly,Conducteur de chariot,سائق العربة الصغيرة
+43185,Ayudante de mecánico de central geotérmica,Ajudante de mecânico de central geotérmica,Aide mécanicien de centrale géothermique,مساعد ميكانيكي المحطة الحرارية الأرضية
+43186,Ayudante de fundidor de lingotes de plomo,Ajudante de fundidor de lingotes de chumbo,Aide fondeur de saumons de plomb,مساعد صاهر سبائك الرصاص
+43187,Ayudante de operador de máquina de lingotes,Ajudante de operador de máquina de lingotes,Aide opérateur de machine à saumons,مساعد مشغل آلة السبائك
+43189,Ayudante de tintorero de madejas,Ajudante de tintureiro de meadas,Aide teinturier d'écheveaux,مساعد صباغ خيوط الدرنة
+43190,Encargado de sala de tragaperras,Encarregado de sala de slots,Employé de salle de machines à sous,موظف صالة ماكينات القمار
+43192,Reparador de descongelantes,Reparador de descongelantes,Réparateur de dégivreurs,مصلح مزيلات الجليد
+43193,Reparador de revistas (cargadores),Reparador de carregadores,Réparateur de chargeurs,مصلح المخازن
+43196,Pesador de producción,Pesador de produção,Peseur de production,موزِّن الإنتاج
+43197,Ayudante de polimerización,Ajudante de polimerização,Aide polymérisation,مساعد البلمرة
+43198,Tornero y formador automático,Torneiro e formador automático,Tourneur-formeur automatique,خراط ومشكّل أوتوماتيكي
+43199,Probador de condensadores,Testador de condensadores,Testeur de condensateurs,فاحص المكثفات
+43201,Probador de celofán,Testador de celofane,Testeur de cellophane,فاحص السليلوفان
+43202,Probador de vacas (control lechero),Testador de vacas (controlo leiteiro),Contrôleur laitier,فاحص الأبقار
+43203,Probador de crudo,Testador de crude,Testeur de brut,فاحص الخام
+43205,Probador de hélices,Testador de hélices,Testeur d'hélices,فاحص المراوح
+43206,Proveedor de servicios,Prestador de serviços,Prestataire de services,مقدّم الخدمات
+43207,Probador de tabletas,Testador de comprimidos,Testeur de comprimés,فاحص الأقراص
+43208,Probador de transmisores,Testador de transmissores,Testeur d'émetteurs,فاحص أجهزة الإرسال
+43210,Cortadora automática,Cortadora automática,Tondeuse automatique,آلة القص الأوتوماتيكية
+43212,Profesional de educación postsecundaria,Profissional do ensino pós-secundário,Professionnel de l'enseignement postsecondaire,محترف التعليم بعد الثانوي
+43213,Rectificador de piezas de reloj,Retificador de peças de relógio,Meuleur de pièces d'horlogerie,طاحن قطع الساعات
+43214,Acabador de fibra de vidrio,Acabador de fibra de vidro,Finisseur de fibre de verre,مُنهي ألياف الزجاج
+43215,Pulidor de granalla,Polidor de granalha,Polisseur de grenaille,مصقل الحبيبات الكروية
+43218,Examinador de permisos de conducir,Examinador de cartas de condução,Examinateur du permis de conduire,ممتحن رخص القيادة
+43220,Examinador de licencias y registros,Examinador de licenças e registos,Examinateur des licences et immatriculations,ممتحن التراخيص والتسجيل
+43221,Clasificador de patatas fritas,Classificador de batata frita,Trieur de chips,فارز رقائق البطاطس
+43228,Estratega de búsqueda,Estratega de pesquisa,Stratège de recherche,خبير استراتيجيات البحث
+43229,Capataz de cambios (ferrocarril),Capataz de agulhas,Contremaître d'aiguillage,مشرف المحوّلات
+43230,Asesor de valor,Consultor de valor,Conseiller en valeur,مستشار القيمة
+43236,Aprendiz de volteador de negativos,Aprendiz de virador de negativos,Apprenti retourneur de négatifs,متدرب قالب الأفلام السالبة
+43237,Aprendiz de pruebas de fotograbado,Aprendiz de provas de fotogravura,Apprenti épreuveur de photogravure,متدرب تجارب الحفر الضوئي
+43241,Montador de exposiciones,Montador de exposições,Concepteur d'exposition,بنّاء العروض
+43242,Creador de formularios,Criador de formulários,Concepteur de formulaires,منشئ النماذج
+43243,Constructor de costillas,Construtor de nervuras,Monteur de nervures,بنّاء الأضلاع
+43245,Cargador de base,Carregador de base,Chargeur de base,محمل القاعدة
+43246,Cargador de jaula,Carregador de gaiola,Chargeur de cage,محمل القفص
+43248,Cargador de tercera posición,Carregador de terceiro,Troisième chargeur,المحمّل الثالث
+43250,Encargado de cabina,Encarregado de cabine,Préposé à la cabine,مشرف محطة المقصورة
+43256,Clasificador de bulbos,Classificador de bolbos,Trieur de bulbes,فارز الأبصال
+43258,Clasificador de trapos,Classificador de trapos,Trieur de chiffons,فارز الخرق
+43260,Fabricante de cemento y pintura para tejados,Fabricante de cimento e tinta para telhados,Fabricant de ciment et peinture pour toitures,صانع إسمنت وطلاء الأسطح
+43262,Operario de horno de doblado de palas,Operador de forno de dobragem de pás,Opérateur de four de cintrage de lames,مشغل فرن ثني الشفرات
+43266,Técnico de recubrimiento electrostático en polvo,Técnico de revestimento eletrostático em pó,Technicien de peinture électrostatique en poudre,فني الطلاء الكهروستاتيكي بالمسحوق
+43267,Operario de máquina de lavado de fieltro,Operador de máquina de lavagem de feltro,Opérateur de machine à laver le feutre,مشغل آلة غسل اللباد
+43274,Operario de trenzadora,Operador de trançadeira,Opérateur de tresseuse,مشغل آلة الضفر
+43275,Jefe de control de centro,Chefe de controlo de centro,Chef contrôleur de centre,رئيس مراقبي المركز
+43276,Operario de presa,Operador de barragem,Gardien de barrage,مشغل السد
+43277,Operario de escape,Operador de escape,Opérateur d'échappement,مشغل العادم
+43278,Operario de palancas,Operador de alavancas,Opérateur de leviers,مشغل الروافع
+43282,Técnico de parquímetros,Técnico de parquímetros,Dépanneur de parcmètres,مصلح عدادات الركن
+43283,Operario de pulverizador,Operador de pulverizador,Opérateur de broyeur,مشغل المطحنة
+43284,Operario de volcador,Operador de basculador,Opérateur de culbuteur,مشغل قلاب الحمولات
+43286,Técnico astro,Técnico Astro,Technicien Astro,فني أسترو
+43292,Técnico criptológico,Técnico criptológico,Technicien cryptologue,فني التشفير
+43294,Técnico de diazo,Técnico de diazo,Technicien diazo,فني الديازو
+43295,Técnico de dinamómetro,Técnico de dinamómetro,Technicien banc à rouleaux,فني الديناموميتر
+43296,Técnico de ECG,Técnico de ECG,Technicien ECG,فني تخطيط القلب
+43297,Técnico de EKG/ECG,Técnico de EKG/ECG,Technicien EKG/ECG,فني تخطيط القلب EKG/ECG
+43299,Técnico de electrocardiograma,Técnico de eletrocardiograma,Technicien en électrocardiogramme,فني تخطيط القلب الكهربائي
+43300,Técnico de electrocardiografía,Técnico de eletrocardiografia,Technicien en électrocardiographie,فني تخطيط القلب الكهربائي
+43301,Técnico de electromiografía,Técnico de eletromiografia,Technicien en électromyographie,فني تخطيط العضلات الكهربائي
+43302,Técnico de EMG,Técnico de EMG,Technicien EMG,فني EMG
+43304,Técnico de sala de juegos,Técnico de sala de jogos,Technicien de salle de jeux,فني صالة الألعاب
+43305,Técnico gastrointestinal,Técnico gastrointestinal,Technicien gastro-entérologie,فني الجهاز الهضمي
+43313,Técnico de IP/Mosaic,Técnico de IP/Mosaic,Technicien IP/Mosaic,فني IP/Mosaic
+43319,Técnico neurofisiológico,Técnico neurofisiológico,Technicien en neurophysiologie,فني علم الأعصاب الفيزيولوجي
+43326,Técnico de instalaciones,Técnico de instalações,Technicien de locaux,فني المباني
+43332,Técnico de actualización,Técnico de atualização,Technicien de rafraîchissement,فني التحديث
+43334,Técnico de remanufactura,Técnico de remanufatura,Technicien de remise à neuf,فني إعادة التصنيع
+43335,Mezclador de sellado,Misturador de vedante,Mélangeur de joint,خلاط مادة الختم
+43337,Técnico de control de emisiones,Técnico de inspeção de emissões,Technicien de contrôle antipollution,فني فحص الانبعاثات
+43338,Técnico de sonograma,Técnico de sonograma,Technicien échographiste,فني تخطيط الصدى
+43340,Técnico de deformaciones,Técnico de deformações,Technicien de jauges de contrainte,فني قياس الإجهاد
+43341,Técnico de termoplásticos,Técnico de termoplásticos,Technicien en thermoplastiques,فني اللدائن الحرارية
+43343,Técnico de transvase,Técnico de transvase,Technicien de transvasement,فني التعبئة بالنقل
+43345,Técnico de VTC,Técnico de VTC,Technicien VTC,فني VTC
+43346,Técnico de sellado de intemperie,Técnico de vedação exterior,Technicien d'étanchéité extérieure,فني عوازل الطقس
+43347,Técnico de campo de pozos,Técnico de campo de poços,Technicien de champ de puits,فني حقل الآبار
+43349,Impregnador,Impregnador,Imprégnateur,مُشرِّب
+43350,Arrastrador de troncos,Arrastador de toros,Débardeur,جرار الأخشاب
+43351,Supervisor del departamento de costura,Supervisor do departamento de costura,Superviseur du département couture,مشرف قسم الخياطة
+43355,Guía de aeropuerto,Guia de aeroporto,Guide d'aéroport,مرشد المطار
+43356,Bobinador de inducidos,Enroladeira de induzidos,Bobineur d'induits,لافّ الأدوار
+43358,Ajustador manual de talones,Ajustador manual de calcanhares,Monteur manuel de talons,مركّب الكعوب اليدوي
+43359,Ajustador de talones a máquina,Ajustador mecânico de calcanhares,Monteur mécanique de talons,مركّب الكعوب الآلي
+43362,Simulador Link,Simulador Link,Simulateur Link,جهاز Link Trainer
+43365,Examinador de dinero,Examinador de dinheiro,Examinateur de billets,ممتحن النقود
+43366,Examinador supervisor,Examinador supervisor,Examinateur superviseur,ممتحن مشرف
+43370,Pulverizador de ganado,Pulverizador de gado,Pulvérisateur de bétail,رشاش الماشية
+43371,Encargado de campo de tiro,Responsável do campo de tiro,Responsable du champ de tir,مشرف ميدان الرماية
+43372,Operario de cobertizo de esquila,Operador de barracão de tosquia,Ouvrier de hangar de tonte,عامل حظيرة الجز
+43379,Rellenador de barbotina,Enchedor de barbotina,Remplisseur de barbotine,معبئ الطين السائل
+43381,Coordinador de dolor torácico,Coordenador de dor torácica,Coordinateur des douleurs thoraciques,منسق آلام الصدر
+43383,Coordinador de certificados de defunción,Coordenador de certificados de óbito,Coordinateur des certificats de décès,منسق شهادات الوفاة
+43384,Coordinador de diseño de drenaje,Coordenador de projeto de drenagem,Coordinateur de conception de drainage,منسق تصميم الصرف
+43388,Formador y prensador,Formador e prensador,Formeur et presseur,مشكّل ومكبس
+43389,Coach de éxito,Treinador de sucesso,Coach de réussite,مدرب النجاح
+43392,Representante de campus,Representante de campus,Représentant de campus,ممثل الحرم الجامعي
+43393,Becario de éxito del cliente,Estagiário de sucesso do cliente,Stagiaire succès client,متدرب نجاح العملاء
+43400,Rodillo de fibra de vidrio,Rolador de fibra de vidro,Rouleur de fibre de verre,دحّاج ألياف الزجاج
+43403,Rodillo de tiras,Rolador de tiras,Rouleur de bandes,دحّاج الشرائط
+43405,Encargado de bóveda,Guarda de cofre,Gardien de chambre forte,أمين الخزنة
+43408,Director de ministerio infantil,Diretor de ministério infantil,Directeur du ministère des enfants,مدير خدمة الأطفال الكنسية
+43412,Director de sociedad histórica,Diretor de sociedade histórica,Directeur de société historique,مدير الجمعية التاريخية
+43413,Montador de artículos de cuero II,Montador de artigos de couro II,Monteur d'articles en cuir II,مجمّع منتجات الجلود II
+43415,Director de organización sin ánimo de lucro,Diretor de organização sem fins lucrativos,Directeur d'organisation à but non lucratif,مدير منظمة غير ربحية
+43416,Limpiador de máscaras fotográficas,Limpador de máscaras fotográficas,Nettoyeur de masques photo,منظف أقنعة التصوير
+43417,Repartidor de productos frescos,Distribuidor de produtos frescos,Livreur de produits frais,عامل توصيل المنتجات الطازجة
+43418,Montador de productos pequeños II,Montador de produtos pequenos II,Monteur de petits produits II,مجمّع المنتجات الصغيرة II
+43419,Máquina rayadora,Máquina de listagem,Machine à rayures,آلة التخطيط بالخطوط
+43421,Directora de ministerio femenino,Diretora de ministério feminino,Directrice du ministère des femmes,مديرة خدمة النساء الكنسية
+43424,Manipulador de pollos,Manipulador de frangos,Manutentionnaire de poulets,مناول الدجاج
+43425,Cosedor de conos,Costureiro de cones,Piqueur de cônes,خياط المخاريط
+43426,Manipulador de suelas,Manipulador de solas,Manutentionnaire de semelles,مناول النعال الخارجية
+43433,Mezclador de solución de plata,Misturador de solução de prata,Mélangeur de solution d'argent,خلاط محلول الفضة
+43437,Responsable de insights estratégicos,Responsável de insights estratégicos,Responsable des insights stratégiques,قائد الرؤى الاستراتيجية
+43443,Supervisor de sala de celdas,Supervisor de sala de células,Superviseur de salle des cellules,مشرف غرفة الخلايا
+43450,Inspector de alineación,Inspetor de alinhamento,Inspecteur d'alignement,مفتش المحاذاة
+43451,Inspector de correas,Inspetor de correias,Inspecteur de courroies,مفتش الأحزمة الناقلة
+43452,Inspector de calderas,Inspetor de caldeiras,Inspecteur de chaudières,مفتش الغلايات
+43454,Inspector de recubrimientos,Inspetor de revestimentos,Inspecteur de revêtements,مفتش الطلاءات
+43455,Recaudador de monedas,Recolhedor de moedas,Collecteur de pièces,جامع العملات
+43459,Inspector de garrapatas,Inspetor de carraças,Inspecteur de tiques,مفتش القراد
+43465,Clasificador,Classificador,Trieur,مصنّف
+43468,Expansor,Expansor,Extenseur,موسّع
+43471,Anudador,Atador de nós,Noueur,عامل العقد
+43473,Clavador,Pregador,Chevilleur,عامل التثبيت بالأوتاد
+43474,Reductor,Redutor,Réducteur,عامل التخفيض
+43476,Trasplantador,Transplantador,Repiqueur,عامل الشتل
+43479,Montador de bandejas de comida,Montador de bandejas alimentares,Monteur de plateaux-repas,مجمّع صواني الطعام
+43482,Montador de centros líquidos,Montador de centros líquidos,Monteur de cœurs liquides,مجمّع المراكز السائلة
+43483,Montador de cortadores de billetes,Montador de cortadores de bilhetes,Monteur de coupeurs de tickets,مجمّع قواطع التذاكر
+43488,Operador de preparación de herramientas,Operador de preparação de ferramentas,Opérateur de réglage d'outils,مشغل إعداد الأدوات
+43489,Técnico de urgencias,Técnico de urgência,Technicien des urgences,فني الطوارئ
+43491,Técnico perioperatorio,Técnico perioperatório,Technicien périopératoire,فني ما حول الجراحة
+43492,Técnico de procedimientos,Técnico de procedimentos,Technicien de procédures,فني الإجراءات
+43494,Técnico quirúrgico,Técnico cirúrgico,Technicien de bloc opératoire,فني جراحة
+43496,Atador de bobinas,Atador de bobinas,Lieur de bobines,رابط الملفات
+43498,Coordinador de transferencias electrónicas de fondos,Coordenador de transferências eletrónicas de fundos,Coordinateur des virements électroniques de fonds,منسق التحويلات الإلكترونية للأموال
+43499,Coordinador de transiciones de cuidados paliativos,Coordenador de transições de cuidados paliativos,Coordinateur des transitions en soins palliatifs,منسق انتقالات رعاية المحتضرين
+43505,Pulidor de arena,Polidor de areia,Polisseur de sable,مصقل الرمل
+43506,Recubridor de cinta,Revestidor de fita,Enducteur de ruban,مطلي الشريط
+43509,Preparador de equipos de decoración,Preparador de equipamento de decoração,Régleur d'équipements de décoration,ضابط إعداد معدات الزخرفة
+43513,Director del consejo para la tercera edad,Diretor do conselho para o envelhecimento,Directeur du conseil des seniors,مدير مجلس شؤون المسنين
+43514,Máquina cortadora de juntas,Máquina de corte de juntas,Machine de coupe de joints,آلة قص الوصلات
+43515,Máquina fabricante de juntas,Máquina de fabrico de juntas,Machine de fabrication de joints,آلة صنع الوصلات
+43516,Recolector de ostras,Apanhador de ostras,Trieur d'huîtres,منتقي المحار
+43517,Máquina de glaseado de tartas,Máquina de glaciagem de tartes,Machine à glacer les tartes,آلة تزيين الفطائر بالسكر
+43523,Sumergidor de joyería,Mergulhador de joalharia,Trempeur de bijoux,غامس المجوهرات
+43525,Lavador y prensador de filtros,Lavador e prensador de filtros,Laveur et presseur de filtres,غاسل ومكبس المرشّحات
+43527,Asesor de servicio de centralita privada (PBX),Consultor de serviço de central telefónica privada (PBX),Conseiller de service PBX,مستشار خدمة مقسم الهاتف الخاص
+43534,Operario de salida de caldera,Operador de saída de caldeira,Sortant de chaudière,عامل إخراج الغلاية
+43538,Marcador de cadena verde,Marcador de linha verde,Traceur de chaîne verte,معلِّم خط الإنتاج الأخضر
+43541,Recogedor,Recolhedor,Ramasseur,عامل الالتقاط
+43545,Lijadora de banda,Lixadeira de cinta,Ponceuse à bande,صانفة الحزام
+43546,Fabricante de hebillas y botones,Fabricante de fivelas e botões,Fabricant de boucles et boutons,صانع الإبزيمات والأزرار
+43547,Fabricante de botones y hebillas,Fabricante de botões e fivelas,Fabricant de boutons et boucles,صانع الأزرار والإبزيمات
+43557,Superintendente de oficios,Superintendente de ofícios,Superviseur des métiers,مشرف الحرف
+43561,Superintendente postal,Superintendente postal,Superviseur postal,مشرف البريد
+43562,Oficial de medicina preventiva,Oficial de medicina preventiva,Officier de médecine préventive,ضابط الطب الوقائي
+43563,Oficial de preparación del personal,Oficial de prontidão do pessoal,Officier de préparation du personnel,ضابط جاهزية الكادر
+43564,Fabricante de cebo,Fabricante de isca,Fabricant d'appâts,صانع الطُعم
+43565,Fabricante de ojales,Fabricante de casas de botão,Faiseur de boutonnières,صانع عرى الأزرار
+43566,Fabricante de cordones,Fabricante de cordões,Fabricant de cordons,صانع الحبال
+43567,Fabricante de canales,Fabricante de caleiras,Fabricant de canaux,صانع القنوات
+43568,Preparador de esmaltes,Preparador de vidrados,Préparateur d'émaux,صانع الطلاء الزجاجي
+43569,Fabricante de rejillas,Fabricante de grelhas,Fabricant de grilles,صانع الشبكات
+43572,Preparador de sándwiches,Preparador de sanduíches,Préparateur de sandwichs,صانع السندويتشات
+43573,Fabricante de rapé,Fabricante de rapé,Fabricant de tabac à priser,صانع السعوط
+43574,Fabricante de cerchas,Fabricante de asnas,Fabricant de fermes,صانع الجمالونات
+43576,Desmontador de tarjetas,Desmontador de cartões,Décapeur de cartes,مُزيل البطاقات
+43577,Prácticas en dietética,Estágio em dietética,Stage en diététique,تدريب في التغذية
+43578,Extractor de extractores,Extrator de extratores,Tireur d'extracteur,ساحب المستخلص
+43580,Superintendente de utilización de mano de obra,Superintendente de utilização de mão de obra,Superviseur d'utilisation de la main-d'œuvre,مشرف استخدام العمالة
+43581,Superintendente de hincado de pilotes,Superintendente de cravação de estacas,Superviseur de battage de pieux,مشرف دق الركائز
+43585,Encargado de ranura,Responsável de ranhura,Responsable de fente,مسؤول الفتحة
+43587,Pesador de pienso,Pesador de ração,Peseur d'aliments,موزِّن الأعلاف
+43588,Formador y cortador de lentes de contacto,Formador e cortador de lentes de contacto,Ébauchoir et découpeur de lentilles de contact,مشكّل وقاطع العدسات اللاصقة
+43589,Secretario de atención a pacientes de cuidados paliativos,Secretário de cuidados a doentes de cuidados paliativos,Secrétaire de soins aux patients en soins palliatifs,سكرتير رعاية مرضى الرعاية التلطيفية
+43590,Cortador automático de suelas,Cortador automático de solas,Coupeur automatique de semelles,قاطع النعال الخارجية الأوتوماتيكي
+43591,Cortador de máquina portátil,Cortador de máquina portátil,Coupeur à machine portative,قاطع الآلة المحمولة
+43592,Cortador de cristales de reloj,Cortador de vidros de relógio,Coupeur de verres de montre,قاطع زجاج الساعات
+43594,Jefe del departamento de terapia ocupacional,Chefe do departamento de terapia ocupacional,Chef du département d'ergothérapie,رئيس قسم العلاج الوظيفي
+43599,Supervisor de copias heliográficas y fotocopias,Supervisor de cópias heliográficas e fotocópias,Superviseur des héliographies et photocopies,مشرف النسخ الزرقاء والنسخ الضوئي
+43602,Supervisor de envasado de embutidos curados,Supervisor de embalagem de carnes curadas,Superviseur de conditionnement de charcuterie,مشرف تعبئة اللحوم المجففة
+43604,Supervisor de cuadrilla de mano de obra flotante,Supervisor de equipa de mão de obra flutuante,Superviseur d'équipe de main-d'œuvre volante,مشرف فريق العمالة المتنقلة
+43605,Supervisor de ventas de cervezas,Supervisor de vendas de cervejas,Superviseur des ventes de bières,مشرف مبيعات مشروبات الشعير
+43606,Supervisor de O&M,Supervisor de O&M,Superviseur O&M,مشرف O&M
+43607,Gerente de seguridad y pago por competencias,Gerente de segurança e pagamento por competências,Responsable de la sécurité et de la rémunération aux compétences,مدير السلامة والأجور القائمة على المهارات
+43613,Supervisor de depósitos de salmuera,Supervisor de tanques de salmoura,Superviseur des bassins de saumure,مشرف أحواض الملح
+43614,Supervisor de fabricación de escobas,Supervisor de fabrico de vassouras,Superviseur de fabrication de balais,مشرف صناعة المكانس
+43615,Supervisor de caddies,Supervisor de caddies,Superviseur de caddies,مشرف حاملي الحقائب
+43616,Supervisor de caja/bóveda,Supervisor de caixa/cofre,Superviseur caisse/chambre forte,مشرف الصندوق/الخزنة
+43620,Supervisor de diques,Supervisor de diques,Superviseur de digues,مشرف السدود
+43621,Supervisor de línea de fibra,Supervisor de linha de fibra,Superviseur de ligne de fibre,مشرف خط الألياف
+43622,Instructor de jardinería,Instrutor de jardinagem,Instructeur en jardinage,مدرب البستنة
+43625,Supervisor de artefactos incendiarios,Supervisor de artefactos incendiários,Superviseur d'engins incendiaires,مشرف الأجهزة الحارقة
+43626,Supervisor de sala de molienda,Supervisor de sala de moagem,Superviseur de salle de meunerie,مشرف غرفة الطحن
+43628,Supervisor de parque de postes,Supervisor de parque de postes,Superviseur de parc à poteaux,مشرف ساحة الأعمدة
+43629,Supervisor de sierra motorizada,Supervisor de serra mecânica,Superviseur de scie électrique,مشرف المنشار الآلي
+43630,Supervisor de precarga,Supervisor de pré-carga,Superviseur de précontrainte,مشرف الشد المسبق
+43631,Supervisor de repulpado,Supervisor de re-pasta,Superviseur de repulpage,مشرف إعادة تحويل اللب
+43632,Supervisor de chorreado con arena,Supervisor de granalhagem com areia,Superviseur de sablage,مشرف السفع بالرمل
+43634,Supervisor de estanterías,Supervisor de prateleiras,Superviseur de rayonnage,مشرف الرفوف
+43635,Supervisor de textil blando,Supervisor de têxteis,Superviseur de textiles,مشرف المنسوجات الخفيفة
+43636,Supervisor de fabricación de clavos grandes,Supervisor de fabrico de pregos grandes,Superviseur de fabrication de pointes,مشرف صناعة المسامير الكبيرة
+43637,Supervisor de servicios de restauración,Supervisor de serviços de restauração,Superviseur de l'intendance,مشرف خدمات الإطعام
+43638,Supervisor de subalmacén,Supervisor de subarmazém,Superviseur de sous-entrepôt,مشرف المستودع الفرعي
+43640,Supervisor de control horario,Supervisor de controlo de horas,Superviseur de pointage,مشرف تسجيل الأوقات
+43641,Supervisor de mecanógrafos,Supervisor de dactilógrafos,Superviseur de dactylographes,مشرف الكتّاب على الآلة الكاتبة
+43646,Representante de contabilización de caja,Representante de lançamento de caixa,Représentant de comptabilisation de caisse,مندوب ترحيل النقدية
+43647,Representante de igualdad de oportunidades,Representante de igualdade de oportunidades,Représentant de l'égalité des chances,ممثل تكافؤ الفرص
+43650,Representante de alianzas estratégicas,Representante de parcerias estratégicas,Représentant de partenariats stratégiques,ممثل الشراكات الاستراتيجية
+43652,Supervisor de planta de tubos de hormigón,Supervisor de fábrica de tubos de betão,Superviseur d'usine de tuyaux en béton,مشرف مصنع أنابيب الخرسانة
+43665,Gerente de tecnología,Gerente de tecnologia,Responsable technologie,مدير التكنولوجيا
+43667,Contador manual,Contador manual,Compteur manuel,عامل العد اليدوي
+43669,Contador de papel,Contador de papel,Compteur de papier,عامل عد الورق
+43670,Contador de producción,Contador de produção,Compteur de production,عامل عد الإنتاج
+43671,Contador de existencias,Contador de stock,Compteur de stock,عامل جرد المخزون
+43672,Contador de tráfico,Contador de tráfego,Compteur de trafic,عامل عد حركة المرور
+43675,Enlace de compromiso,Ligação de envolvimento,Agent de liaison engagement,مسؤول تواصل الارتباط
+43677,Enlace de vivienda,Ligação de habitação,Agent de liaison logement,مسؤول تواصل الإسكان
+43680,Preparador de licor cáustico,Preparador de licor cáustico,Préparateur de liqueur caustique,صانع المحلول القلوي
+43681,Fabricante de llana de hormigón,Fabricante de talocha de betão,Fabricant de taloche à béton,صانع مِلساة الخرسانة
+43688,Fabricante de plantillas de vía,Fabricante de gabaritos de via,Fabricant de gabarits de voie,صانع قوالب السكك
+43689,Contratista de perforación,Empreiteiro de perfuração,Entrepreneur de forage,متعاقد الحفر
+43692,Emparejador,Emparelhador,Appareilleur,عامل الإقران
+43694,Contratista de roca,Empreiteiro de rocha,Entrepreneur en roche,متعاقد الصخور
+43695,Contratista de vías públicas,Empreiteiro de vias públicas,Entrepreneur de voirie,متعاقد الشوارع
+43696,Operario de bombeo de ácido,Operador de bombagem de ácido,Opérateur de pompage d'acide,عامل ضخ الحمض
+43697,Operario de bomba de aire,Operador de bomba de ar,Opérateur de pompe à air,عامل مضخة الهواء
+43698,Operario de bombeo químico,Operador de bombagem química,Opérateur de pompage chimique,عامل الضخ الكيميائي
+43702,Operario de cubas de pescado,Operador de caixas de peixe,Gardien de bacs à poisson,مشغل صناديق الأسماك
+43704,Operario de bomba principal,Operador de bomba principal,Chef pompiste,عامل المضخة الرئيسية
+43705,Operario de inyección de carne,Operador de injeção de carne,Opérateur d'injection de viande,عامل حقن اللحوم
+43708,Operario de horno de pigmentos,Operador de forno de pigmentos,Opérateur de four à pigments,مشغل فرن الأصباغ
+43709,Operario de bombeo de proceso,Operador de bombagem de processo,Opérateur de pompage de procédé,عامل ضخ العمليات
+43711,Operario de bombeo de tanques,Operador de bombagem de tanques,Opérateur de pompage de réservoirs,عامل ضخ الخزانات
+43712,Operario de bombeo de agua,Operador de bombagem de água,Opérateur de pompage d'eau,عامل ضخ المياه
+43713,Director ejecutivo de distrito scout,Diretor executivo distrital de escutismo,Directeur exécutif de district scout,المدير التنفيذي لمنطقة الكشافة
+43715,Ejecutivo de licencias de software,Executivo de licenciamento de software,Responsable des licences logicielles,مدير ترخيص البرمجيات
+43720,Enfermera de revisión HEDIS,Enfermeira de revisão HEDIS,Infirmière de revue HEDIS,ممرضة مراجعة HEDIS
+43724,Becario remunerado,Estagiário remunerado,Stagiaire rémunéré,متدرب مدفوع الأجر
+43725,Verificador de negativos,Verificador de negativos,Contrôleur de négatifs,فاحص الأفلام السالبة
+43736,Jefe de batidora,Chefe de hidrapulper,Chef de pile à papier,رئيس الهراس
+43750,Peón agrícola de cultivos alimentarios,Trabalhador agrícola de culturas alimentares,Ouvrier agricole de cultures vivrières,عامل مزرعة المحاصيل الغذائية
+43751,Operario de empaquetado de tabaco de pipa,Operador de embalagem de tabaco de cachimbo,Ouvrier d'emballage de tabac à fumer,عامل تعبئة تبغ التدخين
+43753,Empaquetador y clasificador de puros,Embalador e classificador de charutos,Emballeur et trieur de cigares,معبئ ومصنّف السيجار
+43756,Instalador de conductos subterráneos,Instalador de condutas subterrâneas,Installateur de conduits souterrains,مركّب القنوات تحت الأرض
+43757,Monitor cardíaco,Monitor cardíaco,Moniteur cardiaque,مراقب القلب
+43761,Clasificador de lino,Classificador de linho,Trieur de lin,مصنّف الكتان
+43762,Clasificador de duelas,Classificador de aduelas,Trieur de douves,مصنّف الألواح
+43767,Cortador de pernos,Cortador de parafusos,Coupe-boulons,قاطع البراغي
+43768,Cortador de esquinas,Cortador de cantos,Coupeur de coins,قاطع الزوايا
+43771,Cortador de lentes de gafas,Cortador de lentes de óculos,Tailleur de verres de lunettes,قاطع عدسات النظارات
+43772,Cortador de flores,Cortador de flores,Coupeur de fleurs,قاطع الزهور
+43773,Cortador de tachuelas,Cortador de tachas,Coupeur de pointes,قاطع المسامير الصغيرة
+43774,Productor de huevos,Produtor de ovos,Producteur d'œufs,منتج البيض
+43775,Operario de máquina de dibujo de pasadores,Operador de máquina de desenho de pinos,Opérateur de machine à étirer les broches,مشغل آلة سحب الدبابيس
+43776,Operario de máquina de pulido de plata,Operador de máquina de polimento de prata,Opérateur de machine à polir l'argent,مشغل آلة تلميع الفضة
+43779,Bobinador de pelotas de béisbol,Enroladeira de bolas de basebol,Bobineur de balles de baseball,لافّ كرات البيسبول
+43781,Bobinador de regazo,Enroladeira de colo,Bobineur de nappe,لافّ اللفائف المسطحة
+43783,Montador de moldes de bolas de bolos,Montador de moldes de bolas de bowling,Monteur de moules de boules de bowling,مجمّع قوالب كرات البولينج
+43784,Ayudante de inspector de fugas de gas,Ajudante de inspetor de fugas de gás,Aide inspecteur de fuites de gaz,مساعد مفتش تسربات الغاز
+43785,Ayudante de operador de pulidora,Ajudante de operador de polidora,Aide opérateur de polisseuse,مساعد مشغل آلة الصقل
+43789,Mecánico de equipos de gas comprimido,Mecânico de equipamento de gás comprimido,Mécanicien d'équipements à gaz comprimé,ميكانيكي معدات الغاز المضغوط
+43791,Cargador de líquidos,Carregador de líquidos,Chargeur de liquides,محمل السوائل
+43794,Recolector de bobinas,Recolhedor de bobinas,Collecteur de bobines,جامع البكرات
+43796,Rellenador de plumón,Enchedor de penugem,Garnisseur de duvet,معبئ الريش الناعم
+43797,Rellenador de extractores,Enchedor de extratores,Remplisseur d'extracteurs,معبئ المستخلصات
+43798,Ayudante de operador de máquina de hincado de aros,Ajudante de operador de máquina de cravação de arcos,Aide opérateur de machine à enfoncer les cerclages,مساعد مشغل آلة دق الأطواق
+43799,Transportista de llaves,Transportador de chaves,Porteur de clés,حامل المفاتيح
+43802,Soldador de madera con parches,Soldador de madeira com remendos,Soudeur-rapiéceur du bois,لاحم الخشب بالرقع
+43806,Formador de nuevos productos,Formador de novos produtos,Formateur produits nouveaux,مدرب المنتجات الجديدة
+43811,Ayudante de constructor de chimeneas,Ajudante de construtor de chaminés,Aide constructeur de cheminées,مساعد بنّاء المداخن
+43812,Ayudante de operador de excavadora de arrastre,Ajudante de operador de draga,Aide opérateur de dragline,مساعد مشغل الجرافة السحبية
+43813,Ayudante de tapador de moldes,Ajudante de tampador de moldes,Aide coiffeur de moules,مساعد مغطي القوالب
+43814,Ayudante de operador de sismógrafo,Ajudante de operador de sismógrafo,Aide opérateur de sismographe,مساعد مشغل جهاز قياس الزلازل
+43815,Ayudante de pintor de astilleros,Ajudante de pintor de estaleiros,Aide peintre de chantier naval,مساعد دهّان حوض السفن
+43816,Secretario de juventud comunitaria,Secretário de juventude comunitária,Secrétaire jeunesse communautaire,سكرتير شباب المجتمع
+43817,Formador de tuercas,Formador de porcas,Formeur d'écrous,مشكّل الصواميل
+43820,Marcador de oro,Marcador de ouro,Traceur d'or,معلِّم الذهب
+43826,Instalador de perlas (moldura),Instalador de cordões decorativos,Installateur de baguettes décoratives,مركّب الحواف الزخرفية
+43831,Instalador de modernización,Instalador de readaptação,Installateur de rééquipement,مركّب التحديث
+43835,Clasificador de almejas,Classificador de amêijoas,Trieur de palourdes,فارز المحار
+43836,Clasificador de marisco,Classificador de marisco,Trieur de crustacés,فارز المحار
+43838,Acabador de planos,Acabador de planos,Finisseur de pièces plates,مُنهي المسطحات
+43842,Director de formación continua,Diretor de formação em serviço,Directeur de la formation continue,مدير التعليم أثناء الخدمة
+43843,Gestor de incidentes,Gestor de incidentes,Gestionnaire d'incidents,مدير الحوادث
+43844,Manipulador de cucharones,Manipulador de conchas,Manutentionnaire de poches,مناول المغارف
+43845,Fabricante de accesorios de plástico,Construtor de acessórios de plástico,Fabricant de gabarits en plastique,بنّاء التركيبات البلاستيكية
+43847,Reparador de accesorios,Reparador de acessórios,Réparateur d'accessoires,مصلح الملحقات
+43853,Trabajador agrícola de maquinaria,Trabalhador agrícola de máquinas,Ouvrier agricole mécanisé,عامل مزرعة آلي
+43859,Jefe de ciencias,Chefe de ciências,Chef du département sciences,رئيس قسم العلوم
+43861,Alimentador de lavadora de lana,Alimentador de lavadora de lã,Alimentateur de laveuse de laine,مغذي غاسل الصوف
+43862,Envolvedor de bobinas,Embalador de bobinas,Emballeur de bobines,مغلّف الملفات
+43863,Seleccionador de hormas,Selecionador de formas,Trieur de formes,منتقي القوالب الخشبية
+43864,Encargado de cuna de unión de metales,Encarregado de posto de ligação de metais,Préposé au poste de collage de métaux,مشرف محطة ربط المعادن
+43867,Limpiador y preparador,Limpador e preparador,Nettoyeur et préparateur,منظف ومُعِدّ
+43869,Preparador del departamento de fabricación,Preparador do departamento de fabrico,Préparateur du département de fabrication,معدّ قسم التصنيع
+43870,Encargado de cuenco,Encarregado de tigela,Préposé aux bols,مشرف الأوعية
+43871,Encargado de cabaña,Encarregado de cabana,Préposé aux cottages,مشرف الأكواخ
+43872,Encargado de parrilla,Encarregado de grelha,Préposé au grill,مشرف الشواء
+43875,Encargado de comedor,Encarregado de refeitório,Préposé à la cantine,مشرف المطعم
+43878,Encargado de almacén,Encarregado de armazém,Préposé au magasin,مشرف المستودع
+43879,Encargado de trajes,Encarregado de fatos,Préposé aux costumes,مشرف البدلات
+43880,Empaquetador de puros,Embalador de charutos,Emballeur de cigares,معبئ السيجار
+43884,Jefe de seguridad contra incendios,Chefe de segurança contra incêndios,Responsable sécurité incendie,رئيس السلامة من الحرائق
+43886,Peón de aparcamiento,Trabalhador de parque de estacionamento,Manœuvre de parking,عامل موقف السيارات
+43887,Recubridor de aviones,Revestidor de aviões,Recouvreur d'avions,مغطّي الطائرات
+43896,Jefe de planificación,Chefe de planeamento,Chef de la planification,رئيس التخطيط
+43898,Director de planificación,Diretor de planeamento,Directeur de la planification,مدير التخطيط
+43899,Ejecutivo de planificación comunitaria,Executivo de planeamento comunitário,Responsable de l'urbanisme communautaire,مدير التخطيط المجتمعي
+43904,Vicepresidente de planificación,Vice-presidente de planeamento,Vice-président à la planification,نائب الرئيس للتخطيط
+43905,Psicólogo de ingeniería,Psicólogo de engenharia,Psychologue en ingénierie,عالم نفس هندسي
+43908,Desmoldador de núcleos,Desmoldador de núcleos,Décapeur de noyaux,مُزيل اللب
+43910,Contratista de aguas subterráneas,Empreiteiro de águas subterrâneas,Entrepreneur en eaux souterraines,متعاقد المياه الجوفية
+43918,Constructor de canaletas,Construtor de caleiros,Monteur de goulottes,بنّاء المزالق
+43920,Constructor de flotadores,Construtor de flutuadores,Monteur de flotteurs,بنّاء العوامات
+43924,Reparador de modelos de cera,Reparador de modelos de cera,Réparateur de modèles en cire,مصلح نماذج الشمع
+43925,Constructor de muelles,Construtor de cais,Constructeur de quais,بنّاء الأرصفة
+43950,Máquina fabricante de jaulas,Máquina de fabrico de gaiolas,Machine à fabriquer les cages,آلة صنع الأقفاص
+43951,Máquina medidora de tela,Máquina de medição de tecido,Machine à mesurer le tissu,آلة قياس القماش
+43953,Limpiador de conductos,Limpador de condutas,Nettoyeur de conduits,منظف القنوات
+43954,Montador de rodillos para cortinas,Montador de rolos para cortinas,Monteur de rouleaux de rideaux,مجمّع أسطوانات الستائر
+43955,Montador de tensores de cortinas,Montador de esticadores de cortinas,Monteur de tendeurs de rideaux,مجمّع شادّات الستائر
+43956,Montador de tornillos de esfera,Montador de parafusos de mostrador,Monteur de vis de cadran,مجمّع براغي القرص
+43957,Mezclador de masa de pienso para perros,Misturador de massa de ração para cães,Mélangeur de pâte d'aliments pour chiens,خلاط عجينة طعام الكلاب
+43961,Limpiador de nueces pecanas,Limpador de nozes-pecã,Nettoyeur de noix de pécan,منظف جوز البيكان
+43962,Limpiador de vajilla,Limpador de loiça,Nettoyeur de vaisselle,منظف الأواني
+43965,Extractor de cucharones,Extrator de conchas,Tireur de poches,ساحب المغارف
+43967,Prácticas en programación,Estágio em programação,Stage en programmation,تدريب في البرمجة
+43968,Editor de propuestas,Editor de propostas,Éditeur de propositions,محرر المقترحات
+43969,Prácticas en reclutamiento,Estágio em recrutamento,Stage en recrutement,تدريب في التوظيف
+43970,Mezclador refractario,Misturador refratário,Mélangeur réfractaire,خلاط المواد الحرارية
+43972,Recortador de bolsillos de mostrador,Aparador de bolsos de balcão,Ébarbeur de poches de comptoir,مشذّب جيوب المنضدة
+43973,Doblador de prendas,Dobrador de peças de vestuário,Plieur de vêtements,طاوي الملابس
+43976,Capitán de registro de pozos,Capitão de perfilagem de poços,Chef d'équipe de diagraphie de puits,قائد تسجيل الآبار
+43977,Supervisor de taller de ruedas,Supervisor de oficina de rodas,Superviseur d'atelier de roues,مشرف ورشة العجلات
+43978,Cortador de persianas de ventana,Cortador de estores de janela,Coupeur de stores de fenêtre,قاطع ستائر النوافذ
+43983,Becario de estudio de grabación,Estagiário de estúdio de gravação,Stagiaire en studio d'enregistrement,متدرب استوديو التسجيل
+43986,Operario cortador de piezas de sombreros y gorras,Operador de cortes de peças de chapéus e bonés,Ouvrier coupeur de pièces de chapeaux et casquettes,عامل قطع أجزاء القبعات والقلنسوات
+43988,Revestidor de mazarota caliente,Revestidor de topo quente,Garnisseur de masselotte chaude,مبطّن الرأس الساخن
+44001,Jefe de planificación de tripulaciones,Chefe de planeamento de tripulações,Chef planificateur d'équipages,رئيس جدولة الطواقم
+44002,Planificador de procesamiento informático,Planeador de processamento informático,Planificateur de traitement informatique,مخطط المعالجة الحاسوبية
+44005,Planificador de tripulaciones de vuelo,Planeador de tripulações de voo,Planificateur d'équipages de vol,مخطط طواقم الرحلات
+44006,Impresor de guantes,Impressor de luvas,Imprimeur de gants,طابع القفازات
+44011,Planificador de atención domiciliaria,Planeador de cuidados domiciliários,Planificateur de soins à domicile,مخطط الرعاية المنزلية
+44012,Planificador de atención sanitaria a domicilio,Planeador de saúde domiciliária,Planificateur de soins à domicile,مخطط الرعاية الصحية المنزلية
+44016,Planificador de consultas médicas,Planeador de consultas médicas,Planificateur de cabinet médical,مخطط المكتب الطبي
+44017,Planificador de pedidos de molino,Planeador de encomendas da fábrica,Planificateur de commandes de moulin,مخطط طلبات المطحنة
+44024,Planificador maestro senior,Planeador mestre sénior,Planificateur maître senior,مخطط رئيسي أول
+44025,Planificador senior de energía,Planeador sénior de energia,Planificateur énergie senior,مخطط طاقة أول
+44038,Reclutador de voluntarios,Recrutador de voluntários,Recruteur de bénévoles,مسؤول تجنيد المتطوعين
+44039,Cambiador de ácido,Mudador de ácido,Changeur d'acide,مغيّر الحمض
+44040,Cambiador de correas,Mudador de correias,Changeur de courroies,مغيّر الأحزمة
+44041,Cambiador de vagones,Mudador de vagões,Changeur de wagons,مغيّر العربات
+44042,Cambiador de celdas,Mudador de células,Changeur de cellules,مغيّر الخلايا
+44043,Lavador de plumas,Lavador de penas,Laveur de plumes,غاسل الريش
+44044,Cambiador de filtros,Mudador de filtros,Changeur de filtres,مغيّر المرشّحات
+44045,Cambiador de bastidores,Mudador de armações,Changeur de cadres,مغيّر الإطارات
+44046,Cambiador de engranajes,Mudador de engrenagens,Changeur d'engrenages,مغيّر التروس
+44047,Cambiador de guías,Mudador de guias,Changeur de guides,مغيّر الموجّهات
+44049,Cambiador de telares,Mudador de teares,Changeur de métiers à tisser,مغيّر الأنوال
+44050,Cambiador de moldes,Mudador de moldes,Changeur de moules,مغيّر القوالب
+44051,Cambiador de aceite,Mudador de óleo,Changeur d'huile,مغيّر الزيت
+44053,Cambiador de patrones,Mudador de padrões,Changeur de patrons,مغيّر الأنماط
+44054,Cambiador de tuberías,Mudador de tubagens,Changeur de tuyaux,مغيّر الأنابيب
+44055,Cambiador de planta,Mudador de planta,Changeur de plantes,مغيّر النباتات
+44057,Cambiador de rodillos,Mudador de rolos,Changeur de rouleaux,مغيّر الأسطوانات
+44059,Gerente de terapia,Gerente de terapia,Responsable de thérapie,مدير العلاج
+44063,Máquina ayudante de fabricación de aros,Máquina auxiliar de fabrico de arcos,Machine d'aide à la fabrication de cerclages,آلة مساعدة لصنع الأطواق
+44068,Preparador de carros,Preparador de carros,Régleur de chariots,ضابط إعداد العربات
+44069,Colocador de bordillos,Assentador de lancis,Poseur de bordures,مركّب حافات الأرصفة
+44079,Operador bursátil en línea,Negociador online,Trader en ligne,متداول عبر الإنترنت
+44080,Recubridor de paneles,Revestidor de painéis,Recouvreur de panneaux,مغطّي الألواح
+44084,Analista de contracargos,Analista de reembolsos/contestações,Analyste des rétrofacturations,محلل المبالغ المستردة
+44085,Analista de chargemaster (tarifas hospitalarias),Analista de chargemaster (tarifário hospitalar),Analyste chargemaster (tarifs hospitaliers),محلل قائمة أسعار المستشفى
+44090,Analista de aprovisionamiento,Analista de provisionamento,Analyste de provisionnement,محلل التزويد
+44105,Oficial de inteligencia de planes AOC,Oficial de inteligência de planos AOC,Officier de renseignement plans AOC,ضابط استخبارات خطط AOC
+44107,Oficial de audiencias de seguro de desempleo,Oficial de audiências do seguro de desemprego,Officier d'audience d'assurance chômage,ضابط جلسات تأمين البطالة
+44109,Operario de canaleta,Operador de caleiro,Opérateur de goulotte,عامل المزلق
+44111,Operario de conos,Operador de cones,Opérateur de cônes,عامل المخاريط
+44120,Superintendente de economato,Superintendente de intendência,Superviseur d'intendance,مشرف التموين
+44122,Enlace médico de informática,Ligação médica de informática,Liaison médicale en informatique,مسؤول التواصل الطبي المعلوماتي
+44123,Acabador de cuchillas,Acabador de facas,Finisseur de couteaux,مُنهي السكاكين
+44139,Ingeniero de elevación de losas,Engenheiro de elevação de lajes,Ingénieur de levage de dalles,مهندس رفع البلاطات
+44142,Cobrador de peaje,Cobrador de portagens,Péager,محصل الرسوم
+44145,Supervisor de estimadores y delineantes,Supervisor de orçamentistas e desenhadores,Superviseur de métreurs et dessinateurs,مشرف المقدّرين والرسامين الفنيين
+44146,Lavador de productos agrícolas,Lavador de produtos agrícolas,Laveur de produits agricoles,غاسل المنتجات الزراعية
+44152,Reparador de servicio de máquinas de monedas,Reparador de serviço de máquinas de moedas,Réparateur de machines à pièces,مصلح خدمة آلات العملات
+44153,Reparador de mantenimiento de máquinas de monedas,Reparador de manutenção de máquinas de moedas,Réparateur d'entretien de machines à pièces,مصلح صيانة آلات العملات
+44154,Preparador de copa de pespunte,Preparador de copo de ponto corrido,Régleur de coupe à point noué,ضابط إعداد كأس الغرزة المقفلة
+44158,Desapilador de capas,Desapilador de camadas,Dépileur de couches,عامل إزالة الطبقات
+44159,Desmoldador de caucho,Desmoldador de borracha,Démouleur de caoutchouc,عامل إزالة المطاط
+44160,Desmontador de preparación,Desmontador de preparação,Régleur de sortie,عامل إزالة الإعداد
+44162,Desmontador de lavado,Desmontador de lavagem,Laveur de sortie,عامل إزالة الغسيل
+44166,Vicepresidente de seguridad,Vice-presidente de segurança,Vice-président sécurité,نائب الرئيس للسلامة
+44167,Asociado de estándares de tienda,Associado de normas de loja,Chargé des normes de magasin,موظف معايير المتجر
+44177,Prensador de bobinas,Prensador de bobinas,Presseur de bobines,مكبس البكرات
+44182,Supervisor de taller de impresión,Supervisor de oficina de impressão,Superviseur d'atelier d'impression,مشرف ورشة الطباعة
+44184,Rellenador de cuentas,Enchedor de contas,Remplisseur de perles,معبئ الخرز
+44185,Seleccionador de conos,Selecionador de cones,Trieur de cônes,منتقي المخاريط
+44187,Rellenador de toneles,Enchedor de pipas,Remplisseur de barriques,معبئ البراميل الكبيرة
+44188,Rellenador de cucharones,Enchedor de conchas,Remplisseur de poches,معبئ المغارف
+44189,Colgador de varillas,Pendurador de varões,Suspendeur de tiges,معلّق القضبان
+44192,Director de mantenimiento de instalaciones,Diretor de manutenção de instalações,Directeur de la maintenance des installations,مدير صيانة المرافق
+44194,Planificador de control de proyectos,Planeador de controlo de projetos,Planificateur de contrôle de projet,مخطط مراقبة المشاريع
+44203,Supervisor del departamento de formado,Supervisor do departamento de formação,Superviseur du département de formage,مشرف قسم التشكيل
+44204,Vicepresidente de investigación clínica,Vice-presidente de investigação clínica,Vice-président de la recherche clinique,نائب الرئيس للبحث السريري
+44210,Cuidador de aves,Tratador de aves,Gardien d'oiseaux,مشرف الطيور
+44211,Ayudante de albañil (operario),Operador de pedreiro,Gardien de maçonnerie,مشغل البنّاء
+44212,Operario de canal,Operador de canal,Gardien de canal,مشغل القناة
+44213,Operario de batidora,Operador de batedeira,Opérateur de baratte,مشغل الخضّاضة
+44214,Operario de sacudidora,Operador de espanador,Opérateur de dépoussiéreuse,مشغل المنفضة
+44215,Operario de canal de agua,Operador de caleira,Gardien de canal d'eau,مشغل القناة المائية
+44216,Operario de gancho,Operador de gancho,Gardien de crochet,مشغل الخطّاف
+44217,Operario de estanque,Operador de tanque,Gardien de bassin,مشغل البركة
+44218,Operario de pozo,Operador de poço,Gardien de puits,مشغل البئر
+44219,Operario de urdidora,Operador de urdideira,Opérateur d'encolleuse,مشغل آلة الضفائر
+44220,Frotador de piedra,Esfregador de pedra,Frotteur de pierre,عامل صقل الحجر
+44221,Operario de columpio (oscilante),Operador de balancim,Opérateur de balancier,مشغل المرجحة
+44227,Operario de bombeo de transferencia,Operador de bombagem de transferência,Opérateur de pompage de transfert,عامل ضخ النقل
+44231,Cambiador de discos,Mudador de discos,Changeur de disques,مغيّر التسجيلات
+44233,Operario de troquelado de discos,Operador de corte de discos,Ouvrier de découpe de disques,عامل تفريغ وسادات الأقراص
+44236,Operario polivalente de hilandería de lana,Trabalhador polivalente de lanifício,Ouvrier polyvalent de filature de laine,عامل متعدد المهام في مصنع الصوف
+44247,Montador de extractor de mano superior,Montador de extrator de mão por cima,Monteur de tireur de main supérieure,مجمّع ساحب اليد العلوية
+44249,Planificador de plantilla de oficina,Planeador de efetivos de escritório,Planificateur des effectifs de bureau,مخطط القوى العاملة المكتبية
+44250,Técnico quirúrgico certificado,Técnico cirúrgico certificado,Technicien de bloc certifié,فني جراحة معتمد
+44251,Técnico quirúrgico de quirófano,Técnico cirúrgico de bloco operatório,Technicien de bloc opératoire,فني تعقيم غرفة العمليات
+44252,Atador de suelas,Atador de solas,Lieur de semelles,رابط النعال الخارجية
+44253,Técnico de lavado quirúrgico,Técnico de lavagem cirúrgica,Technicien de lavage chirurgical,فني التعقيم الجراحي
+44254,Atador de verduras,Atador de legumes,Lieur de légumes,رابط الخضروات
+44257,Operario de sala de comidas,Operador de sala de refeições,Ouvrier de salle de restauration,عامل قاعة الطعام
+44258,Operario de tirón,Operador de puxada,Ouvrier de tirage,عامل السحب لأعلى
+44260,Operario pulidor de herramientas,Operador de polimento de ferramentas,Ouvrier rodeur d'outils,عامل تلميع الأدوات
+44262,Operario de segunda,Operador de segunda,Ouvrier de seconde,عامل الدرجة الثانية
+44264,Desmoldador de celdas,Desmoldador de células,Décapeur de cellules,مُزيل الخلايا
