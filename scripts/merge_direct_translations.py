@@ -3,7 +3,8 @@ import csv, glob, sys
 DATA = "/home/user/titles/data"
 
 rank_to_tr = {}
-for path in sorted(glob.glob(f"{DATA}/translate_chunks/out/titles_*_tr.csv")):
+for path in sorted(glob.glob(f"{DATA}/translate_chunks/out/titles_*_tr.csv")) + \
+            sorted(glob.glob(f"{DATA}/translate_chunks/repair/redo_*_tr.csv")):
     with open(path, newline="", encoding="utf-8") as f:
         r = csv.DictReader(f)
         for row in r:
