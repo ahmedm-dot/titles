@@ -109,3 +109,1893 @@ rank,title_es,title_pt,title_fr,title_ar
 62247,Operador de izado,Operador de guincho,Treuillard,عامل الرافعة
 62248,Trabajador a domicilio,Trabalhador ao domicílio,Travailleur à domicile,عامل منزلي
 62250,Enganchador,Engatador,Accrocheur,عامل الخطاف
+62253,Compañero de casa,Colega de casa,Colocataire,رفيق السكن
+62255,Herrero de viviendas,Ferreiro de habitações,Forgeron de maisons,حداد المساكن
+62258,Hidrodinamicista,Hidrodinamicista,Hydrodynamicien,عالم ديناميكا الموائع
+62271,Indexador,Indexador,Indexeur,مفهرس
+62272,Inletter,Inletter,Inletter,عامل المدخل
+62273,Inoculador,Inoculador,Inoculateur,عامل التلقيح
+62274,Costurero interior,Costureiro interior,Couturier d'entrejambe,عامل خياطة الكعب
+62275,Entrelazador,Entrelaçador,Entrelaceur,عامل التشبيك
+62279,Jackaroo,Jackaroo,Jackaroo,جاكارو
+62280,Jackerman,Jackerman,Jackerman,عامل الرافعات
+62281,Bobinador de jack,Bobinador de jack,Bobineur de jack,عامل لف الخيوط
+62286,Operario de jig,Operador de jig,Opérateur de jig,عامل الجيغ
+62288,JTAC,JTAC,JTAC,JTAC
+62289,Kaiwhakahaere,Kaiwhakahaere,Kaiwhakahaere,كايواكاهاري
+62291,Operario de caldera,Operador de caldeira,Chauffeur de chaudière,عامل المرجل
+62300,Encargado de equipamiento,Encarregado de equipamento,Responsable du matériel,مسؤول المعدات
+62301,Cuchillero,Facalhador,Coupeur au couteau,عامل السكاكين
+62302,Nudista de perilla,Operador de botão,Boutonneur,عامل المقابض
+62303,Nudillero,Nodeiro,Nœudeur,عامل المفاصل
+62305,Peones,Trabalhadores braçais,Manœuvres,عمال يدويون
+62307,Encajero,Rendilheiro,Dentellier,عامل الدانتيل
+62309,Operario de escalera,Operador de escada,Monteur d'échelle,عامل السلالم
+62310,Cucharero,Concha,Louche,عامل الملاعق
+62311,Agente de terrenos,Agente de terrenos,Agent foncier,عامل الأراضي
+62312,Agentes de terrenos,Agentes de terrenos,Agents fonciers,عمال الأراضي
+62313,Lapelero,Lapeleiro,Lapeleur,عامل الياقات
+62316,Láserista,Laserista,Laseriste,فني ليزر
+62317,Latexador,Latexador,Latexeur,عامل اللاتكس
+62318,Fabricante de listones,Fabricante de ripas,Fabricant de lattes,صانع الألواح الخشبية
+62319,Operario de lanzamiento,Operador de lançamento,Opérateur de lancement,عامل الإطلاق
+62323,Lixiviador,Lixiviador,Lixivieur,عامل الترشيح
+62326,Legisladores,Legisladores,Législateurs,مشرعون
+62328,Operario de nivelación,Operador de nivelamento,Niveleur,عامل التسوية
+62333,Teniente/Adjunto,Tenente/Adjunto,Lieutenant/Adjoint,ملازم/نائب
+62334,Elevador/Conductor,Elevador/Condutor,Lève-charge/Chauffeur,عامل الرفع/السائق
+62337,Liniero,Linheiro,Linier,عامل الخطوط
+62341,Litotriptor,Litotritor,Lithotriteur,فني تفتيت الحصى
+62346,Cargadores,Carregadores,Chargeurs,عمال التحميل
+62351,Elevador,Elevador,Lofteur,عامل الرفع
+62352,Encargado de desván,Encarregado de sótão,Responsable de mezzanine,مشرف الطابق العلوي
+62354,Logística/Expedidor,Logística/Expedidor,Logistique/Expéditeur,اللوجستيات/المرسل
+62357,Señuelero,Isco,Leurreur,عامل الطعم
+62358,Brillador,Lustrador,Lustreur,عامل التلميع
+62360,Magnetizador,Magnetizador,Magnétiseur,عامل المغنطة
+62361,Jefe de correo,Chefe de correio,Chef du courrier,مشرف البريد
+62365,Manugrafista,Manugrafista,Manugraphe,فني الرسم اليدوي
+62367,Marinador,Marinador,Mariner,عامل التتبيل
+62370,Masticador,Mastigador,Mastiqueur,عامل المضغ
+62376,Mesmerista,Mesmerista,Mesmériste,معالج بالتنويم المغناطيسي
+62378,Metafísico,Metafísico,Métaphysicien,عالم ما وراء الطبيعة
+62379,Metafísicista,Metafísico,Métaphysicien,عالم ما وراء الطبيعة
+62385,Mimeógrafo,Mimeografista,Mimeographe,عامل الاستنساخ
+62388,Mohel,Mohel,Mohel,موهيل
+62389,Monologuista,Monologuista,Monologuiste,مونولوجي
+62392,Lunático,Lunático,Lunaire,عامل القمر
+62393,Fregona,Esfregão,Serpillière,عامل التنظيف
+62394,Morfólogo,Morfologista,Morphologue,عالم الشكل
+62395,Operario de mortero,Operador de argamassa,Maçon au mortier,عامل الملاط
+62396,Mosaiquista,Mosaicista,Mosaïste,فسيفسائي
+62397,Moshgiach,Moshgiach,Moshgiach,مشغيّح
+62401,Mulero,Mulero,Muletier,سائس البغال
+62402,Multígrafo,Multigrafista,Multigraphe,عامل الطباعة المتعددة
+62409,Fabricante de agujas,Fabricante de agulhas,Fabricant d'aiguilles,صانع الإبر
+62419,Vendedor de periódicos,Jornaleiro,Marchand de journaux,بائع الصحف
+62422,Operario nocturno,Operador noturno,Agent de nuit,عامل الليل
+62425,Nodulizador,Nodulizador,Nodulisateur,عامل تكوين العقيدات
+62426,Notero,Notário,Noteur,مسجل الملاحظات
+62427,Lector de notas,Leitor de notas,Lecteur de notes,قارئ الملاحظات
+62439,Operador,Operador,Opérateur,عامل التشغيل
+62440,Operaciones/Despacho,Operações/Despacho,Opérations/Expédition,العمليات/الإرسال
+62441,Oreman,Oreman,Oreman,أوريمان
+62442,Orientador,Orientador,Orienteur,موجّه
+62444,Osteólogo,Osteologista,Ostéologue,عالم العظام
+62450,Sobrehilador,Sobrecostureiro,Surjeteur,عامل الخياطة المتراكبة
+62451,Sobrebobinador,Sobrebobinador,Surbobineur,عامل اللف الزائد
+62456,Propietario/Operador,Proprietário/Operador,Propriétaire/Exploitant,المالك/المشغل
+62461,Paginador,Paginador,Paginateur,مُرقّم الصفحات
+62466,Operario de panel,Operador de painel,Opérateur de panneau,عامل اللوحات
+62467,Pantógrafo,Pantógrafo,Pantographe,عامل البانتوغراف
+62472,Hervidor previo,Cozedor prévio,Pré-bouilleur,عامل السلق المسبق
+62474,Patronista,Patronista,Patronier,عامل النماذج
+62475,PCAS,PCAS,PCAS,PCAS
+62477,Perlero,Pérolero,Perleur,صائد اللؤلؤ
+62484,Peripatólogo,Peripatologista,Péripatologue,عالم المشي
+62498,Fisiognomista,Fisiognomista,Physiognomoniste,عالم الفراسة
+62499,Fitopatólogo,Fitopatologista,Phytopathologiste,عالم أمراض النبات
+62502,Fabricante de alfileres,Fabricante de alfinetes,Fabricant d'épingles,صانع الدبابيس
+62506,Planchista,Planificador,Planisseur,مُسطّح
+62507,Planificador/Programador,Planeador/Programador,Planificateur/Ordonnanceur,مخطط/مجدول
+62508,Planogramador,Planogramador,Planogrammeur,مُخطط المنتجات
+62509,Plasticador,Plasticador,Plastificateur,عامل التلدين
+62512,Operario de enchufe,Operador de tomada,Monteur de prises,عامل التوصيل
+62518,Polisomnógrafo,Polissonógrafo,Polysomnographe,فني تخطيط النوم
+62520,Operario de estanque,Operador de tanque,Opérateur de bassin,عامل الأحواض
+62522,Postulante,Postulante,Postulant,مرشح
+62525,Polvorista,Pulverizador,Poudreur,عامل الطحن
+62527,Constructor de potencia,Construtor de potência,Monteur de puissance,مُنشئ القوة
+62528,Embarcador previo,Embarcador prévio,Pré-embarqueur,مُسبق الصعود
+62529,Prefabricador,Prefabricador,Préfabricateur,عامل التصنيع المسبق
+62531,Preplisador,Preplisador,Préplisseur,عامل الطي المسبق
+62533,Ajustador a presión,Ajustador de pressão,Monteur à force,عامل التركيب بالضغط
+62534,Presurizador,Pressurizador,Pressuriseur,عامل الضغط
+62541,Prototipador,Prototipador,Prototypiste,مُصمم النماذج الأولية
+62549,Purlero,Purlero,Purleur,عامل الحياكة
+62550,Masillador,Massilhador,Mastiqueur,عامل المعجون
+62551,Pirovitrificador,Piroesmaltador,Pyro-émailleur,عامل الزجاج الحراري
+62554,Pescador de quahog,Pescador de quahog,Pêcheur de quahog,صياد المحار
+62555,Cantero,Pedreiro,Carrier,عامل المحاجر
+62556,Cotizador,Cotador,Coteur,مُسعّر
+62557,Rabbler,Rabbler,Rabbleur,عامل التحريك
+62558,Encargado de estantes,Encarregado de estantes,Responsable de rayonnage,مشرف الرفوف
+62559,Operador de radar,Operador de radar,Opérateur radar,عامل الرادار
+62563,Balsero,Jangadeiro,Radeau,عامل الأطواف
+62564,Traperos,Trapeiro,Chiffonnier,جامع الخرق
+62565,Ferroviario,Ferroviário,Cheminot,عامل السكك الحديدية
+62566,Ratoprinter,Ratoprinter,Ratoprinter,طابع الرات
+62567,Enrollador de hilo,Enrolador de fio,Enrouleur de fil,عامل لف الخيوط
+62568,RCIS,RCIS,RCIS,RCIS
+62570,Alcanzador,Alcançador,Attrapeur,عامل المسك
+62571,Rebeamer,Rebeamer,Rebeamer,عامل إعادة الأسدية
+62573,Receptor/Operario,Recetor/Operário,Réceptionnaire/Manutentionnaire,المستلم/العامل
+62574,Recentrador,Recentrador,Recentreur,عامل إعادة التمركز
+62576,Revisor,Revisor,Revérificateur,مُعيد الفحص
+62577,Conciliador,Conciliador,Réconciliateur,مُطابِق
+62578,Recooperador,Recooperador,Recooperateur,عامل إعادة التقطيع
+62579,Redipper,Redipper,Redipper,عامل الغمر
+62581,Reexaminador,Reexaminador,Réexaminateur,مُعيد التدقيق
+62582,Reflesher,Reflesher,Reflesher,عامل إعادة التقشير
+62586,Recolgador,Pendurador,Rembouteur,عامل إعادة التعليق
+62587,Rechazador,Rejeitador,Rejecteur,عامل الرفض
+62588,Rejogger,Rejogger,Rejogger,عامل إعادة التقليب
+62589,Rejoiner,Rejoiner,Rejoineur,عامل إعادة الوصل
+62590,Relaster,Relaster,Relasteur,عامل إعادة التقويم
+62591,Refundidor,Refundidor,Refondeur,عامل إعادة الصهر
+62595,Recortador,Recortador,Rééquipeur,عامل إعادة التقليم
+62598,Reólogo,Reologista,Rhéologue,عالم الريولوجيا
+62603,Hombre de pista,Homem de pista,Homme de patinoire,عامل الحلبة
+62604,Ondulador,Ondulador,Ondulateur,عامل التموج
+62606,RNFA,RNFA,RNFA,RNFA
+62610,Armador de barras,Armador de varões,Ferrailleur,عامل تشبيك القضبان
+62611,Escardador,Sacho,Sarcleur,عامل التنقية
+62615,Rugoso,Rugoso,Rugosifieur,عامل التخشين
+62618,Rizador,Franzidor,Froisseur,عامل التجعيد
+62619,Rumper,Rumper,Rumper,عامل الدفع
+62620,Cerrajero,Serralheiro,Serrurier,صانع الخزائن
+62621,Velero,Veleiro,Voilier,صانع الأشرعة
+62623,Vendedor/Propietario,Vendedor/Proprietário,Vendeur/Propriétaire,البائع/المالك
+62624,Tabernero,Taberneiro,Tenancier de saloon,صاحب الحانة
+62625,Salvacionista,Salvacionista,Salutiste,عضو جيش الخلاص
+62626,Sanforizador,Sanforizador,Sanforiseur,عامل الانكماش المسبق
+62627,Sanitario,Sanitário,Sanitaire,عامل الصرف الصحي
+62628,Herrero de sierras,Ferreiro de serras,Forgeron de scies,حداد المناشير
+62631,Fabricante de básculas,Fabricante de balanças,Fabricant de balances,صانع الموازين
+62632,Festoneador,Festonador,Festonneur,عامل التخريم
+62633,Rascador,Raspador,Racleur,عامل الكشط
+62634,Científico/Ingeniero,Cientista/Engenheiro,Scientifique/Ingénieur,عالم/مهندس
+62635,Cienciólogo,Cientologista,Scientologue,سيانتولوجي
+62637,Scouts,Escoteiros,Éclaireurs,كشافة
+62638,Operario de cubierta,Operador de convés,Matelot de pont,عامل السطح
+62641,Scrum Master,Scrum Master,Scrum Master,سكرام ماستر
+62642,SDE,SDE,SDE,SDE
+62643,Seccionador,Seccionador,Sectionneur,عامل التقسيم
+62645,Segregador,Segregador,Ségrégateur,عامل الفرز
+62647,Sensitómetrista,Sensitometrista,Sensitométriste,فني قياس الحساسية
+62649,Sericultor,Sericicultor,Sériciculteur,مربي دود القز
+62653,Accionista,Acionista,Actionnaire,مساهم
+62655,Operario de forrado,Operador de forração,Garnisseur,عامل التغليف
+62656,Lacador,Lacador,Gommeur,عامل الورنيش
+62657,Operario de turno,Operador de turno,Opérateur de poste,عامل المناوبة
+62660,Herrero naval,Ferreiro naval,Forgeron naval,حداد السفن
+62662,Limpiabotas,Engraxate,Cireur de chaussures,ملمّع أحذية
+62663,Limpiabotas,Engraxador,Cireur,ملمّع أحذية
+62667,Operario de mortaja,Operador de mortalha,Linceulier,عامل الأكفان
+62668,Operario lateral,Operador lateral,Aide latéral,عامل جانبي
+62669,Siderógrafo,Siderógrafo,Sidérographe,عالم النقش على الفولاذ
+62670,Siderografista,Siderografista,Sidérographiste,فني النقش على الفولاذ
+62671,Operario de mira,Operador de mira,Pointeur,عامل التصويب
+62673,Silicatador,Silicatador,Silicateur,عامل السليكات
+62676,Sifonero,Sifonador,Siphonneur,عامل السحب بالسيفون
+62677,Patinador,Patinador,Patineur,عامل الدوران
+62681,Operario de holgura,Operador de folga,Opérateur de jeu,عامل الفراغ
+62682,Escoriador,Escorificador,Scorifieur,عامل إزالة الخبث
+62683,Trineo,Trenó,Traîneau,عامل الزلاجات
+62684,Encamisador,Encamisador,Chemiseur,عامل التغليف
+62685,Operario de limado,Operador de limagem,Limeur,عامل التنعيم
+62686,Operario de deslizamiento,Operador de escorregamento,Opérateur de glissement,عامل الانزلاق
+62689,Manchador,Manchador,Maculateur,عامل التلطيخ
+62690,Tiznador,Enegrecedor,Barbouilleur,عامل التلويث
+62691,Enganchador,Engatador,Accrocheur,عامل الخطاف
+62692,Caracolero,Caracoleiro,Escargotier,عامل الحلزون
+62694,Fabricante de nieve,Fabricante de neve,Fabricant de neige,صانع الثلج
+62695,Amortiguador,Amortecedor,Amortisseur,عامل الكبح
+62696,Esteatitador,Esteatitador,Stéatiteur,عامل الصابون الحجري
+62697,Soldador,Soldador,Soudeur,عامل اللحام
+62698,Soubrette,Soubrette,Soubrette,سوبريت
+62699,Hispanizador,Hispanizador,Hispanisant,عامل الأسبنة
+62700,Fabricante de sparmaker,Fabricante de sparmaker,Fabricant de sparmaker,صانع السبار
+62701,Lancero,Lanceiro,Lanceur,عامل الرماح
+62702,Espectrógrafo,Espectrógrafo,Spectrographe,فني مطياف
+62704,Operario de sprag,Operador de sprag,Opérateur de sprag,عامل الكوابح
+62705,Operario de clavo,Operador de cravo,Cloueur,عامل المسامير
+62707,Squilgeer,Squilgeer,Squilgeer,عامل الكشط
+62708,Apuñalador,Apunhalador,Poignardeur,عامل الطعن
+62712,Operario de vapor,Operador de vapor,Chauffeur à vapeur,عامل الغاز
+62713,Acerero,Aceiro,Aciériste,عامل الفولاذ
+62714,Operario siderúrgico,Operário siderúrgico,Ouvrier sidérurgiste,عامل الصلب
+62718,Estereoptician,Estereoptico,Stéréoptician,فني الشرائح
+62720,Puntillista,Pontilhista,Pointilleur,عامل التنقيط
+62723,Accionista,Acionista,Actionnaire,مساهم
+62728,Operario de estrangulamiento,Operador de estrangulamento,Étrangleur,عامل الخنق
+62730,Operario de tacos,Operador de tacos,Taquier,عامل السدادات
+62733,Clasificador secundario,Separador secundário,Trieur secondaire,عامل الفرز الثانوي
+62735,Muestrista,Amostrador,Échantilloneur,عامل أخذ العينات
+62736,Estampador,Estampador,Estampeur,عامل الطبع
+62737,Jarabero,Xaroparo,Sirotier,عامل الشراب
+62738,Tabulador,Tabulador,Tabuleur,عامل الجداول
+62739,Etiquetador,Etiquetador,Étiqueteur,عامل الوسم
+62740,Contador de sastre,Contabilista de alfaiate,Expert-comptable tailleur,محاسب الخياطة
+62741,Operario de cola,Operador de cauda,Chef de queue,عامل الذيل
+62742,Talquero,Talqueador,Talqueur,عامل التلك
+62743,Operario de tanque,Operador de tanque,Opérateur de réservoir,عامل الخزان
+62744,Operario de cinta,Operador de fita,Opérateur de bande,عامل الشريط
+62746,Objetivista,Alvejador,Cibleur,عامل الاستهداف
+62747,Lonero,Lonado,Bâcheur,عامل التغطية
+62750,Peinador,Penteador,Peigneur,عامل التمشيط
+62755,Operario de bastidor,Operador de bastidor,Opérateur de tendeur,عامل الشد
+62761,Operario de tenazas,Operador de tenazes,Pinceur,عامل الملقط
+62762,Operario de lengüeta,Operador de língua,Languetteur,عامل اللسان
+62763,Operario de herramientas,Operador de ferramentas,Outilleur,عامل الأدوات
+62765,Transportista,Transportador,Porteur,ناقل
+62766,Operario de torre,Operador de torre,Tourier,عامل البرج
+62769,Jefe de tren,Chefe de trem,Chef de train,مشرف القطارات
+62770,Transcriptor,Transcritor,Transcripteur,ناسخ
+62774,Operario de caballete,Operador de cavalete,Échafaudeur,عامل الدعامات
+62775,Tricólogo,Tricologista,Trichologue,عالم الشعر
+62776,Operario de tromba,Operador de tromba,Trompeur,عامل الخرطوم
+62779,TSO,TSO,TSO,TSO
+62781,Resinero,Resineiro,Résinier,عامل التربنتين
+62782,Operario de torsión,Operador de torção,Tordeur,عامل الفتل
+62784,Desempaquetador,Desembalador,Débundleur,عامل فك الحزم
+62785,Desembalador,Desembalador,Décaisseur,عامل فك التغليف
+62786,Operario de subsuelo,Operador de subsolo,Sous-bâtisseur,عامل الأساس
+62787,Imprimador,Aplicador de primário,Sous-couche,عامل الطلاء الأساسي
+62788,Operario de subrayado,Operador de sublinhado,Soulignage,عامل التسطير
+62789,Uniformador,Uniformizador,Uniformeur,عامل التوحيد
+62790,Operario de unidades,Operador de unidades,Unitiseur,عامل الوحدات
+62791,Desenredador,Desembaraçador,Démêleur,عامل فك التشابك
+62792,Desapilador,Desempilhador,Dépileur,عامل فك التكديس
+62795,Venganza,Vendetta,Vendetta,فندتا
+62802,Encargado de almacén,Responsável de armazém,Responsable d'entrepôt,مسؤول المستودع
+62804,Operario de urdimbre,Operador de urdume,Ourdisseur,عامل السدى
+62806,Jefe de agua,Chefe de águas,Chef des eaux,مشرف المياه
+62812,Timonel,Timoneiro,Timonier,عامل القيادة
+62813,Herrero blanco,Ferreiro branco,Ferblantier,حداد الصفائح
+62815,Operario de sauce,Operador de salgueiro,Saulier,عامل الصفصاف
+62816,Operario de torno,Operador de torno,Treuilleur,عامل الرافعة
+62817,Operario de devanado,Operador de bobinagem,Bobineur,عامل اللف
+62818,Operario de cabrestante,Operador de cabrestante,Cabestanier,عامل الونش
+62819,Herrero de ventanas,Ferreiro de janelas,Forgeron de fenêtres,حداد النوافذ
+62820,Operario de fichas,Operador de fichas,Lissier,عامل الترقيم
+62823,Zanjero,Zanjero,Zanjero,مشرف الترع
+62824,Zigzagueador,Zigzagueador,Zigzagueur,عامل التعرج
+62825,Zoogler,Zoogler,Zoogler,عامل الزوجلر
+62828,Turno por horas,Turno horário,Équipe horaire,وردية بالساعة
+62829,Poker In,Poker In,Poker In,بوكر إن
+62832,Especialista en Servicio de Extensión a cargo,Especialista do Serviço de Extensão responsável,Spécialiste du service de vulgarisation responsable,أخصائي خدمة الإرشاد المسؤول
+62833,Planchador de sombreros de fieltro,Passador de chapéus de feltro,Vapeur de chapeaux en feutre,عامل كي القبعات الصوفية
+62839,Oficiante de matrimonios,Oficiante de casamentos,Officiant de mariage,مُقيم حفلات الزواج
+62841,Titular de capital,Titular de capital,Détenteur de capitaux propres,صاحب حصة الملكية
+62845,Pescador de perlas,Pescador de pérolas,Pêcheur de perles,صياد اللؤلؤ
+62848,Auxiliar de cocina,Auxiliar de cozinha,Steward de restauration rapide,مساعد المطبخ
+62849,Encargado de almacén,Encarregado de armazém,Économe de magasin,أمين المخزن
+62850,Supervisor de procesamiento de tubos electrónicos,Supervisor de processamento de tubos eletrónicos,Superviseur du traitement des tubes électroniques,مشرف معالجة الأنابيب الإلكترونية
+62852,Modelista de grabado,Modelista de gravação,Modéliste de gravure,مُصمم نماذج النقش
+62853,Descargador de material de siembra,Descarregador de material de plantação,Déchargeur de matériel de plantation,عامل تفريغ مواد الزراعة
+62854,Perforador de hombros,Perfurador de ombros,Perforateur d'épaule,عامل ثقب الأكتاف
+62856,Reconstructor de tubos de imagen de televisión,Reconstrutor de tubos de imagem de televisão,Reconditionneur de tubes image de télévision,فني إعادة تأهيل أنابيب الصورة التلفزيونية
+62863,Representante de remarketing,Representante de remarketing,Représentant remarketing,مندوب إعادة التسويق
+62864,Representante de verificación,Representante de verificação,Représentant de vérification,مندوب التحقق
+62867,Montador de mesas de ping pong,Montador de mesas de ping-pong,Monteur de tables de ping-pong,عامل تجميع طاولات تنس الطاولة
+62869,Montador de mechas y bases,Montador de pavios e bases,Monteur de mèches et de bases,عامل تجميع الفتيل والقاعدة
+62871,Mecánico de campo/Jefe de obra,Mecânico de campo/Chefe de obra,Mécanicien de terrain/Chef de chantier,ميكانيكي ميداني/رئيس الموقع
+62886,Abridor de agujeros de joyas en bruto,Abridor de furos de joias em bruto,Ouvreur de trous de joaillerie brut,عامل فتح ثقوب الجواهر الخام
+62888,Enganchador de cubos,Engatador de baldes,Accrocheur de godets,عامل خطاف الدلو
+62889,Jefe de coordinación de importación y producción,Chefe de coordenação de importação e produção,Responsable coordination import et production,رئيس تنسيق الاستيراد والإنتاج
+62890,Recolector de pacanas,Colhedor de pecãs,Cueilleur de pacanes,عامل جمع الجوز البيكاني
+62892,Encintador de rollos de tela,Enfaixador de rolos de tecido,Bandeur de rouleaux de tissu,عامل لف شرائط الأقمشة
+62896,Director de cuidados domiciliarios y hospicio,Diretor de cuidados domiciliários e hospice,Directeur des soins à domicile et soins palliatifs,مدير الرعاية المنزلية والرعاية التلطيفية
+62897,Director de especialidad,Diretor de especialidade,Directeur de spécialité,مدير التخصص
+62898,Enganchador,Engatador,Accrocheur,عامل الخطاف
+62899,Gerente de especialidad,Gestor de especialidade,Responsable spécialité,مدير التخصص
+62900,Modelista de yeso,Modelista de gesso,Modéliste en plâtre,مُصمم نماذج الجص
+62903,Separador de bolígrafos,Separador de esferográficas,Séparateur de stylos à bille,عامل فصل أقلام الحبر الجاف
+62905,Operario de horno de frita,Operador de forno de frita,Brûleur de fritte,عامل حرق الفريت
+62906,Asistente físico,Assistente de fisioterapia,Assistant physique,مساعد علاج طبيعي
+62908,Probador de artículos de caucho al agua,Testador de artigos de borracha em água,Testeur d'articles en caoutchouc à l'eau,فاحص المطاط المائي
+62909,Sacudidor de ropa,Sacudidor de roupas,Secoueur de vêtements,عامل نفض الملابس
+62912,Director de costos,Diretor de custos,Directeur des coûts,مدير التكاليف
+62913,Gerente de costos,Gestor de custos,Responsable des coûts,مدير التكاليف
+62914,Gerente de divulgación,Gestor de divulgação,Responsable de la sensibilisation,مدير التوعية
+62922,Registrador de existencias grises,Registador de stock cinzento,Enregistreur de stock gris,مسجل المخزون الرمادي
+62926,Director de revisión médica,Diretor de revisão médica,Directeur de la revue médicale,مدير المراجعة الطبية
+62927,Insertador de solapas de talón de madera,Inseridor de abas de salto de madeira,Insérateur de rabat de talon en bois,عامل إدخال غطاء الكعب الخشبي
+62932,Laboratorio de cateterismo,Laboratório de cateterismo,Laboratoire de cathétérisme,مختبر القسطرة
+62933,Torcedor manual,Torcedor manual,Tordeur manuel,عامل الفتل اليدوي
+62934,Torcedor de papel,Torcedor de papel,Tordeur de papier,عامل فتل الورق
+62936,Torcedor de alambre,Torcedor de arame,Tordeur de fil,عامل فتل السلك
+62945,Alimentador de rango de mercerizado,Alimentador de faixa de mercerização,Alimentateur de la ligne de mercerisage,عامل تغذية خط المرسكة
+62946,Alimentador de máquina de tamales,Alimentador de máquina de tamales,Alimentateur de machine à tamales,عامل تغذية آلة التامال
+62947,Miembro del Tribunal de Apelaciones Administrativas,Membro do Tribunal Administrativo de Recursos,Membre du Tribunal administratif d'appel,عضو هيئة الطعون الإدارية
+62948,Miembro del equipo de escalada,Membro da equipa de escalada,Membre de l'équipe d'escalade,عضو فريق تسلق الصخور
+62950,Miembro del comité,Membro da comissão,Membre du comité,عضو اللجنة
+62952,Experto en precisión,Especialista em precisão,Expert en précision,خبير الدقة
+62953,Experto en balística,Especialista em balística,Expert en balistique,خبير الباليستيات
+62954,Educador de parto,Educador de parto,Éducateur à la naissance,مثقف الولادة
+62964,Agricultor de trementina,Agricultor de terebintina,Agriculteur de térébenthine,مزارع التربنتين
+62966,Supervisor del departamento de plateado,Supervisor do departamento de prateamento,Superviseur du département d'argenture,مشرف قسم الفضية
+62968,Enfriador de hornos,Arrefecedor de fornos,Refroidisseur de four,عامل تبريد الأفران
+62969,Enfriador de cerdos,Arrefecedor de porcos,Refroidisseur de porcs,عامل تبريد الخنازير
+62970,Enfriador de carne,Arrefecedor de carne,Refroidisseur de viande,عامل تبريد اللحوم
+62971,Enfriador de moldes,Arrefecedor de moldes,Refroidisseur de moules,عامل تبريد القوالب
+62972,Moldeador de maletas de fibra de vidrio,Moldador de malas de fibra de vidro,Mouleur de valises en fibre de verre,عامل قولبة حقائب الألياف الزجاجية
+62973,Moldeador de hombreras,Moldador de ombreiras,Mouleur d'épaulettes,عامل قولبة الحشوات الكتفية
+62974,Examinador de esquemas de distribución postal,Examinador de esquemas de distribuição postal,Examinateur des plans de distribution du courrier,فاحص مخططات توزيع البريد
+62976,Planificador de surtido,Planeador de sortimento,Planificateur d'assortiment,مخطط التشكيلة
+62977,Planificador C4,Planeador C4,Planificateur C4,مخطط C4
+62979,Trabajador de malta,Trabalhador de maltaria,Ouvrier de malterie,عامل مصنع الشعير المنقوع
+62981,Planificador de menús,Planeador de menus,Planificateur de menus,مخطط القوائم
+62984,Decorador de calcomanías,Decorador de decalques,Décorateur de décalcomanies,مزخرف الملصقات
+62986,Alimentador de máquina automática de clavado,Alimentador de máquina automática de pregagem,Alimentateur de machine automatique de clouage,عامل تغذية آلة التسمير الآلية
+62987,Alimentador de batidora y pulpeadora,Alimentador de batedeira e polpadeira,Alimentateur de batteur et de pulpeur,عامل تغذية الخلاط والمفتت
+62988,Alimentador de máquina de cajas en blanco,Alimentador de máquina de caixas em branco,Alimentateur de machine à flans de boîtes,عامل تغذية آلة الصناديق الفارغة
+62989,Alimentador de máquina de empaquetado de dinamita,Alimentador de máquina de embalagem de dinamite,Alimentateur de machine d'emballage de dynamite,عامل تغذية آلة تعبئة الديناميت
+62990,Cargador de horno de calcinación,Carregador de forno de calcinação,Chargeur de four de calcination,عامل تحميل فرن التكليس
+62999,Cargador de bombas de termita,Carregador de bombas de termite,Chargeur de bombes à thermite,عامل تحميل قنابل الثرميت
+63001,Encargado de llaves de comercio,Responsável de chaves de comércio,Responsable des clés de magasin,أمين مفاتيح المتجر
+63006,Compresor de talones,Compressor de saltos,Compresseur de talons,عامل ضغط الكعب
+63012,Pintor y restaurador de electrodomésticos,Pintor e restaurador de eletrodomésticos,Peintre et restaurateur d'appareils électroménagers,دهّان ومرمم الأجهزة المنزلية
+63014,Gerente de ciencias de la vida,Gestor de ciências da vida,Responsable des sciences du vivant,مدير علوم الحياة
+63017,Eliminador de bateadores,Eliminador de batedores,Éliminateur de batteurs,عامل إخراج الضاربين
+63019,Supervisor de mezcla,Supervisor de mistura,Superviseur de mélange,مشرف الخلط
+63020,Director de atención a largo plazo,Diretor de cuidados de longa duração,Directeur des soins de longue durée,مدير الرعاية طويلة الأمد
+63021,Gerente de atención a largo plazo,Gestor de cuidados de longa duração,Responsable des soins de longue durée,مدير الرعاية طويلة الأمد
+63023,Plegador de trenzas,Dobrador de tranças,Plieur de tresses,عامل طي الضفائر
+63024,Director de buceo,Diretor de mergulho,Directeur de plongée,مشرف الغوص
+63025,Colgador de canaletas,Suspensor de caleiras,Poseur de gouttières,عامل تركيب المزاريب
+63031,Formador en tecnología de asistencia,Formador em tecnologia de apoio,Formateur en technologies d'assistance,مدرب التكنولوجيا المساعدة
+63043,Director de psicología,Diretor de psicologia,Directeur de psychologie,مدير علم النفس
+63046,Inspector de salvamento,Inspetor de salvados,Inspecteur de récupération,مفتش الخردة
+63047,Trabajador de salvamento,Trabalhador de salvados,Manœuvre de récupération,عامل الخردة
+63048,Gerente de inspección,Gestor de inspeção,Responsable d'inspection,مدير التفتيش
+63049,Ingeniero a cargo de operaciones de estudio,Engenheiro responsável por operações de estúdio,Ingénieur responsable des opérations de studio,مهندس عمليات الاستوديو المسؤول
+63050,Supervisor de inspección,Supervisor de inspeção,Superviseur d'inspection,مشرف التفتيش
+63051,Supervisor de salvamento,Supervisor de salvados,Superviseur de récupération,مشرف الخردة
+63054,Cortador de fondo de manga,Cortador de fundo de manga,Coupeur de bas de manche,عامل قص أسفل الكم
+63055,Enfardador de paja,Enfardador de palha,Presseur de paille,عامل تعبئة القش
+63056,Clasificador de heno de equipo de tiro con arco,Classificador de feno de equipamento de tiro com arco,Trieur de foin d'équipement de tir à l'arc,عامل فرز أدوات الرماية بالقوس
+63057,Gerente de empresa,Gestor empresarial,Responsable d'entreprise,مدير المؤسسة
+63058,Gerente de servicio pesado,Gestor de serviço pesado,Responsable service lourd,مدير الخدمة الشاقة
+63061,Clasificador de retales,Classificador de sobras,Trieur de chutes,عامل فرز القصاصات
+63063,Clasificador de mercancía,Classificador de mercadorias,Trieur de marchandises,عامل فرز البضائع
+63064,Director de economía médica,Diretor de economia médica,Directeur d'économie médicale,مدير الاقتصاد الطبي
+63067,Supervisor de economía doméstica,Supervisor de economia doméstica,Superviseur d'économie domestique,مشرف الاقتصاد المنزلي
+63068,Cavador de cebo,Escavador de isca,Déterreur d'appâts,عامل حفر الطعوم
+63075,Equilibrador de inducidos,Equilibrador de induzidos,Équilibreur d'induits,فني موازنة الدوارات
+63076,Equilibrador de hojas,Equilibrador de lâminas,Équilibreur de lames,فني موازنة الشفرات
+63081,Lector de obras teatrales,Leitor de peças de teatro,Lecteur de pièces de théâtre,قارئ المسرحيات
+63084,Equilibrador de básculas,Equilibrador de balanças,Équilibreur de balances,فني موازنة الموازين
+63086,Equilibrador de tubos,Equilibrador de tubos,Équilibreur de tubes,فني موازنة الأنابيب
+63088,Recolector de sisal,Colhedor de sisal,Cueilleur de sisal,عامل جمع السيسال
+63090,Recolector de filtros,Recolhedor de filtros,Récupérateur de filtres,عامل جمع فلاتر السجائر
+63092,Rematador de brocas,Batedor de brocas,Taraudeur de mèches,عامل طرق المثاقب
+63093,Escariador de matrices,Escareador de matrizes,Alésoir de matrices,عامل تنعيم القوالب
+63095,Escariador manual,Escareador manual,Alésoir manuel,عامل التنعيم اليدوي
+63098,Esmaltador de refrigeradores,Esmaltador de frigoríficos,Émailleur de réfrigérateurs,عامل تزجيج الثلاجات
+63100,Monitor de control de calidad del cuerpo,Monitor de controle de qualidade do corpo,Moniteur qualité carrosserie,مراقب جودة الهيكل
+63101,Director de comercialización en línea,Diretor de merchandising online,Directeur du merchandising en ligne,مدير التسويق الإلكتروني
+63102,Director de comercialización minorista,Diretor de merchandising de retalho,Directeur du merchandising de détail,مدير التسويق بالتجزئة
+63103,Jefe de merchandising visual,Chefe de merchandising visual,Responsable du merchandising visuel,رئيس التسويق المرئي
+63104,Reparador externo especial,Reparador externo especial,Réparateur extérieur spécial,فني إصلاح خارجي خاص
+63107,Asociado de acceso,Associado de acesso,Associé à l'accès,مساعد الوصول
+63115,Asociado clínico,Associado clínico,Associé clinique,مساعد سريري
+63117,Corresponsal comercial,Correspondente comercial,Correspondant commercial,مراسل تجاري
+63118,Llamador de tripulación,Chamador de equipas,Appelant d'équipe,منادي الطاقم
+63123,Asociado de información,Associado de informação,Associé à l'information,مساعد المعلومات
+63124,Llamador de correo,Chamador de correio,Appelant du courrier,منادي البريد
+63125,Corresponsal de membresía,Correspondente de adesões,Correspondant d'adhésion,مراسل العضوية
+63126,Encargado de mensajería,Encarregado de mensageiros,Responsable des coursiers,مشرف رسل الطابق
+63132,Asociado de enfermería,Associado de enfermagem,Associé en soins infirmiers,مساعد التمريض
+63133,Corresponsal de oficina,Correspondente de escritório,Correspondant de bureau,مراسل المكتب
+63134,Llamador de pedidos,Chamador de encomendas,Appelant de commandes,منادي الطلبات
+63135,Asociado de relaciones,Associado de relações,Associé relations,مساعد العلاقات
+63136,Asociado de investigación,Associado de investigação,Associé de recherche,مساعد البحث
+63139,Corresponsal de ventas,Correspondente de vendas,Correspondant commercial,مراسل المبيعات
+63140,Corresponsal de servicio,Correspondente de serviço,Correspondant service,مراسل الخدمة
+63141,Descabezador de camarón,Descabeçador de camarão,Décapiteur de crevettes,عامل تقطيع رؤوس الروبيان
+63143,Encargado de planta de máquinas tragamonedas,Encarregado de piso de slots,Responsable de salle de machines à sous,مشرف أرضية آلات القمار
+63144,Encargado de piso supervisor,Encarregado de piso supervisor,Responsable de plateau superviseur,مشرف أرضية إشرافي
+63145,Asociado técnico,Associado técnico,Associé technique,مساعد فني
+63146,Llamador de trenes,Chamador de comboios,Appelant de trains,منادي القطارات
+63147,Llamador de pesos,Chamador de pesos,Appelant de poids,منادي الأوزان
+63148,Llamador de patio,Chamador de pátio,Appelant de cour,منادي الساحة
+63150,Persona de desprendimiento,Pessoa de desprendimento,Opérateur de détachement,عامل الفصل
+63152,Demostrador de fabricante de cristalería,Demonstrador de fabricante de vidraria,Démonstrateur fabricant de verrerie,مُوضح صانع الزجاجيات
+63157,Supervisor de granja de pavos,Supervisor de granja de perus,Superviseur d'élevage de dindes,مشرف مزرعة الديوك الرومية
+63159,Colocador de fianzas,Anexador de fianças,Attacheur de bail,عامل تركيب الدعامات
+63160,Distribuidor de nitroglicerina,Distribuidor de nitroglicerina,Distributeur de nitroglycérine,موزع النيتروغليسرين
+63161,Investigador cualitativo,Investigador qualitativo,Chercheur qualitatif,باحث نوعي
+63162,Colocador de topes,Colocador de batentes,Poseur de butées,عامل تركيب المصدات
+63167,Empaquetador y atornillador de clips,Empacotador e apertador de clipes,Boulonneur et emballeur de clips,عامل تثبيت وتغليف المشابك
+63168,Cargador de desvulcanizador,Carregador de desvulcanizador,Chargeur de dévulcanisateur,عامل تحميل جهاز إزالة الفلكنة
+63169,Línea de clasificación,Linha de classificação,Ligne de tri,خط الفرز
+63170,Grapadora de cintas,Grampeador de fitas,Agrafeur de sangles,عامل تثبيت الأشرطة
+63173,Piloto sumergible,Piloto submersível,Pilote de submersible,طيّار الغواصات
+63178,Ajustador de máquina de cuadrícula,Ajustador de máquina de xadrez,Régleur de machine à quadriller,فني ضبط آلة التخطيط المربع
+63179,Ajustador de conmutador de barra transversal,Ajustador de comutador de barra transversal,Régleur de commutateur à barre transversale,فني ضبط مفتاح العارضة
+63180,Ajustador de contactos eléctricos,Ajustador de contactos elétricos,Régleur de contacts électriques,فني ضبط التلامسات الكهربائية
+63181,Ajustador de máquina de foliado,Ajustador de máquina de folheação,Régleur de machine à feuilleter,فني ضبط آلة التغليف بالرقائق
+63184,Montador de mesas de papelería,Montador de mesas de papelaria,Monteur de tables de papeterie,عامل تجميع طاولات القرطاسية
+63185,Montador de barricas patentadas,Montador de pipas patenteadas,Monteur de barriques brevetées,عامل تجميع البراميل المسجلة
+63186,Montador de vajilla de plata,Montador de baixelas de prata,Monteur d'orfèvrerie en argent,عامل تجميع أواني الفضة
+63187,Montador de mangos de guadaña,Montador de cabos de gadanha,Monteur de manches de faux,عامل تجميع مقابض المنجل
+63190,Montador de varillas de cortina,Montador de varões de cortina,Monteur de tringles de rideaux,عامل تجميع قضبان الستائر
+63191,Montador de corredera de trombón,Montador de corrediça de trombone,Monteur de coulisse de trombone,عامل تجميع منزلق البوق
+63196,Montador de ataúdes de metal,Montador de caixões metálicos,Monteur de cercueils métalliques,عامل تجميع التوابيت المعدنية
+63199,Mando y control,Comando e controlo,Commandement et contrôle,القيادة والسيطرة
+63206,Tallador de retoques,Entalhador de retoques,Sculpteur de retouches,نحات اللمسات النهائية
+63208,Planchador de correas de vamp,Passador de tiras de gáspea,Repasseur de sangles de empeigne,عامل كي أشرطة المقدمة
+63209,Gerente académico,Gestor académico,Responsable académique,مدير أكاديمي
+63210,Programador de transportador,Planeador de transportador,Planificateur de convoyeur,مجدول الناقل
+63212,Supervisor de auxiliares de suscripción,Supervisor de auxiliares de subscrição,Superviseur des employés de souscription,مشرف كتبة الاكتتاب
+63214,Extractor de material de siembra,Removedor de material de plantação,Extracteur de matériel de plantation,عامل إزالة مواد الزراعة
+63215,Director de rehabilitación pediátrica,Diretor de reabilitação pediátrica,Directeur de la rééducation pédiatrique,مدير إعادة التأهيل للأطفال
+63216,Procesador de recuperación de tubos de rayos catódicos,Processador de recuperação de tubos de raios catódicos,Opérateur de récupération de tubes cathodiques,عامل استرجاع أنابيب الأشعة المهبطية
+63217,Recubridor de papel carbón,Revestidor de papel carbono,Enducteur de papier carbone,عامل طلاء الورق الكربوني
+63218,Director de banca de inversión,Diretor de banca de investimento,Directeur de la banque d'investissement,مدير الخدمات المصرفية الاستثمارية
+63219,Gerente de banca de inversión,Gestor de banca de investimento,Responsable de la banque d'investissement,مدير الخدمات المصرفية الاستثمارية
+63221,Gerente de perforación,Gestor de perfuração,Responsable de forage,مدير الحفر
+63223,Supervisor de perforación de núcleos,Supervisor de perfuração de núcleos,Superviseur de forage de carottes,مشرف الحفر الأساسي
+63225,Procesador de grabado químico,Processador de gravação química,Opérateur de gravure chimique,عامل النقش الكيميائي
+63226,Enrollador de jalea de coco,Enrolador de geleia de coco,Roulier de gelée de coco,عامل لف هلام جوز الهند
+63227,Procesador de grabado dinámico,Processador de gravação dinâmica,Opérateur de gravure dynamique,عامل النقش الديناميكي
+63229,Procesador de listas de correo,Processador de listas de correio,Opérateur de listes postales,معالج قوائم البريد
+63234,Director de terapia de abuso infantil,Diretor de terapia de abuso infantil,Directeur de thérapie pour maltraitance infantile,مدير علاج إساءة معاملة الأطفال
+63239,Transportista de trigo,Transportador de trigo,Expéditeur de blé,ناقل القمح
+63240,Decorador de calles y edificios,Decorador de ruas e edifícios,Décorateur de rues et bâtiments,مزخرف الشوارع والمباني
+63247,Barredor de tabaco,Varredor de tabaco,Balayeur de tabac,عامل كنس التبغ
+63248,Barredor de vías,Varredor de via,Balayeur de voies,عامل كنس السكك
+63250,Supervisor de sala de composición,Supervisor de sala de composição,Superviseur de la salle de composition,مشرف غرفة التنضيد
+63251,Coordinador comunitario de secundaria,Coordenador comunitário do ensino secundário,Coordinateur communautaire pour le lycée,منسق المجتمع للمدرسة الثانوية
+63253,Conserje de portal de pacientes,Concierge do portal do paciente,Concierge du portail patient,موظف استقبال البوابة الإلكترونية للمرضى
+63254,Soplador de vejiga,Soprador de bexiga,Souffleur de vessie,عامل نفخ المثانة
+63255,Soplador de conductos,Soprador de condutas,Souffleur de conduits,عامل نفخ المداخن
+63257,Distribuidor de publicaciones,Distribuidor de publicações,Distributeur de publications,موزع المطبوعات
+63259,Enmarcador de bolsos,Emoldurador de malas de mão,Encadreur de sacs à main,عامل تأطير الحقائب
+63262,Inspector de publicaciones,Inspetor de publicações,Inspecteur des publications,مفتش المطبوعات
+63263,Separador de despojos,Separador de vísceras,Séparateur d'abats,عامل فصل الأحشاء
+63264,Enmarcador de monederos,Emoldurador de carteiras,Encadreur de porte-monnaie,عامل تأطير المحافظ
+63265,Supervisor de publicaciones,Supervisor de publicações,Superviseur des publications,مشرف المطبوعات
+63266,Bastero de chalecos,Alinhavador de coletes,Bâtisseur de gilets,عامل تقطيع الصدريات
+63270,Director de ama de llaves,Diretor de governança,Directeur de l'intendance,مدير التدبير المنزلي
+63272,Estudiante de posgrado,Estudante de pós-graduação,Étudiant diplômé,طالب دراسات عليا
+63278,Director de laboratorio geofísico,Diretor de laboratório geofísico,Directeur du laboratoire géophysique,مدير المختبر الجيوفيزيائي
+63283,Transportador de zurcidos,Transportador de remendos,Porteur de reprises,ناقل الترقيع
+63286,Superintendente de laboratorio geofísico,Superintendente de laboratório geofísico,Surintendant du laboratoire géophysique,مشرف المختبر الجيوفيزيائي
+63290,Marcador de filas de ojetes,Marcador de fileiras de ilhós,Marqueur de rangées d'œillets,عامل تعليم صفوف العرى
+63291,Marcador de tejidos crudos,Marcador de tecidos crus,Marqueur de tissus écrus,عامل تعليم الأقمشة الخام
+63292,Mecánico automático de bolos,Mecânico automático de pinos,Mécanicien automatique de quilles,ميكانيكي الآلة الآلية لرمي الكرات
+63294,Supervisor de montaje y empaque,Supervisor de montagem e embalagem,Superviseur de montage et d'emballage,مشرف التجميع والتعبئة
+63298,Triturador de cráneos,Moedor de crânios,Broyeur de crânes,عامل طحن الجماجم
+63299,Triturador de desechos,Moedor de resíduos,Broyeur de déchets,عامل طحن الفضلات
+63302,Torneador y contador de pulido,Torneador e contador de polimento,Tourneur et compteur de polissage,عامل تدوير وعد الصقل
+63304,Limador de rebabas,Limador de rebarbas,Ébavureur à lime,عامل تشطيب البراية
+63305,Afilador de discos,Afiador de discos,Affûteur de disques,عامل شحذ الأقراص
+63306,Operario de grava,Operador de cascalho,Opérateur de gravier,عامل الحصى
+63307,Operario de escoria,Operador de escória,Opérateur de scories,عامل الخبث
+63309,Engrasador de tolva,Lubrificador de tremonha,Graisseur de trémie,عامل تشحيم القمع
+63311,Director de trabajo de scouts,Diretor de atividades de escuteiros,Directeur du scoutisme,مدير أنشطة الكشافة
+63313,Sumergidor de revestimiento de hornos,Mergulhador de revestimento de forno,Plongeur de revêtement de four,عامل غمس بطانة الأفران
+63315,Líder de disponibilidad de activos,Líder de disponibilidade de ativos,Responsable de disponibilité des actifs,قائد توافر الأصول
+63317,Artesano de fabricación y diseño,Artesão de fabrico e layout,Artisan fabrication et traçage,حرفي التصنيع والتخطيط
+63318,Operador cargador/líder de tierra,Operador de carregador/líder de solo,Opérateur chargeur/chef de sol,مشغل التحميل/قائد الأرض
+63319,Líder nacional de aguas pluviales,Líder nacional de águas pluviais,Responsable national des eaux pluviales,القائد الوطني لمياه الأمطار
+63321,Artesano de operaciones de sistemas espaciales,Artesão de operações de sistemas espaciais,Artisan des opérations de systèmes spatiaux,حرفي عمليات الأنظمة الفضائية
+63322,Artista freelance,Artista freelancer,Artiste indépendant,فنان حر
+63323,Experto en códigos secretos,Especialista em códigos secretos,Expert en codes secrets,خبير الشيفرات السرية
+63327,Carne en remojo,Carne de remolho,Viande trempée,لحم منقوع
+63328,Supervisor del departamento de sacos de dormir,Supervisor do departamento de sacos-cama,Superviseur du département des sacs de couchage,مشرف قسم أكياس النوم
+63329,Pintor de horno,Pintor de forno,Peintre de four,دهّان الأفران
+63330,Probador de horno,Testador de forno,Testeur de four,فاحص الأفران
+63331,Gerente de radiación,Gestor de radiação,Responsable des radiations,مدير الإشعاع
+63336,Operador automático de máquina de metalizado,Operador automático de máquina de metalização,Opérateur automatique de machine de métallisation,مشغل آلة الطلاء المعدني الآلية
+63339,Alimentador automático de máquina de roscado,Alimentador automático de máquina de roscagem,Alimentateur automatique de machine à filetage,عامل تغذية آلة التسنين الآلية
+63340,Director de calidad de proveedores,Diretor de qualidade de fornecedores,Directeur qualité fournisseurs,مدير جودة الموردين
+63346,Mecánico de frenos,Mecânico de travões,Mécanicien de freins,ميكانيكي الفرامل
+63349,Director de terrenos,Diretor de terrenos,Directeur foncier,مدير الأراضي
+63351,Inspector de tren de relojería,Inspetor de trem de relógio,Inspecteur de train d'horlogerie,مفتش ترس الساعات
+63353,Engrasador de pala de desbroce,Lubrificador de pá de decapagem,Graisseur de pelle de découverture,عامل تشحيم مجرفة إزالة الطبقة السطحية
+63354,Cementador de pozos petroleros,Cimentador de poços de petróleo,Cimenteur de puits de pétrole,عامل تسييل آبار النفط
+63356,VP de productos publicitarios y planificación,VP de produtos publicitários e planeamento,VP produits publicitaires et planification,نائب الرئيس لمنتجات الإعلان والتخطيط
+63357,Descargador de máquina de barrena,Descarregador de máquina de broca helicoidal,Déchargeur de machine à vis sans fin,عامل تفريغ آلة اللولب
+63359,Apilador de lavado blanco,Empilhador de lavagem branca,Empileur de blanchiment,عامل تكديس الغسيل الأبيض
+63364,Director de golf,Diretor de golfe,Directeur de golf,مدير الغولف
+63365,Costurero automático de pliegues,Costureiro automático de dobras,Assembleur automatique de plis,عامل خياطة الطيات الآلية
+63366,Cargador de cáusticos,Carregador de cáusticos,Chargeur de caustiques,عامل تحميل المواد الكاوية
+63367,Cargador de fructosa,Carregador de frutose,Chargeur de fructose,عامل تحميل الفركتوز
+63368,Inspector de preparación y trazado,Inspetor de preparação e traçado,Inspecteur de mise en train et de traçage,مفتش الإعداد والتخطيط
+63374,Director corporativo de evaluación de talento,Diretor corporativo de avaliação de talentos,Directeur corporate de l'évaluation des talents,مدير مؤسسي لتقييم المواهب
+63375,Director de patología del habla,Diretor de patologia da fala,Directeur de l'orthophonie,مدير أمراض النطق
+63376,Evaluación de seguridad de sistemas electrónicos,Avaliação de segurança de sistemas eletrónicos,Évaluation de la sécurité des systèmes électroniques,تقييم أمان الأنظمة الإلكترونية
+63378,Segundo VP de evaluación de RR. HH.,Segundo VP de avaliação de RH,Second VP évaluation RH,نائب الرئيس الثاني لتقييم الموارد البشرية
+63380,Mensajero de solicitudes de huéspedes,Executor de pedidos de hóspedes,Coursier des demandes de clients,عامل تلبية طلبات الضيوف
+63384,Verificación de lanzamiento,Verificação de lançamento,Vérification de lancement,فحص الإطلاق
+63385,Gerente de informes,Gestor de relatórios,Responsable du reporting,مدير التقارير
+63386,Gerente estatal,Gestor estadual,Responsable régional,مدير الولاية
+63387,Supervisor de carga,Supervisor de carregamento,Superviseur du chargement,مشرف التحميل
+63388,Recortador de retoques,Rebordeador de retoques,Ébarbeur de retouches,عامل حواف اللمسات
+63390,Director de adquisición de clientes,Diretor de aquisição de clientes,Directeur de l'acquisition clients,مدير اكتساب العملاء
+63391,Director de adquisición de terrenos,Diretor de aquisição de terrenos,Directeur de l'acquisition foncière,مدير اقتناء الأراضي
+63393,Ajustador de airdox,Ajustador de airdox,Monteur d'airdox,فني تركيب الأيردوكس
+63397,Ajustador de tendido de tuberías,Ajustador de assentamento de tubagens,Monteur de pose de canalisations,فني تركيب خطوط الأنابيب
+63400,Ajustador de toberas,Ajustador de ventaneiras,Monteur de tuyère,فني تركيب الفوهات
+63402,Sellador de ampollas,Selador de ampolas,Scelleur d'ampoules,عامل ختم الأمبولات
+63403,Rompedor de cop,Quebrador de cop,Briseur de cop,عامل كسر الكوب
+63404,Insertador de cuñas,Inseridor de cunhas,Inséreur de gore,عامل إدخال الإسفين
+63405,Presidente de división de lengua y literatura,Presidente da divisão de língua e literatura,Président de la division langue et littérature,رئيس قسم اللغة والأدب
+63406,Aceitador de refrigeración,Lubrificador de refrigeração,Huileur de réfrigération,عامل تزييت التبريد
+63407,Hielero de vagón refrigerado,Gelador de vagão frigorífico,Glaceur de wagon frigorifique,عامل تبريد عربات التبريد
+63409,Investigador de alquileres y vivienda,Investigador de rendas e habitação,Enquêteur loyers et logement,محقق الإيجارات والإسكان
+63410,Trabajador de cocina de investigación,Trabalhador de cozinha de investigação,Employé de cuisine de recherche,عامل مطبخ الأبحاث
+63412,Estimador de madera,Estimador de madeira,Estimateur de bois,مقدّر الأخشاب
+63414,Gerente de impuesto sobre la renta,Gestor de imposto sobre o rendimento,Responsable de l'impôt sur le revenu,مدير ضريبة الدخل
+63416,Grabador de bloques,Gravador de blocos,Graveur de blocs,حفار الكتل
+63419,Máquina desbastadora y reductora de plumas,Máquina de desbaste e redução de penas,Machine à éclaircir et réduire les plumes,آلة تخفيف وتقليل الريش
+63425,Trabajador agrícola de cultivos de campo,Trabalhador agrícola de culturas de campo,Ouvrier agricole de grandes cultures,عامل زراعة المحاصيل الحقلية
+63426,Supervisor de limpieza y almacenamiento de moldes,Supervisor de limpeza e armazenamento de moldes,Superviseur du nettoyage et stockage des moules,مشرف تنظيف القوالب وتخزينها
+63427,Cinturón negro maestro,Mestre cintura negra,Maître ceinture noire,حزام أسود محترف
+63428,Abridor de fardos,Abridor de fardos,Ouvreur de balles,عامل فك الأعدال
+63429,Miembro del equipo de boxes de Nascar,Membro da equipa de boxes da Nascar,Membre de l'équipe des stands Nascar,عضو طاقم صيانة سيارات ناسكار
+63430,Operario de retroexcavadora,Operador de retroescavadora,Opérateur de pelle rétrocaveuse,عامل الحفار الخلفي
+63434,Clasificador de zanahorias,Classificador de cenouras,Trieur de carottes,عامل فرز الجزر
+63436,Comisionado de conservación de recursos,Comissário de conservação de recursos,Commissaire à la conservation des ressources,مفوض حفظ الموارد
+63437,Modelista de yeso y plástico,Modelista de gesso e plástico,Modéliste plâtre et plastique,مُصمم نماذج من الجص والبلاستيك
+63439,Colocador de placas protectoras,Colocador de placas protetoras,Poseur de plaques de protection,عامل تركيب ألواح الحماية
+63440,Colocador de placas de cierre,Colocador de placas de fecho,Poseur de plaques de gâche,عامل تركيب لوحة المزلاج
+63445,Pintor de latas,Pintor de latas,Rayeur de boîtes,عامل تخطيط العلب
+63450,Dispensador de espuma,Dispensador de espuma,Distributeur de mousse,عامل توزيع الرغوة
+63451,Dispensador de fuente,Dispensador de fonte,Distributeur de fontaine,عامل توزيع المياه
+63452,Dispensador de gasolina,Dispensador de gasolina,Pompiste,عامل محطة الوقود
+63453,Comprador de comestibles,Comprador de mercearia,Acheteur d'épicerie,متسوق البقالة
+63454,Pintor de pistolas,Pintor de pistolas,Rayeur d'armes,عامل تخطيط البنادق
+63455,Pintor manual de rayas,Pintor manual de riscas,Rayeur manuel,عامل التخطيط اليدوي
+63456,Promotor de salud,Promotor de saúde,Promoteur de santé,مروّج الصحة
+63458,Pintor de rayas a máquina,Pintor de riscas a máquina,Rayeur mécanique,عامل تخطيط بالآلة
+63459,Gerente de aduanas,Gestor de alfândega,Responsable des douanes,مدير الجمارك
+63460,Pintor de rayas mecánico,Pintor de riscas mecânico,Rayeur mécanique,عامل التخطيط الميكانيكي
+63462,Comprador de mercancías,Comprador de mercadorias,Acheteur de marchandises,متسوق البضائع
+63465,Dispensador de aceite,Dispensador de óleo,Distributeur d'huile,عامل توزيع الزيت
+63472,Escariador de plumas,Escareador de penas,Alésoir à plume,عامل تنعيم الريش
+63475,Cuadrilla de sección,Equipa de secção,Équipe de section,فريق القسم
+63477,Dispensador de refrescos,Dispensador de refrigerantes,Distributeur de soda,عامل توزيع المشروبات الغازية
+63482,Comprador de tienda,Comprador de loja,Acheteur de magasin,متسوق المتجر
+63487,Lavador de pasta marrón,Lavador de pasta castanha,Laveur de pâte brune,عامل غسل اللب البني
+63488,Lavador de trapos,Lavador de panos,Laveur de chiffons,عامل غسل الأقمشة
+63490,Recibidor de clientes,Recepcionista de clientes,Accueillant clientèle,مستقبل العملاء
+63491,Recibidor de funerales,Recepcionista de funerais,Accueillant funéraire,مستقبل الجنازات
+63492,Recibidor oficial,Recepcionista oficial,Accueillant officiel,مستقبل رسمي
+63493,Capataz de muro vaciado,Capataz de parede vazada,Contremaître de mur coulé,مشرف الجدار المصبوب
+63494,Recibidor de restaurante,Recepcionista de restaurante,Accueillant de restaurant,مستقبل المطعم
+63495,Recibidor minorista,Recepcionista de retalho,Accueillant de détail,مستقبل بيع التجزئة
+63496,Recibidor de servicio,Recepcionista de serviço,Accueillant de service,مستقبل الخدمة
+63500,Colocador de acero de refuerzo,Colocador de aço de armadura,Poseur d'armatures en acier,عامل تركيب حديد التسليح
+63501,Operador de unidad de servicio de pozos petroleros,Operador de unidade de serviço de poços de petróleo,Opérateur d'unité de service de puits pétroliers,مشغل وحدة خدمة آبار النفط
+63505,Fogonero de locomotora diésel,Fogueiro de locomotiva diesel,Chauffeur de locomotive diesel,عامل وقود قاطرة الديزل
+63506,Fogonero de locomotora eléctrica,Fogueiro de locomotiva elétrica,Chauffeur de locomotive électrique,عامل وقود القاطرة الكهربائية
+63508,Prensador de topes,Prensador de topos,Presseur de butée,عامل ضغط الأدوات
+63509,Ajustador de máquina de pulverizado de culata,Ajustador de máquina de pulverização de coronha,Régleur de machine de pulvérisation de crosse,فني ضبط آلة رش أعقاب البنادق
+63510,Ajustador de prensa de tapón,Ajustador de prensa de tampão,Régleur de presse à flan,فني ضبط مكبس القص
+63511,Modelista de baldosas acústicas,Modelista de telhas acústicas,Modéliste de dalles acoustiques,مُصمم نماذج البلاط الصوتي
+63512,Ingeniero jefe de yacimientos,Engenheiro-chefe de reservatórios,Ingénieur en chef de gisement,كبير مهندسي المكامن
+63513,Observador de prospección sísmica,Observador de prospeção sísmica,Observateur de prospection sismique,مراقب المسح الزلزالي
+63514,Supervisor de procesamiento de textos,Supervisor de processamento de texto,Superviseur du traitement de texte,مشرف معالجة النصوص
+63515,Ajustador de destellos,Ajustador de flashes,Régleur de flash,فني ضبط الوميض
+63516,Ajustador de taqué,Ajustador de tuchos,Régleur de poussoir,فني ضبط الصمام
+63517,Almacenamiento de pluma,Armazenamento de lança,Stockage de flèche,تخزين الذراع
+63518,Enfriador de retorta,Arrefecedor de retorta,Refroidisseur de cornue,عامل تبريد المحرقة
+63519,Inspector de control de contaminación del agua,Inspetor de controlo da poluição da água,Inspecteur de lutte contre la pollution de l'eau,مفتش مكافحة تلوث المياه
+63521,Macho de tubería,Macho de tubo,Noyauteur de tuyau,عامل القوالب الرملية للأنابيب
+63522,Fabricante de productos de mármol cultivado,Fabricante de produtos de mármore cultivado,Fabricant de produits en marbre reconstitué,صانع منتجات الرخام المصنّع
+63523,Fabricante de pantallas de lámpara de alambre,Fabricante de abajures de arame,Fabricant d'abat-jour à armature en fil,صانع أغطية المصابيح بالأسلاك
+63525,Director de automatización,Diretor de automação,Directeur de l'automatisation,مدير الأتمتة
+63527,Cizallador de palanquilla,Tesoura de palanquilha,Cisailleur de billettes,عامل قص الكتل
+63528,Cizallador de tela,Tesoura de tecido,Cisailleur de tissu,عامل قص الأقمشة
+63529,Cizallador de soplete,Tesoura de maçarico,Cisailleur au chalumeau,عامل القص بالشعلة
+63531,Retirador de casco y cubierta,Removedor de casco e convés,Dépose de coque et pont,عامل إزالة الهيكل والسطح
+63532,Acristalador de muebles metálicos,Envidraçador de móveis metálicos,Vitrier de meubles métalliques,عامل تزجيج الأثاث المعدني
+63533,Calentador de remaches a gas,Aquecedor de rebites a gás,Chauffeur de rivets au gaz,عامل تسخين المسامير بالغاز
+63534,Supervisor de fabricación de espiral de volante,Supervisor de fabrico de espiral de volante,Superviseur de fabrication des spiraux,مشرف تصنيع الشعرة
+63535,Gerente educativo,Gestor educativo,Responsable pédagogique,مدير تعليمي
+63536,Gerente en línea,Gestor online,Responsable en ligne,مدير الإنترنت
+63537,Gerente de transferencias,Gestor de transferências,Responsable des transferts,مدير التحويلات
+63540,Extractor de tapones,Removedor de bujões,Extracteur de bondes,عامل إزالة السدادات
+63542,Porteador de puerto deportivo,Carregador de marina,Porteur de port de plaisance,حامل الأمتعة بالميناء
+63546,Procesador de pulido,Processador de brunimento,Opérateur de brunissage,عامل الصقل
+63547,Procesador de tiras de acero,Processador de tiras de aço,Opérateur de bande d'acier,عامل معالجة شريط الصفائح
+63548,Cocedor de cangrejos,Cozedor de caranguejos,Cuiseur de crabes,عامل طهي السرطان
+63550,Estirador de toallas,Estendedor de toalhas,Étireur de serviettes,عامل مد المناشف
+63551,Jefe de inglés,Chefe de inglês,Chef d'anglais,رئيس قسم الإنجليزية
+63553,Profesional de venta de marketing digital,Profissional de vendas de marketing digital,Commercial en marketing digital,محترف مبيعات التسويق الرقمي
+63555,Director de investigación institucional,Diretor de investigação institucional,Directeur de la recherche institutionnelle,مدير البحوث المؤسسية
+63556,Pegador manual o a máquina,Colador manual ou a máquina,Colleur manuel ou machine,عامل اللصق اليدوي أو الآلي
+63557,Director avanzado,Diretor avançado,Directeur avancé,مدير متقدم
+63558,Gerente avanzado,Gestor avançado,Responsable avancé,مدير متقدم
+63560,Supervisor de muelle,Supervisor de cais,Superviseur de quai,مشرف الرصيف
+63561,Enfriador de rosquillas,Arrefecedor de rosquinhas,Refroidisseur de beignets,عامل تبريد الكعك
+63562,Enfardador de heno,Enfardador de feno,Presseur de foin,عامل تعبئة التبن
+63564,Acabador y rellenador de envolturas,Acabador e recheador de invólucros,Finisseur et farceur d'enveloppes,عامل تشطيب وحشو الأغلفة
+63566,Empujador de frascos,Empurrador de frascos,Pousseur de flacons,عامل دفع القوارير
+63567,Cargador de malta,Carregador de malte,Chargeur de maltage,عامل تحميل المالت
+63571,Encargado de almacén de ingeniería,Encarregado de armazém de engenharia,Magasinier ingénierie,أمين مخزن الهندسة
+63573,Comisionado de EE. UU.,Comissário dos EUA,Commissaire américain,مفوض أمريكي
+63575,Descortezador de corteza,Descascador de casca,Écorceur,عامل قشر اللحاء
+63577,Trampero de aves,Armador de aves,Piégeur d'oiseaux,صياد الطيور
+63579,Descamador de estanque,Descascador de lagoa,Écumeur d'étang,عامل تنظيف البرك
+63583,Contratista de excavación,Empreiteiro de escavação,Entrepreneur en terrassement,مقاول حفر
+63584,Fabricante de peltre,Fabricante de peltre,Fabricant d'étain,صانع القصدير
+63585,Contratista de yesería,Empreiteiro de estucagem,Entrepreneur en plâtrerie,مقاول الجص
+63587,Contratista de transporte por camión,Empreiteiro de transporte rodoviário,Entrepreneur de transport routier,مقاول النقل بالشاحنات
+63589,Cambiador de globos,Trocador de globos,Changeur de globes,عامل تغيير الكرات
+63590,Cajonero de horno redondo,Gavetista de forno redondo,Tireur de four rond,عامل سحب الفرن الدائري
+63592,Segundo embadurnador de cara,Segundo barreador de face,Second barbouilleur de parement,عامل الطلاء الثاني للوجه
+63594,Distribuidor de tasa dual,Distribuidor de taxa dupla,Distributeur à double taux,موزع بمعدل مزدوج
+63600,Profesional de entrega PSS,Profissional de entrega PSS,Professionnel de livraison PSS,محترف التوصيل PSS
+63607,Operador de bastidor de mecha,Operador de bastidor de mecha,Changeur de bobine de mèche,عامل تغيير بكرات الفتيل
+63608,Extractor de ácido,Extrator de ácido,Extracteur d'acide,عامل استخراج الحمض
+63609,Convertidor de algodón,Conversor de algodão,Convertisseur de coton,محوّل القطن
+63610,Cortador descendente,Cortador descendente,Coupeur descendant,عامل القص السفلي
+63611,Convertidor de horno,Conversor de forno,Convertisseur de four,عامل تحويل الأفران
+63612,Extractor de aceite,Extrator de óleo,Extracteur d'huile,عامل استخراج الزيت
+63613,Operario de caucho,Operador de borracha,Opérateur de caoutchouc,عامل المطاط
+63614,Operario de tornillo,Operador de parafuso,Opérateur de vis,عامل البراغي
+63615,Operario de recogida,Operador de recolha,Preneur,عامل الاستلام
+63616,Convertidor textil,Conversor têxtil,Convertisseur textile,عامل تحويل النسيج
+63621,Modelista de muestras,Modelista de amostras,Modéliste d'échantillons,مُصمم نماذج العينات
+63622,Técnico de intercomunicación,Técnico de intercomunicação,Technicien d'intercom,فني الاتصال الداخلي
+63626,Transportista de productos agrícolas,Expedidor de produtos agrícolas,Expéditeur de produits agricoles,مرسل المنتجات الزراعية
+63637,Artista de siluetas,Artista de silhuetas,Artiste de silhouettes,فنان الظلال
+63639,Generalista de cadena de suministro,Generalista de cadeia de abastecimento,Généraliste de la chaîne d'approvisionnement,اختصاصي عام في سلسلة التوريد
+63645,Supervisor de servicio dietético kosher,Supervisor de serviço dietético kosher,Superviseur du service diététique casher,مشرف الخدمة الغذائية الكوشير
+63646,Supervisor de servicio de mensajes públicos,Supervisor de serviço de mensagens públicas,Superviseur du service des messages publics,مشرف خدمة الرسائل العامة
+63647,Supervisor de servicio de ablandadores de agua,Supervisor de serviço de amaciadores de água,Superviseur du service d'adoucisseurs d'eau,مشرف خدمة مرطبات المياه
+63649,Director regional de admisiones,Diretor regional de admissões,Directeur régional des admissions,مدير القبول الإقليمي
+63652,Editor y cofundador,Editor e cofundador,Éditeur et cofondateur,محرر ومؤسس مشارك
+63653,Pesador de aleaciones,Pesador de ligas,Peseur d'alliages,عامل وزن السبائك
+63658,Pesador de tara,Pesador de tara,Peseur de tare,عامل وزن الغلاف
+63662,Gerente ferroviario,Gestor ferroviário,Responsable ferroviaire,مدير السكك الحديدية
+63665,Supervisor de granja de freidoras,Supervisor de granja de fritadeiras,Superviseur de ferme de friteuses,مشرف مزرعة القلاية
+63666,Aplicador de plateado,Aplicador de prateado,Applicateur d'argenture,عامل تطبيق الفضة
+63667,Sistemas de misión aerotransportada,Sistemas de missão aerotransportada,Systèmes de mission aéroportée,أنظمة المهام المحمولة جواً
+63668,Planchador de sección de cuarto,Passador de secção de quarto,Repasseur de quart de section,عامل كي ربع القطعة
+63669,Cepillador de barriles,Aplainador de barris,Raboteur de tonneaux,عامل تسوية البراميل
+63670,Director de cardiología,Diretor de cardiologia,Directeur de cardiologie,مدير أمراض القلب
+63671,Director de transición,Diretor de transição,Directeur de transition,مدير الانتقال
+63673,Gerente de cardiología,Gestor de cardiologia,Responsable de cardiologie,مدير أمراض القلب
+63674,Gerente de transición,Gestor de transição,Responsable de transition,مدير الانتقال
+63685,Criador de ratas,Criador de ratos,Éleveur de rats,مربي الفئران
+63686,Emparejador de sierra de cinta,Emparelhador de serra de fita,Assembleur de scie à ruban,عامل مطابقة المناشير
+63687,Pulidor de grapas,Polidor de grampos,Polisseur d'agrafes,عامل تلميع المشابك
+63689,Excavador de zanjas,Escavador de valas,Creuseur de tranchées,حفار الخنادق
+63691,Criador de gusanos,Criador de vermes,Éleveur de vers,مربي الديدان
+63693,Inspector de latas metálicas,Inspetor de latas metálicas,Inspecteur de boîtes métalliques,مفتش العلب المعدنية
+63695,Gerente técnico de desarrollo,Gestor técnico de desenvolvimento,Responsable technique développement,مدير تقني للتطوير
+63697,Vigilante de casino,Vigilante de casino,Surveillant de salle de casino,مراقب أرضية الكازينو
+63698,Navegador de salud comunitaria,Navegador de saúde comunitária,Navigateur en santé communautaire,منسق الصحة المجتمعية
+63699,Navegador de programas de discapacidad,Navegador de programas de deficiência,Navigateur de programmes handicap,منسق برامج الإعاقة
+63700,Especialistas ambulatorios Epic,Especialistas ambulatórios Epic,Spécialistes ambulatoires Epic,أخصائيو العيادات الخارجية Epic
+63703,Navegador de pacientes oncológicos,Navegador de pacientes oncológicos,Navigateur patient en oncologie,منسق مرضى الأورام
+63704,Vigilante de línea de tuberías,Vigilante de linha de tubagem,Surveillant de ligne de canalisation,مراقب خط الأنابيب
+63709,Bombeador de sebo,Bombeador de sebo,Pompiste de suif,عامل ضخ الشحم
+63710,Moldeador de electrotipos,Moldador de electrotipos,Mouleur d'électrotype,عامل قولبة الكليشيهات
+63711,Mezclador de refinador de cinco cilindros,Misturador de refinador de cinco cilindros,Mélangeur de raffineur à cinq cylindres,عامل خلط المكرر ذي الخمسة أسطوانات
+63712,Alimentador de prensa de madera contrachapada,Descarregador de prensa de contraplacado,Débiteur de presse à contreplaqué,عامل تفريغ مكبس الخشب الرقائقي
+63713,Capa central de línea de contrachapado,Camada central da linha de contraplacado,Couche centrale de ligne de contreplaqué,الطبقة الوسطى لخط الخشب الرقائقي
+63714,Mezclador de lubricante de balas,Misturador de lubrificante de balas,Mélangeur de lubrifiant de balles,عامل خلط مزلّق الرصاص
+63719,Desmoldeador,Desmoldador,Démouleur,عامل فك القوالب
+63722,Ensamblador de hombros,Ensamblador de ombros,Assembleur d'épaules,عامل تجميع الأكتاف
+63724,Despachador de bomberos,Despachante de bombeiros,Régulateur des pompiers,منسق الإطفاء
+63726,Trabajador agrícola de cultivos diversificados,Trabalhador agrícola de culturas diversificadas,Ouvrier agricole de cultures diversifiées,عامل زراعة المحاصيل المتنوعة
+63727,Desmontador de horno de recocido,Removedor de forno de recozimento,Extracteur de four de recuit,عامل إزالة فرن التلدين
+63728,Insertador de piedra de palé,Inseridor de pedra de palete,Inséreur de pierre de palette,عامل إدخال حجر الطبلية
+63729,Desmontador de cabrestante,Removedor de guincho,Dépouilleur de treuil,عامل نزع الونش
+63733,Gerente de gestión,Gestor de gestão,Responsable de gestion,مدير الإدارة
+63739,Jefe de escotilla,Chefe de escotilha,Chef de panneau,مشرف فتحة الشحن
+63741,Monitor de teletipo,Monitor de teleimpressora,Moniteur de téléscripteur,مراقب الطباعة بالتلكس
+63742,Moldeador de núcleo de softball,Moldador de núcleo de softball,Mouleur de noyau de balle de softball,عامل قولبة نواة كرة السوفتبول
+63746,Limpiador de intercambiador de calor de alquitrán,Limpador de trocador de calor de alcatrão,Nettoyeur d'échangeur thermique à goudron,عامل تنظيف مبادل الحرارة للقطران
+63750,Becario de marca,Estagiário de marca,Stagiaire marque,متدرب العلامة التجارية
+63755,Despachador de alquiler de automóviles,Despachante de aluguer de automóveis,Régulateur de location automobile,منسق تأجير السيارات
+63756,Teniente de escuadrón de homicidios,Tenente da brigada de homicídios,Lieutenant de la brigade criminelle,ملازم فرقة جرائم القتل
+63757,Teniente de rescate marítimo,Tenente de salvamento marítimo,Lieutenant de sauvetage en mer,ملازم الإنقاذ البحري
+63759,Cocedor de carcasa,Cozedor de carcaça,Cuiseur d'enveloppe,عامل طهي الغلاف
+63760,Director de peluquería,Diretor de cabeleireiro,Directeur coiffure,مدير الحلاقة
+63761,Director de semiconductores,Diretor de semicondutores,Directeur des semi-conducteurs,مدير أشباه الموصلات
+63764,Inspector de carcasas,Inspetor de carcaças,Inspecteur de carcasses,مفتش الغلاف
+63765,Gerente de peluquería,Gestor de cabeleireiro,Responsable coiffure,مدير الحلاقة
+63766,Gerente de semiconductores,Gestor de semicondutores,Responsable des semi-conducteurs,مدير أشباه الموصلات
+63770,Cambio de turno,Mudança de turno,Changement de poste,تبديل الوردية
+63771,Operario de sobrecarga,Operador de sobrecarga,Opérateur de surcharge,عامل السحب الزائد
+63772,Operario de estiba superior,Operador de estiva superior,Gerbeur supérieur,عامل التكديس العلوي
+63774,Trabajador de terminal marítima,Trabalhador de terminal marítimo,Manœuvre de terminal maritime,عامل المحطة البحرية
+63777,Supervisor de preparación de muestras,Supervisor de preparação de amostras,Superviseur de préparation d'échantillons,مشرف إعداد العينات
+63778,Supervisor de preparación de desechos,Supervisor de preparação de sucata,Superviseur de préparation des rebuts,مشرف إعداد الخردة
+63783,Pescador de red de inmersión,Pescador de rede de mergulho,Pêcheur au filet plongeant,صياد بشبكة الغمر
+63784,Golpeador de sala de celdas,Batedor de sala de células,Tapeur de salle de cuves,عامل نقر غرفة الخلايا
+63785,Supervisor de fabricación de espejos,Supervisor de fabrico de espelhos,Superviseur de fabrication de miroirs,مشرف تصنيع المرايا
+63788,Impresor de fotorresistencia,Impressor de fotorresistência,Imprimeur de photorésist,طابع المقاوم الضوئي
+63790,Recubridor de píldoras,Revestidor de comprimidos,Enrobeur de pilules,عامل تغليف الحبوب
+63792,Lavador de aislamiento,Lavador de isolamento,Laveur d'isolement,عامل غسل العزل
+63794,Lavador de ciruelas pasas,Lavador de ameixas secas,Laveur de pruneaux,عامل غسل البرقوق المجفف
+63795,Lavador de vísceras,Lavador de vísceras,Laveur d'abats,عامل غسل الأحشاء
+63798,Partidor de mandril,Partidor de mandril,Fendeur de mandrin,عامل شق المنظم
+63804,Afilador de cortacésped,Afiador de corta-relvas,Affûteur de tondeuse,مشحذ الجزازات
+63808,Expedidor y secador de imprimación,Expedidor e secador de primário,Expéditeur et sécheur de primaire,عامل تجفيف وإرسال الطلاء الأساسي
+63810,Preparador de chaquetas,Preparador de casacos,Préparateur de vestes,محضّر السترات
+63811,Observador de prospección eléctrica,Observador de prospeção elétrica,Observateur de prospection électrique,مراقب المسح الكهربائي
+63813,Cargador de extintores,Carregador de extintores,Recharge d'extincteurs,عامل شحن طفايات الحريق
+63814,Gerente de SAP,Gestor de SAP,Responsable SAP,مدير SAP
+63818,Supervisor de fabricación de ballestas,Supervisor de fabrico de molas de lâminas,Superviseur de fabrication de ressorts à lames,مشرف تصنيع النوابض الورقية
+63822,Localizador de apartamentos,Localizador de apartamentos,Chercheur d'appartements,مُحدد مواقع الشقق
+63823,Localizador de automóviles,Localizador de automóveis,Localisateur auto,محدد مواقع السيارات
+63824,Localizador de automóviles,Localizador de automóveis,Localisateur automobile,محدد مواقع السيارات
+63827,Vendedor de libros,Vendedor de livros,Démarcheur de livres,بائع الكتب بالتجوال
+63831,Golpeador de canalones,Batedor de caleiras,Tapeur de goulotte,عامل نقر المجرى
+63833,Mensajero clínico,Estafeta clínico,Coursier clinique,ساعي العيادة
+63836,Localizador de instalaciones,Localizador de instalações,Chercheur d'installations,مُحدد مواقع المرافق
+63837,Vendedor de fletes,Vendedor de fretes,Démarcheur de fret,مندوب الشحن
+63839,Bruñidor de talones,Brunidor de saltos,Brunisseur de talons,عامل تلميع الكعب
+63841,Mensajero de laboratorio,Estafeta de laboratório,Coursier de laboratoire,ساعي المختبر
+63842,Mensajero de laboratorio,Estafeta de laboratório,Coursier de laboratoire,ساعي المختبر
+63843,Localizador de líneas,Localizador de linhas,Chercheur de lignes,مُحدد مواقع الخطوط
+63844,Mensajero de correo,Estafeta de correio,Coursier postal,ساعي البريد
+63845,Vendedor de membresías,Vendedor de subscrições,Démarcheur d'adhésions,مندوب العضويات
+63847,Vendedor de pasajeros,Vendedor de passageiros,Démarcheur de passagers,مندوب الركاب
+63849,Localizador de plagas,Localizador de pragas,Chercheur de nuisibles,محدد مواقع الآفات
+63850,Bruñidor de vástagos,Brunidor de hastes,Brunisseur de tiges,عامل تلميع الساق
+63852,Localizador de saltos,Localizador de saltos,Chercheur de sauts,محدد مواقع التخطي
+63854,Bruñidor de puntadas,Brunidor de pontos,Brunisseur de points,عامل تلميع الغرزات
+63856,Localizador de utilidades,Localizador de utilidades,Localisateur de réseaux,محدد مواقع المرافق
+63858,Supervisor de trabajadores de cobertizo,Supervisor de trabalhadores de barracão,Superviseur des ouvriers de hangar,مشرف عمال المستودع
+63859,Director de control de infecciones,Diretor de controlo de infeções,Directeur de la prévention des infections,مدير مكافحة العدوى
+63860,Director en antena,Diretor de antena,Directeur d'antenne,مدير البث
+63863,Fundidor de horno de pozo,Fundidor de forno de poço,Fondeur de four à puits,عامل صهر الفرن البئري
+63864,Empleado de servicio de rampa,Empregado de serviço de rampa,Employé de service de piste,موظف خدمة المدرج
+63865,Manipulador de fluidos a granel,Manipulador de fluidos a granel,Manutentionnaire de fluides en vrac,عامل مناولة السوائل السائبة
+63868,Acolchador de espalda,Acolchoador de costas,Rembourreur de dos,عامل حشو الظهر
+63870,Acolchador de abrigos,Acolchoador de casacos,Rembourreur de manteaux,عامل حشو المعاطف
+63872,Acolchador de cojines,Acolchoador de almofadas,Rembourreur de coussins,عامل حشو الوسائد
+63874,Acolchador de talones,Acolchoador de saltos,Rembourreur de talons,عامل حشو الكعب
+63878,Alimentador de máquina de clasificación de crayones,Alimentador de máquina de classificação de lápis de cera,Alimentateur de machine de tri de crayons,عامل تغذية آلة فرز الأقلام الشمعية
+63879,Supervisor de pesca,Supervisor de pesca,Superviseur de la pêche,مشرف الصيد
+63882,Patrullero de ácido,Patrulheiro de ácido,Patrouilleur acide,دورية الحمض
+63883,Patrullero aéreo,Patrulheiro aéreo,Patrouilleur aérien,دورية الطيران
+63889,Patrullero de incendios,Patrulheiro de incêndios,Patrouilleur incendie,دورية الحرائق
+63893,Patrullero de línea,Patrulheiro de linha,Patrouilleur de ligne,دورية الخط
+63896,Patrullero mercante,Patrulheiro mercante,Patrouilleur marchand,دورية التجار
+63900,Auxiliar de seguridad,Auxiliar de segurança,Auxiliaire de sécurité,مساعد الأمن
+63901,Patrullero de esquí,Patrulheiro de esqui,Patrouilleur de ski,دورية التزلج
+63907,Supervisor de pastelería,Supervisor de pastelaria,Superviseur pâtisserie,مشرف المعجنات
+63908,Engrapador de Rand,Agrafador de Rand,Agrafeur de Rand,عامل تثبيت الحافة
+63909,Operador de máquina de cortinas,Operador de máquina de cortinas,Opérateur de machine à rideaux,مشغل آلة الستائر
+63910,Operador de máquina de aplicación de chips,Operador de máquina de aplicação de chips,Opérateur de machine d'application de puces,مشغل آلة تطبيق الرقائق
+63911,Operador de máquina de abrir almejas,Operador de máquina de abrir amêijoas,Opérateur de machine à ouvrir les palourdes,مشغل آلة فتح المحار
+63912,Director de planificación de donaciones,Diretor de planeamento de donativos,Directeur de la planification des dons,مدير تخطيط الهبات
+63913,Operador de horno de fuego,Operador de forno de fogo,Opérateur de four à feu,مشغل فرن النار
+63914,Operador de equipo de variación de fuerza,Operador de equipamento de variação de força,Opérateur d'équipement de variation de force,مشغل معدات تباين القوة
+63915,Operador de máquina de envoltura de tapones,Operador de máquina de envolvimento de filtros,Opérateur de machine d'emballage de filtres,مشغل آلة تغليف الفلتر
+63916,Operador de calentador de cobertizo de descongelación,Operador de aquecedor de barracão de descongelação,Opérateur de chauffage de hangar de dégel,مشغل مسخن مستودع إذابة الجليد
+63917,Operador de máquina de biselado superior,Operador de máquina de biselagem superior,Opérateur de machine de biseautage supérieur,مشغل آلة التخريم العلوي
+63918,Hilandero de laminación,Fiandeiro de laminação,Fileur de stratification,عامل دوران الصفائح
+63921,Grabador de puntos,Gravador de pontos,Graveur de points,عامل نقش النقاط
+63922,Inspector de bote de aluminio,Inspetor de barco de alumínio,Inspecteur de bateau en aluminium,مفتش القوارب الألمنيوم
+63926,Verificador de correo muerto,Verificador de correio morto,Contrôleur de courrier non distribuable,مدقق البريد المرتجع
+63927,Verificador de tráfico fluvial,Verificador de tráfego fluvial,Contrôleur de trafic fluvial,مدقق حركة المجاري المائية
+63929,Asistente GI,Assistente GI,Assistant GI,مساعد الجهاز الهضمي
+63932,Cableador de altavoces,Cablador de altifalantes,Câbleur de haut-parleurs,عامل توصيل مكبرات الصوت
+63933,Reparador de telar de tejido estrecho,Reparador de tear de tecido estreito,Réparateur de métier à tissu étroit,فني إصلاح نول النسيج الضيق
+63937,Reparador de cerraduras,Reparador de fechaduras,Réparateur de serrures,مصلح الأقفال
+63944,Supervisor de fundición a presión,Supervisor de fundição sob pressão,Superviseur de moulage sous pression,مشرف الصب بالضغط
+63945,Director de compras,Diretor de compras,Directeur des achats,مدير المشتريات
+63946,Recolector de planos,Recolhedor de peças planas,Récupérateur de pièces plates,عامل جمع الأجزاء المسطحة
+63948,Remendador de nailon,Remendador de nylon,Raccommodeur de nylon,عامل ترقيع النايلون
+63949,Acicalador de peluche,Arrumador de pelúcia,Habilleur de peluche,عامل تنظيف الفراء
+63951,Pasantía de radiodifusión deportiva,Estágio de radiodifusão desportiva,Stage en radiodiffusion sportive,تدريب في البث الرياضي
+63952,Recortador de pintura de tubos de pipa,Aparador de pintura de cachimbos,Ébarbeur de peinture de fourneaux,عامل تشذيب طلاء رؤوس الغليون
+63953,Supervisor de montaje de fuegos artificiales,Supervisor de montagem de fogos de artifício,Superviseur de l'assemblage de feux d'artifice,مشرف تجميع الألعاب النارية
+63954,Supervisor de sala de fusión,Supervisor de sala de fusão,Superviseur de la salle de fusion,مشرف غرفة الصهر
+63956,Cortador de puños,Cortador de punhos,Fendeur de poignets,عامل شق الأكمام
+63959,Costurero de empeines,Costureiro de gáspeas,Assembleur d'empeigne,عامل خياطة المقدمة
+63969,Reparador de ladrillos refractarios y baldosas,Reparador de tijolos refratários e telhas,Réparateur de briques et carreaux réfractaires,عامل إصلاح الطوب الحراري والبلاط
+63970,Insertador de etiquetas de prendas,Inseridor de etiquetas de vestuário,Insérateur d'étiquettes de vêtements,عامل إدخال بطاقات الملابس
+63973,Cepillador de sombreros de paja,Escovador de chapéus de palha,Brosseur de chapeaux de paille,عامل تنظيف القبعات القش
+63979,Reparador de aparejos de pesca,Reparador de aparelhos de pesca,Réparateur d'équipements de pêche,مصلح أدوات الصيد
+63983,Gerente de control de calidad,Gestor de QA,Responsable QA,مدير ضمان الجودة
+63986,Encuadernador de solapas de orejas,Encadernador de abas de orelhas,Relieur de rabats d'oreille,عامل تجليد الأغطية
+63987,Encuadernador de cordón francés,Encadernador de cordão francês,Relieur de cordon français,عامل تجليد الحبل الفرنسي
+63988,Impregnador de productos de carbono,Impregnador de produtos de carbono,Imprégnateur de produits carbonés,عامل تشريب منتجات الكربون
+63990,Reportero de superficie,Relator de área,Rapporteur de superficie,مراسل المساحات
+63995,Despachador de eliminación de residuos radiactivos,Despachante de eliminação de resíduos radioativos,Régulateur d'élimination des déchets radioactifs,منسق التخلص من النفايات المشعة
+64007,Director de agencia correccional,Diretor de agência correcional,Directeur d'agence pénitentiaire,مدير الوكالة الإصلاحية
+64009,Director de agencia reguladora,Diretor de agência reguladora,Directeur d'agence de régulation,مدير الوكالة التنظيمية
+64012,"Buscador de extremos, departamento de formado","Localizador de extremos, departamento de formação","Chercheur d'extrémités, service de formage",باحث الأطراف في قسم التشكيل
+64013,"Buscador de extremos, departamento de torsión","Localizador de extremos, departamento de torção","Chercheur d'extrémités, service de torsion",باحث الأطراف في قسم الفتل
+64014,Mecánico de instrumentos de sistemas de armas,Mecânico de instrumentos de sistemas de armas,Mécanicien d'instruments de systèmes d'armes,ميكانيكي أجهزة أنظمة الأسلحة
+64015,Operario de máquina de desbastado,Operador de máquina de desbaste,Opérateur de machine à refendre,عامل آلة التقشير
+64016,Operario de desbastado de suela,Operador de desbaste de sola,Refendeur de semelle,عامل تقشير النعل
+64017,Desbastador de suelas,Desbastador de solas,Refendeur de semelles,عامل تقشير النعال
+64018,Desbastador de tubos,Desbastador de tubos,Refendeur de tubes,عامل تقشير الأنابيب
+64019,Colocador de vidriado,Colocador de vidrado,Placeur de glaçure,عامل وضع الطلاء الزجاجي
+64020,Encuadernador de cascos,Encadernador de capacetes,Relieur de casques,عامل تجليد الخوذات
+64021,Cementador de Rand,Cimentador de Rand,Colleur de Rand,عامل لصق الحافة
+64022,Escritorio de agente de spa,Balcão de agente de spa,Bureau d'agent de spa,موظف استقبال المنتجع الصحي
+64023,Selector de alimentos congelados,Selecionador de alimentos congelados,Sélectionneur de produits surgelés,عامل فرز الأغذية المجمدة
+64025,Descortezador de corteza,Descascador de casca,Écorceur d'écorce,عامل تقشير اللحاء
+64026,Raspador de sorgo escobero,Raspador de sorgo de vassouras,Racleur de sorgho à balai,عامل كشط ذرة المكانس
+64027,Explorador de fútbol,Olheiro de futebol,Recruteur de football,كشاف كرة القدم
+64028,Mensajero de correspondencia,Estafeta de correspondência,Coursier du courrier,ساعي البريد الداخلي
+64030,Descargador de máquina de pegado,Descarregador de máquina de colagem,Dépileur de machine d'encollage,عامل تفريغ آلة اللصق
+64033,Gerente local,Gestor local,Responsable local,مدير محلي
+64034,Gerente de rehabilitación,Gestor de reabilitação,Responsable de réadaptation,مدير إعادة التأهيل
+64035,Documentación de enfermería RN,Documentação de enfermagem RN,Documentation infirmière RN,توثيق التمريض المسجّل
+64037,Superintendente local,Superintendente local,Surintendant local,مشرف محلي
+64039,Llenador de conservantes de máquina,Enchedor de conservantes de máquina,Remplisseur de conservateur machine,عامل تعبئة المواد الحافظة للآلات
+64043,Entrenador de juicio de ganado,Treinador de avaliação de gado,Entraîneur de jugement du bétail,مدرب تقييم الماشية
+64048,Colorante de tiras,Descolorante de tiras,Décolorant de bandes,عامل تلوين الشرائط
+64051,Probador de productos de fibra de vidrio,Testador de produtos de fibra de vidro,Testeur de produits en fibre de verre,فاحص منتجات الألياف الزجاجية
+64054,Abridor de cajas,Abridor de caixas,Ouvreur de caisses,عامل فتح الصناديق
+64055,Recolector de musgo,Colhedor de musgo,Cueilleur de mousse,عامل جمع الطحالب
+64061,Ensamblador y empacador de globos de novedad,Montador e embalador de balões de novidade,Assembleur et emballeur de ballons de fantaisie,عامل تجميع وتعبئة البالونات الترفيهية
+64064,Inspector de fontanería,Inspetor de canalização,Inspecteur de plomberie,مفتش السباكة
+64066,Gerente de fontanería,Gestor de canalização,Responsable de plomberie,مدير السباكة
+64067,Encargado de baños,Encarregado de balneário,Gardien de bains,حارس الحمامات
+64073,Enrollador de puros,Enrolador de charutos,Roulier de cigares,عامل لف السيجار
+64074,Gerente de fotografía,Gestor de fotografia,Responsable photographie,مدير التصوير
+64075,Director de búsqueda,Diretor de pesquisa,Directeur de la recherche,مدير البحث
+64076,Gerente de programación,Gestor de programação,Responsable de codage,مدير البرمجة
+64077,Gerente de búsqueda,Gestor de pesquisa,Responsable de recherche,مدير البحث
+64078,Moldeador al vacío,Moldador a vácuo,Mouleur sous vide,عامل القولبة بالتفريغ
+64079,Operador de vacío,Operador de vácuo,Opérateur de vide,مشغل التفريغ
+64080,Superintendente de fábrica,Superintendente de fábrica,Surintendant d'usine,مشرف المصنع
+64082,Transcriptor en braille,Transcritor em braille,Transcripteur braille,ناسخ برايل
+64086,Escalador de masa,Escalador de massa,Échelonneur de pâte,عامل قياس الخليط
+64088,Escalador de aterrizaje,Escalador de aterragem,Écailleur d'atterrissage,عامل قياس الهبوط
+64089,Receptor de grumos,Recetor de grumos,Récepteur de grumeaux,عامل استقبال الكتل
+64091,Ensamblador de broches y ojos,Montador de colchetes e ilhós,Assembleur de crochets et œillets,عامل تركيب الخطافات والعيون
+64092,Descargador de carbón vegetal,Descarregador de carvão vegetal,Déchargeur de charbon de bois,عامل تفريغ الفحم النباتي
+64094,Distribuidor de trabajadores de piso,Distribuidor de trabalhadores de piso,Distributeur d'ouvriers de sol,موزع عمال الأرضية
+64095,Montador de globos,Montador de globos,Monteur de globes,عامل تركيب الكرات
+64096,Cambiador de tela de filtro de mezcla,Mudador de pano de filtro de mistura,Changeur de toile de filtre à moût,عامل تغيير قماش فلتر الخليط
+64099,Montador de miras,Montador de miras,Monteur de viseurs,عامل تركيب المشاهد
+64100,Montador de altavoces,Montador de altifalantes,Monteur de haut-parleurs,عامل تركيب مكبرات الصوت
+64103,Ajustador de máquina de montaje de cartuchos de escopeta,Ajustador de máquina de montagem de cartuchos de caçadeira,Régleur de machine d'assemblage de cartouches de fusil de chasse,فني ضبط آلة تجميع خراطيش البنادق
+64104,Operador automático de máquina de roscado,Operador automático de máquina de roscagem,Opérateur automatique de machine de taraudage,مشغل آلة التسنين الآلية
+64105,Marcador de dobladillos,Marcador de bainhas,Marqueur d'ourlets,عامل تعليم الحواف
+64106,Marcador de rayas,Marcador de riscas,Marqueur de rayures,عامل تعليم الخطوط
+64107,Marcador de patillas,Marcador de têmporas,Marqueur de branches,عامل تعليم الصدغ
+64109,Gerente de filtros,Gestor de filtros,Responsable des filtres,مدير الفلاتر
+64112,Superintendente de turno de cresilato cáustico,Superintendente de turno de cresilato cáustico,Chef de quart cresylate caustique,مشرف وردية كريزيلات القلوي
+64117,Supervisor de extremo bruto,Supervisor de extremidade bruta,Superviseur de bout brut,مشرف الطرف الخام
+64119,Distribuidor de cría artificial,Distribuidor de criação artificial,Distributeur d'élevage artificiel,موزع التلقيح الاصطناعي
+64121,Alimentador de máquina de enmascarado,Alimentador de máquina de mascaramento,Alimentateur de machine de masquage,عامل تغذية آلة التقنيع
+64123,Supervisor de prensa de registro,Supervisor de prensa de registo,Superviseur de presse d'enregistrement,مشرف مكبس التسجيل
+64125,Montador de tabiques de bloques huecos,Montador de divisórias de blocos ocos,Monteur de cloisons en tuiles creuses,عامل تركيب حواجز البلاط المجوف
+64126,Restaurador de pistas de bolos,Restaurador de pistas de bowling,Rénovateur de pistes de bowling,مرمم ملاعب البولينغ
+64128,Artesano de puesto de mando,Artesão de posto de comando,Artisan de poste de commandement,حرفي مركز القيادة
+64132,Fogonero de refinería de petróleo,Fogueiro de refinaria de petróleo,Chauffeur de raffinerie de pétrole,عامل وقود مصفاة النفط
+64133,Impresor de contacto de película seca,Impressor de contacto de película seca,Imprimeur par contact à film sec,طابع التلامس بالفيلم الجاف
+64134,"Trabajador de servicio de piso, resorte","Trabalhador de serviço de piso, mola","Employé de service de sol, ressort",عامل خدمة الأرضية، النابض
+64135,Gerente de facturación a clientes,Gestor de facturação a clientes,Responsable de la facturation clients,مدير فواتير العملاء
+64137,Rompedor de galletas,Partidor de bolachas,Casseur de biscuits,عامل كسر البسكويت
+64139,Rompedor de bengalas,Partidor de sinalizadores,Briseur de fusées,عامل كسر المشاعل
+64140,Rompedor de patas,Partidor de pernas,Briseur de pattes,عامل كسر الأرجل
+64142,Superintendente de presión,Superintendente de pressão,Surintendant de pression,مشرف الضغط
+64144,Pulverizador de dag,Pulverizador de dag,Pulvérisateur de dag,عامل رش الدحل
+64147,Pulverizador de condimentos,Pulverizador de condimentos,Pulvérisateur d'assaisonnement,عامل رش التوابل
+64150,Operador de pan,Operador de pão,Livreur de pain,عامل توصيل الخبز
+64151,Funcionario de construcción,Funcionário de construção,Responsable de la construction,موظف البناء الرسمي
+64154,Ministro de niños,Ministro infantil,Ministre pour enfants,وزير الأطفال
+64155,Funcionario de iglesia,Funcionário da igreja,Officiel d'église,موظف الكنيسة
+64157,Cortador de cristal,Cortador de cristal,Trancheur de cristal,عامل تقطيع الكريستال
+64166,Ministro de música,Ministro de música,Ministre de la musique,وزير الموسيقى
+64169,Funcionario de planificación,Funcionário de planeamento,Responsable de la planification,موظف التخطيط
+64170,Jockey de rampa,Jockey de rampa,Jockey de rampe,عامل الرامب
+64172,Guardabosques de nieve,Guarda-florestal de neve,Garde de neige,حارس الثلوج
+64177,Cortador de obleas,Cortador de obleias,Trancheur de gaufrettes,عامل تقطيع الرقائق
+64179,Jockey de patio,Jockey de pátio,Jockey de cour,عامل الساحة
+64180,Ministro juvenil,Ministro juvenil,Ministre de la jeunesse,وزير الشباب
+64187,Carnicero de cangrejos,Talhante de caranguejos,Boucher de crabes,جزار السرطانات
+64188,Calibrador de cristal,Calibrador de cristal,Calibreur de cristal,معاير الكريستال
+64190,Calibrador eléctrico,Calibrador elétrico,Calibreur électrique,معاير كهربائي
+64193,Organizador de campo,Organizador de campo,Organisateur de terrain,منظم ميداني
+64194,Calibrador de vidrio,Calibrador de vidro,Calibreur de verre,معاير الزجاج
+64195,Organizador doméstico,Organizador doméstico,Organisateur d'intérieur,منظم منزلي
+64197,Organizador internacional,Organizador internacional,Organisateur international,منظم دولي
+64202,Organizador político,Organizador político,Organisateur politique,منظم سياسي
+64203,Organizador profesional,Organizador profissional,Organisateur professionnel,منظم محترف
+64208,Calibrador de tanques,Calibrador de tanques,Calibreur de réservoirs,معاير الخزانات
+64210,Organizador sindical,Organizador sindical,Organisateur syndical,منظم نقابي
+64212,Modelizador basado en agentes,Modelador baseado em agentes,Modélisateur à base d'agents,نموذج قائم على الوكلاء
+64214,Director de medicamentos,Diretor de medicamentos,Directeur médicaments,مدير الأدوية
+64215,Gerente de medicamentos,Gestor de medicamentos,Responsable médicaments,مدير الأدوية
+64217,Recolector de huevos de pavo,Recolhedor de ovos de peru,Cueilleur d'œufs de dinde,عامل جمع بيض الديك الرومي
+64219,Cubridor de forma de pulsera,Revestidor de forma de pulseira,Recouvreur de forme de bracelet,عامل تغطية قالب الأساور
+64220,Cubridor de rollo de arpillera,Revestidor de rolo de serapilheira,Recouvreur de rouleau de toile de jute,عامل تغطية لفة الخيش
+64224,Inspector de propiedad gubernamental,Inspetor de propriedade governamental,Inspecteur des biens publics,مفتش الممتلكات الحكومية
+64227,Lector de Ciencia Cristiana,Leitor da Ciência Cristã,Lecteur de la Science chrétienne,قارئ علم المسيحية
+64228,Reparador de tejidos de punto,Reparador de malhas,Raccommodeur de tricots,عامل ترقيع المنسوجات المحبوكة
+64232,Tirador de casco forrado de tela,Puxador de capacete forrado a tecido,Tireur de casque recouvert de tissu,عامل سحب الخوذة المغطاة بالقماش
+64234,Tirador de brisket,Puxador de brisket,Tireur de poitrine,عامل سحب اللحم
+64235,Tirador de terrones,Puxador de torrões,Tireur de mottes,عامل سحب الكتل الطينية
+64236,Tirador de hocico,Puxador de focinho,Tireur de museau,عامل سحب الخطم
+64237,Recortador de casas prefabricadas,Aparador de casas pré-fabricadas,Ébarbeur de maisons préfabriquées,عامل تشذيب المنازل الجاهزة
+64239,Ajustador de equipo de calentamiento por inducción,Ajustador de equipamento de aquecimento por indução,Régleur d'équipement de chauffage par induction,فني ضبط معدات التسخين بالحث
+64241,Director de habla y lenguaje,Diretor de fala e linguagem,Directeur de la parole et du langage,مدير النطق واللغة
+64243,Cortador de corteza de cascara,Cortador de casca de cascara,Coupeur d'écorce de cascara,عامل قطع لحاء الكاسكارا
+64244,Cortador de boca de canaleta,Cortador de boca de caleira,Coupeur d'embouchure de gouttière,عامل قطع فوهة المزراب
+64245,Cortador de sala de retención,Cortador de sala de retenção,Coupeur de salle de rétention,عامل قطع غرفة الاحتجاز
+64246,Cortador de tapón de cuña,Cortador de tampão de calço,Coupeur de bouchon de cale,عامل قطع سدادة الكالس
+64247,Generador de lentes de gafas,Gerador de lentes de óculos,Générateur de verres de lunettes,مولد عدسات النظارات
+64249,Expedidor de pedidos de comida,Expedidor de pedidos de comida,Expéditeur de commandes alimentaires,منسق طلبات الطعام
+64250,Taquígrafo de idiomas extranjeros,Taquígrafo de línguas estrangeiras,Sténographe en langues étrangères,كاتب اختزال لغات أجنبية
+64253,Expedidor de control de producción,Expedidor de controlo de produção,Expéditeur de contrôle de production,منسق مراقبة الإنتاج
+64254,Expedidor de carga de retorta,Expedidor de carga de retorta,Expéditeur de chargement de cornue,منسق تحميل المحرقة
+64255,Expedidor de órdenes de servicio,Expedidor de ordens de serviço,Expéditeur d'ordres de service,منسق أوامر الخدمة
+64258,Director farmacéutico,Diretor farmacêutico,Directeur pharmaceutique,مدير الصيدلة
+64259,Gerente farmacéutico,Gestor farmacêutico,Responsable pharmaceutique,مدير الصيدلة
+64261,Investigador de enfermedades venéreas,Investigador de doenças venéreas,Enquêteur sur les maladies vénériennes,محقق الأمراض التناسلية
+64262,Laminador de tanque de espuma,Laminador de tanque de espuma,Laminateur de bac à mousse,عامل تصفيح خزان الرغوة
+64263,Laminador de laminado en caliente,Laminador de laminagem a quente,Laminateur à chaud,عامل تصفيح الدرفلة الساخنة
+64265,Derretidor de mantequilla,Derretedor de manteiga,Fondeur de beurre,عامل صهر الزبدة
+64268,Corrector de fotograbado,Revisor de fotogravura,Correcteur de photogravure,مدقق النقش الضوئي
+64269,Impermeabilizador de agua,Impermeabilizador de água,Imperméabilisateur d'eau,عامل العزل المائي
+64270,Técnico de máquinas de dictado y transcripción,Técnico de máquinas de ditado e transcrição,Technicien de machines de dictée et transcription,فني صيانة آلات الإملاء والنسخ
+64271,Reconstructor de ánodos,Reconstrutor de ânodos,Reconditionneur d'anodes,فني إعادة بناء الأنودات
+64272,Cordelador de tocino,Cordeador de toucinho,Enfileur de bacon,عامل تعليق لحم الخنزير المقدد
+64274,Quitador de galletas,Retirador de bolachas,Décrocheur de biscuits,عامل إزالة البسكويت
+64275,Director de auditoría interna,Diretor de auditoria interna,Directeur de l'audit interne,مدير التدقيق الداخلي
+64276,Excavador de zanjas,Escavador de valas,Creuseur de fossés,حفار الخنادق
+64277,Quitador de golpes,Retirador de batidas,Décrocheur de coups,عامل إزالة الطرق
+64279,Supervisor de cuadrilla de trabajo,Supervisor de equipa de trabalho,Superviseur d'équipe de manœuvres,مشرف فريق العمال
+64282,Director de operaciones para terapia,Diretor de operações para terapia,Directeur des opérations de thérapie,مدير عمليات العلاج
+64283,Profesionales de transporte aéreo,Profissionais de transporte aéreo,Professionnels du transport aérien,محترفو النقل الجوي
+64285,Profesionales de transporte marítimo,Profissionais de transporte marítimo,Professionnels du transport maritime,محترفو النقل البحري
+64288,Profesionales de soporte de operaciones,Profissionais de suporte de operações,Professionnels du support opérationnel,محترفو دعم العمليات
+64290,Director de voz,Diretor de voz,Directeur voix,مدير الصوت
+64292,Gerente de diálisis,Gestor de diálise,Responsable de dialyse,مدير غسيل الكلى
+64293,Gerente portátil,Gestor portátil,Responsable portable,مدير المحمول
+64294,Gerente de voz,Gestor de voz,Responsable voix,مدير الصوت
+64298,Rodillo neumático,Rolo pneumático,Rouleau pneumatique,عامل الأسطوانة الهوائية
+64300,Medidor de cortinas y tapicería,Medidor de cortinados e estofos,Métreur de draperies et tapisseries,عامل قياس الستائر والمفروشات
+64301,Arrancador de motor de elevador de grano,Arrancador de motor de elevador de grão,Démarreur de moteur d'élévateur à grains,مشغل محرك مصعد الحبوب
+64303,Especialistas en él,Especialistas em Ele,Spécialistes Lui,أخصائيو الهيم
+64305,Especialistas en sauce,Especialistas em salgueiro,Spécialistes du saule,أخصائيو الصفصاف
+64312,Soplador de horno de alto horno,Soprador de forno de alto-forno,Souffleur de haut fourneau,عامل نفخ فرن الصهر
+64313,Gerente de viento,Gestor de vento,Responsable éolien,مدير طاقة الرياح
+64314,Supervisor de alto horno,Supervisor de alto-forno,Superviseur de haut fourneau,مشرف فرن الصهر
+64316,Acristalador de muebles metálicos,Envidraçador de móveis metálicos,Vitrier de meubles métalliques,عامل تزجيج الأثاث المعدني
+64322,Formador de extremo de muelle motor,Formador de extremidade de mola-motor,Formeur d'extrémité de ressort moteur,عامل تشكيل طرف النابض
+64325,Inspector y nivelador de sillas,Inspetor e nivelador de cadeiras,Inspecteur et niveleur de chaises,مفتش ومسوّي الكراسي
+64327,Director de canal,Diretor de canal,Directeur de chaîne,مدير القناة
+64329,Gerente de libros,Gestor de livros,Responsable livres,مدير الكتب
+64331,Gerente de canal,Gestor de canal,Responsable de chaîne,مدير القناة
+64333,Supervisor de recubrimiento de papel carbón,Supervisor de revestimento de papel carbono,Superviseur d'enduction de papier carbone,مشرف طلاء الورق الكربوني
+64338,Insertador de tablero perforado,Inseridor de cartão perfurado,Insérateur de carte perforée,عامل إدخال لوحة الثقب
+64339,Selector de bobinas,Selecionador de bobinas,Sélecteur de bobines,عامل اختيار البكرات
+64340,Empujador de carrito,Empurrador de carrinho,Pousseur de chariot,عامل دفع العربات
+64344,Jefe de cuadrilla de granja de árboles de Navidad,Chefe de equipa de quinta de árvores de Natal,Chef d'équipe de ferme à sapins de Noël,مشرف فريق مزرعة أشجار الكريسماس
+64346,Controlador en ruta,Controlador em rota,Contrôleur en route,مراقب الرحلة
+64347,Controlador interino,Controlador interino,Contrôleur intérimaire,مراقب مؤقت
+64348,Controlador MRP,Controlador MRP,Contrôleur MRP,مراقب تخطيط الاحتياجات
+64349,Rellenador de shoder,Enchedor de shoder,Remplisseur de shoder,عامل تعبئة الشودر
+64350,Controlador de estado,Controlador de estado,Contrôleur de statut,مراقب الحالة
+64351,Rellenador de tierce,Enchedor de tierce,Remplisseur de tierce,عامل تعبئة التيرس
+64352,Director de radiodifusión,Diretor de radiodifusão,Directeur de la diffusion,مدير البث
+64353,Director de soporte a la decisión,Diretor de apoio à decisão,Directeur de l'aide à la décision,مدير دعم القرار
+64354,Encordador de tarjetas Jacquard,Encordador de cartões Jacquard,Lacet de cartes Jacquard,عامل ربط بطاقات جاكار
+64355,Gerente de soporte a la decisión,Gestor de apoio à decisão,Responsable de l'aide à la décision,مدير دعم القرار
+64360,Encargado de campamento,Encarregado de parque de campismo,Gardien de camping,حارس المخيم
+64361,Rodillo de tortitas de queso,Rolo de panquecas de queijo,Rouleau à crêpes au fromage,عامل تسطيح فطائر الجبن
+64363,Encargado de pensión,Gerente de pensão,Gérant de pension,مشرف النزل
+64364,Sacador de Stoner,Retirador de Stoner,Extracteur Stoner,عامل إخراج الستونر
+64365,Director de estrategia y móviles,Diretor de estratégia e mobile,Directeur stratégie et mobile,مدير الاستراتيجية والجوال
+64373,Limpiador de cocina de barco,Limpador de cozinha de navio,Nettoyeur de cuisine de navire,عامل تنظيف مطبخ السفينة
+64374,Dieta diaria,Ajuda de custo diária,Indemnité journalière,بدل يومي
+64380,Picador de heno,Picador de feno,Hacheur de foin,عامل تقطيع التبن
+64381,Costurero de cuartos,Costureiro de quartos,Coseur de quartiers,عامل خياطة الأرباع
+64382,Subsheriff,Subxerife,Shérif adjoint,نائب الشريف
+64384,Director de personal de jugadores,Diretor de pessoal de jogadores,Directeur du personnel des joueurs,مدير شؤون اللاعبين
+64386,Vicepresidente de relaciones con inversores,Vice-presidente de relações com investidores,Vice-président des relations investisseurs,نائب الرئيس لعلاقات المستثمرين
+64387,Enrutador de fletes del departamento de tráfico,Encaminhador de fretes do departamento de tráfego,Routeur de fret du service trafic,موجّه شحن قسم المرور
+64388,Director de medios integrados,Diretor de meios integrados,Directeur des médias intégrés,مدير الوسائط المتكاملة
+64389,Devolución al proveedor,Devolução ao fornecedor,Retour au fournisseur,إعادة إلى المورد
+64390,Macho de máquina I,Macho de máquina I,Noyauteur machine I,عامل القوالب الرملية الآلية I
+64391,Macho de máquina II,Macho de máquina II,Noyauteur machine II,عامل القوالب الرملية الآلية II
+64392,Extremo de talón de rebaje,Extremo de sola de costura,Extrémité de welt de ressage,عامل تشطيب طرف الحافة
+64393,Ayudante de oficina de recepción,Auxiliar de receção,Aide d'accueil,مساعد الاستقبال
+64395,Ayudante de existencias de tienda,Auxiliar de stock de loja,Aide au stock du magasin,مساعد مخزون المتجر
+64397,Vicepresidente de regulación,Vice-presidente de regulação,Vice-président réglementaire,نائب الرئيس للتنظيم
+64399,Minero de veta,Mineiro de filão,Mineur de filon,عامل منجم الخام
+64400,Minero de galería,Mineiro de galeria,Mineur de galerie,عامل منجم التصعيد
+64401,Director de Operaciones y presidente,Diretor de operações e presidente,Directeur des opérations et président,المدير التنفيذي للعمليات والرئيس
+64402,Comisionado de Rentas Internas,Comissário das Receitas Internas,Commissaire aux impôts intérieurs,مفوض الضرائب الداخلية
+64403,Gerente de español,Gestor de espanhol,Responsable d'espagnol,مدير اللغة الإسبانية
+64404,Director de activos,Diretor de ativos,Directeur des actifs,مدير الأصول
+64411,Contador de dados,Contador de dados,Marqueur de dés,عامل تعليم النرد
+64413,Caldera Kier,Caldeira Kier,Chaudière Kier,مرجل كير
+64416,Miembro de cuadrilla de viviendas modulares,Membro de equipa de casas modulares,Membre d'équipe de maisons modulaires,عضو فريق المنازل الجاهزة
+64417,Miembro de cuadrilla de conjuntos modulares,Membro de equipa de conjuntos modulares,Membre d'équipe d'ensembles modulaires,عضو فريق المجموعات المعيارية
+64420,Molinero de rouge,Moleiro de rouge,Broyeur de rouge,عامل طحن الروج
+64428,Bombeador de tanque de tablero,Bombeador de tanque de painel,Pompiste de réservoir de tableau,عامل ضخ خزان لوحة التوزيع
+64430,Computadora geofísica,Computador geofísico,Ordinateur géophysique,حاسوب جيوفيزيائي
+64431,Salvamento de barrica,Salvados de pipa,Récupération de barrique,خردة البراميل
+64433,Ensamblador de cuchillos,Montador de facas,Assembleur de couteaux,عامل تجميع السكاكين
+64436,Pintor de depilatorios,Pintor de depilatórios,Peintre de dépilatoires,دهّان مزيلات الشعر
+64437,Pintor de sombreado,Pintor de sombreados,Peintre d'ombrage,دهّان التظليل
+64438,Pintor de estatuas,Pintor de estátuas,Peintre de statuaire,دهّان التماثيل
+64439,Trabajador de planta de conservación de madera,Trabalhador de instalação de preservação de madeira,Ouvrier d'usine de préservation du bois,عامل مصنع حفظ الخشب
+64440,Descargador de máquina de recubrimiento compuesto,Descarregador de máquina de revestimento composto,Dépileur de machine d'enduction composite,عامل تفريغ آلة الطلاء المركب
+64443,Empleado de información del club automovilístico,Empregado de informação do clube automóvel,Employé d'information du club automobile,موظف معلومات نادي السيارات
+64446,Investigador de incendios y bombas,Investigador de incêndios e bombas,Enquêteur incendie et explosifs,محقق الحرائق والقنابل
+64448,Investigador de quejas de facturas de servicios,Investigador de reclamações de faturas de serviços,Enquêteur sur les réclamations de factures de services,محقق شكاوى فواتير المرافق
+64449,Hilandero de lámina,Fiandeiro de folha,Fileur de feuille,عامل دوران الرقائق
+64450,Tomador de notas,Tomador de notas,Preneur de notes,مدوّن الملاحظات
+64451,Cuidador de pacientes,Cuidador de doentes,Garde-malade,مرافق المرضى
+64453,Empacador de premios verdes,Embalador de prémios verdes,Emballeur de lots verts,عامل تعبئة الجوائز الخضراء
+64454,Investigador de robos,Investigador de roubos,Enquêteur de cambriolages,محقق السرقات
+64455,Investigador paranormal,Investigador paranormal,Enquêteur paranormal,محقق خارق للطبيعة
+64456,Anfitrión/anfitriona de ventas de planes de fiesta,Anfitrião/anfitriã de vendas de planos de festa,Hôte(sse) de vente à domicile,مضيف مبيعات حفلات المنزل
+64458,Investigador de tendencias,Investigador de tendências,Chercheur de tendances,محقق الاتجاهات
+64462,Ajustador de volante de equilibrio,Ajustador de volante de equilíbrio,Ajusteur de balancier,فني تسوية عجلة التوازن
+64465,Ajustador de palos de golf,Ajustador de tacos de golfe,Ajusteur de clubs de golf,فني تسوية عصي الغولف
+64466,Ajustador de muela abrasiva,Ajustador de rebolo,Ajusteur de meule,فني تسوية عجلة الطحن
+64468,Ajustador de cojinete de joya,Ajustador de rolamento de joia,Ajusteur de palier de bijou,فني تسوية محمل الجواهر
+64470,Aplicador de diseño de plástico,Aplicador de design plástico,Applicateur de design en plastique,عامل تطبيق التصميم البلاستيكي
+64473,Ajustador de acero pequeño,Ajustador de aço pequeno,Ajusteur de petit acier,فني تسوية الفولاذ الصغير
+64477,Explorador de hockey,Olheiro de hóquei,Recruteur de hockey,كشاف الهوكي
+64478,Enrollador de látex,Enrolador de látex,Bobineur de latex,عامل لف اللاتكس
+64479,Enfardador de despojos,Enfardador de vísceras,Presseur d'abats,عامل تعبئة الأحشاء
+64482,Supervisor de auxiliares de cambios de política,Supervisor de auxiliares de alterações de política,Superviseur des employés de modifications de politique,مشرف كتبة تغييرات السياسات
+64486,Pescador de lubina,Pescador de robalo,Pêcheur de bar,صياد القاروس
+64487,Alineador de cuchillas,Alinhador de lâminas,Aligneur de lames,عامل محاذاة الشفرات
+64488,Enhebrador de pernos,Enfiador de parafusos,Enfileur de boulons,عامل تسنين المسامير
+64489,Ensacador de carbón,Ensacador de carvão,Ensacheur de charbon,عامل تعبئة الفحم
+64490,Cortador de fiambres,Fatiador de charcutaria,Trancheur de charcuterie,عامل تقطيع اللحوم الباردة
+64491,Registrador eléctrico,Registador elétrico,Enregistreur électrique,مسجل كهربائي
+64492,Vigilante de incendios,Vigilante de incêndios,Guetteur d'incendie,مراقب الحرائق
+64493,Alineador de bastidor,Alinhador de armação,Aligneur de cadre,عامل محاذاة الإطار
+64494,Pelador de frutas,Descascador de frutas,Éplucheur de fruits,عامل تقشير الفواكه
+64495,Consejero de juego,Conselheiro de jogo,Conseiller en jeux d'argent,مستشار القمار
+64496,Ensacador de comestibles,Ensacador de mercearia,Emballeur d'épicerie,عامل تعبئة البقالة
+64497,Enhebrador pesado,Enfiador pesado,Enfileur lourd,عامل تسنين ثقيل
+64498,Vigilante de cucharones,Vigilante de conchas,Surveillant de louches,مراقب الملاعق
+64503,Enhebrador de tuercas,Enfiador de porcas,Enfileur d'écrous,عامل تسنين الصواميل
+64504,Vigilante de pantógrafo,Vigilante de pantógrafo,Surveillant de pantographe,مراقب البانتوغراف
+64505,Enhebrador de tuberías,Enfiador de tubos,Enfileur de tuyaux,عامل تسنين الأنابيب
+64506,Pelador de postes,Descascador de postes,Écorceur de poteaux,عامل تقشير الأعمدة
+64507,Pelador de papas,Descascador de batatas,Éplucheur de pommes de terre,عامل تقشير البطاطس
+64508,Enhebrador de vástago,Enfiador de haste,Enfileur de tige,عامل تسنين الساق
+64509,Ensacador de perdigones,Ensacador de chumbo,Ensacheur de grenaille,عامل تعبئة الخرطوش
+64510,Registrador de palas,Registador de pás,Enregistreur de pelles,مسجل المجارف
+64511,Pelador de camarones,Descascador de camarão,Éplucheur de crevettes,عامل تقشير الروبيان
+64512,Enhebrador de lanzadera,Enfiador de lançadeira,Enfileur de navette,عامل تسنين المكوك
+64513,Ensacador de neumáticos,Ensacador de pneus,Ensacheur de pneus,عامل تعبئة الإطارات
+64514,Alineador de máquina de escribir,Alinhador de máquina de escrever,Aligneur de machine à écrire,عامل محاذاة الآلة الكاتبة
+64515,Ensacador utilitario,Ensacador utilitário,Ensacheur polyvalent,عامل تعبئة متعدد الأغراض
+64516,Registrador de pozos,Registador de poços,Diagraphiste de puits,مسجل الآبار
+64518,Enhebrador de alambre,Enfiador de arame,Enfileur de fil,عامل تسنين السلك
+64519,Vigilante inalámbrico,Vigilante sem fios,Surveillant sans fil,مراقب اللاسلكي
+64520,Administrador de Filenet,Administrador Filenet,Administrateur Filenet,مسؤول Filenet
+64521,Inspector final de volante de equilibrio,Inspetor final de volante de equilíbrio,Inspecteur final du balancier,مفتش نهائي لعجلة التوازن
+64522,Empalmador,Emendador,Raboutage,عامل الربط
+64524,Supervisor de sangre,Supervisor de sangue,Superviseur sang,مشرف الدم
+64528,Director de arquitectura de datos,Diretor de arquitetura de dados,Directeur de l'architecture des données,مدير هندسة البيانات
+64529,Director de arquitectura,Diretor de arquitetura,Directeur de l'architecture,مدير الهندسة المعمارية
+64531,Macho de piso,Macho de chão,Noyauteur de sol,عامل القوالب الرملية الأرضية
+64532,Ejecutivo de cuentas de salud,Gestor de contas de saúde,Responsable de comptes santé,مدير حسابات الرعاية الصحية
+64537,"Ayudante de pintor, pulverización","Auxiliar de pintor, pulverização","Aide peintre, pulvérisation",مساعد الدهان بالرش
+64539,Operador de radio en tierra,Operador de rádio em terra,Opérateur radio au sol,مشغل الراديو الأرضي
+64541,Auxiliar de montaje de mesas de comedor,Auxiliar de montagem de mesas de jantar,Auxiliaire de mise en place des tables de salle à manger,مساعد تجهيز طاولات غرفة الطعام
+64545,Clasificador de vellón,Classificador de velo,Trieur de toison,عامل فرز الصوف
+64546,Clasificador de cebolla,Classificador de cebola,Trieur d'oignons,عامل فرز البصل
+64548,Formador superior de macho,Formador superior de macho,Former supérieur de noyau,عامل تشكيل القالب العلوي
+64549,Integrador de aplicaciones,Integrador de aplicações,Intégrateur d'applications,مدمج التطبيقات
+64550,Descargador de viga,Descarregador de viga,Débobineur de rouleau,عامل تفريغ المحور
+64551,Descargador de bobinas,Descarregador de bobinas,Débobineur de bobines,عامل تفريغ البكرات
+64552,Descargador de latas,Descarregador de latas,Débobineur de boîtes,عامل تفريغ العلب
+64553,Descargador de tarjetas,Descarregador de cardas,Débobineur de cardes,عامل تفريغ البطاقات
+64554,Descargador de tela,Descarregador de tecido,Débobineur de tissu,عامل تفريغ القماش
+64555,Golpeador de cobre,Batedor de cobre,Tapeur de cuivre,عامل نقر النحاس
+64558,Ingeniero de desarrollo,Engenheiro de desenvolvimento,Ingénieur développement,مهندس تطوير
+64559,Integrador eléctrico,Integrador elétrico,Intégrateur électrique,مدمج كهربائي
+64560,Vigilante de motor,Vigilante de motor,Surveillant moteur,حارس المحرك
+64561,Vigilante de incendios,Vigilante de incêndios,Surveillant incendie,حارس الحرائق
+64563,Vigilante de portón,Vigilante de portão,Surveillant de portail,حارس البوابة
+64564,Descargador jefe,Descarregador chefe,Chef débobineur,رئيس عمال التفريغ
+64567,Descargador de telar,Descarregador de tear,Débobineur de métier,عامل تفريغ النول
+64573,Ingeniero de proyecto,Engenheiro de projeto,Ingénieur de projet,مهندس المشروع
+64575,Vigilante ferroviario,Vigilante ferroviário,Garde de chemin de fer,حارس السكك الحديدية
+64579,Descargador de hilatura,Descarregador de fiação,Débobineur de filature,عامل تفريغ الغزل
+64580,Ingeniero de sistemas,Engenheiro de sistemas,Ingénieur systèmes,مهندس الأنظمة
+64581,Integrador de sistemas,Integrador de sistemas,Intégrateur de systèmes,مدمج الأنظمة
+64583,Vigilante de madera,Vigilante de madeira,Garde forestier,حارس الأخشاب
+64584,Vigilante de torre,Vigilante de torre,Surveillant de tour,حارس البرج
+64585,Vigilante de vía,Vigilante de via,Surveillant de voie,حارس السكة
+64586,Descargador de torcido,Descarregador de torção,Débobineur de retorsion,عامل تفريغ الفتل
+64587,Descargador de urdimbre,Descarregador de urdume,Débobineur de chaîne,عامل تفريغ السدى
+64588,Redondeador de ala,Arredondador de aba,Arrondisseur de bord,عامل تدوير الحافة
+64592,Redondeador manual,Arredondador manual,Arrondisseur manuel,عامل التدوير اليدوي
+64595,Redondeador de plantilla,Arredondador de palmilha,Arrondisseur de semelle intérieure,عامل تدوير النعل الداخلي
+64597,Refinador de plomo,Refinador de chumbo,Affineur de plomb,عامل تكرير الرصاص
+64600,Refinador de metal,Refinador de metal,Affineur de métal,عامل تكرير المعادن
+64602,Redondeador de suela,Arredondador de sola exterior,Arrondisseur de semelle extérieure,عامل تدوير النعل الخارجي
+64604,Redondeador basto,Arredondador bruto,Arrondisseur brut,عامل التدوير الخشن
+64605,Refinador de sal,Refinador de sal,Affineur de sel,عامل تكرير الملح
+64606,Redondeador de suela,Arredondador de sola,Arrondisseur de semelle,عامل تدوير النعل
+64609,Molino de comerciante de rougher,Moinho de comerciante rougher,Moulin marchand rougher,مطحنة التاجر الخشنة
+64612,Facultad de agricultura sostenible,Faculdade de agricultura sustentável,Faculté d'agriculture durable,كلية الزراعة المستدامة
+64613,Constructor de platina,Construtor de platina,Constructeur de platine,عامل بناء اللوحة
+64614,Perforador de control de densidad,Perfurador de controlo de densidade,Perforateur de contrôle de densité,عامل ثقب مراقبة الكثافة
+64616,Supervisor de procesamiento de capacitores,Supervisor de processamento de condensadores,Superviseur du traitement de condensateurs,مشرف معالجة المكثفات
+64617,Artillero de defensa antiaérea ligera,Artilheiro de defesa antiaérea ligeira,Artilleur de défense antiaérienne légère,عضو طاقم مدفعية الدفاع الجوي الخفيف
+64618,Voluntario de actividades,Voluntário de atividades,Bénévole d'animation,متطوع الأنشطة
+64619,Voluntario administrativo,Voluntário administrativo,Bénévole administratif,متطوع إداري
+64620,Director integrado,Diretor integrado,Directeur intégré,مدير متكامل
+64621,Voluntario de cuidados paliativos,Voluntário de cuidados paliativos,Bénévole en soins palliatifs,متطوع الرعاية التلطيفية
+64622,Gerente integrado,Gestor integrado,Responsable intégré,مدير متكامل
+64624,Clasificador y mezclador de miel,Classificador e misturador de mel,Classificateur et mélangeur de miel,عامل تصنيف وخلط العسل
+64625,Cargador de fundición,Carregador de fundição,Chargeur de fonderie,عامل تحميل المسبك
+64628,Gerente de caja,Gestor de caixa,Responsable de caisse,مدير الصندوق
+64629,Operador de sistemas de cojinetes,Operador de sistemas de rolamentos,Opérateur de systèmes de paliers,مشغل أنظمة المحامل
+64632,Empleado de control de pedidos de banco de sangre,Empregado de controlo de encomendas de banco de sangue,Employé de contrôle des commandes de banque de sang,موظف مراقبة طلبات بنك الدم
+64633,Pulidor de duco,Polidor de duco,Polisseur de duco,عامل تلميع الدوكو
+64634,Pulidor de grabados,Polidor de gravações,Polisseur de gravures,عامل تلميع النقوش
+64637,Pulidor de goma laca,Polidor de goma-laca,Polisseur de gomme-laque,عامل تلميع الشلاك
+64639,Enganchador de cubeta de hormigón,Engatador de balde de betão,Accrocheur de benne à béton,عامل خطاف دلو الخرسانة
+64640,Recolector de pacanas a máquina,Colhedor de pecãs a máquina,Cueilleur de pacanes à machine,عامل جمع الجوز البيكاني بالآلة
+64642,Fabricante de formas de yeso,Fabricante de formas de gesso,Fabricant de formes en plâtre,صانع قوالب الجص
+64644,Fabricante de moldes de yeso,Fabricante de moldes de gesso,Fabricant de moules en plâtre,صانع القوالب الجصية
+64646,Supervisor de remolque de viaje,Supervisor de reboque de viagem,Superviseur de caravane,مشرف المقطورات السياحية
+64649,Escalador de mezcla,Escalador de mistura,Doseur de composition,عامل قياس المزيج
+64650,Vendador de cubo,Atador de cubo,Bandeur de moyeu,عامل ربط المحور
+64652,Cambiador de chaqueta,Mudador de casaco,Changeur de veste,عامل تغيير الغلاف
+64653,Clínico de tutoría,Clínico de tutoria,Clinicien de tutorat,أخصائي التدريس الخصوصي
+64654,Forrador de muñeca,Forrador de pulso,Doublure de poignet,عامل تبطين المعصم
+64656,Equilibrador de rotor,Equilibrador de rotor,Équilibreur de rotor,فني موازنة الدوار
+64658,Gerente de copias,Gestor de cópias,Responsable de copie,مدير النسخ
+64662,Director de divulgación,Diretor de divulgação,Directeur de la sensibilisation,مدير التوعية
+64663,Gerente de divulgación comunitaria,Gestor de divulgação comunitária,Responsable de la sensibilisation communautaire,مدير التوعية المجتمعية
+64664,Descargador de horno de secado,Descarregador de forno de secagem,Retireur de four de séchage,عامل إخراج أفران التجفيف
+64668,Inteligencia aérea de todas las fuentes,Inteligência aérea de todas as fontes,Renseignement aérien multisources,استخبارات جوية من جميع المصادر
+64671,Enganchador de agarre,Engatador de garra,Accrocheur à griffe,عامل خطاف القبضة
+64672,Enganchador de monocarril,Engatador de monocarril,Accrocheur de monorail,عامل خطاف السكة الأحادية
+64673,Transportista de escombros,Transportador de entulho,Transporteur de déblais,ناقل الأنقاض
+64674,Colocador de etiquetas,Colocador de autocolantes,Colleur d'étiquettes,عامل لصق الملصقات
+64677,Supervisor de planta de propulsores de cohetes,Supervisor de fábrica de propulsores de foguetes,Superviseur de l'usine de propergols de fusées,مشرف مصنع وقود الصواريخ
+64679,Técnico de guerra electrónica,Técnico de guerra eletrónica,Technicien de guerre électronique,فني الحرب الإلكترونية
+64682,Gerente de laboratorio de cateterismo,Gestor de laboratório de cateterismo,Responsable du laboratoire de cathétérisme,مدير مختبر القسطرة
+64684,Triturador de rábano picante,Triturador de rábano-picante,Broyeur de raifort,عامل طحن الفجل الحار
+64687,Afilador de tijeras,Afiador de tesouras,Affûteur de ciseaux,مشحذ المقصات
+64688,Director veterinario,Diretor veterinário,Directeur vétérinaire,مدير البيطرة
+64690,Gerente de soluciones,Gestor de soluções,Responsable des solutions,مدير الحلول
+64691,Gerente de SQL,Gestor de SQL,Responsable SQL,مدير SQL
+64692,Supervisor de chapas,Supervisor de folheados,Superviseur de placage,مشرف الشرائح الخشبية
+64693,Cosedor de maletines,Costureiro de pastas,Couturier de porte-documents,عامل خياطة الحقائب
+64694,Cosedor de bucarán,Costureiro de bucarão,Couturier de bougran,عامل خياطة القماش المقوى
+64695,Capa de contrachapado cruzado,Camada de contraplacado cruzado,Couche de contreplaqué croisé,طبقة الخشب الرقائقي المتقاطع
+64696,Colocador de losas,Colocador de lajes,Poseur de dalles,عامل وضع البلاط الحجري
+64697,Cosedor de horquilla,Costureiro de forquilha,Couturier de fourchette,عامل خياطة الشوكة
+64698,Cosedor de leno,Costureiro de leno,Couturier de leno,عامل خياطة النسيج الشبكي
+64699,Cosedor de mocasín,Costureiro de mocassim,Couturier de mocassin,عامل خياطة المداس
+64700,Cosedor de pulgar,Costureiro de polegar,Couturier de pouce,عامل خياطة الإبهام
+64701,Capa de tinte,Camada de tinta,Couche de teinte,عامل طبقة الصبغة
+64702,Director de ingeniería de almacenamiento de hidrógeno,Diretor de engenharia de armazenamento de hidrogénio,Directeur de l'ingénierie du stockage d'hydrogène,مدير هندسة تخزين الهيدروجين
+64703,Alimentador de máquina de copas de postre,Alimentador de máquina de taças de sobremesa,Alimentateur de machine à coupes de dessert,عامل تغذية آلة كؤوس الحلويات
+64704,Alimentador de máquina de deshuesado de pescado,Alimentador de máquina de desossar peixe,Alimentateur de machine à désosser le poisson,عامل تغذية آلة إزالة عظام السمك
+64705,Alimentador de tolva de relleno triturado,Alimentador de tremonha de recheio desfiado,Alimentateur de trémie de garniture effilochée,عامل تغذية قمع الحشو المفتت
+64706,Reparador de hoja de chapa,Reparador de folha de folheado,Réparateur de feuille de placage,مصلح الشريحة الخشبية
+64707,Miembro del equipo de precios y señalización,Membro da equipa de preços e sinalização,Membre de l'équipe prix et signalétique,عضو فريق الأسعار واللافتات
+64709,Miembro del Tribunal de Waitangi,Membro do Tribunal de Waitangi,Membre du Tribunal de Waitangi,عضو محكمة وايتانغي
+64710,Agricultor de ranas o ostras de pesca,Agricultor de pesca de rãs ou ostras,Éleveur de grenouilles ou d'huîtres,مزارع صيد الضفادع أو المحار
+64714,Topógrafo direccional de pozos petroleros,Topógrafo direcional de poços de petróleo,Topographe directionnel de puits de pétrole,مساح اتجاهي لآبار النفط
+64715,Bobinador de inducido automotriz,Bobinador de induzido automóvel,Bobineur d'induit automobile,عامل لف الدوارات للسيارات
+64716,Preenfriador de automóviles,Pré-arrefecedor de automóveis,Préréfrigérateur automobile,عامل التبريد المسبق للسيارات
+64717,Bombeador de goteo,Bombeador de gotejamento,Pompiste de goutte,عامل ضخ التقطير
+64720,Encuadernador de costura de cobertura,Encadernador de costura de cobertura,Relieur de couture de recouvrement,عامل تجليد خياطة التغطية
+64721,Colocador de escollera,Colocador de enrocamento,Poseur d'enrochement,عامل وضع الركام الحجري
+64722,Moldeador de goteo,Moldador de gotejamento,Mouleur de goutte,عامل قولبة التقطير
+64723,Moldeador de estereotipos,Moldador de estereotipos,Mouleur de stéréotypes,عامل قولبة الاستيريوتيب
+64724,Moldeador de barrido,Moldador de varredura,Mouleur de balayage,عامل قولبة الكشط
+64725,Fundidor de azúcar líquida,Fundidor de açúcar líquido,Fondeur de sucre liquide,عامل صهر السكر السائل
+64728,Trabajador de conservación de pastizales,Trabalhador de conservação de pastagens,Ouvrier de conservation des parcours,عامل حفظ المراعي
+64729,Trabajador de mantenimiento de caballetes,Trabalhador de manutenção de pórticos,Ouvrier d'entretien de chevalets,عامل صيانة الدعامات
+64732,Supervisor de fabricación de cable de acero,Supervisor de fabrico de cabo de aço,Superviseur de fabrication de câbles d'acier,مشرف تصنيع الحبال الفولاذية
+64733,Alimentador automático I de máquina de roscado,Alimentador automático I de máquina de roscagem,Alimentateur automatique I de machine de filetage,عامل تغذية آلة التسنين الآلية I
+64734,Alimentador trasero de línea de contrachapado,Alimentador traseiro de linha de contraplacado,Alimentateur arrière de ligne de contreplaqué,عامل التغذية الخلفية لخط الخشب الرقائقي
+64735,Alimentador de núcleo de línea de contrachapado,Alimentador de núcleo de linha de contraplacado,Alimentateur de couche centrale de ligne de contreplaqué,عامل تغذية الطبقة الوسطى لخط الخشب الرقائقي
+64736,Alimentador de máquina de lengüeta y ranura,Alimentador de máquina de macho e fêmea,Alimentateur de machine à rainure et languette,عامل تغذية آلة اللسان والأخدود
+64738,Apilador de fardos,Empilhador de fardos,Empileur de balles,عامل تكديس الأعدال
+64739,Arrancador de cabina,Arrancador de cabine,Démarreur de cabine,مشغل الكابينة
+64741,Conserje de resort para mascotas,Concierge de resort para animais,Concierge de pension pour animaux,موظف استقبال منتجع الحيوانات الأليفة
+64742,Ahusador de bobina de rotor,Afinador de bobina de rotor,Conicité de bobine de rotor,عامل تشطيب ملف الدوار
+64743,Arrancador de tranvía,Arrancador de elétrico,Démarreur de tramway,مشغل الترام
+64747,Fundidor de electrotipos,Fundidor de electrotipos,Fondeur d'électrotypes,عامل صب الكليشيهات
+64748,Reparador de greige,Reparador de greige,Réparateur de tissu écru,عامل ترقيع القماش الخام
+64753,Patólogo ocular,Patologista ocular,Pathologiste oculaire,عالم أمراض العيون
+64755,Compresor de elevación superior,Compressor de elevação superior,Compresseur de levage supérieur,عامل ضاغط الرفع العلوي
+64757,Operador de máquina de canalización,Operador de máquina de canalização,Opérateur de machine de canalisation,مشغل آلة التخديد
+64758,Alimentador de máquina de unión de puntadas,Alimentador de máquina de colagem de pontos,Alimentateur de machine de liage de points,عامل تغذية آلة ربط الغرز
+64759,Director de hardware,Diretor de hardware,Directeur du matériel,مدير الأجهزة
+64760,Director de parque,Diretor de parque,Directeur de parc,مدير الحديقة
+64763,Gerente de hardware,Gestor de hardware,Responsable matériel,مدير الأجهزة
+64764,Gerente de parque,Gestor de parque,Responsable de parc,مدير الحديقة
+64765,Ensamblador de vitral,Montador de vitral,Assembleur de vitraux,مُركّب الزجاج المعشق
+64766,Director cardiovascular,Diretor cardiovascular,Directeur cardiovasculaire,مدير القلب والأوعية الدموية
+64767,Muelle de cabecera,Doca de cabeceira,Quai de tête,رصيف الرأس
+64768,Gerente cardiovascular,Gestor cardiovascular,Responsable cardiovasculaire,مدير القلب والأوعية الدموية
+64770,VP cardiovascular,VP cardiovascular,VP cardiovasculaire,نائب الرئيس للقلب والأوعية الدموية
+64771,Plegador de material impermeable,Dobrador de material impermeável,Plieur de matériau imperméable,عامل طي المواد المقاومة للماء
+64772,Plegador de prendas de vestir,Dobrador de vestuário,Plieur de vêtements,عامل طي الملابس
+64778,Evaluador de riesgos del cambio climático,Avaliador de riscos das alterações climáticas,Évaluateur des risques du changement climatique,محلل مخاطر تغير المناخ
+64781,Instructor de inspección de productos,Instrutor de inspeção de produtos,Formateur en contrôle produit,مدرب فحص المنتجات
+64782,Trabajador de refinería de petróleo,Trabalhador de refinaria de petróleo,Ouvrier de raffinerie de pétrole,عامل مصفاة النفط
+64783,Trabajador de criadero de aves,Trabalhador de incubatório de aves,Ouvrier de couvoir avicole,عامل مفقس الدواجن
+64784,Hilandero de bastidor de tapa,Fiandeiro de armação de tampa,Fileur de cadre de capuchon,عامل دوران إطار الغطاء
+64785,Superintendente de terminal de contenedores,Superintendente de terminal de contentores,Surintendant de terminal à conteneurs,مشرف محطة الحاويات
+64787,Supervisor de inspección electrónica,Supervisor de inspeção eletrónica,Superviseur d'inspection électronique,مشرف الفحص الإلكتروني
+64790,Supervisor de inspección de productos,Supervisor de inspeção de produtos,Superviseur d'inspection produit,مشرف فحص المنتجات
+64791,Estudiante de estudio de trabajo,Estudante de trabalho de estudo,Étudiant en alternance,طالب دراسة العمل
+64792,Copresidente,Copresidente,Coprésident,نائب الرئيس المشارك
+64793,Presidente ejecutivo,Presidente executivo,Président exécutif,رئيس تنفيذي
+64795,Visitador domiciliario,Visitador domiciliário,Visiteur à domicile,زائر منزلي
+64796,Visitador de casas,Visitador de casas,Visiteur de maisons,زائر المنازل
+64798,Vicepresidente,Vice-presidente,Vice-président,نائب الرئيس
+64799,Visitador de bienestar social,Visitador de bem-estar social,Visiteur d'aide sociale,زائر الرعاية الاجتماعية
+64801,Alisador de ojal,Alisador de casa de botão,Ajusteur de boutonnière,عامل تشطيب العرى
+64802,Cabecero de lingotes,Cabeceira de lingotes,Tête de lingot,عامل رأس السبيكة
+64803,Gerente de empresa,Gestor de empresa,Responsable d'entreprise,مدير المؤسسة
+64804,Operador de freno de servicio pesado,Operador de travão de serviço pesado,Opérateur de frein service lourd,مشغل الفرامل الثقيلة
+64805,Clasificador de fibra camélida,Classificador de fibra de camelídeo,Trieur de fibres camélidés,عامل فرز ألياف الجمال
+64806,Asesor de electrificación,Consultor de eletrificação,Conseiller en électrification,مستشار الكهربة
+64807,Asesor de fraternidad,Conselheiro de fraternidade,Conseiller de fraternité,مستشار الأخوية
+64809,Operador de prensa de servicio pesado,Operador de prensa de serviço pesado,Opérateur de presse service lourd,مشغل المكبس الثقيل
+64810,Miembro de tripulación de defensa aérea y antimisiles,Membro de tripulação de defesa aérea e antimíssil,Membre d'équipage de défense aérienne et antimissile,عضو طاقم الدفاع الجوي والصاروخي
+64814,Director de economía doméstica,Diretor de economia doméstica,Directeur d'économie domestique,مدير الاقتصاد المنزلي
+64815,Reconstructor de embrague automotriz,Reconstrutor de embraiagem automóvel,Reconditionneur d'embrayage automobile,فني إعادة بناء القابض للسيارات
+64816,Recolector de plantas medicinales,Colhedor de plantas medicinais,Cueilleur de plantes médicinales,عامل جمع النباتات الطبية
+64818,Escariador de tubos de caldera,Escareador de tubos de caldeira,Alésoir de tubes de chaudière,عامل تنعيم أنابيب المرجل
+64819,Escariador de orificio central,Escareador de furo central,Alésoir de trou central,عامل تنعيم الثقب المركزي
+64823,Recubridor de embudo,Revestidor de funil,Enducteur d'entonnoir,عامل طلاء القمع
+64828,Encargado de planta de taller de carrocería,Encarregado de piso de oficina de chapa,Chef de plateau d'atelier carrosserie,مشرف أرضية ورشة الهياكل
+64829,Encargado de planta de hotel y casino,Encarregado de piso de hotel e casino,Chef de plateau hôtel-casino,مشرف أرضية الفندق والكازينو
+64830,Encargado de planta de alimentación de máquinas,Encarregado de piso de alimentação de máquinas,Chef de plateau d'alimentation machines,مشرف أرضية تغذية الآلات
+64831,Encargado de planta de manipulación de materiales,Encarregado de piso de manuseamento de materiais,Chef de plateau de manutention,مشرف أرضية مناولة المواد
+64832,Llamador de mostrador de pedidos,Chamador de balcão de encomendas,Appelant du bureau de commandes,منادي مكتب الطلبات
+64833,Asociado de laboratorio de calidad,Associado de laboratório de qualidade,Associé de laboratoire qualité,مساعد مختبر الجودة
+64834,Encargado de planta de manipulación de existencias,Encarregado de piso de manuseamento de stock,Chef de plateau de gestion des stocks,مشرف أرضية مناولة المخزون
+64835,Asociado de equipo de soporte,Associado de equipa de suporte,Associé d'équipe support,مساعد فريق الدعم
+64836,Encargado de planta de servicio de pozos,Encarregado de piso de serviço de poços,Chef de plateau de service de puits,مشرف أرضية خدمة الآبار
+64837,Hoja de talón de madera de caucho,Aba de salto de madeira de borracha,Rabat de talon en bois caoutchouté,غطاء الكعب الخشبي المطاطي
+64838,Encargado de caja de juegos de dados,Encarregado de caixa de jogo de dados,Croupier de table de craps,مشرف طاولة الكرابس
+64839,Operario apilador de heno a máquina,Operador apilador de feno a máquina,Opérateur empileur de foin à machine,عامل تكديس التبن بالآلة
+64843,Ajustador de tope inferior,Ajustador de batente inferior,Fixateur de butée inférieure,عامل تركيب المصد السفلي
+64844,Ajustador elástico de costura de cobertura,Ajustador elástico de costura de cobertura,Fixateur élastique de couture de recouvrement,عامل تركيب المطاط لخياطة التغطية
+64845,Proveedor de oncología naturopática,Prestador de oncologia naturopática,Prestataire d'oncologie naturopathique,مقدم خدمات الأورام الطبيعية
+64846,Investigador cualitativo ejecutivo,Investigador qualitativo executivo,Chercheur qualitatif exécutif,باحث نوعي تنفيذي
+64847,Investigador cualitativo sénior,Investigador qualitativo sénior,Chercheur qualitatif senior,باحث نوعي أول
+64848,Ajustador de tope superior,Ajustador de batente superior,Fixateur de butée supérieure,عامل تركيب المصد العلوي
+64849,Elevador de barriles,Elevador de barris,Élévateur de fûts,عامل رفع البراميل
+64850,Criador de monos,Criador de macacos,Éleveur de singes,مربي القرود
+64851,Miembro de tripulación de reconocimiento,Membro de tripulação de reconhecimento,Membre d'équipage de reconnaissance,عضو طاقم الاستطلاع
+64857,Supervisor de moldeo,Supervisor de moldagem,Superviseur de moulage,مشرف القولبة
+64858,Ensamblador de revestimiento de tanque de avión,Montador de revestimento de depósito de avião,Assembleur de doublure de réservoir d'avion,عامل تجميع بطانة خزان الطائرة
+64860,Ensamblador de transformador de núcleo Hypercil,Montador de transformador de núcleo Hypercil,Assembleur de transformateur à noyau Hypercil,عامل تجميع محول Hypercil
+64861,Ensamblador de tuercas y tornillos,Montador de porcas e parafusos,Assembleur d'écrous et de boulons,عامل تجميع المسامير والصواميل
+64862,Ensamblador de controlador lógico programable,Montador de controlador lógico programável,Assembleur d'automate programmable,عامل تجميع المتحكم المنطقي القابل للبرمجة
+64863,Ensamblador de parte superior de bota impermeable,Montador de parte superior de bota impermeável,Assembleur de tige de botte imperméable,عامل تجميع أعلى الحذاء المطاطي
+64864,Recortador de cepillos y escobas,Aparador de escovas e vassouras,Coupeur de brosses et balais,عامل تقليم الفرش والمكانس
+64868,Operador de sistemas de apoyo de mando,Operador de sistemas de apoio de comando,Opérateur des systèmes d'aide au commandement,مشغل أنظمة دعم القيادة
+64871,Director académico,Diretor académico,Directeur académique,مدير أكاديمي
+64872,Transportador de cinta de secado,Transportador de correia de secagem,Convoyeur à bande de séchage,ناقل حزام التجفيف
+64874,Supervisor de formado de placas,Supervisor de conformação de chapas,Superviseur de formage de tôles,مشرف تشكيل الألواح
+64876,Soporte de intranet,Suporte de intranet,Support intranet,دعم الإنترانت
+64879,Ensamblador ordenador,Montador ordenador,Assembleur ordonnateur,منظم التجميع
+64880,Ordenador de bolas,Arrumador de bolas,Rangeur de billes,عامل ترتيب الكرات
+64881,Recuperador de bandas,Recuperador de bandas,Récupérateur de bandes,عامل استرجاع الأشرطة
+64882,Ordenador de vigas,Arrumador de vigas,Rangeur de poutres,عامل ترتيب الأعمدة
+64884,Entintador inferior,Tingidor inferior,Teinteur inférieur,عامل تلوين الأسفل
+64885,Ordenador de pan,Arrumador de pão,Rangeur de pain,عامل ترتيب الخبز
+64886,Entintador de cepillo,Tingidor de escova,Teinteur à brosse,عامل تلوين الفرشاة
+64888,Entintador de borde,Tingidor de bordo,Teinteur de bord,عامل تلوين الحافة
+64889,Conservador de finca,Conservador de propriedade,Conservateur de domaine,حافظ الممتلكات
+64890,Arreglador floral,Arranjador floral,Fleuriste,منسق الزهور
+64891,Arreglador de flores,Arranjador de flores,Arrangeur de fleurs,منسق الزهور
+64893,Arreglador de muebles,Arranjador de mobiliário,Agenceur de meubles,منسق الأثاث
+64895,Entintador de talón,Tingidor de salto,Teinteur de talon,عامل تلوين الكعب
+64896,Ordenador de joyería,Arrumador de joalharia,Rangeur de bijouterie,عامل ترتيب المجوهرات
+64898,Ordenador de madera,Arrumador de madeira,Rangeur de bois,عامل ترتيب الأخشاب
+64899,Recuperador de madera,Recuperador de madeira,Récupérateur de bois,عامل استرجاع الأخشاب
+64900,Fogonero marítimo,Fogueiro marítimo,Chauffeur marin,عامل وقود السفن
+64904,Recuperador de piezas,Recuperador de peças,Récupérateur de pièces,عامل استرجاع القطع
+64905,Ordenador de tuberías,Arrumador de tubos,Rangeur de tuyaux,عامل ترتيب الأنابيب
+64906,Fogonero de olla,Fogueiro de caldeira,Chauffeur de marmite,عامل وقود الغلاية
+64907,Organizador de programas,Organizador de programas,Organisateur de programmes,منظم البرامج
+64908,Fogonero de retorta,Fogueiro de retorta,Chauffeur de cornue,عامل وقود المحرقة
+64909,Entintador de rodillo,Tingidor de rolo,Teinteur à rouleau,عامل تلوين الأسطوانة
+64910,Entintador de zapato,Tingidor de sapato,Teinteur de chaussure,عامل تلوين الحذاء
+64911,Fogonero de disparo,Fogueiro de tiro,Chauffeur de tir,عامل وقود الإطلاق
+64912,Entintador de suela,Tingidor de sola,Teinteur de semelle,عامل تلوين النعل
+64913,Recuperador de bobinas,Recuperador de bobinas,Récupérateur de bobines,عامل استرجاع البكرات
+64914,Entintador por pulverización,Tingidor por pulverização,Teinteur par pulvérisation,عامل تلوين بالرش
+64917,Recuperador de desechos,Recuperador de resíduos,Récupérateur de déchets,عامل استرجاع النفايات
+64919,Recuperador de hilo,Recuperador de fio,Récupérateur de fil,عامل استرجاع الخيوط
+64921,Clavador de bandas,Pregador de faixas,Cloueur de bandes,عامل تسمير الأشرطة
+64923,Clavador de cajas,Pregador de caixas,Cloueur de caisses,عامل تسمير الصناديق
+64924,Encerador de coches,Encerador de carros,Cireur de voitures,عامل تلميع السيارات
+64926,Clavador de bastidores,Pregador de armações,Cloueur de cadres,عامل تسمير الإطارات
+64927,Clavador de pieles,Pregador de peles,Cloueur de fourrures,عامل تسمير الفراء
+64928,Clavador manual,Pregador manual,Cloueur manuel,عامل التسمير اليدوي
+64930,Soldador fuerte por inducción,Brasador por indução,BrasEur par induction,عامل اللحام بالنحاس بالحث
+64932,Taladrador de plantilla,Furador de gabarito,Perceuse de gabarit,عامل ثقب القوالب
+64933,Clasificador de terrenos,Classificador de terrenos,Classificateur de terrains,مصنف الأراضي
+64934,Clasificador de piezas,Classificador de peças,Classificateur de pièces,مصنف القطع
+64935,Clasificador de postes,Classificador de postes,Classificateur de poteaux,مصنف الأعمدة
+64937,Clavador de asientos,Pregador de assentos,Cloueur de sièges,عامل تسمير المقاعد
+64938,Clasificador de tonalidades,Classificador de tonalidades,Classificateur de nuances,مصنف الظلال
+64940,Clasificador de sellos,Classificador de carimbos,Classificateur de timbres,مصنف الطوابع
+64942,Taladrador de pruebas,Furador de testes,Perceuse d'essai,عامل ثقب الاختبار
+64943,Clasificador de azulejos,Classificador de azulejos,Classificateur de carreaux,مصنف البلاط
+64944,Clasificador de neumáticos,Classificador de pneus,Classificateur de pneus,مصنف الإطارات
+64945,Taladrador vertical,Furador vertical,Perceuse verticale,عامل الثقب العمودي
+64946,Taladrador de ruedas,Furador de rodas,Perceuse de roues,عامل ثقب العجلات
+64949,Hierro de hilandero,Ferro de fiandeiro,Fer de fileur,عامل كي الغزل
+64952,Superintendente de perforación de campos petroleros,Superintendente de perfuração de campos petrolíferos,Surintendant de forage pétrolier,مشرف حفر حقول النفط
+64955,Trabajador de casa de máquinas,Trabalhador de central elétrica,Ouvrier de centrale,عامل محطة الطاقة
+64957,Afinador de lengüetas metálicas,Afinador de palhetas metálicas,Accordeur de anches métalliques,فني ضبط القصبات المعدنية
+64958,Inspector final de ensamblaje de mecanismo,Inspetor final de montagem de mecanismo,Inspecteur final d'assemblage de mouvement,مفتش نهائي لتجميع الحركة
+64959,Inspector de subensamblaje de piso,Inspetor de subconjunto de piso,Inspecteur de sous-ensemble de plancher,مفتش التجميع الفرعي للأرضية
+64961,Quemador de cadmio,Queimador de cádmio,Brûleur de cadmium,عامل حرق الكادميوم
+64964,Cableador de telégrafo,Cablador de telégrafo,Câbleur de téléscripteur,عامل توصيل الجهاز البرقي
+64969,Doble fotográfico,Duplo fotográfico,Doublure photographique,بديل التصوير
+64971,Supervisor de jardines,Supervisor de jardins,Superviseur des espaces verts,مشرف الحدائق
+64972,Regador de madera,Regador de madeira,Arroseur de bois,عامل رش الأخشاب
+64973,Contratista de transporte,Empreiteiro de transporte,Entrepreneur de transport,مقاول النقل
+64977,Contratista de permacultura,Empreiteiro de permacultura,Entrepreneur en permaculture,مقاول الزراعة الدائمة
+64979,Enmarcador de monederos,Emoldurador de porta-moedas,Encadreur de porte-monnaie,عامل تأطير المحافظ
+64981,Basteador de sisa de jumpbasting,Alinhavador de cava jumpbasting,Bâtisseur d'emmanchure jumpbasting,عامل تقطيع فتحة الإبط
+64985,Sumergidor de agujas de reloj,Mergulhador de ponteiros de relógio,Plongeur d'aiguilles d'horloge,عامل غمس عقارب الساعة
+64989,Gerente de experiencia de usuario,Gestor de experiência do utilizador,Responsable de l'expérience utilisateur,مدير تجربة المستخدم
+64995,Comprador encubierto,Comprador investigativo,Client mystère,متسوق استقصائي
+64998,Operador automático de máquina de inclinación,Operador automático de máquina de inclinação,Opérateur automatique de machine de basculement,مشغل آلة الإمالة الآلية
+64999,Director de admisiones de posgrado,Diretor de admissões de pós-graduação,Directeur des admissions en troisième cycle,مدير قبول الدراسات العليا
+65000,Moledor de pimiento chile,Moedor de pimenta chili,Broyeur de piment,عامل طحن الفلفل الحار
+65003,Gerente de internet,Gestor de internet,Responsable internet,مدير الإنترنت
+65004,Jefe de tripulación de helicóptero presidencial,Chefe de tripulação do helicóptero presidencial,Chef d'équipage de l'hélicoptère présidentiel,قائد طاقم مروحية الرئاسة
+65005,Jefe de pruebas y regulación,Chefe de testes e regulação,Chef des essais et de la régulation,رئيس الاختبار والتنظيم
+65014,Esteticista enfermera,Esteticista enfermeira,Infirmière esthéticienne,ممرضة تجميل
+65017,Gerente de generación,Gestor de geração,Responsable de production,مدير التوليد
+65018,Gerente de colocación,Gestor de colocação,Responsable de placement,مدير التوظيف
+65019,Compresor de suela,Compressor de sola,Compresseur de semelle,عامل ضغط النعل
+65022,Supervisor de orientación y pruebas,Supervisor de orientação e testes,Superviseur d'orientation et des tests,مشرف التوجيه والاختبارات
+65025,Técnico de desodorizantes de aire,Técnico de desodorizantes de ar,Entretien désodorisants d'air,فني أجهزة تعطير الهواء
+65026,Técnico de máquinas de discos,Técnico de máquinas de discos,Entretien de juke-box,فني صيانة أجهزة الموسيقى
+65029,Educador de asma,Educador de asma,Éducateur de l'asthme,مثقف مرضى الربو
+65030,Experto en cifrado,Especialista em cifras,Expert en chiffrement,خبير التشفير
+65031,Experto en CMS,Especialista em CMS,Expert CMS,خبير CMS
+65034,Educador de diabetes,Educador de diabetes,Éducateur diabète,مثقف مرضى السكري
+65043,Criador de serpientes de cascabel,Criador de cobras-cascavel,Éleveur de crotales,مربي الأفاعي الجرسية
+65045,Supervisor de servicio de respuesta telefónica,Supervisor de serviço de atendimento telefónico,Superviseur du service de réponse téléphonique,مشرف خدمة الرد الهاتفي
+65046,Supervisor del departamento de urdido,Supervisor do departamento de urdidura,Superviseur du service d'ourdissage,مشرف قسم السدى
+65047,Director de relaciones con exalumnos,Diretor de relações com antigos alunos,Directeur des relations avec les anciens élèves,مدير علاقات الخريجين
+65048,Presidente y cofundador,Presidente e cofundador,Président et cofondateur,رئيس ومؤسس مشارك
+65054,Examinador de licencias de vehículos motorizados,Examinador de licenças de veículos motorizados,Examinateur de permis de conduire,فاحص رخص المركبات الآلية
+65056,Analista de alimentos y bebidas,Analista de alimentos e bebidas,Analyste restauration et boissons,محلل الأغذية والمشروبات
+65057,Director de alimentos y bebidas,Diretor de alimentos e bebidas,Directeur de la restauration et des boissons,مدير الأغذية والمشروبات
+65058,Pulverizador de metal de piezas mecanizadas,Pulverizador de metal de peças maquinadas,Métalliseur de pièces usinées,عامل رش المعادن للقطع المصنعة
+65059,Doblador de varillas de refuerzo,Dobrador de varões de aço,Cintreur d'armatures,عامل ثني حديد التسليح
+65060,Medidor de sutura,Medidor de sutura,Calibreur de sutures,عامل قياس الخياطة الجراحية
+65062,Ayudante de cargador de patio de clasificación,Auxiliar de carregador de pátio de triagem,Aide chargeur de cour de triage,مساعد عامل تحميل ساحة الفرز
+65063,Mantenedor de ticker,Mantenedor de ticker,Mainteneur de ticker,مشرف صيانة جهاز التيكر
+65064,Constructor de vigas,Construtor de vigas,Constructeur de poutres,بنّاء العوارض
+65065,Picador de pescado con cuchillo de cuadrilla,Cortador de peixe com faca de equipa,Découpeur de poisson à couteau en gang,عامل تقطيع السمك بسكين جماعي
+65066,Cargador de torre de caliza,Carregador de torre de calcário,Chargeur de tour de calcaire,عامل تحميل برج الحجر الجيري
+65067,Gerente de mascotas,Gestor de animais de estimação,Responsable d'animaux de compagnie,مدير الحيوانات الأليفة
+65068,Cargador de cuchillas mellada,Carregador de lâminas dentadas,Chargeur de lames crantées,عامل تحميل الشفرات المسننة
+65071,Iniciador de carreras de caballos,Iniciador de corridas de cavalos,Starter de courses hippiques,مُنطلق سباقات الخيل
+65072,Operador de proceso automatizado,Operador de processo automatizado,Opérateur de procédé automatisé,مشغل العملية الآلية
+65073,Pulidor de talón de esmeril,Polidor de esmeril de salto,Polisseur d'émeri de talon,عامل تلميع الكعب بالحجر الصنفرة
+65074,Pulidor de almohadilla inflada,Polidor de almofada insuflada,Polisseur de coussin gonflé,عامل تلميع الوسادة المنفوخة
+65075,Recolector de mangle,Recolector de calandra,Récupérateur de calandre,عامل جمع المكواة
+65076,Corredor de estacas de cuadrilla de topografía,Corredor de estacas de equipa de topografia,Porte-jalons d'équipe de topographie,عامل الأوتاد لفريق المساحة
+65078,Director estatal,Diretor estadual,Directeur d'État,مدير الولاية
+65079,Recadero,Recadeiro,Coursier,ساعي المهام
+65083,Supervisor de carga de casos,Supervisor de carregamento de casos,Superviseur du chargement des caisses,مشرف تحميل الصناديق
+65084,Artesano de ventanas y revestimientos,Artesão de janelas e revestimentos,Artisan de fenêtres et bardages,حرفي النوافذ والكسوة
+65086,Bordeador de círculos,Rebordeador de círculos,Ébavureur de cercles,عامل تشذيب الدوائر
+65089,Bordeador de escuadras,Rebordeador de escantilhões,Ébavureur de goussets,عامل تشذيب الدعامات
+65090,Presidente de universidad,Presidente de universidade,Président d'université,رئيس الكلية أو الجامعة
+65091,Buzo de buceo autónomo,Mergulhador de escafandro,Plongeur sous-marin,غطاس الغوص بالقربة
+65092,Ensamblador de cintura,Montador de cintura,Assembleur de taille,عامل تجميع الخصر
+65093,Vicepresidente de adquisición de talento,Vice-presidente de aquisição de talentos,Vice-président de l'acquisition de talents,نائب الرئيس لاستقطاب المواهب
+65094,Probador de vestidos de novia,Provador de vestidos de noiva,Essayeur de robes de mariée,عامل مقاسات فساتين الزفاف
+65095,Ajustador de tapa de maletero,Ajustador de tampa de porta-bagagens,Monteur de couvercle de coffre,عامل تركيب غطاء الصندوق
+65098,Gerente de revisión de utilización,Gestor de revisão de utilização,Responsable de la revue d'utilisation,مدير مراجعة الاستخدام
+65099,Presidente de compañía fiduciaria,Presidente de empresa fiduciária,Président de société fiduciaire,رئيس شركة الائتمان
+65100,Supervisor de hincado de pilotes,Supervisor de cravação de estacas,Superviseur de battage de pieux,مشرف دق الركائز
+65101,Ajustador de nervadura ventilada,Ajustador de nervura ventilada,Monteur de nervure ventilée,عامل تركيب الضلع المهوّى
+65102,Desbrozador de apio,Desbastador de aipo,Effeuilleur de céleri,عامل تقليم الكرفس
+65103,Insertador de cámara de aire,Inseridor de câmara de ar,Inséreur de chambre à air,عامل إدخال الأنبوب الداخلي
+65104,Calibrador de diámetro de joya,Calibrador de diâmetro de joia,Calibreur de diamètre de bijou,عامل قياس قطر الجواهر
+65105,Calibrador de discos de lente,Calibrador de discos de lente,Calibreur de disques d'optique,عامل قياس أقراص العدسات
+65106,Desollador de tocino,Descascador de toucinho,Écorceur de bacon,عامل سلخ لحم الخنزير المقدد
+65107,Enfriador de cajas,Arrefecedor de caixas,Refroidisseur de caisses,عامل تبريد الصناديق
+65108,Bobinador de fusibles,Bobinador de fusíveis,Bobineur de fusibles,عامل لف المصهرات
+65111,Jefe de transporte,Chefe de transporte,Chef de transport,مشرف النقل
+65112,Monitor de PVC,Monitor de PVC,Surveillant PVC,مراقب PVC
+65113,Jefe de lavadero,Chefe de lavagem,Chef de laverie,مشرف الغسيل
+65114,Equilibrador de ventiladores,Equilibrador de ventoinhas,Équilibreur de ventilateurs,فني موازنة المراوح
+65121,Encargado de terrenos,Encarregado de terrenos,Gardien des terrains,حارس الأراضي
+65123,Director de cuidados agudos,Diretor de cuidados agudos,Directeur des soins aigus,مدير الرعاية الحادة
+65124,Director de instrumentación,Diretor de instrumentação,Directeur de l'instrumentation,مدير الأجهزة والقياس
+65126,Gerente de cuidados agudos,Gestor de cuidados agudos,Responsable des soins aigus,مدير الرعاية الحادة
+65127,Gerente de instrumentación,Gestor de instrumentação,Responsable de l'instrumentation,مدير الأجهزة والقياس
+65133,Cinturón negro de mejora continua,Cintura negra de melhoria contínua,Ceinture noire d'amélioration continue,حزام أسود للتحسين المستمر
+65135,Enganchador de tirón,Engatador de puxão,Accrocheur de traction,عامل خطاف السحب
+65136,Persona de prueba eléctrica,Pessoa de ensaio elétrico,Opérateur d'essai électrique,عامل الاختبار الكهربائي
+65137,Pilar de cable de suspensión,Pilar de cabo de suspensão,Pilier de câble de suspension,عامل طبقات كابل التعليق
+65142,Dispensador de helado,Dispensador de gelados,Distributeur de glace,عامل توزيع الآيس كريم
+65143,Rayador de último código,Riscador de último código,Traceur du dernier code,عامل تخطيط الكود الأخير
+65145,Sección de mantenimiento de línea,Secção de manutenção de linha,Section d'entretien de ligne,قسم صيانة الخط
+65148,Rayador de pistola de pulverización,Riscador de pistola de pulverização,Rayeur de pistolet de pulvérisation,عامل تخطيط مسدس الرش
+65149,Supervisor de fabricación de resortes de cuerda,Supervisor de fabrico de molas espirais,Superviseur de fabrication de ressorts spiraux,مشرف تصنيع النابض الحلزوني
+65151,Rayador de lavadora,Riscador de máquina de lavar,Rayeur de machine à laver,عامل تخطيط الغسالة
+65152,Insertador de pinza,Inseridor de pinça,Attacheur de pince,عامل تركيب المشبك
+65154,Jinete de viaje,Cavaleiro de viagem,Cavalier de voyage,راكب الرحلة
+65155,Investigador de vulnerabilidades,Investigador de vulnerabilidades,Chercheur en vulnérabilités,باحث الثغرات الأمنية
+65156,Recibidor de protección de activos,Recepcionista de proteção de ativos,Accueillant de protection des actifs,مستقبل حماية الأصول
+65161,Capataz de cuadrilla manual,Capataz de equipa manual,Contremaître d'équipe manuelle,مشرف الفريق اليدوي
+65162,Capataz de paisajismo duro,Capataz de paisagismo duro,Contremaître d'aménagement dur,مشرف الأعمال الصلبة للمناظر الطبيعية
+65163,Capataz operador/asistente,Capataz operador/assistente,Contremaître opérateur/assistant,مشرف المشغل/المساعد
+65164,Piloto de remolque,Piloto de reboque,Pilote de remorquage,طيّار الجر
+65165,Instalador de pararrayos,Instalador de para-raios,Installateur de paratonnerre,عامل تركيب مانعات الصواعق
+65168,Supervisor de procesamiento de carnada de pescado,Supervisor de processamento de isca de peixe,Superviseur de la transformation des appâts,مشرف تجهيز طعم السمك
+65169,Ajustador de empuje de extremo de barril,Ajustador de empuje de extremidade de barril,Régleur de poussée de fond de tonneau,فني ضبط دفع طرف البرميل
+65170,Ajustador de empuje de extremo de barril,Ajustador de empuje de extremidade de barril,Régleur de poussée de fond de tonneau,فني ضبط دفع طرف البرميل
+65172,Modelista de carpintería,Modelista de carpintaria,Modéliste de menuiserie,مُصمم نماذج النجارة
+65174,Selector de inquilinos,Selecionador de inquilinos,Sélectionneur de locataires,مختار المستأجرين
+65175,Piedra de sierra circular,Pedra de serra circular,Pierre de scie circulaire,عامل حجر المنشار الدائري
+65176,Secador de aserrín,Secador de serradura,Sécheur de sciure,عامل تجفيف نشارة الخشب
+65178,Recortador de rueda de pulido,Aparador de roda de polimento,Ébarbeur de meule de polissage,عامل تشذيب عجلة التلميع
+65179,Gerente verde,Gestor verde,Responsable vert,مدير البيئة الخضراء
+65183,Asistente de tienda de comestibles,Assistente de mercearia,Assistant d'épicerie,مساعد البقالة
+65184,Gerente de aviación,Gestor de aviação,Responsable aviation,مدير الطيران
+65185,Gerente de equilibrio,Gestor de equilíbrio,Responsable d'équilibrage,مدير التوازن
+65186,Gerente de tienda de comestibles,Gestor de mercearia,Responsable d'épicerie,مدير البقالة
+65187,Superintendente de tala,Superintendente de exploração florestal,Surintendant de l'exploitation forestière,مشرف قطع الأخشاب
+65188,Supervisor de tala,Supervisor de exploração florestal,Superviseur d'exploitation forestière,مشرف قطع الأخشاب
+65190,Cepillador y cizallador,Escovador e tosquiador,Brosseur et cisailleur,عامل التنظيف والقص
+65191,Cizallador de laminador en caliente,Tesoura de laminador a quente,Cisailleur de laminoir à chaud,عامل قص درفلة الساخن
+65192,Jefe de logística de transporte,Chefe de logística de transporte,Responsable de la logistique de transport,رئيس لوجستيات النقل
+65193,Procesador de amalgama dental,Processador de amálgama dentária,Opérateur d'amalgame dentaire,عامل معالجة الملغم السني
+65195,Gerente de reclutamiento,Gestor de recrutamento,Responsable du recrutement,مدير التوظيف
+65196,Procesador de recuperación de bandejas,Processador de recuperação de tabuleiros,Opérateur de récupération de bacs,عامل استرداد الصواني
+65197,Jefe de cincelado,Chefe de cinzelagem,Chef de burinage,رئيس عمال النحت
+65201,Jefe de plantillado,Chefe de moldagem,Chef de gabarit,رئيس عمال القوالب
+65202,Endurecedor por inducción electrónica,Endurecedor por indução eletrónica,Durcisseur par induction électronique,فني تقسية بالحث الإلكتروني
+65206,Supervisor de llenado y empaquetado,Supervisor de enchimento e embalagem,Superviseur de remplissage et d'emballage,مشرف التعبئة والتغليف
+65207,Clasificador de ovejas o terneros,Classificador de ovelhas ou vitelos,Classificateur d'ovins ou de veaux,مصنف الأغنام والعجول
+65209,Modelista polivalente,Modelista polivalente,Modéliste polyvalent,مُصمم نماذج متعدد المهارات
+65210,Perforador de sombreros,Perfurador de chapéus,Perforateur de chapeaux,عامل ثقب القبعات
+65211,Comisionado de compensación laboral,Comissário de compensação laboral,Commissaire aux accidents du travail,مفوض تعويضات العمل
+65213,Fabricante de ruedas de pulido,Fabricante de rodas de polimento,Fabricant de meules de polissage,صانع عجلات التلميع
+65214,Estimador de cajas de cartón,Estimador de caixas de cartão,Estimateur de boîtes en carton,مقدّر صناديق الكرتون
+65215,Cambiador de insertos de molde,Mudador de insertos de molde,Changeur d'inserts de moule,عامل تغيير قوالب الأدوات
+65217,Hilvanador de solapa,Alinhavador de lapela,Bâtisseur de revers,عامل تعضيد الياقة
+65218,Tratador de lejía,Tratador de lixívia,Traiteur à la lessive,عامل معالجة بالقلويات
+65219,Caucho ruso,Borracha russa,Caoutchouc russe,المطاط الروسي
+65227,Chatarrero,Sucateiro,Ferrailleur,تاجر الخردة
+65229,Arreglador de acolchados,Reparador de colchas,Réparateur de piqués,مُصلح اللحف المبطنة
+65230,Programador HIMS,Programador HIMS,Codeur HIMS,مبرمج HIMS
+65238,Escalador de ingredientes,Escalador de ingredientes,Doseur d'ingrédients,عامل قياس المكونات
+65240,Trampero submarino,Armador submarino,Piégeur sous-marin,صياد المصائد تحت الماء
+65241,Mano de obra auxiliar de bloques y ladrillos,Mão de obra auxiliar de blocos e tijolos,Main-d'œuvre auxiliaire briques et blocs,عمالة مساعدة للطوب والكتل
+65243,Gerente conductual,Gestor comportamental,Responsable comportemental,مدير السلوك
+65244,Gerente de documentos,Gestor de documentos,Responsable documentaire,مدير الوثائق
+65245,Cambiador de cuchillas de máquina trituradora,Mudador de facas de máquina trituradora,Changeur de couteaux de broyeur,عامل تغيير شفرات آلة التقطيع
+65246,"Cargador de cúpula, aislamiento","Carregador de cúpula, isolamento","Chargeur de cubilot, isolation",عامل تحميل الكوبولا للعزل
+65247,"Operador de cúpula, aislamiento","Operador de cúpula, isolamento","Opérateur de cubilot, isolation",مشغل الكوبولا للعزل
+65253,Empacador de bandoleras,Embalador de bandoleiras,Emballeur de bandoulières,عامل تعبئة الأحزمة
+65256,Empacador de crisoles,Embalador de cadinhos,Emballeur de creusets,عامل تعبئة البواتق
+65265,Desnatador de convertidor,Escumador de conversor,Écumeur de convertisseur,عامل إزالة الزبد من المحوّل
+65268,Cortador de frente,Cortador de face,Refendeur de parement,عامل شق الوجه
+65270,Desnatador de caldera,Escumador de caldeira,Écumeur de chaudron,عامل إزالة الزبد من المرجل
+65271,Colorista de cuero,Colorista de couro,Coloriste de cuir,عامل تلوين الجلد
+65272,Colorista de mapas,Colorista de mapas,Coloriste de cartes,عامل تلوين الخرائط
+65275,Colorista de papel,Colorista de papel,Coloriste de papier,عامل تلوين الورق
+65276,Colorista de fotos,Colorista de fotos,Coloriste de photos,عامل تلوين الصور
+65278,Colorista de placas,Colorista de placas,Coloriste de plaques,عامل تلوين الألواح
+65280,Capa envolvente de máquina de relleno desmenuzado,Camada envolvente de máquina de recheio desfiado,Couche d'enveloppement de machine de garniture effilochée,طبقة تغليف آلة الحشو المفتت
+65281,Desnatador de tina,Escumador de tina,Écumeur de cuve,عامل إزالة الزبد من الخزان
+65282,Desnatador de zinc,Escumador de zinco,Écumeur de zinc,عامل إزالة خبث الزنك
+65283,Artista Ben Day,Artista Ben Day,Artiste Ben Day,فنان بن داي
+65285,Técnico de casas rodantes,Técnico de casas-reboque,Entretien de caravanes,فني صيانة المقطورات السكنية
+65287,Ensamblador de unión,Montador de colagem,Assembleur de collage,عامل تجميع الربط
+65289,Director de personal,Diretor de pessoal,Directeur du personnel,مدير التوظيف
+65290,Limador de acabado,Limador de acabamento,Limeur de finition,عامل التشطيب بالمبرد
+65291,Operario de tubería,Operador de conduta,Ouvrier de pipeline,عامل خطوط الأنابيب
+65297,Supervisor de unión,Supervisor de colagem,Superviseur de collage,مشرف الربط
+65298,Supervisor de garaje,Supervisor de garagem,Superviseur de garage,مشرف الكراج
+65300,Formador de punta de cosido,Formador de biqueira de costura,Formeur de bout à piqûre,عامل تشكيل مقدمة الحذاء المخيط
+65302,Formulador compuestor,Formulador compositor,Formulateur composeur,مُركّب التركيبات
+65303,Correspondente legislativo,Correspondente legislativo,Correspondant législatif,مراسل تشريعي
+65305,Cortador de cinta,Cortador de mecha,Hachoir à mèche,عامل تقطيع الفتيل
+65306,Transportista de radiología,Transportador de radiologia,Transporteur radiologie,ناقل الأشعة
+65307,Recolector de metraje,Recolhedor de metragem,Collecteur de métrage,منادي الأقمشة بالمتر
+65311,Supervisor de granja de árboles de Navidad,Supervisor de quinta de árvores de Natal,Superviseur de ferme à sapins de Noël,مشرف مزرعة أشجار الكريسماس
+65315,Descargador de tripas de embutido en bloque,Descarregador de tripa de salsicha a granel,Décharge de boyaux de saucisson en vrac,عامل تفريغ أغلفة اللحوم المصنعة
+65316,Director de cardiología,Diretor de cardiologia,Directeur de cardiologie,مدير أمراض القلب
+65323,Reparador de ruidos y fugas,Reparador de ruídos e fugas,Réparateur de bruits et fuites,مصلح الصرير والتسربات
+65325,"Reparador de ruidos, traqueteos y fugas","Reparador de ruídos, vibrações e fugas","Réparateur de bruits, vibrations et fuites",مصلح الصرير والاهتزاز والتسربات
+65326,Colocador de grapas laterales,Colocador de grampos laterais,Poseur d'agrafes latérales,عامل تركيب المشابك الجانبية
+65331,Recuperador de latón,Recuperador de latão,Récupérateur de laiton,عامل استرجاع النحاس الأصفر
+65332,Recuperador de botones,Recuperador de botões,Récupérateur de boutons,عامل استرجاع الأزرار
+65342,Recuperador de oro,Recuperador de ouro,Récupérateur d'or,عامل استرجاع الذهب
+65344,Escalador de alturas,Escalador de alturas,Grimpeur de hauteur,متسلق المرتفعات
+65345,Empacador de medias,Embalador de meias,Emballeur de bas,عامل تعبئة الجوارب
+65347,Recuperador de material,Recuperador de material,Récupérateur de matériaux,عامل استرجاع المواد
+65351,Pastor de música,Pastor de música,Pasteur musical,راعي الموسيقى
+65353,Escalador de postes,Escalador de postes,Grimpeur de poteaux,متسلق الأعمدة
+65355,Recuperador de rollos,Recuperador de rolos,Récupérateur de rouleaux,عامل استرجاع الأسطوانات
+65361,Escalador de torres,Escalador de torres,Grimpeur de tours,متسلق الأبراج
+65364,Escalador de recortes,Escalador de aparadores,Grimpeur-ébarbeur,متسلق مشذّب
+65365,Recuperador de desechos,Recuperador de resíduos,Récupérateur de déchets,عامل استرجاع النفايات
+65368,Director gubernamental,Diretor governamental,Directeur gouvernemental,مدير حكومي
+65369,Director de informes,Diretor de relatórios,Directeur des rapports,مدير التقارير
+65370,Gerente de clínica,Gestor de clínica,Responsable de clinique,مدير العيادة
+65371,Gerente gubernamental,Gestor governamental,Responsable gouvernemental,مدير حكومي
+65372,Gerente militar,Gestor militar,Responsable militaire,مدير عسكري
+65373,Gerente de informes,Gestor de relatórios,Responsable des rapports,مدير التقارير
+65376,Bombeador de presa de relaves,Bombeador de barragem de rejeitos,Pompiste de digue à résidus,عامل ضخ سد الذيول
+65382,Agitador de arado,Agitador de arado,Secoueur de charrue,عامل هز المحراث
+65385,Cola de resierra,Cauda de re-serra,Queue de resciage,عامل تقطيع الألواح الثانوي
+65386,Moldeador de muela de esmeril,Moldador de rebolo,Mouleur de meule,عامل قولبة عجلة الصنفرة
+65387,Moldeador de bola inflada,Moldador de bola insuflada,Mouleur de ballon gonflé,عامل قولبة الكرة المنفوخة
+65390,Moldeador de productos de tocador,Moldador de produtos de higiene,Mouleur de produits sanitaires,عامل قولبة منتجات الحمام
+65393,Encerador de cajón,Encerador de gaveta,Cireur de tiroir,عامل تشميع الدرج
+65394,Encerador de película,Encerador de película,Cireur de film,عامل تشميع الفيلم
+65395,Encerador de suelos,Encerador de pisos,Cireur de sols,عامل تشميع الأرضيات
+65396,Encerador de joyas,Encerador de joias,Cireur de bijoux,عامل تشميع المجوهرات
+65397,Encerador de hormas,Encerador de formas,Cireur de formes,عامل تشميع القوالب
+65399,Encerador de porcelana,Encerador de porcelana,Cireur de porcelaine,عامل تشميع الخزف
+65402,Mezclador de harina autoleudante,Misturador de farinha com fermento,Mélangeur de farine auto-levante,عامل خلط الدقيق المختمر
+65403,Mezclador de almidón y prosize,Misturador de amido e prosize,Mélangeur d'amidon et de prosize,عامل خلط النشا والبروسايز
+65405,Ensamblador de hombros de punto cerrado,Montador de ombros de ponto fechado,Assembleur d'épaules à point noué,عامل تجميع الأكتاف بغرزة مقفلة
+65407,Despachador de bomberos forestales,Despachante de bombeiros florestais,Régulateur des pompiers forestiers,منسق إطفاء الحرائق الغابية
+65408,Registrador universitario,Registador universitário,Registraire universitaire,مسجل الكلية أو الجامعة
+65413,Supervisor de taller de montaje,Supervisor de oficina de montagem,Superviseur d'atelier de montage,مشرف ورشة التركيب
+65418,Supervisor de gestión de producción,Supervisor de gestão de produção,Superviseur de gestion de production,مشرف إدارة الإنتاج
+65419,Monitor nocturno de vigilancia,Monitor noturno de vigilância,Surveillant de nuit,مراقب الليل
+65425,Operador de máquina robótica de producción,Operador de máquina robótica de produção,Opérateur de machine robotique de production,مشغل الآلة الروبوتية للإنتاج
+65426,Recogedor de alimentador de tabaco,Recolhedor de alimentador de tabaco,Attrapeur d'alimentateur de tabac,عامل التقاط مغذي التبغ
+65428,Operario de tiro superior,Operador de tração superior,Tireur supérieur,عامل السحب العلوي
+65433,"Técnico de mantenimiento, segundo turno","Técnico de manutenção, segundo turno","Technicien de maintenance, 2e équipe",فني الصيانة، الوردية الثانية
+65436,"Supervisor de operaciones, segundo turno","Supervisor de operações, segundo turno","Superviseur des opérations, 2e équipe",مشرف العمليات، الوردية الثانية
+65438,Superintendente de terminal petrolero marítimo,Superintendente de terminal petrolífero marítimo,Surintendant de terminal pétrolier maritime,مشرف محطة النفط البحرية
+65440,Gerente de heridas,Gestor de feridas,Responsable des plaies,مدير علاج الجروح
+65444,Supervisor de heridas,Supervisor de feridas,Superviseur des plaies,مشرف علاج الجروح
+65448,Cosedor McKay,Costureiro McKay,Piqueur McKay,عامل خياطة ماكاي
+65449,Impresor de contacto de fotorresistencia,Impressor de contacto de fotorresistência,Imprimeur par contact de photorésist,طابع التلامس للمقاوم الضوئي
+65450,Impresora de bobina,Impressora de bobina,Imprimeur à bobine,طابعة الرول
+65451,Impresora de hojas,Impressora de folhas,Imprimeur à feuilles,طابعة الورق
+65455,Dobladillador de punto ciego,Dobrador de ponto cego,Ourleur à point aveugle,عامل ثني الحواف بغرزة خفية
+65456,Recubridor de forros de freno,Revestidor de lonas de travão,Enducteur de garnitures de frein,عامل طلاء بطانات الفرامل
+65458,Rebobinador de papel tisú,Rebobinador de papel de seda,Rebobineur de papier tissue,عامل إعادة لف المناديل الورقية
+65462,Afilador de cortacésped,Afiador de corta-relvas,Affûteur de tondeuse,مشحذ الجزازات
+65467,Director de ventas SMB,Diretor de vendas SMB,Directeur des ventes PME,مدير مبيعات الشركات الصغيرة
+65475,Gerente de transmisión,Gestor de transmissão,Responsable de transmission,مدير ناقل الحركة
+65476,Cajero de caja médica,Registador de caixa médica,Caissier de caisse médicale,موظف الحساب الطبي
+65477,Superintendente de transmisión,Superintendente de transmissão,Surintendant de transmission,مشرف ناقل الحركة
+65479,Enderezador de cigüeñal,Endireitador de cambota,Redresseur de vilebrequin,عامل تقويم عمود المرفق
+65481,Tasador de madera,Avaliador de madeira,Estimateur de bois,مثمن الأخشاب
+65483,Gerente de fotografía,Gestor de fotografia,Responsable photo,مدير التصوير
+65484,Director de habla y audición,Diretor de fala e audição,Directeur de la parole et de l'audition,مدير النطق والسمع
+65485,Gerente de unidad de cuidados intensivos,Gestor de unidade de cuidados intensivos,Responsable de l'unité de soins intensifs,مدير وحدة العناية المركزة
+65487,Demostrador de tejido de punto,Demonstrador de malha,Démonstrateur de tricot,مُوضح الحياكة
+65490,Supervisor de tejido de punto,Supervisor de malha,Superviseur de tricot,مشرف الحياكة
+65491,Convertidor de furgonetas personalizadas,Conversor de carrinhas personalizadas,Transformateur de fourgons personnalisés,محوّل الشاحنات الصغيرة المخصصة
+65492,Pegador de forro de sombrero,Colador de forro de chapéu,Colleur de doublure de chapeau,عامل لصق بطانة القبعات
+65493,Acompañante a tiempo parcial,Acompanhante a tempo parcial,Escorte à temps partiel,مرافق بدوام جزئي
+65494,Cazador submarino,Caçador submarino,Chasseur sous-marin,صياد تحت الماء
+65497,Acolchador de panel trasero,Acolchoador de painel traseiro,Rembourreur de panneau arrière,عامل حشو اللوحة الخلفية
+65498,Clasificador de piedra triturada,Classificador de pedra britada,Trieur de pierre concassée,مصنف الحجر المكسر
+65500,Acolchador de panel lateral,Acolchoador de painel lateral,Rembourreur de panneau latéral,عامل حشو اللوحة الجانبية
+65501,Director de conservación,Diretor de conservação,Directeur de la conservation,مدير الحفظ
+65502,Jefe de conservación,Chefe de conservação,Chef de la conservation,رئيس الحفظ
+65505,Alimentador de máquina de moteado,Alimentador de máquina de mesclagem,Alimentateur de machine à marbrer,عامل تغذية آلة التبقيع
+65506,Alimentador de máquina de desollado,Alimentador de máquina de esfolar,Alimentateur de machine à dépouiller,عامل تغذية آلة السلخ
+65507,Alimentador de máquina de tensado,Alimentador de máquina de tensionamento,Alimentateur de machine à tendre,عامل تغذية آلة التثبيت
+65509,Patrullero de esquí certificado,Patrulheiro de esqui certificado,Patrouilleur de ski certifié,دورية التزلج المعتمدة
+65514,Patrullero de campo de golf,Patrulheiro de campo de golfe,Patrouilleur de terrain de golf,دورية ملعب الغولف
+65520,Patrullero de baño de hilado,Patrulheiro de banho de fiação,Patrouilleur de bain de filature,دورية حوض الغزل
+65525,Calculador de tarifas de tráfico,Calculador de tarifas de tráfego,Calculateur de tarifs de trafic,حاسب أسعار المرور
+65530,Tratador de petróleo crudo,Tratador de petróleo bruto,Traiteur de pétrole brut,معالج النفط الخام
+65532,Tratador de planta de solventes,Tratador de planta de solventes,Traiteur de l'usine de solvants,معالج مصنع المذيبات
+65533,Probador de base,Provador de base,Essayeur de base,مساعد التجربة
+65534,"Elevador de sisa, puntada de cierre","Elevador de cava, ponto de fecho","Relève-emmanchure, point noué",عامل رفع الإبط بغرزة مقفلة
+65536,Verificador de frecuencia de paradas de máquina,Verificador da frequência de paragens de máquina,Contrôleur de la fréquence d'arrêt machine,مدقق تكرار توقف الآلة
+65537,Supervisor de chapado y ensamblaje de puntas,Supervisor de chapeamento e montagem de pontas,Superviseur du placage et assemblage des pointes,مشرف الطلاء والتجميع للنقاط
+65543,Director de rehabilitación cardíaca,Diretor de reabilitação cardíaca,Directeur de la réadaptation cardiaque,مدير إعادة التأهيل القلبي
+65545,Presidente del programa de estudios asiáticos,Presidente do programa de estudos asiáticos,Président du programme d'études asiatiques,رئيس برنامج الدراسات الآسيوية
+65546,Gerente de operaciones y compras,Gestor de operações e compras,Responsable des opérations et des achats,مدير العمليات والمشتريات
+65547,Vicepresidente de compras,Vice-presidente de compras,Vice-président des achats,نائب الرئيس للمشتريات
+65550,Plegador de pañales,Dobrador de fraldas,Plieur de couches,عامل طي الحفاضات
+65554,Cabecero de empaquetado de manzanas,Cabeceira de embalagem de maçãs,Tête d'emballage de pommes,رأس تعبئة التفاح
+65556,Generador de engranajes helicoidales,Gerador de engrenagens helicoidais,Générateur d'engrenages hélicoïdaux,مولد التروس الحلزونية
+65558,Científico jefe de observaciones terrestres,Cientista-chefe de observações terrestres,Scientifique en chef des observations terrestres,كبير علماء رصد الأرض
+65561,Maquinista de impresión tipográfica,Maquinista de impressão tipográfica,Machiniste en typographie,ميكانيكي الطباعة البارزة
+65562,Ensamblador de tractor,Montador de trator,Assembleur de tracteur,عامل تجميع الجرار
+65564,Gerente de HVAC,Gestor de HVAC,Responsable CVC,مدير التكييف والتهوية
+65565,Sujetador de arado,Suporte de arado,Porte-charrue,عامل تثبيت المحراث
+65569,Enlazador ascendente,Ligador ascendente,Lieur,عامل الربط العلوي
+65571,Aplicador de piedra permanente,Aplicador de pedra permanente,Applicateur de pierre permanente,عامل تطبيق الحجر الدائم
+65572,Comisario de hipódromo,Comissário de hipódromo,Commissaire d'hippodrome,مشرف حلبة السباق
+65575,Reparador de productos de madera ensamblada,Reparador de produtos de madeira montada,Réparateur de produits en bois assemblé,مصلح منتجات الخشب المجمع
+65578,Reparador de tanques revestidos de vidrio,Reparador de tanques revestidos de vidro,Réparateur de cuves émaillées,مصلح الخزانات المبطنة بالزجاج
+65579,Triturador de uvas,Triturador de uvas,Broyeur de raisins,عامل سحق العنب
+65583,Cepillador de felpa,Escovador de felpa,Brosseur de peluche,عامل تنظيف المخمل
+65585,Reparador de pantalla y ciclón,Reparador de tela e ciclone,Réparateur de crible et cyclone,مصلح المنخل والإعصار
+65586,Encordador de lentejuelas,Encordador de lantejoulas,Enfileur de paillettes,عامل ربط الترتر
+65587,Ensamblador de forma de prenda,Montador de forma de vestuário,Assembleur de forme de vêtement,عامل تجميع قالب الملابس
+65588,Ensamblador de prendas quirúrgicas,Montador de vestuário cirúrgico,Assembleur de vêtements chirurgicaux,عامل تجميع الملابس الجراحية
+65589,Director asociado de control de calidad,Diretor associado de QA,Directeur adjoint QA,مدير مساعد ضمان الجودة
+65590,Supervisor de prendas industriales,Supervisor de vestuário industrial,Superviseur de vêtements industriels,مشرف الملابس الصناعية
+65592,Cerrador de suela de goma,Fechador de sola de borracha,Fermeur de semelle caoutchouc,عامل إغلاق نعل المطاط
+65593,Alineador de barril y receptor,Alinhador de cano e recetor,Aligneur de canon et de boîtier,عامل محاذاة البرميل والمستقبل
+65594,Alimentador u offbearer de máquina de costura,Alimentador ou descarregador de máquina de costura,Alimentateur ou débiteur de machine à coudre,عامل تغذية أو تفريغ آلة الخياطة
+65595,Supervisor de reparación de chasis de televisión,Supervisor de reparação de chassis de televisão,Superviseur de réparation de châssis TV,مشرف إصلاح شاسيه التلفزيون
+65596,Acabador de patas de cerdo,Acabador de pés de porco,Finisseur de pieds de porc,عامل تشطيب أرجل الخنزير
+65597,Director de verificación,Diretor de verificação,Directeur de contrôle,مدير التحقق
+65598,Inspector de tipos,Inspetor de tipos,Inspecteur de caractères,مفتش الحروف
+65599,Gerente de fibra,Gestor de fibra,Responsable des fibres,مدير الألياف
+65610,Gerente de formularios,Gestor de formulários,Responsable des formulaires,مدير النماذج
+65611,Jefe de seguridad y protección,Chefe de segurança e proteção,Chef de la sécurité et de la protection,رئيس السلامة والحماية
+65613,Descargador de máquina de cinta de chapa,Descarregador de máquina de fita de folheado,Débiteur de machine à bande de placage,عامل تفريغ آلة شريط الخشب الرقائقي
+65618,Llenador de moldes de muñecas de plástico,Enchedor de moldes de bonecas de plástico,Remplisseur de moules de poupées en plastique,عامل تعبئة قوالب الدمى البلاستيكية
+65619,Abridor y llenador de rechazos,Abridor e enchedor de rejeitos,Ouvreur et remplisseur de rebuts,عامل فتح وتعبئة المرفوضات
+65624,Gerente de francés,Gestor de francês,Responsable de français,مدير اللغة الفرنسية
+65625,Gerente de aprovisionamiento,Gestor de aprovisionamento,Responsable des achats,مدير التوريد
+65627,Superintendente de saneamiento,Superintendente de saneamento,Surintendant de l'assainissement,مشرف الصرف الصحي
+65630,Gerente de trasplante,Gestor de transplante,Responsable de transplantation,مدير زراعة الأعضاء
+65633,Ensamblador de duelas,Montador de aduelas,Assembleur de douves,عامل تجميع الألواح
+65634,Ensamblador de chapas,Montador de folheados,Assembleur de placages,عامل تجميع الشرائح الخشبية
+65635,Gerente de Linux,Gestor de Linux,Responsable Linux,مدير لينكس
+65636,Pintor de fondo,Pintor de fundo,Peintre de fond,دهّان القاع
+65638,Rodillo de hueso de cuero crudo,Rolo de osso de couro cru,Rouleau d'os en cuir brut,عامل تدوير عظم الجلد الخام
+65640,Impresor de impresión,Impressor de impressão,Imprimeur d'impression,طابع الانطباع
+65642,Cosedor de cama de imprenta,Costureiro de cama de impressão,Piqueur de platine,عامل خياطة سرير المطبعة
+65643,Cosedor de punción,Costureiro de perfuração,Piqueur à pointe,عامل الخياطة بالثقب
+65644,Impresor en relieve,Impressor em relevo,Imprimeur en relief,طابع البروز
+65645,Impresor de rectificación,Impressor de retificação,Imprimeur de rectification,طابع التصحيح
+65646,Impresor de retículas,Impressor de retículas,Imprimeur de réticules,طابع الشبكات
+65648,Impresor Vigoureux,Impressor Vigoureux,Imprimeur Vigoureux,طابع فيجوروكس
+65651,Tesorero municipal,Tesoureiro municipal,Trésorier municipal,أمين صندوق المدينة
+65653,Tesorero del condado,Tesoureiro do condado,Trésorier de comté,أمين صندوق المقاطعة
+65654,Respaldo de cangrejos,Apoio de caranguejos,Dossier de crabes,عامل دعم السرطانات
+65658,Director de tesorería,Diretor de tesouraria,Directeur de la trésorerie,مدير الخزينة
+65659,Doble respaldo,Duplo apoio,Double dossier,عامل الدعم المزدوج
+65668,Plantador de ostras,Plantador de ostras,Planteur d'huîtres,مزارع المحار
+65672,Respaldo de cuarto,Apoio de quarto,Dossier de quart,عامل دعم الربع
+65674,Tesorero escolar,Tesoureiro escolar,Trésorier scolaire,أمين صندوق المدرسة
+65675,Desnatador de escoria,Escumador de escória,Écumeur de scories,عامل إزالة الخبث
+65676,Superintendente de distribución aérea,Superintendente de distribuição aérea,Surintendant de la distribution aérienne,مشرف التوزيع العلوي
+65678,Respaldo de tubo,Apoio de tubo,Dossier de tube,عامل دعم الأنبوب
+65680,VP tesorería,VP tesouraria,VP trésorerie,نائب الرئيس للخزينة
+65683,Partidor de pulmón,Partidor de pulmão,Fendeur de poumon,عامل شق الرئة
+65684,Gerente de fotografía,Gestor de fotografia,Responsable de la photographie,مدير التصوير
+65687,Partidor de cráneo,Partidor de crânio,Fendeur de crâne,عامل شق الجمجمة
+65688,Supervisor de fotografía de tipos,Supervisor de fotografia de tipos,Superviseur de photographie de caractères,مشرف تصوير الحروف
+65689,Gerente de ventas territoriales médicas,Gestor de vendas territoriais médicas,Responsable des ventes médicales territoriales,مدير المبيعات الطبية الإقليمية
+65690,Director de codificación,Diretor de codificação,Directeur du codage,مدير الترميز
+65694,Apuntador de barra,Apontador de barra,Pointeur de barre,عامل تحديد القضبان
+65695,Recubridor negro,Cobridor negro,Finisseur noir,عامل الطلاء الأسود
+65696,Tapador de botellas,Tampador de garrafas,Capsuleur de bouteilles,عامل تغطية الزجاجات
+65698,Tapador de latas,Tampador de latas,Capsuleur de boîtes,عامل تغطية العلب
+65700,Apuntador de cuello,Apontador de gola,Pointeur de col,عامل تحديد الياقات
+65703,Cosechadora personalizada,Ceifeira personalizada,Moissonneuse personnalisée,حاصدة مخصصة
+65705,Apuntador de espigas,Apontador de cavilhas,Pointeur de goujons,عامل تحديد الأوتاد
+65707,Apuntador de piel,Apontador de pelo,Pointeur de fourrure,عامل تحديد الفراء
+65708,Anotador principal,Marcador principal,Marqueur principal,عامل تسجيل الرأس
+65709,Anotador de talón,Marcador de salto,Marqueur de talon,عامل تسجيل الكعب
+65711,Tapador de moldes,Tampador de moldes,Capsuleur de moules,عامل تغطية القوالب
+65713,Coronador de pasteles,Coroador de tortas,Garnisseur de tartes,عامل تزيين الفطائر
+65714,Apuntador de varillas,Apontador de varetas,Pointeur de tiges,عامل تحديد القضبان
+65715,Tapador de rollos,Tampador de rolos,Capsuleur de rouleaux,عامل تغطية الأسطوانات
+65718,Coronador de esquís,Coroador de esquis,Garnisseur de skis,عامل تزيين الزلاجات
+65719,Anotador de cortadora,Marcador de cortador,Marqueur de coupeuse,عامل تسجيل الشفرات
+65722,Enrollador de papel de aluminio,Enrolador de folha de alumínio,Bobineur de feuille d'aluminium,عامل لف رقائق الألمنيوم
+65723,Transcriptor de braille manual,Transcritor manual de braille,Transcripteur manuel braille,ناسخ برايل يدوي
+65724,Pegador de muestrarios,Colador de amostras,Colleur d'échantillons,عامل لصق العينات
+65725,Cocedor de tina de maceración,Cozedor de tina de maceração,Cuiseur de cuve de brassage,عامل طهي خزان التهريس
+65727,Montador de manecillas de reloj,Montador de ponteiros de relógio,Monteur d'aiguilles d'horloge,عامل تركيب عقارب الساعة
+65728,Acoplador de mira frontal,Acoplador de mira frontal,Monteur de guidon,عامل تركيب المشهد الأمامي
+65729,Distribuidor de materiales reciclables,Distribuidor de materiais recicláveis,Distributeur de matières recyclables,موزع المواد القابلة لإعادة التدوير
+65732,Bobinador de bobina helicoidal,Bobinador de bobina helicoidal,Bobineur de bobine hélicoïdale,عامل لف الملف الحلزوني
+65733,Bobinador de muelle de retroceso,Bobinador de mola de recuo,Bobineur de ressort de rappel,عامل لف نابض الارتداد
+65734,Sumergidor de bombones,Mergulhador de bombons,Plongeur de bonbons,عامل غمس الحلويات
+65735,Médico sin fármacos,Médico sem medicamentos,Médecin sans médicaments,طبيب بلا أدوية
+65736,Médico de la fe,Médico da fé,Médecin de la foi,طبيب الإيمان
+65737,Sumergidor hipo,Mergulhador hipo,Plongeur hypo,عامل غمس الهيبو
+65738,Minero de ópalo,Mineiro de opala,Mineur d'opale,عامل تعدين الأوبال
+65742,Dobladillador automático de volantes,Dobrador automático de folhos,Ourleur automatique à volants,عامل ثني الكشكشة الآلي
+65745,Tallador de exhibición,Entalhador de exposição,Sculpteur d'exposition,نحات العرض
+65746,Tallador de forma,Entalhador de forma,Sculpteur de forme,نحات الأشكال
+65747,Recortador de falda,Aparador de saia,Coupeur de jupe,عامل قص التنورة
+65748,Recortador de borlas,Aparador de borlas,Coupeur de glands,عامل قص الشراشيب
+65749,Supervisor de empleados de despacho publicitario,Supervisor de empregados de expedição publicitária,Superviseur des employés d'expédition publicitaire,مشرف موظفي إرسال الإعلانات
+65750,Manipulador de combustible irradiado,Manipulador de combustível irradiado,Manutentionnaire de combustible irradié,عامل مناولة الوقود المشع
+65752,Pelador de corteza,Descascador de casca,Écorceur,عامل تقشير اللحاء
+65755,Alimentador de unidad de pulverización de culata,Alimentador de unidade de pulverização de coronha,Alimentateur d'unité de pulvérisation de crosse,عامل تغذية وحدة رش أعقاب البنادق
+65756,Director de exportación,Diretor de exportação,Directeur export,مدير التصدير
+65757,Director comercial,Diretor comercial,Directeur commercial,مدير التجارة
+65760,Gerente de carreteras,Gestor de estradas,Responsable routier,مدير الطرق السريعة
+65761,Gerente comercial,Gestor comercial,Responsable commercial,مدير التجارة
+65763,Alimentador de desestatizador,Alimentador de desestatizador,Alimentateur de déstatiseur,عامل تغذية مزيل الشحنات الكهروستاتيكية
+65764,Alimentador de trilladora,Alimentador de debulhadora,Alimentateur de batteuse,عامل تغذية الدراسة
+65767,Grabador electrolítico,Gravador eletrolítico,Graveur électrolytique,عامل النقش الكهربائي
+65768,Caldera de lejía,Caldeira de lixívia,Chaudière à lessive,مرجل القلوي
+65770,Becario posdoctoral,Investigador pós-doutorado,Chercheur postdoctoral,باحث ما بعد الدكتوراه
+65772,Limador de volante de equilibrio manual,Limador de volante de equilíbrio manual,Limeur manuel de balancier,عامل برد عجلة التوازن اليدوي
+65773,Director de bioestadística,Diretor de bioestatística,Directeur de la biostatistique,مدير الإحصاء الحيوي
+65774,Enrollador de aro,Enrolador de aro,Bobineur de cercle,عامل لف الحلقة
+65775,Gerente de bioestadística,Gestor de bioestatística,Responsable de la biostatistique,مدير الإحصاء الحيوي
+65776,Enrollador de muelle,Enrolador de mola,Bobineur de ressort,عامل لف النابض
+65777,Enrollador de urdimbre,Enrolador de urdidura,Bobineur de chaîne,عامل لف السدى
+65778,Enrollador de alambre,Enrolador de arame,Bobineur de fil,عامل لف السلك
+65779,Engrasador de casa de calderas,Lubrificador de casa de caldeiras,Graisseur de chaufferie,عامل تشحيم غرفة الغلايات
+65784,Aserrador de cuadrilla de canto,Serrador de equipa de canto,Scieur de dosse en gang,عامل نشر الأخشاب بالمنشار الجماعي
+65785,Aserrador de tablas de corcho,Serrador de tábuas de cortiça,Scieur de planches de liège,عامل نشر ألواح الفلين
+65788,Guardabosques de campo de golf,Guarda de campo de golfe,Garde de terrain de golf,حارس ملعب الغولف
+65798,Técnico de estacionamiento de ingeniería,Técnico de estacionamento de engenharia,Technicien de stationnement d'ingénierie,فني هندسة مواقف السيارات
+65799,Instalador de moldura y revestimiento,Instalador de molduras e acabamentos,Installateur de moulures et habillages,مركّب القوالب والتشطيبات
+65801,Supervisor de aseguramiento de calidad de acabado,Supervisor de garantia de qualidade de acabamento,Superviseur assurance qualité habillage,مشرف ضمان جودة التشطيبات
+65804,Pulidor de pisos,Polidor de pisos,Polisseur de sols,عامل تلميع الأرضيات
+65806,Lector de biblia,Leitor da Bíblia,Lecteur de la Bible,قارئ الكتاب المقدس
+65809,Peinador de gorros,Penteador de toucas,Coiffeur de bonnets,عامل تصفيف الشبكة
+65813,Peinador de conejos,Penteador de coelhos,Peigneur de lapins,عامل تمشيط الأرانب
+65817,Pasantía de cumplimiento de la NCAA,Estágio de conformidade NCAA,Stage de conformité NCAA,تدريب في امتثال NCAA
+65818,Capitán de atraque de relevo,Capitão de atracação de substituição,Maître de quai de relève,قائد الرصيف البديل
+65819,Cortador de molde de copa de sostén,Cortador de moldes de copa de sutiã,Coupeur de moule de bonnet de soutien-gorge,عامل قص قالب كأس حمالة الصدر
+65820,Cortador de dientes de rueda de escape,Cortador de dentes de roda de escape,Coupeur de dents de roue d'échappement,عامل قص أسنان عجلة الهروب
+65822,Inspector de matriz abierta,Inspetor de matriz aberta,Inspecteur de matrice ouverte,مفتش القوالب المفتوحة
+65826,Supervisor de fabricación de pigmentos,Supervisor de fabrico de pigmentos,Superviseur de fabrication de pigments,مشرف تصنيع الأصباغ
+65827,Constructor y técnico de estructuras de arcilla,Construtor e técnico de estruturas de argila,Constructeur et technicien de structures en argile,بنّاء وفني صيانة هياكل الطين
+65829,Gerente de auditoría interna,Gestor de auditoria interna,Responsable de l'audit interne,مدير التدقيق الداخلي
+65830,Calentador de máquina de clavos,Aquecedor de máquina de pinos,Chauffeur de machine à pointes,عامل تسخين آلة المسامير
+65834,Bloqueador y cortador de lentes de contacto,Bloqueador e cortador de lentes de contacto,Bloqueur et découpeur de lentilles de contact,عامل تثبيت وقص العدسات اللاصقة
+65836,Operador de compresor portátil,Operador de compressor portátil,Opérateur de compresseur portable,مشغل الضاغط المحمول
+65839,Girador y acabador de electrodos,Rodador e acabador de elétrodos,Tourneur et finisseur d'électrodes,عامل تدوير وتشطيب الأقطاب
+65842,Acabador de satén,Acabador de cetim,Finisseur de satin,عامل تشطيب الساتان
+65847,Clasificador de tejedores de lizos,Classificador de liços,Trieur de lisses,عامل تصنيف عدات النسيج
+65848,Clasificador de listones,Classificador de ripas,Trieur de lattes,عامل تصنيف الألواح الرقيقة
+65850,Enrutador de placas de circuito impreso,Router de placas de circuito impresso,Routeur de cartes de circuits imprimés,عامل تشكيل لوحات الدوائر المطبوعة
+65855,Técnicos y trabajadores de oficios,Técnicos e trabalhadores de ofícios,Techniciens et ouvriers qualifiés,فنيون وعمال حرفيون
+65856,Buzo de abulón,Mergulhador de abalone,Plongeur d'ormeaux,غطاس الأبالون
+65857,Ventas y gestión de servicios nupciales,Vendas e gestão de serviços nupciais,Ventes et gestion de services nuptiaux,مبيعات وإدارة خدمات الزفاف
+65860,Paracaidista,Paraquedista,Parachutiste,مظلي
+65861,Expulsor de jugadores,Expulsor de jogadores,Éjecteur de joueurs,عامل إخراج المهاجمين
+65864,Director de casino,Diretor de casino,Directeur de casino,مدير الكازينو
+65866,Tripulante de máquina de plantación,Tripulante de máquina de plantação,Équipier de machine de plantation,طاقم آلة الزراعة
+65867,Propietario de producto Scrum,Proprietário de produto Scrum,Propriétaire de produit Scrum,مالك منتج سكرام
+65869,Gerente de vivienda asistida,Gestor de lar assistido,Responsable de résidence médicalisée,مدير السكن المدعوم
+65874,Llenador de contenedores presurizados,Enchedor de recipientes pressurizados,Remplisseur de récipients sous pression,عامل تعبئة الحاويات المضغوطة
+65875,Llenador de barriles de colofonia,Enchedor de barris de colofónia,Remplisseur de fûts de colophane,عامل تعبئة براميل الكولوفان
+65876,Ensamblador de motor de exhibición,Montador de motor de exibição,Assembleur de moteur d'exposition,عامل تجميع المحرك التجريبي
+65877,Director de radiodifusión,Diretor de radiodifusão,Directeur de la diffusion,مدير البث
+65878,Director de operaciones de radiodifusión,Diretor de operações de radiodifusão,Directeur des opérations de diffusion,مدير عمليات البث
+65879,Acabador de laminado en frío,Acabador de laminagem a frio,Finisseur de laminage à froid,عامل تشطيب الدرفلة الباردة
+65880,Supervisor de bobinado de tela,Supervisor de enrolamento de tecido,Superviseur de bobinage de tissu,مشرف لف القماش
+65881,Supervisor de bobinado de bobinas,Supervisor de enrolamento de bobinas,Superviseur de bobinage de bobines,مشرف لف البكرات
+65882,Supervisor de laminado en frío,Supervisor de laminagem a frio,Superviseur de laminage à froid,مشرف الدرفلة الباردة
+65885,Caminante de cámara,Caminhante de câmara,Marcheur de chambre,عامل المشي داخل الغرفة
+65889,Regulador de temperatura,Regulador de temperatura,Régulateur de température,منظم الحرارة
+65890,Buzo de aguas profundas,Mergulhador de águas profundas,Plongeur en eaux profondes,غطاس أعماق البحار
+65891,Director de institución,Diretor de instituição,Directeur d'institution,مدير المؤسسة
+65893,Superintendente de institución,Superintendente de instituição,Surintendant d'institution,مشرف المؤسسة
+65896,Rodillo de blinis,Rolo de blintzes,Rouleau à blinis,عامل تسطيح الفطائر المحشوة
+65897,Encargado de pensión,Gerente de pensão,Gérant de pension,مشرف النزل
+65898,Encargado de casa de botes,Encarregado de casa de barcos,Gardien de hangar à bateaux,حارس بيت القوارب
+65899,Encargado de burdel,Gerente de bordel,Tenancier de maison close,مدير بيت الدعارة
+65900,Farero,Faroleiro,Gardien de phare,حارس المنارة
+65901,Encargado de salón,Gerente de salão,Tenancier de saloon,صاحب الحانة
+65905,Técnico de herramientas de pozos petroleros,Técnico de ferramentas de poços de petróleo,Technicien d'outils de puits de pétrole,فني أدوات آبار النفط
+65906,Recolector de bordes,Recolhedor de rebarbas,Récupérateur de bords,عامل جمع الحواف
+65907,Esparcidor de arpillera,Espalhador de serapilheira,Étaleur de toile de jute,عامل نشر الخيش
+65911,"Piloto de máquina de empaquetado, enrutador de latas","Piloto de máquina de embalagem, router de latas","Pilote de machine d'emballage, routeur de boîtes",مشغل آلة التعبئة، موجّه العلب
+65913,Clínico cardiológico,Clínico cardiológico,Clinicien cardio,أخصائي القلب
+65917,Grabador de sellos,Gravador de selos,Graveur de sceaux,حفار الأختام
+65919,Vicepresidente de operaciones de microarrays,Vice-presidente de operações de microarrays,Vice-président des opérations de microarrays,نائب الرئيس لعمليات المصفوفات الدقيقة
+65921,Ensamblador de asientos,Montador de assentos,Assembleur de sièges,عامل تجميع المقاعد
+65922,Gerente de audio,Gestor de áudio,Responsable audio,مدير الصوت
+65925,Gerente de estudio,Gestor de estúdio,Responsable de studio,مدير الاستوديو
+65926,Moldeador de punzón,Moldador de punção,Mouleur de poinçon,عامل قولبة المثقب
+65928,Reparador de bola de bolos,Reparador de bola de bowling,Réparateur de boule de bowling,مصلح كرة البولينغ
+65930,Engrapadora de solapa de talón,Agrafadora de aba de talão,Agrafeuse de rabat de talon,عامل تثبيت غطاء الكعب
+65932,Grabador de plasma de placas de circuito impreso,Gravador de plasma de placas de circuito impresso,Graveur plasma de cartes de circuits imprimés,عامل النقش بالبلازما للوحات الدوائر المطبوعة
+65934,Caldera Ash Kier,Caldeira Ash Kier,Chaudière Ash Kier,مرجل آش كير
+65936,Revisor de reservas de viaje,Revisor de reservas de viagem,Vérificateur de billetterie de voyage,مراجع حجوزات السفر
+65937,Instructor de pintura,Instrutor de pintura,Formateur en peinture,مدرب الدهان
+65939,Rompedor de manganeso,Partidor de manganês,Briseur de manganèse,عامل كسر المنغنيز
+65940,Supervisor de pintura,Supervisor de pintura,Superviseur de peinture,مشرف الدهان
+65941,Aserrador de mazorcas,Serrador de espigas,Scieur d'épis,عامل نشر الكيزان
+65942,Aserrador de cabeza de marco,Serrador de cabeça de quadro,Scieur de tête de scierie,عامل نشر رأس المنشار
+65943,Pulverizador de mochila,Pulverizador de mochila,Pulvérisateur à dos,عامل الرش بالحقيبة
+65944,Pulverizador de recubrimiento de labios,Pulverizador de revestimento de lábios,Pulvérisateur de revêtement de lèvres,عامل رش طلاء الشفاه
+65946,Pulverizador de subcapa,Pulverizador de subcamada,Pulvérisateur de sous-couche,عامل رش الطبقة الأساسية
+65951,Gerente de productos frescos,Gestor de produtos frescos,Responsable des produits frais,مدير المنتجات الطازجة
+65952,Pintor de artillería,Pintor de artilharia,Peintre d'armement,دهّان الأسلحة
+65964,Bombeador de vetas,Bombeador de veios,Pompiste de veine,عامل ضخ الأوردة
+65965,Cortador de cuchillo caliente,Cortador de faca quente,Coupeur au couteau chaud,عامل قص بالسكين الساخنة
+65970,Moldeador de ajuste de aire,Moldador de ajuste de ar,Mouleur de réglage d'air,عامل قولبة ضبط الهواء
+65971,Moldeador de etiquetas,Moldador de etiquetas,Mouleur d'étiquettes,عامل قولبة الملصقات
+65973,Adelgazador de manzanas,Desbastador de maçãs,Éclaircisseur de pommes,عامل تخفيف ثمار التفاح
+65975,Fabricante de automóviles,Fabricante de automóveis,Constructeur automobile,مصنّع السيارات
+65976,Equilibrador de rueda,Equilibrador de roda,Équilibreur de roue,فني موازنة العجلات
+65977,Limpiador de coches,Limpador de carros,Essuyeur de voitures,عامل تنظيف السيارات
+65980,Fabricante de electrónica,Fabricante de eletrónica,Fabricant d'électronique,مصنّع الإلكترونيات
+65981,Limpiador de motores,Limpador de motores,Essuyeur de moteurs,عامل تنظيف المحركات
+65982,Limpiador de rellenos,Limpador de enchimentos,Essuyeur de remplissage,عامل تنظيف الحشوات
+65984,Adelgazador de frutas,Desbastador de frutos,Éclaircisseur de fruits,عامل تخفيف الفواكه
+65985,Tintorero de pieles,Tintureiro de peles,Teinteur de fourrures,عامل صباغة الفراء
+65986,Fabricante de prendas,Fabricante de vestuário,Fabricant de vêtements,مصنّع الملابس
+65987,Tintorero de vidrio,Tintureiro de vidro,Teinteur de verre,عامل تلوين الزجاج
+65988,Verificador de cristalería,Verificador de vidraria,Vérificateur de verrerie,مدقق الزجاجيات
+65990,Rectificador de espiral,Retificador de espiral,Rectifieur de spiral,عامل تسوية الشعرة
+65993,Limpiador de chorro,Limpador de jato,Essuyeur de jet,عامل تنظيف النفاث
+65995,Reacondicionador de telares,Revisor de teares,Réviseur de métiers à tisser,عامل إصلاح الأنوال
+65996,Reacondicionador de máquinas,Revisor de máquinas,Révisionneur de machines,عامل إصلاح الآلات
+65997,Limpiador de máquinas,Limpador de máquinas,Essuyeur de machines,عامل تنظيف الآلات
+66000,Reacondicionador de motores,Revisor de motores,Révisionneur de moteurs,عامل إصلاح المحركات
+66001,Tintorero de pintura,Tintureiro de tinta,Teinteur de peinture,عامل تلوين الدهان
+66002,Adelgazador de pasta,Desbastador de pasta,Diluant de pâte,عامل تخفيف المعجون
+66004,Tintorero de fotografías,Tintureiro de fotografias,Teinteur de photographies,عامل تلوين الصور
+66008,Torcedor de tablillas,Torcedor de réguas,Torsadeur de lattes,عامل فتل الألواح
+66009,Adelgazador de árboles,Desbastador de árvores,Éclaircisseur d'arbres,عامل تخفيف الأشجار
+66010,Adelgazador de barniz,Diluente de verniz,Diluant de vernis,عامل تخفيف الورنيش
+66011,Reacondicionador de tinas,Revisor de cubas,Révisionneur de cuves,عامل إصلاح الخزانات
+66012,Adelgazador de vegetales,Desbastador de vegetais,Éclaircisseur de légumes,عامل تخفيف الخضروات
+66013,Fabricante de chapas,Fabricante de folheados,Fabricant de placages,مصنّع الشرائح الخشبية
+66015,Adelgazador de malezas,Desbastador de ervas,Éclaircisseur de mauvaises herbes,عامل تخفيف الأعشاب
+66016,Rectificador de ruedas,Retificador de rodas,Rectifieur de roues,عامل تسوية العجلات
+66017,Tintorero de ventanas,Tintureiro de janelas,Teinteur de vitres,عامل تلوين النوافذ
+66019,Estirador de fibra óptica,Estirador de fibra óptica,Tireur de fibre optique,عامل سحب الألياف البصرية
+66021,Proveedor de automóviles,Fornecedor de automóveis,Fournisseur automobile,مورّد السيارات
+66022,Grabador fotográfico,Gravador fotográfico,Graveur photographique,حفار الصور
+66023,Gerente de proveedores,Gestor de fornecedores,Responsable fournisseurs,مدير الموردين
+66025,Supervisor de fotograbado,Supervisor de fotogravura,Superviseur de photogravure,مشرف النقش الضوئي
+66026,Proveedor de lana,Fornecedor de lã,Fournisseur de laine,مورّد الصوف
+66027,Encordador superior e inferior a mano,Encordador de cima e de fundo à mão,Lacet manuel de dessus et dessous,عامل ربط الأعلى والأسفل يدوياً
+66029,Intervencionista académico,Interventor académico,Intervenant académique,مُتدخّل أكاديمي
+66033,Vendedor de globos,Vendedor de balões,Vendeur de ballons,بائع البالونات
+66034,Intervencionista de conducta,Interventor comportamental,Intervenant comportemental,مُتدخّل سلوكي
+66035,Intervencionista conductual,Interventor comportamental,Intervenant comportemental,مُتدخّل سلوكي
+66036,Bucker de toro,Bucker de touro,Bucker de taureau,عامل الدفع الثقيل
+66037,Vendedor de tarjetas,Vendedor de cartões,Vendeur de cartes,بائع البطاقات
+66040,Templador de chocolate,Temperador de chocolate,Tempéreur de chocolat,عامل تبريد الشوكولاتة
+66042,Templador de arcilla,Temperador de argila,Tempéreur d'argile,عامل تليين الطين
+66043,Intervencionista temprano,Interventor precoce,Intervenant précoce,مُتدخّل مبكر
+66049,Bucker principal,Bucker principal,Bucker en chef,عامل الدفع الرئيسي
+66050,Vendedor de hielo,Vendedor de gelo,Vendeur de glace,بائع الثلج
+66052,Intervencionista de instrucción,Interventor de instrução,Intervenant pédagogique,مُتدخّل تعليمي
+66053,Trabajador de horno,Trabalhador de forno,Ouvrier de four,عامل الفرن
+66055,Fogonero de locomotora,Fogueiro de locomotiva,Chauffeur de locomotive,عامل وقود القاطرة
+66056,Intervencionista de matemáticas,Interventor de matemática,Intervenant en mathématiques,مُتدخّل الرياضيات
+66057,Templador de comidas,Temperador de refeições,Tempéreur de repas,عامل تسخين الوجبات
+66060,Templador de barro,Temperador de lama,Tempéreur de boue,عامل تليين الطين
+66062,Biselador de suela,Biselador de sola,Biseauteur de semelle,عامل تشطيب النعل
+66065,Bucker de patata,Bucker de batata,Bucker de pommes de terre,عامل الدفع للبطاطس
+66066,Bucker de prensa,Bucker de prensa,Bucker de presse,عامل الدفع للمكبس
+66068,Fogonero ferroviario,Fogueiro ferroviário,Chauffeur de chemin de fer,عامل وقود السكك الحديدية
+66069,Intervencionista de lectura,Interventor de leitura,Intervenant en lecture,مُتدخّل القراءة
+66071,Soldador fuerte de resistencia,Brasador de resistência,Brasage par résistance,عامل اللحام بالنحاس بالمقاومة
+66073,Bucker de rodillo,Bucker de rolo,Bucker de rouleau,عامل الدفع للأسطوانة
