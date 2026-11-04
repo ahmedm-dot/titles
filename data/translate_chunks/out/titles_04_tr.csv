@@ -1,0 +1,802 @@
+rank,title_es,title_pt,title_fr,title_ar
+25132,Operador de Explosivos,Operador de Explosivos,Opérateur d'explosifs,مشغل المتفجرات
+27707,Operario de Bingo,Operador de Bingo,Opérateur de bingo,عامل البنغو
+27708,Operario de Mama,Operador de Mama,Ouvrier de sein,عامل الثدي
+27709,Operario de Conducto,Operador de Conduta,Ouvrier de conduit,عامل القنوات
+27710,Operario de Bordillo,Operador de Berma,Ouvrier de bordure,عامل الرصيف
+27711,Operario de Canal,Operador de Canal,Ouvrier de canal,عامل القناة
+27712,Operario de Matriz,Operador de Matriz,Ouvrier de matrice,عامل المصفوفة
+27713,Operario de Malla,Operador de Malha,Ouvrier de maille,عامل الشبكة
+27714,Operario de Estanque,Operador de Lagoa,Ouvrier de bassin,عامل البركة
+27716,Operario de Tiro,Operador de Tração,Ouvrier de tirage,عامل السحب
+27717,Operario Submarino,Operador Submarino,Ouvrier sous-marin,عامل الغواصات
+27718,Operario de Sauce,Operador de Salgueiro,Ouvrier de saule,عامل الصفصاف
+27721,Ayudante de Costura de Botones,Ajudante de Costura de Botões,Aide couseur de boutons,مساعد خياطة الأزرار
+27723,Ayudante de Doblador de Tubos,Ajudante de Dobragem de Tubos,Aide cintreur de tubes,مساعد ثني الأنابيب
+27724,Ayudante de Doblador de Alambre,Ajudante de Dobragem de Arame,Aide cintreur de fil,مساعد ثني الأسلاك
+27725,Operario de Capas de Tableros,Operador de Camadas de Painéis,Poseur de couches de panneaux,عامل طبقات الألواح
+27726,Alimentador de Secadora,Alimentador de Secador,Alimentateur de séchoir,مغذي المجفف
+27727,Superintendente de Instalación,Superintendente de Instalação,Superintendant d'installation,مشرف التركيب
+27728,Constructor de Puentes,Construtor de Pontes,Constructeur de ponts,بنّاء الجسور
+27729,Acabador en Seco,Acabador a Seco,Finisseur à sec,عامل التشطيب الجاف
+27731,Cargador de Bolsas,Carregador de Sacos,Chargeur de sacs,عامل تحميل الأكياس
+27732,Cargador de Películas,Carregador de Filmes,Chargeur de films,عامل تحميل الأفلام
+27733,Supervisor de Producción de Muelles en Caliente,Supervisor de Produção de Molas Enroladas a Quente,Superviseur de production de ressorts enroulés à chaud,مشرف إنتاج النوابض الملفوفة ساخنًا
+27734,Fabricante de Agujas,Fabricante de Agulhas,Fabricant d'aiguilles,صانع الإبر
+27735,Fabricante de Alfileres,Fabricante de Alfinetes,Fabricant d'épingles,صانع الدبابيس
+27737,Pintor de Barriles,Pintor de Barris,Peintre de barils,دهّان البراميل
+27738,Miembro de Junta Comunitaria,Membro da Direção Comunitária,Membre du conseil communautaire,عضو مجلس المجتمع
+27741,Científico Regulador,Cientista Regulador,Scientifique réglementaire,عالم تنظيمي
+27743,Asesor de Codificación,Consultor de Codificação,Conseiller en codage,مستشار الترميز
+27744,Subdirector de Operaciones de Planta,Diretor Adjunto de Operações da Fábrica,Directeur adjoint des opérations de l'usine,مساعد مدير عمليات المصنع
+27746,Operario de Extracción de Hornos,Operador de Extração de Fornos,Extracteur de fours,عامل سحب الأفران
+27747,Mantenimiento Mecánico,Manutenção Mecânica,Maintenance mécanique,الصيانة الميكانيكية
+27756,Preparador de Lijadora de Tambor,Preparador de Lixadeira de Tambor,Régleur de ponceuse à tambour,مجهّز صقالة الأسطوانة
+27757,Representante de Matrícula,Representante de Inscrições,Représentant des inscriptions,ممثل التسجيل
+27761,Representante de Registro,Representante de Registo,Représentant d'enregistrement,ممثل التسجيل
+27771,Profesional de Soluciones,Profissional de Soluções,Professionnel des solutions,محترف الحلول
+27772,Recortador de Carbón,Aparador de Carvão,Ébarbeur de charbon,مشذّب الفحم
+27774,Jefe de Servicio Dental,Chefe de Serviço Dentário,Chef du service dentaire,رئيس خدمة طب الأسنان
+27782,Becario de Química,Estagiário de Química,Stagiaire en chimie,متدرب في الكيمياء
+27784,Becario de Recursos Humanos,Estagiário de Recursos Humanos,Stagiaire RH,متدرب الموارد البشرية
+27785,Editor de Mercado,Editor de Mercado,Éditeur de marché,محرر السوق
+27786,Bobinador de Rollos de Tela,Bobinador de Rolos de Tecido,Enrouleur de rouleaux de tissu,ملفّاف لفائف القماش
+27787,Operario de Cuadrilla de Bulldozer,Operador de Equipa de Bulldozer,Ouvrier d'équipe de bulldozer,عامل فريق الجرافة
+27788,Operario de Rueda de Bulldozer,Operador de Roda de Bulldozer,Ouvrier de roue de bulldozer,عامل عجلة الجرافة
+27790,Operario de Canal de Carbón,Operador de Calha de Carvão,Ouvrier de goulotte à charbon,عامل مجرى الفحم
+27792,Operario de Revestimiento de Composición,Operador de Revestimento de Composição,Ouvrier de bardage de composition,عامل تغطية الواجهات بالتركيب
+27797,Operario de Pasador de Clavija,Operador de Pino de Cavilha,Ouvrier de goupille de cheville,عامل دسار التثبيت
+27799,Líder de Asuntos Médicos,Líder de Assuntos Médicos,Responsable des affaires médicales,قائد الشؤون الطبية
+27800,Operario de Horno de Solera Abierta,Operador de Forno de Soleira Aberta,Ouvrier de four Martin,عامل فرن الموقد المفتوح
+27803,Operario de Foso de Cubilote,Operador de Fosso de Carregamento,Ouvrier de fosse de chargement,عامل حفرة التحميل
+27804,Operario de Fondo de Horno,Operador de Fundo de Forno,Ouvrier de fond de four,عامل قاع الفرن
+27805,Operario de Trazado de Plantillas,Operador de Traçado de Gabaritos,Ouvrier de traçage de gabarits,عامل تخطيط القوالب
+27806,Operario Especialista en Vestuario,Operador Especialista em Guarda-Roupa,Ouvrier spécialisé en costumes,عامل متخصص في الأزياء
+27813,Ayudante de Ensamblador,Ajudante de Carpinteiro,Aide menuisier,مساعد النجار
+27814,Ayudante de Mármol,Ajudante de Mármore,Aide marbrier,مساعد الرخام
+27822,Operario de Draga,Operador de Draga,Ouvrier de drague,عامل الكراكة
+27823,Oficial de Audiencias por Discapacidad,Oficial de Audiências de Deficiência,Officier d'audience pour handicap,ضابط جلسات الإعاقة
+27831,Bobinador e Inspector de Recuperación,Bobinador e Inspetor de Recuperação,Enrouleur et inspecteur de récupération,ملفّاف ومفتش الاستعادة
+27835,Consultor de Respuesta Directa,Consultor de Resposta Direta,Consultant en réponse directe,مستشار الاستجابة المباشرة
+27841,Consultor de Evaluación de Programas,Consultor de Avaliação de Programas,Consultant en évaluation de programmes,مستشار تقييم البرامج
+27842,Consultor de Ciclo de Ingresos,Consultor de Ciclo de Receitas,Consultant du cycle de revenus,مستشار دورة الإيرادات
+27843,Consultor de Unión Estudiantil,Consultor de União Estudantil,Consultant de l'union étudiante,مستشار اتحاد الطلبة
+27849,Coordinador de Programación de Revisiones,Coordenador de Agendamento de Revisões,Coordinateur de planification des revues,منسق جدولة المراجعات
+27863,Operario de Transportador de Cenizas,Operador de Transportador de Cinzas,Opérateur de convoyeur à cendres,مشغل ناقل الرماد
+27891,Operario-Propietario Dedicado,Operador-Proprietário Dedicado,Chauffeur propriétaire dédié,مالك مشغل مخصص
+27894,Operario Hincador de Postes,Operador de Cravação de Postes,Opérateur de pieux de clôture,عامل دق أعمدة السياج
+27895,Operario de Elevador de Dedos,Operador de Elevador de Dedos,Opérateur de levage à doigts,مشغل رافعة الأصابع
+27899,Operario de Cuatro Deslizadores,Operador de Quatro Deslizadores,Opérateur de quatre glissières,مشغل المنزلق الرباعي
+27902,Operario de Alta Velocidad,Operador de Alta Velocidade,Opérateur haute vitesse,مشغل السرعة العالية
+27905,Operario de Carro de Lingotes,Operador de Carro de Lingotes,Opérateur de chariot à lingots,مشغل عربة السبائك
+27909,Operario de Cortacésped,Operador de Corta-Relva,Opérateur de tondeuse,مشغل جزازة العشب
+27911,Operario de Baño de Matriz,Operador de Banho de Matriz,Opérateur de bain de matrice,مشغل حمام المصفوفة
+27922,Operario Encerador de Láminas,Operador de Encerador de Folhas,Opérateur de cireuse de feuilles,مشغل تشميع الصفائح
+27925,Ayudante de Instalador de Sistemas de Energía Solar,Ajudante de Instalador de Sistemas de Energia Solar,Aide installateur de systèmes solaires,مساعد فني تركيب أنظمة الطاقة الشمسية
+27928,Operario de Carro de Hornos,Operador de Carro de Fornos,Opérateur de chariot de four,مشغل عربة الأفران
+27930,Operario de Pala de Desbroce,Operador de Pá de Decapagem,Opérateur de pelle de découverture,مشغل جرافة الكشط
+27943,Transportista de Material,Transportador de Material,Transporteur de matériaux,ناقل المواد
+27945,Ayudante de Mantenimiento de Señales,Ajudante de Manutenção de Sinalização,Aide mainteneur de signalisation,مساعد صيانة الإشارات
+27946,Superintendente de Producción,Superintendente de Produção,Superintendant de production,مشرف الإنتاج
+27948,Director de Relaciones con Proveedores,Diretor de Relações com Fornecedores,Directeur des relations fournisseurs,مدير علاقات الموردين
+27952,Operario Automático de Alimentación,Operador Automático de Alimentação,Opérateur automatique d'alimentation,مشغل التغذية الآلية
+27954,Preparador de Máquina Automática,Preparador de Máquina Automática,Régleur de machine automatique,مجهّز الآلة الآلية
+27955,Operario de Prensa Automática,Operador de Prensa Automática,Opérateur de presse automatique,مشغل المكبس الآلي
+27957,Prácticas en Publicidad,Estágio em Publicidade,Stage en publicité,تدريب في الإعلان
+27962,Instructor de Habilidades,Formador de Competências,Formateur de compétences,مدرب المهارات
+27968,Auditor de Reclamaciones,Auditor de Sinistros,Auditeur des sinistres,مدقق المطالبات
+27969,Examinador de Audiencias,Examinador de Audiências,Examinateur d'audiences,فاحص الجلسات
+27970,Agente de Vigilancia,Agente de Vigilância,Agent de surveillance,وكيل المراقبة
+27971,Alimentador de Planificación,Alimentador de Planeamento,Alimentateur de planification,مغذي التخطيط
+27972,Rodillo Seco,Rolo Seco,Rouleau sec,درفيل جاف
+27977,Técnico de Procesamiento Central,Técnico de Processamento Central,Technicien de traitement central,فني المعالجة المركزية
+27983,Clasificador Empaquetador,Classificador Embalador,Trieur-emballeur,فارز ومعبئ
+27984,Operario de Sierra de Mobiliario para Hornos,Operador de Serra de Mobiliário de Fornos,Opérateur de scie à mobilier de four,مشغل منشار أثاث الأفران
+27986,Limpiador de Cocinas,Limpador de Cozedores,Nettoyeur de cuiseurs,عامل تنظيف الطباخات
+27987,Limpiador de Acabado,Limpador de Acabamento,Nettoyeur de finition,عامل تنظيف التشطيب
+27988,Limpiador de Bandejas,Limpador de Tachos,Nettoyeur de bacs,عامل تنظيف الأحواض
+27989,Procesador de Granos,Processador de Grãos,Transformateur de grains,معالج الحبوب
+27991,Operario de Apilado,Operador de Empilhamento,Opérateur d'empilement,عامل التكديس
+27992,Asociado de Analítica Avanzada,Associado de Análise Avançada,Employé d'analyse avancée,موظف التحليلات المتقدمة
+27993,Asociado de Fabricación Avanzada,Associado de Fabrico Avançado,Employé de fabrication avancée,موظف التصنيع المتقدم
+27995,Administrador de Compensación y Beneficios,Administrador de Remuneração e Benefícios,Administrateur de la rémunération et des avantages,مدير التعويضات والمزايا
+27997,Administrador de Beneficios de Recursos Humanos,Administrador de Benefícios de Recursos Humanos,Administrateur des avantages RH,مدير مزايا الموارد البشرية
+27998,Localizador,Localizador,Localisateur,المحدِّد
+27999,Cartelista,Cartazista,Affichiste,ملصق الإعلانات
+28000,Técnico de Psicología,Técnico de Psicologia,Technicien en psychologie,فني علم النفس
+28001,Verificador de Distribución Eléctrica,Verificador de Distribuição Elétrica,Contrôleur de distribution électrique,مفتش توزيع الكهرباء
+28002,Operario de Capas de Tacón,Operador de Camadas de Salto,Poseur de talons,عامل طبقات الكعب
+28003,Operario Cosedor de Tacón,Operador de Costura de Salto,Piqueur de talons,عامل خياطة الكعب
+28004,Operario Cosedor de Plástico,Operador de Costura de Plástico,Piqueur plastique,عامل خياطة البلاستيك
+28006,Líder de Servicio de Sucursal,Líder de Serviço de Sucursal,Responsable du service agence,قائد خدمة الفرع
+28011,Operario de Dibujo de Varillas de Fibra de Vidrio,Operador de Trefilagem de Varetas de Fibra de Vidro,Opérateur de tréfilage de tiges en fibre de verre,مشغل سحب قضبان الألياف الزجاجية
+28013,Operario de Máquina Dobladora de Aros,Operador de Máquina de Dobragem de Aros,Opérateur de machine à cintrer les cercles,مشغل آلة ثني الحلقات
+28014,Operario de Remachadora Hidráulica,Operador de Rebitadora Hidráulica,Opérateur de riveteuse hydraulique,مشغل مدقّة هيدروليكية
+28016,Operario Propietario de Transporte de Línea,Operador-Proprietário de Transporte de Linha,Chauffeur propriétaire longue distance,مالك مشغل نقل الخط الطويل
+28017,Operario de Cargadora de Carga y Vertido,Operador de Carregadora de Carga e Descarga,Opérateur de chargeuse-transporteuse,مشغل محمّلة النقل والتفريغ
+28018,Operario de Horno de Fusión,Operador de Forno de Fusão,Opérateur de four de fusion,مشغل فرن الصهر
+28021,Operario Perforador de Pozos de Petróleo,Operador Perfurador de Poços de Petróleo,Opérateur perforateur de puits de pétrole,مشغل مثقاب آبار النفط
+28022,Operario de Horno de Solera Abierta,Operador de Forno de Soleira Aberta,Opérateur de four Martin,مشغل فرن الموقد المفتوح
+28023,Operario Auxiliar de Pulverización de Pintura,Operador Auxiliar de Pulverização de Tinta,Aide opérateur de pulvérisation de peinture,عامل مساعد رش الدهان
+28027,Operario de Máquina Dobladora de Varillas,Operador de Máquina de Dobragem de Varetas,Opérateur de machine à cintrer les barres,مشغل آلة ثني القضبان
+28046,Empleado de Cierre Hipotecario,Empregado de Fecho de Hipotecas,Employé de clôture de prêt hypothécaire,موظف إغلاق الرهون العقارية
+28049,Empleado de Transporte Postal,Empregado de Transporte Postal,Employé du transport postal,موظف النقل البريدي
+28052,Técnico de Reproducción de Plantillas,Técnico de Reprodução de Gabaritos,Technicien de reproduction de gabarits,فني استنساخ القوالب
+28055,Operario de Absorción,Operador de Absorção,Opérateur d'absorption,مشغل الامتصاص
+28056,Redactor de Servicio de Automóviles,Redator de Serviço Automóvel,Rédacteur de services automobiles,كاتب خدمة السيارات
+28057,Operario de Máquina de Vigas,Operador de Máquina de Vigas,Opérateur de machine à poutres,مشغل آلة العوارض
+28058,Operario de Benceno,Operador de Benzeno,Opérateur de benzène,مشغل البنزين
+28059,Operario de Biselado,Operador de Chanfrado,Opérateur de chanfreinage,مشغل الشطف
+28061,Operario de Brocha,Operador de Brocha,Opérateur de brochage,مشغل التخريم
+28064,Operario de Carburo,Operador de Carboneto,Opérateur de carbure,مشغل الكربيد
+28066,Operario de Cloro,Operador de Cloro,Opérateur de chlore,مشغل الكلور
+28067,Operario de Cosechadora,Operador de Ceifeira-Debulhadora,Opérateur de moissonneuse-batteuse,مشغل حصادة الدراس
+28068,Operario de Copiadora,Operador de Fotocopiadora,Opérateur de photocopie,مشغل النسخ
+28069,Operario de Engarzadora,Operador de Engrenagem,Opérateur de sertissage,مشغل التكريز
+28070,Operario de Deshidrogenación,Operador de Desidrogenação,Opérateur de déshydrogénation,مشغل نزع الهيدروجين
+28071,Operario de Escalera Mecánica,Operador de Escada Rolante,Opérateur d'escalier mécanique,مشغل السلم المتحرك
+28074,Operario Flotante,Operador Flutuante,Opérateur polyvalent,مشغل متنقل
+28076,Operario de Getter,Operador de Getter,Opérateur de getter,مشغل المادة الممتصة
+28077,Operario de Cuchara,Operador de Pinça,Opérateur de benne preneuse,مشغل الكف
+28078,Operario de Ranurado,Operador de Ranhura,Opérateur de rainurage,مشغل التخديد
+28079,Operario de Inserción,Operador de Inserção,Opérateur d'insertion,مشغل الإدخال
+28081,Operario de Monorraíl,Operador de Monocarril,Opérateur de monorail,مشغل السكة الأحادية
+28083,Operario de Extracción de Escombros,Operador de Extração de Escombros,Opérateur d'extraction de déblais,مشغل إزالة الأنقاض
+28084,Operario de Para,Operador de Para,Opérateur de para,مشغل الباراسيتول
+28085,Operario de Precipitador,Operador de Precipitador,Opérateur de précipitateur,مشغل المرسّب
+28086,Operario de Pulpeadora,Operador de Desfibragem,Opérateur de pulpeur,مشغل الهراس
+28087,Operario de Bobinadora de Hilo,Operador de Bobinadora de Fio,Opérateur de bobinoir,مشغل ملفّاف الغزل
+28088,Operario de Refundición,Operador de Refusão,Opérateur de refusion,مشغل إعادة الصهر
+28089,Operario Repetidor,Operador Repetidor,Opérateur répétiteur,مشغل المكرر
+28090,Operario de Mechera,Operador de Mecheira,Opérateur de mèche,مشغل آلة الفتل المبدئي
+28091,Operario de Aceleradora,Operador de Acelerador,Opérateur de vitesse,مشغل آلة الفتل
+28093,Operario de Acabado Superficial,Operador de Acabamento de Superfície,Opérateur de surfaçage,مشغل تسوية الأسطح
+28095,Operario de Vibrador,Operador de Vibrador,Opérateur de vibreur,مشغل الهزاز
+28096,Ayudante de Operario de Máquina de Fundición,Ajudante de Operador de Máquina de Fundição,Aide opérateur de machine de coulée,مساعد مشغل آلة الصب
+28097,Ayudante de Operario de Rueda de Fundición,Ajudante de Operador de Roda de Fundição,Aide opérateur de roue de coulée,مساعد مشغل عجلة الصب
+28098,Conductor de Dinkey,Condutor de Dinkey,Conducteur de locotracteur,سائق الدينكي
+28099,Reparador Pesado,Reparador Pesado,Réparateur lourd,فني الإصلاح الثقيل
+28101,Conductor Observador,Condutor Observador,Chauffeur observateur,سائق المراقبة
+28104,Ayudante de Instalación de Baldosas de Madera,Ajudante de Instalação de Azulejos de Madeira,Aide poseur de carrelage en bois,مساعد تركيب البلاط الخشبي
+28105,Becario de Asuntos Regulatorios,Estagiário de Assuntos Regulatórios,Stagiaire en affaires réglementaires,متدرب الشؤون التنظيمية
+28106,Verificador de Terrenos,Verificador de Terrenos,Contrôleur de terrains,مفتش الأراضي
+28108,Mezclador de Soluciones,Misturador de Soluções,Mélangeur de solutions,خلاط المحاليل
+28115,Encargado de Correo,Encarregado de Correio,Manutentionnaire du courrier,موظف معالجة البريد
+28119,Empleado de Cuna,Empregado de Berço,Employé de berceau,موظف المهد
+28120,Empleado Editorial,Empregado Editorial,Employé éditorial,موظف التحرير
+28122,Empleado de Clasificación,Empregado de Classificação,Employé de classement,موظف التصنيف
+28123,Probador de Mangueras,Testador de Mangueiras,Testeur de tuyaux,فاحص الخراطيم
+28124,Empleado de Identificación,Empregado de Identificação,Employé d'identification,موظف التعريف
+28125,Probador de Mineral,Testador de Minério,Testeur de minerai,فاحص الخام
+28126,Operario Apilador de Placas,Operador Empilhador de Placas,Ouvrier d'empilage de plaques,عامل تكديس الألواح
+28128,Empleado de Etiquetas,Empregado de Etiquetas,Employé des étiquettes,موظف البطاقات
+28132,Operario de Relleno,Operador de Acolchoamento,Ouvrier de rembourrage,عامل الحشو
+28134,Auxiliar Quirúrgico Oftalmológico Certificado,Auxiliar Cirúrgico Oftalmológico Certificado,Assistant chirurgical ophtalmique certifié,مساعد جراحي للعيون معتمد
+28135,Auxiliar de Impresora de Revestimientos de Suelo,Auxiliar de Impressora de Revestimentos de Pavimento,Aide imprimeur de revêtements de sol,مساعد طابعة أغطية الأرضيات
+28137,Reparador de Puertas de Horno,Reparador de Portas de Forno,Réparateur de portes de four,فني إصلاح أبواب الأفران
+28138,Reparador Mecánico de Puertas,Reparador Mecânico de Portas,Réparateur mécanique de portes,فني إصلاح الأبواب الميكانيكية
+28139,Auxiliar de Impresora de Revestimientos de Suelo,Auxiliar de Impressora de Revestimentos de Pavimento,Assistant imprimeur de revêtements de sol,مساعد طابعة أغطية الأرضيات
+28146,Auxiliar de Higiene,Auxiliar de Higiene,Assistant en hygiène,مساعد النظافة
+28152,Auxiliar de Servicios de Nutrición,Auxiliar de Serviços de Nutrição,Aide aux services de nutrition,مساعد خدمات التغذية
+28154,Patrullero,Patrulheiro,Patrouilleur,دورية
+28156,Ajustador de Bolsas,Ajustador de Sacos,Régleur de sacs,فني ضبط الأكياس
+28157,Hombre de Carrocería y Bastidor,Homem de Carroçaria e Chassis,Carrossier et monteur de châssis,عامل الهيكل والإطار
+28158,Tirador de Cables,Puxador de Cabos,Tireur de câbles,عامل سحب الكابلات
+28159,Fabricante de Algodón de Azúcar,Fabricante de Algodão Doce,Fabricant de barbe à papa,صانع غزل البنات
+28160,Fabricante de Palos de Golf,Fabricante de Tacos de Golfe,Fabricant de clubs de golf,صانع مضارب الغولف
+28163,Representante de Seguridad Aérea,Representante de Segurança Aérea,Représentant de sûreté aérienne,ممثل أمن الطيران
+28170,Controlador Adjunto de Planta,Controlador Adjunto de Fábrica,Contrôleur adjoint d'usine,مراقب مساعد للمصنع
+28171,Controlador de Línea de Negocio,Controlador de Linha de Negócio,Contrôleur de ligne d'activité,مراقب خط الأعمال
+28172,Controlador de Unidad de Negocio,Controlador de Unidade de Negócio,Contrôleur d'unité commerciale,مراقب وحدة الأعمال
+28173,Controlador Profesional Certificado,Controlador Profissional Certificado,Contrôleur professionnel certifié,مراقب محترف معتمد
+28174,Controlador de Planta de Fabricación,Controlador de Fábrica de Fabrico,Contrôleur d'usine de fabrication,مراقب مصنع التصنيع
+28175,Controlador de Sala de Motores,Controlador de Sala de Motores,Contrôleur de salle des moteurs,مراقب غرفة المحركات
+28180,Diseñador de Techos,Designer de Coberturas,Concepteur de toitures,مصمم الأسقف
+28181,Diseñador de Armas,Designer de Armas,Concepteur d'armes,مصمم الأسلحة
+28182,Coordinador de Cuentas por Pagar y Nómina,Coordenador de Contas a Pagar e Folha de Pagamento,Coordinateur comptes fournisseurs et paie,منسق الحسابات الدائنة والرواتب
+28186,Fabricante de Paquetes,Fabricante de Embalagens,Fabricant de colis,صانع العبوات
+28187,Consejero Penitenciario,Conselheiro Prisional,Conseiller pénitentiaire,مستشار إصلاحي
+28188,Aprendiz de Reparador de Contadores Eléctricos,Aprendiz de Reparador de Contadores Elétricos,Apprenti réparateur de compteurs électriques,متدرب إصلاح العدادات الكهربائية
+28193,Operario de Máquina de Limpieza de Vidrio,Operador de Máquina de Limpeza de Vidro,Opérateur de machine de nettoyage du verre,مشغل آلة تنظيف الزجاج
+28194,Auxiliar de Imagen,Auxiliar de Imagem,Aide à l'imagerie,مساعد التصوير
+28198,Técnico de Inteligencia de Todas las Fuentes,Técnico de Inteligência de Todas as Fontes,Technicien du renseignement toutes sources,فني استخبارات جميع المصادر
+28208,Técnico de Máquinas Recreativas,Técnico de Máquinas Recreativas,Technicien de bornes d'arcade,فني أجهزة الألعاب
+28215,Técnico de Eco,Técnico de Eco,Technicien écho,فني الصدى
+28216,Técnico de Pruebas,Técnico de Provas,Technicien des preuves,فني الأدلة
+28219,Técnico de Tinta,Técnico de Tinta,Technicien encres,فني الحبر
+28222,Técnico de Mosaico,Técnico de Mosaico,Technicien mosaïste,فني الفسيفساء
+28230,Técnico de Almacenaje,Técnico de Armazenagem,Technicien d'entreposage,فني التخزين
+28236,Gerente de Servicios de Convenciones de Catering,Gestor de Serviços de Convenções de Catering,Responsable des services de congrès traiteur,مدير خدمات مؤتمرات التموين
+28237,Verificador de Limpieza en Seco,Verificador de Limpeza a Seco,Contrôleur de nettoyage à sec,مفتش التنظيف الجاف
+28241,Gerente de Cuentas de Empresa de Promociones,Gestor de Contas de Empresa de Promoções,Responsable de comptes d'agence promotionnelle,مدير حسابات شركة العروض الترويجية
+28243,Gerente de División de Energías Renovables,Gestor da Divisão de Energias Renováveis,Responsable de la division énergies renouvelables,مدير قسم الطاقات المتجددة
+28245,Mecánico de Equipos de Estaciones de Servicio,Mecânico de Equipamentos de Postos de Abastecimento,Mécanicien d'équipements de station-service,ميكانيكي معدات محطة الوقود
+28247,Líder de Merchandising,Líder de Merchandising,Responsable du merchandising,قائد التسويق بالمتجر
+28249,Ayudante de Constructor de Formas,Ajudante de Construtor de Formas,Aide constructeur de formes,مساعد صانع القوالب
+28250,Ayudante de Preparador de Formas,Ajudante de Preparador de Formas,Aide régleur de formes,مساعد مجهّز القوالب
+28251,Ayudante de Soplador de Vidrio,Ajudante de Soprador de Vidro,Aide souffleur de verre,مساعد نافخ الزجاج
+28252,Ayudante de Mecánico de Tractores,Ajudante de Mecânico de Tratores,Aide mécanicien de tracteurs,مساعد ميكانيكي الجرارات
+28253,Ayudante de Operario de Tractor,Ajudante de Operador de Trator,Aide conducteur de tracteur,مساعد مشغل الجرار
+28254,Inspector de Tela Base,Inspetor de Tecido Base,Inspecteur de tissu de base,مفتش القماش الأساسي
+28257,Inspector de Salas de Billar,Inspetor de Salões de Bilhar,Inspecteur de salles de billard,مفتش صالات البلياردو
+28258,Inspector de Paquetes de Asientos,Inspetor de Conjuntos de Assentos,Inspecteur de blocs de sièges,مفتش مجموعات المقاعد
+28259,Inspector de Relojes de Control de Horario,Inspetor de Relógios de Ponto,Inspecteur de pointeuses,مفتش ساعات تسجيل الدوام
+28260,Pulidor de Barriles,Polidor de Barris,Polisseur de barils,عامل تلميع البراميل
+28261,Examinador de Mercancías,Examinador de Mercadorias,Contrôleur de marchandises,فاحص البضائع
+28263,Aprendiz de Instalador de Ascensores,Aprendiz de Instalador de Elevadores,Apprenti installateur d'ascenseurs,متدرب فني تركيب المصاعد
+28264,Aprendiz de Mecánico de Ascensores,Aprendiz de Mecânico de Elevadores,Apprenti mécanicien d'ascenseurs,متدرب ميكانيكي المصاعد
+28265,Aprendiz de Reparador de Ascensores,Aprendiz de Reparador de Elevadores,Apprenti réparateur d'ascenseurs,متدرب فني إصلاح المصاعد
+28281,Clasificador de Latas,Classificador de Latas,Trieur de boîtes,فارز العلب
+28282,Ayudante de Máquina de Corte,Ajudante de Máquina de Corte,Aide machine de coupe,مساعد آلة القطع
+28285,Administrador de Campus,Administrador de Campus,Administrateur de campus,مدير الحرم الجامعي
+28287,Reparador de Equipos de Procesamiento Químico,Reparador de Equipamentos de Processamento Químico,Réparateur d'équipements de traitement chimique,فني إصلاح معدات المعالجة الكيميائية
+28289,Peón de Casas Móviles,Trabalhador de Casas Móveis,Manœuvre de maisons mobiles,عامل المنازل المتنقلة
+28291,Becario de Analítica de Negocios,Estagiário de Análise de Negócios,Stagiaire en analyse commerciale,متدرب تحليلات الأعمال
+28292,Bobinador de Núcleos,Bobinador de Núcleos,Enrouleur de noyaux,ملفّاف النوى
+28293,Becario de Marketing Internacional,Estagiário de Marketing Internacional,Stagiaire en marketing international,متدرب التسويق الدولي
+28295,Cortador de Aislamiento,Cortador de Isolamento,Découpeur d'isolant,قاطع العوازل
+28296,Portador de Carne,Carregador de Carne,Porteur de viande,حامل اللحوم
+28299,Enfermero Integrado,Enfermeiro Integrado,Infirmier intégré,ممرض مدمج
+28301,Operario de Rodillo de Tubos,Operador de Rolo de Tubos,Rouleur de tubes,عامل درفلة الأنابيب
+28302,Verificador de Caja,Verificador de Caixa,Contrôleur de caisse,مدقق النقدية
+28303,Acabador de Rollos,Acabador de Rolos,Finisseur de rouleaux,عامل تشطيب الرولات
+28307,Encargado de Arrendamiento,Encarregado de Arrendamento,Préposé à la location,موظف التأجير
+28311,Mantenimiento de Troqueles,Manutenção de Cunhos,Maintenance des matrices,صيانة القوالب
+28312,Ingeniero de Procesamiento de Señales Radar,Engenheiro de Processamento de Sinais Radar,Ingénieur de traitement du signal radar,مهندس معالجة إشارات الرادار
+28316,Líder de Diseño Visual,Líder de Design Visual,Responsable du design visuel,قائد التصميم البصري
+28317,Ingeniero de Soplado,Engenheiro de Sopragem,Ingénieur de soufflage,مهندس النفخ
+28320,Ingeniero de Certificación,Engenheiro de Certificação,Ingénieur certification,مهندس الاعتماد
+28322,Ingeniero de Demolición,Engenheiro de Demolição,Ingénieur de démolition,مهندس الهدم
+28323,Ingeniero de Izado,Engenheiro de Elevação,Ingénieur de levage,مهندس الرفع
+28325,Ingeniero de Hélices,Engenheiro de Hélices,Ingénieur d'hélices,مهندس المراوح
+28327,Ingeniero Inverso,Engenheiro Inverso,Ingénieur en rétro-ingénierie,مهندس الهندسة العكسية
+28328,Ingeniero de Normas,Engenheiro de Normas,Ingénieur normes,مهندس المعايير
+28340,Operario de Cocción,Operador de Cozedura,Surveillant de cuisson,عامل الطبخ
+28342,Empleado de Guardarropa,Empregado de Guarda-Roupa,Préposé au vestiaire,موظف المعاطف
+28346,Encargado de Muelle de Combustible,Encarregado de Cais de Combustível,Préposé au quai de carburant,موظف رصيف الوقود
+28347,Peón de Vivero,Trabalhador de Viveiro,Ouvrier de pépinière,عامل المشتل
+28349,Limpiador de Alfileres,Limpador de Pinos,Nettoyeur de broches,عامل تنظيف الدبابيس
+28350,Ayudante de Remachador,Ajudante de Rebitador,Aide riveteur,مساعد الرباط
+28352,Limpiador de Semillas,Limpador de Sementes,Nettoyeur de semences,عامل تنظيف البذور
+28356,Inspector de Clasificación,Inspetor de Classificação,Inspecteur de classement,مفتش التصنيف
+28357,Inspector de Clavijas,Inspetor de Cavilhas,Inspecteur de chevilles,مفتش الدسارات
+28359,Inspector de Fotografías,Inspetor de Fotografias,Inspecteur de photographies,مفتش الصور
+28360,Inspector de Jabón,Inspetor de Sabão,Inspecteur de savon,مفتش الصابون
+28361,Inspector de Soldadura,Inspetor de Soldadura,Inspecteur de soudure,مفتش اللحام
+28362,Inspector en Origen,Inspetor na Origem,Inspecteur à la source,مفتش المصدر
+28363,Fundador de Startup,Fundador de Startup,Fondateur de start-up,مؤسس شركة ناشئة
+28365,Inspector de Plantillas,Inspetor de Modelos,Inspecteur de gabarits,مفتش القوالب
+28366,Inspector de Dientes,Inspetor de Dentes,Inspecteur de dents,مفتش الأسنان
+28368,Oficial de Admisiones,Oficial de Admissões,Officier d'admission,ضابط القبول
+28379,Superintendente Municipal,Superintendente Municipal,Superintendant municipal,مشرف المدينة
+28383,Trabajador de Oficios de Instrumentos Electrónicos,Trabalhador de Ofícios de Instrumentos Eletrónicos,Ouvrier des métiers de l'instrumentation électronique,عامل حرف الأجهزة الإلكترونية
+28385,Trabajador de Servicio de Bandejas Hospitalarias,Trabalhador de Serviço de Tabuleiros Hospitalares,Agent de service des plateaux hospitaliers,عامل خدمة صواني المستشفى
+28387,Trabajador de Oficios de Fundición de Metales,Trabalhador de Ofícios de Fundição de Metais,Ouvrier des métiers de la fonderie,عامل حرف صب المعادن
+28389,Técnico Psiquiátrico,Técnico Psiquiátrico,Technicien en psychiatrie,فني الطب النفسي
+28393,Mecánico de Probadores Neumáticos,Mecânico de Testadores Pneumáticos,Mécanicien de bancs d'essai pneumatiques,ميكانيكي أجهزة الاختبار الهوائية
+28394,Mecánico de Impresoras Telegráficas,Mecânico de Impressoras Telegráficas,Mécanicien d'imprimantes télégraphiques,ميكانيكي الطابعات البرقية
+28403,Profesor de Nivel Intermedio,Professor de Nível Intermédio,Enseignant de niveau intermédiaire,معلم المرحلة المتوسطة
+28404,Profesor de Topografía,Professor de Topografia,Enseignant en topographie,معلم المساحة
+28408,Supervisor de Montaje de Correas y Eslabones,Supervisor de Montagem de Correias e Elos,Superviseur d'assemblage de courroies et maillons,مشرف تجميع الأحزمة والوصلات
+28409,Supervisor de Taller de Correas y Eslabones,Supervisor de Oficina de Correias e Elos,Superviseur d'atelier de courroies et maillons,مشرف ورشة الأحزمة والوصلات
+28411,Operario de Procesos de Plástico,Operador de Processos de Plástico,Opérateur de procédés plastiques,عامل عمليات البلاستيك
+28412,Acabador de Carrocerías,Acabador de Carroçarias,Finisseur de carrosserie,عامل تشطيب الهياكل
+28417,Instructor Atlético Clínico,Formador Atlético Clínico,Instructeur sportif clinique,مدرب رياضي سريري
+28422,Supervisor de Blanqueo de Tejidos,Supervisor de Branqueamento de Tecidos,Superviseur du blanchiment des tissus,مشرف تبييض الأقمشة
+28423,Supervisor de Trabajo en Frío,Supervisor de Trabalho a Frio,Superviseur du travail à froid,مشرف العمل على البارد
+28424,Supervisor de Ajuste de Fuerza,Supervisor de Ajuste de Força,Superviseur de réglage de force,مشرف ضبط القوة
+28433,Supervisor de Levadura Nutricional,Supervisor de Levedura Nutricional,Superviseur de levure nutritionnelle,مشرف الخميرة الغذائية
+28434,Supervisor de Marcado de Patrones,Supervisor de Marcação de Moldes,Superviseur de traçage de modèles,مشرف تعليم النماذج
+28437,Supervisor de Prospección Sísmica,Supervisor de Prospeção Sísmica,Superviseur de prospection sismique,مشرف المسح الزلزالي
+28447,Supervisor de Empleados de Extractos,Supervisor de Empregados de Extratos,Superviseur des employés de relevés,مشرف موظفي الكشوف
+28449,Supervisor de Reparación de Metro,Supervisor de Reparação do Metro,Superviseur de réparation du métro,مشرف إصلاح مترو الأنفاق
+28455,Representante de Circulación,Representante de Circulação,Représentant de diffusion,ممثل التوزيع
+28457,Representante de Reembolsos,Representante de Reembolsos,Représentant des remboursements,ممثل التعويضات
+28459,Clasificador de Pelo,Classificador de Peles,Trieur de fourrures,فارز الفراء
+28465,Consejero Principal,Conselheiro Principal,Conseiller principal,المستشار الرئيسي
+28467,Operario de Agujas,Operador de Agulhas,Régleur d'aiguilles,مجهّز الإبر
+28468,Operario de Pins,Operador de Pinos,Régleur de quilles,مجهّز الدبابيس
+28470,Especialista en Humo y Llamas,Especialista em Fumo e Chamas,Spécialiste fumées et flammes,أخصائي الدخان واللهب
+28473,Despachador de Vehículos a Motor,Despachante de Veículos a Motor,Répartiteur de véhicules à moteur,موزع المركبات الآلية
+28474,Formador Regional de Ventas,Formador Regional de Vendas,Formateur commercial régional,مدرب المبيعات الإقليمي
+28479,Líder de Acceso,Líder de Acesso,Responsable d'accès,قائد الوصول
+28484,Líder de QA,Líder de QA,Responsable QA,قائد ضمان الجودة
+28489,Agente de Planta de Granel,Agente de Depósito de Granel,Agent de dépôt en vrac,وكيل مستودع السائبات
+28491,Representante de Cuidados,Representante de Cuidados,Représentant soins,ممثل الرعاية
+28492,Representante de Centro,Representante de Centro,Représentant centre,ممثل المركز
+28493,Representante de Construcción,Representante de Construção,Représentant construction,ممثل البناء
+28494,Representante de Entregas,Representante de Entregas,Représentant livraisons,ممثل التوصيل
+28495,Representante de Desarrollo,Representante de Desenvolvimento,Représentant développement,ممثل التطوير
+28496,Representante de Educación,Representante de Educação,Représentant éducation,ممثل التعليم
+28497,Representante de Ingreso,Representante de Entrada,Représentant admissions,ممثل الإدخال
+28498,Representante de Campo,Representante de Campo,Représentant terrain,ممثل ميداني
+28499,Representante Financiero,Representante Financeiro,Représentant financier,ممثل مالي
+28501,Representante de Laboratorio,Representante de Laboratório,Représentant laboratoire,ممثل المختبر
+28502,Representante de Gestión,Representante de Gestão,Représentant gestion,ممثل الإدارة
+28503,Representante de Marketing,Representante de Marketing,Représentant marketing,ممثل التسويق
+28504,Representante de Oficina,Representante de Escritório,Représentant bureau,ممثل المكتب
+28505,Representante de Procesamiento,Representante de Processamento,Représentant traitement,ممثل المعالجة
+28506,Representante de Programa,Representante de Programa,Représentant programme,ممثل البرنامج
+28509,Representante de Calidad,Representante de Qualidade,Représentant qualité,ممثل الجودة
+28512,Representante de Seguridad,Representante de Segurança,Représentant sécurité,ممثل الأمن
+28513,Representante de Servicios,Representante de Serviços,Représentant services,ممثل الخدمات
+28518,Consultor de Ventas de Vehículos Nuevos,Consultor de Vendas de Veículos Novos,Conseiller commercial véhicules neufs,مستشار مبيعات السيارات الجديدة
+28519,Mezclador Manual,Misturador Manual,Manœuvre mélangeur,عامل الخلط
+28521,Fabricante de Pulpa,Fabricante de Polpa,Fabricant de pâte,صانع اللب
+28522,Fabricante de Válvulas,Fabricante de Válvulas,Fabricant de vannes,صانع الصمامات
+28525,Auxiliar de Parque,Auxiliar de Parque,Aide de parc,مساعد الحديقة
+28526,Personal de Servicios de Planta,Pessoal de Utilidades da Fábrica,Agent des utilités de l'usine,عامل مرافق المصنع
+28527,Fabricante de Airbags,Fabricante de Airbags,Monteur d'airbags,صانع وسائد الهواء
+28528,Ayudante de Operario de Locomotora,Ajudante de Operador de Locomotiva,Aide conducteur de locomotive,مساعد مشغل القاطرة
+28531,Ayudante de Limpieza de Alfombras,Ajudante de Limpeza de Tapetes,Aide au nettoyage de tapis,مساعد تنظيف السجاد
+28532,Ayudante de Cortador de Alfombras,Ajudante de Corte de Tapetes,Aide découpeur de tapis,مساعد قطع السجاد
+28533,Ayudante de Tintorero de Alfombras,Ajudante de Tintureiro de Tapetes,Aide teinturier de tapis,مساعد صباغ السجاد
+28534,Ayudante de Inspector de Alfombras,Ajudante de Inspetor de Tapetes,Aide inspecteur de tapis,مساعد مفتش السجاد
+28535,Ayudante de Estadal de Topografía,Ajudante de Mira de Topografia,Aide porte-mire,مساعد الجالون المساحي
+28536,Cortador de Tabaco,Cortador de Tabaco,Coupeur de tabac,قاطع التبغ
+28537,Becario de Comunicaciones Internas,Estagiário de Comunicação Interna,Stagiaire en communication interne,متدرب الاتصالات الداخلية
+28538,Becario de Marketing de Eventos,Estagiário de Marketing de Eventos,Stagiaire en marketing événementiel,متدرب تسويق الفعاليات
+28539,Becario de Planificación de Eventos,Estagiário de Planeamento de Eventos,Stagiaire en organisation d'événements,متدرب تخطيط الفعاليات
+28540,Reparador de Puentes,Reparador de Pontes,Réparateur de ponts,فني إصلاح الجسور
+28542,Probador de Baterías,Testador de Baterias,Testeur de batteries,فاحص البطاريات
+28543,Probador de Continuidad,Testador de Continuidade,Testeur de continuité,فاحص الاستمرارية
+28544,Probador de Motocicletas,Testador de Motociclos,Testeur de motos,فاحص الدراجات النارية
+28546,Supervisor de Jóvenes de Transporte Diurno,Supervisor de Jovens em Transporte Diurno,Surveillant de jeunes en transport de jour,مشرف الشباب في النقل النهاري
+28547,Supervisor de Servicios de Restauración del Hogar,Supervisor de Serviços de Restauro Doméstico,Superviseur des services de rénovation à domicile,مشرف خدمات ترميم المنازل
+28550,Operario de Pantallas,Operador de Ecrãs,Manutentionnaire d'écrans,عامل الشاشات
+28552,Supervisor de Ventas de Vehículos Usados,Supervisor de Vendas de Veículos Usados,Superviseur des ventes de véhicules d'occasion,مشرف مبيعات السيارات المستعملة
+28556,Recolector de Datos,Recolhedor de Dados,Collecteur de données,جامع البيانات
+28559,Recaudador Legal,Cobrador Jurídico,Recouvreur juridique,محصّل قانوني
+28561,Recaudador Médico,Cobrador Médico,Recouvreur médical,محصّل طبي
+28562,Recaudador de Impuestos,Cobrador de Impostos,Percepteur d'impôts,محصّل الضرائب
+28563,Supervisor de Cereales,Supervisor de Cereais,Superviseur des céréales,مشرف الحبوب
+28565,Limpiador y Pulidor,Limpador e Polidor,Nettoyeur et polisseur,عامل التنظيف والتلميع
+28566,Instructor de Curso,Formador de Curso,Formateur de cours,مدرب الدورة
+28567,Supervisor de Deshidrogenación,Supervisor de Desidrogenação,Superviseur de déshydrogénation,مشرف نزع الهيدروجين
+28568,Director de Servicios Financieros a Pacientes,Diretor de Serviços Financeiros a Doentes,Directeur des services financiers aux patients,مدير الخدمات المالية للمرضى
+28572,Supervisor de Metalizado,Supervisor de Metalização,Superviseur de métallisation,مشرف الطلاء المعدني
+28574,Supervisor de Precipitador,Supervisor de Precipitador,Superviseur de précipitateur,مشرف المرسّب
+28575,Supervisor de Escaneo,Supervisor de Digitalização,Superviseur de numérisation,مشرف المسح
+28576,Supervisor de Lomo,Supervisor de Lombada,Superviseur de dos,مشرف الظهر
+28577,Supervisor de Canteros,Supervisor de Canteiros,Superviseur de tailleurs de pierre,مشرف البنائين الحجريين
+28578,Supervisor de Agujas de Ferrocarril,Supervisor de Agulhas Ferroviárias,Superviseur d'aiguillage,مشرف المحوّلات
+28579,Supervisor de Cintado,Supervisor de Fita Adesiva,Superviseur de ruban adhésif,مشرف اللصق بالشريط
+28580,Supervisor de Impermeabilización,Supervisor de Impermeabilização,Superviseur d'étanchéité,مشرف العزل المائي
+28581,Mezclador de Caramelos,Misturador de Rebuçados,Mélangeur de bonbons,خلاط الحلوى
+28588,Asociado de Juego,Associado de Jogo,Employé des jeux,موظف الألعاب
+28589,Asociado de Hostelería,Associado de Hotelaria,Employé d'hôtellerie,موظف الضيافة
+28590,Asociado de Inmigración,Associado de Imigração,Employé de l'immigration,موظف الهجرة
+28593,Mantenimiento de Hornos,Manutenção de Fornos,Maintenance des fours,صيانة الأفران
+28594,Diseñador de Fontanería,Designer de Canalização,Concepteur de plomberie,مصمم السباكة
+28595,Ayudante de Prensa y Alimentador,Ajudante de Prensa e Alimentador,Aide presse et alimentateur,مساعد المكبس والمغذي
+28597,Auxiliar de Sala de Calor Seco,Auxiliar de Sala de Calor Seco,Préposé à la salle de séchage à chaleur sèche,مساعد غرفة التجفيف الحراري
+28598,Auxiliar de Sala de Secado de Alfombras,Auxiliar de Sala de Secagem de Tapetes,Préposé au séchage des tapis,مساعد غرفة تجفيف السجاد
+28601,Mecánico de Enmarcado,Mecânico de Enquadramento,Mécanicien d'encadrement,ميكانيكي التأطير
+28603,Mecánico de Radar,Mecânico de Radar,Mécanicien radar,ميكانيكي الرادار
+28604,Empleado Telefónico de Oficina Telegráfica,Empregado Telefónico de Escritório Telegráfico,Employé téléphonique de bureau télégraphique,موظف الهاتف في مكتب البرق
+28606,Analista de Contratación,Analista de Contratação,Analyste de contrats,محلل التعاقدات
+28609,Analista de Subvenciones,Analista de Subsídios,Analyste de subventions,محلل المنح
+28610,Analista HEDIS,Analista HEDIS,Analyste HEDIS,محلل HEDIS
+28612,Analista de Investigación,Analista de Investigação,Analyste d'enquêtes,محلل التحقيقات
+28615,Analista de Privacidad,Analista de Privacidade,Analyste de la vie privée,محلل الخصوصية
+28617,Analista de RFID,Analista de RFID,Analyste RFID,محلل RFID
+28621,Asistente de Ventas de Comida Rápida,Assistente de Vendas de Fast Food,Assistant commercial en restauration rapide,مساعد مبيعات الوجبات السريعة
+28623,Coordinador Clínico de Trasplantes,Coordenador Clínico de Transplantes,Coordinateur clinique de transplantation,منسق سريري لزراعة الأعضاء
+28629,Clasificador de Troncos,Classificador de Troncos,Trieur de grumes,فارز الجذوع
+28632,Coordinador de Adolescentes,Coordenador de Adolescentes,Coordinateur adolescents,منسق المراهقين
+28633,Coordinador de Adopciones,Coordenador de Adoções,Coordinateur des adoptions,منسق التبني
+28635,Coordinador de Higiene,Coordenador de Higiene,Coordinateur d'hygiène,منسق النظافة
+28636,Coordinador Perinatal,Coordenador Perinatal,Coordinateur périnatal,منسق الفترة المحيطة بالولادة
+28637,Coordinador de Conciliación,Coordenador de Conciliação,Coordinateur de rapprochement,منسق التسويات
+28638,Impresor de Cajas,Impressor de Caixas,Imprimeur de boîtes,طابع الصناديق
+28642,Impresor Jefe,Impressor Principal,Imprimeur principal,الطابع الرئيسي
+28643,Impresor de Máquina,Impressor de Máquina,Imprimeur machine,طابع الآلة
+28663,Ayudante de Operario de Tanque de Filtros,Ajudante de Operador de Tanque de Filtros,Aide opérateur de bac filtrant,مساعد مشغل خزان المرشحات
+28664,Director de Programas de Investigación Avanzada,Diretor de Programas de Investigação Avançada,Directeur des programmes de recherche avancée,مدير برامج البحث المتقدم
+28666,Cofundador y Director,Cofundador e Diretor,Cofondateur et directeur,المؤسس المشارك والمدير
+28667,Director de Programas de Bienestar Ejecutivo,Diretor de Programas de Bem-Estar Executivo,Directeur des programmes de bien-être des cadres,مدير برامج الرفاه التنفيذي
+28668,Director de Programas de Logística Integrada,Diretor de Programas de Logística Integrada,Directeur des programmes de logistique intégrée,مدير برامج اللوجستيات المتكاملة
+28669,Codirector de Terapia Ocupacional,Codiretor de Terapia Ocupacional,Codirecteur d'ergothérapie,المدير المشارك للعلاج الوظيفي
+28671,Director de Programas de Desarrollo de la Fuerza Laboral,Diretor de Programas de Desenvolvimento da Força de Trabalho,Directeur des programmes de développement des ressources humaines,مدير برامج تطوير القوى العاملة
+28672,Ayudante de Panadería,Ajudante de Padaria,Aide boulanger,مساعد المخبز
+28673,Máquina Plegadora de Telas,Máquina de Dobragem de Tecidos,Machine à plier les tissus,آلة طي الأقمشة
+28674,Ayudante de Aislantes,Ajudante de Isoladores,Aide isolateur,مساعد العوازل
+28675,Ayudante de Minería,Ajudante de Mineração,Aide mineur,مساعد التعدين
+28676,Ayudante de Yesero,Ajudante de Estucador,Aide plâtrier,مساعد الجبس
+28677,Director de País,Diretor de País,Directeur de pays,مدير الدولة
+28678,Director de Dependencia,Diretor de Dependência,Directeur de la dépendance,مدير الاعتماد
+28679,Director de Desastres,Diretor de Catástrofes,Directeur des catastrophes,مدير الكوارث
+28681,Director de Insights,Diretor de Insights,Directeur des insights,مدير الرؤى التحليلية
+28683,Director Perinatal,Diretor Perinatal,Directeur périnatal,مدير الفترة المحيطة بالولادة
+28685,Operario de Tablero,Operador de Painel,Coureur de planches,عامل الألواح
+28686,Limpiador de Botellas,Limpador de Garrafas,Nettoyeur de bouteilles,عامل تنظيف الزجاجات
+28687,Operario de Vagón,Operador de Vagão,Coureur de wagons,عامل العربات
+28689,Limpiador de Carcasas,Limpador de Caixas,Nettoyeur de boîtiers,عامل تنظيف الهياكل
+28690,Operario de Suelo,Operador de Piso,Coureur de sol,عامل الأرضيات
+28692,Operario de Bastidor,Operador de Estrutura,Coureur de cadres,عامل الإطارات
+28693,Verificador de Contadores de Gas,Verificador de Contadores de Gás,Contrôleur de compteurs à gaz,مفتش عدادات الغاز
+28695,Operario de Línea,Operador de Linha,Coureur de ligne,عامل الخط
+28696,Operario de Mezcladora,Operador de Misturadora,Coureur de mélangeur,عامل الخلاط
+28697,Operario de Molde,Operador de Molde,Coureur de moule,عامل القوالب
+28698,Operario de Motor,Operador de Motor,Coureur de moteur,عامل المحرك
+28700,Operario de Oficina,Operador de Escritório,Coursier de bureau,عامل المكتب
+28701,Operario de Pedidos,Operador de Pedidos,Coursier de commandes,عامل الطلبات
+28702,Operario de Piezas,Operador de Peças,Coursier de pièces,عامل القطع
+28703,Operario de Sierra,Operador de Serra,Coureur de scie,عامل المنشار
+28709,Ventas Externas,Vendas Externas,Ventes externes,المبيعات الخارجية
+28711,Recortador de Costura,Aparador de Costura,Ébarbeur de couture,مشذّب الخياطة
+28712,Recortador Húmedo,Aparador Húmido,Ébarbeur humide,مشذّب الطرف الرطب
+28715,Operario de Cinta Transportadora,Operador de Tapete,Convoyeur,عامل السير
+28717,Director de Servicios Dentales,Diretor de Serviços Dentários,Directeur des services dentaires,مدير الخدمات السنية
+28718,Procesador de Aves de Corral,Processador de Aves,Transformateur de volaille,معالج الدواجن
+28720,Aprendiz de Recortador de Ventanas,Aprendiz de Aparador de Janelas,Apprenti ébarbeur de fenêtres,متدرب مشذّب النوافذ
+28721,Operario Extractor de Puertas,Operador Extrator de Portas,Extracteur de portes,عامل سحب الأبواب
+28727,Especialista de Segmento Industrial,Especialista de Segmento Industrial,Spécialiste de segment industriel,أخصائي القطاع الصناعي
+28730,Especialista en Servicio de Préstamos,Especialista em Serviço de Empréstimos,Spécialiste de la gestion des prêts,أخصائي خدمة القروض
+28731,Especialista en Servicio Hipotecario,Especialista em Serviço Hipotecário,Spécialiste de la gestion des prêts hypothécaires,أخصائي خدمة الرهون العقارية
+28735,Especialista de Zona Minorista,Especialista de Zona Retalho,Spécialiste de zone commerciale,أخصائي المنطقة التجارية
+28741,Constructor de Bobinas,Construtor de Bobinas,Monteur de bobines,صانع الملفات
+28742,Administrador de CRM,Administrador de CRM,Administrateur CRM,مدير إدارة علاقات العملاء
+28743,Técnico de Rehabilitación,Técnico de Reabilitação,Technicien de rééducation,فني إعادة التأهيل
+28744,Administrador de Personal,Administrador de Pessoal,Administrateur du personnel,مدير شؤون التوظيف
+28748,Operario de Tanque de Distribución de Aceite,Operador de Tanque de Distribuição de Óleo,Opérateur de bac de distribution d'huile,مشغل خزان توزيع الزيت
+28750,Examinador de Rangos,Examinador de Alcances,Contrôleur de portées,فاحص المدى
+28751,Alimentador de Sierra,Alimentador de Serra,Alimentateur de scie,مغذي المنشار
+28752,Examinador Profesional,Examinador Profissional,Examinateur professionnel,فاحص التدريب المهني
+28761,Operario de Telesilla,Operador de Telecadeira,Préposé aux remontées mécaniques,عامل مصعد التزلج
+28762,Líder de Fabricación,Líder de Fabrico,Responsable de fabrication,قائد التصنيع
+28763,Líder de Búsqueda,Líder de Pesquisa,Responsable de recherche,قائد البحث
+28764,Verificador de Políticas,Verificador de Políticas,Contrôleur des politiques,مدقق السياسات
+28765,Consejero de Evaluación,Conselheiro de Avaliação,Conseiller en évaluation,مستشار التقييم
+28768,Oficial Nuclear de Personal,Oficial Nuclear do Pessoal,Officier nucléaire d'état-major,ضابط أسلحة نووية للأركان
+28769,Oficial de Ingeniería Eléctrica de Armas,Oficial de Engenharia Elétrica de Armas,Officier d'ingénierie électrique des armements,ضابط الهندسة الكهربائية للأسلحة
+28770,Lavador de Bolsas,Lavador de Sacos,Laveur de sacs,عامل غسل الأكياس
+28772,Conductor de Aro Inferior,Condutor de Aro Inferior,Conducteur de cercle inférieur,سائق الطوق السفلي
+28777,Conductor de Llave de Ajuste,Condutor de Chave de Ajuste,Conducteur de clé de réglage,سائق مفتاح الضبط
+28781,Operario de Altillo de Astillas,Operador de Sótão de Aparas,Ouvrier de grenier à copeaux,عامل علوية الرقائق
+28782,Operario de Cuadrilla de Cenizas,Operador de Equipa de Cinzas,Ouvrier d'équipe de cendres,عامل فريق الرماد
+28783,Operario de Foso de Cenizas,Operador de Fosso de Cinzas,Ouvrier de fosse à cendres,عامل حفرة الرماد
+28787,Operario de Rollo Gris,Operador de Rolo Cinzento,Ouvrier de rouleau gris,عامل الدرفيل الرمادي
+28788,Operario Jefe de Altillo,Operador Principal de Sótão,Chef ouvrier de grenier,كبير عمال العلوية
+28794,Ayudante de Descarga de Vagones,Ajudante de Descarga de Vagões,Aide au déchargement de wagons,مساعد تفريغ العربات
+28795,Ayudante de Calentador de Hornos,Ajudante de Aquecedor de Fornos,Aide chauffeur de four,مساعد تسخين الأفران
+28803,Empleado de Jornada por Día,Empregado Diário,Employé à la vacation,موظف يومي
+28806,Pintor de Tarjetas,Pintor de Cartões,Peintre de cartes,دهّان البطاقات
+28809,Auxiliar de Suministros Centrales,Auxiliar de Abastecimento Central,Aide aux approvisionnements centraux,مساعد الإمدادات المركزية
+28813,Director de Investigación Clínica,Diretor de Investigação Clínica,Directeur de la recherche clinique,مدير البحث السريري
+28815,Peón de Garaje,Trabalhador de Garagem,Manœuvre de garage,عامل الجراج
+28816,Gerente de Investigación Clínica,Gestor de Investigação Clínica,Responsable de la recherche clinique,مدير البحث السريري
+28817,Gerente de Investigación Operativa,Gestor de Investigação Operacional,Responsable de la recherche opérationnelle,مدير بحوث العمليات
+28819,Enfermero de Investigación Clínica,Enfermeiro de Investigação Clínica,Infirmier de recherche clinique,ممرض البحث السريري
+28820,Supervisor de Investigación,Supervisor de Investigação,Superviseur de recherche,مشرف البحث
+28821,Profesional de Administración,Profissional de Administração,Professionnel de l'administration,محترف الإدارة
+28823,Despachador de Mantenimiento,Despachante de Manutenção,Répartiteur de maintenance,موزع الصيانة
+28827,Inspector de Línea de Latas,Inspetor de Linha de Latas,Inspecteur de ligne de boîtes,مفتش خط العلب
+28829,Encargado de Retorno de Lavadora de Telas,Encarregado de Retorno de Lavadora de Tecidos,Opérateur arrière de laveuse de tissu,مشرف خلفي لغسالة الأقمشة
+28830,Experto en Atención al Cliente,Especialista em Clientes,Expert clientèle,خبير خدمة العملاء
+28835,Experto en Motores,Especialista em Motores,Expert moteurs,خبير المحركات
+28837,Experto en Operaciones,Especialista em Operações,Expert opérations,خبير العمليات
+28842,Experto en Ventas,Especialista em Vendas,Expert commercial,خبير المبيعات
+28845,Experto Técnico,Especialista Técnico,Expert technique,خبير تقني
+28846,Experto en Tráfico,Especialista em Tráfego,Expert en circulation,خبير المرور
+28848,Clasificador de Fundiciones,Classificador de Fundidos,Trieur de pièces moulées,فارز المسبوكات
+28854,Director de Servicios de Emergencia,Diretor de Serviços de Emergência,Directeur des services d'urgence,مدير خدمات الطوارئ
+28855,Acabador de Placas,Acabador de Placas,Finisseur de plaques,عامل تشطيب الألواح
+28860,Fabricante de Bóvedas,Fabricante de Cofres,Fabricant de chambres fortes,صانع الخزائن
+28862,Inspector de Máquinas de Escribir Automáticas,Inspetor de Máquinas de Escrever Automáticas,Inspecteur de machines à écrire automatiques,مفتش الآلات الكاتبة الآلية
+28863,Inspector de Portaescobillas,Inspetor de Porta-Escovas,Inspecteur de porte-balais,مفتش حوامل الفرش
+28866,Inspector de Botellas de Vino,Inspetor de Garrafas de Vinho,Inspecteur de bouteilles de vin,مفتش زجاجات النبيذ
+28867,Desarrollador de Planos,Desenvolvedor de Plantas,Développeur de plans,مطور المخططات
+28872,Cargador de Ferrocarril,Carregador Ferroviário,Chargeur ferroviaire,عامل تحميل السكك الحديدية
+28876,Auxiliar de Tina,Auxiliar de Tina,Préposé à la cuve,مساعد الحوض
+28877,Agente de Afianzamiento,Agente de Caução,Agent de cautionnement,وكيل الكفالة
+28880,Control de Calidad,Controlo de Qualidade,Contrôle qualité,مراقبة الجودة
+28888,Prácticas en Servicios Financieros,Estágio em Serviços Financeiros,Stage en services financiers,تدريب في الخدمات المالية
+28889,Prácticas en Información Sanitaria,Estágio em Informação de Saúde,Stage en information de santé,تدريب في المعلومات الصحية
+28890,Prácticas en Tecnologías de la Información,Estágio em Tecnologias de Informação,Stage en technologies de l'information,تدريب في تكنولوجيا المعلومات
+28893,Prácticas en Gestión de Productos,Estágio em Gestão de Produtos,Stage en gestion de produit,تدريب في إدارة المنتجات
+28894,Prácticas en Salud Pública,Estágio em Saúde Pública,Stage en santé publique,تدريب في الصحة العامة
+28895,Prácticas en Bienes Raíces,Estágio em Mediação Imobiliária,Stage en immobilier,تدريب في العقارات
+28896,Prácticas en Programas de Investigación,Estágio em Programas de Investigação,Stage en programmes de recherche,تدريب في برامج البحث
+28897,Prácticas en Soporte Técnico,Estágio em Apoio Técnico,Stage en support technique,تدريب في الدعم الفني
+28908,Gerente de Arboricultor Productor,Gestor de Arboricultor Produtor,Responsable arboriculteur producteur,مدير مزارع الأشجار المنتج
+28914,Gestor de Casos Telefónicos,Gestor de Casos Telefónico,Gestionnaire de dossiers téléphonique,مدير الحالات الهاتفي
+28920,Capitán de Bloque,Capitão de Quarteirão,Responsable d'îlot,قائد الكتلة السكنية
+28921,Mecánico de Carga de Prueba,Mecânico de Carga de Prova,Mécanicien d'essais de charge,ميكانيكي اختبار الحمولة
+28926,Formador Laboral,Formador Laboral,Formateur en emploi,مدرب العمالة
+28930,Clasificador de Bolsas,Classificador de Sacos,Trieur de sacs,فارز الأكياس
+28932,Capataz de Cuadrilla,Chefe de Equipa,Chef d'équipe,رئيس الفريق
+28934,Operario de Equipo de Purificación de Ácido,Operador de Equipamento de Purificação de Ácido,Opérateur d'équipement de purification d'acide,مشغل معدات تنقية الحمض
+28935,Operario de Máquina de Cable Blindado,Operador de Máquina de Cabo Blindado,Opérateur de machine de câble armé,مشغل آلة الكابلات المدرعة
+28943,Operario de Trituradora de Pienso para Perros,Operador de Trituradora de Ração para Cães,Opérateur de broyeur d'aliments pour chiens,مشغل مفتّت طعام الكلاب
+28944,Operario de Secadero de Tintes,Operador de Secador de Corantes,Opérateur de séchoir à colorants,مشغل مجفف الأصباغ
+28948,Operario de Máquina de Carga de Hornos,Operador de Máquina de Carregamento de Fornos,Opérateur de machine de chargement de four,مشغل آلة تحميل الفرن
+28949,Consultor de Jardinería,Consultor de Jardinagem,Conseiller jardinage,مستشار الحدائق
+28950,Operario de Máquina de Encolado,Operador de Máquina de Engomagem,Opérateur de machine d'encollage,مشغل آلة التجميد
+28951,Operario de Prensa de Lacado,Operador de Prensa de Laca,Opérateur de presse à laquer,مشغل مكبس الورنيش
+28953,Consultor de Alfabetización,Consultor de Literacia,Conseiller en alphabétisation,مستشار محو الأمية
+28954,Operario de Facturación de Larga Distancia,Operador de Faturação de Longa Distância,Opérateur de facturation interurbaine,مشغل فوترة المكالمات بعيدة المدى
+28956,Consultor de Mudanzas,Consultor de Mudanças,Conseiller déménagement,مستشار النقل والانتقال
+28962,Consultor de Transformación,Consultor de Transformação,Consultant en transformation,مستشار التحول
+28970,Becario de Estrategia Corporativa,Estagiário de Estratégia Corporativa,Stagiaire en stratégie d'entreprise,متدرب استراتيجية الشركات
+28975,Planificador de Atención Integral,Planeador de Cuidados Integrais,Planificateur de soins globaux,مخطط الرعاية الشاملة
+28978,Tecnólogo Cardíaco,Tecnólogo Cardíaco,Technologue cardiaque,فني تقنيات القلب
+28980,Empaquetador de Telas,Embalador de Tecidos,Emballeur de tissus,عامل تعبئة الأقمشة
+28982,Clasificador de Cuerpos de Sombrero,Classificador de Corpos de Chapéu,Trieur de corps de chapeaux,فارز أجسام القبعات
+28985,Operario de Horno Rotativo,Operador de Forno Rotativo,Opérateur de four rotatif,مشغل الفرن الدوار
+28995,Probador de Relés,Testador de Relés,Testeur de relais,فاحص المرحّلات
+28997,Verificador de Recepción,Verificador de Receção,Contrôleur de réception,مدقق الاستلام
+29000,Representante de Nuevas Cuentas,Representante de Novas Contas,Représentant de nouveaux comptes,ممثل الحسابات الجديدة
+29008,Manipulador de Calzado,Manipulador de Calçado,Manutentionnaire de chaussures,عامل مناولة الأحذية
+29009,Director de Clínica de Habla y Audición,Diretor de Clínica de Fala e Audição,Directeur de clinique de la parole et de l'audition,مدير عيادة النطق والسمع
+29012,Terapeuta Educativo,Terapeuta Educativo,Thérapeute éducatif,معالج تعليمي
+29016,Diseñador Ortopédico,Designer Ortopédico,Concepteur orthopédique,مصمم أجهزة تقويم العظام
+29017,Controlador de Obra,Controlador de Obra,Contrôleur de chantier,مراقب الموقع
+29019,Ejecutivo Principal de Distribución,Executivo Principal de Distribuição,Cadre supérieur de distribution,مدير توزيع رئيسي
+29022,Limpiador de Maquinaria,Limpador de Maquinaria,Nettoyeur de machines,عامل تنظيف الآلات
+29023,Ensamblador de Rodillos de Pintura,Montador de Rolos de Pintura,Assembleur de rouleaux de peinture,مجمّع أسطوانات الدهان
+29025,Técnico de Servicio Automotriz,Técnico de Serviço Automóvel,Technicien d'entretien automobile,فني خدمة السيارات
+29026,Técnico de Servicio de Automóviles,Técnico de Serviço de Automóveis,Technicien de service automobile,فني صيانة السيارات
+29028,Técnico de Servicio de Campo,Técnico de Serviço de Campo,Technicien de service sur site,فني الخدمة الميدانية
+29029,Técnico de Servicio Industrial,Técnico de Serviço Industrial,Technicien de service industriel,فني الخدمة الصناعية
+29030,Técnico de Servicio de Línea,Técnico de Serviço de Linha,Technicien de service de ligne,فني خدمة الخط
+29031,Técnico de Servicio de Reparación,Técnico de Serviço de Reparação,Technicien de service après-vente,فني خدمة الإصلاح
+29032,Becario de Química,Estagiário de Química,Stagiaire en chimie,متدرب في الكيمياء
+29035,Mezclador de Tintes,Misturador de Corantes,Mélangeur de colorants,خلاط الأصباغ
+29038,Mezclador de Arena,Misturador de Areia,Mélangeur de sable,خلاط الرمل
+29040,Operario de Tina de Tintorería,Operador de Cuba de Tinturaria,Ouvrier de cuve de teinturerie,عامل حوض المصبغة
+29043,Despachador de Comunicaciones Policiales,Despachante de Comunicações Policiais,Standardiste des communications policières,موزع اتصالات الشرطة
+29044,Despachador de Radio Policial,Despachante de Rádio Policial,Standardiste radio de police,موزع راديو الشرطة
+29051,Operario de Cabina,Operador de Cabina,Ouvrier de cabine,عامل المقصورة
+29052,Operario de Sala de Cardado,Operador de Sala de Cardagem,Ouvrier de salle de cardage,عامل قاعة التمشيط
+29053,Operario de Cromado,Operador de Cromagem,Ouvrier de chromage,عامل الطلاء بالكروم
+29054,Operario de Compuesto,Operador de Composto,Ouvrier de composé,عامل المركبات
+29055,Operario de Convenciones,Operador de Convenções,Ouvrier de congrès,عامل المؤتمرات
+29058,Operario de Explosivos,Operador de Explosivos,Ouvrier d'explosifs,عامل المتفجرات
+29059,Operario de Aterrizaje,Operador de Aterragem,Ouvrier d'atterrissage,عامل الهبوط
+29060,Operario de Lubricación,Operador de Lubrificação,Ouvrier de lubrification,عامل التزييت
+29061,Operario de Despojos,Operador de Miudezas,Ouvrier d'abats,عامل الأحشاء
+29062,Operario de Muelle,Operador de Cais,Ouvrier de quai,عامل الرصيف
+29063,Operario de Patio de Juegos,Operador de Parque Infantil,Ouvrier de cour de récréation,عامل الملاعب
+29064,Operario Tapador,Operador de Tampão,Ouvrier boucheur,عامل السد
+29066,Operario de Silo,Operador de Silo,Ouvrier de silo,عامل الصومعة
+29067,Operario de Patín,Operador de Patim,Ouvrier de patin,عامل الزلاجة
+29069,Jefe de División,Chefe de Divisão,Chef de division,رئيس القسم
+29070,Empaquetador de Hornos,Embalador de Fornos,Emballeur de fours,عامل تعبئة الأفران
+29075,Representante de Correspondencia,Representante de Correspondência,Représentant du courrier,ممثل المراسلات
+29076,Instalador de Paneles de Yeso,Instalador de Pladur,Installateur de cloisons sèches,فني تركيب ألواح الجبس
+29077,Instalador de Arneses,Instalador de Arneses,Installateur de faisceaux,فني تركيب الأحزمة
+29079,Operario de Freno Neumático,Homem do Travão Pneumático,Préposé aux freins pneumatiques,عامل الفرامل الهوائية
+29080,Pulidor de Cuero,Polidor de Couro,Polisseur de cuir,مجلّي الجلد
+29084,Líder de Grupo de Ensamblaje Electrónico,Líder de Grupo de Montagem Eletrónica,Chef d'équipe d'assemblage électronique,قائد مجموعة التجميع الإلكتروني
+29086,Operario de Alimentación de Marcos,Operador de Alimentação de Caixilhos,Alimentateur de cadres,مغذي الإطارات
+29087,Operario Bobinador de Guías,Operador Bobinador de Guias,Enrouleur de guides,ملفّاف الموجهات
+29091,Técnico de Escena del Crimen,Técnico de Cena do Crime,Technicien de scène de crime,فني مسرح الجريمة
+29092,Pesador y Mezclador,Pesador e Misturador,Peseur et mélangeur,موزن وخلاط
+29095,Ayudante de Comedor,Ajudante de Refeitório,Aide de salle à manger,مساعد قاعة الطعام
+29096,Ayudante de Mezcladora de Pienso,Ajudante de Misturadora de Ração,Aide mélangeur d'aliments,مساعد خلاط الأعلاف
+29097,Ayudante de Incubadora,Ajudante de Incubatório,Aide à l'écloserie,مساعد المفقس
+29098,Preparador de Prensa,Preparador de Prensa,Régleur de presse,مجهّز المكبس
+29101,Educador Químico,Educador Químico,Éducateur en chimie,مربٍّ في الكيمياء
+29102,Educador Clínico,Educador Clínico,Éducateur clinique,مربٍّ سريري
+29104,Educador de Desarrollo,Educador de Desenvolvimento,Éducateur au développement,مربٍّ للتطوير
+29106,Educador Familiar,Educador Familiar,Éducateur familial,مربٍّ أسري
+29107,Educador de Salud,Educador de Saúde,Éducateur en santé,مثقف صحي
+29112,Educador de Pacientes,Educador de Doentes,Éducateur de patients,مثقف المرضى
+29115,Educador de Personal,Educador de Pessoal,Éducateur du personnel,مدرب الكوادر
+29116,Educador de Unidad,Educador de Unidade,Éducateur d'unité,مربٍّ الوحدة
+29117,Persona de Contacto,Pessoa de Contacto,Personne-ressource,شخص الاتصال
+29119,Pintor de Patrones,Pintor de Modelos,Peintre de modèles,دهّان النماذج
+29123,Becario de Aprendizaje y Desarrollo,Estagiário de Aprendizagem e Desenvolvimento,Stagiaire en formation et développement,متدرب التعلم والتطوير
+29127,Instructor de Composición,Formador de Composição,Formateur en composition,مدرب التأليف
+29129,Empleado de Información de Arrendamiento de Terrenos,Empregado de Informação de Arrendamento de Terrenos,Employé d'information sur les baux fonciers,موظف معلومات إيجار الأراضي
+29131,Ajustador de Válvulas,Ajustador de Válvulas,Régleur de vannes,فني ضبط الصمامات
+29134,Asociado de Desarrollo de Ventas de Agencias,Associado de Desenvolvimento de Vendas de Agências,Employé de développement commercial en agence,موظف تطوير مبيعات الوكالات
+29135,Empleado de Fórmulas,Empregado de Fórmulas,Employé des formules,موظف الصيغ
+29136,Empleado de Microfilm,Empregado de Microfilme,Employé du microfilm,موظف الميكروفيلم
+29139,Empleado de Devoluciones,Empregado de Devoluções,Employé des retours,موظف المرتجعات
+29143,Asociado de Despacho,Associado de Despacho,Employé de dispatching,موظف التوزيع
+29145,Asociado de Verano,Associado de Verão,Employé saisonnier d'été,موظف الصيف
+29147,Auxiliar de Mostrador de Cafetería,Auxiliar de Balcão de Cafetaria,Préposé au comptoir de cafétéria,مساعد منضدة المقصف
+29148,Auxiliar de Mesas de Cafetería,Auxiliar de Mesas de Cafetaria,Préposé aux tables de cafétéria,مساعد طاولات المقصف
+29150,Auxiliar de Piso de Máquinas Tragaperras,Auxiliar de Piso de Slots,Préposé à la salle de machines à sous,مساعد صالة ماكينات القمار
+29151,Auxiliar de Sala de Apuestas Deportivas,Auxiliar de Sala de Apostas Desportivas,Préposé au tableau des paris sportifs,مساعد لوحة المراهنات الرياضية
+29152,Analista Supervisor de Aplicación de la Ley,Analista Supervisor de Aplicação da Lei,Analyste superviseur des forces de l'ordre,محلل مشرف لإنفاذ القانون
+29155,Asistente de Investigación,Assistente de Investigação,Assistant d'enquête,مساعد التحقيق
+29167,Médico de Cuidados Paliativos,Médico de Cuidados Paliativos,Médecin de soins palliatifs,طبيب الرعاية التلطيفية
+29168,Operario de Máquina de Banco de Trabajo,Operador de Máquina de Bancada,Opérateur de machine d'établi,مشغل آلة طاولة العمل
+29170,Operario Recogedor de Azulejos,Operador Recolhedor de Azulejos,Ramasseur de carreaux,عامل جمع البلاط
+29172,Becario de Mejora Continua,Estagiário de Melhoria Contínua,Stagiaire en amélioration continue,متدرب التحسين المستمر
+29173,Becario de Servicios Creativos,Estagiário de Serviços Criativos,Stagiaire en services créatifs,متدرب الخدمات الإبداعية
+29174,Becario de Experiencia del Cliente,Estagiário de Experiência do Cliente,Stagiaire en expérience client,متدرب تجربة العملاء
+29175,Aprendiz de Grabador,Aprendiz de Gravador,Apprenti graveur,متدرب النقش
+29176,Operario Extractor de Zapatos,Operador Extrator de Calçado,Extracteur de chaussures,عامل سحب الأحذية
+29177,Operario Extractor de Pozos,Operador Extrator de Poços,Extracteur de puits,عامل سحب الآبار
+29179,Enfermero de Transición,Enfermeiro de Transição,Infirmier de transition,ممرض الانتقال
+29180,Oficial de Municiones,Oficial de Munições,Officier des munitions,ضابط الذخيرة
+29182,Oficial de Registro de Detenidos,Oficial de Registo de Detidos,Officier de réception des détenus,ضابط تسجيل الموقوفين
+29183,Oficial de Clasificación,Oficial de Classificação,Officier de classement,ضابط التصنيف
+29186,Oficial de Pesquerías,Oficial de Pescas,Officier des pêches,ضابط المصايد
+29187,Atención al Paciente,Cuidados ao Doente,Soins aux patients,رعاية المرضى
+29188,Oficial de Restauración,Oficial de Restauro,Officier de restauration,ضابط الترميم
+29189,Fabricante de Lotes,Fabricante de Lotes,Fabricant de lots,صانع الدفعات
+29191,Consultor de Perspectivas de Clientes,Consultor de Insights de Clientes,Consultant en insights client,مستشار رؤى العملاء
+29194,Fabricante de Exhibidores,Fabricante de Expositores,Fabricant de présentoirs,صانع العروض
+29196,Administrador de Flota,Administrador de Frota,Gestionnaire de flotte,مدير الأسطول
+29213,Operario de Polimerización Ácida,Operador de Polimerização Ácida,Opérateur de polymérisation acide,مشغل البلمرة الحمضية
+29214,Operario de Sensores Acústicos,Operador de Sensores Acústicos,Opérateur de capteurs acoustiques,مشغل المستشعرات الصوتية
+29220,Operario Desmenuzador de Fardos,Operador Desfibrador de Fardos,Opérateur d'ouvre-balles,مشغل فك الرزم
+29236,Operario de Almohadilla de Desencolado,Operador de Almofada de Desengomagem,Opérateur de foulard de désencollage,مشغل وسادة إزالة التجميد
+29239,Operario de Pesaje de Tintes,Operador de Pesagem de Corantes,Opérateur de pesée de colorants,مشغل وزن الأصباغ
+29251,Operario de Terminal Keno,Operador de Terminal Keno,Opérateur de terminal Keno,مشغل طرفية الكينو
+29259,Operario No Acústico,Operador Não Acústico,Opérateur non acoustique,مشغل غير صوتي
+29280,Operario de Resina Sintética,Operador de Resina Sintética,Opérateur de résine synthétique,مشغل الراتنج الصناعي
+29288,Arquitecto de CRM,Arquiteto de CRM,Architecte CRM,مهندس معماري CRM
+29291,Cargador de Contratos,Carregador de Contratos,Chargeur de contrats,عامل تحميل العقود
+29292,Cargador de Troncos,Carregador de Troncos,Chargeur de grumes,عامل تحميل الجذوع
+29296,Pulidor e Inspector de Perdigones,Polidor e Inspetor de Chumbo,Polisseur et inspecteur de grenaille,مجلّي ومفتش الخرز
+29298,Peón de Servicios de Parcela de Casas Móviles,Trabalhador de Serviços de Parcela de Casas Móveis,Manœuvre de terrain de maisons mobiles,عامل خدمات قطعة المنازل المتنقلة
+29299,Procesador de Muestras,Processador de Amostras,Préparateur d'échantillons,معالج العينات
+29301,Inspector de Modificaciones,Inspetor de Alterações,Inspecteur des modifications,مفتش التعديلات
+29303,Investigador Jurídico Certificado,Investigador Jurídico Certificado,Enquêteur juridique certifié,محقق قانوني معتمد
+29304,Inspector de Chasis,Inspetor de Chassis,Inspecteur de châssis,مفتش الهيكل
+29305,Investigador de Pensión Alimenticia,Investigador de Pensão de Alimentos,Enquêteur de pensions alimentaires,محقق نفقة الأطفال
+29306,Inspector de Emisiones,Inspetor de Emissões,Inspecteur des émissions,مفتش الانبعاثات
+29307,Investigador de Tráfico de Campo,Investigador de Tráfego de Campo,Enquêteur de la circulation sur le terrain,محقق المرور الميداني
+29309,Inspector Gris,Inspetor Cinzento,Inspecteur gris,مفتش الرمادي
+29311,Investigador Médico-Legal,Investigador Médico-Legal,Enquêteur médico-légal,محقق طبي شرعي
+29312,Inspector de Humo,Inspetor de Fumo,Inspecteur de fumée,مفتش الدخان
+29313,Inspector de Toallas,Inspetor de Toalhas,Inspecteur de serviettes,مفتش المناشف
+29314,Inspector de Papel Pintado,Inspetor de Papel de Parede,Inspecteur de papiers peints,مفتش ورق الجدران
+29316,Inspector de Trigo,Inspetor de Trigo,Inspecteur de blé,مفتش القمح
+29319,Técnico de Quirófano,Técnico de Bloco Operatório,Technicien de bloc opératoire,فني غرفة العمليات
+29324,Operario de Capas de Mercancías,Operador de Camadas de Mercadorias,Poseur de marchandises,عامل تكديس البضائع
+29330,Operario de Lanzadera,Operador de Lançadeira,Ouvrier de navette,عامل المكوك
+29331,Conductor de Escenario,Condutor de Palco,Chauffeur de scène,سائق المسرح
+29334,Operario de Cadena,Operador de Corrente,Porteur de chaîne,عامل السلسلة
+29351,Director de Servicios Farmacéuticos,Diretor de Serviços Farmacêuticos,Directeur des services pharmaceutiques,مدير الخدمات الصيدلانية
+29352,Operario de Alimentación de Recogida,Operador de Alimentação de Recolha,Alimentateur de cueillette,مغذي الالتقاط
+29355,Montador de Señales,Montador de Sinalização,Monteur de signalisation,فني تركيب الإشارات
+29357,Reclutador Hospitalario,Recrutador Hospitalar,Recruteur hospitalier,مجنّد المستشفيات
+29361,Profesor de Escritura Creativa,Professor de Escrita Criativa,Enseignant en écriture créative,معلم الكتابة الإبداعية
+29365,Profesor de Auxiliares de Nutrición,Professor de Auxiliares de Nutrição,Enseignant d'aides en nutrition,معلم مساعدي التغذية
+29367,Profesor de Auxiliares Psiquiátricos,Professor de Auxiliares Psiquiátricos,Enseignant d'aides en psychiatrie,معلم مساعدي الطب النفسي
+29369,Profesor de Auxiliares Quirúrgicos,Professor de Auxiliares Cirúrgicos,Enseignant d'aides chirurgicaux,معلم مساعدي الجراحة
+29375,Técnico Forense Médico,Técnico Forense Médico,Technicien médico-légal,فني الطب الشرعي
+29381,Operario de Tina,Operador de Cuba,Opérateur de cuve,عامل الحوض
+29384,Líder de Grupo de Aseguramiento de Calidad,Líder de Grupo de Garantia da Qualidade,Responsable de groupe assurance qualité,قائد مجموعة ضمان الجودة
+29402,Profesor de Histología,Professor de Histologia,Enseignant en histologie,معلم علم الأنسجة
+29403,Profesor de Higiene,Professor de Higiene,Enseignant en hygiène,معلم النظافة
+29409,Mecánico de Compuestos,Mecânico de Compósitos,Mécanicien de composites,ميكانيكي المركبات
+29412,Recortador de Chapas,Aparador de Folheados,Ébarbeur de placage,مشذّب القشرة الخشبية
+29416,Representante de Admisiones de Escuela Secundaria,Representante de Admissões do Ensino Secundário,Représentant des admissions au lycée,ممثل قبول المرحلة الثانوية
+29417,Limpiador de Alambiques,Limpador de Alambiques,Nettoyeur d'alambic,عامل تنظيف المقطّر
+29418,Limpiador de Tiras,Limpador de Tiras,Nettoyeur de bandes,عامل تنظيف الشرائط
+29419,Ayudante de Proceso de Frutos Secos,Ajudante de Processamento de Frutos Secos,Aide au traitement des fruits à coque,مساعد معالجة المكسرات
+29420,Cortador de Encuadernación,Cortador de Encadernação,Coupeur de reliure,قاطع التجليد
+29421,Director Jefe de Puerto,Diretor-Chefe do Porto,Directeur en chef du port,المدير الرئيسي للميناء
+29422,Director de Éxito de Clientes,Diretor de Sucesso de Clientes,Directeur de la réussite client,مدير نجاح العملاء
+29426,Director de Puerto de Aduanas,Diretor do Porto Aduaneiro,Directeur de port douanier,مدير الميناء الجمركي
+29432,Director de Estudios al Aire Libre,Diretor de Estudos ao Ar Livre,Directeur des études en plein air,مدير الدراسات الخارجية
+29435,Director de Actividades Religiosas,Diretor de Atividades Religiosas,Directeur des activités religieuses,مدير الأنشطة الدينية
+29438,Cortador de Cinta,Cortador de Fita,Coupeur de ruban,قاطع الشريط
+29442,Superintendente de Sistemas de Distribución,Superintendente de Sistemas de Distribuição,Superintendant des systèmes de distribution,مشرف أنظمة التوزيع
+29443,Asesor de Admisiones,Conselheiro de Admissões,Conseiller aux admissions,مستشار القبول
+29444,Bobinador Trasero,Bobinador Traseiro,Enrouleur arrière,ملفّاف خلفي
+29446,Coach Académico,Treinador Académico,Coach académique,مدرب أكاديمي
+29447,Coach Pedagógico,Treinador Pedagógico,Coach pédagogique,مدرب تعليمي
+29448,Cirujano Jefe,Cirurgião-Chefe,Chirurgien en chef,كبير الجراحين
+29449,Consultor de Ventas de Diseño de Baños,Consultor de Vendas de Design de Casas de Banho,Conseiller commercial en aménagement de salles de bains,مستشار مبيعات تصميم الحمامات
+29452,Tendedor de Cables,Assentador de Cabos,Poseur de câbles,عامل مد الكابلات
+29454,Supervisor de Mantenimiento Cualificado de Aeropuerto,Supervisor de Manutenção Qualificada de Aeroporto,Superviseur de maintenance qualifiée aéroportuaire,مشرف الصيانة الماهرة في المطار
+29457,Especialista en Mando y Control,Especialista em Comando e Controlo,Spécialiste commandement et contrôle,أخصائي القيادة والسيطرة
+29458,Superintendente de Cuidados Paliativos,Superintendente de Cuidados Paliativos,Superintendant des soins palliatifs,مشرف الرعاية التلطيفية
+29459,Superintendente de Buque,Superintendente de Navio,Superintendant de navire,مشرف السفن
+29463,Especialista en Disputas,Especialista em Litígios,Spécialiste des litiges,أخصائي النزاعات
+29464,Especialista en Endocrinología,Especialista em Endocrinologia,Spécialiste en endocrinologie,أخصائي الغدد الصماء
+29465,Especialista en Excel,Especialista em Excel,Spécialiste Excel,أخصائي Excel
+29466,Asociado de Alimentos y Bebidas,Associado de Alimentos e Bebidas,Employé restauration et boissons,موظف الأغذية والمشروبات
+29469,Especialista en Lubricación,Especialista em Lubrificação,Spécialiste en lubrification,أخصائي التزييت
+29471,Especialista en Gestión,Especialista em Gestão,Spécialiste en management,أخصائي الإدارة
+29472,Especialista en Migración,Especialista em Migração,Spécialiste des migrations,أخصائي الهجرة
+29473,Especialista en Obstetricia y Ginecología,Especialista em Obstetrícia e Ginecologia,Spécialiste en gynécologie-obstétrique,أخصائي أمراض النساء والتوليد
+29476,Especialista en Proteínas,Especialista em Proteínas,Spécialiste des protéines,أخصائي البروتينات
+29477,Especialista en Reposición,Especialista em Reposição,Spécialiste du réassort,أخصائي إعادة التخزين
+29478,Operario de Transferencia,Operador de Transferência,Transférenciste,عامل النقل
+29479,Especialista en UM,Especialista em UM,Spécialiste UM,أخصائي وحدة المراجعة
+29480,Especialista en Vacunas,Especialista em Vacinas,Spécialiste des vaccins,أخصائي اللقاحات
+29482,Becario de Biología,Estagiário de Biologia,Stagiaire en biologie,متدرب في علم الأحياء
+29483,Inspector Final y Probador,Inspetor Final e Testador,Inspecteur final et testeur,المفتش النهائي والفاحص
+29484,Médico de Salud Laboral,Médico de Saúde Ocupacional,Médecin du travail,طبيب الصحة المهنية
+29485,Médico de Medicina Laboral,Médico de Medicina do Trabalho,Médecin de médecine du travail,طبيب طب العمل
+29486,Becario de Psicología,Estagiário de Psicologia,Stagiaire en psychologie,متدرب في علم النفس
+29487,Ensamblador de Fábrica,Montador de Fábrica,Assembleur d'usine,مجمّع المصنع
+29490,Probador de Baños,Testador de Banhos,Testeur de bains,فاحص الحمامات
+29494,Reclutador Global,Recrutador Global,Recruteur mondial,مجنّد عالمي
+29495,Probador de Tejido de Punto,Testador de Malha,Testeur de tricot,فاحص الحياكة
+29498,Probador de Postes,Testador de Postes,Testeur de poteaux,فاحص الأعمدة
+29499,Clasificador de Aves de Corral,Classificador de Aves,Calibreur de volaille,مصنّف الدواجن
+29500,Aprendiz de Modelista de Madera,Aprendiz de Modelista de Madeira,Apprenti modeleur sur bois,متدرب صانع نماذج الخشب
+29504,Auxiliar de Fuente,Auxiliar de Fonte,Préposé à la fontaine,مساعد النافورة
+29505,Auxiliar de Central Eléctrica,Auxiliar de Central Elétrica,Préposé à la centrale électrique,مساعد محطة الطاقة
+29506,Señalero,Sinaleiro,Signaleur,المرشد الإشاري
+29508,Verificador de Inventario,Verificador de Inventário,Contrôleur d'inventaire,مدقق المخزون
+29510,Verificador de Empaquetado,Verificador de Embalagem,Contrôleur de conditionnement,مدقق التعبئة
+29514,Mecánico de Campo de Golf,Mecânico de Campo de Golfe,Mécanicien de golf,ميكانيكي ملعب الغولف
+29515,Preparador de Martillos,Preparador de Martelos,Régleur de marteaux,مجهّز المطارق
+29518,Mecánico de Motos Acuáticas,Mecânico de Motos de Água,Mécanicien de jet-ski,ميكانيكي الدراجات المائية
+29521,Preparador de Cizallas,Preparador de Guilhotinas,Régleur de cisailles,مجهّز المقصات
+29523,Manipulador de Granos,Manipulador de Grãos,Manutentionnaire de grains,عامل مناولة الحبوب
+29525,Ayudante de Reparador de Máquinas de Coser,Ajudante de Reparador de Máquinas de Costura,Aide réparateur de machines à coudre,مساعد إصلاح آلات الخياطة
+29530,Ayudante de Empalmador,Ajudante de Emendador,Aide épissureur,مساعد الوصل
+29532,Ayudante de Tratador,Ajudante de Tratamento,Aide traiteur,مساعد المعالج
+29533,Inspector de Tratamiento de Madera,Inspetor de Tratamento de Madeira,Inspecteur de traitement du bois,مفتش معالجة الخشب
+29534,Pulidor de Correas,Polidor de Correias,Polisseur de courroies,مجلّي الأحزمة
+29536,Pulidor Superior,Polidor Superior,Polisseur de dessus,مجلّي العلوي
+29537,Ayudante de Operario de Máquina de Serigrafía,Ajudante de Operador de Máquina de Serigrafia,Aide opérateur de machine de sérigraphie,مساعد مشغل آلة الطباعة بالشاشة
+29538,Auxiliar de Actividades,Auxiliar de Atividades,Aide aux activités,مساعد الأنشطة
+29541,Auxiliar de Rehabilitación,Auxiliar de Reabilitação,Aide à la réadaptation,مساعد التأهيل
+29544,Líder Regulatorio Global,Líder Regulatório Global,Responsable réglementaire mondial,قائد الشؤون التنظيمية العالمية
+29545,Líder de Ventas Internas,Líder de Vendas Internas,Responsable des ventes sédentaires,قائد المبيعات الداخلية
+29550,Auxiliar de Servicio al Huésped,Auxiliar de Serviço ao Hóspede,Assistant d'accueil client,مساعد خدمة الضيوف
+29557,Empleado de Pesos y Barras de Prueba,Empregado de Pesos e Barras de Teste,Employé des poids et barres d'essai,موظف الأوزان وقضبان الاختبار
+29559,Director de Ingeniería,Diretor de Engenharia,Directeur d'ingénierie,مدير الهندسة
+29574,Miembro del Equipo de Servicio Corporal,Membro da Equipa de Serviço Corporal,Membre de l'équipe de services corporels,عضو فريق خدمات الجسم
+29579,Auxiliar de Tratamiento de Almidón,Auxiliar de Tratamento de Amido,Assistant de traitement de l'amidon,مساعد معالجة النشا
+29582,Tecnólogo de Rendimiento Certificado,Tecnólogo de Desempenho Certificado,Technologue de performance certifié,تقني أداء معتمد
+29583,Tecnólogo de Desempeño Humano,Tecnólogo de Desempenho Humano,Technologue de la performance humaine,تقني الأداء البشري
+29584,Reclutador de Estudiantes,Recrutador de Estudantes,Recruteur d'étudiants,مجنّد الطلاب
+29585,Acabador de Láminas,Acabador de Folhas,Finisseur de feuilles,عامل تشطيب الصفائح
+29586,Cargador de Ácido,Carregador de Ácido,Chargeur d'acide,عامل تحميل الحمض
+29587,Cortador de Cemento,Cortador de Cimento,Découpeur de ciment,قاطع الإسمنت
+29588,Procesador de Contratos,Processador de Contratos,Gestionnaire de contrats,معالج العقود
+29589,Procesador de Hipotecas,Processador de Hipotecas,Gestionnaire de prêts hypothécaires,معالج الرهون العقارية
+29590,Gerente de Práctica de Ortesista Certificado,Gestor de Prática de Ortesista Certificado,Responsable de cabinet d'orthésiste certifié,مدير عيادة أخصائي التقويم المعتمد
+29591,Gerente de Servicios Dietéticos Kosher,Gestor de Serviços Dietéticos Kosher,Responsable des services diététiques casher,مدير الخدمات الغذائية الكوشير
+29597,Educador de Vida,Educador de Vida,Éducateur de vie,مربي الحياة
+29598,Gerente de Matadero,Gestor de Matadouro,Responsable d'abattoir,مدير المسلخ
+29602,Gerente de Finalización,Gestor de Conclusão,Responsable de finalisation,مدير الإنجاز
+29603,Gerente de Finalizaciones,Gestor de Conclusões,Responsable des finalisations,مدير الإنجاز
+29606,Gerente de Costos,Gestor de Custos,Responsable des coûts,مدير التكاليف
+29608,Gerente de EVS,Gestor de EVS,Responsable EVS,مدير خدمات البيئة والتنظيف
+29609,Gerente Geoquímico,Gestor Geoquímico,Responsable géochimique,مدير الجيوكيمياء
+29610,Gerente de HIMS,Gestor de HIMS,Responsable HIMS,مدير نظام معلومات إدارة المستشفيات
+29611,Gerente de Licencias,Gestor de Licenças,Responsable des congés,مدير الإجازات
+29615,Gerente de CN,Gestor de CN,Responsable CN,مدير التحكم العددي
+29616,Gerente de Perianestesia,Gestor de Perianestesia,Responsable de périanesthésie,مدير الرعاية المحيطة بالتخدير
+29618,Gerente Suplementario,Gestor Suplementar,Responsable des suppléments,مدير المكملات
+29620,Gerente de Tutorías,Gestor de Explicações,Responsable du tutorat,مدير الدروس الخصوصية
+29627,Mecánico de Campo,Mecânico de Campo,Mécanicien de terrain,ميكانيكي ميداني
+29632,Mecánico de Laboratorio,Mecânico de Laboratório,Mécanicien de laboratoire,ميكانيكي المختبر
+29635,Gerente de Montaje,Gestor de Montagem,Responsable d'assemblage,مدير التجميع
+29638,Montaje Médico,Montagem Médica,Assemblage médical,التجميع الطبي
+29643,Mecánico de Radio,Mecânico de Rádio,Mécanicien radio,ميكانيكي الراديو
+29647,Asesor de Admisiones,Consultor de Admissões,Conseiller aux admissions,مستشار القبول
+29669,Becario de Marketing en Internet,Estagiário de Marketing Digital,Stagiaire en marketing internet,متدرب التسويق عبر الإنترنت
+29672,Enfermero de Flujo,Enfermeiro de Fluxo,Infirmier de flux,ممرض التدفق
+29673,Profesor de Salud y Acondicionamiento,Professor de Saúde e Fitness,Professeur de santé et fitness,أستاذ الصحة واللياقة البدنية
+29677,Conductor de Eventos Especiales,Condutor de Eventos Especiais,Chauffeur d'événements spéciaux,سائق الفعاليات الخاصة
+29680,Reparador de Mantenimiento General,Reparador de Manutenção Geral,Réparateur polyvalent de maintenance,فني الصيانة العامة
+29683,Ayudante de Perforador de Diamante,Ajudante de Perfurador de Diamante,Aide foreur au diamant,مساعد حفار الماس
+29685,Ayudante de Museo de Transporte,Ajudante de Museu de Transportes,Aide au musée des transports,مساعد متحف النقل
+29688,Oficial de Evaluación de Quejas,Oficial de Avaliação de Reclamações,Officier d'évaluation des plaintes,ضابط تقييم الشكاوى
+29689,Supervisor de Levadura Comprimida,Supervisor de Levedura Comprimida,Superviseur de levure compressée,مشرف الخميرة المضغوطة
+29691,Operario de Compuerta,Operador de Comporta,Gardien de vanne,عامل البوابة
+29693,Supervisor de Tratamiento Térmico,Supervisor de Tratamento Térmico,Superviseur de traitement thermique,مشرف المعالجة الحرارية
+29698,Supervisor de Rampa de Repostaje,Supervisor de Rampa de Reabastecimento,Superviseur de l'aire de ravitaillement,مشرف منصة التزود بالوقود
+29700,Operario de Cizalla,Operador de Tesoura,Opérateur de cisaille,عامل المقص
+29701,Supervisor de Corte de Pizarra,Supervisor de Corte de Ardósia,Superviseur de fendage d'ardoise,مشرف تقطيع الألواح الحجرية
+29702,Operario de Alambique,Operador de Alambique,Opérateur d'alambic,عامل المقطّر
+29703,Supervisor de Inspección de Vías,Supervisor de Inspeção de Via,Superviseur d'inspection des voies,مشرف تفتيش السكك
+29704,Supervisor de Mecanografía,Supervisor de Dactilografia,Superviseur du pool de dactylographie,مشرف قسم الطباعة
+29706,Empleado de Lista de Materiales,Empregado de Lista de Materiais,Employé de nomenclature,موظف قائمة المواد
+29707,Arquitecto de Escritorio,Arquiteto de Desktop,Architecte de postes de travail,مهندس معماري لسطح المكتب
+29710,Arquitecto de Implementación,Arquiteto de Implementação,Architecte de mise en œuvre,مهندس معماري للتنفيذ
+29712,Empleado de Mantenimiento de Vía,Empregado de Manutenção de Via,Employé de maintenance des voies,موظف صيانة السكك
+29716,Empleado de Cobro de Facturas de Servicios,Empregado de Cobrança de Faturas de Serviços,Employé de recouvrement des factures de services,موظف تحصيل فواتير الخدمات
+29717,Coordinador de Autorizaciones,Coordenador de Autorizações,Coordinateur des autorisations,منسق التفويضات
+29719,Coordinador de Alta,Coordenador de Alta,Coordinateur de sortie,منسق الخروج
+29723,Coordinador HEDIS,Coordenador HEDIS,Coordinateur HEDIS,منسق HEDIS
+29725,Prácticas en Recursos Humanos,Estágio em Recursos Humanos,Stage en ressources humaines,تدريب في الموارد البشرية
+29726,Coordinador de Humanidades,Coordenador de Humanidades,Coordinateur en sciences humaines,منسق العلوم الإنسانية
+29729,Coordinador de Aislamiento Térmico,Coordenador de Isolamento Térmico,Coordinateur de la rénovation énergétique,منسق تحسين العزل الحراري
