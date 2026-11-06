@@ -2,8 +2,9 @@
 // Docs: https://developer.rocket.chat/apidocs
 
 export class RocketChat {
-  constructor({ url, userId, token }) {
+  constructor({ url, userId, token, maxCallsPerEndpoint = Infinity }) {
     this.url = url.replace(/\/+$/, '');
+    this.maxCallsPerEndpoint = maxCallsPerEndpoint;
     this.headers = {
       'X-User-Id': userId,
       'X-Auth-Token': token,
@@ -13,9 +14,18 @@ export class RocketChat {
 
   // Requests made so far; the sync stops before Cloudflare's per-run limit.
   calls = 0;
+  // Requests per endpoint this run. Rocket.Chat rate-limits each endpoint per user
+  // (by default 10 calls a minute), so the sync paces itself below that.
+  perEndpoint = {};
+  limited = new Set();
 
-  async get(path, params = {}, attempt = 0) {
+  canCall(path) {
+    return !this.limited.has(path) && (this.perEndpoint[path] || 0) < this.maxCallsPerEndpoint;
+  }
+
+  async get(path, params = {}) {
     this.calls++;
+    this.perEndpoint[path] = (this.perEndpoint[path] || 0) + 1;
     const qs = new URLSearchParams(
       Object.entries(params).filter(([, v]) => v !== undefined && v !== null)
     ).toString();
@@ -31,11 +41,12 @@ export class RocketChat {
       throw new Error(`${path} → ${this.url} not reachable (${why})`);
     }
     if (res.status === 429) {
-      // Rate limited: wait and retry twice, then give up until the next run.
-      if (attempt >= 2) throw new Error(`${path} → rate limited by Rocket.Chat, retrying next run`);
-      const wait = Number(res.headers.get('x-ratelimit-reset')) - Date.now();
-      await sleep(Math.min(Math.max(wait || 2000, 1000), 10000));
-      return this.get(path, params, attempt + 1);
+      // Rate limited: stop using this endpoint for the rest of the run; the caller
+      // keeps what it has and continues next run.
+      this.limited.add(path);
+      const err = new Error(`${path} → rate limited by Rocket.Chat`);
+      err.rateLimited = true;
+      throw err;
     }
     const body = await res.json().catch(() => ({}));
     if (!res.ok || body.success === false) {
@@ -59,9 +70,12 @@ export class RocketChat {
   }
 
   // History endpoint depends on room type: c = channel, p = private group, d = DM.
+  historyPath(room) {
+    return `${{ c: 'channels', p: 'groups', d: 'im' }[room.t] || 'channels'}.history`;
+  }
+
   history(room, oldest, latest, count = 100) {
-    const endpoint = { c: 'channels', p: 'groups', d: 'im' }[room.t] || 'channels';
-    return this.get(`${endpoint}.history`, { roomId: room._id, oldest, latest, count });
+    return this.get(this.historyPath(room), { roomId: room._id, oldest, latest, count });
   }
 
   // One message by id, used to title a thread card with its first message.

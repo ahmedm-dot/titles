@@ -32,6 +32,8 @@ INCLUDE_GROUP_MENTIONS = "false"
 # Free plan: max 50 outbound requests per run. The sync stops at 45 and continues next
 # minute (new rooms, and any unread stretch of a very busy room), so nothing is skipped.
 MAX_REQUESTS_PER_POLL = "45"
+# Rocket.Chat allows ~10 calls a minute per endpoint per user by default; stay under it.
+MAX_CALLS_PER_ENDPOINT = "8"
 MAX_ROOMS_PER_POLL = "40"
 MAX_PAGES_PER_ROOM = "5"
 

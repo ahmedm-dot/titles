@@ -34,6 +34,8 @@ export function readConfig(env) {
     maxRoomsPerPoll: Number(env.MAX_ROOMS_PER_POLL || Infinity),
     maxPagesPerRoom: Number(env.MAX_PAGES_PER_ROOM || 10),
     maxRequests: Number(env.MAX_REQUESTS_PER_POLL || Infinity),
+    // Rocket.Chat's default rate limit is 10 calls a minute per endpoint.
+    maxCallsPerEndpoint: Number(env.MAX_CALLS_PER_ENDPOINT || Infinity),
   };
 }
 
@@ -80,7 +82,7 @@ export async function pollOnce(state, cfg) {
       if (subs.has(r._id) && r.lm) queue.set(r._id, { _id: r._id, t: r.t, name: r.name, fname: r.fname, lm: toISO(r.lm) });
     }
     const due = [...queue.values()].filter((r) => r.lm > (state.roomCursors[r._id] || lookback));
-    const stats = { since: lookback, roomsKnown: subs.size, roomsChanged: queue.size, roomsDue: due.length, roomsRead: 0, messagesRead: 0, requests: 0 };
+    const stats = { since: lookback, roomsKnown: subs.size, roomsChanged: queue.size, roomsDue: due.length, roomsRead: 0, messagesRead: 0, requests: 0, skipped: [] };
     state.pendingRooms = [];
     let roomsRead = 0;
     const hasRoom = () => roomsRead < cfg.maxRoomsPerPoll && budgetLeft() >= 2;
@@ -91,18 +93,32 @@ export async function pollOnce(state, cfg) {
       }
     };
 
-    // 1. New messages, newest first.
+    // 1. New messages, newest first. A room that can't be read this run (request
+    //    budget or Rocket.Chat's rate limit) waits for the next run, cursor unchanged.
     for (const room of due) {
       const sub = subs.get(room._id);
       if (!sub) continue;
-      if (!hasRoom()) {
+      if (!hasRoom() || !rc.canCall(rc.historyPath(room))) {
+        state.pendingRooms.push(room);
+        continue;
+      }
+      prepareRoom(room, sub);
+      const cursor = state.roomCursors[room._id] || lookback;
+      let res;
+      try {
+        res = await fetchBetween(rc, room, cursor, undefined, cfg.maxPagesPerRoom, budgetLeft);
+      } catch (err) {
+        // A room we can't read (no access, deleted…) is skipped rather than blocking the rest.
+        stats.skipped.push(`${room.displayName || room._id}: ${err.message}`);
+        state.roomCursors[room._id] = room.lm;
+        continue;
+      }
+      if (!res.started) {
         state.pendingRooms.push(room);
         continue;
       }
       roomsRead++;
-      prepareRoom(room, sub);
-      const cursor = state.roomCursors[room._id] || lookback;
-      const { messages, complete, oldestRead } = await fetchBetween(rc, room, cursor, undefined, cfg.maxPagesPerRoom, budgetLeft);
+      const { messages, complete, oldestRead } = res;
       stats.roomsRead++;
       stats.messagesRead += messages.length;
       await readAll(messages, room, sub);
@@ -118,14 +134,25 @@ export async function pollOnce(state, cfg) {
         state.gaps = state.gaps.filter((g) => g !== gap);
         continue;
       }
-      roomsRead++;
       const room = prepareRoom({ ...gap.room }, sub);
-      const { messages, complete, oldestRead } = await fetchBetween(rc, room, gap.from, gap.to, cfg.maxPagesPerRoom, budgetLeft);
-      await readAll(messages, room, sub);
-      if (complete) state.gaps = state.gaps.filter((g) => g !== gap);
-      else gap.to = oldestRead;
+      if (!rc.canCall(rc.historyPath(room))) continue;
+      let res;
+      try {
+        res = await fetchBetween(rc, room, gap.from, gap.to, cfg.maxPagesPerRoom, budgetLeft);
+      } catch (err) {
+        stats.skipped.push(`${room.displayName || room._id}: ${err.message}`);
+        state.gaps = state.gaps.filter((g) => g !== gap);
+        continue;
+      }
+      if (!res.started) continue;
+      roomsRead++;
+      stats.messagesRead += res.messages.length;
+      await readAll(res.messages, room, sub);
+      if (res.complete) state.gaps = state.gaps.filter((g) => g !== gap);
+      else gap.to = res.oldestRead;
     }
 
+    stats.rateLimited = [...rc.limited];
     wakeSnoozed(state, changed);
     stats.requests = rc.calls;
     state.lastStats = stats;
@@ -153,8 +180,16 @@ const minimalRoom = (r) => ({ _id: r._id, t: r.t, name: r.name, fname: r.fname }
 async function fetchBetween(rc, room, oldest, latest, maxPages, budgetLeft) {
   const out = [];
   let complete = false;
-  for (let page = 0; page < maxPages && budgetLeft() > 0; page++) {
-    const { messages = [] } = await rc.history(room, oldest, latest);
+  let started = false;
+  for (let page = 0; page < maxPages && budgetLeft() > 0 && rc.canCall(rc.historyPath(room)); page++) {
+    let messages;
+    try {
+      ({ messages = [] } = await rc.history(room, oldest, latest));
+    } catch (err) {
+      if (err.rateLimited) break; // keep what we have; the rest follows next run
+      throw err;
+    }
+    started = true;
     out.push(...messages);
     if (messages.length < 100) {
       complete = true;
@@ -166,7 +201,7 @@ async function fetchBetween(rc, room, oldest, latest, maxPages, budgetLeft) {
   const sorted = out
     .filter((m) => !seen.has(m._id) && seen.add(m._id))
     .sort((a, b) => toISO(a.ts).localeCompare(toISO(b.ts)));
-  return { messages: sorted, complete, oldestRead: sorted.length ? toISO(sorted[0].ts) : latest };
+  return { messages: sorted, complete, started, oldestRead: sorted.length ? toISO(sorted[0].ts) : latest };
 }
 
 // ---------- conversation cards ----------
@@ -278,7 +313,7 @@ async function handleMessage(state, cfg, rc, msg, before, room, sub, changed, bu
   // New conversation. A thread is titled by its first message.
   let title = msg.msg;
   let root = null;
-  if (msg.tmid && budgetLeft() > 0) {
+  if (msg.tmid && budgetLeft() > 0 && rc.canCall('chat.getMessage')) {
     root = await rc.message(msg.tmid).catch(() => null);
     if (root?.msg) title = root.msg;
   }
