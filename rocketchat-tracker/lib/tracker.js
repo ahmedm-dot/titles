@@ -80,6 +80,7 @@ export async function pollOnce(state, cfg) {
       if (subs.has(r._id) && r.lm) queue.set(r._id, { _id: r._id, t: r.t, name: r.name, fname: r.fname, lm: toISO(r.lm) });
     }
     const due = [...queue.values()].filter((r) => r.lm > (state.roomCursors[r._id] || lookback));
+    const stats = { since: lookback, roomsKnown: subs.size, roomsChanged: queue.size, roomsDue: due.length, roomsRead: 0, messagesRead: 0, requests: 0 };
     state.pendingRooms = [];
     let roomsRead = 0;
     const hasRoom = () => roomsRead < cfg.maxRoomsPerPoll && budgetLeft() >= 2;
@@ -102,6 +103,8 @@ export async function pollOnce(state, cfg) {
       prepareRoom(room, sub);
       const cursor = state.roomCursors[room._id] || lookback;
       const { messages, complete, oldestRead } = await fetchBetween(rc, room, cursor, undefined, cfg.maxPagesPerRoom, budgetLeft);
+      stats.roomsRead++;
+      stats.messagesRead += messages.length;
       await readAll(messages, room, sub);
       if (!complete) state.gaps.push({ rid: room._id, from: cursor, to: oldestRead, room: minimalRoom(room) });
       state.roomCursors[room._id] = messages.length ? toISO(messages.at(-1).ts) : room.lm;
@@ -124,6 +127,8 @@ export async function pollOnce(state, cfg) {
     }
 
     wakeSnoozed(state, changed);
+    stats.requests = rc.calls;
+    state.lastStats = stats;
     state.lastPoll = startedAt;
     state.error = null;
   } catch (err) {
@@ -435,6 +440,7 @@ export function publicState(state, cfg, extra = {}) {
     lastPoll: state.lastPoll,
     error: state.error,
     aiError: state.aiError || null,
+    lastStats: state.lastStats || null,
     pending: (state.pendingRooms || []).length + (state.gaps || []).length,
     rcUrl: cfg.url.replace(/\/+$/, ''),
     pollSeconds: cfg.pollSeconds,
