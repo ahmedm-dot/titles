@@ -13,7 +13,7 @@ const SCHEMA = [
   'CREATE TABLE IF NOT EXISTS cards (id TEXT PRIMARY KEY, data TEXT NOT NULL)',
   'CREATE TABLE IF NOT EXISTS meta (key TEXT PRIMARY KEY, value TEXT NOT NULL)',
 ];
-const META_KEYS = ['me', 'roomCursors', 'pendingRooms', 'lastPoll', 'error', 'aiError'];
+const META_KEYS = ['me', 'roomCursors', 'pendingRooms', 'gaps', 'lastPoll', 'error', 'aiError', 'generation'];
 
 async function ensureSchema(db) {
   await db.batch(SCHEMA.map((sql) => db.prepare(sql)));
@@ -35,6 +35,10 @@ const putCard = (db, card) =>
   db.prepare('INSERT INTO cards (id, data) VALUES (?1, ?2) ON CONFLICT(id) DO UPDATE SET data = ?2').bind(card.id, JSON.stringify(card));
 
 async function saveSync(db, state, changedIds, removedIds) {
+  // A reset or rebuild starts a new generation. A sync that began before it (the
+  // every-minute run, say) must not write its stale bookmarks over the fresh start.
+  const stored = await db.prepare("SELECT value FROM meta WHERE key = 'generation'").first();
+  if ((stored ? JSON.parse(stored.value) : null) !== (state.generation ?? null)) return false;
   const stmts = [
     ...META_KEYS.map((k) =>
       db.prepare('INSERT INTO meta (key, value) VALUES (?1, ?2) ON CONFLICT(key) DO UPDATE SET value = ?2').bind(k, JSON.stringify(state[k] ?? null))
@@ -43,17 +47,30 @@ async function saveSync(db, state, changedIds, removedIds) {
     ...removedIds.map((id) => db.prepare('DELETE FROM cards WHERE id = ?1').bind(id)),
   ];
   await db.batch(stmts);
+  return true;
+}
+
+// Writes a new generation so in-flight syncs from before the reset/rebuild are discarded.
+async function newGeneration(db, state) {
+  state.generation = Date.now();
+  await db.prepare("INSERT INTO meta (key, value) VALUES ('generation', ?1) ON CONFLICT(key) DO UPDATE SET value = ?1")
+    .bind(JSON.stringify(state.generation)).run();
 }
 
 async function sync(env, { fresh = false, wipe = false, resummarize = false, aiMax = 6 } = {}) {
   const cfg = readConfig(env);
+  let state;
   if (wipe) {
     await ensureSchema(env.DB);
     await env.DB.batch([env.DB.prepare('DELETE FROM cards'), env.DB.prepare('DELETE FROM meta')]);
+    state = emptyState();
+    await newGeneration(env.DB, state);
+  } else {
+    state = await loadState(env.DB);
   }
-  const state = await loadState(env.DB);
   if (fresh) {
     const gone = rebuild(state);
+    await newGeneration(env.DB, state);
     if (gone.length) await env.DB.batch(gone.map((id) => env.DB.prepare('DELETE FROM cards WHERE id = ?1').bind(id)));
   }
   const changed = await pollOnce(state, cfg);
