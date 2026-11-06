@@ -1,1 +1,3 @@
 __pycache__/
+.venv_numbers/
+data/numbers_import/
