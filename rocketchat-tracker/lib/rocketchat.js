@@ -14,18 +14,28 @@ export class RocketChat {
   // Requests made so far; the sync stops before Cloudflare's per-run limit.
   calls = 0;
 
-  async get(path, params = {}) {
+  async get(path, params = {}, attempt = 0) {
     this.calls++;
     const qs = new URLSearchParams(
       Object.entries(params).filter(([, v]) => v !== undefined && v !== null)
     ).toString();
-    const res = await fetch(`${this.url}/api/v1/${path}${qs ? `?${qs}` : ''}`, {
-      headers: this.headers,
-    });
+    let res;
+    try {
+      // Never wait forever on a slow or unreachable server.
+      res = await fetch(`${this.url}/api/v1/${path}${qs ? `?${qs}` : ''}`, {
+        headers: this.headers,
+        signal: AbortSignal.timeout(20000),
+      });
+    } catch (err) {
+      const why = err.name === 'TimeoutError' ? 'no answer within 20 s' : err.message;
+      throw new Error(`${path} → ${this.url} not reachable (${why})`);
+    }
     if (res.status === 429) {
+      // Rate limited: wait and retry twice, then give up until the next run.
+      if (attempt >= 2) throw new Error(`${path} → rate limited by Rocket.Chat, retrying next run`);
       const wait = Number(res.headers.get('x-ratelimit-reset')) - Date.now();
-      await sleep(Math.min(Math.max(wait || 2000, 1000), 30000));
-      return this.get(path, params);
+      await sleep(Math.min(Math.max(wait || 2000, 1000), 10000));
+      return this.get(path, params, attempt + 1);
     }
     const body = await res.json().catch(() => ({}));
     if (!res.ok || body.success === false) {
