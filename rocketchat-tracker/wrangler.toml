@@ -23,7 +23,7 @@ database_name = "chat-tracker"
 database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
 
 [vars]
-RC_URL = "https://rc1.infrozix.com"
+RC_URL = "https://rc.khushiponton.com"
 POLL_SECONDS = "60"
 LOOKBACK_HOURS = "48"
 WATCH_KEYWORDS = "requirement,urgent,asap,blocker"
